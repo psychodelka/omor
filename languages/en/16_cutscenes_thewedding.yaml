@@ -1,0 +1,468 @@
+# =========================================================================================
+# Cutscene: Sweetheart's Wedding
+# =========================================================================================
+ 
+#Trigger: Enter SWEETHEART'S CASTLE ENTRANCE.
+ 
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Nareszcie udało nam się wydostać!\kel
+ 
+#KEL LOOKS AROUND
+ 
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Wow, o co chodzi z tymi dekoracjami?\kel
+ 
+#AUBREY looks at KEL.
+ 
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Wygląda na to, że ktoś bierze ślub!\aub
+ 
+#HERO looks to the side and is surprised.
+ 
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Ups! Zaraz się zacznie!\!<br>Chować się!\her
+ 
+#Party hides.
+#Camera pans to stage.
+ 
+message_4:
+      text: Witamy! Witamy!\n<KIEŁKUN MIKOŁAJ>
+ 
+message_5:
+      text: Dzisiaj jest wyjątkowo ważny dzień.\n<KIEŁKUN MIKOŁAJ>
+ 
+message_6:
+      text: Po czterdziestu dwóch sezonach <br>\"POSZUKIWAŃ WYBRANKA SŁODZIUTKIEJ\"...\!<br>Nadszedł czas na odcinek finałowy.\n<KIEŁKUN MIKOŁAJ>
+ 
+#Audience awwws.
+ 
+message_7:
+      text: To...\! chlip...\! takie piękne wspomnienia...\! chlip...\!<br>Dziękuję wszystkim za oglądanie.\n<KIEŁKUN MIKOŁAJ>
+ 
+message_9:
+      text: Przez ten cały czas...\!<br>szukaliśmy najlepszego z najlepszych partnerów dla naszej ukochanej SŁODZIUTKIEJ...\n<KIEŁKUN MIKOŁAJ>
+ 
+message_10:
+      text: I niestety... za każdym razem...\!<br>SŁODZIUTKA nie była w stanie zaznać prawdziwej miłości.\n<KIEŁKUN MIKOŁAJ>
+ 
+message_11:
+      text: Lecz tym razem jesteśmy pewni...\!<br>że zdecydowanie przeszliśmy samych siebie.\n<KIEŁKUN MIKOŁAJ>
+ 
+message_12:
+      text: Oto przed wami...\! koniec końców...\!<br>Historia...\! zaczyna się właśnie teraz.\n<KIEŁKUN MIKOŁAJ>
+ 
+message_13:
+      text: Światła, proszę...\n<KIEŁKUN MIKOŁAJ>
+ 
+#Lights dim.
+ 
+message_8:
+      text: \{NIECH ZACZNIE SIĘ FINAŁOWY ODCINEK!\n<KIEŁKUN MIKOŁAJ>
+ 
+message_14:
+      text: \{\Com[2]ROZPOCZNIJMY ZAŚLUBINY!!\n<KIEŁKUN MIKOŁAJ>
+ 
+#Curtain opens, revealing Sprout Mole Choir singing for SWEETHEART's WEDDING.
+ 
+message_15:
+      text: Prosimy powitać przed ołtarzem...\!<br>\{\Com[2]IDEALNEGO WYBRANKA SŁODZIUTKIEJ!!\n<KIEŁKUN MIKOŁAJ>
+ 
+#Camera pans to end of aisle. SWEETHEART bursts from a cake at the end of the aisle.
+#Audience gasps.
+#Camera pans to SMM.
+#SMM jumps.
+ 
+message_16:
+      text: Tak! Zgadza się!\!<br>Teraz widzieliście już wszystko!\n<KIEŁKUN MIKOŁAJ>
+ 
+message_17:
+      text: Odpowiedź była oczywista od samego początku!\n<KIEŁKUN MIKOŁAJ>
+ 
+message_18:
+      text: Jedynym wystarczająco pięknym wybrankiem dla SŁODZIUTKIEJ...\n<KIEŁKUN MIKOŁAJ>
+ 
+#Camera pans to SWEETHEART.
+ 
+message_19:
+      text: \{...jest sama SŁODZIUTKA!\n<KIEŁKUN MIKOŁAJ>
+ 
+#Audience cheers and hollars.
+#SWEETHEART Ohohohs a lot
+ 
+message_20:
+        text: \{\{\{\Com[2]\quake[1]CISZA!!\quake[0]\n<SŁODZIUTKA>
+ 
+#Audience stops.
+ 
+message_21:
+      text: Ahem...\! Zacznijmy ceremonię.\n<SŁODZIUTKA>
+ 
+#Wedding song begins and SWEETHEART walks down the aisle alone. Camera follows.
+ 
+message_22:
+      text: \}Moi drodzy... Zebraliśmy się tutaj wszyscy, aby...\n<KIEŁKUN MIKOŁAJ>
+ 
+#Camera pans to party.
+ 
+message_23:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{HAHAHAHAHAHAHAHAHAHAHAHA!!\}\!<br>SŁODZIUTKA BIERZE ŚLUB Z SAMĄ SOBĄ! Ale żałosne!\kel
+ 
+message_24:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Nie śmiej się, KEL!\! W sumie to...\! trochę mi jej żal.\aub
+ 
+#Camera pans to the stage.
+ 
+message_25:
+      text: ...\! Teraz... Czy ktokolwiek ma jakiś sprzeciw?\n<KIEŁKUN MIKOŁAJ>
+ 
+message_26:
+      text: Niech wstanie teraz lub zamilczy na wieki!\n<KIEŁKUN MIKOŁAJ>
+ 
+#Pause with no noise.
+ 
+message_27:
+      text: W takim wypadku...\!<br>Na mocy mi danej, ogłaszam was...\!<br>SŁODZIUTKĄ i SŁODZIUTKĄ!\n<KIEŁKUN MIKOŁAJ>
+ 
+message_28:
+      text: Możesz teraz pocało-\n<KIEŁKUN MIKOŁAJ>
+ 
+message_29:
+      text: \quake[1]\{\{\Com[2]NIE ZGADZAM SIĘ!!\quake[0]\who
+ 
+message_30:
+      text: \Com[2]\{ZATRZYMAJCIE TEN ŚLUB, NATYCHMIAST!!\who
+ 
+#Camera pans to party.
+#AUBREY is at the end of the aisle.
+#AUBREY takes off her Sprout Mole mask.
+ 
+message_31:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Nie rób tego, SŁODZIUTKA!\!<br>Ten ślub to kompletna fikcja...\! Kochanie samego siebie to jedno, ale...<br>to już za wiele!\aub
+ 
+#Camera pans to SWEETHEART.
+#SWEETHEART jumps.
+ 
+message_32:
+      text: \{ZNOWU WY!\}<br>Jak śmiecie tutaj wracać?!\n<SŁODZIUTKA>
+ 
+message_33:
+      text: \{\{\Com[2]STRAŻE!?\! \Com[2]STRAŻE!?!?\n<SŁODZIUTKA>
+ 
+#Camera pans to AUBREY.
+ 
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: SŁODZIUTKA... Popełniasz duży błąd.\!<br>Nie możesz wziąć ślubu sama ze sobą...\aub
+ 
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Na pewno gdzieś jest ktoś idealny dla ciebie...\! Wierzę w to!\aub
+ 
+#KEL jumps.
+ 
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \}AUBREY, co ty wyprawiasz...?\!<br>Znowu skaże nas na dożywocie w \c[11]LOCHACH\C[0]...\kel
+ 
+#Camera pans to SWEETHEART. Guards are behind her now.
+ 
+message_37:
+      text: Hmf...\! Niczego nie rozumiesz, typowa fanko HERO.\n<SŁODZIUTKA>
+ 
+#SWEETHEART turns around.
+ 
+message_38:
+      text: Byłam kiedyś młodą księżniczką.\!<br>I ja również myślałam kiedyś, że w tym wszechświecie znajdę kogoś idealnego dla siebie...\n<SŁODZIUTKA>
+ 
+message_39:
+      text: Ale teraz to już przeszłość.\n<SŁODZIUTKA>
+ 
+message_40:
+      text: Przestałam wierzyć w prawdziwą miłość!\!<br>Już nigdy nikogo prawdziwie nie pokocham!\n<SŁODZIUTKA>
+ 
+message_41:
+      text: \Com[2]Od teraz jedyną osobą, którą zamierzam kochać, jestem ja sama!\n<SŁODZIUTKA>
+ 
+message_42:
+      text: A zatem, straże...\!<br>\{BRAĆ JĄ!!\n<SŁODZIUTKA>
+ 
+#Guards walk forward.
+#Camera pans to HERO, who is now next to AUBREY. KEL and OMORI are behind them. They are closer to the stage now.
+ 
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: \}Emm...\! HERO...\! Nie sądzę, żeby to był dobry pomysł...\kel
+ 
+#HERO takes off his Sprout Mole mask.
+ 
+message_44:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: \{\Com[2]SŁODZIUTKA, POSŁUCHAJ MNIE!!\}<br>Nie musisz tego robić!\her
+ 
+#Camera pants to SWEETHEART.
+ 
+message_45:
+      text: C-cóż to?\! Czyżby?\n<SŁODZIUTKA>
+ 
+message_46:
+      text: \sinv[1]HERO!\! Mój HEROS przyszedł mnie uratować!\n<SŁODZIUTKA>
+ 
+message_47:
+      text: \sinv[1]O, mój kochany HERO...<br>Wiedziałam, że nie zostawiłbyś mnie tak samej!\n<SŁODZIUTKA>
+ 
+#SWEETHEART walks a step forward.
+ 
+message_48:
+      text: Jakże mącisz mnie swymi słowami!\!<br>Pomimo, iż nadszedł kres naszej miłości, moje serce nigdy o tobie nie zapomni.\n<SŁODZIUTKA>
+ 
+#SWEETHEART turns around.
+ 
+message_49:
+      text: Dam ci jeszcze jedną, ostatnią szansę.\n<SŁODZIUTKA>
+ 
+#SWEETHEART turns to HERO and walks a step forward.
+ 
+message_50:
+      text: \{WYJDŹ ZA MNIE, HERO... TU I TERAZ!!\!\} <br>Zrób to, a pozwolę przeżyć tobie i twoim fanom!\n<SŁODZIUTKA>
+ 
+message_51:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \Com[2]\{CH-CHWILA, CO!?!?\!\}<br>Ja... Ja nie mogę... To niedorzeczne!\her
+ 
+#SWEETHEART turns around.
+ 
+message_52:
+      text: ...\| ...\| ...\n<SŁODZIUTKA>
+ 
+message_300:
+      text: \n<SŁODZIUTKA>Co to ma znaczyć?\! Odrzucasz mnie...\! ponownie?
+ 
+message_301:
+      text: \n<SŁODZIUTKA>Ale...\! Jak to możliwe?
+ 
+message_302:
+      text: \n<SŁODZIUTKA>\quake[1]Ja...\! nie...\! rozumiem...
+#SWEETHEART turns toward party.
+#Camera pans to party.
+ 
+message_53:
+      text: ...\| ...\| ...\| ...\| ...<br>\!Hohoho...\n<SŁODZIUTKA>
+ 
+ 
+#SWEETHEART ohohohos.
+ 
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: Ups...\! Miarka się przebrała...\kel
+ 
+message_55:
+      text: Ach...\! Tak...\! Już wszystko rozumiem.\n<SŁODZIUTKA>
+ 
+message_56:
+      text: Przyznam...\! Myliłam się wobec ciebie, HERO.\!<br> Myślałam, że jesteś godnym kompanem...\! ale...\! wygląda na to, że zazdrościsz mi, tak jak wszyscy inni!\n<SŁODZIUTKA>
+ 
+message_57:
+      text: \Com[2]Tak!\! To musi być to!\! Mój oszałamiający wygląd...\! Mój uwodzicielski uśmiech... \! Moja towarzyska osobowość...\! Moja obecność musi sprawiać ci niemały trud!\n<SŁODZIUTKA>
+ 
+message_58:
+      text: W każdym razie...\! Nie musicie już rozpaczać.\!<br>Zakończę wasze cierpienia... \!osobiście.\!\n<SŁODZIUTKA>
+ 
+message_59:
+      text: \{\quake[1]ŻEGNAJ, BEZUŻYTECZNY PLEBSIE!\n<SŁODZIUTKA>
+ 
+#SWEETHEART takes out weapon and whips mace.
+ 
+message_60:
+      text: \Com[2]\{\sinv[1]ZAMKNĘ WAS W<br>\c[11]LOCHACH\C[0] NA WIEKI!!\n<SŁODZIUTKA>
+ 
+ 
+# =========================================================================================
+# Cutscene: Captain Spaceboy's Return!
+# =========================================================================================
+ 
+#Trigger: Defeat SWEETHEART.
+ 
+#Party is on stage with SWEETHEART.
+ 
+message_70:
+      text: Jakim cudem?\! W-wy...\! Jesteście dla mnie niczym!\n<SŁODZIUTKA>
+ 
+message_71:
+      text: Jak śmiecie mi się przeciwstawiać...\!<br>Wtrącić ich do \c[11]LOCHÓW\C[0]!\!<br>...\! Straże!?!?\n<SŁODZIUTKA>
+ 
+#Guards sweat and step back.
+#AUBREY walks up.
+ 
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: To już koniec, SŁODZIUTKA...\!<br>Ślubu nie będzie!\aub
+ 
+message_73:
+      text: N-nie! Nie mogę na to pozwolić.\! Zostawcie mnie w spokoju!\n<SŁODZIUTKA>
+ 
+#Spaceship noises are heard above.
+#Party and SWEETHEART look around confused.
+#CAPT. SPACEBOY's ship lands at the end of the aisle. He locks it, making a locked car noise.
+#CAPT. SPACEBOY down the aisle.
+ 
+message_74:
+      text: \Com[2]Moja SŁODZIUTKA!\! O, moja SŁODZINKO!<br>Ach, tak się cieszę, że zdążyłem na czas.\n<KAPITAN KOSMIK>
+ 
+message_75:
+      text: Musisz zakończyć to istne szaleństwo!\n<KAPITAN KOSMIK>
+ 
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: K-KAPITAN KOSMIK!?\kel
+ 
+message_77:
+      text: Ty...\! \Com[2]\{TY IDIOTO!!\n<SŁODZIUTKA>
+ 
+message_78:
+      text: Przecież mówiłam ci...<br>żebyś się więcej przede mną nie pokazywał!\n<SŁODZIUTKA>
+ 
+message_79:
+      text: \sinv[1]Och, SŁODZIUTKA!\! Moja, SŁODZINKO!\!<br>Mój słodki pączusiu z marmoladką w środku!\n<KAPITAN KOSMIK>
+ 
+message_80:
+      text: Błagam, posłuchaj swojego serca i daj mi drugą szansę.\n<KAPITAN KOSMIK>
+ 
+message_81:
+      text: Nie powinienem był kazać ci czekać przez cały ten czas.\n<KAPITAN KOSMIK>
+ 
+message_82:
+      text: Ty...\! C-co ty wyczyniasz?\n<SŁODZIUTKA>
+ 
+message_83:
+      text: Przepraszam, że nie zrobiłem tego wcześniej.\n<KAPITAN KOSMIK>
+ 
+#CAPT. SPACEBOY holds up ring, gets on his knees and pulls out a ring.
+ 
+message_84:
+      text: \{\sinv[1]WYJDŹ ZA MNIE, SŁODZIUTKA!!\}<br>Właśnie teraz, na tej oto scenie!\n<KAPITAN KOSMIK>
+ 
+message_85:
+      text: Na delicje!\! To... To wszystko dzieje się tak nagle!\!<br>Jak...\! Jak...\! JAK...\! \Com[2]\sinv[1]Jak romantycznie!\n<SŁODZIUTKA>
+ 
+message_86:
+      text: MIKOŁAJU...\! Rozkazuję ci nas zaślubić! Natychmiast!\n<SŁODZIUTKA>
+ 
+message_87:
+      text: Tak! Robi się, moja pani!\n<KIEŁKUN MIKOŁAJ>
+ 
+message_88:
+      text: \}Moi drodzy, zebraliśmy się tu-\n<KIEŁKUN MIKOŁAJ>
+ 
+message_89:
+      text: Och, zapomnij o tych formalnościach, MIKOŁAJU! <br>Prawdziwa miłość nie może czekać!\n<SŁODZIUTKA>
+ 
+#SMM sweats.
+ 
+message_90:
+      text: T-tak, moja królowo!\n<KIEŁKUN MIKOŁAJ>
+ 
+message_91:
+      text: Ahem...\n<KIEŁKUN MIKOŁAJ>
+ 
+message_92:
+      text: Na mocy mi danej... Ogłaszam was...<br>\!\{\Com[2]SŁODZIUTKĄ oraz KOSMOMĘŻEM!\n<KIEŁKUN MIKOŁAJ>
+ 
+message_93:
+      text: Możesz pocałować pannę młodą!\n<KIEŁKUN MIKOŁAJ>
+ 
+#SWEETHEART and SPACEHUSBAND kiss.
+ 
+message_94:
+      text: \sinv[1]O, SŁODZIUTKO...\!<br>Zostaw ten zakurzony zamek...<br>i oblećmy cały wszechświat!\n<KOSMOMĄŻ>
+ 
+message_96:
+      text: \sinv[1]Tak! Tak, mój mężu!<br>\! Za tobą pójdę, jak na bal!\n<SŁODZIUTKA>
+ 
+message_97:
+      text: Chodźmy już, moja SŁODZIUTKA!<br>Już wystarczająco długo byliśmy rozdzieleni.\n<KOSMOMĄŻ>
+ 
+message_98:
+      text: Chodź, mój statek już na nas czeka!\n<KOSMOMĄŻ>
+ 
+message_99:
+      text: Oczywiście! Kocham cię, kochanie moje!\!<br>Lecz najpierw...\! muszę zrobić jeszcze jedną rzecz, zanim opuszczę ten zamek na zawsze.\n<SŁODZIUTKA>
+ 
+message_100:
+      text: MIKOŁAJU, podaj mi przycisk!\n<SŁODZIUTKA>
+ 
+message_101:
+      text: \Com[2]Robi się, moja królowo!\n<KIEŁKUN MIKOŁAJ>
+ 
+#SMM walks out then comes back and hands something to SWEETHEART.
+#SWEETHEART, SPACE HUSBAND, and SMM walk towards aisle.
+#SWEETHEART holds up a button.
+#SWEETHEART turns around.
+ 
+message_102:
+      text: To wszystko nie będzie nam już potrzebne!\n<SŁODZIUTKA>
+ 
+#SWEETHEART presses button and stage explodes. There is now a big hole in it.
+#SWEETHEART OHOHOHOHO's the whole time.
+#SWEETHEART looks at SBH.
+ 
+message_103:
+      text: Jestem gotowa, kochanie.\n<SŁODZIUTKA>
+ 
+message_104:
+      text: Nareszcie możemy być tylko we dwoje...\!<br>\sinv[1]Zapraszam, moja królowo! Nasza karoca czeka!\n<KOSMOMĄŻ>
+ 
+#SWEETHEART and SPACEHUSBAND board his ship and fly away.
+#Camera pans back to party.
+#AUBREY looks at KEL.
+ 
+message_105:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Ech... tyle zachodu...\! Nie wiem, czy korzystnie się to dla nich skończy.\aub
+ 
+#KEL looks at AUBREY.
+ 
+message_106:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Taaa...\! Czyli to wszystko było jedną wielką stratą czasu.\kel
+ 
+message_107:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Masz rację...\! Między mną a OMORIM jest zdecydowanie więcej chemii... Prawda, OMORI?\aub
+ 
+message_109:
+      text: \n<KIEŁKUN MIKOŁAJ>Chlip...\! Dobre zakończenia, to dopiero coś, czyż nie?
+ 
+#==========================================================================================
+# Cutscene: Misc
+# =========================================================================================
+ 
+message_120:
+      text: Czy chcesz wskoczyć do dziury? Poznasz, jak głęboko prowadzi królicza nora, z której nie ma powrotu.
+ 
+

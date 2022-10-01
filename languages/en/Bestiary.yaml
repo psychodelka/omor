@@ -1,0 +1,1527 @@
+
+# =========================================================================================
+# Bestiary
+# =========================================================================================
+EmptyEnemyName: 'O WROGACH!'
+Information:
+
+  19:
+    name: LASOKRÓLIK
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 0}
+    listIndex: 0
+
+    text: |
+        Słodkie i puszyste stworzenia
+        mogące atakować (lub też nie)
+        bez ostrzeżenia...
+
+        - OMORI
+
+
+        Byłby z niego uroczy
+        pupilek!
+
+        - AUBREY
+
+  23:
+    name: LASOKRÓLIK?
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 0}
+    listIndex: 1
+
+    text: |
+        Zwykły LASOKRÓLIK, tylko że
+        odwrócony do góry nogami...
+        Czemu tak robi? Wygląda to
+        niewygodnie...
+
+        - OMORI
+
+
+        Musi mieć nieźle
+        napakowane uszy!!
+
+        - KEL
+
+  27:
+    name: ZAGUBIONY KIEŁKUN
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_MOLES', index: 0}
+    listIndex: 2
+
+    text: |
+        Niebezpieczna, wroga i
+        brzydka roślina. Twierdzi,
+        że jest mądra, ale nie wierz
+        w to. Nie jest. Śmierdzi jak
+        brudne gacie.
+
+        - OMORI
+
+  863:
+    name: NAPAKOWANE DRZEWO
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 475}
+    character: {name: 'DW_NPC_17', index: 2}
+    listIndex: 3
+
+    text: |
+        Wow! Takie duże i
+        wytrzymałe!
+
+        - KEL
+
+  44:
+    name: KURZOKRÓLIK
+    background: {name: 'battleback_bookshelf', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES', index: 1}
+    listIndex: 4
+
+    text: |
+        Najbardziej kichliwy z
+        króliczków. Lubi chować
+        się między książkami i
+        pod łóżkiem. Jest trochę 
+        nieśmiały...
+
+        - OMORI
+
+  37:
+    name: KOSMOKRÓLIK
+    background: {name: 'battleback_ow_cattail', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES', index: 6}
+    listIndex: 5
+
+    text: |
+        Zwykły LASOKRÓLIK z
+        bąblem na głowie. Pozwala
+        mu on oddychać w
+        kosmosie.
+
+        -OMORI
+
+
+        Ale malutki. Można by
+        powiedzieć bąbelek. Heh,
+        heh. Łapiecie?
+
+        -HERO
+
+  45:
+    name: U.F.O.
+    background: {name: 'battleback_ow_cattail', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 2}
+    listIndex: 6
+
+    text: |
+        ZNANE JAKO UTAJNIONY
+        FRUWAJĄCY OWOC. Wysoce
+        zaawansowana pomarańcza
+        zwykle bezcelowo unosząca
+        się w ogromie przestrzeni
+        kosmicznej.
+
+        -OMORI
+
+
+        Tak czy siak smakuje jak
+        pomarańcza!
+
+        -KEL
+
+  49:
+    name: MUCHOŁÓWKA
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 3}
+    listIndex: 7
+
+    text: |
+        Cechy MUCHOŁÓWKI zbliżone są
+        do cech przeciętnego arbuza.
+        Ta ewolucyjna zmiana umożliwia
+        im wabienie nieinteligentnych
+        ofiar.
+
+        -OMORI
+
+
+        Kurde, byłem pewien,
+        że to arbuz!
+
+        -KEL
+
+  53:
+    name: WYMIAROBAK
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 4}
+    listIndex: 8
+
+    text: |
+        Mówi się, że WYMIAROBAKI
+        to czterowymiarowe istoty,
+        a ich wygląd to tylko
+        wyrywek ich prawdziwej
+        formy... ale akurat ten
+        to zwykły robak.
+
+        - OMORI
+
+
+        Obrzydliwie się wierci...
+
+        -AUBREY
+
+
+  57:
+    name: KASECIOR
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 1}
+    listIndex: 9
+
+    text: |
+        Relikt przeszłości...
+        Wydaje się dziwnie radosny,
+        pomimo jego zbliżającego
+        się odejścia w zapomnienie.
+
+        - OMORI
+
+
+        Zbierałem takie jakiś czas
+        temu! Więc tu się podziały...
+
+        - HERO
+
+  61:
+    name: WDZWANIACZ
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 350}
+    character: {name: 'DW_EN_1', index: 0}
+    listIndex: 10
+
+    text: |
+        Starożytna forma dostępu
+        do sieci komunikacyjnych.
+        Wydaje z siebie głośny,
+        piszczący dźwięk.
+
+        - OMORI
+
+
+        Ach, ten dźwięk przypomina
+        mi stare, dobre czasy...
+
+        - HERO
+
+  65:
+    name: ZŁAGNETOFON
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_7', index: 1}
+    listIndex: 11
+
+    text: |
+        Nowa forma MAGNETOFONU,
+        przenośnego urządzenia do
+        robienia hałasu.
+
+        - OMORI
+
+
+  69:
+    name: REKINOLOT
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 200, y: 300}
+    character: {name: 'DW_EN_9', index: 0}
+    listIndex: 12
+
+    text: |
+        Latający drapieżnik zdolny do
+        unoszenia w powietrze niczego
+        nieświadomych pasażerów z
+        prędkością światła. Nidgy
+        nie wiadomo, gdzie zakończy
+        się twój przelot w
+        REKINOLOCIE...
+
+        - OMORI
+
+  142:
+    name: PAJĄKRÓLIK
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 2}
+    listIndex: 13
+
+    text: |
+        Stawonóg. Lubi zimne
+        temperatury i dla rozrywki
+        stacza się ze stromych
+        wzgórz. To zajęcie zyskało
+        tak wielkie zainteresowanie,
+        że teraz corocznie organizowane
+        są zawody w staczaniu się
+        ze wzgórz.
+
+        - OMORI
+
+  146:
+    name: MIŚ KRZYŚ
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_EN_5', index: 0}
+    listIndex: 14
+
+    text: |
+        Uwaga: Nie prowokować.
+        Nie okazywać słabości.
+
+        - OMORI
+
+  150:
+    name: ROŚLINA DONICZKOWA
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 1}
+    listIndex: 15
+
+    text: |
+        Uwaga: Nie prowokować.
+        Otoczona wybucha.
+        - OMORI
+
+        Ciekawe, kim był ten
+        Doniczkow.
+        - KEL
+
+        Kto chciałby je sadzić?
+        - AUBREY
+
+  158:
+    name: KIEŁKUN?
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_MOLES', index: 0}
+    listIndex: 16
+
+    text: |
+        Ten KIEŁKUN jest do góry
+        nogami, czy to my jesteśmy
+        do góry nogami?
+
+        - OMORI
+
+  855:
+    name: STRASZYKRÓLIK
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES_2', index: 0}
+    listIndex: 17
+
+    text: |
+        Żądne zemsty wrogie
+        duchy KRÓLIKÓW.
+
+        - OMORI
+
+
+        I tak są słodkie...
+
+        - AUBREY
+
+  168:
+    name: HAROLD
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 2}
+    listIndex: 18
+
+    text: |
+        Mistrz szermierki. KIEŁKUN,
+        który przez lata kształcił
+        się w sztukach walki, aby
+        otrzymać swoje prestiżowe
+        imię - HAROLD.
+
+        - OMORI
+
+  172:
+    name: MARCJA
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 185, y: 450}
+    character: {name: 'DW_EN_5', index: 4}
+    listIndex: 19
+
+    text: |
+        Mistrzyni ostrzy. KIEŁKUNKA,
+        która przez lata kształciła
+        się w sztukach walki, aby
+        otrzymać swoje prestiżowe
+        imię - MARCJA.
+
+        - OMORI
+
+  176:
+    name: TERESA
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 180, y: 435}
+    character: {name: 'DW_EN_5', index: 3}
+    listIndex: 20
+
+    text: |
+        Mistrzyni łucznictwa. KIEŁKUNKA,
+        która przez lata kształciła
+        się w sztukach walki, aby
+        otrzymać swoje prestiżowe
+        imię - TERESA.
+
+        - OMORI
+
+  180:
+    name: LUCJUSZ
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 5}
+    listIndex: 21
+
+    text: |
+        Mistrz magii. KIEŁKUN,
+        który przez lata kształcił
+        się w sztukach walki, aby
+        otrzymać swoje prestiżowe
+        imię - LUCJUSZ.
+
+        - OMORI
+
+  184:
+    name: KIEŁKUŃSKA GŁOWA
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_5', index: 6}
+    listIndex: 22
+
+    text: |
+        Jedna z części nieudanej próby
+        upodobnienia się do konia.
+
+        - OMORI
+
+
+        No... Przynajmniej się starali...
+        - AUBREY
+
+  188:
+    name: KIEŁKUŃSKI ZAD
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_3', index: 3}
+    listIndex: 23
+
+    text: |
+        Strój od dupy strony.
+
+        - OMORI
+
+
+        Ej, uważaj na słowa!
+        - AUBREY
+
+
+
+  97:
+    name: KRUSZYKRÓLIK
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 2}
+    listIndex: 24
+
+    text: |
+        Nawet słodki. Możliwe, że
+        wegański.
+        - OMORI
+
+        Jest wegański?
+        - KEL
+
+        No nie wiem.
+        - HERO
+
+        Na pewno nie...
+        - AUBREY
+
+  839:
+    name: BABKOKRÓLIK
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 4}
+    listIndex: 25
+
+    text: |
+        Babeczkowaty pasożyt,
+        który obrał sobie biednego
+        LASOKRÓLIKA za żywiciela.
+
+        W oczach LASOKRÓLIKA odbija
+        się wielkie cierpienie.
+
+        - OMORI
+
+  843:
+    name: SZEJKRÓLIK
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 5}
+    listIndex: 26
+
+    text: |
+        LASOKRÓLIK z koktajlem
+        mlecznym przywiązanym
+        na plecach.
+
+        - OMORI
+
+  847:
+    name: NALEŚNIKRÓLIK
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 3}
+    listIndex: 27
+
+    text: |
+        Uroczy LASOKRÓLIK
+        wykorzystujący swoich
+        poległych towarzyszy
+        jako nakrycie głowy.
+
+        - OMORI
+
+  851:
+    name: WĄSZ SZ. SZ.
+    background: {name: 'battleback_excavation_1', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 7}
+    listIndex: 28
+
+    text: |
+        Znany jako WĄSZ
+        SZTRASZNIE SZMACZNY,
+        wbrew swojej nazwie nie
+        jest taki straszny.
+
+        - OMORI
+
+  133:
+    name: JEŻOZJESZ
+    background: {name: 'battleback_excavation_1', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 1}
+    listIndex: 29
+
+    text: |
+        Odrzucony deser skazany na
+        wieczną wędrówkę po pustkowiu.
+
+        - OMORI
+
+
+        Gryzł kogoś w język?
+
+        - HERO
+
+
+  797:
+    name: KIEŁKRÓLIK
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 1}
+    listIndex: 30
+
+    text: |
+        Słodki. Możliwe, że wegański.
+        - OMORI
+
+        Na 100% wegański.
+        - KEL
+
+        Pewnie wegański.
+        - HERO
+
+        Na pewno nie wegański...
+        - AUBREY
+
+  789:
+    name: KOLENDRA
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 2}
+    listIndex: 31
+
+    text: |
+        Nazwa naukowa -
+        Coriandrum sativum
+        W 100 gramach -
+        Energia - 22.71 kalorii
+        Witamina K - 310 ug
+        Potas - 521 ug
+        Żelazo - 1.77 ug
+
+        To to samo, co
+        pietruszka?
+
+        - KEL
+
+  793:
+    name: IMBIR
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 6}
+    listIndex: 32
+
+    text: |
+        Nazwa naukowa -
+        Zingiber officinale
+
+        Roślina uprawna, której
+        kłącza są powszechnie
+        stosowane jako przyprawa i lek
+        domowy. Jest to bylina zielna,
+        z której wyrastają roczne
+        pseudopędy o wysokości około
+        metra, opatrzone wąskimi
+        blaszkami liściowymi.
+
+        - OMORI
+
+  785:
+    name: SELER
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 5}
+    listIndex: 33
+
+    text: |
+        Wiedzieliście, że jedząc
+        SELER spalacie więcej
+        kalorii, niż on zawiera?
+        Dlatego, że trzeba go
+        żuć!
+
+        - KEL
+
+
+        Każdy to wie, KEL...
+
+        - AUBREY
+
+  772:
+    name: KRÓLIK
+    background: {name: 'battleback_excavation_3', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 0}
+    listIndex: 34
+
+    text: |
+        Abominacja.
+
+        - OMORI
+
+
+        Przerażający.
+
+        - AUBREY
+
+  776:
+    name: KURA
+    background: {name: 'battleback_excavation_3', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_4', index: 0}
+    listIndex: 35
+
+    text: |
+        Ruchomy drób.
+
+        - HERO
+
+
+        To żadne bzdury, tylko
+        skrzydło KURY!
+
+        - KEL
+
+  198:
+    name: RYBOKRÓLIK
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES_2', index: 3}
+    listIndex: 36
+
+    text: |
+        LASOKRÓLIK, który w procesie
+        ewolucji dostosował się do
+        swojego środowiska. Zwierze
+        stadne, nie lubi być samo.
+
+        - OMORI
+
+  206:
+    name: MAŁŻEŃ
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 6}
+    listIndex: 37
+
+    text: |
+        Bardzo umięśniony MAŁŻEŃ.
+        Ciężko i regularnie trenuje,
+        aby utrzymać swoją solidną
+        jak skała sylwetkę.
+
+        - OMORI
+
+  210:
+    name: ANERYS
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 5}
+    listIndex: 38
+
+    text: |
+        Życ wodzie w, żyć wodzie w,
+        być rybą.
+
+        - OMORI
+
+  214:
+    name: PŁETWA
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 4}
+    listIndex: 39
+
+    text: |
+        Płetwa bez rekina.
+
+        - OMORI
+
+  218:
+    name: KAŁAMAGIK
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 350}
+    character: {name: 'DW_EN_6', index: 0}
+    listIndex: 40
+
+    text: |
+        Najpodlejsze stworzenie na tej
+        planecie. Nie ma przyjaciół,
+        nikt nie zaprasza go na imprezy,
+        a jego żarty są nieśmieszne.
+
+        - OMORI
+
+  250:
+    name: GLUTOKRÓLIK
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 4}
+    listIndex: 41
+
+    text: |
+      Zbyt lepki na czułość,
+      zbyt lepki na miłość.
+
+      - OMORI
+
+
+      Wygląda jak glut...
+      smakuje cud miód!
+
+      - KEL
+
+  254:
+    name: ARBSUS
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_IMPORTANTOBJ', index: 3}
+    listIndex: 42
+
+    text: |
+        Oczywista pułapka, na którą
+        nabrałyby się tylko najmniej
+        rozumne osobniki. 
+
+        - OMORI
+
+
+        Kurde! Myślałem, że to
+        naprawdę arbuz!!
+
+        - KEL
+
+  262:
+    name: GLUTOBĄBEL
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_6', index: 1}
+    listIndex: 43
+
+    text: |
+        Delikatna, krótkożyjąca
+        istota. Prowadzi życie pełne
+        nietrwałości i śmierdzi jak
+        mokry pies.
+
+        - OMORI
+
+  258:
+    name: ROBOBAK
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 420}
+    character: {name: 'DW_EN_7', index: 0}
+    listIndex: 44
+
+    text: |
+        Robotyczny robak o zębach
+        ostrych jak brzytwa. Jego
+        ulubionym jedzeniem są
+        marchewki.
+
+        - OMORI
+
+  266:
+    name: SZCZUR LABORATORYJNY
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 7}
+    listIndex: 45
+
+    text: |
+        Samozwańczy geniusz naukowy.
+        Specjalizuje się w chemii
+        teoretycznej, ale jego
+        prawdziwą pasją jest kino.
+
+        - OMORI
+
+
+        Oby kiedyś zrobił karierę!
+
+        - AUBREY
+
+  270:
+    name: KIEŁKUN??
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_6', index: 2}
+    listIndex: 46
+
+    text: |
+        Potwór złożony z
+        najsilniejszych fragmentów
+        najsilniejszych KIEŁKUNÓW.
+
+        - OMORI
+
+
+  881:
+    name: KROMA, SEZAM I ZAKWAS
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_NPC_17', index: 5}
+    listIndex: 47
+
+    text: |
+        Dusze upieczonych dzieci
+        przywrócone do życia dzięki
+        tajemniczej mocy. Są dobrymi
+        przyjaciółmi, więc zawsze
+        trzymają się razem.
+
+        - OMORI
+
+  101:
+    name: CREEPYPASTA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_2', index: 5}
+    listIndex: 48
+
+    text: |
+        Bylo jusz puzyno siedziałam
+        pszy komputerze i sobie grałam
+        przecinek nagle ni stąd ni z
+        owont zobaczyłam postać w rogu
+        mojego pokoju, miał białom
+        bluze nasionknientom krwiom
+        czarne spodnie trampki i włosy
+        skórę miał bladom jak siciana,
+        błenkitne oczy, kture były
+        otoczone czerniom oraz wielki
+        wycienty wieczny usimieh. W
+        rence czymał NUSZ kóhenny!
+
+
+  105:
+    name: COPYPASTA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_2', index: 5}
+    listIndex: 49
+
+    text: |
+        COPYPASTA słynie z tego,
+        że jest kopiowana.
+        - OMORI
+
+        COPYPASTA słynie z tego,
+        że jest kopiowana.
+        - KEL
+
+        COPYPASTA słynie z tego,
+        że jest kopiowana.
+        - AUBREY
+
+  125:
+    name: ŻYWY CHRUP
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 6}
+    listIndex: 50
+
+    text: |
+        Demoniczny wypiek wypieczony
+        do perfekcji. Jego
+        przeznaczeniem jest zjadanie
+        DŻEMA ŻYCIA.
+
+        - OMORI
+
+
+
+        Ble!!
+
+        - KEL
+
+  129:
+    name: CIACHO-STRACHO
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 4}
+    listIndex: 51
+
+    text: |
+        Może trochę smutny...
+        Ale na pewno nie martwy.
+
+        - OMORI
+
+        To się nawet nie rymuje...
+
+        - AUBREY
+
+  859:
+    name: DUCHANAPKA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_2', index: 7}
+    listIndex: 52
+
+    text: |
+        Niezadowolone widmo wypowiadające
+        przerażające zwroty jak “Gdy
+        miejsca zabraknie w piekielnej
+        otchłani. Chleb spod ziemi
+        wyjdzie, straszyć z truposzami.”
+
+        - OMORI
+
+
+        Wygląda trochę jak ty, OMORI!
+
+        - AUBREY
+
+  109:
+    name: KUKURYKSIO
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_2', index: 3}
+    listIndex: 53
+
+    text: |
+        Błąd genetyczny, zrodzony z
+        łkań zagubionych dusz. Powoli
+        zakrzykuje się na śmierć.
+
+        - OMORI
+
+  79:
+    name: MROZIKRÓLIK
+    background: {name: 'battleback_ff_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 7}
+    listIndex: 54
+
+    text: |
+        Kopie śniegiem, kiedy się
+        zezłości. Jest w stanie
+        wywołać najmniejszą na
+        świecie śnieżycę...
+
+        - OMORI
+
+
+        Jak myślicie, rozpuści się
+        na słońcu?
+
+        - KEL
+
+  87:
+    name: KUPKA ŚNIEGU
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_EN_4', index: 1}
+    listIndex: 55
+
+    text: |
+        Przypadkowo przeklęta
+        grudka śniegu. Kwestionuje
+        swoją egzystencję.
+
+        - OMORI
+
+  83:
+    name: ŚNIEŻNY ANIOŁ
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_EN_8', index: 0}
+    listIndex: 56
+
+    text: |
+        Strażnicy GÓRY MROZIKULI...
+        Ich spojrzenia są pełne
+        wspomnień.
+
+        ŚNIEŻNE ANIOŁY zazwyczaj
+        objawiają się zagubionym
+        podróżnikom, następnie
+        znikają razem z nimi w
+        śnieżnych lawinach.
+
+        - OMORI
+
+
+  365:
+    name: BYSIO
+    background: {name: 'battleback_reckut', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_BOSS', index: 0}
+    listIndex: 57
+
+    text: |
+        Ma ostre kolce.
+        Jest wrogiem... albo
+        przyjacielem.
+
+        - OMORI
+
+  336:
+    name: KIEŁKOSŁAW
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_NPC_15', index: 1}
+    listIndex: 58
+
+    text: |
+        Ukochany dziadek wszystkich
+        KIEŁKUNÓW. Mawia się, że kocha
+        leśne życie i że pochodzi ono
+        od niego.
+
+        Kiedy znajdzie czas wolny od
+        pilnowania balansu w lesie,
+        zajmuje się siedzeniem.
+
+        - OMORI
+
+  340:
+    name: DZIECIAK Z LATAWCEM
+    background: {name: 'battleback_vf_kitekid', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: '$sprite_vf_kite_kid', index: 0}
+    listIndex: 59
+
+    text: |
+        Tajemniczy chłopiec z obsesją
+        na punkcie warunków
+        atmosferycznych. Zazwyczaj
+        można go spotkać w PODNIEBNYM
+        ZAGAJNIKU, gdy puszcza swój
+        latawiec, mamrocząc coś o
+        pogodzie.
+
+        - OMORI
+
+  344:
+    name: LATAWIEC
+    background: {name: 'battleback_vf_kitekid', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: '$npc_kite', index: 0}
+    listIndex: 60
+
+    text: |
+        Dziwny latawiec. Żyje
+        własnym życiem.
+
+        - OMORI
+
+  880:
+    name: '???'
+    conditionalNames:
+        - { name: PLUTON, switches: [[90, true]] }
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_NPC_15', index: 2}
+    listIndex: 61
+
+    text: |
+        Tajemniczy, prężący się
+        kamień.
+
+        - OMORI
+
+
+        Jakie on ma mięśnie!
+
+        - KEL
+    conditionalText:
+        -
+          switchIds: [15]
+          line: null
+          text: |
+
+            Okazuje się, że... jest z
+            niego spoko ziomek.
+
+            - OMORI
+
+            Uwielbiam go!
+
+            - KEL
+
+  370:
+    name: ZIEMIA
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 700}
+    character: {name: 'DW_EN_7', index: 2}
+    listIndex: 62
+
+    text: |
+        Trzecia planeta od Słońca.
+        Jej powierzchnia głownie
+        pokryta jest wodą i ludźmi.
+
+        - OMORI
+
+  388:
+    name: OKNO POBIERANIA
+    background: {name: 'battleback_ow_download', x: 0, y: 0}
+    position: {x: 160, y: 325}
+    character: {name: 'DW_NPC_17', index: 4}
+    listIndex: 63
+
+    text: |
+        [BŁĄD]
+
+  379:
+    name: KOSMO-EX
+    background: {name: 'battleback_ow_xsbf', x: 0, y: 0}
+    position: {x: 150, y: 500}
+    character: {name: 'DW_NPC_3', index: 5}
+    listIndex: 64
+
+    text: |
+        Zaciekłe alter ego KAPITANA
+        KOSMIKA, dowódcy
+        KOSMOPIRATÓW. Ujawnia się,
+        gdy KAPITAN KOSMIK jest zły.
+        Ma władzę nad planetami
+        układu słonecznego, lecz nad
+        niczyim sercem...
+
+        - OMORI
+
+  424:
+    name: KRÓL PEŁZACZY
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 190, y: 490}
+    character: {name: 'DW_EN_6', index: 3}
+    listIndex: 65
+
+    text: |
+        Bezmózgi pasożyt zabijający
+        KIEŁKUNY i wykorzystujący ich
+        puste skorupy w celu
+        przedłużenia własnego ciała.
+
+        - OMORI
+
+  451:
+    name: KRÓL DRAPIEŻCÓW
+    background: {name: 'battleback_sm_default', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_18', index: 5}
+    listIndex: 66
+
+    text: |
+        Jeden z drapieżników
+        polujących na KIEŁKUNY.
+        KRÓL DRAPIEŻCÓW najeżdza
+        siedliska KIEŁKUNÓW poprzez
+        zagrzebywanie się pod
+        ziemią. Preferuje miękkie
+        KIEŁKUNY na ciepło.
+
+        - OMORI
+
+  442:
+    name: PODEJRZANY KIEŁKUN
+    background: {name: 'battleback_sm_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_SPRM_3', index: 3}
+    listIndex: 67
+
+    text: |
+        Najbardziej niegodny zaufania
+        KIEŁKUN. Nie wierz mu w
+        cokolwiek.
+
+        - AUBREY
+
+
+  469:
+    name: RYCERZ MAKSYM
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 68
+
+    text: |
+        Prawdziwy mistrz szermierki.
+        KIEŁKUN, który przez setki
+        lat kształcił się w sztukach
+        walki, by zasłużyć na imię
+        bardziej prestiżowe, niż
+        HAROLD - MAKSYM. 
+
+        - OMORI
+
+
+  478:
+    name: RYCERZ MAKSYM II
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 69
+
+    text: |
+        Prawdziwy mistrz szermierki.
+        Syn KIEŁKUNA, który przez
+        setki lat kształcił się w
+        sztukach walki, by zasłużyć
+        na imię bardziej prestiżowe,
+        niż HAROLD - MAKSYM. 
+
+        - OMORI
+
+  487:
+    name: RYCERZ MAKSYM III
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 70
+
+    text: |
+        Prawdziwy mistrz szermierki.
+        Wnuk KIEŁKUNA, który przez
+        setki lat kształcił się w
+        sztukach walki, by zasłużyć
+        na imię bardziej prestiżowe,
+        niż HAROLD - MAKSYM. 
+
+
+        - OMORI
+
+  496:
+    name: SŁODZIUTKA
+    background: {name: 'battleback_sw_sweetheart', x: 0, y: 0}
+    position: {x: 175, y: 500}
+    character: {name: 'DW_SH_1', index: 1}
+    listIndex: 71
+
+    text: |
+        Impulsywna, piękna i szalona
+        księżniczka żyjąca w wielkim,
+        różowym pałacu w PAJĘCZYM
+        GREMIUM. Uwielbiana przez
+        KIEŁKUNÓW. Ma słabość do HERO.
+
+        - OMORI
+
+
+        Hej... Nie wspominajmy już o
+        tym, dobrze?
+
+        - HERO
+
+  409:
+    name: NIKCZEMNY CHRUPCIO
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 170, y: 500}
+    character: {name: 'DW_NPC_15', index: 6}
+    listIndex: 72
+
+    text: |
+      Stwór nie z tego świata,
+      przywołany przez talerz ciastek
+      owsianych.
+      - OMORI
+
+      Zło wcielone!
+      - AUBREY
+
+      Okrutny!
+      - KEL
+
+      Wręcz nikczemny!
+      - HERO
+
+
+  415:
+    name: BLIŹNIAKI CZERSTWIAKI
+    background: {name: 'battlebacks_dd_biscuit_doughie', x: 0, y: 0}
+    position: {x: 210, y: 500}
+    character: {name: 'DW_NPC_17', index: 3}
+    listIndex: 73
+
+    text: |
+         BISZKOPT i CHAŁKA, BLIŹNIAKI
+         CZERSTWIAKI nie z tego świata,
+         skazani na wieczne pieczenie
+         i transport chleba poprzez krąg
+         rytualny. Ohoooooo...
+
+         - OMORI
+
+  402:
+    name: KOSMO-EX-MĄŻ
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 172, y: 550}
+    character: {name: 'DW_NPC_14', index: 6}
+    listIndex: 74
+
+    text: |
+        Niedawno rozwiedziony
+        KAPITAN KOSMIK. Jego dusza
+        ewoluowała ponad
+        bezużyteczne, ludzkie emocje
+        i wykroczyła poza czas oraz
+        przestrzeń.
+
+        - OMORI
+
+
+        Biedny KAPITAN KOSMIK...
+        Nikt nie zasługuje na coś
+        takiego...
+
+        - AUBREY
+
+
+  508:
+    name: PAN SZCZĘKOPAD
+    background: {name: 'battlebacks_dw_jawsum', x: -90, y: 0}
+    position: {x: 160, y: 525}
+    character: {name: 'DW_jawsum', index: 1}
+    listIndex: 75
+
+    text: |
+        Kapitalista / przedsiębiorca /
+        rekin biznesu posiadający 51%
+        udziałów w GŁĘBOKIEJ STUDNI.
+        Nie ma nic, na czym polegałby
+        bardziej, niż na podpisanej
+        umowie.
+
+        - OMORI
+
+
+        Hej, to szef!
+        Uwielbiam go!
+
+        -KEL
+
+  202:
+    name: ALI GATOR
+    background: {name: 'battleback_dw_lastresort_interior', x: -90, y: 0}
+    position: {x: 175, y: 500}
+    character: {name: 'DW_NPC_GATOR', index: 0}
+    listIndex: 76
+
+    text: |
+        Zaufany i lojalny poplecznik
+        PANA SZCZĘKOPADA. Bardzo
+        prawdopodobnie wszyscy 
+        podpisali z nim podejrzane
+        kontrakty.
+
+        Wolą rozmawiać przez
+        krótkofalówki, nawet jeśli
+        są w tym samym pomieszczeniu.
+
+        - OMORI
+
+  514:
+    name: PLUTON (NAPAKOWANY)
+    background: {name: 'battleback_dw_pluto', x: 0, y: 0}
+    position: {x: 162, y: 500}
+    character: {name: 'DW_NPC_15', index: 2}
+    listIndex: 77
+
+    text: |
+        Zdumiewająca, napakowana wersja
+        PLUTONA, najsilniejszej planety
+        w całym kosmosie i
+        wszechświecie.
+
+        - OMORI
+
+  541:
+    name: ROBÓTKA
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_14', index: 0}
+    listIndex: 78
+
+    text: |
+        Niebezpieczny robot zabójca
+        żądny zagłady każdegokolwiek
+        życia. Na szczęście mamy okazję
+        zobaczyć go żywi, na żywo.
+
+        - OMORI
+
+  550:
+    name: POCZWARNIUTKA
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_10', index: 7}
+    listIndex: 79
+
+    text: |
+        Nieudany? eksperyment
+        SZLAMISIOSTRY, MARINY. Wydaje
+        dziwne dźwięki, próbując się
+        porozumieć. Pachnie
+        truskawkami.
+
+        - OMORI
+
+  559:
+    name: PIĘKNISIA
+    background: {name: 'battleback_dw_perfectheart', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_14', index: 1}
+    listIndex: 80
+
+    text: |
+        Bogini o niezmierzonej mocy
+        i gracji. Emitowany przez
+        nią blask jest w stanie
+        wywołać ostrą ślepotę, a w
+        niektórych przypadkach śmierć.
+
+        - OMORI
+
+  877:
+    name: MARINA
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 180, y: 500}
+    character: {name: 'DW_NPC_10', index: 2}
+    listIndex: 81
+
+    text: |
+        Lekkomyślna i nieostrożna
+        "środkowa" SZLAMISIOSTRA.
+        Jest wybuchowa. Lubi
+        rozbierać żywe istoty na
+        części i składać je z
+        powrotem, zazwyczaj bez
+        zgody...
+
+        - OMORI
+
+  878:
+    name: MOLLY
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 185, y: 500}
+    character: {name: 'DW_NPC_10', index: 1}
+    listIndex: 82
+
+    text: |
+        Przebiegła i cwana najstarsza
+        SZLAMISIOSTRA. Potrafi
+        znaleźć przyjemność we
+        wszystkim. Opanowała każdą
+        dziedzinę nauki, ale trzyma
+        się programowania, ponieważ
+        wymaga najmniej ruchu.
+
+        Lubi chipsy.
+
+        - OMORI
+
+  879:
+    name: MEDUZA
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 170, y: 500}
+    character: {name: 'DW_NPC_10', index: 0}
+    listIndex: 83
+
+    text: |
+        Spokojna i rozsądna najmłodsza
+        SZLAMISIOSTRA. Głównie zajmuje
+        się płynnymi substancjami w
+        fiolkach, bo są ładne.
+
+        Jest ekspertką w rozwiązywaniu
+        trudnych sytuacji, ponieważ
+        jej siostry często się kłócą.
+
+        - OMORI
+
+  577:
+    name: GIGANTOS
+    background: {name: 'battleback_dw_humphrey', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_SG_HUMPHREY', index: 0}
+    listIndex: 84
+
+    text: |
+        Czysty terror.
+        - OMORI
+
+        Na miękko! Mniam, mniam!
+        - GIGANTOS
+
+        Pasuje do niego imię
+        Jonaszek!
+        - KEL

@@ -1,0 +1,446 @@
+# =========================================================================================
+# GETTING ALL BLACKCLETTERS - UNUSED?
+# =========================================================================================
+ 
+#Trigger: Examine any black line.
+ 
+#The black hole sucks in all letters, and becomes a black door.
+#Screen becomes in very glitchy.
+ 
+#message_1:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 7
+#      text: \Com[2]\quake[1]\fn<OMORI_GAME>Ahhhhhhh...\! the door...\! it's open...\aub
+ 
+#message_2:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 48
+#      text: \Com[2]\quake[1]\fn<OMORI_GAME>...\! This...\! This isn't looking good...\her
+ 
+#KEL is surprised.
+ 
+#message_3:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 30
+#      text: \Com[2]\quake[1]\fn<OMORI_GAME>BASIL...\! BASIL must be somewhere inside!\kel
+ 
+#KEL walks to door.
+#KEL glittches out and moves back
+ 
+#message_4:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 34
+#      text: \fn<OMORI_GAME>\sinv[2]\{\quake[1]GAAAAA\{AAAHHHH\{HHHHHHHHH!!!\quake[0]\kel
+ 
+#message_5:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 7
+#      text: \quake[1]\fn<OMORI_GAME>KEL!\! Are you okay!?\aub
+ 
+#message_6:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 7
+#      text: \quake[1]\fn<OMORI_GAME>Let...\! Let me try!\aub
+ 
+#AUBREY glitches out and moves back.
+ 
+#message_7:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 13
+#      text: \fn<OMORI_GAME>\sinv[2]\{\quake[1]AAAAAAA\{AHHHHHHHHH\{HHHHHHHHHH!!!\quake[0]\aub
+ 
+#AUBREY comes to door.
+#HERO looks at OMORI.
+ 
+#message_8:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 48
+#      text: \Com[2]KEL! AUBREY! Stop!\! It's no use...<br>\!...\! I...\! I don't think we're going to be able do this...\her
+ 
+#message_9:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 20
+#      text: Huh!?\! W-What do you mean, HERO?\!<br>How else are we going to save BASIL!?\kel
+ 
+#message_10:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 48
+#      text: Well...\her
+ 
+#HERO walks to OMORI
+ 
+#message_11:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 44
+#      text: We won't be able to save him...\! but OMORI can.\her
+ 
+#message_12:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 43
+#      text: OMORI...\! I was hoping we could do this together, but...\!<br>I've known since the beginning...\! that you've been the only one who has been able to touch the MISSING LETTERS...\her
+ 
+#message_13:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 30
+#      text: \Com[2]What are you saying, HERO!?\! We can't leave him alone.\!<br>We've done everything together!\kel
+ 
+#message_14:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 5
+#      text: \Com[2]You're going to let OMORI go in there all by himself!?\!<br>How will he be able to find BASIL without us?\aub
+ 
+#message_15:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 43
+#      text: ...\! I believe that OMORI is strong enough to do this...\! And...\! <br>I know he wants to save BASIL more than anyone...\her
+ 
+#message_16:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 40
+#      text: If it's going to be like this...\! If we all go...\! I don't think we won't be able to help at all...\!<br>It...\! It would be better if OMORI goes by himself...\her
+ 
+#message_17:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 5
+#      text: But...\! we must be able to help somehow...\aub
+ 
+#message_18:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 40
+#      text: Hmm...\! Well, it's not much, but...\! even if we can't be there fighting next to him...\! the least we can do is guide his way back home...\her
+ 
+#message_19:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: OMORI...\! I don't know what's in there...\! but if you're ever get lost or scared...\! just follow our voices back here!\!<br>You should know...\! that you'll always have us!\her
+ 
+#message_20:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 20
+#      text: ...\! OMORI...\! I know you don't like to be alone...\! but...\! it's just like HERO said...\! We'll just get in the way...\! Stay strong, okay!?\! And know that we'll always have your back!\kel
+ 
+#message_21:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 5
+#      text: Yeah...\! We believe in you, OMORI. We always have!\!<br>Please be safe...\! We'll always be waiting for you here...<br>no matter what!\aub
+ 
+#message_22:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 4
+#      text: Goodbye, OMORI...\! See you soon...\aub
+ 
+#message_23:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 48
+#      text: We can only help you get this far...\! but from now on...\!<br>it looks like you're going to have to go at it alone.\her
+ 
+ 
+# =========================================================================================
+# Cutscene: Basil is Here - UNUSED
+# =========================================================================================
+ 
+#Trigger: Talk to Basil.
+ 
+ 
+#message_40:
+#      faceset: MainCharacter_Basil
+#      faceindex: 1
+#      text: \fn<OMORI_GAME>\}Ah... OMORI...\! It's you...\! You're finally here...\! <br>I knew you'd come eventually...\bas
+ 
+#message_41:
+#      faceset: MainCharacter_Basil
+#      faceindex: 4
+#      text: \fn<OMORI_GAME>\}I'm sorry I'm so useless...\! I hope we can find a way out of here...\bas
+ 
+# =========================================================================================
+# GREAT ESCAPE - UNUSED
+# =========================================================================================
+ 
+#Trigger: Escape Black Space.
+ 
+#OMORI and BASIL walk out of Black Door.
+#Black Door disappears.
+ 
+#message_60:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: \Com[2]Holy moly! It's OMORI and BASIL!\!<br>You did it, OMORI! You really did it!<br>\kel
+ 
+#message_61:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 4
+#      text: Oh, I'm so relieved...\aub
+ 
+#message_62:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 17
+#      text: I don't really wanna admit it, but I was starting to get a little worried, heh heh...\kel
+ 
+#message_63:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 1
+#      text: BASIL, BASIL!\! You're finally back!\!<br>How are you feeling? Are you okay?\aub
+ 
+#message_64:
+#      faceset: MainCharacter_Basil
+#      faceindex: 1
+#      text: I'm fine...\! I think.\! Sorry that I made you worry...\bas
+ 
+#message_65:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 2
+#      text: Oh, don't apologize, BASIL!\!<br>You're safe and that's what matters.\aub
+ 
+#message_66:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 37
+#      text: \herLet's go see MARI!\!<br>I'm sure she'll be so excited to hear the news!\!<br>Lead the way, OMORI!
+ 
+# =========================================================================================
+# Cutscene: Great Escape 2
+# =========================================================================================
+ 
+#After entering BLACK DOOR from black space,
+#Copy Cutscene where BASIL takes a picture of everyone before entering his house. Exact location and everything with slight change at the end.
+#AUBREY and KEL don't fight.
+ 
+message_89:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Oj, wyszło trochę krzywo.\! No trudno, tak bywa.\! <br>To dodaje uroku.\bas
+ 
+#BASIL puts away photo.
+ 
+message_90:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Mam nadzieję, że nie mieliście nic przeciwko...\bas
+ 
+message_91:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: Oczywiście, że nie!\! Mogę zobaczyć?\aub
+ 
+message_92:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: O-och, jasne.\bas
+ 
+#BASIL takes out PHOTO ALBUM.
+#AUBREY runs to the side of BASIL.
+#AUBREY jumps.
+ 
+message_93:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Oooooooo, wszyscy wyglądamy tak uroczo!\aub
+ 
+#HERO walks up to the side BASIL.
+ 
+message_94:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Jak wyszła moja fryzura?\her
+ 
+#KEL jumps.
+ 
+message_95:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Też chcę zobaczyć!\! Wow, wyglądam świetnie!\kel
+ 
+#KEL runs up to the front of BASIL.
+ 
+#Trigger: OMORI talks to BASIL from behind.
+ 
+message_96:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: O hej, OMORI! Też chcesz zobaczyć zdjęcie?\!<br>Proszę, masz.\bas
+ 
+message_97:
+      text: BASIL podał ci \c[4]ZDJĘCIE GRUPOWE\c[0].
+ 
+#Slide: Group Photo (Dream)
+ 
+message_98:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Ładne, nie?\! Wyglądacie na tak szczęśliwych...\!<br>Powinienem dodać je do mojej kolekcji!\bas
+ 
+#BASIL takes out his PHOTO ALBUM.
+ 
+message_99:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \Com[2]\{Juhu!\}<br>Kolejne idealne ujęcie do albumu!\kel
+ 
+message_100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Chciałabym zobaczyć resztę zdjęć! \!<br>Możemy, BASIL?\aub
+ 
+message_101:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Ach, no dobrze...\! ale to nic nadzwyczajnego...\bas
+ 
+#View PHOTO Album dream world complete
+#once Player exits, Screen turns White
+#PLAYER wakes up to DAY 3: FARAWAY TOWN
+#PLAYER completes chore and goes back to sleep
+ 
+#FROM NOW ON, BASIL is at the PICNIC
+ 
+message_102:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: Cześć wszystkim! Co tam porabiacie?\!<br>Chcecie pooglądać zdjęcia z mojego \c[4]ALBUMU\c[0]?\bas
+ 
+#[YES/NO]
+ 
+message_103:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Wszyscy wyglądacie na tak szczęśliwych!\bas
+ 
+message_104:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Och... okej!\! Może innym razem...\bas
+ 
+#MARI Something
+ 
+message_110:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Zdjęcia BASILA wyglądają tak dobrze jak zawsze, hę?\kel
+ 
+message_111:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Dobra, chodźmy!\! MARI na pewno na nas czeka.\her
+ 
+message_112:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Chwila, musimy pokazać MARI album!\aub
+ 
+# =========================================================================================
+# Cutscene: Duet
+# =========================================================================================
+ 
+#Trigger: Solve Mirror Puzzle in Piano Room.
+ 
+#MARI plays a bit of duet.
+ 
+message_120:
+      text: Wiesz co...\! Uwielbiam walce.\! <br>To dlatego wybrałam ten utwór na nasz ostatni recital.\mar
+ 
+message_121:
+      text: Ale tobie się to nie podobało, prawda?\!<br>To, że skupiałam się tylko na fortepianie...\mar
+ 
+message_122:
+      text: Całe to ćwiczenie...\! Granie tego samego w kółko i w kółko.\mar
+ 
+message_123:
+      text: Kiedy zacząłeś uczyć się grać na skrzypcach, nie mogłeś się doczekać wspólnych występów.\mar
+ 
+message_124:
+      text: Ale wytrwałość bywa trudna.\mar
+ 
+message_125:
+      text: ...\mar
+ 
+message_126:
+      text: Może za bardzo na ciebie naciskałam.\mar
+ 
+message_127:
+      text: Przepraszam...\! Chciałam tylko, żeby wyszło idealnie.\mar
+ 
+message_128:
+      text: ...\mar
+ 
+message_129:
+      text: Nigdy nie udało się nam zagrać ostatniego recitalu.\mar
+ 
+message_130:
+      text: Nie chciałbyś zrobić tego teraz?\mar
+ 
+#Light turns on.
+ 
+message_131:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: \Com[2]Och, przestraszyłeś mnie, \n[8]!\her
+ 
+message_132:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Sorki, że wpadłem tak nagle...\!<br>ale przysiągłbym, że słyszałem muzykę.\her
+ 
+message_133:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 15
+      text: ...\her
+ 
+message_134:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: Musi brakować ci MARI.\her
+ 
+message_135:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 15
+      text: Mi też było ciężko.\! Nadal myślę o niej codziennie.\her
+ 
+message_136:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: Po prostu... nie rozumiem czemu odeszła od nas...<br>w ten sposób.\her
+ 
+message_137:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Ale chciałaby, żebyśmy zawsze byli szczęśliwi, nawet jeśli nie będzie jej z nami.\her
+ 
+message_138:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 15
+      text: ...\her
+ 
+message_139:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Naprawdę powinieneś odpocząć.\!<br>Idź już na górę. Przyjdę do was za chwilę.\her
+ 
+#ENTER PIANO ROOM AFTER LEAVING
+ 
+message_140:
+      text: Słyszysz, jak ktoś płacze.
+ 
+message_141:
+      text: Och...\| MARI...\her
+ 
+#Player walks back (Cant get close to HERO)
+ 
+message_145:
+      text: Nie zmieścisz się.
+ 
+message_146:
+      text: Forteca z poduszek KELA i HERO.\!<br>Minęło trochę czasu, odkąd masz kogoś do towarzystwa.
+ 
+ 
+#=====
+ 
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: O-OMORI...\! Boję się...\aub
+ 
+message_151:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Wra...\! Wracajmy...\aub
+ 
+

@@ -1,0 +1,182 @@
+# -----------------------------------------------
+# - PICNIC SAVE
+# -----------------------------------------------
+message_0:
+    text: >
+        Koszyk MARI. \!Czy chcesz ZAPISAĆ?
+
+message_1:
+    text: >
+        Drużyna OMORIEGO ma się dobrze!
+
+message_40:
+    text: >
+        OMORI przestał się zamyślać.
+
+message_41:
+    text: >
+        Czujesz się trochę lepiej.
+
+message_42:
+    text: >
+        Czujesz się lepiej.
+
+message_43:
+    text: >
+        Czujesz się dobrze.
+
+message_50:
+    text: >
+        Pusty koszyk.<br>\!Czy chcesz ZAPISAĆ?
+
+message_51:
+    text: >
+        Pusty koszyk.<br>\!Czy chcesz ZAPISAĆ?
+
+message_52:
+    text: >
+        Pusty koszyk.<br>\!Czy chcesz ZAPISAĆ?
+
+message_53:
+    text: >
+        Pusty koszyk.<br>\!Czy chcesz ZAPISAĆ?
+
+message_54:
+    text: >
+        Pusty koszyk.<br>\!Czy chcesz ZAPISAĆ?
+
+message_60:
+    text: >
+        Pusty koszyk.<br>\!Czy chcesz ZAPISAĆ?
+
+# -----------------------------------------------
+# - FRUITS BASKET
+# -----------------------------------------------
+message_2:
+    text: O tak, parę smacznych owoców.\!<br>Chciałbyś spróbować?
+
+message_3:
+    text: Razem z przyjaciółmi czujecie się jak nowonarodzeni!
+
+message_4:
+    text: O tak, parę smacznych słodyczy.\!<br>Chciałbyś spróbować?
+
+message_5:
+    text: O tak, trochę pyszności dla astronautów.\!<br>Chciałbyś spróbować?
+
+message_6:
+    text: O tak, idealnie upieczony kurczak.\!<br>Chciałbyś spróbować?
+
+message_7:
+    text: O tak, truskawkowy dżem domowej roboty.\!<br>Chciałbyś spróbować?
+
+message_8:
+    text: O tak, jakaś podejrzana galareta.\!<br>Chciałbyś spróbować?
+
+message_9:
+    text: O tak, kiszone ogórki.\!<br>Chciałbyś spróbować?
+
+message_20:
+    text: O tak, wielka porcja śmieciowego jedzenia.\!<br>Chciałbyś spróbować?
+
+message_21:
+    text: O tak, pyszne lody.\!<br>Chciałbyś spróbować?
+
+message_22:
+    text: O tak, kostka tofu.\!<br>Chciałbyś spróbować?
+
+message_23:
+    text: O tak, duży talerz zupy.\!<br>Chciałbyś spróbować?
+
+message_24:
+    text: O tak, kilka soczystych i słodkich jabłek.\!<br>Chciałbyś spróbować?
+
+message_25:
+    text: O tak, surowe owoce morza.\!<br>Chciałbyś spróbować?
+
+message_26:
+    text: O tak, bardzo długa kanapka herosa.\!<br>Chciałbyś spróbować?
+
+message_27:
+    text: O tak, parę soczystych pomidorów.\!<br>Chciałbyś spróbować?
+
+message_28:
+    text: O tak, trochę świeżego chleba.\!<br>Chciałbyś spróbować?
+
+message_29:
+    text: O tak, miska słodkich truskawek.\!<br>Chciałbyś spróbować?
+
+message_31:
+    text: O tak, wiadro świeżego mleka KROWY MORSKIEJ.\!<br>Chciałbyś posmakować?
+
+message_32:
+    text: O tak, wyjątkowa herbata i podpłomyki SŁODZIUTKIEJ.\!<br>Chciałbyś posmakować?
+
+message_33:
+    text: Wspaniałe, duże różowe łóżko.\!<br>Chciałbyś zdrzemnąć się na nim z przyjaciółmi?
+
+#Blackspace
+
+message_30:
+    text: O... twardy, zimny stek.\!<br>Chciałbyś spróbować?
+
+# -----------------------------------------------
+# - YES/NO
+# -----------------------------------------------
+message_10:
+    text: TAK
+message_11:
+    text: NIE
+
+# -----------------------------------------------
+# - NOD / SHAKE
+# -----------------------------------------------
+message_12:
+    text: TAK
+message_13:
+    text: NIE
+
+# -----------------------------------------------
+# - GO OUTSIDE / CLOSE DOOR
+# -----------------------------------------------
+message_14:
+    text: OTWÓRZ DRZWI
+message_15:
+    text: NIC NIE RÓB
+
+# -----------------------------------------------
+# - TITLE SCREEN
+# -----------------------------------------------
+message_16:
+    text: NOWA GRA
+message_17:
+    text: KONTYNUUJ
+message_18:
+    text: \C[7]KONTYNUUJ
+message_19:
+    text: WYJDŹ
+
+#DOOR OPENING
+
+message_1000:
+    text: Co chciałbyś zrobić?
+
+# -----------------------------------------------
+# - TITLE SCREEN
+# -----------------------------------------------
+
+message_70:
+    text: NIEWAŻNE
+
+# -----------------------------------------------
+# - no longer afraid
+# -----------------------------------------------
+
+message_100:
+    text: Nie lękasz się już wysokości.
+
+message_101:
+    text: Nie lękasz się już pająków.
+
+message_102:
+    text: Nie lękasz się już głębokości.

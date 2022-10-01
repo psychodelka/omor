@@ -1,0 +1,394 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: PORADNIK o bitwach napisany przez waszego (HERO)!\! Z czym mogę pomóc?
+
+message_1:
+    text: STATYSTYKI
+
+message_2:
+    text: EMOCJE
+
+message_3:
+    text: DOBICIE
+
+message_100:
+    text: ZDOLNOŚCI
+
+message_101:
+    text: DO ZAŁOŻENIA
+
+message_102:
+    text: ZABAWKI
+
+message_103:
+    text: POZIOMY
+
+#-----
+#STATS
+
+message_4:
+    text: Czego chciałbyś dowiedzieć się o STATYSTYKACH?
+
+message_5:
+    text: SERCA
+
+message_6:
+    text: SERCA pokazują ilość obrażeń, które zdołasz przyjąć przed STOSTOWANIEM.\! STOSTOWANI przyjaciele nie mogą już walczyć!
+
+message_7:
+    text: SOK
+
+message_8:
+    text: SOK potrzebny jest do używania \c[1]ZDOLNOŚCI\c[0], mających różne efekty.\! \c[1]ZDOLNOŚCI\c[0] mogą wymagać różnych ilości SOKU.
+
+message_9:
+    text: ATAK
+
+message_10:
+    text: Wyższy ATAK mniej lub bardziej zwiększa obrażenia zadawane wrogom.
+
+message_11:
+    text: OBRONA
+
+message_12:
+    text: Wyższa OBRONA zmniejsza ilość przyjmowanych obrażeń... przeważnie...
+
+message_13:
+    text: SZYBKOŚĆ
+
+message_14:
+    text: SZYBKOŚĆ wyznacza kolejność, w jakiej działają przyjaciele i wrogowie.
+
+message_15:
+    text: SZCZĘŚCIE
+
+message_16:
+    text: SZCZĘŚCIE wpływa na szansę na CIOS KRYTYCZNY, umożliwiający zadanie potężniejszego ciosu przeciwnikowi!
+
+message_17:
+    text: CELNOŚĆ
+
+message_18:
+    text: CELNOŚĆ wpływa na szansę trafienia przeciwnika.\! Im mniejsza celność, tym większe prawdopodobieństwo na pudło.
+
+message_19:
+    text: ENERGIA
+
+message_20:
+    text: ENERGIA jest zbierana wspólnie przez przyjaciół i potrzebna jest do wykonania DOBICIA.\! Więcej o ENERGII znajdziesz w sekcji o DOBICIU.
+
+
+#-----
+#EMOTIONS
+
+message_200:
+    text: Czego chciałbyś dowiedzieć się o EMOCJACH?
+
+message_21:
+    text: EMOCJE
+
+message_22:
+    text: EMOCJE mogą zadecydować o efektywności ataku.\! SZCZĘŚCIE działa na ZŁOŚĆ...\! ZŁOŚĆ działa na SMUTEK...\! a SMUTEK działa na SZCZĘŚCIE!<br><br>EMOCJE mogą też wpływać na statystyki przyjaciół i wrogów.\! Zapoznaj się z wizualizacją w SCHEMATEM EMOCJI w WAŻNYCH.
+
+message_300:
+    text: Ponadto, EMOCJE pokonanych wrogów mogą dawać bonusy.\! Pokonanie SZCZĘŚLIWEGO wroga daje szansę na więcej przedmiotów i MAŁŻY, a ŹLI wrogowie dają więcej PD.<br>Niestety SMUTNI wrogowie nie dają bonusów, ale za to są łatwiejsi do pokonania.
+
+message_23:
+    text: SZCZĘŚCIE
+
+message_24:
+    text: SZCZĘŚLIWY przyjaciel/wróg ma większe SZCZĘŚCIE i SZYBKOŚĆ, ale niższą CELNOŚĆ.
+
+message_25:
+    text: Kiedy przyjaciel/wróg jest jeszcze bardziej SZCZĘŚLIWY, staje się RADOSNY.
+
+message_26:
+    text: SZCZĘŚCIE i SZYBKOŚĆ RADOSNEGO przyjaciela/wroga wzrastają jeszcze bardziej, ale CELNOŚĆ również się obniża.
+
+message_27:
+    text: SMUTEK
+
+message_28:
+    text: SMUTNY przyjaciel/wróg ma większą OBRONĘ, ale mniejszą SZYBKOŚĆ.\! Część obrażeń, które zostałyby zadane SERCU, jest zadawana SOKU.
+
+message_29:
+    text: Kiedy przyjaciel/wróg jest jeszcze bardziej SMUTNY, staje się ZAŁAMANY.
+
+message_30:
+    text: ZAŁAMANY przyjaciel/wróg ma jeszcze wyższą OBRONĘ i niższą SZYBKOŚĆ.\! Część obrażeń, które zostałyby zadane SERCU, jest zadawana SOKU.
+
+message_31:
+    text: ZŁOŚĆ
+
+message_32:
+    text: ZŁY przyjaciel/wróg ma większy ATAK, ale mniejszą OBRONĘ.
+
+message_33:
+    text: Kiedy przyjaciel/wróg jest jeszcze bardziej ZŁY, staje się WKURZONY.
+
+
+message_34:
+    text: WKURZONY przyjaciel/wróg ma jeszcze większy ATAK, ale jego OBRONA również spada.
+
+#==
+#FOLLOW UP
+
+message_201:
+    text: Czego chciałbyś dowiedzieć się o DOBICIU?
+
+message_35:
+    text: DOBICIE
+
+message_36:
+    text: DOBICIE to dodatkowy ruch, który przyjaciel może wykonać po zwykłym ataku.
+
+message_37:
+    text: By wykonać DOBICIE, zaatakuj, a następnie naciśnij przycisk DOBICIA.
+
+message_38:
+    text: ENERGIA
+
+message_39:
+    text: ENERGIA zbierana jest wspólnie przez przyjaciół.
+
+message_40:
+    text: DOBICIE kosztuje 3 ENERGII, oprócz UWOLNIENIA ENERGII, które kosztuje 10 ENERGII.
+
+message_41:
+    text: Walka rozpoczyna się z 3 ENERGII, 1 ENERGIA regenerowana jest za każdym razem, gdy wróg rani przyjaciela.
+
+#OMORI FOLLOW UP
+
+message_42:
+    text: OMORI
+
+message_43:
+    text: O którym DOBICIU OMORIEGO chciałbyś się dowiedzieć?
+
+message_44:
+    text: PONOWNY ATAK
+
+message_45:
+    text: OMORI atakuje ponownie!
+
+message_145:
+    text: OMORI atakuje ponownie, z wyczuciem!
+
+message_245:
+    text: OMORI dwukrotnie atakuje ponownie, z wyczuciem!
+
+message_46:
+    text: PODŁOŻENIE NOGI
+
+message_47:
+    text: OMORI celuje od dołu i zmniejsza SZYBKOŚĆ wybranego wroga.
+
+message_147:
+    text: OMORI celuje od dołu, zmniejsza SZYBKOŚĆ wybranego wroga i sprawia, że staje się SMUTNY.
+
+message_247:
+    text: OMORI celuje od dołu, znacznie zmniejsza SZYBKOŚĆ wybranego wroga i sprawia, że staje się SMUTNY.
+
+message_48:
+    text: UWOLNIENIE ENERGII
+
+message_49:
+    text: Wszyscy łączą swoje siły w ostatecznym ciosie i zadają ogromne obrażenia wszystkim wrogom!
+
+#AUBREY FOLLOW UP
+
+message_250:
+    text: AUBREY
+
+message_50:
+    text: O którym DOBICIU AUBREY chciałbyś się dowiedzieć?
+
+message_51:
+    text: SPOJRZENIE NA OMORIEGO
+
+message_52:
+    text: AUBREY próbuje zwrócić na siebie uwagę OMORIEGO i ciężko rani tego samego wroga!
+
+message_152:
+    text: AUBREY próbuje zwrócić na siebie uwagę OMORIEGO i bardzo ciężko rani tego samego wroga!
+
+message_252:
+    text: AUBREY próbuje zwrócić na siebie uwagę OMORIEGO i bardzo ciężko rani tego samego wroga, ignorując jego OBRONĘ!
+
+message_53:
+    text: SPOJRZENIE NA KELA
+
+message_54:
+    text: KEL zaczepia AUBREY i ją ZŁOŚCI.
+
+message_154:
+    text: KEL zaczepia AUBREY, ZŁOSZCZĄC ich obu i podnosząć ich ATAK.
+
+message_254:
+    text: KEL zaczepia AUBREY, WKURZAJĄC ich obu i podnosząć ich ATAK.
+
+message_55:
+    text: SPOJRZENIE NA HERO
+
+message_56:
+    text: HERO wspiera AUBREY, która staje się SZCZĘŚLIWA, a jej OBRONA wzrasta.
+
+message_156:
+    text: HERO wspiera AUBREY, która staje się SZCZĘŚLIWA, jej OBRONA wzrasta i odzyskuje 25% SERCA.
+
+message_256:
+    text: HERO wspiera AUBREY, która staje się RADOSNA, jej OBRONA wzrasta, odzyskuje 75% SERCA i 50% SOKU.
+
+#KEL FOLLOW UP
+
+message_57:
+    text: KEL
+
+message_202:
+    text: O którym DOBICIU KELA chciałbyś się dowiedzieć?
+
+message_58:
+    text: PODANIE DO OMORIEGO
+
+message_59:
+    text: KEL podaje piłkę OMORIEMU, zadając mu 1 obrażenie i sprawiając, że staje się SMUTNY.
+
+message_159:
+    text: KEL podaje piłkę OMORIEMU, rani wroga i sprawia, że OMORI staje się SZCZĘŚLIWY.
+
+message_259:
+    text: KEL podaje piłkę OMORIEMU, ciężko rani wroga i sprawia, że OMORI staje się RADOSNY.
+
+message_60:
+    text: PODANIE DO AUBREY
+
+message_61:
+    text: KEL odbija piłkę do AUBREY, która wybija ją i rani losowego wroga!
+
+message_161:
+    text: KEL odbija piłkę do AUBREY, która wybija ją i ciężko rani losowego wroga!
+
+message_261:
+    text: KEL odbija piłkę do AUBREY, która wybija ją i bardzo ciężko rani losowego wroga!
+
+message_62:
+    text: PODANIE DO HERO
+
+message_63:
+    text: KEL podaje piłkę do HERO, który pomaga mu rzutem zranić wrogów!
+
+message_163:
+    text: KEL podaje piłkę do HERO, który pomaga mu rzutem ciężko zranić wrogów!
+
+message_263:
+    text: KEL podaje piłkę do HERO, który pomaga mu rzutem bardzo ciężko zranić wrogów i zmniejsza ich ATAK!
+
+#HERO FOLLOW UP
+
+message_64:
+    text: HERO
+
+message_203:
+    text: O którym DOBICIU HERO chciałbyś się dowiedzieć?
+
+message_65:
+    text: ZAWOŁAJ OMORIEGO
+
+message_66:
+    text: HERO woła OMORIEGO.\! OMORI atakuje, a HERO słowami otuchy przywaraca 15% SERCA OMORIEGO.
+
+message_166:
+    text: HERO woła OMORIEGO.\! OMORI atakuje, a HERO słowami otuchy przywaraca 25% SERCA i 10% SOKU OMORIEGO.
+
+message_266:
+    text: HERO woła OMORIEGO.\! OMORI atakuje, a HERO słowami otuchy przywaraca 40% SERCA i 20% SOKU OMORIEGO.
+
+message_67:
+    text: ZAWOŁAJ AUBREY
+
+message_68:
+    text: HERO woła AUBREY.\! AUBREY atakuje, a HERO słowami otuchy przywaraca 15% SERCA AUBREY.
+
+message_168:
+    text: HERO woła AUBREY.\! AUBREY atakuje, a HERO słowami otuchy przywaraca 25% SERCA i 10% SOKU AUBREY.
+
+message_268:
+    text: HERO woła AUBREY.\! AUBREY atakuje, a HERO słowami otuchy przywaraca 40% SERCA i 20% SOKU AUBREY.
+
+message_69:
+    text: ZAWOŁAJ KELA
+
+message_70:
+    text: HERO woła KELA.\! KEL atakuje, a HERO słowami otuchy przywaraca 15% SERCA KELA.
+
+message_170:
+    text: HERO woła KELA.\! KEL atakuje, a HERO słowami otuchy przywaraca 25% SERCA i 10% SOKU KELA.
+
+message_270:
+    text: HERO woła KELA.\! KEL atakuje, a HERO słowami otuchy przywaraca 40% SERCA i 20% SOKU KELA.
+
+#-----
+#SKILLS
+
+message_204:
+    text: Czego chciałbyś dowiedzieć się o \c[1]ZDOLNOŚCIACH\c[0]?
+
+message_71:
+    text: POZNAWANIE ZDOLNOŚCI
+
+message_72:
+    text: \c[1]ZDOLNOŚCI\c[0] mogą być poznawane przez wzbijanie się na wyższy POZIOM, wykonywanie pobocznych zadań lub znajdywanie szczególnych przedmiotów.\! Niektóre \c[1]ZDOLNOŚCI\c[0], takie jak \c[1]PICHCENIE\c[0] HERO mogą być używane poza walką.
+
+message_73:
+    text: ZAMIANA ZDOLNOŚCI
+
+message_74:
+    text: Każdy przyjaciel może mieć 4 \c[1]ZDOLNOŚCI\c[0] na raz.
+
+message_75:
+    text: Możesz wybrać \c[1]ZDOLNOŚCI\c[0] przyjaciół poprzez MENU.
+
+#---
+#EQUIPS
+
+message_205:
+    text: Czego chciałbyś dowiedzieć się o rzeczach DO ZAŁOŻENIA?
+
+message_76:
+    text: BRONIE
+
+message_77:
+    text: BRONIE podnoszą ATAK posiadacza.\!<br>Przyjaciel może założyć tylko swoją BROŃ.
+
+message_78:
+    text: GADŻETY
+
+message_79:
+    text: GADŻETY mogą być używane przez każdego.\!<br>GADŻETÓW wzmacnia statystyki, ale niektóre mają specjalne efekty.
+
+#----
+#TOYS
+
+message_80:
+    text: ZABAWKI są używane podczas walki, by wesprzeć przyjaciół lub zranić wrogów.\! Nie mogą zostać użyte poza walką.
+
+#----
+#LEVELING UP
+
+message_81:
+    text: OMORI i NIESTOSTOWANI przyjaciele zdobywają PD po każdej walce.\! Jeśli zostaje osiągnięty pewien poziom PD, przyjaciel wzbija się na wyższy POZIOM.
+
+message_82:
+    text: Gdy przyjaciel osiąga nowy POZIOM, jego statystyki wzrastają i czasem poznaje nową \c[1]ZDOLNOŚĆ\c[0]!
+
+message_83:
+    text: Możesz sprawdzić brakujące do następnego POZIOMU PD, sprawdzając fioletowo-różowy pasek pod imieniem przyjaciela w MENU. 
+
+
+#----
+
+message_1000:
+    text: NIEWAŻNE

@@ -1,0 +1,354 @@
+# =========================================================================================
+# Cutscene: Last Time at Player's
+# =========================================================================================
+ 
+#Trigger: Enter proximity of PLAYER's House.
+ 
+message_0:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 7
+      text: Wow...\! właśnie coś do mnie dotarło.\kel
+ 
+message_1:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: Mieszkamy przecież obok siebie...<br>pomimo to, minęło tyle czasu, od kiedy ostatni raz byliśmy w twoim domu.\! Czas szybko leci, co nie?\kel
+ 
+message_2:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Taa, masz rację...\her
+ 
+message_3:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Wejdźmy do środka.\! Ty przodem, \n[8]!\her
+ 
+# =========================================================================================
+# Cutscene: Last Time at Player's (Cont.)
+# =========================================================================================
+ 
+#Trigger: Enter PLAYER's Living Room.
+ 
+message_10:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: Hej! Twój dom jest totalnie pusty, \n[8]!\! <br>Wydaje się o wiele większy, niż wcześniej.\kel
+ 
+#HERO walks to the couch area.
+ 
+message_11:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Tutaj kiedyś stała ta duża kanapa, na której oglądaliśmy telewizję.\! <br>W każdy sobotni poranek przychodziliśmy tutaj oglądać kreskówki.\her
+ 
+message_12:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Taa, a to ta plama po tym, jak wylałem raz mojego \c[3]POMARAŃCZOWEGO JASIA\c[0]!\! MARI była na mnie taka wściekła...\kel
+ 
+message_13:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: Przez to, że gdy jej kot w niego wszedł, rozniósł go po całym domu!\her
+ 
+message_14:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 10
+      text: He, he...\! Masz rację...\kel
+ 
+#KEL goes to the backyard door.
+ 
+message_15:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 7
+      text: O niee...\!<br>Już za ciemno, żeby iść obejrzeć domek na drzewie.\kel
+ 
+message_16:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Nie szkodzi.\! Możemy tam pójść jutro.\her
+ 
+message_17:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: \Com[2]\{CHWILA, MAM POMYSŁ!!\!<br>\}Może zostaniemy tutaj na noc?\kel
+ 
+message_18:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: To będą nasze ostatnie wspólne chwile w tym domu, co nie?\kel
+ 
+#KEL turns to PLAYER.
+ 
+message_19:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: A kiedy zdarzy się kolejna okazja, żeby \n[8] spędził z nami noc?\kel
+ 
+message_20:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: Byłoby świetnie, ale...\! Mamie się to nie spodoba. \her
+ 
+message_21:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Da sobie radę!\! I tak jestem już zmęczony wstawaniem w nocy przez to, że SALLY ciągle płacze.\! Będziesz zmywał naczynia z mamą<br>przez tydzień, co nie? Należy ci się! \kel
+ 
+message_22:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: Emm...\! Masz rację.\! Wszystko powinno być dobrze.\! <br>Mieszamy tuż obok, więc to nie tak daleko! \her
+ 
+message_23:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Dokąd idziesz, \n[8]?\!<br>Nie wiesz, że to niemiłe zostawiać gości samych?\kel
+ 
+message_24:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Zobaczmy co HERO robi przy fortepianie!\kel
+ 
+message_25:
+      text: Nie chcesz samemu wychodzić w nocy.
+ 
+# =========================================================================================
+# Cutscene: Hero on the Piano
+# =========================================================================================
+ 
+#Trigger: Enter Hallway.
+ 
+message_40:
+      faceset: MainCharacter_Basil
+      faceindex: 15
+      text: Ach, pamiętam ten korytarz!\!<br>Po lewej była szafa...\!<br>a fortepian po prawej.\her
+ 
+message_41:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Ciekawe, czy dalej tam stoi.\! Pójdę to sprawdzić! \her
+ 
+message_42:
+      text: HERO opuścił drużynę.
+ 
+#HERO leaves
+ 
+# =========================================================================================
+# Cutscene: Hero on the Piano (Cont.)
+# =========================================================================================
+ 
+#Trigger: Enter Piano Room.
+ 
+message_60:
+      faceset: MainCharacter_Basil
+      faceindex: 15
+      text: Nie oceniaj mnie zbyt pochopnie\! Długo już nie ćwiczyłem.\her
+ 
+#HERO plays an immaculate piece.
+ 
+message_61:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: Popisujesz się...\kel
+ 
+message_62:
+      faceset: MainCharacter_Basil
+      faceindex: 14
+      text: Haha, chyba dalej potrafię.\her
+ 
+#HERO turns to PLAYER.
+ 
+message_63:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Hej, \n[8]. No właśnie! Dalej grasz na skrzypcach?\her
+ 
+#HERO looks at empty violin stand.
+ 
+message_64:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: Och...\! Nie ma ich tutaj.\! Pewnie już je spakowałeś.\her
+ 
+message_65:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Była taka piosenką, którą kiedyś graliście razem z MARI...\!<br>Czasami ciągle mi chodzi po głowie, ale nie mogę sobie przypomnieć, jak się nazywała.\her
+ 
+message_66:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Graliście ją na okrągło.\!<br>Czasami słyszeliśmy ją nawet z naszego domu!\!<br>Tylko jak się nazywała...\her
+ 
+#[Trigger: PLAYER attempts to leave the room.]
+ 
+message_67:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 13
+      text: \sinv[1]Ziew...\! Kurcze, nagle bardzo zachciało mi się spać.\! <br>Może powinniśmy już iść już spać.\kel\sinv[0]
+ 
+message_68:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Dobry pomysł. Muszę wstać rano, żeby pobiegać!\her
+ 
+message_69:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: To gdzie będziemy spać, \n[8]?\! Zgaduję, że gdzieś w Twoim pokoju, co nie?\! Pamiętam, że kiedyś nienawidziłeś spać samemu.\her
+ 
+message_70:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Ta, brzmi super!\!<br>Możemy nawet spać na podłodze!<br>Chodźmy znaleźć jakieś koce!\kel
+ 
+#KEL runs out.
+ 
+message_71:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: Chwila, KEL! Zaczekaj na mnie!\her
+ 
+#HERO runs out.
+#PLAYER hears the duet when he is alone.
+ 
+# =========================================================================================
+# Cutscene: Talking before Bed
+# =========================================================================================
+ 
+#KEL and HERO are in a bed fort.
+ 
+message_90:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Hej, \n[8]! Zbudowaliśmy fortecę z poduszek!\!<br>Mam nadzieję, że nie masz nic przeciwko.\kel
+ 
+message_91:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: To był pomysł KELA, nie mój.\her
+ 
+message_92:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: Swoją drogą, HERO... \n[8], razem ze mą, kupił ci prezent!\kel
+ 
+message_110:
+      text: KEL oddał HERO jego \c[4]PREZENT\c[0]!
+ 
+message_93:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 13
+      text: To KSIĄŻKA KUCHARSKA PAPY CHRUPCIA “GDZIE CHRUPKÓW SZEŚĆ, TAM BĘDZIE CO ZJEŚĆ”!\! <br>Pamiętasz ją?\kel
+ 
+message_94:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Oczywiście, że tak!<br>\!Kurcze, pamiętam, jak chciałem zostać kucharzem...\!<br>Teraz, to brzmi tak głupio.\her
+ 
+message_95:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Ej, ale dobrze ci szło! \!<br>Dalej możesz być kucharzem, HERO!\kel
+ 
+message_96:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Ach...\! To bez znaczenia.\! I tak już nie mam na to czasu. \her
+ 
+message_97:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: Ale...\! uwielbiasz gotować, co nie?\!<br>A ludzie muszą coś jeść, co nie?\! No to...\! Czemu nie?\kel
+ 
+message_98:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: Haha...\! To chyba tak nie działa, KEL-\her
+ 
+message_99:
+      text: ...\| ...\| ...\|<br>\SINV[1]Hhhr...\| Ghrh...\| Ghhgh...\kel
+ 
+message_100:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: ...\her
+ 
+message_101:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Tak szybko zasypia...\! Chyba zawsze tak było.\her
+ 
+#HERO looks at PLAYER.
+ 
+message_102:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Dzięki, że pozwalasz nam tutaj spać, \n[8].\her
+ 
+message_103:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: Jestem pewien, że musi być ci ciężko samemu, w tym pustym domu...<BR>zwłaszcza bez MARI.\her
+ 
+message_104:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 15
+      text: Przykro mi, że nie było mnie wtedy przy tobie...\her
+ 
+message_105:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Wszystko się tak zmieniło...\!<br>ale wygląda na to, że ty zostałeś taki, jak zawsze.\her
+ 
+message_106:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Nawet mi ulżyło! Haha!\her
+ 
+#HERO looks away.
+ 
+message_107:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Ech...\! Miło mi się znowu z tobą widzieć.\! <br>Szkoda tylko, że nie ma z nami AUBREY i BASILA. \her
+ 
+#HERO is surprised.
+ 
+message_108:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: Eee... w każdym razie!\! Przepraszam za to.\! Już późno. <br>Pewnie też już pójdę spać.\her
+ 
+message_109:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Dobranoc, \n[8]! Pogadamy rano.\her
+ 
+# =========================================================================================
+# Cutscene:  Player in the Bathtub
+# =========================================================================================
+ 
+#Trigger: Enter Bathroom.
+ 
+message_130:
+      text: Czujesz, że czas na kąpiel.
+ 
+#Screen turns black. PLAYER is in bath tub.
+ 
+message_131:
+      text: Poczułeś, jakby coś cię wciągało...
+ 
+message_150:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: \herCieszę się, że ktoś zajmował się fortepianem MARI.\! Praktycznie zero kurzu!
+ 
+message_151:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 9
+      text: \kelJakim cudem HERO wciąż potrafi grać tak ładnie?\! Ja nawet już nie pamiętam, jak czytać nuty...
+ 
+

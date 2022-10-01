@@ -1,0 +1,38 @@
+# -----------------------------------------------
+# - IF OMORI
+# -----------------------------------------------
+message_0:
+    text: Nie poradzisz sobie z tym.
+
+message_9:
+    text: To robota dla OMORIEGO!
+
+message_10:
+    text: To robota dla AUBREY!
+
+message_11:
+    text: To robota dla KELA!
+
+message_12:
+    text: To robota dla HERO!
+
+message_13:
+    text: \n[8] da sobie z tym radę!
+
+# -----------------------------------------------
+# - IF AUBREY
+# -----------------------------------------------
+message_1:
+    text: AUBREY nic tu nie poradzi.
+
+# -----------------------------------------------
+# - IF KEL
+# -----------------------------------------------
+message_2:
+    text: KEL nic tu nie poradzi.
+
+# -----------------------------------------------
+# - IF HERO
+# -----------------------------------------------
+message_3:
+    text: HERO nic tu nie poradzi.

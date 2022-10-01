@@ -1,0 +1,218 @@
+# =========================================================================================
+# Cutscene: Space Ex-Boyfriend
+# =========================================================================================
+ 
+#Trigger: Entering SBF's House with SWEETHEART MIXTAPE.
+ 
+message_0:
+      text: Udało się wam dzieciaki!\! Może nie wygląda jak nowa, ale to na pewno nasza zgubiona  \c[4]SUPER-SKŁADANKA\c[0]!\!<br>Wielkie dzięki, kolego.\spg
+ 
+message_1:
+      text: Z jej pomocą, wreszcie uda nam się obudzić KOSMOCHŁOPAKA!\spg
+ 
+#KEL walks up to you.
+ 
+message_2:
+      text: KEL sięgnał do twojej KIESZENI i wyjął z niej\c[4]SUPER-SKŁADANKĘ\c[0].
+ 
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: W zasadzie jeśli o to chodzi...\! to chyba mamy złe wieści.\!<br>Krążą plotki, że KOSMOCHŁOPAK i SŁODZIUTKA...\! Oni...\! ze sobą zerwali.\aub
+ 
+#KEL slowly walks to SPACE BOYFRIEND.
+ 
+message_4:
+      text: \Com[2]C-co? Naprawdę?\!<br>Tym razem na serio?\!<br>Nie...\! Ale to by oznaczało...\spg
+ 
+message_5:
+      text: Że puszczenie mu\c[4]SUPER-SKŁADANKI\c[0] nie ma już sensu...\! Wszelka nadzieja...\! przepadła.\spg
+ 
+#KEL jumps.
+ 
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \Com[2]Hej, KOSMOCHŁOPAKU! Znaleźlismy twoją \c[4]SUPER-SKŁADANKĘ\c[0]!\kel
+ 
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: ...\kel
+ 
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Hmph... Mogłeś nam chociaż podziękować.\kel
+ 
+#AUBREY jumps.
+ 
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Nie przejmuj się KOLESIU KOSMOPIRACIE! To tylko plotki...\!<br>a, nawet jakby to była prawda to przecież nie koniec świata.\aub
+ 
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Ludzie jakoś sobie radzą po rozstaniu!\! <br>Jestem pewna, że KOSMOCHŁOPAK już za niedługo stanie na nogi.\!<br>Potrzebuje tylko trochę czasu, żeby dojść do siebie.\aub
+ 
+#KEL slowly walks to cassette player.
+ 
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: O, mam pomysł! Puszczę \c[4]SUPER-SKŁADANKĘ\c[0] na jego boomboxie.\!<br>To go na pewno obudzi.\kel
+ 
+#HERO jumps.
+ 
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: W tym wypadku, pewnie powinniśmy się jednak pozbyć tej \c[4]SUPER-SKLADANKI\c[0].\! Słuchanie tych piosenek może być dla niego zbyt trudne.\her
+ 
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Daj mi ją, OMORI. U mnie będzie bezpieczna.\her
+ 
+message_14:
+      text: HERO sięgnął do twojej KIESZENI.
+ 
+#HERO is confused.
+ 
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Huh? Gdzie ona jest?\her
+ 
+#KEL opens cassette player.
+ 
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \{KEL!! CO TY WYRABIASZ!?\her\}
+ 
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \Com[2]\quake[1]\{NIEEE\{EEEE\{EEEE\{EEEEEEEEE!!!\SINV[0]\her
+ 
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \SINV[1]\{POBUDKA, KOSMOMĘŻU!!\kel\}\}\SINV[0]
+ 
+#KEL puts the SWEETHEART MIXTAPE in the cassette player.
+#SWEETHEART MIXTAPE song plays.
+ 
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: O-oł...\! To się źle skończy...\her
+ 
+message_20:
+      text: \Com[2]\quake[1]Co...\| \Com[2]to...\| \Com[2]za...\sbf\quake[0]
+ 
+message_21:
+      text: \Com[2]\quake[1]\{\{PIEKIELNY...\sbf\quake[0]
+ 
+message_22:
+      text: \Com[2]\quake[1]\{\{\{HAŁAS!?!?\sbf\quake[0]
+ 
+#Screen shakes. SPACE PIRATE guy flies O.S. at an alarming speed.
+ 
+message_23:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Kurde, KEL! Patrz co narobiłeś!\aub
+ 
+message_24:
+      text: \Com[2]\{\quake[1]BUAHAHA\{HAHA\{HAHA!!\sbf\sinv[0]
+ 
+message_25:
+      text: \Com[2]\quake[1]\{BÓJCIE SIĘ, ALBOWIEM ZOSTAŁEM ZBUDZONY!!\sbf\quake[0]
+ 
+message_26:
+      text: ...\! Hmph...\! <br>Sekundka.\sbf
+ 
+#SPACE BOYFRIEND teleports to front of cassette player and changes the song to pre-battle music.
+ 
+message_27:
+      text: Hmhmhmhm...\|<br>\Com[2]\{\quake[1]BUAHAHAH\{AHAHAHA!!\sbf\sinv[0]
+ 
+message_28:
+      text: Od razu lepiej!\! Dobra, na czym skończyłem...?\! Ah, tak!\sbf
+ 
+message_29:
+      text: \Com[2]Głupie dzieciaki!\!<br>Muszę wam podziękować za wyrwanie mnie z tego żałosnego stanu.\!<br>Znudziło mi się leżenie w łóżku i udawanie chorego.\sbf
+ 
+message_30:
+      text: Jak zawsze mawiam...\! <br>\{\quake[1]UCZUCIA SĄ DLA PRZEGRYWÓW!!\sbf\}
+ 
+message_31:
+      text: Ta lafirynda, SŁODZIUTKA...\!<br>Jeszcze pożałuje, że ze mną zerwała!\sbf
+ 
+message_32:
+      text: Po tym wszystkim co dla niej zrobiłem!\!<br>\{WSZYSTKIM! SŁYSZYCIE!?!?\sbf\}
+ 
+message_33:
+      text: Ta niewdzięczna, mała...\! Aughhhhhh... \sbf
+ 
+message_34:
+      text: \quake[1]AAAAAU\Com[2]\{UUUGGGGG\Com[2]\{GGGGGHHHHH\Com[2]\{HHHHH!!!\sbf\quake[0]
+ 
+message_35:
+      text: \quake[1]\{PO PROSTU ZAPOMNIJ O NIEJ!!\! ZAPOMNIJ O WSZYSTKIM!!\sbf\quake[0]
+ 
+message_37:
+      text: Znajdę SŁODZIUTKĄ...\sbf
+ 
+message_38:
+      text: \{I SPRAWIĘ, ŻE JESZCZE ZA TO ZAPŁACI!!\sbf\quake[0]
+ 
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Sorki, ale nie pozwolimy ci na to KOSMOCHŁOPAKU...\!<br>A może powinnam powiedzieć...\aub
+ 
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{\{\Com[2]KOSMO-EXIE!!\aub
+ 
+message_41:
+      text: Ciekawe.\! Wyzywasz mnie na pojedynek?\!<br>\{CZY TY W OGÓLE WIESZ Z KIM MASZ DO CZYNIENIA!?\n<KOSMO-EX>
+ 
+message_42:
+      text: \{JA JESTEM KAPITANEM KOSMOPIRATÓW!\n<KOSMO-EX>
+ 
+message_43:
+      text: Mam władzę nad całym układem słonecznym i mogę latać w kosmosie kiedy tylko chcę!\n<KOSMO-EX>
+ 
+message_44:
+      text: \Com[2]Los całego wszechświata jest w moich rękach!\n<KOSMO-EX>
+ 
+message_45:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Bla, bla, bla!\! Mów sobie, co tam chcesz... Nie boimy się ciebie!\kel
+ 
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: Jeśli planujesz siać zamęt,<br>najpierw musisz nas pokonać!\her
+ 
+message_47:
+      text: ...\n<KOSMO-EX>
+ 
+message_48:
+      text: Hmf...\! Więc tak chcecie to załatwić.\!<br>Jeśli nadal będziecie mnie zatrzymywać...\!<br>Obawiam się, że będziemy musieli rozwiązać to siłą.\n<KOSMO-EX>
+ 
+message_49:
+      text: \{\quake[1]ZATEM POKAŻCIE, NA CO WAS STAĆ!!\quake[0]\n<KOSMO-EX>
+ 
+message_50:
+      text: \{\{\quake[1]WALCZCIE, NĘDZNI ZIEMIANIE!!\quake[0]\n<KOSMO-EX>
+ 
+

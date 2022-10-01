@@ -1,0 +1,632 @@
+# =========================================================================================
+# Cutscene: Breakfast by Hero
+# =========================================================================================
+ 
+#Trigger: Talk to HERO.
+ 
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \sinv[1]Dzieeeeń dobry, \n[8]! Pobudka!\her
+ 
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herZauważyłem LISTĘ ZADAŃ, którą zostawiła twoja mama i już wszystko zrobiłem!!\! Mam nadzieję, że to ci nie przeszkadza!
+ 
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Zrobiłem też śniadanie.\!<br>Zejdź na dół, póki jest nadal ciepłe...\! <br>\Com[2]KEL je już dokładkę!\her
+ 
+#Trigger: Talk to KEL.
+ 
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \Com[2]Miłego dzionka, \n[8]!\!<br>Lepiej...\! mlask...\! bierz się za jedzenie, zanim wszystko zjem!\!<br>\}Choć i tak zjadłem już większość bekonu.\kel
+ 
+#HERO enters.
+ 
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \sinv[1]Idzie następny talerz bekonu! Uwaga, bo gorący!\her
+ 
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: O jeny! Cały dla mnie?\! Dzięki, brachu! Heh heh!\kel
+ 
+#Doorbell rings.
+ 
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Mlask, mlask, mlask...\! Kto to może być?\! <br>Pójdę sprawdzić.\kel
+ 
+#KEL walks O.S.
+ 
+message_7:
+      text: \quake[1]ŁAA\{\Com[2]ŁAAAA\{\Com[2]AA\{AA! TO TY!!\kel
+ 
+#KIM speaks:
+ 
+message_8:
+      text: \sinv[1]\{FUUUUUUUJ\{BLEEE!!\sinv[0]\!\}\}<br>Co to ma być!? Co ty odwalasz, KEL!?\who
+ 
+#HERO is surprised.
+ 
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: Hę?\! Co się tam dzieje?\her
+ 
+# =========================================================================================
+ 
+#HERO walks O.S. to Living Room.
+#Trigger: Walk to Living Room
+ 
+message_10:
+      text: Kurde, KEL...\! Jestem cała w jajkach...\kim
+ 
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: No... \! Sorki, ale...\!<br>Jesteś ostatnią osobą, której bym się tu spodziewał.\kel
+ 
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: Co tu w ogóle robisz?\kel
+ 
+message_13:
+      text: Grr...\! \Com[2]Chciałam o to samo spytać!\kim
+ 
+message_14:
+      text: Po prostu...\! Chodzi o AUBREY.\kim
+ 
+message_15:
+      text: Nie reaguje na pukanie do drzwi...\! nawet do tych tylnych...\!<br>ani na kamienie, które rzucaliśmy w jej okno.\kim
+ 
+message_16:
+      text: Wczoraj była w kiepskim nastroju...\kim
+ 
+#KIM jumps.
+ 
+message_17:
+      text: \Com[2]\{TO MUSI BYĆ WASZA WINA!\}<br>Lepiej gadajcie, co jej zrobiliście!\kim
+ 
+#KEL jumps.
+ 
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]Niczego nie zrobiliśmy!\! To ona ma jakiś problem!\kel
+ 
+#HERO turns to KEL.
+ 
+ 
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: Poczekaj, KEL...\!<br>Jeśli AUBREY jest smutna, powinniśmy chociaż spróbować jej pomóc.\her
+ 
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: To AUBREY.\!<br>Znamy się, odkąd byliśmy dziećmi!\her
+ 
+#KEL turns to HERO.
+ 
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: Nie widziałeś, jak wepchnęła BASILA do jeziora?\kel
+ 
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Mówiłem ci...\! zmieniła się!\! <br>Nie powinniśmy przejmować się takimi jak ona!\kel
+ 
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Prawda, że się zmieniła, ale i tak mi na niej zależy.\her
+ 
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Nawet jeśli tego po niej nie widać, jestem pewien, że AUBREY nadal na mnie zależy.\!<br>Ona już taka jest.\her
+ 
+message_25:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: No nie wiem...\kel
+ 
+#HERO jumps.
+ 
+message_26:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Dziś jest ostatnia szansa, żeby zrobić to zanim \n[8] wyjedzie.\! <br>To nie może się tak skończyć!\her
+ 
+message_27:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Powinniśmy przynajmniej spróbować porozmawiać!\her
+ 
+message_28:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: ...\kel
+ 
+#KEL turns around.
+ 
+message_29:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: No dobra...\! Ja i \n[8] pójdziemy z tobą...\! ale to ty będziesz z nią gadał.\kel
+ 
+message_30:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Pewnie tylko cię wysłucha...\kel
+ 
+message_31:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Dzięki, KEL.\her
+ 
+#HERO walks to KIM.
+ 
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: Hej, KIM...\! Dzięki za poproszenie nas o pomoc.\! <br>Jesteś dobrą przyjaciółką.\her
+ 
+message_33:
+      text: H-hę?\! Eee...\! J-jasne, wszystko mi jedno...\kim
+ 
+message_34:
+      text: ...\kim
+ 
+message_35:
+      text: \}Grr...\! Grr...\kim
+ 
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Może pójdziesz przodem? Spotkamy się na miejscu.\her
+ 
+message_37:
+      text: O-okej..\! Nara...\kim
+ 
+#KIM leaves.
+ 
+# =========================================================================================
+# Cutscene: Aubrey's House
+# =========================================================================================
+ 
+#Trigger: Examine AUBREY's Door.
+ 
+#HERO knocks on door.
+ 
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: Halo?\! Jest tu ktoś?\her
+ 
+#HERO turns to KEL.
+ 
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Tak w ogóle... czy kiedykolwiek byliśmy u AUBREY??\her
+ 
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Chyba nie.\! Zawsze przychodziła bawić się do nas.\! <br>Nie przypominam sobie spotykania się u niej w domu.\kel
+ 
+#HERO turns around.
+#HERO knocks on door again.
+ 
+message_53:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Halo?\! AUBREY?\! Jest ktoś w domu?\her
+ 
+message_54:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \sinv[1]Haaaa\{aaa\{loooo\{oooo\}ooo\}oo...?\kel
+ 
+#Door opens.
+#HERO is surprised.
+ 
+message_55:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: O! Drzwi są otwarte.\! Wejdźmy do środka.\her
+ 
+message_56:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Wow... Ale okropny bałagan...\kel
+ 
+message_57:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Znajdźmy pokój AUBREY.\! Musimy sprawdzić, czy wszystko u niej dobrze.\her
+ 
+# =========================================================================================
+# Cutscene: Aubrey's Apology
+# =========================================================================================
+ 
+#Trigger: Enter Aubrey's Room.
+ 
+message_70:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Cześć, AUBREY! Jak się czujesz?\her
+ 
+#AUBREY turns around and is surprised.
+ 
+message_69:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: ...\aub
+ 
+message_71:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: \Com[2]C-c-c-co wy tu, cholera, robicie!?\aub
+ 
+message_72:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \{\quake[1]WYNOCHA Z MOJEGO POKOJU!!\aub
+ 
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Przepraszamy za najście... \!Daj nam chwilę.\her
+ 
+message_74:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Chcieliśmy się tylko upewnić, czy wszystko w porządku.\her
+ 
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: ...\aub
+ 
+message_76:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: W wielkim porządku!\aub
+ 
+message_77:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: Słyszałem coś...\!<br>ale chcę zobaczyć twoją wersję wydarzeń.\! <br>Możesz powiedzieć mi, co się wczoraj zdażyło?\her
+ 
+message_78:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: ...\! Nic się nie stało.\aub
+ 
+#KEL jumps.
+ 
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]Wepchnęłaś BASILA do jeziora!\! Przecież wiesz, że on nie umie pływać!\kel
+ 
+#AUBREY turns around.
+ 
+message_80:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: N-nie chciałam tego zrobić...\!<br>Ja tylko...\! chciałam go odepchnąć...\aub
+ 
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]\{ON MÓGŁ UTONĄĆ!!\kel
+ 
+#AUBREY turns back at KEL.
+ 
+message_82:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \com[2]Mówię, że to był wypadek!\aub
+ 
+message_83:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: Słuchaj...\! Przepraszam, dobra!?\aub
+ 
+#AUBREY takes a step toward KEL.
+ 
+message_84:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: To ty ciągle wtrącasz się i zachowujesz, jakbyś był lepszy od wszystkich!\aub
+ 
+message_85:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: No...\! A ty ciągle znęcasz się nad BASILEM i kradniesz jego rzeczy!\kel
+ 
+#AUBREY is frustrated.
+ 
+message_86:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \Com[2]Przestań gadać, jakbyś cokolwiek o tym wiedział!\! <br>Mówię ci, że to nie twoja sprawa.\aub
+ 
+message_87:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Ale...\! To jest moja sprawa.\kel
+ 
+message_88:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Ty...\! Ty i BASIL...\! I wy wszyscy...\!<br>Byliście moimi najlepszymi przyjaciółmi...\kel
+ 
+message_89:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: ...\aub
+ 
+#HERO walks up.
+ 
+message_90:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Dobra, dobra...\! Już rozumiem...\!<br>To kolejna typowa kłótnia KELA i AUBREY.\her
+ 
+message_91:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Pogódźcie się już...\!<br>Robiliście już to tyle razy!\her
+ 
+message_92:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: ...\kel
+ 
+message_93:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: ...\aub
+ 
+#HERO walks toward AUBREY's photos.
+ 
+message_94:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: Hej...\ To brakujące zdjęcia MARI.\her
+ 
+message_95:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: ... ... ... \aub
+ 
+message_96:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: One...\! To wszystko, co mi po niej pozostało.\aub
+ 
+message_97:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: Ale wiesz, że zabieranie ich BASILOWI nie było w porządku.\! Te zdjęcia należały do niego.\her
+ 
+message_98:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: No...\! To i tak bez znaczenia.\! Nawet, jeśli mamy te zdjęcia...\!<br>To wyrzuciłam wszystkie pozostałe.\aub
+ 
+message_99:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: Pewnie już dawno po nich...\aub
+ 
+message_100:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Wcale nie, AUBREY. \!\n[8] ma je ze sobą!\kel
+ 
+#AUBREY is surprised.
+ 
+message_101:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \Com[2]Co?\! N-naprawdę?\! Ale jak?\aub
+ 
+message_102:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Jestem pewna, że wyrzuciłam je do śmieci.\!<br>Chyba, że... ty i \n[8]...\aub
+ 
+#KEL is sweating.
+ 
+message_103:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: Haha...\! Naprawdę przeszukaliście śmietnik, żeby je odzyskać?\aub
+ 
+message_104:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: ...\kel
+ 
+message_105:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: To...\! trochę obrzydliwe.\aub
+ 
+#KEL puts his hand behind his head.
+ 
+message_106:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: Heh...\kel
+ 
+#HERO looks at AUBREY.
+ 
+message_107:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: AUBREY...\! Włóżmy zdjęcia MARI z powrotem do \c[4]ALBUMU ZE ZDJĘCIAMI\c[0].\!<br>Wszystkie...\! Mają tu swoje miejsce.\her
+ 
+#HERO takes photos down from AUBREY's wall.
+ 
+message_108:
+      text: HERO wziął od ciebie \c[4]ALBUM ZE ZDJĘCIAMI\c[0].
+ 
+#HERO takes PHOTO ALBUM from PLAYER and opens it on the floor.
+ 
+message_109:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: ...\aub
+ 
+message_110:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: ...\kel
+ 
+message_111:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Chodźcie.\! Zróbmy to razem.\her
+ 
+ 
+ 
+# =========================================================================================
+# Cutscene: Aubrey joins the Gang
+# =========================================================================================
+ 
+#Trigger: Finish sorting photos.
+ 
+message_132:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Już.\! Teraz wszystko jest tam, gdzie być powinno!\her
+ 
+message_133:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Wygląda na to, że nadal brakuje jednego zdjęcia... ale przynajmniej ułożyliśmy całą resztę!\her
+ 
+#HERO turns around to KEL and AUBREY.
+ 
+message_134:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: I już...\! Od razu lepiej, prawda?\her
+ 
+message_135:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Ech...\! To były fajne czasy, prawda?\kel
+ 
+message_136:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: Ta...\! Chyba masz rację.\aub
+ 
+#AUBREY turns around.
+ 
+message_137:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: ... ... ... ... ... ... \aub
+ 
+message_138:
+      faceset: MainCharacters_Faraway
+      faceindex: 9
+      text: Przepraszam was...\! Zachowałam się jak świnia.\aub
+ 
+#KEL looks at AUBREY.
+ 
+message_139:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Ja też przepraszam, AUBREY...\!<br>Też nie traktowałem cię zbyt dobrze.\kel
+ 
+message_140:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: No dobra! Przeprosiny przyjęte! Teraz możemy znowu być przyjaciółmi!\!<br>\sinv[1]Kto chce przytulasa!?\her
+ 
+#KEL is sweaty.
+ 
+message_141:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \Com[2]No weź, HERO! Nie teraz! Nie rób wstydu.\kel
+ 
+#AUBREY turns away.
+ 
+message_142:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: N-nie, nie trzeba... Dzięki..\aub
+ 
+#HERO walks toward entrance.
+ 
+message_143:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Teraz musimy sprawdzić co u BASILA.\her
+ 
+message_144:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: Mam nadzieję, że dziś czuje się lepiej.\her
+ 
+#HERO turns to AUBREY.
+ 
+message_145:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: AUBREY...\! Po tym, co usłyszałem od KELA...\!<br>Pewnie wiesz, że powinnaś go przeprosić.\her
+ 
+message_146:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Tak...\! Masz rację...\aub
+ 
+message_147:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: Dzięki, AUBREY. \!Dobrze jest mieć cię z powrotem. \!<br>A teraz, chodźmy stąd!\her
+ 
+message_148:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: Hmf...\! Okej...\aub
+ 
+message_150:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelHmm...\! Jezu, faktycznie minęło już sporo czasu.\! Gdzie one miały być?
+ 
+message_151:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubMoże \n[8] będzie wiedzieć?
+ 
+message_152:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herRacja, \n[8]. Nadal pamiętasz, prawda?\! Zawsze miałeś świetną pamięć. 
+ 
+

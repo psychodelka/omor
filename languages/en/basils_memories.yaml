@@ -1,0 +1,715 @@
+ 
+# =========================================================================================
+# SOMETHING BATTLE
+# ========================================================================================
+ 
+message_100:
+      text: Czujesz, że twoje życie jest zagrożone. 
+ 
+message_101:
+      text: Zdobyłeś \c[4]ŻARÓWKĘ\c[0].
+ 
+# =========================================================================================
+# THE LIGHT
+# ========================================================================================
+ 
+message_110:
+      text: \n<???>Po wielu trudach w końcu pogodziłeś się z okrutną prawdą...\! co nie oznacza, że twój los jest skazany na porażkę.\! Na szczęście...\! nadal pamiętasz drogę do domu.
+ 
+# =========================================================================================
+# CHILDHOOD HOME
+# ========================================================================================
+ 
+message_120:
+      text: Nie możesz wyjść bez twoich \c[4]SKRZYPIEC\c[0].
+ 
+message_122:
+      text: Telefon, który MAMA zostawiła w moim pokoju.\!<br>Za nim jest starannie wypisany plan dnia.\!<br>MARI zawsze wszystko szczegółowo planowała.
+ 
+#Player's Room
+ 
+message_123:
+      text: Pudełka pełne dziecięcych zabawek.\! Jeszcze nie miałem okazji ich wyrzucić.
+ 
+ 
+message_124:
+      text: Pospolita roślina domowa.\! Nic specjalnego.
+ 
+ 
+message_125:
+      text: Szafa, z założenia na ubrania...\! lecz aktualnie jest przepełniona starymi zabawkami i cukierkami.
+ 
+ 
+message_126:
+      text: Lampka.\! MARI zawsze czyta książki przed snem, pomaga jej to zasnąć.\! Często gaszę za nią światło, gdy już zaśnie.
+ 
+ 
+message_127:
+      text: Stary komputer TATY.\! Dał nam go, kiedy kupił sobie nowego laptopa do pracy.
+ 
+ 
+message_128:
+      text: Moje podręczniki i podręczniki MARI.\!<br>Przez masę lekcji MARI zawsze wraca późno do domu.\!<br>Musi być zmęczona...
+ 
+ 
+message_129:
+      text: Przewygodne łóżko...\!<br>Kiedyś należało do MARI, ale zamieniła się ze mną, gdy zauważyła, że mam problemy ze snem.
+ 
+ 
+message_130:
+      text: Łóżko MARI...\! Oraz moje, gdy jeszcze miałem koszmary.
+ 
+ 
+message_444:
+      text: Ubrania MARI.\! Pachną proszkiem do prania.
+ 
+ 
+#piano Room
+ 
+message_131:
+      text: Stary zegar z wahadłem.\! Zawsze pędzi do przodu.
+ 
+ 
+message_132:
+      text: Stary zegar z wahadłem.\! Zawsze się spóźnia.
+ 
+ 
+message_134:
+      text: Fortepian.\!<br>Na środku widnieje wygrawerowany napis “OMORI”.
+ 
+ 
+message_135:
+      text: Kolekcja książek z nutami MARI. Mimo jej porządkowości, nigdy nie są na swoim miejscu.\! Na prawie każdej stronie są niechlujnie napisane notatki.
+ 
+ 
+message_136:
+      text: Kolekcja wakacyjnych pamiątek MAMY i TATY.\! Nigdy nie przepadałem za wakacjami, ale...\! teraz wydaje mi się... że nie były aż tak złe.
+ 
+ 
+message_137:
+      text: Książki, które MAMA i TATA nazbierali przez lata.\!<br>Są pokryte kurzem.
+ 
+#closet
+ 
+message_138:
+      text: Zamknięte pudełko na zabawki.\! Chcesz je otworzyć?
+#Yes/No
+ 
+#kitchen
+ 
+message_139:
+      text: Deska do krojenia.\! MARI kiedyś skaleczyła się, używając jej.\! Wtedy pierwszy raz widziałem, jak płacze.
+ 
+message_140:
+      text: Lodówka.\! Jest pełna dań MAMY oraz resztek TATY...
+ 
+message_141:
+      text: Stary toster.\! MAMA twierdzi, że jest starszy ode mnie.
+ 
+message_142:
+      text: Mikrofalówka.\! Dzięki niej przygotowałem wiele pysznych dań.
+ 
+message_143:
+      text: Kubek z resztką kawy.\!<br>MAMA wszędzie je zostawia, gdy się stresuje.
+ 
+message_144:
+      text: Brudne pranie.\!<br>MARI zawsze prosi mnie, żebym pomógł jej ze składaniem.
+ 
+#parents room
+ 
+message_145:
+      text: Budzik... dla odpowiedzialnych ludzi.\!<br>Nastawiony o 5 minut przed czasem.
+ 
+message_146:
+      text: Drzewko bonsai TATY.\! Bardzo urosło, odkąd ostatni raz je widziałem.
+ 
+message_147:
+      text: Łóżko MAMY i TATY.\! MAMA śpi po lewej, a TATA po prawej.
+ 
+message_148:
+      text: Szafa MAMY i TATY.\!<br>Nie wolno mi do niej zaglądać.
+ 
+message_149:
+      text: Sterta książek...\! Jakby były tu od zawsze.
+ 
+message_150:
+      text: Porcelanowe wazony MAMY.\!<br>Było ich więcej, ale przypadkowo jednego zbiłem.\!<br>MARI wzięła na siebie winę...
+ 
+message_151:
+      text: Rodzinne zdjęcia.\! Niektórych członków rodziny częściej widuję na zdjęciach, niż na żywo.
+ 
+message_152:
+      text: Koszyk pełen owoców.\! MARI zależy na tym, by w domu zawsze były świeże owoce.
+ 
+message_153:
+      text: Wieszak.\!<br>To czapka TATY, ale nigdy nie widziałem, żeby ją miał na sobie.
+ 
+message_154:
+      text: Pilot do telewizora.\! TATA jest mocno zdenerwowany, gdy go zgubi...\!<br>Choć zwykle jest między poduszkami.
+ 
+message_155:
+      text: Fajny, duży telewizor.\! Oglądanie Reksia z rana w sobotę... to były czasy.
+ 
+message_156:
+      text: Lampa podłogowa.\! KEL i ja przypadkowo przewróciliśmy poprzednią na ziemię.\! MAMA nie była zbyt szczęśliwa...
+ 
+message_157:
+      text: Ciepły kominek.\!<br>Nad nim są moje zdjęcia z dzieciństwa.\! Nie lubię się uśmiechać...\! nawet do zdjęć.
+ 
+message_158:
+      text: Telefon stacjonarny MAMY.\! Kiedyś był pokoju MAMY i TATY, ale się to zmieniło.
+ 
+message_159:
+      text: \sinv[1]\}Miaaaaaaaauu...\n<MRUSIA>
+ 
+message_160:
+      text: Dobry kotek.
+ 
+message_161:
+      text: Moje zdjęcie rodzinne...
+ 
+message_162:
+      text: Domek dla ptaków.\! Często z niego korzystają.
+ 
+message_163:
+      text: Nikogo nie ma w domu.
+ 
+message_164:
+      text: Bukiet zrobiony przez MAMĘ.\!<br>MAMA i MARI ostatnio dużo się o tym uczą.\!<br>Czasami też mnie do tego zachęcają.
+ 
+message_167:
+      text: Śmietnik.\! MRUSIA lubi się w nim chować.
+ 
+message_168:
+      text: Zabawkowe autka.\! Widocznie KEL znowu zapomniał ich zabrać.
+ 
+message_169:
+      text: Sterta kiczowatych ozdób.\! MAMA uwielbia je kolekcjonować...\! Nawet prosiła TATĘ, żeby zbudował nową półkę przeznaczoną specjalnie na nie.
+ 
+message_170:
+      text: Kaktus.\! Dostaliśmy go od taty KELA, gdy się tu przeprowadziliśmy.\! Przetrwał wiele lat...
+ 
+message_171:
+      text: Półka na buty.\! Buty MAMY są niepoukładane, jak zwykle..
+ 
+message_172:
+      text: Bardzo wygodna kanapa, idealna na popołudniowe drzemki.\! Zawsze zasypiam w połowie filmu.
+ 
+message_173:
+      text: Lampka.\! Jest tu, odkąd pamiętam.
+ 
+message_174:
+      text: Stosik podstawek pod kubki.\! TATA dostaje je z pracy za darmo.
+ 
+message_175:
+      text: Mała szufladka.\! MAMA nie mogła się zdecydować, co do niej włożyć.
+ 
+message_176:
+      text: Blat.\! MARI lubi tu odrabiać lekcje razem z HERO.
+ 
+message_177:
+      text: Zlew kuchenny.\! Zmywanie naczyń jest do kitu.
+ 
+message_178:
+      text: Kuchenka.\! MARI często prosi HERO, aby coś dla niej ugotował...\!<br>Ale zwykle wychodzi za dużo, więc wszyscy się częstują.
+ 
+message_179:
+      text: To moje miejsce.
+ 
+message_187:
+      text: To miejsce BASILA.
+ 
+message_188:
+      text: Toaleta.\! Bardzo potrzebna.
+ 
+message_189:
+      text: Przybory do kąpieli.\! W teorii każdy miał mieć swoją półkę...\! ale w praktyce zawsze mylimy się czyja jest czyja.
+ 
+message_190:
+      text: Lustro.\! Patrzenie na nie przed dłuższy czas jest nieprzyjemne.
+ 
+message_191:
+      text: Wanna.\! Nie mam o niej zdania.
+ 
+message_192:
+      text: Małe roślinki.\! Powinny sprawiać, że łazienka lepiej pachnie.\! Mam wątpliwości co to tego, czy działają.
+ 
+message_193:
+      text: Kartonowe pudła porozrzucane po kątach.
+ 
+message_194:
+      text: Pusty wieszak.
+ 
+message_230:
+      text: Lampka.\! MAMA kupiła ją na promocji..\! Pamiętam to, bo zabrała mnie wtedy na zakupy...\! I to w niedzielę...
+ 
+message_201:
+      text: Rośliny ozdabiające korytarz.\! MAMA musiała je przestawić, bo MRUSIA próbowała je zjeść.
+ 
+message_202:
+      text: Drewniane krzesło.\! Zawsze na nim siadam, gdy słucham gry MARI na fortepianie.
+ 
+message_203:
+      text: Kilka stołków.\! BASIL i HERO przynieśli je tu po to, by każdy mógł oglądać, jak ćwiczę...
+ 
+message_204:
+      text: Sztuczne rośliny ozdabiające korytarz.\! AUBREY je uwielbia.
+ 
+message_205:
+      text: Sztuczne rośliny ozdabiające korytarz.\! Szczerze mówiąc, mam je gdzieś.
+ 
+message_206:
+      text: Otwarte pudełko na zabawki.
+ 
+message_207:
+      text: Znowu resztki...
+ 
+message_208:
+      text: Na kiedyś pustym podwórku jest teraz domek na drzewie.\! Jest schowany na tyłach...\! Ale na szczęście nie zasłania mojego ulubionego drzewa.
+ 
+message_209:
+      text: Zapamiętaj...\| Jest w pudełku na zabawki.
+ 
+#REMEMBER TO ADD FAMILY PHOTO
+ 
+# =========================================================================================
+# CROSSROADS STREET
+# ========================================================================================
+ 
+message_165:
+      text: Kosz KELA.\! Wygląda na nowy.
+ 
+message_166:
+      text: KELA i HERO nie ma w domu.
+ 
+ 
+# =========================================================================================
+# PLAYER'S BACKYARD AND TREEHOUSE
+# ========================================================================================
+ 
+message_180:
+      text: Kij do baseballa.\! MARI używała go do gry w softballa, dopóki nie uszkodziła sobie kolana.
+ 
+message_181:
+      text: Pluszak AUBREY, \"PAN ŻAKŁANBAK\".
+ 
+message_182:
+      text: Książki kucharskie HERO.\!<br>MARI kupiła mu je na urodziny.
+ 
+message_183:
+      text: Kalendarz...\!<br>To już ostatnie dni wakacji...
+ 
+#Changes after you get violin to:
+ 
+message_184:
+      text: Kalendarz...\! Dzień występu już minął.
+ 
+message_185:
+      text: Stary telewizor.\! KEL go tu przyniósł. Był bardzo zawiedziony, gdy dowiedział się, że nie działa.
+ 
+#Only when the tree is there as character set
+#The tree appears over the stump before you grab the broken violin, but disappears after
+#Ocean might not have set this up yet.
+ 
+message_186:
+      text: Moje ulubione drzewo.
+ 
+message_400:
+      text: Papierowe roślinki.\! AUBREY i BASIL razem je zrobili.
+ 
+message_401:
+      text: Jojo.\! Znałem tylko jedną sztuczkę.
+ 
+message_402:
+      text: Stare buty KELA.\! Często zapominał zabierać swoich rzeczy z mojego domu.
+ 
+ 
+# =========================================================================================
+# MEMORIES
+# ========================================================================================
+ 
+#Beach Memory:
+message_195:
+      text: Koszyk piknikowy MARI.\!<br>Dziś jest wypełniony serem i krakersami.
+ 
+#Rainy Memory:
+message_196:
+      text: Plastikowy flaming.\! Chyba lubi deszcz.
+ 
+message_197:
+      text: Biała, elegancka skrzynka na listy.
+ 
+#Picnic Memory:
+message_198:
+      text: Symbol \c[11]DALEKOSTĄDU\c[0] góruje nad jeziorem.
+ 
+message_199:
+      text: Koszyk piknikowy MARI.\!<br>Dziś jest pełen kanapek z masłem orzechowym i dżemem.
+ 
+message_200:
+      text: Klocki LEGO rozrzucone na trawie.\!<br>Nieskończone możliwości!
+ 
+message_231:
+      text: Nasze buty.\! Nie wolno nam w nich wchodzić na koc...
+ 
+message_232:
+      text: Połowa arbuza.\!<br>Druga połowa jest już w naszych żołądkach.
+ 
+message_233:
+      text: Pusty talerz.\! HERO zawsze pilnuje KELA, żeby zjadał swoje porcje.
+ 
+message_234:
+      text: Stary toster.\! Nie robi tostów.
+ 
+message_235:
+      text: Pluszowa dziewczynka z różowymi włosami.
+ 
+message_236:
+      text: Rozrzucone na podłodze zabawki.\!<br>Możliwości są nieskończone!
+ 
+message_237:
+      text: Buty KELA. Zapomniał ich zabrać w zeszłym tygodniu.
+ 
+message_238:
+      text: Zwykły zamek z piasku.
+ 
+message_239:
+      text: Sterta plażowych zabawek.\! Dla dzieci i dorosłych!
+ 
+message_240:
+      text: Beczka po ropie służąca jako kosz na śmieci.
+ 
+message_241:
+      text: Plażowa torba MARI.\! Pasuje do torby HERO!
+ 
+message_242:
+      text: Plażowa torba HERO.\! Pasuje do torby MARI!
+ 
+message_243:
+      text: Saszetka AUBREY.\! Idealnie na niej leży!
+ 
+message_244:
+      text: Plecak KELA.\! Jest dla niego o wiele za duży!
+ 
+message_245:
+      text: Torba BASILA.\! Jest trochę mała, ale jemu to nie przeszkadza!
+ 
+message_246:
+      text: Moja reklamówka.\! Spełnia swoją rolę.
+ 
+message_247:
+      text: Wieża ratownika.\! Widocznie żaden się dziś nie zjawił.
+ 
+message_248:
+      text: \"ŻYJ BARDZIEJ - NA PLAŻY!\"
+ 
+message_249:
+      text: Zdejmij buty przed wejściem na plażę!\!<br>Piasek w butach jest do bani.
+ 
+message_250:
+      text: \"USIĄDŹ, WYPOCZNIJ, BAW SIĘ DOBRZE!\"
+ 
+message_251:
+      text: Leżak.
+ 
+message_252:
+      text: Zjedzony arbuz.\! Był przepyszny.
+ 
+ 
+# =========================================================================================
+# GENERAL
+# =========================================================================================
+ 
+message_0:
+      text: Chcesz przejrzeć \c[4]ALBUM ZE ZDJĘCIAMI\c[0] BASILA?
+ 
+message_1:
+      text: Zdobyłeś \c[4]ALBUM ZE ZDJĘCIAMI\c[0] BASILA.
+ 
+message_2:
+      text: Zdobyłeś \c[4]ZDJĘCIE\c[0].
+ 
+# =========================================================================================
+# BASIL'S MEADOW
+# =========================================================================================
+ 
+#Shadow BASIL in front of the big tree
+ 
+message_9:
+      text: Jesteś tu...\! Nadal jest dla nas nadzieja.\bas
+ 
+message_10:
+      text: Byłem przekonany, że po mnie wrócisz...\! proszę...\! przekonaj się do mnie.\bas
+ 
+#message_10:
+#      text: \n[8]...\! You're finally here.\bas
+ 
+#message_11:
+#      text: I've always dreamed that you would come back for me...<br>But maybe now, it's too late.\bas
+ 
+#message_12:
+#      text: It's getting hard to breathe lately.\!<br>I'm not sure how much longer I can go on...\bas
+ 
+message_13:
+      text: Brama jest zamknięta.
+ 
+# =========================================================================================
+# PLAYER'S LIVING ROOM
+# =========================================================================================
+ 
+#Entrance
+ 
+message_14:
+      text: Drzwi są zamknięte na klucz.
+ 
+#Exit
+ 
+message_15:
+      text: Wejście jest pokryte ciemnymi włosami.
+ 
+message_60:
+      text: \n<MAMA>Moja jedyna córka...\| odeszła w zaświaty.\!<br>A ty...\| jesteś moim jedynym synem.\| Nie mogę stracić...\| również ciebie.
+ 
+message_61:
+      text: \n<MAMA>Proszę cię, bądź grzeczny, \n[8]...\|<br>Bądź grzeczny...\| proszę...
+ 
+message_62:
+      text: Krwistoczerwone światło z telewizora razi twoje oczy.\!<br>Jesteś nim zaintrygowany.
+ 
+# =========================================================================================
+# HOSPITAL
+# =========================================================================================
+ 
+#Patient
+ 
+message_16:
+      text: Pacjent nie oddycha.
+ 
+message_40:
+      text: Ten pacjent oddycha w normie.
+ 
+#Television
+ 
+message_30:
+      text: Widzisz czwórkę dzieci rozmawiających z wielorybem.
+ 
+message_31:
+      text: Widzisz czwórkę dzieci jeżdżących windą.
+ 
+message_32:
+      text: Widzisz piątkę dzieci na pikniku.
+ 
+message_33:
+      text: Widzisz czwórkę dzieci wspinających się po drabinie do kosmosu.
+ 
+message_34:
+      text: Widzisz trójkę dzieci i jednego tosta.
+ 
+message_35:
+      text: Widzisz czwórkę dzieci gadających do posągu.
+ 
+message_36:
+      text: Widzisz czwórkę dzieci bawiących się w lesie.
+ 
+message_37:
+      text: Widzisz czwórkę dzieci jeżdżących w wagoniku.
+ 
+message_38:
+      text: Telewizor jest wyłączony.
+ 
+# =========================================================================================
+# RECITAL BACKSTAGE
+# =========================================================================================
+ 
+#Photos
+ 
+message_17:
+      text: Coś zabrało twój palec.
+ 
+#Photos
+ 
+message_18:
+      text: Coś powstrzymuje cię od podejścia bliżej.
+ 
+# =========================================================================================
+# PLAYER'S ROOM
+# =========================================================================================
+ 
+#Shadow BASIL in room
+ 
+message_19:
+      text: \n[8]...\! Nie martw się...\!<br>Wszystko będzie dobrze.\bas
+ 
+#Door
+ 
+message_20:
+      text: Czujesz, że czegoś ci brakuje.
+ 
+# =========================================================================================
+# LAMP ROOM
+# =========================================================================================
+ 
+#Lamp
+ 
+message_21:
+      text: Wkręcasz \c[4]ŻARÓWKĘ\c[0].
+ 
+message_22:
+      text: \c[4]ŻARÓWKA\c[0] oświetla cały pokój.
+ 
+message_54:
+      text: Chcesz podnieść to zdjęcie?
+ 
+message_23:
+      text: Czy chcesz wkręcić \c[4]ŻARÓWKĘ\c[0]?
+ 
+#Happy Chair
+ 
+message_50:
+      text: Powietrze jest chłodne i przyjemne.
+ 
+message_51:
+      text: Słyszysz ćwierkanie ptaków na zewnątrz.
+ 
+message_52:
+      text: W powietrzu unosi się zapach czystego prania.
+ 
+message_53:
+      text: Czujesz, jak słońce ogrzewa twoje policzki.
+ 
+message_69:
+      text: Kalendarz MARI.\! Dziś jest dzień występu.
+ 
+#test in BACKSTAGE
+ 
+message_300:
+      faceset: MainCharacter_Mari
+      faceindex: 22
+      text: \n[8]...\! W końcu się pojawiłeś.\aub
+ 
+message_301:
+      faceset: MainCharacter_Mari
+      faceindex: 23
+      text: Teraz wszystko zależy tylko od ciebie.\aub
+ 
+message_302:
+      faceset: MainCharacter_Mari
+      faceindex: 27
+      text: No wiesz...\! Zanim się poznaliśmy, trudno było mi dopasować się do innych...\aub
+ 
+message_303:
+      faceset: MainCharacter_Mari
+      faceindex: 27
+      text: Nawet, gdy zostaliśmy przyjaciółmi...\! Miałam obawy, że w każdej chwili możesz mnie zostawić.\aub
+ 
+message_304:
+      faceset: MainCharacter_Mari
+      faceindex: 23
+      text: Ale...\! kiedy inni mieli swoje sprawy na głowach...\! zawsze miałeś dla mnie czas.\aub
+ 
+message_305:
+      faceset: MainCharacter_Mari
+      faceindex: 23
+      text: Słuchałeś moich głupot przez masę godzin...\! Wiedziałam, że mnie zrozumiesz.\aub
+ 
+message_306:
+      faceset: MainCharacter_Mari
+      faceindex: 26
+      text: Wiem, że nie widzieliśmy się kopę lat...\! co nie oznacza, że to koniec naszej przyjaźni.\kel
+ 
+message_307:
+      faceset: MainCharacter_Mari
+      faceindex: 25
+      text: Ludzie zawsze mówili, że jestem tępy i lekkomyślny...\! ale przy tobie wcale się tak nie czuję!\kel
+ 
+message_308:
+      faceset: MainCharacter_Mari
+      faceindex: 8
+      text:  \n[8]...\! Wiemy, że nie lubisz być w centrum uwagi.\her
+ 
+message_309:
+      faceset: MainCharacter_Mari
+      faceindex: 11
+      text: Musiałeś przeżyć koszmar.\her
+ 
+message_310:
+      faceset: MainCharacter_Mari
+      faceindex: 9
+      text: Ale...\! powinieneś nam choć trochę zaufać.\her
+ 
+message_312:
+      faceset: MainCharacter_Mari
+      faceindex: 24
+      text: To, że zrobiłeś coś złego... nie świadczy o tym, że jesteś kimś złym.\kel
+ 
+message_313:
+      faceset: MainCharacter_Mari
+      faceindex: 11
+      text: Musiałeś żyć z tym bólem przez tyle czasu...\! wręcz dusiłeś go w sobie.\her
+ 
+message_314:
+      faceset: MainCharacter_Mari
+      faceindex: 8
+      text: Rozumiem, że łatwiej jest ignorować problem, ale dobrze jest się wypłakać.\her
+ 
+message_315:
+      faceset: MainCharacter_Mari
+      faceindex: 10
+      text: Jeszcze nadejdą dobre czasy.\! Pamiętaj, że życie zmienia się na lepsze...\! jeśli tylko tego chcesz.\her
+ 
+message_316:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Piłka jest po twojej stronie.\aub
+ 
+message_317:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Ale pamiętaj, że jesteśmy tu dla ciebie.\her
+ 
+message_318:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: I...\! Naprawdę mamy nadzieję, że nie widzimy się po raz ostatni.\kel
+ 
+message_319:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Dajesz, \n[8]!\! Obiecuję, że zawsze będę z tobą!\kel
+ 
+message_320:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: No...\! Mam nadzieję, że będziemy przyjaciółmi na zawsze.\! Nie przeszkadza ci to, co nie?\kel
+ 
+message_321:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Jakkolwiek postąpisz...\! Zawsze będziemy chcieli dla ciebie jak najlepiej.\her
+ 
+message_322:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Nie zapomnij o nas.\! Będziemy ci kibicować.\her
+ 
+message_323:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: Bez względu na to, jak głęboko zakopiesz swoje uczucia...\! zawsze wyjdą na wierzch.\! A to, jak z nimi postąpisz...\! zadecyduje o twojej prawdzie.\aub
+ 
+message_324:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Hej, \n[8]...\aub
+ 
+message_325:
+      faceset: MainCharacters_Faraway
+      faceindex: 11
+      text: Połamania skrzypiec.\aub
+ 
+message_330:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Liczymy na ciebie...\| \n[8].\aub
+ 
+

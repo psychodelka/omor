@@ -1,0 +1,126 @@
+ # ===========================================
+ # Menu scenes and translations
+ # ===========================================
+
+plugins:
+  mainMenu:
+    commands:
+      - ['???', 'ZACZEP', 'DŹGNIJ']
+      - ZAŁÓŻ
+      - KIESZEŃ
+      - ZDOLNOŚCI
+      - OPCJE
+    status:
+      tag: KOGO ZACZEPIĆ?
+      select: KOGO WYBRAĆ?
+
+  equipMenu:
+    weapon: BROŃ
+    charm: GADŻET
+    replace: ZAMIENIĆ?
+
+  skillMenu:
+    skills: ZDOLNOŚCI
+    replace: ZAMIENIĆ?
+    DoWhat: CO ZROBIĆ?
+    use: UŻYĆ
+    swap: ZAMIENIĆ
+    useon: NA KIM UŻYĆ?
+
+  pocketMenu:
+    consumables: JEDZENIE
+    toys: ZABAWKI
+    important: WAŻNE
+    trash: WYRZUĆ
+    use: UŻYJ
+    sure: NA PEWNO?
+    useon: NA KIM UŻYĆ?
+
+  optionsMenu:
+    general:
+      screenResolution:
+        text: ROZDZIELCZOŚĆ EKRANU
+        options: ['X1', 'X2', X3, X4]
+        help: Zmiana rozdzielczości ekranu.
+        spacing: 80
+
+      fullScreen:
+        text: TRYB PEŁNOEKRANOWY
+        options: ['WŁ.', 'WYŁ.']
+        help: Wyświetl grę na pełnym ekranie.
+        boolIndex: true
+        spacing: 80
+
+      commandRemember:
+        text: REMEMBER SELECTED COMMANDS
+        options: ['WŁ.', 'WYŁ.']
+        help: Remember selected commands in battle.
+        boolIndex: true
+        spacing: 80
+
+      battleAnimations:
+        text: ANIMACJE WALKI
+        options: ['WŁ.', 'WYŁ.']
+        help: HELP TEXT
+        boolIndex: true
+        spacing: 80
+
+      battleAnimationSpeed:
+        text: BATTLE ANIMATION SPEED
+        options: ['NORMAL', 'FAST', 'FASTER', 'FASTEST']
+        help: HELP TEXT
+        spacing: 130
+
+      battleLogSpeed:
+        text: BATTLELOG SPEED
+        options: ['NORMAL', 'AUTO']
+        help: HELP TEXT
+        spacing: 130
+
+      alwaysDash:
+        text: CHARACTER MOVEMENT
+        options: ['DASH', 'WALK']
+        help: HELP TEXT
+        boolIndex: true
+        spacing: 130
+
+    audio:
+      bgmVolume:
+        text: BGM VOLUME
+        help: Change the volume of the background music.
+
+      bgsVolume:
+        text: BGS VOLUME
+        help: Change the volume of the background sounds.
+
+      meVolume:
+        text: ME VOLUME
+        help: Change the volume of the musical effects.
+
+      seVolume:
+        text: SE VOLUME
+        help: Change the volume of the sound effects.
+
+    controls:
+      keyboardHeader: KLAWIATURA
+      gamepadHeader: PAD
+      pressKeyPrompt: NACIŚNIJ KLAWISZ
+      resetAll: ZRESETUJ
+      help: Press a key to change the input.
+      inputNames:
+        up: GÓRA (↑)
+        down: DÓŁ (↓)
+        left: LEWO (←)
+        right: PRAWO (→)
+        ok: ZATWIERDŹ
+        escape: ANULUJ
+        shift: BIEG
+        tag: ZACZEPKA
+        tab: STRZAŁ
+        pageup: LPM
+        pagedown: PPM
+
+    system:
+      load:
+        text: WCZYTAJ ZAPIS
+        help: Wczytaj zapis z pliku.

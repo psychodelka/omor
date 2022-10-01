@@ -1,0 +1,457 @@
+# =========================================================================================
+# Cutscene: Basil is Still Missing
+# =========================================================================================
+ 
+#Trigger: Examine bed and choose to sleep.
+#OMORI is on the floor, and gets up. He is surrounded by KEL, AUBREY, and HERO.
+ 
+#HERO jumps.
+ 
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: OMORI! Witaj ponownie!\aub
+ 
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Widzisz, HERO? Mówiłem, żebyś się nie martwił.\!<br>OMORI zawsze się znajduje, gdy go potrzebujemy!\kel
+ 
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Wszystko dobrze, OMORI?<br>Martwiliśmy się o ciebie...\aub
+ 
+#KEL walks towards staircase.
+ 
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Skoro już jesteś, chodźmy szukać BASILA!\!<br>Liczy na nas!\kel
+ 
+#AUBREY jumps.
+ 
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Cierpliwości, KEL! <br>Najpierw musimy sprawdzić, czy wszystko w porządku u OMORIEGO!\aub
+ 
+#AUBREY has an idea.
+ 
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Albo... Ty z HERO idźcie przodem.\aub
+ 
+#AUBREY looks at OMORI.
+ 
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: No chodź, OMORI! Pójdźmy razem...\aub
+ 
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Tylko nasza dwójka!\aub
+ 
+#KEL jumps.
+ 
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Hej, nie możesz nas tak pomijać!\kel
+ 
+#HERO looks at AUBREY.
+ 
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: On ma rację, AUBREY. Musimy zrobić to wspólnie - jak grupa.\her
+ 
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Nigdy nie wiesz, kiedy możesz potrzebować czyjejś pomocy.\! <br>Kiedy pracujemy razem, jesteśmy silniejsi!\her
+ 
+#AUBREY looks away.
+ 
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Hmf! OMORI i ja damy radę we dwójkę.\aub
+ 
+#AUBREY looks at OMORI.
+ 
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Obronisz mnie, prawda OMORI?\aub
+ 
+#KEL looks at AUBREY.
+ 
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Fuuj, fuuj... Blee... Nie przy ludziach!\kel
+ 
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: AUBREY, proszę. Bądźmy poważni.\!<br>Chodźmy powiedzieć MARI, że u OMORIEGO wszystko gra.\!<br>Wiesz, jak zawsze się o niego martwi...\her
+ 
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Dobra, dobra... okej...\!<br>Chciałam się tylko trochę podroczyć...\aub
+ 
+ 
+# =========================================================================================
+# Cutscene: Sweetheart's Quest for Hearts
+# =========================================================================================
+ 
+#Trigger: Walk to Stump Entrance
+#A line of four KIEŁKUNS are walking toward PYREFLY FOREST.
+ 
+message_30:
+      text: Ożeż, ożeż!\! Czekałem już tak długo na to wydarzenie!!\!<br>To zdecydowanie przepiękny dzień!\n<KIEŁKUN>
+ 
+message_31:
+      text: O tak, o tak!\! W końcu, nasza cudowna królewna, SŁODZIUTKA, nareszcie się nam objawi!\n<KIEŁKUN>
+ 
+message_32:
+      text: Ojej, ojej!\! Ledwie jestem w stanie utrzymać moje podekscytowanie.\!<br>Ten występ zdecydowanie będzie najbardziej szokujący do tej pory!\n<KIEŁKUN>
+ 
+message_33:
+      text: O wow, o wow!!\! Musimy się spieszyć!\! <br>Nasze cztery przednie \c[4]BILETY NA WYSTĘP\c[0] tu są!\!<br>Niedługo rozpocznie się wspaniała zabawa, a my nie możemy tego przegapić!\n<KIEŁKUN>
+ 
+message_34:
+      text: Więc... w którą to my mieliśmy iść stronę?\n<KIEŁKUN>
+ 
+#Before Cutscene block
+message_43:
+      text: \n<KIEŁKUN>Ożeż, ożeż!
+ 
+message_44:
+      text: \n<KIEŁKUN>O tak, o tak!
+ 
+message_45:
+      text: \n<KIEŁKUN>Ojej, ojej!
+ 
+message_46:
+      text: \n<KIEŁKUN>O wow, o wow!
+ 
+#KEL is surprised and walks forward.
+ 
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Ach! To grupa ZAGUBIONYCH KIEŁKUNÓW!\! \Com[2]Bierzmy ich\kel
+ 
+#[4 LOST KIEŁKUNS BATTLE]
+ 
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Hej, popatrz! Tamtym KIEŁKUNOM właśnie wypadły jakieś bilety!\kel
+ 
+#AUBREY jumps.
+ 
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Zobaczmy...\!<br>O, to bilety na pierwsze miejsca na jakiś występ...\aub
+ 
+message_38:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Z udziałem...\! SŁODZIUTKIEJ?\aub
+ 
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Czy to nie była dziewczyna KAPITANA KOSMIKA?\her
+ 
+#AUBREY looks at HERO.
+ 
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Tak! Wygląda to na jakiś rodzaj zawodów!\aub
+ 
+message_41:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Jeżeli będziemy niedaleko, powinniśmy wejść i zobaczyć!\! <br>W końcu mamy \c[4]BILETY NA WYSTĘP\c[0]!\aub
+ 
+message_42:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Cóż...\! no dobrze.\!<br>Może wpadniemy, jeśli akurat natkniemy się na ten występ.\her
+ 
+# =========================================================================================
+# Cutscene: Pyreflies Intro
+# =========================================================================================
+ 
+#Trigger: Enter Pyrefly Forest
+ 
+message_60:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: Ech...\! Z drugiej strony... Poszukajmy BASILA gdzie indziej.\! Przez to miejsce mam gęsią skórkę.\kel
+ 
+message_61:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Nie zachowuj się jak dziecko, KEL.\!<br>Gdzieniegdzie są tu pajęczyny i tyle!\aub
+ 
+message_62:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \{\quake[1]AAAAAAAAA!!\!<br>MASZ PAJĄKA NA GŁOWIE!!\kel\quake[0]
+ 
+message_63:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: \{\Com[2]C-CO? \Com[2]GDZIE?! \Com[2]ZDEJMIJ GO!!\aub\quake[0]
+ 
+message_64:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Haha! Tylko żartuję!<br>I patrz, kto się śmieje ostatni!\kel
+ 
+message_65:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Hmf! To nie było śmieszne, KEL...\aub
+ 
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest
+# =========================================================================================
+ 
+#Trigger: Walk in proximity of SWEETHEART stage.
+ 
+message_80:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Wow, popatrzcie na tę ogromną scenę!<br>Wygląda tak pięknie, jak ją sobie wyobrażałam!\aub
+ 
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Usiądźmy już.<br>Wygląda na to, że występ niedługo się zacznie!\aub
+ 
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest (Cont.)
+# =========================================================================================
+ 
+#Trigger: Examine Front Row Seats.
+ 
+#Camera pans to stage.
+#Spot light moves around.
+#SMM walks onto the stage.
+ 
+message_100:
+      text: Panie i kiełkunowie...\!<br>Witamy w odcinku specjalnym...\!<br>\"POSZUKIWAŃ WYBRANKA SŁODZIUTKIEJ!\"\smm
+ 
+#Applause
+ 
+message_101:
+      text: Przed rozpoczęciem występu, chcielibyśmy poświęcić moment na oddanie czci komuś, kto był dla nas ogromną inspiracją. \!<br>Nasz ukochany władca, KIEŁKOSŁAW.\smm
+ 
+#The curtain opens and a portrait of YE OLD SPROUT is shown.
+ 
+message_102:
+      text: Zdecydowanie był opiekunem, na którego żadne z nas nie zasługiwało.\! <br>Uczcijmy jego pamięć chwilą ciszy.\smm
+ 
+message_103:
+      text: ...\| ...\| ...\| ...\| ...  \smm
+ 
+message_104:
+      text: Niech spoczywa w pokoju wiecznym.\smm
+ 
+#Curtains close.
+ 
+message_105:
+      text: \sinv[1]\{A TERAZ...\. ROZPOCZNIJMY WYSTĘP!!\smm
+ 
+#Curtains open, changing the graphic behind to SWEETHEART'S Show Graphic.
+ 
+message_106:
+      text: Ostatnim razem w \"POSZUKIWANIACH WYBRANKA SŁODZIUTKIEJ\"...\!<br>Naszej ukochanej królewnie...\! po raz kolejny...\! nie udało się zakochać w żadnym z naszych dostojnych kawalerów!\smm
+ 
+message_107:
+      text: Tym razem...\! zebraliśmy trzech nowych, wyjątkowo atrakcyjnych, kandydatów!\! Czy któremuś z nich uda się zdobyć serce SŁODZIUTKIEJ?\! Przedstawmy ich!\smm
+ 
+#Contestant #1 comes out and makes a circle around the stage.
+ 
+message_108:
+      text: KANDYDAT \NR 1 jest mieszkańcem WIOSKI KIEŁKUNÓW!\smm
+ 
+message_109:
+      text: Ma prawie 90 cm wzrostu!\! Jego ulubionym jedzeniem jest \c[3]TOFU\c[0]. Posiada ogromną kolekcję plastikowych flamingów... oraz lubi długie spacery przez ciasne korytarze!\smm
+ 
+message_110:
+      text: \Com[2]\{BRAWA DLA KANDYDATA \NR 1!\smm
+ 
+#Applause.
+#Contestant #2 comes out and makes a circle around the stage.
+ 
+message_111:
+      text: KANDYDAT \NR 2 to... Tak, zgadliście!\! <br>Również mieszkaniec WIOSKI KIEŁKUNÓW!\smm
+ 
+message_112:
+      text: Uwaga! Mierzy całe 94 cm wzrostu!!\!<br>Ma wiele zainteresowań. Takich jak:\ chodzenie, bieganie oraz pełzanie!\smm
+ 
+message_113:
+      text: Jego ulubionym połączeniem kolorów jest zielony z brązowym, a weekendy spędza na krążeniu wokół brudnego prania!<br>\!Mmm... nieźle.\smm
+ 
+message_114:
+      text: \Com[2]\{OKLASKI DLA KANDYDATA \NR 2!\smm
+ 
+#Applause.
+ 
+message_115:
+      text: A teraz czas na coś zupełnie innego!\smm
+ 
+#Contestant #3 comes out and makes a circle around the stage.
+ 
+message_116:
+      text: KANDYDAT \NR 3 przybył tutaj aż z \c[11]PLANETOWA INNEGO\c[0]!\smm
+ 
+message_117:
+      text: To dokładnie tak, jak gdyby spadł nam z nieba!\!<br>Zarówno on, jak i my, sądzimy, że dzięki temu jest świetnym facetem.\! <br>Aplauz dla PIANKA!\smm
+ 
+#Scattered applause.
+ 
+message_118:
+      text: A teraz...\! Moment, na który wszyscy czekali...\smm
+ 
+message_119:
+      text: \{\sinv[1]PROSZĘ ZGASIĆ ŚWIATŁA!!\smm
+ 
+#Lights dim.
+ 
+message_120:
+      text: \sinv[1]Emanuje...\| pięknem... \|Wielki ma...\| gest...\|<br>Ona zdecydowanie...\| najpiękniejsza tu jest...\smm
+ 
+message_121:
+      text: Tak!\! Wiecie, o kim mówimy!<br>\!Jest tak wspaniała i potężna! I zaraz postawi stopę na tej scenie!!\smm
+ 
+message_122:
+      text: Proszę...\! Jak najgoręcej przywitajcie...<br>\!jedną... \!jedyną... \!wspaniałą...\smm
+ 
+message_123:
+      text: \{\{\{\Com[2]SŁODZIU-\smm
+ 
+#Lightning strikes and hits SNALEY. He gets fried and turns into ashes, then blows away.
+#There is a blackout.
+ 
+#Screen goes black and re-centers around party.
+message_124:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: O nie! Mamy awarię zasilania!\!<br>I co teraz? Muszę wiedzieć, co się potem wydarzy!\aub
+ 
+message_125:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Przeczekajmy to... Jestem pewien, że KIEŁKUNI zaraz przywrócą prąd!\her
+ 
+#Camera pans to area side of stage..
+#KIEŁKUN runs in.
+ 
+message_126:
+      text: Pomocy! Nie wiemy, co zrobić!\n<KIEŁKUN>
+ 
+#KIEŁKUN runs in from the other side.
+ 
+message_127:
+      text: Pomocy! My również nie wiemy, co zrobić!\n<KIEŁKUN>
+ 
+#KIEŁKUN jumps.
+ 
+message_128:
+      text: Pomocy!\n<KIEŁKUN>
+ 
+#Other KIEŁKUN jumps.
+ 
+message_129:
+      text: \{Pomóżcie!!\n<KIEŁKUN>
+ 
+#KIEŁKUN jumps.
+ 
+message_130:
+      text: \Com[2]\{\{POMOCY!!!\n<KIEŁKUN>
+ 
+#Other KIEŁKUN jumps.
+ 
+message_131:
+      text: \Com[2]\{\{\{POMÓŻCIE!!!!\n<KIEŁKUN>
+ 
+#Both KIEŁKUN jump.
+ 
+message_132:
+      text: \quake[1]\{POOOOO\{\Com[2]MOOOOOOO\Com[2]\{CYYYYYY!!!!!\quake[0]\n<KIEŁKUN>
+ 
+#Camera pans to party.
+ 
+message_133:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: ...\! No cóż...\! Chyba powinniśmy przeszukać to miejsce, tak na wszelki wypadek.\her
+ 
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest (Cont.)
+# =========================================================================================
+ 
+#     - Upon exiting SW Stage:
+ 
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Wow... Brak prądu wpłynął też na całą \c[11]WIOSKĘ KIEŁKUNÓW\c[0]!\her
+ 
+message_151:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: HERO, co teraz zrobimy?\aub
+ 
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Nie przejmuj się, AUBREY. Tutaj wkracza do akcji moja znajomość w dziedzinie elektryki!\! W takiej sytuacji powinniśmy szukać...\! jakiegoś rodzaju akumulatora!\her
+ 
+#    - There's a room full of treadmills in bottom floor. Map 166
+ 
+message_153:
+      text: \n<KIEŁKUN ZARZĄDCA>Przespieszcie tempo, panowie! Nie ma czasu do stracenia!!
+ 
+message_154:
+      text: \n<KIEŁKUN>Staramy się ze wszystkich sił, zarządco!
+ 
+message_155:
+      text: \n<KIEŁKUN>Szybciej już nie możemy!
+ 
+message_156:
+      text: \n<KIEŁKUN>Czemu to nie działa!? Mam tego dość!
+ 
+message_157:
+      text: \n<KIEŁKUN>Po prostu kontynuujcie!\! Odrobina potu niczego wam nie zrobi!
+ 
+message_158:
+      text: Ten kabel nie jest podłączony do prądu.\! Podłączyć go?
+ 
+#YES/NO
+ 
+message_159:
+      text: \n<KIEŁKUN ZARZĄDCA>\Com[2]A nie mówiłem, kiełkuni? Ciężka praca się opłaca!<br>\!Now keep on running!
+ 
+message_160:
+      text: \n<KIEŁKUN>Ech... ech... uff... uff...
+ 
+message_161:
+      text: \n<KIEŁKUN ZARZĄDCA>Szybciej, panowie!\! Musimy się wysilić jak tylko możemy, aby przenieść nam świetlaną przyszłość!
+ 
+message_162:
+      text: Bardzo duże gniazdko elektryczne.

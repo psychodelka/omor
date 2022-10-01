@@ -1,0 +1,1009 @@
+ 
+# =========================================================================================
+# Misc
+# =========================================================================================
+ 
+#Leave Last Resort without party
+ 
+message_201:
+      text: P-1
+ 
+message_202:
+      text: P0
+ 
+message_203:
+      text: P1
+ 
+message_204:
+      text: P2
+ 
+message_205:
+      text: P3
+ 
+message_206:
+      text: P4
+ 
+message_207:
+      text: BIURO PANA SZCZĘKOPADA
+ 
+message_208:
+      text: KONSJERŻ
+ 
+message_209:
+      text: BIURO HERO
+ 
+#Elevator Floors
+ 
+# =========================================================================================
+# Cutscene: Kel the Lost Child
+# =========================================================================================
+ 
+#Trigger: Enter Deep Well Entrance (Lower).
+ 
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Hej, OMORI! Tu jesteś!\! Chłopie, gdzieś ty się podziewał?\kel
+ 
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: Kiedy cię nie było...\! wszyscy...\kel
+ 
+#KEL turns around.
+ 
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Zostaliśmy wrobieni do podpisania umów!\!<br>Więc...\! teraz wszyscy mamy pracę!\kel
+ 
+#KEL turns to OMORI.
+ 
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 23
+      text:  Chlip...\! Tak szybko dorastamy...\kel
+ 
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Moją fuchą jest wskazywanie ludziom drogi do \c[11]OSTATNIEJ PRZYSTANI\c[0].\!<br>Właśnie tam pracuję!\kel
+ 
+#KEL turns toward the LAST RESORT. Camera pans to LAST RESORT.
+ 
+#NEUTRAL
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Jest to całkiem niedaleko.\kel
+ 
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: Albo... Może jednak trochę daleko...\kel
+ 
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: No dawaj, pokażę ci!\! Wystarczy przekroczyć to jezioro.\kel
+ 
+ 
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \sinv[1]Więęęęęęęęęc...\sinv[0]\! Jest troszkę dalej, niż mi się wydawało.\! Sorka.\kel
+ 
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelJuż prawie jesteśmy, przysięgam.\! Jeszcze tylko jedna taksówka!
+ 
+ 
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: Ach, jeszcze jedno...\! staraj się unikać ALI GATORÓW, jak możesz.\! Nie za bardzo mnie lubią.\kel
+ 
+ 
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Nie bój się, OMORI.\! Jestem z tobą!\kel
+ 
+ 
+ 
+#BOTH
+ 
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Właśnie tutaj!\kel
+ 
+#Camera pans back to KEL.
+ 
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Patrz, OMORI. Jest tuż przed nami!\kel
+ 
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Wiesz...\! Przemyślałem parę rzeczy podczas jazdy.\! Pracowanie w \c[11]OSTATNIEJ PRZYSTANI\c[0] było niezłe i w ogóle...\kel
+ 
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: Ale...\! ta cała praca wcale nie jest taka fajna, jak może się wydawać.\kel
+ 
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Więc czemu by nie zgarnąć reszty i stąd spadać?\kel
+ 
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: HERO ostatnio często wyjeżdża w delegacje...\! ale jestem pewien, że AUBREY pracuje na czwartym piętrze \c[11]OSTATNIEJ PRZYSTANI\c[0].<br>Powinniśmy najpierw ją znaleźć.\kel
+ 
+# =========================================================================================
+ 
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 23
+      text: OMORI...\! Zostawiane AUBREY za plecami zrozumiem...\! ale HERO?\! Jak możesz?\kel
+ 
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Ej!\aub
+ 
+ 
+ 
+# =========================================================================================
+# Cutscene: Kel has to use the Bathroom!
+# =========================================================================================
+ 
+#Trigger: Enter proximity of bathroom.
+ 
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: OMORI...\! Wiem, że to nie jest najlepsza pora...\!<br>ale naprawdę, naprawdę muszę skoczyć do łazienki...\kel
+ 
+message_21:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Tak jak ja to mówię...\!<br>Mus to mus!\kel
+ 
+message_22:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Zaczekaj tu, OMORI. To zajmie tylko minutkę.\kel
+ 
+message_23:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \sinv[1]Achhh... O niebo lepiej...\kel
+ 
+message_24:
+      text: Zauważyłeś, że KEL nie umył rąk.
+ 
+message_25:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: \sinv[1]ALE MUSZĘ DO ŁAZIENKI!\kel
+ 
+message_26:
+      text: Zmusiłeś KELA do umycia rąk.
+ 
+# =========================================================================================
+# Cutscene: Aubrey the Secretary
+# =========================================================================================
+ 
+#Trigger: Enter proximity of Secretary Desk
+ 
+#AUBREY is answering phones left and right.
+ 
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aub\sinv[1]\com[540]Halo?\!\sinv[0] \com[540]Proszę zaczekać.\! \sinv[1]\com[540]Halo?\!\sinv[0] \com[540]Proszę zaczekać.\! \sinv[1]\com[540]Halo?\!\sinv[0] \com[540]Proszę zaczekać.
+ 
+#KEL walks up to AUBREY.
+ 
+message_41:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \{AUBREY!!\!\}<br>Przyszliśmy, żeby cię stąd wyciągnąć!\kel
+ 
+message_42:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Kurde, KEL! Spadaj! Nie widzisz, że jestem zajęta?\aub
+ 
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Ocknij się, AUBREY! Wcale taka nie jesteś!\kel
+ 
+message_44:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Rozumiesz, że trzech klientów odwołało dziś ich spotkania?\!<br>\{TRZECH KLIENTÓW!!\aub
+ 
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Powinnam ich wcisnąć gdzieś w harmonogram, ale nawet nie mam gdzie...\!<br>Już nie mówiąc o dzisiejszej zbiórce!\aub
+ 
+message_71:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: I to wszystko... to zbiórka na \c[3]TOFU\c[0]!\aub
+ 
+message_45:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Kto normalny wpłaciłby MAŁŻE na durne \c[3]TOFU\c[0]?\! <br>Tyle razy próbowałam to powiedzieć szefowi, a on dalej swoje!\! To koszmar!\aub
+ 
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Dobrze... AUBREY, oddychaj.\kel
+ 
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Nie potrzebuję twojej pomocy, KEL.\! Sama świetnie sobie radzę!\aub
+ 
+message_48:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Głęboki wdech, AUBREY, i wydech...\kel
+ 
+message_49:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \sinv[1]Wdech...\! Wydech...\! Wdech...\! Wydech...\!\sinv[0] Nie jesteś sekretarką...\! \sinv[1]Wdech...\! Wydech...\!\sinv[0] Musimy znaleźć BASILA...\! \sinv[1]Wdech...\! Wydech...\! Wdech...\! Wydech...\kel
+ 
+message_50:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \sinv[1]Wdech...\! Wydech...\! Wdech...\! Wydech...\sinv[0]\aub
+ 
+#AUBREY is surprised.
+ 
+message_51:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: O, OMORI! To ty?\aub
+ 
+#AUBREY twirls.
+ 
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Przyszedłeś, żeby mnie uratować!\! Hihi... Tak się cieszę!\aub
+ 
+message_53:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: C-czekajcie, a co ze mną!?\kel
+ 
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: OMORI, musisz mnie stąd wydostać!\aub
+ 
+message_55:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Możemy po prostu wyjść, AUBREY.\kel
+ 
+#KEL turns around.
+ 
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Wyjście jest właśnie tutaj!\kel
+ 
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: To nie takie proste, KEL...\! Podpisaliśmy umowy, nie pamiętasz?\aub
+ 
+#AUBREY is surprised.
+ 
+# (MR. JAWSUM from Phone)
+ 
+message_58:
+      text: \}\Com[2]AUBREY...\! AUBREY!\! Gdzieś ty była?\!<br>Próbowałem się do ciebie dodzwonić od 10 sekund...\!<br>Jak ci idzie z harmonogramem?\who
+ 
+#AUBREY is sweating.
+ 
+message_59:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: \com[540]P-przykro mi, PANIE SZKZĘKOPADZIE... nagłe okoliczności.\aub
+ 
+#KEL jumps.
+ 
+message_60:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \sinv[1]\{\{WITAJ, PANIE SZCZĘKOPADZIE!!\kel
+ 
+message_61:
+      text: \}Kurka! KEL, to znowu ty?\! Byłem pewien, że wysłaliśmy cię daleko stąd!\!<br>Nie kazałem ci nie opuszczać swojej budki?\n<PAN SZCZĘKOPAD>
+ 
+message_62:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Przyszedłem tu, żeby osobiście ci powiedzieć...<br>że zwalniam się!\! I zabieram ze sobą AUBREY!\kel
+ 
+message_63:
+      text: \}Bardzo zabawne.\! Do mojego biura, KEL.\! Natychmiast.\n<PAN SZCZĘKOPAD>
+ 
+message_64:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \com[540]Już go wysyłam.\aub
+ 
+message_65:
+      text: \}Ty też, AUBREY.\!<br><br>...\! \quake[1]Bzzt.\n<PAN SZCZĘKOPAD>
+ 
+message_66:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: ...\aub
+ 
+message_67:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Kurde, KEL! Przez ciebie mnie zwolnią!\aub
+ 
+message_68:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Wiem! Super, co nie!?\kel
+ 
+message_69:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Ach...\! Dobra, chodźmy.\!<br>Biuro PANA SZCZĘKOPADA jest na piętrze wyżej.\aub
+ 
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: O Boże... no tak!\! <br>Jak mogłam o tym zapomnieć!\! Musimy znaleźć BASILA!\aub
+ 
+# =========================================================================================
+# Cutscene: Hero the Manager
+# =========================================================================================
+ 
+#Trigger: Enter proximity of MR. JAWSUM's desk.
+ 
+#MR. JAWSUM is facing back toward city.
+#MR. JAWSUM turns to party.
+ 
+message_80:
+      text: Ach... W końcu jesteście.\n<PAN SZCZĘKOPAD>
+ 
+#Camera pans to MR. JAWSUM.
+ 
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: W-witaj, PANIE SZCZĘKOPADZIE...\aub
+ 
+message_82:
+      text: Echem...\! Dobra, dzieciaki, widocznie muszę wam coś przypomnieć.\n<PAN SZCZĘKOPAD>
+ 
+#MR. JAWSUM pulls out a contract.
+ 
+message_83:
+      text: W umowie jest napisane:\! Wyrażam zgodę na nieodpłatną pracę w pańskiej firmie do końca swojego życia, na dobre i na złe.\n<PAN SZCZĘKOPAD>
+ 
+#MR. JAWSUM puts away the contract.
+ 
+message_84:
+      text: A umowa jest przysięgą...<br>\!nie złamalibyście przysięgi, prawda?\n<PAN SZCZĘKOPAD>
+ 
+#KEL looks at AUBREY.
+ 
+message_85:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Kurczaki, ma rację! Nie możemy złamać przysięgi!\! <br>I co teraz, AUBREY?\kel
+ 
+#AUBREY walks up one step.
+ 
+message_86:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: PANIE SZCZĘKOPADZIE...\! Prawdą jest, że złożyliśmy panu przysięgę...\! ale również obiecaliśmy sobie, że znajdziemy naszego przyjaciela BASILA!\aub
+ 
+message_87:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: E... Tak, racja!\! <br>Dlatego teraz musisz nas puścić!\kel
+ 
+message_88:
+      text: Hmm... Szanuję wasz tok myślenia.\! Obietnica to obietnica.\! AUBREY, pozwolę ci odejść...\! pod warunkiem, że weźmiesz ze sobą KELA.\n<PAN SZCZĘKOPAD>
+ 
+message_89:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Naprawdę?\! Wow! Dziękuję, PANIE SZCZEKOPADZIE. <br>Jest pan taki wyrozumiały.\aub
+ 
+message_90:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{\{\sinv[1]SUPER!! LECIMY!!!\kel
+ 
+#AUBREY and KEL turn around to leave.
+ 
+message_91:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Chwila...\! Czuję, że o czymś zapomniałem...\kel
+ 
+#KEL turns back around.
+ 
+message_92:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: No przecież! Możemy wziąć ze sobą mojego bracha HERO?\kel
+ 
+message_93:
+      text: ...\n<PAN SZCZĘKOPAD>
+ 
+message_94:
+      text: Heh...\! Jesteś naprawdę zabawny, KEL.\n<PAN SZCZĘKOPAD>
+ 
+message_95:
+      text: Chcesz, żebym oddał ci HERO!?\n<PAN SZCZĘKOPAD>
+ 
+#add JAWHAWHAW
+ 
+message_137:
+      text: \Com[2]\{\quake[1]CHYBA CIĘ POGRZAŁO!!\! POGRZAŁO!!!\n<PAN SZCZĘKOPAD>
+ 
+message_96:
+      text: HERO jest najlepszym pracownikiem jakiego kiedykolwiek zatrudniłem, z ręką na sercu.\n<PAN SZCZĘKOPAD>
+ 
+message_97:
+      text: Dzięki niemu moje zyski wzrosły o 700%!\! <br>Tylko idiota zwolniłby tak cennego pracownika, jak on.\n<PAN SZCZĘKOPAD>
+ 
+#HERO comes in.
+ 
+message_98:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: PANIE SZCZĘKOPADZIE! Właśnie skończyłem organizację zbiórki na \c[3]TOFU\c[0], jak prosiłeś!\her
+ 
+message_99:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Stoliki przygotowane, sala udekorowana, łazienki lśnią, a jedzenie smakuje wyśmienicie!\her
+ 
+message_134:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Również umyłem twoje okna oraz podłogi, nakarmiłem zwierzaki, poukładałem twoją kolekcję okularów przeciwsłonecznych i złożyłem pranie...\her
+ 
+message_100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: O!\! A tu twoja kawa.\! Przygotowana z ziaren prosto z POMARAŃCZOWEJ OAZY.\her
+ 
+#ADD JAWHAWHAW
+ 
+message_101:
+      text: \{WIDZICIE, DZIECIAKI!?\n<PAN SZCZĘKOPAD>
+ 
+message_135:
+      text: Niesamowita robota, HERO!\! Po prostu niewiarygodne!\! <br>Może pewnego dnia doczekasz się swojej wypłaty...\n<PAN SZCZĘKOPAD>
+ 
+message_136:
+      text: \n<PAN SZCZĘKOPAD>\Com[2]\Sinv[2]\{\{DŻAHAHA\{HAHAHA\{HAHAHA!!\Sinv[0]
+ 
+message_102:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: N-naprawdę?\! To byłby zaszczyt, proszę pana!\her
+ 
+#HERO is surprised and walks up to party.
+ 
+message_103:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: O, cześć! Co tu robicie?<br>\!Również szukasz pracy, OMORI?\her
+ 
+message_104:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: ... \kel
+ 
+message_105:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: ...\aub
+ 
+message_106:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: HERO...\! co z tobą?\kel
+ 
+message_107:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Nawet mi nie mów, że... zapomniałeś o BASILU.\aub
+ 
+#HERO is surprised.
+ 
+message_108:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Psia kość, masz rację! Musimy znaleźć BASILA!\! <br>Jak mogłem zapomnieć o czymś tak ważnym?\her
+ 
+message_109:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Co my tu jeszcze robimy!? Musimy iść!\her
+ 
+#HERO attempts to walk out.
+ 
+message_110:
+      text: Hola hola, HERO. Nie tak szybko!\!<br>Dalej masz parę rzeczy do roboty.\n<PAN SZCZĘKOPAD>
+ 
+message_111:
+      text: Miałeś się dzisiaj zajmować VIP’ami, którzy zjawią się na zbiórce!\n<PAN SZCZĘKOPAD>
+ 
+message_112:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: PANIE SZCZĘKOPADZIE...\! Przykro mi, ale...\!<br>Z całym szacunkiem, zbiórka na \c[3]TOFU\c[0] może poczekać!\her
+ 
+message_113:
+      text: Hmf...\! Zraniłeś mnie, HERO.\!<br>Nie zapomniałeś o naszej umowie?\n<PAN SZCZĘKOPAD>
+ 
+message_114:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Emm... Ja...\her
+ 
+message_115:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Grrr... Zapomnij o umowach!\! BASIL jest w potrzebie! <br>HERO, musimy spadać!\aub
+ 
+message_116:
+      text: Nie słuchaj jej, HERO! Ona gada głupoty!\! <br>Nie podpisywałeś z nią żadnej umowy!\n<PAN SZCZĘKOPAD>
+ 
+#HERO walks one step to MR. JAWSUM.
+ 
+message_117:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: Nie trzymam się z AUBREY ze względu na umowę...\! <br>Trzymam się z nią ze względu na przyjaźń!\her
+ 
+message_118:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 44
+      text: Wybacz, PANIE SZCZĘKOPADZIE...\!<br>Moi przyjaciele są ważniejsi, niż jakiś nędzny świstek.\her
+ 
+message_119:
+      text: \quake[1]Jakiś...\! nędzny...\! świstek?\quake[0]\n<PAN SZCZĘKOPAD>
+ 
+message_120:
+      text: Trochę szacunku do starszych.\! Przygarnąłem pod swoje płetwy bezradnego dziaciaka... którego wyszkoliłem na mistrza!\n<PAN SZCZĘKOPAD>
+ 
+message_121:
+      text: Beze mnie byłbyś nikim!\n<PAN SZCZĘKOPAD>
+ 
+#MR. JAWSUM snaps fingers. Doors open behind him and GATOR GUYS surround party.
+ 
+message_122:
+      text: A karą za zerwanie umowy...\quake[1]\!<br>\{JEST ŚMIERĆ!!\n<PAN SZCZĘKOPAD>
+ 
+message_123:
+      text: Nauczę cię szacunku do starszych!\n<PAN SZCZĘKOPAD>
+ 
+# =========================================================================================
+# Cutscene: Pluto's Return
+# =========================================================================================
+ 
+#Trigger: Defeat Mr. Jawsum.
+ 
+message_124:
+      text: Dosyć!\!<br>Panowie, tym sposobem niczego nie rozwiążemy.\n<PAN SZCZĘKOPAD>
+ 
+#GATOR GUYS step back.
+ 
+message_125:
+      text: Hmf...\! Muszę przyznać...\! że jesteście całkiem silni.\! <br>Ale teraz to bez znaczenia.\n<PAN SZCZĘKOPAD>
+ 
+message_126:
+      text: HERO nie jest moim jedynym dobrym pracownikiem.\! <br>Mam jeszcze...\! jednego.\n<PAN SZCZĘKOPAD>
+ 
+message_127:
+      text: PLUTON...\! możesz wstąpić.\n<PAN SZCZĘKOPAD>
+ 
+#PLUTO walks in and walks toward party.
+ 
+message_128:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \{PLUTONIE! TO JA, KEL!!\!\}<br>Nie poznajesz swoich przyjaciół!?\kel
+ 
+#PLUTO walks one step forward.
+ 
+message_129:
+      text: ...\! Wybacz, KEL.\plu
+ 
+message_130:
+      text: Nic do ciebie nie mam.\! <br>To po prostu moja fucha.\plu
+ 
+message_131:
+      text: Zobaczmy, jak sobie poradzicie...<br>\!z mocą byłej planety.\!<br>PLUTON!\! Pokaż tym dzieciakom prawdziwą siłę!\n<PAN SZCZĘKOPAD>
+ 
+#PLUTO turns to MR. JAWSUM.
+ 
+message_132:
+      text: Jasne, szefie.\plu
+ 
+#PLUTO turns to party.
+ 
+message_133:
+      text: Błagam, wybaczcie mi...\!<br>To wasz koniec.\plu
+ 
+#PLUTO flexes and buffs up.
+ 
+# =========================================================================================
+# Cutscene: Mr. Jawsum's Request
+# =========================================================================================
+ 
+#Trigger: Defeat Pluto.
+ 
+message_150:
+      text: Uff... Uff...\! Naprawdę daliście czadu.\! <br>Uff... \! Jestem z was... taki dumny.\plu
+ 
+message_151:
+      text: Ale...\! Mimo wszystko... mam zadanie do wykonania.<br>I je wypełnię.\plu
+ 
+message_152:
+      text: Słuchajcie, bo drugi raz nie powtórzę...\!<br>\{TO JEST DEFINICJA MOCY!!!\plu
+ 
+message_173:
+      text: \quake[1]Kiedy...\!\quake[1] cisnę...\!\plu
+ 
+#PLUTO begins charging up.
+#Screen shakes.
+ 
+message_153:
+      text: \Com[2]\quake[1]\{\{JES\{TEM M\{ISTRZEEEEEEEM!!!\plu
+ 
+#Screen shakes again.
+ 
+message_154:
+      text: Dobra, dobra... Daj se spokój!\n<PAN SZCZĘKOPAD>
+ 
+message_155:
+      text: Ech...\! Wyluzuj, PLUTONIE.<br>\!Już dzisiaj straciłem jednego wzorowego pracownika.\!<br>A nie chcę tracić drugiego!\n<PAN SZCZĘKOPAD>
+ 
+message_156:
+      text: Ale szefie, nie jestem w stanie ich pokonać!<br>Po prostu potrzebuję trochę więcej czasu.\plu
+ 
+message_157:
+      text: Na spokojnie, PLUTON.<br>Wykonałeś kawał dobrej roboty.\n<PAN SZCZĘKOPAD>
+ 
+#MR. JAWSUM turns around.
+ 
+message_158:
+      text: Wynocha mi stąd!<br>\!I tak byliście jak wrzód na ogonie!\n<PAN SZCZĘKOPAD>
+ 
+#HERO walks up.
+ 
+message_159:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: D-dziękujemy, proszę pana.\! Nie pożałuje pan tej decyzji...\her
+ 
+message_160:
+      text: Hmf...\! Ta, ta.\n<PAN SZCZĘKOPAD>
+ 
+#PLAYER attempts to walk out.
+ 
+message_161:
+      text: ...\n<PAN SZCZĘKOPAD>
+ 
+message_162:
+      text: Naprawdę nie chcesz zostać?\! <br>Taka szkoda.\! Mogłeś się u mnie nieźle rozwinąć i odkryć swój potencjał.\n<PAN SZCZĘKOPAD>
+ 
+#HERO takes another step forward.
+ 
+message_163:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: PANIE SZCZĘKOPADZIE...\! Zanim wyruszymy...\!<br>I chciałbym panu powiedzieć, że...\her
+ 
+message_164:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: Mimo tego, że porwał pan moich przyjaciół i wrobił nas w podpisanie umów...\! Mam wrażenie, że jest pan całkiem niezłym typkiem.\her
+ 
+message_165:
+      text: HERO...\! Możesz mi nie wierzyć, ale...\!<br>Zawsze widziałem w tobie syna, którego się nigdy nie miałem.\!<br>Poradzisz sobie, mądry z ciebie chłopak.\n<PAN SZCZĘKOPAD>
+ 
+#MR. JAWSUM takes out the contracts and eats them.
+ 
+message_166:
+      text: \{\quake[1]NO NA CO CZEKACIE, SPADAĆ!!\!\}<br>Nie widzicie, że jestem zajęty!?\n<PAN SZCZĘKOPAD>
+ 
+message_167:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Jeszcze raz bardzo dziękujemy, PANIE SZCZEKOPADZIE...\her
+ 
+#HERO turns to party.
+ 
+message_168:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Dobra!\! Skoro znów jesteśmy razem, powinniśmy kontynuować poszukiwanie BASILA!\her
+ 
+message_169:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Już dość długo podróżujemy, ale jestem pewien, że go znajdziemy...\! bo pod żadnym pozorem się nie poddamy!\her
+ 
+message_170:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Racja, HERO! Jesteśmy już blisko...\!<br>czuję to!\kel
+ 
+message_171:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Czekaj na nas, BASIL! Znajdziemy cię migiem!\aub
+ 
+message_172:
+      text: Właśnie takie poświęcenie chciałem zobaczyć...\!<br>Lećcie po niego, dzieciaki. Liczę na was.\n<PAN SZCZĘKOPAD>
+ 
+ 
+#----- MARI IN THE elevator
+ 
+message_180:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: HERO, wróciłeś!\mar
+ 
+message_181:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: Tak się zapędziłeś do pracy, że w ogóle nie masz dla mnie czasu!\mar
+ 
+message_182:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: O czym mowa, MARI?\! Przecież widujemy się codziennie!\her
+ 
+#MARI does her pose
+ 
+message_183:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Hehe...\! Wiem...\! Tylko sobie żartuję.\mar
+ 
+message_184:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: Niech pan nie bierze wszystkiego na poważnie!\mar
+ 
+message_185:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: Ach!\! Wybacz... MARI.\! Poprawię się!\her
+ 
+#HERO hugs MARI
+ 
+message_186:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: ...\! Och, HERO...\! Nie martw się, nic się nie stało.\mar
+ 
+message_187:
+      faceset: MainCharacter_Mari
+      faceindex: 7
+      text: Hehehe...\mar
+ 
+# =========================================================================================
+# Misc
+# =========================================================================================
+ 
+#Trigger: Head to North Coast
+ 
+message_200:
+      text: Gęsta mgła przeplata się między drzewami.
+ 
+#Trigger: Construction Bridge
+ 
+message_210:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: O kurczaki.\! Nici z mostu.\kel
+ 
+message_211:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: ... Ale z odpowiednio długim rozbiegiem, dam sobie radę!\kel
+ 
+message_212:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Ty może dasz radę, ale co z nami?\aub
+ 
+message_213:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 15
+      text: No nie gadaj, że boisz się małego skoku.\kel
+ 
+message_214:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Hej, hej, ale bez kłótni.\! Nie ma tam przypadkiem placu budowy?\! Jeśli się tam rozejrzymy, na pewno znajdziemy coś przydatnego.\her
+ 
+#Trigger: Exiting Elevator to casino after defeating Jawsum
+#------------------------------------------------------------------
+ 
+message_220:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \herRacja, KEL!\! Szukaliśmy BASILA.
+ 
+message_221:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelHmm...\! Myślisz że BASIL jest gdzieś w \c[11]OSTATNIEJ PRZYSTANI\c[0]?
+ 
+message_222:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubCo ty!<br>Na bank go tu nie spotkasz!<br><br>Czy on wygląda ci na kogoś, kto lubi takie rzeczy?
+ 
+message_223:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelNie wiem... może?\! Może popytamy się tutejszych ludzi, czy go nie widzieli?
+ 
+message_224:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herDobry pomysł, KEL!\! Chociaż... jesteśmy całkiem daleko od domu.\! Nie jestem pewien, czy ktoś stąd by go znał.
+ 
+message_225:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubO, mam pomysł! Narysujmy plakaty z BASILEM!\! Może ludziom będzie łatwiej go rozpoznać po wyglądzie!
+ 
+message_226:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herSolidnie wam dzisiaj głowy pracują!\!<br>Brzmi jak plan!
+ 
+message_227:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelSuper, ja zacznę!
+ 
+#Kel turns around facing back
+ 
+#Aubrey walks in front of Kel
+ 
+message_228:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubYmm...\! Co to ma być!?\! To w żadnym stopniu nie przypomina BASILA!\!<br>Jego włosy wyglądają bardziej tak.
+ 
+#Aubrey snatches drawing SFX and turns to back
+ 
+message_229:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubHmm...\! Nie, czekaj...\! To też nie wygląda dobrze.
+ 
+#Kel jumps
+ 
+message_230:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kelHej! Co robisz z moim dziełem sztuki!?\!<br>I od kiedy BASIL ma taki nochal!?
+ 
+#hero walks up to aubrey
+ 
+message_231:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \herOki... Jak wam idzie?
+ 
+#pause
+ 
+message_232:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \her...\! Ja cię...\! BASIL na pewno tak wyglądał?
+ 
+#pause
+ 
+message_233:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herUgh...\! Aż mnie oczy bolą...
+ 
+#hero walks to you
+ 
+message_234:
+      text: HERO wsadził \c[4]SŁABY RYSUNEK\c[0] do twojej KIESZONKI.
+ 
+#aubrey turns around
+ 
+message_235:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aubEch...\! Nie poszło nam najlepiej.
+ 
+message_236:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herNie ma co się smucić, AUBREY.\!<br>Zawsze możemy sami poszukać BASILA!
+ 
+message_237:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelRacja, będzie dobrze!\! Nie zajrzeliśmy jeszcze w wiele miejsc.
+ 
+message_238:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herHmm...\! Może zaczniemy poszukiwania od \c[11]GŁĘBOKIEJ STUDNI\c[0]?\! Łatwo się tam dostać taksówką.\! Zawsze jakaś stoi przed \c[11]OSTATNIĄ PRZYSTANIĄ\c[0]!
+ 
+#Go into inventory to see BAD DRAWING picture.
+ 
+message_300:
+      text: Zdobyłeś \c[4]SREBRNĄ KARTĘ\c[0].
+ 
+message_301:
+      text: Telefon wydzwania!
+ 
+message_302:
+      text: Na ciężkie noce...
+ 
+message_303:
+      text: Nieopłacone rachunki oraz zaległe opłaty.
+ 
+message_305:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelSuper, znaleźliśmy \c[4]SREBRNĄ KARTĘ\c[0]!
+ 
+message_306:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelTeraz możemy dostać się windą na czwarte piętro.\! Lecimy znaleźć AUBREY!
+ 
+#VIP KEY CARD
+message_310:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herAch, no tak! OMORI, zanim zapomnę...\! Trzymaj!\! PAN SZCZĘKOPAD mi to dał, abym mógł szybciej poruszać się po \c[11]OSTATNIEJ PRZYSTANI\c[0].
+ 
+message_311:
+      text: HERO dał ci \c[4]ZŁOTĄ KARTĘ\c[0]!\! Wow...
+ 
+message_312:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herDobrze...\! Teraz wszystkie windy powinny działać szybciej.\! Czasami łatwo o turbulencje...\! Żeby nie było, że nie ostrzegałem!
+ 

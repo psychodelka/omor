@@ -1,0 +1,969 @@
+# =========================================================================================
+# Terms
+# =========================================================================================
+
+terms:
+    basic:
+        0: "POZIOM"
+        1: "POZ."
+        2: "SERC"
+        3: "SERC"
+        4: "SOK"
+        5: "SOK"
+        6: "TP"
+        7: "TP"
+        8: "PD"
+        9: "PD"
+
+    command:
+        0: "WALCZ"
+        1: "WIEJ"
+        2: "ATAKUJ"
+        3: "BROŃ SIĘ"
+        4: "PRZEDMIOTY"
+        5: "ZDOLNOŚĆ"
+        6: "ZAŁÓŻ"
+        7: "STATUS"
+        8: "SKŁAD"
+        9: "ZAPIS"
+        10: "KONIEC GRY"
+        11: "OPCJE"
+        12: "BROŃ"
+        13: "TARCZA"
+        14: "KLUCZOWY PRZEDMIOT"
+        15: "ZAŁÓŻ"
+        16: "OPTYMALIZUJ"
+        17: "WYCZYŚĆ"
+        18: "NOWA GRA"
+        19: "KONTYNUUJ"
+        20: null
+        21: "EKRAN TYTUŁOWY"
+        22: "ANULUJ"
+        23: null
+        24: "KUP"
+        25: "SPRZEDAJ"
+
+    message:
+        actionFailure: "%1 broni się przed efektem!"
+        actorDamage: "%1 otrzymuje %2 obrażeń!"
+        actorDrain: "%1 traci %3 %2U!"
+        actorGain: "%1 zyskuje %3 %2U!"
+        actorLoss: "%1 traci %3 %2U!"
+        actorNoDamage: "%1 nie odnosi obrażeń!"
+        actorNoHit: "PUDŁO! %1 nie odnosi obrażeń!"
+        actorRecovery: "%1 odzyskuje %3 %2U!"
+        alwaysDash: "CIĄGŁY BIEG"
+        bgmVolume: "MUZYKA"
+        bgsVolume: "OTOCZENIE"
+        buffAdd: "%2 %1 wzrasta!"
+        buffRemove: "%2 %1 wraca do normy!"
+        commandRemember: "Zapamiętywanie Komend"
+        counterAttack: "%1 kontratakuje!"
+        criticalToActor: "TRAFIA PROSTO W SERCE!"
+        criticalToEnemy: "TRAFIA PROSTO W SERCE!"
+        debuffAdd: "%2 %1 spada!"
+        defeat: "%1 pokonany..."
+        emerge: "%1 się pojawia!"
+        enemyDamage: "%1 otrzymuje %2 obrażeń!"
+        enemyDrain: "%1 traci %3 %2U!"
+        enemyGain: "%1 zyskuje %3 %2U!"
+        enemyLoss: "%1 traci %3 %2!"
+        enemyNoDamage: "%1 nie odnosi obrażeń!"
+        enemyNoHit: "PUDŁO! %1 nie odnosi obrażeń!"
+        enemyRecovery: "%1 odzyskuje %3 %2!"
+        escapeFailure: "...ale nie daje rady."
+        escapeStart: "%1 próbuje wiać!"
+        evasion: "%1 robi unik!"
+        expNext: "Brakuje %1"
+        expTotal: "Obecnie %1"
+        file: "Plik"
+        levelUp: "%1 wzbija się na %3 %2!"
+        loadMessage: "Który plik wczytać?"
+        magicEvasion: "%1 niweluje czar!"
+        magicReflection: "%1 odpiera czar!"
+        meVolume: "EFEKTY MUZYCZNE"
+        obtainExp: "Zyskano %1 %2!"
+        obtainGold: "Zdobyto %1\\G!"
+        obtainItem: "Znalezisko: %1!"
+        obtainSkill: "...i poznaje %1!"
+        partyName: "%1 z drużyną"
+        possession: "Własność"
+        preemptive: "%1 ma przewagę!"
+        saveMessage: "W którym pliku ZAPISAĆ?"
+        saveWait: "ZAPISYWANIE"
+        seVolume: "EFEKTY DŹWIĘKOWE"
+        substitute: "%1 ochrania %2!"
+        surprise: "%1 się tego nie spodziewa!"
+        useItem: "%1 używa %2!"
+        victory: "Zwycięża %1!"
+
+    param:
+        0: "Max HP"
+        1: "Max MP"
+        2: "Attack"
+        3: "Defense"
+        4: "M.Attack"
+        5: "M.Defense"
+        6: "Speed"
+        7: "Luck"
+        8: "Hit"
+        9: "Evasion"
+
+# Table of Keys for Input
+inputKeysTable:
+    ['A','Ą','B','C','Ć',  'a','ą','b','c','ć',
+    'D','E','Ę','F','G',  'd','e','ę','f','g',
+    'H','I','J','K','L',  'h','i','j','k','l',
+    'Ł','M','N','Ń','O',  'ł','m','n','ń','o',
+    'Ó','P','Q','R','S',  'ó','p','q','r','s',
+    'Ś','T','U','V','W',  'ś','t','u','v','w',
+    'X','Y','Z','Ź','Ż',  'x','y','z','ź','ż',
+    '','','','','',       '','','','←','OK']
+
+
+# =========================================================================================
+# Input Icons
+# =========================================================================================
+InputIcons:
+  gamepadBlack24:
+    source: 24x24_all
+    rects:
+      EMPTY: { up: {x: 0, y: 0, width: 24, height: 24}, down: {x: 24, y: 0, width: 24, height: 24} }
+      # B button
+      0: { up: {x: 144, y: 48, width: 24, height: 24}, down: {x: 168, y: 48, width: 24, height: 24} }
+
+      # A button
+      1: { up: {x: 144, y: 72, width: 24, height: 24}, down: {x: 168, y: 72, width: 24, height: 24} }
+
+      # X button
+      2: { up: {x: 144, y: 96, width: 24, height: 24}, down: {x: 168, y: 120, width: 24, height: 24} }
+
+      # Y button
+      3: { up: {x: 144, y: 120, width: 24, height: 24}, down: {x: 168, y: 96, width: 24, height: 24} }
+
+      # L button
+      4: { up: {x: 144, y: 144, width: 24, height: 24}, down: {x: 168, y: 144, width: 24, height: 24} }
+      # R button
+      5: { up: {x: 144, y: 168, width: 24, height: 24}, down: {x: 168, y: 168, width: 24, height: 24} }
+      # L2 button
+      6: { up: {x: 144, y: 192, width: 24, height: 24}, down: {x: 168, y: 192, width: 24, height: 24} }
+      # R2 button
+      7: { up: {x: 144, y: 216, width: 24, height: 24}, down: {x: 168, y: 216, width: 24, height: 24} }
+      # select
+      8: { up: {x: 144, y: 240, width: 24, height: 24}, down: {x: 168, y: 240, width: 24, height: 24} }
+      # start
+      9: { up: {x: 144, y: 264, width: 24, height: 24}, down: {x: 168, y: 264 , width: 24, height: 24} }
+      # L3
+      10: { up: {x: 144, y: 408, width: 24, height: 24}, down: {x: 168, y: 408, width: 24, height: 24} }
+      # R3
+      11: { up: {x: 144, y: 384, width: 24, height: 24}, down: {x: 168, y: 384, width: 24, height: 24} }
+
+      # Up arrow
+      12: { up: {x: 144, y: 288, width: 24, height: 24}, down: {x: 168, y: 288, width: 24, height: 24} }
+      #  Down arrow
+      13: { up: {x: 144, y: 336, width: 24, height: 24}, down: {x: 168, y: 336, width: 24, height: 24} }
+      #  left arrow
+      14: { up: {x: 144, y: 360, width: 24, height: 24}, down: {x: 168, y: 360, width: 24, height: 24} }
+      #  right arrow
+      15: { up: {x: 144, y: 312, width: 24, height: 24}, down: {x: 168, y: 312, width: 24, height: 24} }
+
+
+
+  keyboardBlack24:
+    source: 24x24_black_all
+    rects:
+      EMPTY: { up: {x: 48, y: 96, width: 24, height: 24}, down: {x: 72, y: 96, width: 24, height: 24} }
+
+      # note: backspace key
+      8: { up: {x: 0, y: 456, width: 48, height: 24}, down: {x: 48, y: 456, width: 48, height: 24} }
+      # note: TAB key
+      9: { up: {x: 48, y: 264, width: 24, height: 24}, down: {x: 72, y: 264, width: 24, height: 24} }
+      # note: ENTER key
+      13: { up: {x: 48, y: 312, width: 24, height: 24}, down: {x: 72, y: 312, width: 24, height: 24} }
+      # Shift key
+      16: { up: {x: 0, y: 288, width: 36, height: 24}, down: {x: 48, y: 288, width: 36, height: 24} }
+      # Esc  key
+      27: { up: {x: 48, y: 336, width: 24, height: 24}, down: {x: 72, y: 336, width: 24, height: 24} }
+      # 0 number key
+      48: { up: {x: 408, y: 0, width: 24, height: 24}, down: {x: 432, y: 0, width: 24, height: 24} }
+      # 1 number key
+      49: { up: {x: 408, y: 24, width: 24, height: 24}, down: {x: 432, y: 24, width: 24, height: 24} }
+      # 2 number key
+      50: { up: {x: 408, y: 48, width: 24, height: 24}, down: {x: 432, y: 48, width: 24, height: 24} }
+      # 3 number key
+      51: { up: {x: 408, y: 72, width: 24, height: 24}, down: {x: 432, y: 72, width: 24, height: 24} }
+      # 4 number key
+      52: { up: {x: 408, y: 96, width: 24, height: 24}, down: {x: 432, y: 96, width: 24, height: 24} }
+      # 5 number key
+      53: { up: {x: 408, y: 120, width: 24, height: 24}, down: {x: 432, y: 120, width: 24, height: 24} }
+      # 6 number key
+      54: { up: {x: 408, y: 144, width: 24, height: 24}, down: {x: 432, y: 144, width: 24, height: 24} }
+      # 7 number key
+      55: { up: {x: 408, y: 168, width: 24, height: 24}, down: {x: 432, y: 168, width: 24, height: 24} }
+      # 8 number key
+      56: { up: {x: 408, y: 192, width: 24, height: 24}, down: {x: 432, y: 192, width: 24, height: 24} }
+      # 9 number key
+      57: { up: {x: 408, y: 216, width: 24, height: 24}, down: {x: 432, y: 216, width: 24, height: 24} }
+
+      # numpad 0 key
+      96: { up: {x: 408, y: 0, width: 24, height: 24}, down: {x: 432, y: 0, width: 24, height: 24} }
+      # numpad 1 key
+      97: { up: {x: 408, y: 24, width: 24, height: 24}, down: {x: 432, y: 24, width: 24, height: 24} }
+      # numpad 2 key
+      98: { up: {x: 408, y: 48, width: 24, height: 24}, down: {x: 432, y: 48, width: 24, height: 24} }
+      # numpad 3 key
+      99: { up: {x: 408, y: 72, width: 24, height: 24}, down: {x: 432, y: 72, width: 24, height: 24} }
+      # numpad 4 key
+      100: { up: {x: 408, y: 96, width: 24, height: 24}, down: {x: 432, y: 96, width: 24, height: 24} }
+      # numpad 5 key
+      101: { up: {x: 408, y: 120, width: 24, height: 24}, down: {x: 432, y: 120, width: 24, height: 24} }
+      # numpad 6 key
+      102: { up: {x: 408, y: 144, width: 24, height: 24}, down: {x: 432, y: 144, width: 24, height: 24} }
+      # numpad 7 key
+      103: { up: {x: 408, y: 168, width: 24, height: 24}, down: {x: 432, y: 168, width: 24, height: 24} }
+      # numpad 8 key
+      104: { up: {x: 408, y: 192, width: 24, height: 24}, down: {x: 432, y: 192, width: 24, height: 24} }
+      # numpad 9 key
+      105: { up: {x: 408, y: 216, width: 24, height: 24}, down: {x: 432, y: 216, width: 24, height: 24} }
+      # multiply key
+      106: { up: {x: 480, y: 24, width: 24, height: 24}, down: {x: 504, y: 24, width: 24, height: 24} }
+      # add
+      107: { up: {x: 480, y: 72, width: 24, height: 24}, down: {x: 504, y: 72, width: 24, height: 24} }
+      # numpad period
+      108: { up: {x: 336, y: 24, width: 24, height: 24}, down: {x: 360, y: 24, width: 24, height: 24} }
+      # subtract
+      109: { up: {x: 480, y: 48, width: 24, height: 24}, down: {x: 504, y: 48, width: 24, height: 24} }
+      # decimal point
+      110: { up: {x: 336, y: 24, width: 24, height: 24}, down: {x: 360, y: 24, width: 24, height: 24} }
+      # divide
+      111: { up: {x: 480, y: 0, width: 24, height: 24}, down: {x: 504, y: 0, width: 24, height: 24} }
+      # Left arrow
+      37: { up: {x: 48, y: 216, width: 24, height: 24}, down: {x: 72, y: 216, width: 24, height: 24} }
+      # Up arrow
+      38: { up: {x: 48, y: 144, width: 24, height: 24}, down: {x: 72, y: 144, width: 24, height: 24} }
+      # Right arrow
+      39: { up: {x: 48, y: 168, width: 24, height: 24}, down: {x: 72, y: 168, width: 24, height: 24} }
+      # Down arrow
+      40: { up: {x: 48, y: 192, width: 24, height: 24}, down: {x: 72, y: 192, width: 24, height: 24} }
+
+      # A key
+      65: { up: {x: 192, y: 0, width: 24, height: 24}, down: {x: 216, y: 0, width: 24, height: 24} }
+      # B key
+      66: { up: {x: 264, y: 96, width: 24, height: 24}, down: {x: 288, y: 96, width: 24, height: 24} }
+      # C key
+      67: { up: {x: 264, y: 48, width: 24, height: 24}, down: {x: 288, y: 48, width: 24, height: 24} }
+      # D key
+      68: { up: {x: 192, y: 48, width: 24, height: 24}, down: {x: 216, y: 48, width: 24, height: 24} }
+      # E key
+      69: { up: {x: 120, y: 48, width: 24, height: 24}, down: {x: 144, y: 48, width: 24, height: 24} }
+      # F key
+      70: { up: {x: 192, y: 72, width: 24, height: 24}, down: {x: 216, y: 72, width: 24, height: 24} }
+      # G key
+      71: { up: {x: 192, y: 96, width: 24, height: 24}, down: {x: 216, y: 96, width: 24, height: 24} }
+      # H key
+      72: { up: {x: 192, y: 120, width: 24, height: 24}, down: {x: 216, y: 120, width: 24, height: 24} }
+      # I key
+      73: { up: {x: 120, y: 168, width: 24, height: 24}, down: {x: 144, y: 168, width: 24, height: 24} }
+      # J key
+      74: { up: {x: 192, y: 144, width: 24, height: 24}, down: {x: 216, y: 144, width: 24, height: 24} }
+      # K key
+      75: { up: {x: 192, y: 168, width: 24, height: 24}, down: {x: 216, y: 168, width: 24, height: 24} }
+      # L key
+      76: { up: {x: 192, y: 192, width: 24, height: 24}, down: {x: 216, y: 192, width: 24, height: 24} }
+      # M key
+      77: { up: {x: 264, y: 144, width: 24, height: 24}, down: {x: 288, y: 144, width: 24, height: 24} }
+      # N key
+      78: { up: {x: 264, y: 120, width: 24, height: 24}, down: {x: 288, y: 120, width: 24, height: 24} }
+      # O key
+      79: { up: {x: 120, y: 192, width: 24, height: 24}, down: {x: 144, y: 192, width: 24, height: 24} }
+      # P key
+      80: { up: {x: 120, y: 216, width: 24, height: 24}, down: {x: 144, y: 216, width: 24, height: 24} }
+      # Q key
+      81: { up: {x: 120, y: 0, width: 24, height: 24}, down: {x: 144, y: 0, width: 24, height: 24} }
+      # R key
+      82: { up: {x: 120, y: 72, width: 24, height: 24}, down: {x: 144, y: 72, width: 24, height: 24} }
+      # S key
+      83: { up: {x: 192, y: 24, width: 24, height: 24}, down: {x: 216, y: 24, width: 24, height: 24} }
+      # T key
+      84: { up: {x: 120, y: 96, width: 24, height: 24}, down: {x: 144, y: 96, width: 24, height: 24} }
+      # U key
+      85: { up: {x: 120, y: 144, width: 24, height: 24}, down: {x: 144, y: 144, width: 24, height: 24} }
+      # V key
+      86: { up: {x: 264, y: 72, width: 24, height: 24}, down: {x: 288, y: 72, width: 24, height: 24} }
+      # W key
+      87: { up: {x: 120, y: 24, width: 24, height: 24}, down: {x: 144, y: 24, width: 24, height: 24} }
+      # X key
+      88: { up: {x: 264, y: 24, width: 24, height: 24}, down: {x: 288, y: 24, width: 24, height: 24} }
+      # Y key
+      89: { up: {x: 264, y: 0, width: 24, height: 24}, down: {x: 288, y: 0, width: 24, height: 24} }
+      # Z key
+      90: { up: {x: 120, y: 120, width: 24, height: 24}, down: {x: 144, y: 120, width: 24, height: 24} }
+      # Spacebar
+      32: { up: {x: 0, y: 480, width: 48, height: 24}, down: {x: 48, y: 480, width: 48, height: 24} }
+      #13: { up: {x: 0, y: 480, width: 48, height: 24}, down: {x: 48, y: 480, width: 48, height: 24} }
+
+
+# =========================================================================================
+# Input Names (Keyboard & Gamepad)
+# =========================================================================================
+InputNames:
+  keyboard:
+    0: NO KEYCODE
+    3: break
+    8: backspace
+    9: tab
+    12: clear
+    13: enter
+    16: shift
+    # 17: ctrl
+    # 18: alt
+    19: pause/break
+    20: caps lock
+    21: hangul
+    25: hanja
+    27: escape
+    28: conversion
+    29: non-conversion
+    32: spacebar
+    33: page up
+    34: page down
+    35: end
+    36: home
+    37: left arrow
+    38: up arrow
+    39: right arrow
+    40: down arrow
+    41: select
+    42: print
+    43: execute
+    44: Print Screen
+    45: insert
+    46: delete
+    47: help
+    48: 0
+    49: 1
+    50: 2
+    51: 3
+    52: 4
+    53: 5
+    54: 6
+    55: 7
+    56: 8
+    57: 9
+    58: ':'
+    59: semicolon (firefox), equals
+    60: <
+    61: equals (firefox)
+    63: ß
+    64: '@ (firefox)'
+    65: a
+    66: b
+    67: c
+    68: d
+    69: e
+    70: f
+    71: g
+    72: h
+    73: i
+    74: j
+    75: k
+    76: l
+    77: m
+    78: n
+    79: o
+    80: p
+    81: q
+    82: r
+    83: s
+    84: t
+    85: u
+    86: v
+    87: w
+    88: x
+    89: y
+    90: z
+    91: Windows Key / Left ⌘ / Chromebook Search key
+    92: right window key
+    93: Windows Menu / Right ⌘
+    95: sleep
+    96: numpad 0
+    97: numpad 1
+    98: numpad 2
+    99: numpad 3
+    100: numpad 4
+    101: numpad 5
+    102: numpad 6
+    103: numpad 7
+    104: numpad 8
+    105: numpad 9
+    106: multiply
+    107: add
+    108: numpad period (firefox)
+    109: subtract
+    110: decimal point
+    111: divide
+    # 112: f1
+    # 113: f2
+    # 114: f3
+    # 115: f4
+    # 116: f5
+    # 117: f6
+    # 118: f7
+    # 119: f8
+    # 120: f9
+    # 121: f10
+    # 122: f11
+    # 123: f12
+    # 124: f13
+    # 125: f14
+    # 126: f15
+    # 127: f16
+    # 128: f17
+    # 129: f18
+    # 130: f19
+    # 131: f20
+    # 132: f21
+    # 133: f22
+    # 134: f23
+    # 135: f24
+    144: num lock
+    145: scroll lock
+    160: ^
+    161: !
+    162: ؛ (arabic semicolon)
+    163: #
+    164: $
+    165: ù
+    166: page backward
+    167: page forward
+    168: refresh
+    169: closing paren (AZERTY)
+    170: '*'
+    171: ~ + * key
+    172: home key
+    173: minus (firefox), mute/unmute
+    174: decrease volume level
+    175: increase volume level
+    176: next
+    177: previous
+    178: stop
+    179: play/pause
+    180: e-mail
+    181: mute/unmute (firefox)
+    182: decrease volume level (firefox)
+    183: increase volume level (firefox)
+    186: ;
+    187: equal sign
+    188: comma
+    189: dash
+    190: .
+    191: forward slash / ç
+    192: grave accent / ñ / æ / ö
+    193: ?, / or °
+    194: numpad period (chrome)
+    219: '['
+    220: \\
+    221: ']'
+    222: \
+    223: '`'
+    224: left or right ⌘ key (firefox)
+    225: altgr
+    226: < /git >, left back slash
+    230: GNOME Compose Key
+    231: ç
+    233: XF86Forward
+    234: XF86Back
+    235: non-conversion
+    240: alphanumeric
+    242: hiragana/katakana
+    243: half-width/full-width
+    244: kanji
+    251: unlock trackpad (Chrome/Edge)
+    255: toggle touchpad
+
+
+  gamepad:
+    0: ok
+    1: cancel
+    2: shift
+    3: menu
+    4: LB
+    5: RB
+
+    6: SIX6
+    7: SEVEN7
+    8: EIGHT8
+    9: NINE9
+    10: TEN10
+    11: ELEVEN11
+
+    12: up
+    13: down
+    14: left
+    15: right
+
+    16: SIXTEEN16
+
+# =========================================================================================
+# Plugin Text
+# =========================================================================================
+plugins:
+  mainMenu:
+    commands:
+      - ['???', 'ZACZEP', 'DŹGNIJ']
+      - ZAŁÓŻ
+      - KIESZEŃ
+      - ZDOLNOŚCI
+      - OPCJE
+    status:
+      tag: KOGO ZACZEPIĆ?
+      select: KOGO WYBRAĆ?
+      stab: KOGO DŹGNĄĆ?
+
+  equipMenu:
+    weapon: BROŃ
+    charm: GADŻET
+    replace: Z CZYM ZAMIENIĆ?
+
+  skillMenu:
+    skills: ZDOLNOŚCI
+    replace: Z CZYM ZAMIENIĆ?
+
+  itemMenu:
+    categories:
+      - PRZEKĄSKI
+      - ZABAWKI
+      - WAŻNE
+    itemUse:
+      commands:
+        - [UŻYJ, OTWÓRZ, WYPIJ, ZJEDZ]
+        - WYRZUĆ
+
+      confirm:
+        single:
+          - NA KIM UŻYĆ?
+          -
+          - KOMU DAĆ?
+          - KOMU DAĆ?
+
+        all:
+          - UŻYĆ NA WSZYSTKICH?
+          -
+          - KOMU DAĆ?
+          - KOMU DAĆ?
+
+    itemTrash:
+        text: 'NA PEWNO?'
+        commands: [TAK, NIE]
+
+
+
+  optionsMenu:
+    alertMessages:
+      restoreGeneral: Przywrócono domyślną konfigurację. Czy chcesz odzyskać plik global.rpgsave?
+    buttonHints:
+      confirm: ZATWIERDŹ
+      cancel: ANULUJ
+    inputWarning:
+      keyboardMessage: "Nie możesz edytować klawiszy KLAWIATURY, używając PADA!"
+      gamepadMessage: "Nie możesz edytować klawiszy PADA, używając KLAWIATURY!"
+      gamepadNotDetected: "Nie wykryto PADÓW."
+    general:
+      screenResolution:
+        text: ROZDZIELCZOŚĆ EKRANU
+        options: ['X1', 'X2']
+        help: Zmiana rozdzielczości ekranu.
+        spacing: 80
+
+      fullScreen:
+        text: PEŁNY EKRAN
+        options: ['WŁ.', 'WYŁ.']
+        help: Wyświetlanie gry na pełnym ekranie.
+        boolIndex: true
+        spacing: 80
+
+      gamepadTips:
+        text: RODZAJ STEROWANIA
+        options: ['KLAWIATURA', 'PAD']
+        help: Wyświetlanie ikon wprowadzania dla pada lub klawiatury.
+        boolIndex: false
+        spacing: 150
+
+      textSkip:
+        text: POMIJANIE TEKSTU
+        options: ["WŁ.", "WYŁ."]
+        help: Szybkie przewijanie tekstu przez naciśnięcie lub przytrzymanie klawisza ZATWIERDŹ/ANULUJ.
+        boolIndex: true
+        spacing: 80
+
+  #    battleAnimations:
+  #      text: BATTLE ANIMATIONS
+  #      options: ['ON', 'OFF']
+  #      help: HELP TEXT
+#        boolIndex: true
+  #      spacing: 80
+
+  #    battleAnimationSpeed:
+  #      text: BATTLE ANIMATION SPEED
+#        options: ['NORMAL', 'FAST', 'FASTER', 'FASTEST']
+  #      help: HELP TEXT
+  #      spacing: 130
+
+      battleLogSpeed:
+        text: TEKST W WALKACH
+        options: ['SZYBKI', 'NORMALNY', 'WOLNY']
+        help: Zmiana szybkości tekstu wyświetlanego podczas walki.
+        spacing: 130
+
+      alwaysDash:
+        text: RUCH POSTACI
+        options: ['BIEG', 'CHÓD']
+        help: Zmiana domyślnej prędkości ruchu pomiędzy biegiem a chodem.
+        boolIndex: true
+        spacing: 130
+
+    audio:
+      bgmVolume:
+        text: MUZYKA
+        help: Zmiana głośności muzyki w tle.
+
+      bgsVolume:
+        text: OTOCZENIE
+        help: Zmiana głośności otoczenia.
+
+      meVolume:
+        text: EFEKTY MUZYCZNE
+        help: Zmiana głośności efektów muzycznych.
+
+      seVolume:
+        text: EFEKTY DŹWIĘKOWE
+        help: Zmiana głośności efektów dźwiękowych.
+
+    controls:
+      keyboardHeader: KLAWIATURA
+      gamepadHeader: PAD
+      pressKeyPrompt: NACIŚNIJ PRZYCISK
+      resetAll: ZRESETUJ
+      help: Naciśnij przycisk, by zmienić domyślny klawisz.
+      inputNames:
+        up: GÓRA (↑)
+        down: DÓŁ (↓)
+        left: LEWO (←)
+        right: PRAWO (→)
+        ok: ZATWIERDŹ
+        escape: ANULUJ/MENU
+        shift: BIEG
+        tag: ZACZEPKA
+#        tab: STRAFE
+        pageup: PPM
+        pagedown: LPM
+
+    system:
+      restoreConfig:
+        text: PRZYWRÓCENIE USTAWIEŃ DOMYŚLNYCH
+        help: Przywrócenie domyślnych ustawień gry i odzyskanie global.rpgsave.
+      load:
+        text: WCZYTAJ ZAPIS
+        help: Wczytanie pliku zapisu.
+      toTitleScreen:
+        text: POWRÓT DO EKRANU TYTUŁOWEGO
+        help: Powrót do ekranu tytułowego.
+      toTitleScreenPrompt:
+        text: Powrócić do ekranu tytułowego?
+        commands: [TAK, NIE]
+      exit:
+        text: WYJŚCIE Z GRY
+        help: Wyjście z gry.
+      exitPrompt:
+        text: Czy chcesz wyjść?
+        commands: [TAK, NIE]
+
+
+
+  albumMenu:
+    flipText: CZYTAJ
+    closeText: NACIŚNIJ || LUB ||, BY WRÓCIĆ DO GRY
+    legendText:
+      browsing:
+        - {text: 'CZYTAJ:', inputs: [shift]}
+        - {text: 'ZOBACZ:', inputs: [ok]}
+
+      placing:
+        - {text: 'UMIEŚĆ:', inputs: [ok]}
+        - {text: 'POWRÓT:', inputs: [escape]}
+        - {text: 'PRZEWRÓĆ STRONĘ:', inputs: [pageup, pagedown]}
+
+  itemShopMenu:
+    ownedText: POSIADANE
+    buyOptions: [TAK, NIE]
+    defaultText:
+      shopName: ZAPRASZAM DO SKLEPU!
+      buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+      sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+    shopKeepers:
+      mailbox:
+        showMailboxShopkeeper: true
+        shopName: WITAJ, SZANOWNY KLIENCIE!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'dreamworld_extras_shop.message_185'
+          notEnoughMoneyMessage: 'dreamworld_extras_shop.message_18'
+          onItemListBuyOkMessage: 'dreamworld_extras_shop.message_186'
+          onItemListSellOkMessage: 'dreamworld_extras_shop.message_187'
+          itemBuyingPromptMessage: 'dreamworld_extras_shop.message_184'
+          itemSellingPromptMessage: 'dreamworld_extras_shop.message_184'
+          itemBuyingConfirmationMessage: 'dreamworld_extras_shop.message_16'
+          itemSellingConfirmationMessage: 'dreamworld_extras_shop.message_16'
+          itemBuyingCancelMessage: 'dreamworld_extras_shop.message_189'
+          itemSellingCancelMessage: 'dreamworld_extras_shop.message_189'
+      snowconejash:
+        showMailboxShopkeeper: false
+        shopName: CZEŚĆ, SZANOWNY DOBRODZIEJU!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'dreamworld_extras_shop.message_115'
+          notEnoughMoneyMessage: 'dreamworld_extras_shop.message_113'
+          onItemListBuyOkMessage: 'dreamworld_extras_shop.message_116'
+          onItemListSellOkMessage: 'dreamworld_extras_shop.message_117'
+          itemBuyingPromptMessage: 'dreamworld_extras_shop.message_114'
+          itemSellingPromptMessage: 'dreamworld_extras_shop.message_114'
+          itemBuyingConfirmationMessage: 'dreamworld_extras_shop.message_111'
+          itemSellingConfirmationMessage: 'dreamworld_extras_shop.message_111'
+          itemBuyingCancelMessage: 'dreamworld_extras_shop.message_119'
+          itemSellingCancelMessage: 'dreamworld_extras_shop.message_119'
+      smugglerjash:
+        showMailboxShopkeeper: false
+        shopName: CZEŚĆ, SZANOWNY DOBRODZIEJU!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'dreamworld_extras_shop.message_255'
+          notEnoughMoneyMessage: 'dreamworld_extras_shop.message_253'
+          onItemListBuyOkMessage: 'dreamworld_extras_shop.message_256'
+          onItemListSellOkMessage: 'dreamworld_extras_shop.message_257'
+          itemBuyingPromptMessage: 'dreamworld_extras_shop.message_254'
+          itemSellingPromptMessage: 'dreamworld_extras_shop.message_254'
+          itemBuyingConfirmationMessage: 'dreamworld_extras_shop.message_251'
+          itemSellingConfirmationMessage: 'dreamworld_extras_shop.message_251'
+          itemBuyingCancelMessage: 'dreamworld_extras_shop.message_259'
+          itemSellingCancelMessage: 'dreamworld_extras_shop.message_259'
+      tofujash:
+        showMailboxShopkeeper: false
+        shopName: CZEŚĆ, SZANOWNY DOBRODZIEJU!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'dreamworld_extras_shop.message_125'
+          notEnoughMoneyMessage: 'dreamworld_extras_shop.message_123'
+          onItemListBuyOkMessage: 'dreamworld_extras_shop.message_126'
+          onItemListSellOkMessage: 'dreamworld_extras_shop.message_127'
+          itemBuyingPromptMessage: 'dreamworld_extras_shop.message_124'
+          itemSellingPromptMessage: 'dreamworld_extras_shop.message_124'
+          itemBuyingConfirmationMessage: 'dreamworld_extras_shop.message_121'
+          itemSellingConfirmationMessage: 'dreamworld_extras_shop.message_121'
+          itemBuyingCancelMessage: 'dreamworld_extras_shop.message_129'
+          itemSellingCancelMessage: 'dreamworld_extras_shop.message_129'
+      lemonjash:
+        showMailboxShopkeeper: false
+        shopName: CZEŚĆ, SZANOWNY DOBRODZIEJU!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'dreamworld_extras_shop.message_135'
+          notEnoughMoneyMessage: 'dreamworld_extras_shop.message_133'
+          onItemListBuyOkMessage: 'dreamworld_extras_shop.message_136'
+          onItemListSellOkMessage: 'dreamworld_extras_shop.message_137'
+          itemBuyingPromptMessage: 'dreamworld_extras_shop.message_134'
+          itemSellingPromptMessage: 'dreamworld_extras_shop.message_134'
+          itemBuyingConfirmationMessage: 'dreamworld_extras_shop.message_131'
+          itemSellingConfirmationMessage: 'dreamworld_extras_shop.message_131'
+          itemBuyingCancelMessage: 'dreamworld_extras_shop.message_139'
+          itemSellingCancelMessage: 'dreamworld_extras_shop.message_139'
+      partyjash:
+        showMailboxShopkeeper: false
+        shopName: CZEŚĆ, SZANOWNY DOBRODZIEJU!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'dreamworld_extras_shop.message_145'
+          notEnoughMoneyMessage: 'dreamworld_extras_shop.message_143'
+          onItemListBuyOkMessage: 'dreamworld_extras_shop.message_146'
+          onItemListSellOkMessage: 'dreamworld_extras_shop.message_147'
+          itemBuyingPromptMessage: 'dreamworld_extras_shop.message_144'
+          itemSellingPromptMessage: 'dreamworld_extras_shop.message_144'
+          itemBuyingConfirmationMessage: 'dreamworld_extras_shop.message_141'
+          itemSellingConfirmationMessage: 'dreamworld_extras_shop.message_141'
+          itemBuyingCancelMessage: 'dreamworld_extras_shop.message_149'
+          itemSellingCancelMessage: 'dreamworld_extras_shop.message_149'
+      dealerjash:
+        showMailboxShopkeeper: false
+        shopName: CZEŚĆ, SZANOWNY DOBRODZIEJU!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'dreamworld_extras_shop.message_175'
+          notEnoughMoneyMessage: 'dreamworld_extras_shop.message_173'
+          onItemListBuyOkMessage: 'dreamworld_extras_shop.message_176'
+          onItemListSellOkMessage: 'dreamworld_extras_shop.message_177'
+          itemBuyingPromptMessage: 'dreamworld_extras_shop.message_174'
+          itemSellingPromptMessage: 'dreamworld_extras_shop.message_174'
+          itemBuyingConfirmationMessage: 'dreamworld_extras_shop.message_171'
+          itemSellingConfirmationMessage: 'dreamworld_extras_shop.message_171'
+          itemBuyingCancelMessage: 'dreamworld_extras_shop.message_179'
+          itemSellingCancelMessage: 'dreamworld_extras_shop.message_179'
+      employee:
+        showMailboxShopkeeper: false
+        shopName: IDEALNY SPOSÓB NA POSTÓJ!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'dreamworld_extras_shop.message_195'
+          notEnoughMoneyMessage: 'dreamworld_extras_shop.message_199'
+          onItemListBuyOkMessage: 'dreamworld_extras_shop.message_196'
+          onItemListSellOkMessage: 'dreamworld_extras_shop.message_197'
+          itemBuyingPromptMessage: 'dreamworld_extras_shop.message_152'
+          itemSellingPromptMessage: 'dreamworld_extras_shop.message_194'
+          itemBuyingConfirmationMessage: 'dreamworld_extras_shop.message_193'
+          itemSellingConfirmationMessage: 'dreamworld_extras_shop.message_193'
+          itemBuyingCancelMessage: 'dreamworld_extras_shop.message_151'
+          itemSellingCancelMessage: 'dreamworld_extras_shop.message_151'
+      baker:
+        showMailboxShopkeeper: false
+        shopName: TO RODZINNY INTERES!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'farawaytown_extras_shop.message_81'
+          notEnoughMoneyMessage: 'farawaytown_extras_shop.message_9'
+          onItemListBuyOkMessage: 'farawaytown_extras_shop.message_82'
+          onItemListSellOkMessage: 'farawaytown_extras_shop.message_83'
+          itemBuyingPromptMessage: 'farawaytown_extras_shop.message_84'
+          itemSellingPromptMessage: 'farawaytown_extras_shop.message_85'
+          itemBuyingConfirmationMessage: 'farawaytown_extras_shop.message_85'
+          itemSellingConfirmationMessage: 'farawaytown_extras_shop.message_84'
+          itemBuyingCancelMessage: 'farawaytown_extras_shop.message_86'
+          itemSellingCancelMessage: 'farawaytown_extras_shop.message_86'
+      pharmacy:
+        showMailboxShopkeeper: false
+        shopName: JUŻ PODAJĘ!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'farawaytown_extras_shop.message_91'
+          notEnoughMoneyMessage: 'farawaytown_extras_shop.message_98'
+          onItemListBuyOkMessage: 'farawaytown_extras_shop.message_92'
+          onItemListSellOkMessage: 'farawaytown_extras_shop.message_93'
+          itemBuyingPromptMessage: 'farawaytown_extras_shop.message_90'
+          itemSellingPromptMessage: 'farawaytown_extras_shop.message_94'
+          itemBuyingConfirmationMessage: 'farawaytown_extras_shop.message_97'
+          itemSellingConfirmationMessage: 'farawaytown_extras_shop.message_95'
+          itemBuyingCancelMessage: 'farawaytown_extras_shop.message_96'
+          itemSellingCancelMessage: 'farawaytown_extras_shop.message_96'
+      candy:
+        showMailboxShopkeeper: false
+        shopName: PORA NA ŚMICHU-CHICHU!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'farawaytown_extras_shop.message_71'
+          notEnoughMoneyMessage: 'farawaytown_extras_shop.message_16'
+          onItemListBuyOkMessage: 'farawaytown_extras_shop.message_72'
+          onItemListSellOkMessage: 'farawaytown_extras_shop.message_73'
+          itemBuyingPromptMessage: 'farawaytown_extras_shop.message_70'
+          itemSellingPromptMessage: 'farawaytown_extras_shop.message_74'
+          itemBuyingConfirmationMessage: 'farawaytown_extras_shop.message_15'
+          itemSellingConfirmationMessage: 'farawaytown_extras_shop.message_75'
+          itemBuyingCancelMessage: 'farawaytown_extras_shop.message_76'
+          itemSellingCancelMessage: 'farawaytown_extras_shop.message_76'
+      butcher:
+        showMailboxShopkeeper: false
+        shopName: MIĘCHO, MIĘCHO I JESZCZE RAZ MIĘCHO!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'farawaytown_extras_shop.message_202'
+          notEnoughMoneyMessage: 'farawaytown_extras_shop.message_203'
+          onItemListBuyOkMessage: 'farawaytown_extras_shop.message_205'
+          onItemListSellOkMessage: 'farawaytown_extras_shop.message_204'
+          itemBuyingPromptMessage: 'farawaytown_extras_shop.message_206'
+          itemSellingPromptMessage: 'farawaytown_extras_shop.message_205'
+          itemBuyingConfirmationMessage: 'farawaytown_extras_shop.message_207'
+          itemSellingConfirmationMessage: 'farawaytown_extras_shop.message_207'
+          itemBuyingCancelMessage: 'farawaytown_extras_shop.message_208'
+          itemSellingCancelMessage: 'farawaytown_extras_shop.message_208'
+      collectornerd:
+        showMailboxShopkeeper: false
+        shopName: BĄDŹ MIODZIO!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'farawaytown_extras_shop.message_41'
+          notEnoughMoneyMessage: 'farawaytown_extras_shop.message_21'
+          onItemListBuyOkMessage: 'farawaytown_extras_shop.message_42'
+          onItemListSellOkMessage: 'farawaytown_extras_shop.message_700'
+          itemBuyingPromptMessage: 'farawaytown_extras_shop.message_40'
+          itemSellingPromptMessage: 'farawaytown_extras_shop.message_44'
+          itemBuyingConfirmationMessage: 'farawaytown_extras_shop.message_20'
+          itemSellingConfirmationMessage: 'farawaytown_extras_shop.message_45'
+          itemBuyingCancelMessage: 'farawaytown_extras_shop.message_46'
+          itemSellingCancelMessage: 'farawaytown_extras_shop.message_46'
+      ginospizza:
+        showMailboxShopkeeper: false
+        shopName: WYRZUĆ TO Z SIEBIE!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'farawaytown_extras_shop.message_51'
+          notEnoughMoneyMessage: 'farawaytown_extras_shop.message_25'
+          onItemListBuyOkMessage: 'farawaytown_extras_shop.message_52'
+          onItemListSellOkMessage: 'farawaytown_extras_shop.message_53'
+          itemBuyingPromptMessage: 'farawaytown_extras_shop.message_50'
+          itemSellingPromptMessage: 'farawaytown_extras_shop.message_54'
+          itemBuyingConfirmationMessage: 'farawaytown_extras_shop.message_23'
+          itemSellingConfirmationMessage: 'farawaytown_extras_shop.message_55'
+          itemBuyingCancelMessage: 'farawaytown_extras_shop.message_56'
+          itemSellingCancelMessage: 'farawaytown_extras_shop.message_56'
+      fixit:
+        showMailboxShopkeeper: false
+        shopName: STAŃ SIĘ SPECEM!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'farawaytown_extras_shop.message_61'
+          notEnoughMoneyMessage: 'farawaytown_extras_shop.message_28'
+          onItemListBuyOkMessage: 'farawaytown_extras_shop.message_62'
+          onItemListSellOkMessage: 'farawaytown_extras_shop.message_63'
+          itemBuyingPromptMessage: 'farawaytown_extras_shop.message_60'
+          itemSellingPromptMessage: 'farawaytown_extras_shop.message_64'
+          itemBuyingConfirmationMessage: 'farawaytown_extras_shop.message_27'
+          itemSellingConfirmationMessage: 'farawaytown_extras_shop.message_65'
+          itemBuyingCancelMessage: 'farawaytown_extras_shop.message_66'
+          itemSellingCancelMessage: 'farawaytown_extras_shop.message_66'
+      supermarketlady:
+        showMailboxShopkeeper: false
+        shopName: PROSZĘ, KUP COŚ!
+        buyHeader: CO CHCIAŁBYŚ KUPIĆ?
+        sellHeader: CO CHCIAŁBYŚ SPRZEDAĆ?
+        texts:
+          maxItemMessage: 'farawaytown_extras_shop.message_101'
+          notEnoughMoneyMessage: 'farawaytown_extras_shop.message_6'
+          onItemListBuyOkMessage: 'farawaytown_extras_shop.message_102'
+          onItemListSellOkMessage: 'farawaytown_extras_shop.message_103'
+          itemBuyingPromptMessage: 'farawaytown_extras_shop.message_100'
+          itemSellingPromptMessage: 'farawaytown_extras_shop.message_104'
+          itemBuyingConfirmationMessage: 'farawaytown_extras_shop.message_2'
+          itemSellingConfirmationMessage: 'farawaytown_extras_shop.message_105'
+          itemBuyingCancelMessage: 'farawaytown_extras_shop.message_106'
+          itemSellingCancelMessage: 'farawaytown_extras_shop.message_106'
+
+  questMenu:
+    header: RADY MARI
+    questStates:
+        - W TRAKCIE
+        - ZAKOŃCZONE
+
+# =========================================================================================
+# Items
+# =========================================================================================
