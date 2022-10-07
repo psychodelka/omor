@@ -51,7 +51,7 @@ terms:
         actorLoss: "%1 traci %3 %2U!"
         actorNoDamage: "%1 nie odnosi obrażeń!"
         actorNoHit: "PUDŁO! %1 nie odnosi obrażeń!"
-        actorRecovery: "%1 odzyskuje %3 %2U!"
+        actorRecovery: "%1 odzyskuje %3 %2!"
         alwaysDash: "CIĄGŁY BIEG"
         bgmVolume: "MUZYKA"
         bgsVolume: "OTOCZENIE"
@@ -94,7 +94,7 @@ terms:
         seVolume: "EFEKTY DŹWIĘKOWE"
         substitute: "%1 ochrania %2!"
         surprise: "%1 się tego nie spodziewa!"
-        useItem: "%1 używa %2!"
+        useItem: "%1 używa przedmiotu. Wykorzystano %2!"
         victory: "Zwycięża %1!"
 
     param:

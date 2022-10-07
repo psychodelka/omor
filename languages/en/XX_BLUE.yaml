@@ -177,7 +177,7 @@ Map_Character_Tag:
 # =========================================================================================
 
 Omori_Battle_System:
-  hold: "UŻYTE: x%1" # This is for the hold item on item window of battle scene. %1 is the number of items
+  hold: "POSIADANE: x%1" # This is for the hold item on item window of battle scene. %1 is the number of items
   cost: "KOSZT:" # Those are the MP cost of a skill in battle
 
 # =========================================================================================

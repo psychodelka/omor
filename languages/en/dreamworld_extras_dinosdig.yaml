@@ -1,241 +1,243 @@
 # =========================================================================================
 # Dino's Dig
 # =========================================================================================
-
+ 
 #-------------------------
 #Dino intro
 #-------------------------
 message_1:
-      text: \n<DINO>Hey there, little adventurers!\!<br>Welcome to DINO'S DIG! I'm DINO, the founder of DINO'S DIG!
-
+      text: \n<DINO>Siemka, mali podróżnicy!\!<br>Witam w DINOKOPIE! Jestem DINO, założyciel DINOKOPU!
+ 
 message_2:
-      text: \n<DINO>Ahem...\! Are you hungry for treasure?\! Are you ready to have a spoonful of adventure?\! If so, you've come to the right place!
-
-
+      text: \n<DINO>Ekhem...\! Jesteście głodni skarbów?\! Jesteście gotowi na szczyptę przygód?\! 	Jeśli tak, to przybyliście do właściwego miejsca!
+ 
+ 
 message_3:
-      text: \$\n<DINO>Here at DINO'S DIG we have created the ultimate treasure-hunting adventure... which you can experience for the low price of 100 CLAMS!
-
+      text: \$\n<DINO>Tu, w DINOKOPIE, stworzyliśmy doskonałą przygodę pełną poszukiwania skarbów... którą możecie przeżyć za niewielką cenę - 100 MAŁŻY!
+ 
 message_4:
-      text: \$\n<DINO>Are you ready to enjoy the fun and excitement of digging for treasure?
-
+      text: \$\n<DINO>Jesteście gotowi, by skosztować jakże ekscytującego wykopywania skarbów?
+ 
 #[Nod/Shake]
-
+ 
 #[Nod]
 message_5:
-      text: \n<DINO>\SINV[1]\{\{DINO-TASTIC!!\}\}\SINV[0]
+      text: \n<DINO>\SINV[1]\{\{DINOSTYCZNIE!!\}\}\SINV[0]
 #Skip to GAME TUTORIAL
-
+ 
 #[Shake]
 message_6:
-      text: \n<DINO>Aww... What's the matter?\!<br>I thought you were the adventurous type...
-
+      text: \n<DINO>Oj... Co się dzieje?\!<br>Myślałem, że jesteście bardziej żądni przygód...
+ 
 #-------------------------
 #GAME TUTORIAL
 #-------------------------
 message_7:
-      text: \n<DINO>Alright kiddos, first things first.\! Here at DINO'S DIG, we dig with \c[4]SPOONS\c[0]!
-
+      text: \n<DINO>No dobra, dzieciaki, najpierw najważniejsze.\! Tu, w DINOKOPIE, kopiemy przy użyciu \c[4]ŁYŻEK\c[0]!
+ 
 #IF YOU DON'T HAVE A SPOON (EVERY TIME)
 message_106:
-      text: \n<DINO>Since you don't have a \c[4]SPOON\c[0], I'll give you a \c[4]POTATO SPOON\c[0] for free!
-
+      text: \n<DINO>Skoro nie macie \c[4]ŁYŻKI\c[0], dam wam darmową \c[4]ZIEMNIACZANĄ ŁYŻKĘ\c[0]!
+ 
 message_8:
-      text: \n<DINO>Choose which \c[4]SPOON\c[0] you'd like to use.
-
+      text: \n<DINO>Wybierz, której \c[4]ŁYŻKI\c[0] chcesz użyć.
+ 
 #OPEN SPOON MENU AND SELECT SPOON
 #Note: SPOONS that show up in the choices should be based off what is in your inventory
-
+ 
 message_100:
-      text: Do you want to equip the \c[4][VARIABLE] SPOON\c[0]?
+      text: Chciałbyś użyć \c[4][VARIABLE] ŁYŻKI\c[0]?
 #[YES/NO]
-
+ 
 message_9:
-      text: \n<DINO>There you go! Right on, brother!\!<br>You're a quick learner, aren't you?
-
+      text: \n<DINO>No i proszę! Dokładnie, bracie!\!<br>Szybko się uczysz, co nie?
+ 
 message_10:
-      text: \n<DINO>In our special dig site, the \c[11]FOOD PYRAMID\c[0], you'll be able to uncover super rad treasure from all over the universe...\! and the best part is... you get to keep anything you find!
-
+      text: \n<DINO>W naszym specjalnym miejscu wykopalisk, \c[11]PIRAMIDZIE ŻYWIENIA\c[0], możesz odkryć super czadowe skarby z całego wszechświata...\! a najlepsze jest to... że możesz zatrzymać wszystko, co znajdziesz!
+ 
 message_11:
-      text: \n<DINO>\sinv[1]\com[2]\{THAT'S A DINO-GUARANTEE!
-
+      text: \n<DINO>\sinv[1]\com[2]\{DINOBIECUJĘ!
+ 
 message_12:
-      text: \n<DINO>Let me tell you about our dig site.\! The \c[11]FOOD PYRAMID\c[0] has four levels.\! You'll always start on the first level, but if you're lucky...
-
+      text: \n<DINO>Pozwólcie mi opowiedzieć to i owo o naszym miejscu wykopalisk.\! \c[11]PIRAMIDA ŻYWIENIOWA\c[0] ma cztery poziomy.\! Zawsze zaczyna się od pierwszego, ale jeśli dopisze wam szczęście...
+ 
 message_13:
-      text: \n<DINO>You might just find a \c[4]PYRAMID KEY\c[0] that unlocks the PYRAMID GATE to the next level!\! The higher you go, the better the treasure will be!
-
+      text: \n<DINO>Możecie znaleźć \c[4]PIRAMIKLUCZ\c[0], który odblokowuje PIRAMIBRAMĘ do następnego piętra!\! Im wyżej, tym lepsze skarby!
+ 
 message_14:
-      text: \n<DINO>Now here's the catch!\! Each \c[4]SPOON\c[0] has a limited amount of uses before it breaks.\! For example, \c[4]POTATO SPOONS\c[0] will break after you dig 5 times!
-
+      text: \n<DINO>Ale jest też haczyk!\! Każda \c[4]ŁYŻKA\c[0] ma ograniczoną ilość użyć, zanim się zepsuje.\! Na przykład \c[4]ZIEMNIACZANA ŁYŻKA\c[0] pęknie po 5 kopach!
+ 
 message_15:
-      text: \n<DINO>If your \c[4]SPOON\c[0] breaks, the treasure hunt ends, the PYRAMID GATES close, and we will call you back to the entrance.
-
+      text: \n<DINO>Jeśli wasza \c[4]ŁYŻKA\c[0] się popsuje, poszukiwanie skarbów się zakończy, PIRAMIBRAMA się zamknie, a my wezwiemy was do wejścia.
+ 
 message_16:
-      text: \n<DINO>You understand everything I've said so far?
+      text: \n<DINO>Zrozumiano?
 #[YES/NO]
-
+ 
 #[YES]
 #message_5:
-#      text: \n<DINO>\SINV[1]\{\{DINO-TASTIC!!\}\}\SINV[0]
-
+#      text: \n<DINO>\SINV[1]\{\{DINOSTYCZNIE!!\}\}\SINV[0]
+ 
 #[NO]
 #message_10-16
-
+ 
 message_17:
-      text: \n<DINO>And now it's time for our DINO disclaimer...\! Treasure isn't the only thing that you'll find in the \c[11]FOOD PYRAMID\c[0].
-
+      text: \n<DINO>A teraz czas na małe DINO ostrzeżenie...\! Skarby to nie jedyna rzecz, którą znajdziecie w \c[11]PIRAMIDZIE ŻYWIENIOWEJ\c[0].
+ 
 message_18:
-      text: \n<DINO>During your round, you might find some troublesome critters looking for a fight...\! We aren't liable for any damages to you or your property during your adventure, ya dig?
-
-
+      text: \n<DINO>Przez czas waszego pobytu możecie spotkać kłopotliwe stworzenia, chcące walczyć...\! Nie jesteśmy odpowiedzialni za bezpieczeństwo, ani wasze, ani waszej własności, kumacie?
+ 
+ 
 message_19:
-      text: \n<DINO>If a critter knocks you out during battle, it'll be a real game over!
-
+      text: \n<DINO>Jeśli jakiś szkodnik powali was podczas walki, to będzie dosłowny koniec gry! 
+ 
 message_20:
-      text: \n<DINO>Well, that's pretty much it!\! All that's left for you to do is go up these stairs, smell the sweet \c[11]FOOD PYRAMID\c[0] air, and start digging!
-
+      text: \n<DINO>No i to chyba tyle!\! Jedyne, co wam zostało, to wejście po tych schodach, zaciągnięcie się słodkim powietrzem \c[11]PIRAMIDY ŻYWIENIOWEJ\c[0] i rozpoczęcie kopania!
+ 
 message_21:
-      text: \n<DINO>\sinv[1]Have a DINO-TASTIC adventure!
-
+      text: \n<DINO>\sinv[1] DINOSTYCZNEJ przygody!
+ 
 #-------------------------
 #GAME end
 #-------------------------
 message_23:
-      text: \n<DINO>\{\Com[2]\sinv[1]BIG SPOON DOWN!\! THAT'S GAME OVER!!\sinv[0]
-
+      text: \n<DINO>\{\Com[2]\sinv[1]WIELKA ŁYŻKA ZNISZCZONA!\! KONIEC GRY!!\sinv[0]
+ 
 #[Transport to DINO'S DIG ENTRANCE]
-
+ 
 message_24:
-      text: \n<DINO>Did you find a lot of cool treasure?\.<br>I hope you enjoyed your DINO-TASTIC adventure!
-
+      text: \n<DINO>Czy znaleźliście mnóstwo fajowych skarbów?\.<br>Mam nadzieję, że podobała wam się wasza DINOSTYCZNA przygoda!
+ 
 #-------------------------
 #DINO DEFAULT
 #-------------------------
-
+ 
 message_25:
-      text: \n<DINO>Hey there, little adventurers! Welcome to DINO'S DIG!
-
+      text: \n<DINO>Hejka, mali podróżnicy! Witajcie w DINOKOPIE! 
+ 
 message_26:
-      text: \$\n<DINO>Are you ready for another DINO-TASTIC adventure!?<br>It'll only cost you 100 CLAMS!
-
+      text: \$\n<DINO>Gotowi na kolejną DINOSTYCZNĄ przygodę!?<br>Kosztuje tylko 100 MAŁŻY!
+ 
 #[Nod/Shake]
 #[Nod]
 message_27:
-      text: \n<DINO>I hope you're all ready to have another DINO-TASTIC adventure!
-
+      text: \n<DINO>Mam nadzieję, że jesteście gotowi na kolejną DINOSTYCZNĄ przygodę!
+ 
 #[Shake]
 message_28:
-      text: \n<DINO>Aww... What's the matter?\!<br>I thought you were the adventurous type...
-
+      text: \n<DINO>Oj... Co się dzieje?\!<br>Myślałem, że jesteście bardziej żądni przygód...
+ 
 #DINO walks to inside of DINO'S DIG
-
+ 
 #IF YOU DON'T HAVE A SPOON (EVERY TIME)
 #message_106:
 #      text: Since you don't have a SPOON, I'll give you a \c[4]POTATO SPOON\c[0] for free!
-
+ 
 message_111:
-      text: \n<DINO>Which SPOON will you equip this time?
-
+      text: \n<DINO>Którą ŁYŻKĘ wybierasz tym razem?
+ 
 #OPEN SPOON MENU AND SELECT SPOON
 #Note: SPOONS that show up in the choices should be based off what is in your inventory
-
+ 
 message_110:
-      text: \n<DINO>You're all set!\!<br>So do ya'll remember the rules for DINO'S DIG?
+      text: \n<DINO>Jesteście gotowi!\!<br>Pamiętacie wszystkie zasady obowiązujące w DINOKOPIE?
 #[YES/NO]
-
+ 
 #[YES]
 #message 10-21 (same as intro)
-
-
+ 
+ 
 #[NO]
 message_112:
-      text: \n<DINO>Yeah, I figured you already got this down!
-
+      text: \n<DINO>Taa, domyśliłem się, że wszystko pamiętacie!
+ 
 #message_21 (EVERY TIME)
-
-
+ 
+ 
 #=====
 #IF YOU DONT HAVE ENOUGH CLAMS:
-
+ 
 message_113:
-      text: \n<DINO>Hey, man...\! I wanna offer you this DINO-TASTIC adventure for free, but we need the CLAMS too...\! Come back when you got 100 CLAMS, alright?
-
+      text: \n<DINO>Hej...\! Naprawdę chciałbym zaoferować wam tą DINOSTYCZNĄ przygodę za darmo, ale my też potrzebujemy MAŁŻY...\! Wróćcie, jak zdobędziecie 100 MAŁŻY, spoko?
+ 
 #-------------------------
 #DINO 2- DINO shops
 #-------------------------
-
+ 
 #Default>
 message_29:
-      text: \n<BRETT>Welcome to DINO SHOP!\!<br>Accordin' to my log, it says you have a total of \v[1020] DINO DOLLARS!
-
+      text: \n<BRETT>Witajcie w DINOSKLEPIE!\!<br>Według mojego rejestru, macie dokładnie \v[1020] DINODOLARÓW!
+ 
 message_32:
-      text: \n<BRETT>If you want to buy a \c[4]SPOON\c[0], just point it out to me and I'll help ya out!
-
+      text: \n<BRETT>Jeśli chcecie kupić \c[4]ŁYŻKĘ\c[0], po prostu mi ją wskażcie i w razie czego pomogę!
+ 
 #Purchase
-
+ 
 message_101:
-      text: \n<BRETT>You wanna buy a \c[4]PLASTIC SPOON\c[0] (10 DIGS) for 3 DINO DOLLARS?
-
+      text: \n<BRETT>Chcesz kupić \c[4]PLASTIKOWĄ ŁYŻKĘ\c[0] (10 UŻYĆ) za 3 DINODOLARY?
+ 
 message_102:
-      text: \n<BRETT>You wanna buy a \c[4]WOODEN SPOON\c[0] (15 DIGS) for 6 DINO DOLLARS?
-
+      text: \n<BRETT>Chcesz kupić \c[4]DREWNIANĄ ŁYŻKĘ\c[0] (15 UŻYĆ) za 6 DINODOLARÓW?
+ 
 message_103:
-      text: \n<BRETT>You wanna buy a \c[4]SILVER SPOON\c[0] (20 DIGS) for 10 DINO DOLLARS?
-
+      text: \n<BRETT>Chcesz kupić \c[4]SREBNĄ ŁYŻKĘ\c[0] (20 UŻYĆ) za 10 DINODOLARÓW?
+ 
 #buy
 message_30:
-      text: \n<BRETT>Sick choice! I hope you find lots of treasure!
-
+      text: \n<BRETT>Ekstra wybór! Mam nadzieję, że znajdziecie mnóstwo skarbów!
+ 
 #Insufficient funds
 message_31:
-      text: \n<BRETT>Sorry, dude. You don't have enough DINO DOLLARS for that...
-
+      text: \n<BRETT>Sorki, stary. Nie masz wystarczająco DINODOLARÓW...
+ 
 #Dino 3
-
+ 
 message_33:
-      text: \n<CHAD>The \c[11]FOOD PYRAMID\c[0] has a knack for finding lost things.\!<br>Ancient artifacts...\! Old relics lost in time...\! the possibilities are endless!
-
+      text: \n<CHAD>W \c[11]PIRAMIDZIE ŻYWIENIOWEJ\c[0] kryje się wiele zgub.\!<br>Starożytne artefakty...\! Prastare relikty zagubione w czasie...\! co tylko byś sobie zamarzył!
+ 
 # =========================================================================================
 # Excavation
 # =========================================================================================
-
+ 
 message_50:
-      text: You need a \c[4]SPOON\c[0] to dig.
-
+      text: Potrzebujesz \c[4]ŁYŻKI\c[0], by kopać.
+ 
 message_51:
-      text: You found \c[13]HECTOR\c[0]!
-
+      text: Znalazłeś \c[13]HEKTORA\c[0]!
+ 
 message_52:
-      text: And another \c[4]SPOON\c[0] bites the dust...
-
+      text: No i \c[4]ŁYŻKA\c[0] się rozłyżkowała...
+ 
 message_53:
       text: !
-
+ 
 message_54:
-      text: Your \c[4]SPOON\c[0] broke!
-
+      text: Twoja \c[4]ŁYŻKA\c[0] się zniszczyła!
+ 
 message_55:
-      text: You used the \c[4]PYRAMID KEY\c[0].
-
-
+      text: Użyłeś \c[4]PIRAMIKLUCZA\c[0].
+ 
+ 
 # =========================================================================================
 # Excavation
 # =========================================================================================
-
+ 
 message_120:
-      text: \"DINO'S DIG... NOW WITH MORE EXP!\.<br>COME GET YOUR EXP NOW!\"
-
+      text: \"DINOKOP... TERAZ Z WIĘKSZĄ ILOŚCIĄ PD!\.<br>TWOJE PD JUŻ NA CIEBIE CZEKA!\"
+ 
 message_121:
-      text: \n<DINO>\sinv[1]\{\{WHAT'S UP, ADVENTURERS?
-
+      text: \n<DINO>\sinv[1]\{\{CO SŁYCHAĆ, POSZUKIWACZE PRZYGÓD?
+ 
 message_122:
-      text: \n<DINO>Did you hear?\! We've beefed up our critters to be bigger... and badder... than ever before!\! And you know what that means...
-
+      text: \n<DINO>Słyszeliście?\! Wzmocniliśmy nasze szkodniki, żeby były większe... i gorsze... niż kiedykolwiek wcześniej!\! A chyba wiecie, co to oznacza...
+ 
 message_123:
-      text: \n<DINO>\sinv[1]\{\{MORE EXP!!
-
+      text: \n<DINO>\sinv[1]\{\{WIĘCEJ PD!!
+ 
 message_124:
-      text: \n<DINO>Come on, adventurers! What are you waiting for?
-
+      text: \n<DINO>Hej, poszukiwacze przygód! Na co czekacie!
+ 
 message_125:
-      text: \n<DINO>Embark on you dino-tastic adventure today!
+      text: \n<DINO>Wyruszcie na swoją DINOSTYCZNĄ przygodę już dziś!
+ 
+

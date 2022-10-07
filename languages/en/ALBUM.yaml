@@ -1,438 +1,440 @@
 wrongPlacingMessage:
     background: 0
     position: 2
-    text: This photo doesn't feel right here.
-
+    text: To zdjęcie tutaj nie pasuje.
+ 
 puzzleModeClosingMessage:
     background: 0
     position: 2
-    text: You are not finished sorting the photos.
-
+    text: Nie skończyłeś jeszcze sortować zdjęć.
+ 
 error_message:
     background: 0
     position: 2
-    text: ERROR - SEEK HELP!
-
+    text: BŁĄD!
+ 
 faraway_message1:
     background: 0
     position: 2
-    text: \n<12/25 - CHRISTMAS>My first photo!\!<br>It's my best friend, \n[8], trying out his new violin.<br><br>He's starting to take lessons again so he can play at recitals with his sister, MARI.\! So exciting!
-
+    text: \n<25 GRUDNIA - BOŻE NARODZENIE>Moje pierwsze zdjęcie!\!<br>To mój przyjaciel, \n[8], testujący swoje nowe skrzypce.<br><br>Zaczyna znowu brać lekcje, żeby móc grać na recitalach ze swoją siostrą, MARI.\! Tak się cieszę!
+ 
 faraway_message2:
     background: 0
     position: 2
-    text: \n<2/18 - MY BIRTHDAY>It's my 12th birthday today!\!<br>I thought my friends forgot, but they all surprised me with a strawberry cake.<br>I feel so lucky...<br>\!This year is looking to be a good year!
-
+    text: \n<18 LUTEGO - MOJE URODZINY>Dzisiaj obchodzę dwunaste urodziny!\!<br>Myślałem, że zapomnieli, ale okazało się, że przygotowali dla mnie truskawkowe ciasto.<br>Tacy przyjaciele to skarb...<br>\!Ten rok zapowiada się dobrze!
+ 
 faraway_message3:
     background: 0
     position: 2
-    text: \n<2/18 - MY BIRTHDAY>Another group photo.<br>\!This was a little after I opened all my presents!<br><br>MARI bought me this photo album, and everyone else bought me film for my camera.\! I'll try my best to use it all.
-
+    text: \n<18 LUTEGO - MOJE URODZINY>Kolejne grupowe zdjęcie.<br>\!Zrobione po tym, jak otworzyłem wszystkie prezenty!<br><br>MARI kupiła mi ten album na zdjęcia, a wszyscy inni film fotograficzny.\! Spróbuję dobrze je wykorzystać.
+ 
 faraway_message4:
     background: 0
     position: 2
-    text: \n<2/18 - MY BIRTHDAY>Just KEL being KEL...\! So...\! many...\! party hats...
-
+    text: \n<18 LUTEGO - MOJE URODZINY>KEL w swoim żywiole...\! Tyle...\! czapeczek urodzinowych...
+ 
 faraway_message5:
     background: 0
     position: 2
-    text: \n<2/18 - MY BIRTHDAY>\n[8] playing a video game on the couch.<br>\!\n[8] is a little shy, but he's a really good listener.<br><br>I always end up venting to him when I get upset or stressed.\! Sometimes I feel like I'm bothering him, but he never seems to mind.
-
+    text: \n<18 LUTEGO - MOJE URODZINY>\n[8] gra w grę na kanapie.<br>\!\n[8] jest trochę nieśmiały, ale dobry z niego słuchacz.<br><br>Zawsze, kiedy jestem smutny albo zły, to mogę mu się wygadać.\! Czasami czuję, że nie powinienem mu się wyżalać, ale chyba mu to nie przeszkadza.
+ 
 faraway_message6:
     background: 0
     position: 2
-    text: \n<2/18 - MY BIRTHDAY>MARI and HERO fell asleep on the couch.<br>\!They look so cozy together... Hehe...<br><br>I hope they don't mind the photo.<br>\!MARI's dad might be kind of mad if he saw it...
-
+    text: \n<18 LUTEGO - MOJE URODZINY>MARI i HERO zasnęli razem na kanapie.<br>\!Wyglądają razem uroczo... Hehe...<br><br>Mam nadzieję, że nie będą mieć nic przeciwko temu zdjęciu.<br>\!Tata MARI byłby zły, gdyby je zobaczył...
+ 
 faraway_message7:
     background: 0
     position: 2
-    text: \n<3/9>HERO and MARI washing dishes from breakfast.<br>\!We're staying over with MARI and \n[8] this weekend.<br><br>It's getting warmer lately so we're about to go to the park.\! KEL says there's a secret lake area behind some bushes, so we're all going to check it out!
-
+    text: \n<9 MARCA>HERO i MARI zmywają naczynia po śniadaniu.<br>\!MARI i \n[8] zaprosili nas na nocowanie w ten weekend.<br><br>Zaczyna robić się cieplej, więc postanowiliśmy iść do parku.\! KEL mówił, że za krzakami kryje się tajemnicze jezioro, musimy to sprawdzić!
+ 
 faraway_message8:
     background: 0
     position: 2
-    text: \n<3/9>We're back from the park, but KEL is still full of energy.<br><br><br>He challenged HERO to an arm-wrestling match, but we all know who's going to win...\! Please go easy on him, HERO...
-
+    text: \n<9 MARCA>Wróciliśmy z parku, ale KELA nadal rozpiera energia.<br><br><br>Wyzwał HERO na pojedynek w siłowaniu, ale i tak wszyscy wiemy, kto wygra...\! Proszę, daj mu fory, HERO...
+ 
 faraway_message9:
     background: 0
     position: 2
-    text: \n<3/9>Oof... Sorry, KEL...\! Better luck next time.
-
+    text: \n<9 MARCA>Uff... Przykro mi, KEL...\! Następnym razem ci się uda.
+ 
 faraway_message10:
     background: 0
     position: 2
-    text: \n<3/10>KEL was still feeling a little sour about losing to HERO in arm-wrestling last night, so HERO decided to lean in for a smooch!<br>KEL looks so annoyed.<br>\!Ah, brotherly love...
-
+    text: \n<10 MARCA>KEL nadal czuł się trochę przygnębiony przegraną z HERO w siłowaniu zeszłego wieczoru, więc HERO postanowił spróbować go pocałować!<br>KEL wygląda na zirytowanego.<br>\!Ach, ta braterska miłość...
+ 
 faraway_message11:
     background: 0
     position: 2
-    text: \n<3/10>Me showing \n[8] a book I've been reading.\! MARI stole my camera and took this when I wasn't paying attention.<br><br>I should really keep better track of my things.
-
+    text: \n<10 MARCA> \n[8] słucha książki, którą ostatnio czytałem.\! Mari ukradła mi aparat i zrobiła nam zdjęcie, kiedy nie patrzyliśmy.<br><br>Powinienem pilnować swoich rzeczy.
+ 
 faraway_message12:
     background: 0
     position: 2
-    text: \n<3/10>It's all of us cuddling with \n[8]'s stuffed animals.\!<br>He has so many, and they're all so soft! \!I wish I could just lay here forever.
-
+    text: \n<10 MARCA>\n[8] i reszta z nas, przytulający się do jego pluszaków.\!<br>Ma ich bardzo dużo, a wszystkie z nich są mięciutkie! \!Mógłbym ciągle na nich leżeć.
+ 
 faraway_message13:
     background: 0
     position: 2
-    text: \n<3/31>It's already the last day of March!\!<br>We're having a picnic with MARI at our secret lake spot.<br><br>MARI wanted to take a picture of everyone! \!Say cheese!
-
+    text: \n<31 MARCA>To już ostatni dzień marca!\!<br>Przy sekretnym jeziorze urządziliśmy piknik z MARI.<br><br>MARI chciała zrobić zdjęcie nam wszystkim! \!Uśmiech proszę!
+ 
 faraway_message14:
     background: 0
     position: 2
-    text: \n<3/31>After eating all the food, everyone fell asleep, except me, HERO, and MARI.<br><br>Something unfortunate happened when I was taking the photo. \!Ahem... Thanks a lot, HECTOR.\! I'll have to cover it up with tape later.
-
+    text: \n<31 MARCA>Po posiłku wszyscy poza mną, HERO i MARI poszli spać.<br><br>Kiedy robiłem zdjęcie, stało się coś niefortunnego.\!Ekhem... Dzięki wielkie, HEKTOR.\! Będę musiał później zakleić to taśmą.
+ 
 faraway_message15:
     background: 0
     position: 2
-    text: \n<4/9>I caught MARI carrying \n[8] on the way home from school today.\! He must have fallen asleep on the bus.<br><br>I thought it was so cute, so I got my camera out as quick as I could to snap this once-in-a-lifetime photo!\! Sigh...\! Sometimes I wish I had a sibling.
-
+    text: \n<9 KWIETNIA>Po szkole spotkałem MARI, niosącą swojego brata do domu.\! \n[8] musiał być naprawdę zmęczony, zasnął w autobusie.<br><br>Pomyślałem, że to urocze, więc wyciągnąłem aparat tak szybko, jak mogłem. Okazja na takie zdjęcie nie zdarza się często!\! Ech...\! Czasami marzę, żeby mieć rodzeństwo.
+ 
 faraway_message16:
     background: 0
     position: 2
-    text: \n<4/21>MARI is teaching everyone how to make flower crowns!<br><br><br>\n<4/21>Here's \n[8] and KEL holding MARI's example.\!<br>It looks perfect, doesn't it?\!<br>If only MARI thought so, too.
-
+    text: \n<21 KWIETNIA>MARI uczy wszystkich, jak pleść wianki!<br><br><br>\n<21 KWIETNIA>Tutaj \n[8] i KEL trzymają przykładowy wianek MARI.\!<br>Wygląda idealnie, co nie?\!<br>Gdyby MARI też tak myślała.
+ 
 faraway_message17:
     background: 0
     position: 2
-    text: \n<4/21>\n[8] and KEL gave up on making flower crowns and ran off, but AUBREY and I got the hang of it really fast!<br><br>Everyone thinks a flower crown really suits me.\!<br>Maybe just a flower is okay.
-
+    text: \n<21 KWIETNIA>\n[8] i KEL poddali się z pleceniem i sobie poszli, ale ja i AUBREY szybko to załapaliśmy!<br><br>Wszyscy powiedzieli, że wianki do mnie pasują.\!<br>Może jeden kwiatek też jest w porządku.
+ 
 faraway_message18:
     background: 0
     position: 2
-    text: \n<4/21>HERO's still making his flower crown.<br>\!It's taking him a little while, but he's getting there.\!<br>You have to admire his persistence!
-
+    text: \n<21 KWIETNIA>HERO nadal plecie swój wianek.<br>\!Trochę mu to zajmuje, ale się nie poddaje.\!<br>Trzeba przyznać, że niełatwo go zniechęcić!
+ 
 faraway_message19:
     background: 0
     position: 2
-    text: \n<4/29>It's raining super hard today!<br>\!The rain always seems to come out of nowhere during springtime.<br>AUBREY asked me to take a picture of her with her new raincoat.\! It's her favorite color, pink!
-
+    text: \n<29 KWIETNIA>Dzisiaj cały dzień leje jak z cebra!<br>\!Wiosną deszcz zawsze pojawia się niespodziewanie.<br>AUBREY poprosiła mnie, abym zrobił jej zdjęcie w nowym płaszczu przeciwdeszczowym.\! To jej ulubiony kolor, różowy!
+ 
 faraway_message20:
     background: 0
     position: 2
-    text: \n<4/29>AUBREY won't let KEL under the umbrella, but KEL seems to be taking it just fine.\! He says he likes how the rain tastes.
-
+    text: \n<29 KWIETNIA>AUBREY nie pozwala wejść KELOWI pod parasol, ale chyba niespecjalnie mu to przeszkadza.\! Mówi, że lubi smak deszczu.
+ 
 faraway_message21:
     background: 0
     position: 2
-    text: \n<4/29>Just KEL being KEL again...<br><br><br>We went to HOBBEEZ, but the shop owner told KEL to leave his jacket outside since KEL was getting all his comics wet.<br>\!Sorry, SHOPKEEP.
-
+    text: \n<29 KWIETNIA>KEL w swoim żywiole(znowu)...<br><br><br>Poszliśmy do BZZAJAWKI, ale właściciel kazał KELOWI zostawić jego kurtkę na zewnątrz, po tym jak zamoczył mu wszystkie komiksy.<br>\!Sorka, KASJERZE.
+ 
 faraway_message22:
     background: 0
     position: 2
-    text: \n<5/25>It's been pretty busy with school lately, but we finally made time to get together and go to the park today.<br><br>Here's KEL hanging by his legs off a tree.\!<br>He's such a good climber!\!<br>I wish I was as fearless as him.
-
+    text: \n<25 MAJA>Ostatnio w szkole mamy dużo nauki, ale w końcu udało nam się znaleźć czas na spotkanie i pójście razem do parku.<br><br>Tutaj KEL wiszący do góry nogami na drzewie.\!<br>Świetnie umie się wspinać!\!<br>Chciałbym być tak odważny, jak on.
+ 
 faraway_message23:
     background: 0
     position: 2
-    text: \n<5/25>MARI bought everyone popsicles, one of every flavor!<br>\!\n[8] got lemon, HERO got root beer, KEL got orange, AUBREY got watermelon, and MARI got grape!<br>Mine was banana...\! It tasted okay.
-
+    text: \n<25 MAJA>MARI kupiła wszystkim lody na patyku, po innym smaku dla każdego!<br>\!\n[8] dostał cytrynowego, HERO colowego, KEL pomarańczowego, AUBREY arbuzowego, a MARI winogronowego!<br>Mój był bananowy...\! Smakował nie najgorzej.
+ 
 faraway_message24:
     background: 0
     position: 2
-    text: \n<5/25>All of our shoes in a circle!\!<br>Can you guess whose shoes are whose?
-
+    text: \n<25 MAJA>Nasze buty w kółku!\!<br>Zgadnij, które są czyje!
+ 
 faraway_message25:
     background: 0
     position: 2
-    text: \n<6/22>It's the first day of summer vacation, so we all wanted to celebrate by going to the beach!<br>\!Watermelon is AUBREY's favorite.
-
+    text: \n<22 CZERWCA>Zaczęły się wakacje! Uczciliśmy to idąc na plażę!<br>\!AUBREY uwielbia arbuzy.
+ 
 faraway_message26:
     background: 0
     position: 2
-    text: \n<6/22>KEL cooling off with some refreshing ORANGE JOE!<br><br><br>I shouldn't get too close or he might get my camera wet.\!<br>KEL is known to spill his drinks.
-
+    text: \n<22 CZERWCA>KEL ochładzający się POMARAŃCZOWYM JASIEM!<br><br><br>Nie powinienem podchodzić blisko, bo mój aparat może się zamoczyć.\!<br>KEL jest znany z tego, że często coś rozlewa.
+ 
 faraway_message27:
     background: 0
     position: 2
-    text: \n<6/22>We buried \n[8] in the sand!\!<br>It took forever, but he looks like he's enjoying himself.<br><br>I wonder if he's going to need help getting out.\!<br>I guess I'll keep him company until then.
-
+    text: \n<22 CZERWCA>\n[8] zakopany w piachu!\!<br>Zajęło nam to chwilę, ale wygląda na to, że dobrze się bawi.<br><br>Zastanawiam się, czy będzie potrzebował pomocy przy wydostaniu się stamtąd.\!<br>Chyba dotrzymam mu towarzystwa do tego czasu.
+ 
 faraway_message28:
     background: 0
     position: 2
-    text: \n<6/22>MARI says she wants to get a summer tan!<br>\!I'm scared to fall asleep in the sun, since I get sunburned really easily.<br>Hmm... I'm not sure what KEL is doing here, but he's probably having a good time.
-
+    text: \n<22 CZERWCA>MARI mówi, że chce się opalić!<br>\!Boję się zasnąć na słońcu, bo bardzo łatwo dostaję poparzeń.<br>Hmm... Nie jestem pewny, co robi KEL, ale na pewno ma frajdę.
+ 
 faraway_message29:
     background: 0
     position: 2
-    text: \n<6/22>HERO sleeping on MARI.\! He's all tired out from swimming.\! Well... It seems like MARI won't be able to get her summer tan after all.
-
+    text: \n<22 CZERWCA>HERO śpi na MARI.\! Zmęczył się pływaniem.\!Cóż... Wygląda na to, że MARI jednak się nie opali.
+ 
 faraway_message30:
     background: 0
     position: 2
-    text: \n<6/22>We're about to head home, but I managed to catch one last photo with MARI and HERO!\! They look so happy.<br>A match made in heaven!
-
+    text: \n<22 CZERWCA>Zaraz wracamy do domu, ale udało mi się jeszcze zrobić ostatnie zdjęcie MARI i HERO!\! Wyglądają na szczęśliwych.<br>Pasują do siebie!
+ 
 faraway_message31:
     background: 0
     position: 2
-    text: \n<7/20 - \n[8]'S BIRTHDAY>Yay! \n[8] is turning 12 today!\! Even though me, \n[8], AUBREY, and KEL are in the same school year, \n[8] is younger than all of us.<br>He's the baby of the group, so we have to take care of him!
-
+    text: \n<20 LIPCA - \n[8] MA URODZINY>Hurra! \n[8] kończy dziś 12 lat!\! Mimo że ja, \n[8], AUBREY, i KEL jesteśmy z tego samego rocznika, to \n[8] jest z nas najmłodszy .<br>Jest  naszym oczkiem w głowie, musimy się nim opiekować!
+ 
 faraway_message32:
     background: 0
     position: 2
-    text: \n<7/20 - \n[8]'S BIRTHDAY>\n[8] holding a super huge present, from MARI and HERO!<br>\!Hmm... I wonder what it is.
-
+    text: \n<20 LIPCA - \n[8] MA URODZINY>\n[8] trzyma super duży prezent od MARI i HERO!<br>\!Hmm... Ciekawe co to może być.
+ 
 faraway_message33:
     background: 0
     position: 2
-    text: \n<7/20 - \n[8]'S BIRTHDAY>You can't really tell from the photo, but MARI and HERO got \n[8] a giant building block set.<br><br>\n[8] seems much more interested in the box though.\!<br>He acts just like MARI's new kitten, MEWO!
-
+    text: \n<20 LIPCA - \n[8] MA URODZINY>Ciężko stwierdzić po zdjęciu, ale \n[8] dostał od MARI i HERO duży zestaw klocków.<br><br>Wygląda na bardziej zainteresowanego pudłem, niż kolcakami.\!<br>Zachowuje się jak nowa kotka MARI, MRUSIA!
+ 
 faraway_message34:
     background: 0
     position: 2
-    text: \n<7/20 - \n[8]'S BIRTHDAY>\n[8] won't leave the box, so KEL put a food bowl inside.\!<br>I guess this box will be \n[8] and MEWO's new home.
-
+    text: \n<20 LIPCA - \n[8] MA URODZINY>\n[8] nie wyszedł z pudełka, więc KEL położył mu miskę z jedzeniem w środku.\!<br>Myślę, że \n[8] i MRUSIA zamieszkają tam na stałe.
+ 
 faraway_message35:
     background: 0
     position: 2
-    text: \n<8/4>We're going beetle-catching today!\!<br>Here's KEL, ready to pounce on his next victim!<br>\!Oh, and \n[8] is there too.\! He looks kind of sleepy.
-
+    text: \n<4 SIERPNIA>Idziemy dzisiaj na łapanie chrząszczy!\!<br>Tutaj KEL, gotowy do walki z wrogiem!<br>\!O, i jest tu też \n[8].\! Nie wygląda na do końca przytomnego.
+ 
 faraway_message36:
     background: 0
     position: 2
-    text: \n<8/4>MARI says this beetle is a giant stag.<br>It suddenly fell from a tree and surprised everyone!\!<br>HERO is too grossed out to look.
-
+    text: \n<4 SIERPNIA>MARI mówi, że ten chrząszcz to jelonek rogacz.<br>Nagle spadł z drzewa i wszystkich przestraszył!\!<br>HERO jest zbyt obrzydzony, żeby na niego spojrzeć.
+ 
 faraway_message37:
     background: 0
     position: 2
-    text: \n<8/14>Ta-da!\! All summer, we've been working on a treehouse in \n[8]'s backyard and today it's finally finished!<br><br>HERO and his dad did most of the work, but AUBREY and I made paper plants to put in the window sill!\! We all did a pretty good job, if I do say so myself!
-
+    text: \n<14 SIERPNIA>Ta-da!\! Całe lato pracowaliśmy nad zrobieniem domku na drzewie, który /n[8] będzie mieć na swoim podwórku i dzisiaj w końcu skończyliśmy!<br><br>HERO i jego tata napracowali się najbardziej, ale to AUBREY i ja zrobiliśmy papierowe rośliny, żeby postawić je na oknie!\! Według mnie, każdy zrobił kawał dobrej roboty!
+ 
 faraway_message38:
     background: 0
     position: 2
-    text: \n<8/14>I went to the bathroom, and came back to this photo...<br><br><br>KEL says he took a picture of himself on accident,<br>but I don't believe him...
-
+    text: \n<14 SIERPNIA>Poszedłem do łazienki i kiedy wróciłem, zobaczyłem to zdjęcie...<br><br><br>KEL powiedział, że zrobił je przypadkowo, ale ja mu nie wierzę...
+ 
 faraway_message39:
     background: 0
     position: 2
-    text: \n<8/16>All of us hanging out in our brand new treehouse!<br>Looks like \n[8] is finally reading the book I showed him!<br><br>I want to spend every day in here, but it's a shame that summer vacation is almost over.\! I hope we get to use this treehouse more next summer!
-
+    text: \n<16 SIERPNIA>Wszyscy spędzamy czas w naszym nowym domku na drzewie!<br>\n[8] zaczął czytać książkę, którą mu poleciłem!<br><br>Chcę spędzać tutaj każdy dzień, jaka szkoda, że zaraz wracamy do szkoły.\! Mam nadzieję, że będziemy korzystać z tego domku za rok!
+ 
 faraway_message40:
     background: 0
     position: 2
-    text: \n<8/18>We went to HOBBEEZ to read the latest edition of CAPT. SPACEBOY!\! Everyone's so into it right now!\! I'm sure it's all anyone is going to be talking about once school starts.
-
+    text: \n<18 SIERPNIA>Poszliśmy to BZZAJWAKI, żeby przeczytać najnowszy tom KAPITANA KOSMIKA!\! Wszyscy się teraz tym interesują!\! Jestem pewny, że kiedy wrócimy do szkoły, to każdy będzie o tym mówił.
+ 
 faraway_message41:
     background: 0
     position: 2
-    text: \n<9/6>I'm playing cards with KEL, HERO, and AUBREY.\! They're so easy to read. They can't hide anything on their faces!<br><br>MARI baked everyone cookies from scratch.<br>They were chocolate chip and super delicious, like always!
-
+    text: \n<6 WRZEŚNIA>Gram w karty z KELEM, HERO i AUBREY.\! Tak ławo jest ich rozgryźć. Nie umieją ukryć emocji na swoich twarzach!<br><br>MARI sama upiekła dla wszystkich ciasteczka.<br>Miały kawałki czekolady i były przepyszne, jak zawsze!
+ 
 faraway_message42:
     background: 0
     position: 2
-    text: \n<9/6>Looks like I have the winning hand, hehe...<br>But nobody knows that yet...
-
+    text: \n<6 WRZEŚNIA>Wygląda na to, że mam zwycięską rękę, hehe...<br>Ale oni jeszcze o tym nie wiedzą...
+ 
 faraway_message43:
     background: 0
     position: 2
-    text: \n<9/9>It's the first day of school today!\! Me, \n[8], KEL, and AUBREY are up bright and early.\! AUBREY is so photogenic!
-
+    text: \n<9 WRZEŚNIA>Dzisiaj pierwszy dzień szkoły!\! Ja, \n[8], KEL, i AUBREY wstajemy wcześnie rano.\! AUBREY jest taka fotogeniczna!
+ 
 faraway_message44:
     background: 0
     position: 2
-    text: \n<9/9>Sigh... Goodbye, summer!\! Until next year...
-
+    text: \n<9 WRZEŚNIA>Ech... Żegnaj, lato!\! Do następnego roku...
+ 
 faraway_message45:
     background: 0
     position: 2
-    text: \n<9/9>\n[8] giving MARI a big hug!\! MARI doesn't come home until late now because she's taking extra classes to prepare for college.<br>Me and \n[8] have been hanging out a lot, but I'm sure he still misses her a lot.
-
+    text: \n<9 WRZEŚNIA>\n[8] dający MARI dużego przytulasa!\! MARI nie ma w domu do późna, ponieważ chodzi na dodatkowe zajęcia, żeby przygotować się do studiów.<br>Ja i \n[8] spędzamy ze sobą dużo czasu, ale jestem pewien, że nadal za nią tęskni.
+ 
 faraway_message46:
     background: 0
     position: 2
-    text: \n<9/22>MARI practicing her part for a big recital next month.<br>We're all going to go watch!<br><br>It's going to be MARI and \n[8]'s first performance together, but I know they'll do just fine!\! We will all be showing our support from the audience!
-
+    text: \n<22 WRZEŚNIA>MARI ćwicząca swoją część na występ w następnym miesiącu .<br>Wszyscy przyjdziemy na koncert!<br><br>To będzie pierwszy raz, kiedy MARI i \n[8] zagrają w duecie, ale wiem, że pójdzie im świetnie!\! Będziemy trzymać kciuki na publiczności!
+ 
 faraway_message47:
     background: 0
     position: 2
-    text: \n<9/22>MARI getting a little camera shy, because she's made a small mistake.\! Don't worry, MARI! Just keep going!<br>No one will even notice!
-
+    text: \n<22 WRZEŚNIA>MARI stresuje się przed aparatem, bo zrobiła mały błąd.\! Nie martw się, MARI! Graj dalej!<br>Nikt nie zauważy!
+ 
 faraway_message48:
     background: 0
     position: 2
-    text: \n<9/22>After some begging, \n[8] came to join MARI for recital practice... Hehe...<br><br>They're still working out some stuff, but they already sound so amazing! I know they're going to be great.<br><br>Go, MARI! Go, \n[8]!\! You can do it!
-
+    text: \n<22 WRZEŚNIA>Po wielu błaganiach, \n[8] przyłączył się do ćwiczenia... Hehe...<br><br>Nadal dopracowują niektóre fragmenty, ale już teraz brzmią genialnie! Wiem, że pójdzie im super.<br><br>Dawaj, MARI! Dawaj, \n[8]!\! Dacie sobie radę!
+ 
 #DREAM WORLD
-
+ 
 dreamworld_message1:
     background: 0
     position: 2
-    text: \"MARI is teaching everyone how to make flower crowns!\!<br>OMORI and KEL are holding MARI's example.\! So pretty...\"
-
+    text: \"MARI uczy wszystkich, jak pleść wianki!\!<br>OMORI i KEL trzymają przykładowy wianek MARI.\! Ale piękny...\"
+ 
 dreamworld_message2:
     background: 0
     position: 2
-    text: \"OMORI and KEL gave up and ran off, but AUBREY and I got the hang of it really fast!\"
-
+    text: \"OMORI i KEL poddali się i sobie poszli, ale ja i AUBREY szybko to załapaliśmy!\"
+ 
 dreamworld_message3:
     background: 0
     position: 2
-    text: \"HERO's still making his flower crown.<br>\!It's taking him a little while, but he's getting it.\!<br>You have to admire his persistence.\"
-
+    text: \"HERO nadal plecie swój wianek.<br>\!Trochę mu to zajmuje, ale się nie poddaje.\!<br>Trzeba przyznać, że niełatwo go zniechęcić!\"
+ 
 dreamworld_message4:
     background: 0
     position: 2
-    text: \"Everyone's eating watermelons.\! So juicy!\!<br>AUBREY has some seeds on her face.\!<br>Maybe someone should tell her.\"
-
+    text: \"Wszyscy jemy arbuzy.\! Takie soczyste!\!<br>AUBREY ma trochę pestek na twarzy.\!<br>Może ktoś powinien jej o tym powiedzieć.\"
+ 
 dreamworld_message5:
     background: 0
     position: 2
-    text: \"KEL drinking a bottle of MILK, his favorite!<br>\!I shouldn't get too close or he might get my camera wet.\"
-
+    text: \"KEL pijący mleko, jego ulubione!<br>\!Nie powinienem podchodzić blisko, bo mój aparat może się zamoczyć.\"
+ 
 dreamworld_message6:
     background: 0
     position: 2
-    text: \"MARI had HERO take a picture of us.\!<br>Everyone thinks a flower crown really suits me.\"
-
+    text: \"MARI i HERO zrobili nam zdjęcie.\!<br>Wszyscy powiedzieli, że wianki do mnie pasują.\"
+ 
 dreamworld_message7:
     background: 0
     position: 2
-    text: \"HERO leaning in for a smooch!<br>\!KEL looks so annoyed.\! Ah, brotherly love...\"
-
+    text: \"HERO przygotowujący się do całusa!<br>\!KEL wygląda na zirytowanego.\! Ach, braterska miłość...\"
+ 
 dreamworld_message8:
     background: 0
     position: 2
-    text: \"We're having a picnic today!\!<br>MARI wanted to take a picture of everyone.\! Say cheese!\"
-
+    text: \"Dzisiaj urządziliśmy sobie piknik!\!<br>MARI chciała zrobić zdjęcie nam wszystkim!\! Uśmiech proszę!"
+ 
 dreamworld_message9:
     background: 0
     position: 2
-    text: \"After eating, everyone fell asleep, except HERO and MARI.\!<br>I'm getting kind of sleepy myself.\"
-
+    text: \"Po posiłku wszyscy poza mną, HERO i MARI poszli spać.\!<br>Sam powoli staję się senny.\"
+ 
 dreamworld_message10:
     background: 0
     position: 2
-    text: \"KEL said he took a picture of himself on accident,<br>but I don't believe him....\"
-
+    text: \"KEL powiedział, że zrobił to zdjęcie przypadkowo, ale ja mu nie wierzę....\"
+ 
 dreamworld_message11:
     background: 0
     position: 2
-    text: \"All of our feet in a circle!\!<br>Can you guess whose feet are whose?\"
-
+    text: \"Nasze stopy w kółku!\!<br>Zgadnij, które są czyje!\"
+ 
 dreamworld_message12:
     background: 0
     position: 2
     text: ...
-
+ 
 #blackspace
-
+ 
 blackspace_message1:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message2:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message3:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message4:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message5:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message6:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message7:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message8:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message9:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message10:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message11:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message12:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message13:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message14:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message15:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message16:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message17:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message18:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message19:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message20:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message21:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message22:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message23:
     background: 0
     position: 2
     text: ...
-
+ 
 blackspace_message24:
     background: 0
     position: 2
     text: ...
+ 
+

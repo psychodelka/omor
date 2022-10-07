@@ -93,7 +93,7 @@ if (hpDam != 0) {
 }
 
 if (critical) {
-    hpDamageText = 'TRAFIA PROSTO W SERCE!\r\n' + hpDamageText;
+    hpDamageText = 'TRAF PROSTO W SERCE!\r\n' + hpDamageText;
 }
 
 if (mpDam > 0) {
@@ -515,222 +515,220 @@ if (mpDam > 0) {
 
     case 'MEGAPHONE': // MEGAPHONE
       if(target.index() <= unitLowestIndex) {text = user.name() + ' biega w kółko i wszystkich wkurza!\r\n';}
-      if(target.isStateAffected(16)) {text += target.name() + ' feels FURIOUS!!!\r\n'}
-      else if(target.isStateAffected(15)) {text += target.name() + ' feels ENRAGED!!\r\n'}
-      else if(target.isStateAffected(14)) {text += target.name() + ' feels ANGRY!\r\n'}
+      if(target.isStateAffected(16)) {text += target.name() + ' jest WŚCIEKŁY!!!\r\n'}
+      else if(target.isStateAffected(15)) {text += target.name() + ' jest WKURZONY!!\r\n'}
+      else if(target.isStateAffected(14)) {text += target.name() + ' czuje ZŁOŚĆ!\r\n'}
       break;
 
     case 'DODGE ATTACK': // DODGE ATTACK
-      text = user.name() + ' gets ready to dodge!';
+      text = user.name() + ' szykuje się na unik!';
       break;
 
     case 'DODGE ANNOY': // DODGE ANNOY
-      text = user.name() + ' starts teasing the foes!';
+      text = user.name() + ' zaczyna dokuczać wrogom!';
       break;
 
     case 'DODGE TAUNT': // DODGE TAUNT
-      text = user.name() + ' starts taunting the foes!\r\n';
-      text += "All foes' HIT RATE fell for the turn!"
+      text = user.name() + ' zaczyna drwić z wrogów!\r\n';
+      text += "CELNOŚĆ wrogów spadła na turę!"
       break;
 
     case 'PASS OMORI':  // KEL PASS OMORI
-      text = 'OMORI wasn\'t looking and gets bopped!\r\n';
-      text += 'OMORI takes 1 damage!';
+      text = 'OMORI się zagapił i został pacnięty!\r\n';
+      text += 'OMORI otrzymuje 1 obrażenie!';
       break;
 
     case 'PASS OMORI 2': //KEL PASS OMORI 2
-      text = 'OMORI catches KEL\'s ball!\r\n';
-      text += 'OMORI throws the ball at\r\n';
+      text = 'OMORI łapie piłkę KELA!\r\n';
+      text += 'OMORI rzuca piłką\r\n';
       text += target.name() + '!\r\n';
       var OMORI = $gameActors.actor(1);
-      if(OMORI.isStateAffected(6)) {text += "OMORI feels HAPPY!\r\n"}
-      else if(OMORI.isStateAffected(7)) {text += "OMORI feels ECSTATIC!!\r\n"}
+      if(OMORI.isStateAffected(6)) {text += "OMORI czuje SZCZĘŚCIE!\r\n"}
+      else if(OMORI.isStateAffected(7)) {text += "OMORI jest RADOSNY!!\r\n"}
       text += hpDamageText;
       break;
 
     case 'PASS AUBREY':  // KEL PASS AUBREY
-      text = 'AUBREY knocks the ball out of the park!\r\n';
+      text = 'AUBREY wykupuje piłkę z parku!\r\n';
       text += hpDamageText;
       break;
 
     case 'PASS HERO':  // KEL PASS HERO
-      if(target.index() <= unitLowestIndex) {text = user.name() + ' dunks on the foes!\r\n';}
+      if(target.index() <= unitLowestIndex) {text = user.name() + ' ogrywa wrogów!\r\n';}
       text += hpDamageText;
       break;
 
     case 'PASS HERO 2':  // KEL PASS HERO
       if(target.index() <= unitLowestIndex) {
-        text = user.name() + ' dunks on the foes with style!\r\n';
-        text += "All foes' ATTACK fell!\r\n";
+        text = user.name() + ' stylowo ogrywa wrogów!\r\n';
+        text += "Wrogowie stali się słabsi!\r\n";
       }
       text += hpDamageText;
       break;
 
     //HERO//
     case 'MASSAGE':  // MASSAGE
-      text = user.name() + ' massages ' + target.name() + '!\r\n';
+      text = user.name() + ' robi masaż!\r\n';
       if(!!target.isAnyEmotionAffected(true)) {
-        text += target.name() + ' calms down...';
+        text += target.name() + ' się uspokaja...';
       }
-      else {text += "It had no effect..."}
+      else {text += "Nie pomaga..."}
       break;
 
     case 'COOK':  // COOK
-      text = user.name() + ' makes a cookie just for ' + target.name() + '!';
+      text = user.name() + ' piecze ciastko!';
       break;
 
     case 'FAST FOOD': //FAST FOOD
-      text = user.name() + ' prepares a quick meal for ' + target.name() + '.';
+      text = user.name() + ' przygotowuje szybkie danie.';
       break;
 
     case 'JUICE': // JUICE
-      text = user.name() + ' makes a refreshment for ' + target.name() + '.';
+      text = user.name() + ' przygotowuje przekąskę.';
       break;
 
     case 'SMILE':  // SMILE
-      text = user.name() + ' smiles at ' + target.name() + '!\r\n';
-      if(!target._noStateMessage) {text += target.name() + '\'s ATTACK fell.';}
-      else {text += parseNoStateChange(target.name(), "ATTACK", "lower!\r\n")}
+      text = user.name() + ' się uśmiecha!\r\n';
+      if(!target._noStateMessage) {text += target.name() + ' słabnie.';}
+      else {text += parseNoStateChange(target.name(), "ATAK", "już bardziej spaść!\r\n")}
       break;
 
     case 'DAZZLE':
-      text = user.name() + ' smiles at ' + target.name() + '!\r\n';
-      if(!target._noStateMessage) {text += target.name() + '\'s ATTACK fell.\r\n';}
-      else {text += parseNoStateChange(target.name(), "ATTACK", "lower!\r\n")}
+      text = user.name() + ' się uśmiecha!\r\n';
+      if(!target._noStateMessage) {text += target.name() + ' słabnie.\r\n';}
+      else {text += parseNoStateChange(target.name(), "ATAK", "już bardziej spaść!\r\n")}
       if(!target._noEffectMessage) {
-        text += target.name() + ' feels HAPPY!';
+        text += target.name() + ' czuje SZCZĘŚCIE!';
       }
       else {text += parseNoEffectEmotion($1,$2, target)}
       break;
     case 'TENDERIZE': // TENDERIZE
-      text = user.name() + ' intensely massages\r\n';
-      text += target.name() + '!\r\n';
-      if(!target._noStateMessage) {text += target.name() + '\'s DEFENSE fell!\r\n';}
-      else {text += parseNoStateChange(target.name(), "DEFENSE", "lower!\r\n")}
+      text = user.name() + ' robi intensywny masaż!\r\n';
+      if(!target._noStateMessage) {text += target.name() + ' opuszcza gardę!\r\n';}
+      else {text += parseNoStateChange(target.name(), "OBRONA", "już bardziej spaść!\r\n")}
       text += hpDamageText;
       break;
 
     case 'SNACK TIME':  // SNACK TIME
-      text = user.name() + ' makes cookies for everyone!';
+      text = user.name() + ' piecze ciastka dla wszystkich!';
       break;
 
     case 'TEA TIME': // TEA TIME
-      text = user.name() + ' brings out some tea for a break.\r\n';
-      text += target.name() + ' feels refreshed!\r\n';
+      text = user.name() + ' wyciąga herbatkę.\r\n';
+      text += target.name() + ' czuje się orzeźwiony!\r\n';
       if(result.hpDamage < 0) {
         var absHp = Math.abs(result.hpDamage);
-        text += `${target.name()} recovers ${absHp} HEART!\r\n`
+        text += `${target.name()} odzyskuje ${absHp} SERC!\r\n`
       }
       if(result.mpDamage < 0) {
         var absMp = Math.abs(result.mpDamage);
-        text += `${target.name()} recovers ${absMp} JUICE...\r\n`
+        text += `${target.name()} odzyskuje ${absMp} SOKU...\r\n`
       }
       break;
 
     case 'SPICY FOOD': // SPICY FOOD
-      text = user.name() + ' cooks some spicy food!\r\n';
+      text = user.name() + ' gotuje coś ostrego!\r\n';
       text += hpDamageText;
       break;
 
     case 'SINGLE TAUNT': // SINGLE TAUNT
-      text = user.name() + ' draws ' + target.name() + '\'s\r\n';
-      text += 'attention.';
+      text = user.name() + ' przykuwa uwagę wroga.';
       break;
 
     case 'TAUNT':  // TAUNT
-      text = user.name() + ' draws the foe\'s attention.';
+      text = user.name() + ' przykuwa uwagę wroga.';
       break;
 
     case 'SUPER TAUNT': // SUPER TAUNT
-      text = user.name() + ' draws the foe\'s attention.\r\n';
-      text += user.name() + ' prepares to block enemy attacks.';
+      text = user.name() + ' przykuwa uwagę wroga.\r\n';
+      text += user.name() + ' przygotowuje się na odparcie ataku.';
       break;
 
     case 'ENCHANT':  // ENCHANT
-      text = user.name() + ' draws the foe\'s attention\r\n';
-      text += 'with a smile.\r\n';
-      if(!target._noEffectMessage) {text += target.name() + " feels HAPPY!";}
+      text = user.name() + ' uśmiechem przykuwa\r\n';
+      text += 'uwagę wroga.\r\n';
+      if(!target._noEffectMessage) {text += target.name() + " czuje SZCZĘŚCIE!";}
       else {text += parseNoEffectEmotion($1,$2, target)}
       break;
 
     case 'MENDING': //MENDING
-      text = user.name() + ' caters to ' + target.name() + '.\r\n';
-      text += user.name() + ' is now ' + target.name() + '\'s personal chef!';
+      text = user.name() + ' się przymila.\r\n';
+      text += user.name() + ' jest teraz osobistym kucharzem wroga!';
       break;
 
     case 'SHARE FOOD': //SHARE FOOD
       if(target.name() !== user.name()) {
-        text = user.name() + ' shares food with ' + target.name() + '!'
+        text = user.name() + ' dzieli się jedzeniem!'
       }
       break;
 
     case 'CALL OMORI':  // CALL OMORI
-      text = user.name() + ' signals to OMORI!\r\n';
+      text = user.name() + ' daje sygnał OMORIEMU!\r\n';
       if(!!$gameTemp._statsState[0]) {
         var absHp = Math.abs($gameTemp._statsState[0] - $gameActors.actor(1).hp);
-        if(absHp > 0) {text += `OMORI recovers ${absHp} HEART!\r\n`;}
+        if(absHp > 0) {text += `OMORI odzyskuje ${absHp} SERC!\r\n`;}
       }
       if(!!$gameTemp._statsState[1]) {
         var absMp = Math.abs($gameTemp._statsState[1] - $gameActors.actor(1).mp);
-        if(absMp > 0) {text += `OMORI recovers ${absMp} JUICE...`;}
+        if(absMp > 0) {text += `OMORI odzyskuje ${absMp} SOKU...`;}
       }
       $gameTemp._statsState = undefined;
       break;
 
     case 'CALL KEL':  // CALL KEL
-      text = user.name() + ' psyches up KEL!\r\n';
+      text = user.name() + ' podkręca KELA!\r\n';
       if(!!$gameTemp._statsState[0]) {
         var absHp = Math.abs($gameTemp._statsState[0] - $gameActors.actor(3).hp);
-        if(absHp > 0) {text += `KEL recovers ${absHp} HEART!\r\n`;}
+        if(absHp > 0) {text += `KEL odzyskuje ${absHp} SERC!\r\n`;}
       }
       if(!!$gameTemp._statsState[1]) {
         var absMp = Math.abs($gameTemp._statsState[1] - $gameActors.actor(3).mp);
-        if(absMp > 0) {text += `KEL recovers ${absMp} JUICE...`;}
+        if(absMp > 0) {text += `KEL odzyskuje ${absMp} SOKU...`;}
       }
       break;
 
     case 'CALL AUBREY':  // CALL AUBREY
-      text = user.name() + ' encourages AUBREY!\r\n';
+      text = user.name() + ' zachęca AUBREY!\r\n';
       if(!!$gameTemp._statsState[0]) {
         var absHp = Math.abs($gameTemp._statsState[0] - $gameActors.actor(2).hp);
-        if(absHp > 0) {text += `AUBREY recovers ${absHp} HEART!\r\n`;}
+        if(absHp > 0) {text += `AUBREY odzyskuje ${absHp} SERC!\r\n`;}
       }
       if(!!$gameTemp._statsState[1]) {
         var absMp = Math.abs($gameTemp._statsState[1] - $gameActors.actor(2).mp);
-        if(absMp > 0) {text += `AUBREY recovers ${absMp} JUICE...`;}
+        if(absMp > 0) {text += `AUBREY odzyskuje ${absMp} SOKU...`;}
       }
       break;
 
     //PLAYER//
     case 'CALM DOWN':  // PLAYER CALM DOWN
-      if(item.id !== 1445) {text = user.name() + ' calms down.\r\n';} // Process if Calm Down it's not broken;
-      if(Math.abs(hpDam) > 0) {text += user.name() + ' recovers ' + Math.abs(hpDam) + ' HEART!';}
+      if(item.id !== 1445) {text = user.name() + ' się uspokaja.\r\n';} // Process if Calm Down it's not broken;
+      if(Math.abs(hpDam) > 0) {text += user.name() + ' odzyskuje ' + Math.abs(hpDam) + ' SERC!';}
       break;
 
     case 'FOCUS':  // PLAYER FOCUS
-      text = user.name() + ' focuses.';
+      text = user.name() + ' się skupia.';
       break;
 
     case 'PERSIST':  // PLAYER PERSIST
-      text = user.name() + ' persists.';
+      text = user.name() + ' się upiera.';
       break;
 
     case 'OVERCOME':  // PLAYER OVERCOME
-      text = user.name() + ' overcomes.';
+      text = user.name() + ' się przełamuje.';
       break;
 
   //UNIVERSAL//
     case 'FIRST AID':  // FIRST AID
-      text = user.name() + ' tends to ' + target.name() + '!\r\n';
-      text += target.name() + ' recovers ' + Math.abs(target._result.hpDamage) + ' HEART!';
+      text = user.name() + ' się stara!\r\n';
+      text += target.name() + ' odzyskuje ' + Math.abs(target._result.hpDamage) + ' SERC!';
       break;
 
     case 'PROTECT':  // PROTECT
-      text = user.name() + ' stands in front of ' + target.name() + '!';
+      text = user.name() + ' wysuwa się naprzód!';
       break;
 
     case 'GAURD': // GAURD
-      text = user.name() + ' prepares to block attacks.';
+      text = user.name() + ' przygotowuje się do odparcia ataku.';
       break;
 
   //FOREST BUNNY//
@@ -740,7 +738,7 @@ if (mpDam > 0) {
       break;
 
     case 'BUNNY NOTHING': // BUNNY DO NOTHING
-      text = user.name() + ' is hopping around!';
+      text = user.name() + ' skacze dokoła!';
       break;
 
     case 'BE CUTE':  // BE CUTE
@@ -761,7 +759,7 @@ if (mpDam > 0) {
       break;
 
     case 'BUNNY NOTHING2':  // BUNNY? DO NOTHING
-      text = user.name() + ' is hopping around?';
+      text = user.name() + ' skacze dokoła?';
       break;
 
     case 'BUNNY CUTE2':  // BE CUTE?
