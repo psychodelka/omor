@@ -24,6 +24,12 @@
     Game_Enemy.prototype._doesUseAlternateForms3 = function() {
         return !!this.enemy().meta.AlternateTextForms3
     }
+    Game_Actor.prototype._altName = function() {
+        return !!this.actor().meta.AltName
+    }
+    Game_Enemy.prototype._altName = function() {
+        return !!this.enemy().meta.AltName
+    }
 }
 {
     Game_Actor.prototype.showAddedStates = function() {
