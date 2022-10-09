@@ -73,7 +73,7 @@ Window_BattleLog.prototype.makeCustomActionText = function(subject, target, item
   }
 
   function parseNoStateChange(tname,stat,hl) {
-    let noStateChangeText = `${tname} ${stat} nie może\r\n${hl}`; // TARGET NAME - STAT - HIGHER/LOWER
+    let noStateChangeText = `${stat} ${tname} nie może\r\n${hl}`; // TARGET NAME - STAT - HIGHER/LOWER
     return noStateChangeText
   }
 
@@ -109,7 +109,7 @@ if (mpDam > 0) {
     break;
 
   case 'ATTACK': // ATTACK
-    text = user.name() + ' atakuje!\r\n';
+    text = user.name() + ' atakuje ' + target._altName() + '!\r\n';
     text += hpDamageText;
     break;
 
@@ -124,15 +124,15 @@ if (mpDam > 0) {
 
   case 'OBSERVE TARGET': // OBSERVE TARGET
     //text = user.name() + " observes " + target.name() + ".\r\n";
-    text = target.name() + ' has their eyes on\r\n';
-    text += user.name() + '!';
+    text = target.name() + ' ma oko na\r\n';
+    text += user._altName() + '!';
     break;
 
   case 'OBSERVE ALL': // OBSERVE TARGET
     //text = user.name() + " observes " + target.name() + ".\r\n";
-    text = user.name() + ' skupia się i obserwuje.\r\n';
-    text += target.name() + '!';
-    text = target.name() + ' ma na wszystkich oko!';
+    text = user.name() + ' skupia się i obserwuje\r\n';
+    text += target._altName() + '!';
+    text = target.name() + ' ma wszystkich na oku!';
     break;
 
   case 'SAD POEM':  // SAD POEM
