@@ -80,15 +80,46 @@ line 1802: female
 
 line 1814: female
 
-line 1851: if target = player (not omori) use custom line
-line 1852: if target = player (not omori) use custom line
-line 1861: if target = player (not omori) use custom line
-line 1868: if target = player (not omori) use custom line
+line 1851: if target = player use custom line
+line 1852: if target = player use custom line
+line 1861: if target = player use custom line
+line 1868: if target = player use custom line
 
-line 1908: if target = player (not omori) use custom line
+line 1908: if target = player use custom line
 
 line 2129: female (?)
 line 2130: female (?)
 
 line 2161: female (?)
 line 2162: female (?)
+
+line 2440: female
+
+line 2511: female (?)
+
+line 2669: female
+line 2671: female
+line 2672: female
+line 2674: female
+line 2675: female
+
+line 2700: female
+line 2702: female
+line 2703: female
+line 2705: female
+line 2706: female
+
+line 3257: female
+
+line 3302: plural
+line 3307: female, plural
+line 3312: plural
+line 3317: plural
+line 3322: female, plural
+line 3327: female, plural
+line 3332: plural
+line 3337: female, plural
+line 3342: female, plural
+line 3347: female, plural
+line 3352: female, plural, neutral (?)
+line 3356: female, plural, neutral (?)
