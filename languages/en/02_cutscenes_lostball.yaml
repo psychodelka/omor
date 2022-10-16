@@ -1,243 +1,245 @@
 # =========================================================================================
 # Cutscene: LOST BALL
 # =========================================================================================
-
+ 
 #TRIGGER: OMORI talks to VAN
 #BERLY is pacing back and forth in frustration.
-
+ 
 message_0:
-      text: Grumble, grumble...\! Grumble, grumble, grumble...\ber
-
+      text: Grrr...\! Grrr...\ber
+ 
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Hey, VAN? Is something wrong with BERLY?\!<br>She seems a little...\! upset.\her
-
+      text: Ej, VAN. Czy z BERLY wszystko w porządku?\!<br>Wydaje się być...\! nie w sosie.\her
+ 
 message_2:
-      text: Oh...\! About that...\! Well, you see...\n<VAN>
-
+      text: Ach...\! Jeśli chodzi o nią...\! No widzisz...\n<VAN>
+ 
 #BERLY walks up to party
-
+ 
 message_3:
-      text: Sigh...\! Let me explain. \ber
-
+      text: Ech...\! Pozwólcie, że to wyjaśnię.\ber
+ 
 #BERLY turns to the pole.
-
+ 
 message_4:
-      text: \{\Com[2]LOOK AT THIS POLE!!\}\!<br>\Com[2]Can you believe it!? \ber
-
+      text: \{\Com[2]PATRZCIE NA TEN SŁUP!!\}\!<br>\Com[2]Dacie wiarę!?\ber
+ 
 #Camera centers on POLE
-
+ 
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: What are we looking at? \kel
-
+      text: Na co mamy patrzeć?\kel
+ 
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: Yeah, I don't see it. \aub
-
+      text: Właśnie, nic nie widzę.\aub
+ 
 #Camera centers on scene
 #BERLY turns to the party
-
+ 
 message_7:
-      text: Exactly!\! The tetherball is missing.\!<br>VAN here used his arms and swung too hard, and now the ball's gone far off somewhere...\ber
-
+      text: Dokładnie!\! Nasza piłka zniknęła.\!<br>Ten oto VAN za mocno walnął w piłkę i teraz nikt nie wie, gdzie poleciała...\ber
+ 
 #BERLY looks in the distance
-
+ 
 message_8:
-      text: Never to be seen again.\ber
-
+      text: Nigdy już jej nie znajdziemy.\ber
+ 
 #BERLY turns to VAN.
-
+ 
 message_9:
-      text: I told you not to use your arms, VAN.\!<br>You gotta use your head...\! like this!\ber
-
+      text: Mówiłam ci, żebyś nie robił tego rękami, VAN.\!<br>Musisz uderzać głową...\! O tak!\ber
+ 
 #BERLY headbutts VAN
-
+ 
 message_10:
-      text: Sorry, BERLY...\!<br>Using my head all the time gives me a headache.\n<VAN>
-
+      text: Przepraszam, BERLY...\!<br> Ale zakręci mi się w głowie, jeśli będę tak robił.\n<VAN>
+ 
 message_11:
-      text: That's ‘cause you don't have a hard head like I do!\ber
-
+      text: To dlatego, że masz za miękką głowę!\ber
+ 
 #VAN remembers something.
-
+ 
 message_12:
-      text: Oh! Something just hit me!\!<br>I'm sure I saw the ball flying off somewhere in that direction!\n<VAN>
-
+      text: O! Chyba sobie przypomniałem!\!<br> Widziałem, jak piłka poleciała gdzieś w tamtą stronę!\n<VAN>
+ 
 #Everyone turns their head to Vast Forest Entrance.
 #Camera pans to Vast Forest Entrance.
-
+ 
 message_13:
-      text: Into the \c[11]VAST FOREST\c[0]?\! Ugh...\! We'll never find it now.\! It might as well be lost forever!\ber
-
+      text: Prosto do \c[11]NIEZMIERNEGO LASU\c[0]?\! Ugh...\\! No to jej nigdy nie znajdziemy.\! Równie dobrze możemy jej nawet nie szukać!\ber
+ 
 #HERO turns to BERLY.
-
+ 
 message_14:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Hey, don't sweat it, BERLY. We'll look for the ball for you!\her
-
+      text: Hej, nie złość się tak, BERLY. Specjalnie dla ciebie znajdziemy tą piłkę!\her
+ 
 message_15:
-      text: Heh.\! You sure you want to do that?\!<br>\c[11]VAST FOREST\c[0] is a pretty dangerous place, y'know?\ber
-
+      text: Heh.\! Jesteście pewni?\!<br>\c[11]NIEZMIERNY LAS\c[0] jest naprawdę niebezpieczny, wiecie?\ber
+ 
 message_16:
-      text: One time, I even got into a super grizzly brawl with this ugly<br>plant creature with dead, empty eyes and a gaping mouth. \ber
-
+      text: Kiedyś wdałam się tam w super groźną bójkę z takim paskudnym, liściastym stworzeniem z martwym wzrokiem i rozdziawioną paszczą.\ber
+ 
 message_17:
-      text: I outwitted it, of course, being cool and smart and all.\!<br>There's no monster in all of the universe that can outrun me!\ber
-
+      text: Oczywiście przechytrzyłam ją dzięki mojej fajności, mądrości i w ogóle.\!<br>W końcu na świecie nie ma potwora, który miałby szansę mnie pokonać!\ber
+ 
 message_18:
-      text: \Com[2]\SINV[2]\{BAHAHA\{HAHAH\{AHA!!\ber\}\}\LECLEAR
-
+      text: \Com[2]\SINV[2]\{ŁAHAHA\{HAHAH\{AHA!!\ber\}\}\LECLEAR
+ 
 #VAN turns to OMORI
-
+ 
 message_19:
-      text: Say OMORI, why don't you and your friends go with BERLY and keep her out of trouble.\! I'd go myself, but...\n<VAN>
-
+      text: OMORI, może ty i twoi przyjaciele moglibyście pomóc BERLY i pilnować, aby nie stała jej się krzywda.\! Sam bym z nią poszedł, ale...\n<VAN>
+ 
 message_20:
-      text: \Com[2]\SINV[1]VANNNNN\{NNNNNNN!!\}\!<br>\Com[2]BROWS ran over BANGS again!\SINV[0]\hap
-
+      text: \Com[2]\SINV[1]VANNNNN\{NNNNNNN!!\}\!<br>\Com[2]BREWCIO znowu zgniótł GRZYWCIA!\SINV[0]\hap
+ 
 #VAN looks toward the noise and is surprised.
-
+ 
 message_21:
-      text: Oh geez, there's my cue...\!<br>I'm coming, HAPPY!\n<VAN>
-
+      text: O rany, muszę lecieć...\!<br>Już idę, SZCZĘŚLIWCIU!\n<VAN>
+ 
 #VAN turns towards party.
-
+ 
 message_22:
-      text: Be safe out there, you guys. I'll see you when you get back!\n<VAN>
-
+      text: Bądźcie ostrożni. Zobaczymy się, jak wrócicie!\n<VAN>
+ 
 #VAN walks off screen
 #HERO turns to BERLY
-
+ 
 message_23:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Come on, BERLY. Let's go find your \c[4]LOST BALL\c[0].\!<br>We don't have anything to worry about as long as we're together!\her
-
+      text: Chodźmy, BERLY. Poszukajmy \c[4]ZGUBIONEJ PIŁKI\c[0].\!<br>Dopóki jesteśmy razem, nic nam się nie stanie!\her
+ 
 message_24:
-      text: Heh, sure.\! Just don't get in my way when I show off my totally amazing \c[1]HEADBUTT\c[0] skills!\ber
-
+      text: Hah, pewnie.\! Postarajcie się tylko nie przeszkadzać mi, przy pokazie mojej wspaniałej umiejętności strzału \c[1]Z GŁÓWKI\c[0]!\ber
+ 
 message_25:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: Ugh...\! Let's just get this over with.\aub
-
+      text: Ech...\! Miejmy to już za sobą.\aub
+ 
 message_26:
-      text: BERLY joined your party.
-
+      text: BERLY dołączyła do twojej drużyny.
+ 
 # =========================================================================================
-
+ 
 message_100:
-      text: You guys ready to find my \c[4]LOST BALL\c[0] yet!?\!<br>\}Not that I need your help or anything...\ber
-
+      text: Jesteście  gotowi, by znaleźć moją \c[4]ZGUBIONĄ PIŁKĘ\c[0]!?\!<br>\}To nie tak, że potrzebuję waszej pomocy...\ber
+ 
 message_38:
-      text: About time!\! Let's go already.\! I'm bored out of my mind!\ber
-
+      text: No wreszcie!\! Chodźmy już.\! Zaraz umrę z nudów!\ber
+ 
 message_101:
-      text: \com[2]What? Why not!?\! I'm falling asleep here!\ber
-
+      text: \com[2]Co? Jak to nie!?\! Zaraz zasnę tu z nudów!\ber
+ 
 message_102:
-      text: A lonely tetherball pole.
-
+      text: Słup z wiszącą linką.
+ 
 # =========================================================================================
-
+ 
 message_39:
-      text: Sniff sniff...\! sniff sniff...\ber
-
+      text: Niuch, niuch...\! niuch, niuch...\ber
+ 
 message_40:
       faceset: MainCharacters_DreamWorld
       faceindex: 22
-      text: BERLY, please... I promise I took a shower today.\kel
-
+      text: BERLY, proszę... Naprawdę brałem dziś prysznic.\kel
+ 
 message_41:
-      text: I smell...\! ...\! ...\! my \c[4]LOST BALL\c[0]!<br>\!I think.\ber
-
+      text: Wyczuwam...\! ...\! ...\! moją \c[4]ZGUBIONĄ PIŁKĘ\c[0]!<br>\! Tak mi się wydaje.\ber
+ 
 message_42:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: You think?\kel
-
+      text: Serio?\kel
+ 
 message_43:
-      text: It's somewhere nearby, I can just feel it!\!<br>You know the drill, turn this place upside down!\ber
-
+      text: Jest gdzieś w pobliżu, czuję to!\!<br>Wiecie, o co biega, macie wywrócić to miejsce do góry nogami!\ber
+ 
 # =========================================================================================
 # Cutscene: FOUND BALL
 # =========================================================================================
-
+ 
 message_27:
-      text: \{\com[2]SWEET! THERE'S MY \c[4]LOST BALL\c[0]!!\ber
-
+      text: \{\com[2]ŚWIETNIE! TU JEST MOJA \c[4]ZGUBIONA PIŁKA\c[0]!!\ber
+ 
 message_28:
-      text: \{\sinv[1]YOINK!\ber
-
+      text: \{\sinv[1]BAM!\ber
+ 
 message_29:
-      text: Finally!\! Let's take this bad boy to the playground!\!<br>I'm itchin' to play some tetherball!\ber
-
+      text: W końcu!\! Zabierzmy tego potwora na plac zabaw!\!<br>Już nie mogę się doczekać, aż nim poodbijam!\ber
+ 
 message_30:
-      text: Hey, this isn't how you get to the playground!\! You're going the wrong way!\ber
-
+      text: Hej, to nie jest droga na plac zabaw!\! Idziemy w złą stronę!\ber
+ 
 message_31:
-      text: You found a \c[4]LOST BALL\c[0].
-
+      text: Znalazłeś \c[4]ZGUBIONĄ PIŁKĘ\c[0].
+ 
 message_32:
-      text: Well, that was fun...\! not!\!<br>I'm gonna go play some tetherball!\ber
-
+      text: Cóż, było fajnie...\! ha, wcale nie!\!<br>To ja spadam się pobawić!\ber
+ 
 message_33:
-      text: See ya later, alligators! I'm outta here!\ber
-
+      text: Czołem, kluski pod stołem! To ja zmykam!\ber
+ 
 message_34:
-      text: BERLY left your party.
-
+      text: BERLY opuściła twoją drużynę.
+ 
 message_35:
-      text: But seriously, come see me before you go.\!<br>I got something special for ya.\ber
-
+      text: Ale tak na serio, podejdźcie do mnie, zanim sobie pójdziecie.\!<br>Mam coś dla was.\ber
+ 
 message_36:
-      text: Hey, this isn't where my \c[4]LOST BALL\c[0] went!\! You got somewhere else to be or somethin'?\ber
-
+      text: Chwilka, mojej \c[4]ZGUBIONEJ PIŁKI\c[0] tam nie ma!\! Macie coś ważniejszego do roboty?\ber
+ 
 message_37:
-      text: If you needed to be somewhere you could've just said so!\!<br>I'll wait for you guys back at the playground.\ber
-
+      text: Jeśli macie coś do zrobienia, mogliście mi po prostu powiedzieć!\!<br>Poczekam na was na placu zabaw.\ber
+ 
 # =========================================================================================
 # Cutscene: OMORI's CUT TAG SKILL
 # =========================================================================================
-
+ 
 #Aubrey walks up to a root.
-
+ 
 message_61:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: There's a root here, but it looks like it can be cut down.\!<br>This looks like a job for you, OMORI!\aub
-
+      text: Tu rośnie korzeń, ale chyba można go ściąć.\!<br>To robota dla ciebie, OMORI!\aub
+ 
 # =========================================================================================
 # Cutscene: MARI FINDS THE BALL
 # =========================================================================================
-
+ 
 #TRIGGER: Enter Mari's Picnic
-
+ 
 #MARI walks one step towards OMORI.
-
+ 
 message_78:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: Oh, hi again, everyone!\!<br>I bet you're all tired from exploring \c[11]VAST FOREST\c[0].\mar
-
+      text: O, witajcie z powrotem!\!<br>Założę się, że wymęczyło was bieganie po   \c[11]NIEZMIERNYM LESIE\c[0].\mar
+ 
 message_79:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: Why don't you grab some food from my picnic?\!<br>That'll fix you right up!\mar
-
+      text: Może poczęstujecie się jedzeniem?\!<br>To postawi was na nogi!\mar
+ 
 #[OMORI examines Fruit Basket and heals.]
-
+ 
 message_80:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: There, all better.\! Let me know if you need anything else.\mar
-
+      text: Widzicie? Od razu lepiej.\! Jeśli będziecie czegoś potrzebować, dajcie znać.\mar
+ 
 message_81:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: Oh, and if you ever get lost or aren't sure what to do, <br>just talk to me.\! I can help you get right back on track!\mar
+      text: A jeśli kiedykolwiek się pogubicie lub nie będziecie pewni, co zrobić, możecie na mnie liczyć.\! Pomogę wam się odnaleźć!\mar
+ 
+
