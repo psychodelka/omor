@@ -715,53 +715,53 @@ message_133:
    text: >
     \>POCZWARNIUTKA: \<\sinv[1]Ble!
 
-# ============Enemy:  PIĘKNISIA
+# ============Enemy:  IDEALNIUTKA
 
 # Intro
 
 message_134:
    text: >
-    \>PIĘKNISIA: \<<br>Pamiętajcie, maleństwa...\! Same się na to pisałyście!
+    \>IDEALNIUTKA: \<<br>Pamiętajcie, maleństwa...\! Same się na to pisałyście!
 
 # Getting Weaker (50%):
 
 message_135:
    text: >
-    \>PIĘKNISIA: \<Och...\! Jesteście dość silni.
+    \>IDEALNIUTKA: \<Och...\! Jesteście dość silni.
 
 message_136:
    text: >
-    \>PIĘKNISIA: \<Muszę bardziej się postarać.
+    \>IDEALNIUTKA: \<Muszę bardziej się postarać.
 
 # Getting Weaker (25%):
 
 message_137:
    text: >
-    \>PIĘKNISIA: \<Hm?\! C-co to?\! Kropla potu?
+    \>IDEALNIUTKA: \<Hm?\! C-co to?\! Kropla potu?
 
 message_138:
    text: >
-    \>PIĘKNISIA: \<Jeju...\! Nie mogę uwierzyć.
+    \>IDEALNIUTKA: \<Jeju...\! Nie mogę uwierzyć.
 
 # After Defeat:
 
 message_139:
    text: >
-    \>PIĘKNISIA: \<Ach.\! Wygraliście.
+    \>IDEALNIUTKA: \<Ach.\! Wygraliście.
 
 message_140:
    text: >
-    \>PIĘKNISIA: \<Dobrze.\! Wiem, kiedy przyznać się do porażki.
+    \>IDEALNIUTKA: \<Dobrze.\! Wiem, kiedy przyznać się do porażki.
 
 # After Victory:
 
 message_141:
    text: >
-    \>PIĘKNISIA: \<Mówiłam, że będziecie tego żałować.
+    \>IDEALNIUTKA: \<Mówiłam, że będziecie tego żałować.
 
 message_142:
    text: >
-    \>PIĘKNISIA: \<Nie każcie mi się powtarzać.
+    \>IDEALNIUTKA: \<Nie każcie mi się powtarzać.
 
 # ============Enemy:  KUKURYKSIO
 
@@ -1379,10 +1379,10 @@ message_268:
    text: >
     \>BISZKOPT: \<\sinv[1]<br>Ohooooooooo...
 
-# PIĘKNISIA Hitting an emotion weakness
+# IDEALNIUTKA Hitting an emotion weakness
 message_269:
    text: >
-    \>PIĘKNISIA: \<\sinv[1]Tsk... Tsk...\sinv[0]\! Okazywanie emocji pozwala mi przejrzeć was na wylot.
+    \>IDEALNIUTKA: \<\sinv[1]Tsk... Tsk...\sinv[0]\! Okazywanie emocji pozwala mi przejrzeć was na wylot.
 
 # ŚNIEŻNY ANIOŁ Pierce Heart Skill
 message_270:

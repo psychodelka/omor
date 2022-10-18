@@ -252,7 +252,7 @@ message_81:
 #SMM walks onto the stage.
  
 message_100:
-      text: Panie i kiełkunowie...\!<br>Witamy w odcinku specjalnym...\!<br>\"POSZUKIWAŃ WYBRANKA SŁODZIUTKIEJ!\"\smm
+      text: Panie i kiełkunowie...\!<br>Witamy w odcinku specjalnym...\!<br>\"SZANSY NA SERCE SŁODZIUTKIEJ!\"\smm
  
 #Applause
  
@@ -278,7 +278,7 @@ message_105:
 #Curtains open, changing the graphic behind to SWEETHEART'S Show Graphic.
  
 message_106:
-      text: Ostatnim razem w \"POSZUKIWANIACH WYBRANKA SŁODZIUTKIEJ\"...\!<br>Naszej ukochanej królewnie...\! po raz kolejny...\! nie udało się zakochać w żadnym z naszych dostojnych kawalerów!\smm
+      text: Ostatnim razem w \"SZANSIE NA SERCE\"...\!<br>Naszej ukochanej królewnie...\! po raz kolejny...\! nie udało się zakochać w żadnym z naszych dostojnych kawalerów!\smm
  
 message_107:
       text: Tym razem...\! zebraliśmy trzech nowych, wyjątkowo atrakcyjnych, kandydatów!\! Czy któremuś z nich uda się zdobyć serce SŁODZIUTKIEJ?\! Przedstawmy ich!\smm

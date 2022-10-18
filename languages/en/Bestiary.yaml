@@ -1436,7 +1436,7 @@ Information:
         - OMORI
 
   559:
-    name: PIĘKNISIA
+    name: IDEALNIUTKA
     background: {name: 'battleback_dw_perfectheart', x: 0, y: 0}
     position: {x: 160, y: 500}
     character: {name: 'DW_NPC_14', index: 1}
