@@ -29,7 +29,7 @@ message_20:
 message_21:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text:  \n<NIEZNAJOMY>\fn<OMORI_GAME>Prawda, którą ukryłeś...\! Pomimo wszystko musisz ją odnaleźć.
+      text:  \n<NIEZNAJOMY>\fn<OMORI_GAME>Prawda, którą ukryłeś...\! Pomimo wszystko, musisz ją odnaleźć.
  
 message_22:
       faceset: MainCharacter_Basil
@@ -43,7 +43,7 @@ message_22:
 message_0:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Te pokoje...\! pełne są zniszczeń...\! ale przynajmniej tu mogę zobaczyć, kim tak naprawdę jesteś.
+      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Te pokoje...\! są pełne zniszczeń...\! ale przynajmniej mogę tu zobaczyć, kim tak naprawdę jesteś.
 message_1:
       faceset: MainCharacter_Basil
       faceindex: 8
@@ -52,7 +52,7 @@ message_1:
 message_2:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>W każdym razie...\! stało się to potężniejsze od ciebie.
+      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>W każdym razie...\! stało się to silniejsze od ciebie.
  
 #===========================================================================================
  
@@ -67,11 +67,11 @@ message_4:
 message_5:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Przez cały ten czas czekał, aż ktoś go ocali.
+      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Przez cały ten czas czekała, aż ktoś ją ocali.
 message_6:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Tamtego dnia...\! Gdy ty stałeś się niczym...\! Rozpadłem się w pół...\! Jak myślisz, co bardziej bolało?
+      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Tamtego dnia...\! Gdy ty stałeś się niczym...\! Rozpadłem się w pół...\! Jak myślisz, co bolało bardziej?
  
 #===========================================================================================
  

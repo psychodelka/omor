@@ -1,156 +1,156 @@
 # =========================================================
 # DOUGH DUNGEON (DOOM TOMB)
 # =========================================================
-
+ 
 #Upon entry: Crypt is dark
-
+ 
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 20
-      text: \kelIt sure is dark in here...
-
+      text: \kelNic nie widzę...
+ 
 #Red eyes surround party
-
+ 
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: \herUh-oh...\! It looks like we're not alone!
-
+      text: \herO-oł...\! Chyba nie jesteśmy tu sami!
+ 
 #One bread walks forward
-
+ 
 message_2:
-      text: \who\Quake[1]Hiss...\Quake[0]
-
+      text: \who\Quake[1]Ksss...\Quake[0]
+ 
 #Rest of bread walks forward
-
+ 
 message_3:
-      text: \who\Quake[1]Hiss...\| Hiss...\| Hiss...\| Hiss...\Quake[0]
-
+      text: \who\Quake[1]Ksss...\| Ssss...\| Ssss...\| Ksss...\Quake[0]
+ 
 #Placeholder:
-
+ 
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \kelHey! They're hissing at us!\! We can't let them do that!\!<br>\Com[2]Let's teach them a lesson!
-
+      text: \kelHej! Właśnie zostaliśmy osyczeni!\! Nie możemy puścić im tego płazem!\!<br>\Com[2]Nauczmy ich dobrych manier!
+ 
 #AFTERBATTLE
-
+ 
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: \herHuff...\! Huff...\! Okay, that's the last of them.
-
+      text: \herHuu...\! Uff...\! Dobra, to był ostatni.
+ 
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: \kelMan... What's with all this bread down here?\!<br>Someone must have a real baking problem...
-
-
+      text: \kelLudzie... Co jest z tym pieczywem?\!<br>Komuś trafił się ciężki suchar do zgryzienia...
+ 
+ 
 #After examining DO NOT TOUCH big bread
-
+ 
 message_53:
       text: \who\sinv[1]Ohooooooooo...\sinv[0]
-
+ 
 #*Small shaking*
-
+ 
 message_54:
       text: \who\sinv[1]Ohooooooooooooooooooo...\sinv[0]
-
+ 
 #*More shaking*
-
+ 
 message_55:
       text: \who\sinv[1]Ohoooooooooooooooooooooooooooooo!!\sinv[0]
-
+ 
 #*The toast begins floating*
 #*More shaking and screen starts to fade out*
 #*falling noises*
-
-
+ 
+ 
 #Upon falling into Doom TOMB
-
+ 
 message_60:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kel\Com[2]\sinv[1]\{PWWEEEEHHHHH!!\!\}<br>Ewwwwwwwwww...\!\sinv[0] What is all this?
-
+      text: \kel\Com[2]\sinv[1]\{Fuuu!!\!\}<br>Fuuuuuuuuuuuj...\!\sinv[0] Co to jest?
+ 
 message_61:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herThis...\! This is all-purpose flour!
-
+      text: \herTo...\! To mąka!
+ 
 message_62:
       faceset: MainCharacters_DreamWorld
       faceindex: 7
-      text: \aub\Com[2]\sinv[2]\{ACHHOOOOOOO!!\sinv[0]\}\!<br>Urgh...\! My nose is all itchy...
-
+      text: \aub\Com[2]\sinv[2]\{AAAAAAAAPSIK!!\sinv[0]\}\!<br>Urgh...\! Koszmarnie kręci mnie w nosie...
+ 
 #--------------
-#ACTUAL MOLE DIALOGUE + SAFE
-
+#PRAWDZIWY KUN DIALOGUE + SAFE
+ 
 message_200:
-      text: \n<ACTUAL MOLE>Stop right there, no-gooders!\! Can't y'all read directions?\!<br>Ya'll should be ashamed of yourselves!
-
+      text: \n<PRAWDZIWY KUN>Stać, huncwoty!\! Nie potraficie czytać znaków?\!<br>Sam wstyd!
+ 
 message_201:
-      text: \n<ACTUAL MOLE>My family and I have been guardin' this crypt's treasure for generations...\! but guardin' ain't easy ‘cause of people like you!
-
+      text: \n<PRAWDZIWY KUN>Ja i moja rodzina pilnujemy skarbu w tej krypcie od wielu pokoleń...\! ale nie jest to proste przez gagatki jak wy!
+ 
 message_202:
-      text: \n<ACTUAL MOLE>I may be old and frail now... and my eyesight may not be so good... and I may be the only one left...<br><br>But I've spent a lifetime doin' this, and I've gotten real good at guardin', I reckon!
-
+      text: \n<PRAWDZIWY KUN>Może jestem już stary i słaby... i może niedowidzę... i może przetrwałem już tylko ja...<br><br>Ale robię to, odkąd pamiętam i, jak sądzę, jestem w tym najlepszy!
+ 
 message_203:
-      text: \n<ACTUAL MOLE>I can't even remember what I'm guardin', but it's probably whatever's hidden in that important-lookin' safe in the left corner of the room!
-
+      text: \n<PRAWDZIWY KUN>Nie pamiętam nawet, czego tu pilnuję, ale pewnie czegoś, co jest w tym ważnie wyglądającym sejfie w rogu pokoju!
+ 
 message_204:
-      text: \n<ACTUAL MOLE>Anyway, I'm gonna have to ask y'all to leave peacefully.\! Being an ACTUAL MOLE and all, I can dig my way out of here in 3 seconds flat!
-
+      text: \n<PRAWDZIWY KUN>No cóż, dzieciaczki, muszę was ładnie poprosić, żebyście sobie poszli...\! Jako PRAWDZIWY KUN mogę się stąd wykopać w mgnieniu oka!
+ 
 message_205:
-      text: \n<ACTUAL MOLE>There ain't nothin' special about this place.\! So how about I save y'all some trouble and getchu out of here?
-
+      text: \n<PRAWDZIWY KUN>Nie ma tu nic ciekawego.\! Więc co wy na to, że oszczędzę wam kłopotu i wyniosę was na pole?
+ 
 #[YES/NO]
-
+ 
 #[YES]
 message_206:
-      text: \n<ACTUAL MOLE>Well, that was easy!\! Don't blink! I'll have you back on the surface faster than a hot knife through butter!
-
+      text: \n<PRAWDZIWY KUN>Cóż, łatwo poszło!\! Tylko nie mrugać! Będziemy na polu, zanim się obejrzycie!
+ 
 #[NO]
 message_207:
-      text: \n<ACTUAL MOLE>You wanna stay and enjoy the place?\! Alright, if you insist!
-
-
+      text: \n<PRAWDZIWY KUN>Chcecie tu jeszcze posiedzieć?\! A róbta, co wam się podoba!
+ 
+ 
 message_208:
-      text: \n<ACTUAL MOLE>Feel free to look around and all...\! This summoning circle may be old, but it still works like a charm...\! but no funny business...\! or else!
-
+      text: \n<PRAWDZIWY KUN>Śmiało się rozejrzyjcie i w ogóle...\! Ten kręg przywoływań może jest starszy ode mnie, ale nadal działa, jak trzeba...\! tylko żadnych numerów...\! bo inaczej!
+ 
 #Enter after leaving:
 message_209:
-      text: \n<ACTUAL MOLE>Hey, partner! You're back down yonder already?\! How many years has it been?
-
+      text: \n<PRAWDZIWY KUN>Witajcie, moi drodzy! Już wróciliście?\! Ile to czasu minęło?
+ 
 #Talk to him again:
 message_210:
-      text: \n<ACTUAL MOLE>You feelin' an itch to get back to the surface?\! You won't be able to take anything you find from the counters here with you!\! That okay, partner?
+      text: \n<PRAWDZIWY KUN>Chcecie już wracać na górę?\! Nie zwędźcie mi stąd niczego!\! Rozumiemy się?
 #[YES/NO]
-
+ 
 #[YES]
 message_211:
-      text: \n<ACTUAL MOLE>\{\{\sinv[1]YEEEEE-HAWWW!!
-
+      text: \n<PRAWDZIWY KUN>\{\{\sinv[1]JEDZIEMY!!
+ 
 message_230:
-      text: \n<ACTUAL MOLE>I'll have you back on the surface faster than a hot knife through butter!
-
+      text: \n<PRAWDZIWY KUN>Będziecie na górze w mgnieniu oka!
+ 
 #[NO]
 #Nothing
-
+ 
 #To unveil the safe combination, you must empty the table as the safe combination is on it, meaning you must summon everything.
 #Use the combo to open up the safe.
-
+ 
 #Examine safe for the first time:
 message_212:
-      text: \n<ACTUAL MOLE>\com[2]Don't you even think about opening up that safe!\! There's definitely no combination or anything like that around these parts!
-
+      text: \n<PRAWDZIWY KUN>\com[2]Hola, hola! Nie majstrować mi przy tym sejfie! I tak go nie otworzycie!\! Na pewno nie ma tu kodu, czy czegoś w tym stylu!
+ 
 #Talk to the safe:
 message_213:
-      text: What is the safe combination?
-
+      text: Jaki jest kod do sejfu?
+ 
 message_217:
-      text: And?
-
+      text: I?
+ 
 #Multiple choice with 4 random numbers each.
 #Correct answer combo:
 #2
@@ -160,344 +160,346 @@ message_217:
 #9
 #9
 #1
-
+ 
 #The safe contains RECIPE FOR DISASTER. (Item #246)
 #Get Message is in XX_MELON
 #The screen will fade out and fade in to show the image, then fade back.
 #You can also view it through inventory.
-
-
-#The recipe requires you to sacrifice ACTUAL MOLE.
-
+ 
+ 
+#The recipe requires you to sacrifice PRAWDZIWY KUN.
+ 
 #Talk to the Mole with RECIPE FOR DISASTER:
 message_214:
-      text: Do you want to pick up \c[4]ACTUAL MOLE\c[0]?\!<br>There may be no turning back...
-
+      text: Chcesz wziąć ze sobą \c[4]PRAWDZIWEGO KUNA\c[0]?\!<br>Może nie być już odwrotu...
+ 
 message_215:
-      text: \n<ACTUAL MOLE>\quake[1]\{\{WHAT IN TARNATION!?!?
-
+      text: \n<PRAWDZIWY KUN>\quake[1]\{\{CO U DIABŁA!?!?
+ 
 message_216:
-      text: You picked up \c[4]ACTUAL MOLE\c[0].
-#(Note: Once you pick up the ACTUAL MOLE, you won't be able to leave.)
-#ACTUAL MOLE is Item #248
-
+      text: Wziąłeś \c[4]PRAWDZIWEGO KUNA\c[0].
+#(Note: Once you pick up the PRAWDZIWY KUN, you won't be able to leave.)
+#PRAWDZIWY KUN is Item #248
+ 
 #Talk to the summoning circle. (XX_MELON.message_79)
-
-#After you sacrifice the ACTUAL MOLE, the map starts rumbling, the screen begins shaking and turning black.
-
+ 
+#After you sacrifice the PRAWDZIWY KUN, the map starts rumbling, the screen begins shaking and turning black.
+ 
 #You and your party will spawn to the top of this map. The boulder will appear and start chasing you down.
-
+ 
 #If you die here, it'll play the funeral song like you died.
 #Then you'll respawn at the top of the boulder map infinitely.
-
+ 
 #If you fall “survive” and fall through the hole at the bottom, the screen will turn black, then there will be a falling noise and then a crash signifying you hit the ground. Then it'll play the funeral song like you died. (Either way, you “die.”)
-
+ 
 #Instead of GAME OVER, you find yourself in the left pantry with 3 TOASTS around you (your party members).
-
+ 
 #OMORI pops out from the middle of the flour pile, covered in flour.
-
+ 
 #Orange = party members Green = Life Jam watermelons
-
+ 
 #You must gather the LIFE JAM around the room and use the LIFE JAM on the TOASTS to revive them.
 #After you revive each member, they join your party.
-
-
-
+ 
+ 
+ 
 message_220:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubOMORI! You saved me!
-
+      text: \aubOMORI! Uratowałeś mnie!
+ 
 #*AUBREY twirl*
-
+ 
 message_221:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubThank you... I thought I was TOAST for sure!
-
+      text: \aubDzięki... Myślałam, że zostanę już TOSTEM na zawsze!
+ 
 #AUBREY joins your party.
-
+ 
 #KEL looks around
-
+ 
 message_222:
       faceset: MainCharacters_DreamWorld
       faceindex: 33
-      text: \kel\quake[1]\com[2]\{AHHHHH!! WHERE AM I!?
-
+      text: \kel\quake[1]\com[2]\{AAAAAA!! GDZIE JA JESTEM!?
+ 
 #*KEL jumps*
-
+ 
 message_223:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelOh, hey guys! What'd I miss?
-
+      text: \kelO, siema! Co przegapiłem?
+ 
 #KEL joins your party.
-
+ 
 message_224:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
       text: \herUrf...
-
+ 
 message_225:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubWelcome back, HERO! How are you feeling?
-
+      text: \aubWitamy z powrotem, HERO! Jak się czujesz?
+ 
 message_226:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: \herI feel...\! dizzy...
-
+      text: \herNiedobrze mi...
+ 
 message_227:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text:  \her\com[2]W-Whoa!\! Hey, where are we?
-
+      text:  \her\com[2]U-uaa!\! Hej, gdzie my jesteśmy?
+ 
 message_228:
       faceset: MainCharacters_DreamWorld
       faceindex: 27
-      text: \kelI dunno...\! Maybe a place where all abandoned TOAST goes...
-
+      text: \kelNie wiem...\! Może tam, gdzie trafiają wszystkie porzucone TOSTY...
+ 
 message_229:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text:  \herWell, we sure as heck aren't TOAST anymore!\! Let's hurry and find a way out of here!
-
-
-#Walk to the top of the staircase and Biscuit and Doughie will challenge you.
+      text:  \herNa pewno nie jesteśmy już TOSTAMI!\! Pospieszmy się i spróbujmy się stąd wydostać!
+ 
+ 
+#Walk to the top of the staircase and Biscuit and CHAŁKA will challenge you.
 #Their dialogue was edited in dreamworld_extras_doomtomb.yaml. (message 63 - 110)
 #You can win or lose to them and it'll produce the same result except for a few lines of text.
 #Note: Maybe ingredients on the table should be gone after you defeat them.
-
-#After you fight them, Biscuit and Doughie leave using the portal above them.
-
+ 
+#After you fight them, Biscuit and CHAŁKA leave using the portal above them.
+ 
 #When party uses portal, they pop out of the sand in toast graveyard one by one like zombies.  Then they align into party formation.
-
+ 
 #-----------
-#After entering BISCUIT and DOUGHIE's lair:
+#After entering BISZKOPT and CHAŁKA's lair:
 message_63:
-      text: \n<DOUGHIE>We were born to make bread forever, day in and day out...\! \sinv[1]Fresh bread...\| Fresh bread...\| Fresh bread...\sinv[0]
-
+      text: \n<CHAŁKA>Urodziliśmy się, by dzień w dzień piec chleb, na wieczność...\! \sinv[1]Świeży chleb...\| Świeży chleb...\| Świeży chleb...\sinv[0]
+ 
 message_64:
-      text: \n<DOUGHIE>It's a hard life... and it's not very rewarding...<br>but this is all we have...\!<Br>We just have to be grateful, right BISCUIT?
-
+      text: \n<CHAŁKA>Takie życie jest ciężkie... i niezbyt opłacalne...<br>ale tylko to nam zostało...\!<br>Musimy być za to wdzięczni, prawda BISZKOPCIE?
+ 
 message_65:
-      text: \n<BISCUIT>\sinv[1]Ohooo...\sinv[0]
-
+      text: \n<BISZKOPT>\sinv[1]Ohooo...\sinv[0]
+ 
 message_66:
-      text: \n<DOUGHIE>That's right, brother...\! This has always been our life...\! trapped in an endless circle of bread.
-
+      text: \n<CHAŁKA>Prawda, bracie...\! Żyjemy tak od zawsze...\! uwięzieni w niekończącym się kręgu chleba.
+ 
 message_67:
-      text: \n<BISCUIT>\sinv[1]Ohooooooooo...\sinv[0]
-
+      text: \n<BISZKOPT>\sinv[1]Ohooooooooo...\sinv[0]
+ 
 message_68:
-      text: \n<DOUGHIE>\sinv[1]Ohooo\{oooooooooo\{oooooooo...\sinv[0]
-
+      text: \n<CHAŁKA>\sinv[1]Ohooo\{oooooooooo\{oooooooo...\sinv[0]
+ 
 message_69:
-      text: \n<BISCUIT AND DOUGHIE>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo...\sinv[0]
-
+      text: \n<BISZKOPT I CHAŁKA>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo...\sinv[0]
+ 
 message_70:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelSo this is where the wailing was coming from!
-
+      text: \kelWięc to stąd dochodziło to wycie!
+ 
 message_71:
-      text: \n<DOUGHIE>\Com[2]Ah!\! The bread...\! It has spoken!\!<br>I knew that our bread would come back to haunt us eventually...
-
+      text: \n<CHAŁKA>\Com[2]Ach!\! Chleb...\! On przemówił!\!<br>Wiedziałam, że powróci, by nas nawiedzać...
+ 
 message_72:
-      text: \n<DOUGHIE>Come, BISCUIT!<br>We must destroy them before they destroy us first!
-
+      text: \n<CHAŁKA>Chodź, BISZKOPCIE!<br>Musimy go zniszczyć, zanim on zniszczy nas!
+ 
 message_73:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kelWait a sec... We're not-
-
+      text: \kelChwila... Nie jesteśmy-
+ 
 message_74:
-      text: \n<BISCUIT>\sinv[1]Ohooooooooo!\sinv[0]
-
+      text: \n<BISZKOPT>\sinv[1]Ohooooooooo!\sinv[0]
+ 
 message_75:
-      text: \n<DOUGHIE>\sinv[1]Ohooo\{oooooooooo\{oooooooo!!\sinv[0]
-
+      text: \n<CHAŁKA>\sinv[1]Ohooo\{oooooooooo\{oooooooo!!\sinv[0]
+ 
 message_76:
-      text: \n<BISCUIT AND DOUGHIE>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo!!!\sinv[0]
-
-#After fighting BISCUIT and DOUGHIE and WINNING:
-
+      text: \n<BISZKOPT I CHAŁKA>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo!!!\sinv[0]
+ 
+#After fighting BISZKOPT and CHAŁKA and WINNING:
+ 
 message_78:
-      text: \n<DOUGHIE>Huff...\! Huff...\! We're all out of JUICE...\!<br>It seems...\| that this is the end for us, BISCUIT...
-
+      text: \n<CHAŁKA>Huu...\! Huu...\! Skończył nam się SOK...\!<br>Chyba...\| nastał nasz koniec, BISZKOPCIE...
+ 
 message_79:
-      text: \n<BISCUIT>\sinv[1]Ohoo...\sinv[0]
-
+      text: \n<BISZKOPT>\sinv[1]Ohoo...\sinv[0]
+ 
 #then continue to after win/lose text (message 85+)
-
-#After fighting BISCUIT and DOUGHIE and LOSING:
+ 
+#After fighting BISZKOPT and CHAŁKA and LOSING:
 #party members are lying on the floor
-
-#biscuit and doughie look at each other
-
+ 
+#biscuit and CHAŁKA look at each other
+ 
 message_80:
-      text: \n<DOUGHIE>\{\sinv[1]HURRAY! WE ARE VICTORIOUS!!
-
+      text: \n<CHAŁKA>\{\sinv[1]HURRA! ZWYCIĘŻYLIŚMY!!
+ 
 message_81:
-      text: \n<BISCUIT>\sinv[1]Ohoo!\sinv[0]
-
+      text: \n<BISZKOPT>\sinv[1]Ohoo!\sinv[0]
+ 
 #party members get up one by one
-
+ 
 message_82:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: Hey...\! Is everyone okay?\her
-
+      text: Ej...\! Wszyscy są cali?\her
+ 
 message_83:
-      text: \n<DOUGHIE>Brother!\! The living bread has risen again!
-
-#DOUGHIE looks around
+      text: \n<CHAŁKA>Bracie!\! Żywe chrupy znów powstały!
+ 
+#CHAŁKA looks around
 message_84:
-      text: \n<DOUGHIE>But we don't have any more ingredients...\! Perhaps this is the end for us, BISCUIT...
-
+      text: \n<CHAŁKA>Ąle nie mamy już więcej składników...\! Być może nastał nasz koniec, BISZKOPCIE...
+ 
 message_85:
-      text: \n<BISCUIT>\sinv[1]Ohooo...\sinv[0]
-
+      text: \n<BISZKOPT>\sinv[1]Ohooo...\sinv[0]
+ 
 #After win/lose text always continues to this same part:
-
+ 
 message_86:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kel\Com[2]Wait!\! We're not bread...\! We're kids, just like you!
-
+      text: \kel\Com[2]Chwila!\! Nie jesteśmy chlebem...\! Jesteśmy tylko dziećmi, tak jak wy!
+ 
 message_87:
-      text: \n<DOUGHIE>You...\! You mean you're not here to destroy us?
-
+      text: \n<CHAŁKA>Czyli...\! Czyli nie chcecie nas zniszczyć?
+ 
 message_88:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubOf course not!\! We would never attack unprovoked!
-
+      text: \aubPewnie, że nie!\! Nigdy nie zaatakowalibyśmy pierwsi!
+ 
 message_89:
-      text: \n<DOUGHIE>You hear that, BISCUIT?\! We're saved!\! <br>Now it's back to baking...\!<br>\sinv[1]Fresh bread...\| Fresh bread...\| Fresh bread...\sinv[0]
-
+      text: \n<CHAŁKA>Słyszałeś, BISZKOPCIE?\! Jesteśmy uratowani!\! <br>Teraz powróćmy do pieczenia...\!<br>\sinv[1]Świeży chleb...\| Świeży chleb...\| Świeży chleb...\sinv[0]
+ 
 message_90:
-      text: \n<BISCUIT>\sinv[1]Ohoo...\sinv[0]
-
+      text: \n<BISZKOPT>\sinv[1]Ohoo...\sinv[0]
+ 
 #they bake for a while
-
+ 
 message_91:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herHey... so...\! How long have you guys been baking bread here?\!<br>Don't you want to go outside and get some fresh air?
-
+      text: \herHej... więc...\! Od jak dawna pieczecie tu chleb?\!<br>Nie chcielibyście wyjść na zewnątrz i pooddychać świeżym powietrzem?
+ 
 message_92:
-      text: \n<DOUGHIE>\sinv[1]Ohoo...\sinv[0]\! If only that were possible...\!<br>We've been trapped here since the inception of the universe...
-
+      text: \n<CHAŁKA>\sinv[1]Ohoo...\sinv[0]\! Gdyby to było takie proste...\!<br>Jesteśmy tu uwięzieni od narodzin wszechświata...
+ 
 message_93:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubWow... That sounds like a pretty long time.\! I think you both deserve a break!
-
+      text: \aubWow... To naprawdę długo.\! Myślę, że zasłużyliście na przerwę!
+ 
 message_94:
-      text: \n<DOUGHIE>\Com[2]What? That's preposterous!\! What meaning do our lives have if we do not spend it baking bread?
-
+      text: \n<CHAŁKA>\Com[2]Co? Toż to niedorzeczne!\! Czym jest cel naszych istnień, jeśli nie pieczeniem chleba?
+ 
 message_95:
-      text: \n<BISCUIT>\sinv[1]Ohoo?\sinv[0]
-
+      text: \n<BISZKOPT>\sinv[1]Ohoo?\sinv[0]
+ 
 message_96:
-      text: \n<DOUGHIE>If we were to leave our bread-making stations... what would we do with ourselves?\! This is the only life we know...
-
+      text: \n<CHAŁKA>Co byśmy ze sobą zrobili... gdybyśmy opuścili kuchnię?\! Tylko taki żywot znamy...
+ 
 #pause
-
+ 
 message_97:
-      text: \n<DOUGHIE>And yet...\! My morbid curiosity overwhelms me...
-
+      text: \n<CHAŁKA>Jednakże...\! Żywa ciekawość zżera mnie od środka...
+ 
 message_98:
-      text: \n<DOUGHIE>That portal up there is able to transport us out of this place.
-
+      text: \n<CHAŁKA>Ten portal na ziemi pomógłby opuścić nam to miejsce.
+ 
 message_99:
-      text: \n<DOUGHIE>We've used it countless times to fulfill our bread summonings, but we have never seen the other side for ourselves...
-
+      text: \n<CHAŁKA>Używaliśmy go wiele razy, by przywołać chleb, jednak nigdy nie widzieliśmy, co kryje się po jego drugiej stronie...
+ 
 message_100:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelWell, we have!\! And let me tell you... It's a big, awesome world out there!\! I think it's about time that you guys start exploring new possibilities!
-
-#[Doughie and BISCUIT face each other]
-
+      text: \kelNo, a my tak!\! I uwierzcie mi na słowo... Na zewnątrz czeka na was wielki świat!\! Myślę, że to odpowiednia chwila na odkrywanie nowych możliwości!
+ 
+#[CHAŁKA and BISZKOPT face each other]
+ 
 message_101:
-      text: \n<DOUGHIE>Hmm...\! Tempting...
-
+      text: \n<CHAŁKA>Hmm...\! Kuszące...
+ 
 #face each other
-
+ 
 message_102:
-      text: \n<DOUGHIE>Well? What do you think, BISCUIT?
-
+      text: \n<CHAŁKA>Cóż? Co o tym myślisz, BISZKOPCIE?
+ 
 message_103:
-      text: \n<BISCUIT>\sinv[1]Ohoo...
-
+      text: \n<BISZKOPT>\sinv[1]Ohoo...
+ 
 message_104:
-      text: \n<DOUGHIE>\}Mhmm...\| I'm listening...\| Mhmm...\| Yes...\| But...\| Ah...\| That is true...
-
+      text: \n<CHAŁKA>\}Mhmm...\| Słucham...\| Mhmm...\| Tak...\| Ale...\| Ach...\| Masz rację...
+ 
 #face party
 message_105:
-      text: \n<DOUGHIE>Alright, we've changed our minds...\!<br>We want to leave...\! This place sucks!
-
+      text: \n<CHAŁKA>Dobrze, zmieniliśmy zdanie...\!<br>Chcemy się wydostać...\! To miejsce to koszmar!
+ 
 message_106:
-      text: \n<BISCUIT>\sinv[1]Ohoo!\sinv[0]
-
+      text: \n<BISZKOPT>\sinv[1]Ohoo!\sinv[0]
+ 
 #face each other
-
+ 
 message_107:
-      text: \n<DOUGHIE>BISCUIT...\! We've always been afraid to use the portal...
-
+      text: \n<CHAŁKA>BISZKOPCIE...\! Od zawsze baliśmy się użyć tego portalu...
+ 
 message_108:
-      text: \n<DOUGHIE>But perhaps it's time for change...
-
+      text: \n<CHAŁKA>Być może teraz jest czas na zmianę...
+ 
 #walk to portal
-
+ 
 message_109:
-      text: \n<DOUGHIE>Come on, brother!\!<br>\Com[2]Let's experience our first taste of freedom!
-
+      text: \n<CHAŁKA>Ruszajmy, bracie!\!<br>\Com[2]Posmakujmy wolności!
+ 
 message_110:
-      text: \n<BISCUIT AND DOUGHIE>\sinv[1]OHOOOOO\{OOOOOOOO\{OOOOOOOO\{OOOOOOOO!!\sinv[0]
-
-#[BISCUIT & DOUGHIE go into the portal]
-
+      text: \n<BISZKOPT I CHAŁKA>\sinv[1]OHOOOOO\{OOOOOOOO\{OOOOOOOO\{OOOOOOOO!!\sinv[0]
+ 
+#[BISZKOPT & CHAŁKA go into the portal]
+ 
 message_500:
-      text: You used \c[3]LIFE JAM\c[0] on AUBREY.
-
+      text: Użyłeś \c[3]DŻEMA ŻYCIA\c[0] na AUBREY.
+ 
 message_501:
-      text: You used \c[3]LIFE JAM\c[0] on KEL.
-
+      text: Użyłeś \c[3]DŻEMA ŻYCIA\c[0] na KELU.
+ 
 message_502:
-      text: You used \c[3]LIFE JAM\c[0] on HERO.
-
+      text: Użyłeś \c[3]DŻEMA ŻYCIA\c[0] na HERO.
+ 
 message_503:
-      text: AUBREY...\! but TOAST.
-
+      text: AUBREY...\! ale STOSTOWANA.
+ 
 message_504:
-      text: KEL...\! but TOAST.
-
+      text: KEL...\! ale STOSTOWANY.
+ 
 message_505:
-      text: HERO...\! but TOAST.
-
+      text: HERO...\! ale STOSTOWANY.
+ 
 #GHOST Mole
-
+ 
 message_510:
-      text: \n<ACTUAL GHOST>\com[2]It's you!\! Don't think I've forgotten what you did!\! Anyways, just because I'm a ghost now doesn't mean I can't dig my way out of here.
-
+      text: \n<PRAWDZIWY DUCH>\com[2]To wy!\! Nie myślcie sobie, że zapomniałem o waszych występkach!\! To, że teraz jestem duchem, wcale nie oznacza, że nie dam rady się stąd wydostać.
+ 
 message_511:
-      text: \n<ACTUAL GHOST>Did you want to go back to the surface?\! You won't be able to take anything you find from the counters here with you.
-
+      text: \n<PRAWDZIWY DUCH>Chcecie wracać na górę?\! Pamiętajcie, że nie macie zwędzić mi stąd niczego!
+ 
 message_512:
-      text: \n<ACTUAL GHOST>Okay...\! But no funny business...\! Or else!
-
+      text: \n<PRAWDZIWY DUCH>Dobra...\! Tylko bez żadnych numerów...\! Bo inaczej!
+ 
 message_513:
-      text: \n<ACTUAL GHOST>\com[2]I'll have you back on the surface faster than a hot knife through butter!
-
+      text: \n<PRAWDZIWY DUCH>\com[2]Będziecie na górze w mgnieniu oka!
+ 
 message_515:
-      text: This PYRAMID GATE needs a \c[4]PYRAMID KEY\c[0].
-
+      text: PIRAMIBRAMA potrzebuje \c[4]PIRAMIKLUCZA\c[0].
+ 
 message_517:
-      text: The perfect spot for a sacrifice.
-
+      text: Idealne miejsce na ofiarę.
+ 
 message_518:
       text:
+ 
+

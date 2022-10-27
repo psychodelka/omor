@@ -5,28 +5,28 @@
 #Trigger: Entering SBF's House with SWEETHEART MIXTAPE.
  
 message_0:
-      text: Udało się wam dzieciaki!\! Może nie wygląda jak nowa, ale to na pewno nasza zgubiona  \c[4]SUPER-SKŁADANKA\c[0]!\!<br>Wielkie dzięki, kolego.\spg
+      text: Udało się wam, dzieciaki!\! Może nie wygląda jak nowa, ale to na pewno nasza zgubiona \c[4]SUPER-SKŁADANKA\c[0]!\!<br>Wielkie dzięki, kolego.\n<KOLEŚ KOSMOPIRAT>
  
 message_1:
-      text: Z jej pomocą, wreszcie uda nam się obudzić KOSMOCHŁOPAKA!\spg
+      text: Z jej pomocą wreszcie uda nam się obudzić KOSMOCHŁOPAKA!\n<KOLEŚ KOSMOPIRAT>
  
 #KEL walks up to you.
  
 message_2:
-      text: KEL sięgnał do twojej KIESZENI i wyjął z niej\c[4]SUPER-SKŁADANKĘ\c[0].
+      text: KEL sięgnał do twojej KIESZENI i wyjął z niej \c[4]SUPER-SKŁADANKĘ\c[0].
  
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: W zasadzie jeśli o to chodzi...\! to chyba mamy złe wieści.\!<br>Krążą plotki, że KOSMOCHŁOPAK i SŁODZIUTKA...\! Oni...\! ze sobą zerwali.\aub
+      text: W zasadzie...\! to chyba mamy złe wieści.\!<br>Krążą plotki, że KOSMOCHŁOPAK i SŁODZIUTKA...\! Oni...\! ze sobą zerwali.\aub
  
 #KEL slowly walks to SPACE BOYFRIEND.
  
 message_4:
-      text: \Com[2]C-co? Naprawdę?\!<br>Tym razem na serio?\!<br>Nie...\! Ale to by oznaczało...\spg
+      text: \Com[2]C-co? Naprawdę?\!<br>Tym razem na serio?\!<br>Nie...\! Ale to by oznaczało...\n<KOLEŚ KOSMOPIRAT>
  
 message_5:
-      text: Że puszczenie mu\c[4]SUPER-SKŁADANKI\c[0] nie ma już sensu...\! Wszelka nadzieja...\! przepadła.\spg
+      text: Że puszczenie mu \c[4]SUPER-SKŁADANKI\c[0] będzie bez sensu...\! Wszelka nadzieja...\! przepadła.\n<KOLEŚ KOSMOPIRAT>
  
 #KEL jumps.
  
@@ -43,14 +43,14 @@ message_7:
 message_8:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: Hmph... Mogłeś nam chociaż podziękować.\kel
+      text: Hmf... Mogłeś nam chociaż podziękować.\kel
  
 #AUBREY jumps.
  
 message_9:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Nie przejmuj się KOLESIU KOSMOPIRACIE! To tylko plotki...\!<br>a, nawet jakby to była prawda to przecież nie koniec świata.\aub
+      text: Nie przejmuj się, KOLESIU KOSMOPIRACIE! To tylko plotki...\!<br>a nawet jeśli byłoby to prawdą, to przecież nie koniec świata.\aub
  
 message_10:
       faceset: MainCharacters_DreamWorld
@@ -69,12 +69,12 @@ message_11:
 message_12:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: W tym wypadku, pewnie powinniśmy się jednak pozbyć tej \c[4]SUPER-SKLADANKI\c[0].\! Słuchanie tych piosenek może być dla niego zbyt trudne.\her
+      text: W tym wypadku pewnie powinniśmy jednak pozbyć się tej \c[4]SUPER-SKŁADANKI\c[0].\! Słuchanie tych piosenek może być dla niego ciężkie.\her
  
 message_13:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Daj mi ją, OMORI. U mnie będzie bezpieczna.\her
+      text: Daj mi ją, OMORI. Ze mną będzie bezpieczna.\her
  
 message_14:
       text: HERO sięgnął do twojej KIESZENI.
@@ -84,7 +84,7 @@ message_14:
 message_15:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Huh? Gdzie ona jest?\her
+      text: Ha? Gdzie ona jest?\her
  
 #KEL opens cassette player.
  
@@ -112,69 +112,69 @@ message_19:
       text: O-oł...\! To się źle skończy...\her
  
 message_20:
-      text: \Com[2]\quake[1]Co...\| \Com[2]to...\| \Com[2]za...\sbf\quake[0]
+      text: \Com[2]\quake[1]Co...\| \Com[2]to...\| \Com[2]za...\n<KOSMOCHŁOPAK>\quake[0]
  
 message_21:
-      text: \Com[2]\quake[1]\{\{PIEKIELNY...\sbf\quake[0]
+      text: \Com[2]\quake[1]\{\{PIEKIELNY...\n<KOSMOCHŁOPAK>\quake[0]
  
 message_22:
-      text: \Com[2]\quake[1]\{\{\{HAŁAS!?!?\sbf\quake[0]
+      text: \Com[2]\quake[1]\{\{\{HAŁAS!?!?\n<KOSMOCHŁOPAK>\quake[0]
  
 #Screen shakes. SPACE PIRATE guy flies O.S. at an alarming speed.
  
 message_23:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Kurde, KEL! Patrz co narobiłeś!\aub
+      text: Kurde, KEL! Patrz, co narobiłeś!\aub
  
 message_24:
-      text: \Com[2]\{\quake[1]BUAHAHA\{HAHA\{HAHA!!\sbf\sinv[0]
+      text: \Com[2]\{\quake[1]BUAHAHA\{HAHA\{HAHA!!\n<KOSMOCHŁOPAK>\sinv[0]
  
 message_25:
-      text: \Com[2]\quake[1]\{BÓJCIE SIĘ, ALBOWIEM ZOSTAŁEM ZBUDZONY!!\sbf\quake[0]
+      text: \Com[2]\quake[1]\{BÓJCIE SIĘ, ALBOWIEM ZOSTAŁEM ZBUDZONY!!\n<KOSMOCHŁOPAK>\quake[0]
  
 message_26:
-      text: ...\! Hmph...\! <br>Sekundka.\sbf
+      text: ...\! Hmf...\! <br>Sekundka.\n<KOSMOCHŁOPAK>
  
 #SPACE BOYFRIEND teleports to front of cassette player and changes the song to pre-battle music.
  
 message_27:
-      text: Hmhmhmhm...\|<br>\Com[2]\{\quake[1]BUAHAHAH\{AHAHAHA!!\sbf\sinv[0]
+      text: Hmhmhmhm...\|<br>\Com[2]\{\quake[1]BUAHAHAH\{AHAHAHA!!\n<KOSMOCHŁOPAK>\sinv[0]
  
 message_28:
-      text: Od razu lepiej!\! Dobra, na czym skończyłem...?\! Ah, tak!\sbf
+      text: Od razu lepiej!\! Dobra, na czym skończyłem...?\! Ach, tak!\n<KOSMOCHŁOPAK>
  
 message_29:
-      text: \Com[2]Głupie dzieciaki!\!<br>Muszę wam podziękować za wyrwanie mnie z tego żałosnego stanu.\!<br>Znudziło mi się leżenie w łóżku i udawanie chorego.\sbf
+      text: \Com[2]Głupie dzieciaki!\!<br>Muszę wam podziękować za wyrwanie mnie z tego żałosnego stanu.\!<br>Znudziło mi się leżenie w łóżku i udawanie chorego.\n<KOSMOCHŁOPAK>
  
 message_30:
-      text: Jak zawsze mawiam...\! <br>\{\quake[1]UCZUCIA SĄ DLA PRZEGRYWÓW!!\sbf\}
+      text: Jak zawsze mawiam...\! <br>\{\quake[1]UCZUCIA SĄ DLA PRZEGRYWÓW!!\n<KOSMOCHŁOPAK>\}
  
 message_31:
-      text: Ta lafirynda, SŁODZIUTKA...\!<br>Jeszcze pożałuje, że ze mną zerwała!\sbf
+      text: Ta lafirynda, SŁODZIUTKA...\!<br>Jeszcze pożałuje, że ze mną zerwała!\n<KOSMOCHŁOPAK>
  
 message_32:
-      text: Po tym wszystkim co dla niej zrobiłem!\!<br>\{WSZYSTKIM! SŁYSZYCIE!?!?\sbf\}
+      text: Po tym wszystkim, co dla niej zrobiłem!\!<br>\{WSZYSTKIM! SŁYSZYCIE!?!?\n<KOSMOCHŁOPAK>\}
  
 message_33:
-      text: Ta niewdzięczna, mała...\! Aughhhhhh... \sbf
+      text: Ta niewdzięczna, mała...\! Aughhhhhh... \n<KOSMOCHŁOPAK>
  
 message_34:
-      text: \quake[1]AAAAAU\Com[2]\{UUUGGGGG\Com[2]\{GGGGGHHHHH\Com[2]\{HHHHH!!!\sbf\quake[0]
+      text: \quake[1]AAAAAU\Com[2]\{UUUGGGGG\Com[2]\{GGGGGHHHHH\Com[2]\{HHHHH!!!\n<KOSMOCHŁOPAK>\quake[0]
  
 message_35:
-      text: \quake[1]\{PO PROSTU ZAPOMNIJ O NIEJ!!\! ZAPOMNIJ O WSZYSTKIM!!\sbf\quake[0]
+      text: \quake[1]\{KIJ Z NIĄ!!\! KIJ Z WSZYSTKIM!!\n<KOSMOCHŁOPAK>\quake[0]
  
 message_37:
-      text: Znajdę SŁODZIUTKĄ...\sbf
+      text: Znajdę SŁODZIUTKĄ...\n<KOSMOCHŁOPAK>
  
 message_38:
-      text: \{I SPRAWIĘ, ŻE JESZCZE ZA TO ZAPŁACI!!\sbf\quake[0]
+      text: \{I SPRAWIĘ, ŻE JESZCZE ZA TO ZAPŁACI!!\n<KOSMOCHŁOPAK>\quake[0]
  
 message_39:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Sorki, ale nie pozwolimy ci na to KOSMOCHŁOPAKU...\!<br>A może powinnam powiedzieć...\aub
+      text: Sorki, ale nie pozwolimy ci na to, KOSMOCHŁOPAKU...\!<br>A może powinnam powiedzieć...\aub
  
 message_40:
       faceset: MainCharacters_DreamWorld
@@ -182,13 +182,13 @@ message_40:
       text: \{\{\Com[2]KOSMO-EXIE!!\aub
  
 message_41:
-      text: Ciekawe.\! Wyzywasz mnie na pojedynek?\!<br>\{CZY TY W OGÓLE WIESZ Z KIM MASZ DO CZYNIENIA!?\n<KOSMO-EX>
+      text: Ciekawe.\! Wyzywasz mnie na pojedynek?\!<br>\{CZY WIESZ, Z KIM MASZ DO CZYNIENIA!?\n<KOSMO-EX>
  
 message_42:
-      text: \{JA JESTEM KAPITANEM KOSMOPIRATÓW!\n<KOSMO-EX>
+      text: \{JESTEM KAPITANEM KOSMOPIRATÓW!\n<KOSMO-EX>
  
 message_43:
-      text: Mam władzę nad całym układem słonecznym i mogę latać w kosmosie kiedy tylko chcę!\n<KOSMO-EX>
+      text: Mam władzę nad całym układem słonecznym i mogę latać w kosmosie, kiedy tylko chcę!\n<KOSMO-EX>
  
 message_44:
       text: \Com[2]Los całego wszechświata jest w moich rękach!\n<KOSMO-EX>
@@ -201,7 +201,7 @@ message_45:
 message_46:
       faceset: MainCharacters_DreamWorld
       faceindex: 43
-      text: Jeśli planujesz siać zamęt,<br>najpierw musisz nas pokonać!\her
+      text: Jeśli planujesz siać zamęt, najpierw musisz zmierzyć się z nami!\her
  
 message_47:
       text: ...\n<KOSMO-EX>
