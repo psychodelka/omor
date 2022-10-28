@@ -94,7 +94,7 @@ terms:
         seVolume: "EFEKTY DŹWIĘKOWE"
         substitute: "%1 ochrania %2!"
         surprise: "%1 się tego nie spodziewa!"
-        useItem: "%1 używa przedmiotu. Wykorzystano %2!"
+        useItem: "%1 używa przedmiotu.\nWykorzystano %2!"
         victory: "Zwycięża %1!"
 
     param:
