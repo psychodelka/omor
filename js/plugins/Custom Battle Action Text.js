@@ -3392,9 +3392,14 @@ Window_BattleLog.prototype.displayCustomActionText = function(subject, target, i
 Window_BattleLog.prototype.displayAction = function(subject, item) {
   // Return if Item has Custom Battle Log Type
   if (item.meta.BattleLogType) { return; }
-  // Run Original Function
-  _TDS_.CustomBattleActionText.Window_BattleLog_displayAction.call(this, subject, item);
-};
+  else if (!DataManager.isSkill(item)) {
+    this.push('addText', `${subject.name()} używa przedmiotu.`);
+    this.push('wait');
+    this.push('addText', `Wykorzystano: ${item.name}!`);
+    this.push('wait');
+  }
+  else _TDS_.CustomBattleActionText.Window_BattleLog_displayAction.call(this, subject, item);
+}; 
 //=============================================================================
 // * Display Action Results
 //=============================================================================
