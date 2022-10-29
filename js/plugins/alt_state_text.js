@@ -25,10 +25,10 @@
         return !!this.enemy().meta.AlternateTextForms3
     }
     Game_Actor.prototype._altName = function() {
-        return !!this.actor().meta.AltName
+        return this.actor().meta.AltName || this.actor().name
     }
     Game_Enemy.prototype._altName = function() {
-        return !!this.enemy().meta.AltName
+        return this.enemy().meta.AltName || this.enemy().name
     }
 }
 {
