@@ -584,10 +584,10 @@ Sprite_MapCharacterTagFace.prototype.createBackgroundSprite = function() {
 // * Create Text Sprite
 //=============================================================================
 Sprite_MapCharacterTagFace.prototype.createTextSprite = function() {
-  var bitmap = new Bitmap(110, 32);  
+  var bitmap = new Bitmap(95, 29);  
   this._textSprite = new Sprite(bitmap);
   this._textSprite.anchor.set(0.5, 0);
-  this._textSprite.y = (144 / 2) - 18;
+  this._textSprite.y = (144 / 2) - 17;
   this.addChild(this._textSprite);
 };
 //=============================================================================

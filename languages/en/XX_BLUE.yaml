@@ -358,7 +358,7 @@ Yin_Pizza_Delivery:
 # LanguageManager.getMessageData("XX_BLUE.Window_Base")
 
 Sprite_MapCharacterTagFace:
-  setText_fontsize: 24 # MAP CHARACTER TAG line 622
+  setText_fontsize: 20 # MAP CHARACTER TAG line 622
 
 Window_Base:
   drawShortActorHP_contents_fontsize: 20 # OMORI BASE line 3514
