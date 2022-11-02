@@ -2655,7 +2655,7 @@ Gamefall.OmoriFixes = Gamefall.OmoriFixes || {};
 			}
 			if(state.id === target.deathStateId() && target.isActor()) {
 				if([1,8,9,10,11].contains(target.actorId())) {
-					stateMsg = " blacked out!";
+					stateMsg = " mdleje!";
 				}
 			}
 			if (stateMsg) {

@@ -12,25 +12,25 @@
 message_0:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marHi, OMORI! Cliff-faced as usual, I see.\!<br>You should totally smile more! I've always liked your smile.
+    text: \marHej, OMORI! Kamienna twarz, jak zwykle.\!<br>Naprawdę powinieneś częściej się uśmiechać! Zawsze podobał mi się twój uśmiech.
 
 #If AUBREY is leader:
 message_1:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marWell, hello there, AUBREY! Looking cute today.<br>\!You always take such good care of your hair.
+    text: \marNo cześć, AUBREY! Uroczo dziś wyglądasz.<br>\!Zawsze tak starannie dbasz o fryzurę.
 
 #If KEL is leader:
 message_2:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marYo KEL, what's up! You look like you've grown just a bit taller.\! Maybe one day you'll even be taller than HERO, hehe...
+    text: \marSiema, KEL, jak leci! Chyba trochę podrosłeś.\! Może kiedyś uda ci się przerosnąć HERO, hehe...
 
 #If HERO is leader:
 message_3:
     faceset: MainCharacter_Mari
     faceindex: 7
-    text: \marHey there, handsome!\. Or maybe you prefer...\!<br>What's cookin', good lookin'?
+    text: \marHej, przystojniaku!\. Może powinnam powiedzieć...\!<br>Co dziś w menu? Może ty?
 
 # =========================================================================================
 
@@ -42,7 +42,7 @@ message_3:
 message_10:
     faceset: MainCharacter_Mari
     faceindex: 1
-    text: \marSo... do you need me to help you with anything?<br>All it costs is your love!
+    text: \marWięc... potrzebujecie mojej pomocy?<br>Przyjmuję zapłatę w formie miłości!
 
 # =========================================================================================
 
@@ -54,7 +54,7 @@ message_10:
 message_15:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marHope to have helped just a little.<br>I'll be here if you need me.
+    text: \marMam nadzieję, że chociaż troche pomogłam.<br>W razie czego będę tutaj.
 
 # =========================================================================================
 
@@ -66,7 +66,7 @@ message_15:
 message_20:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marGoodbye, MR. SCARECROW... Happy adventures!\.\^
+    text: \marŻegnaj, PANIE STRACHOWRONIE... Miłych przygód!\.\^
 
 #message_21:
 #    text: You got \c[3]\itemget\c[0]!
@@ -113,7 +113,7 @@ message_20:
 message_26:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marHey, you found AUBREY's \c[13]STUFFED TOY\c[0]!\. I bet KEL wasn't too happy about that one.\.\^
+    text: \marHej, znalazłeś \c[13]PLUSZAKA\c[0] AUBREY!\. Założę się, że KEL nie był z tego zadowolony.\.\^
 
 # =========================================================================================
 
@@ -124,12 +124,12 @@ message_26:
 message_30:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marWeren't you all headed to BASIL's house?\. I think I'll sit this one out, but go on and enjoy yourselves!\.\^
+      text: \marNie mieliście iść do domu BASILA?\. Myślę, że tym razem tu zostanę, a wy idźcie i się bawcie!\.\^
 
 message_31:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marRun along and have fun now!\. You know where to find me.\.\^
+      text: \marUciekajcie i bawcie się dobrze!\. Wiecie, gdzie mnie znaleźć.\.\^
 
 # =========================================================================================
 
@@ -175,26 +175,26 @@ message_31:
 message_40:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marUh-oh! It looks like SPACE BOYFRIEND's MIXTAPE was accidentally thrown away.\. Could it possibly be somewhere in the \c[11]JUNKYARD\c[0]?\.\^
+      text: \marO-oł! Ktoś przypadkiem wyrzucił KASETĘ KOSMOCHŁOPAKA.\. Czy może być gdzieś w \c[11]ŚMIECIOGRÓDKU\c[0]?\.\^
 
 #After getting SBF'S MIXTAPE:
 
 message_41:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marAlright! You finally got the \c[4]SPECIAL MIXTAPE\c[0].\. Now all you have to do is return it to SPACE BOYFRIEND!\.\^
+      text: \marW porządku! W końcu zdobyliście \c[4]SUPER-SKŁADANKĘ\c[0].\. Teraz musicie tylko zwrócić ją KOSMOCHŁOPAKOWI!\.\^
 
 #Quest Completed:
 
 message_42:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marPhew... That got messy for a bit... but at least everything turned out okay.\. Hopefully now CAPT. SPACEBOY will be able to find some peace.\.\^
+      text: \marFiu... Zrobił się niezły bałagan... ale wszystko się rozwiązało.\. Miejmy nadzieję, że KAPITAN KOSMIK będzie mógł zaznać spokoju.\.\^
 
 message_43:
       faceset: MainCharacter_Mari
       faceindex: 5
-      text: \marHurry, OMORI! ROSA has the \c[4]SPECIAL MIXTAPE\c[0]!\. You can't let her get away!\^
+      text: \marPrędko, OMORI! RÓŻA ma \c[4]SUPER-SKŁADANKĘ\c[0]!\. Nie pozwólcie jej uciec!\^
 
 # =========================================================================================
 
@@ -207,21 +207,21 @@ message_43:
 message_45:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marIt seems that you've all stumbled upon \c[4]SHOW TICKETS\c[0] to a promising new theatric.\. If you have time, you should all stop by and watch!\.\^
+      text: \marNatkneliście się na \c[4]BILETY NA\c[0] nowy, znakomity \c[4]SPEKTAKL\c[0].\. Powinniście pójść na niego, gdy znajdziecie chwilę!\.\^
 
 #After being thrown in SW Dungeon:
 
 message_50:
       faceset: MainCharacter_Mari
       faceindex: 5
-      text: \marIt may seem like there's no escape from \c[11]SWEETHEART'S CASTLE\c[0], but don't give up hope.\. There must be a way out of here!\.\^
+      text: \marMoże wydawać się, że z \c[11]PAŁACU SŁODZIUTKIEJ\c[0] nie ma ucieczki, ale nie traćcie nadziei.\. Gdzieś musi być wyjście!\.\^
 
 #After reaching SW Garden:
 
 message_55:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marThe SPROUT MOLES seem to be preparing for some sort of big event...\. What could SWEETHEART be planning now?\.\^
+      text: \marKIEŁKUNY przygotowują się na jakąś wielką okazję...\. Co może planować SŁODZIUTKA?\.\^
 
 #message_56:
 #      faceset: MainCharacter_Mari
@@ -233,7 +233,7 @@ message_55:
 message_60:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marIt looks like you made your way out of the clutches of SWEETHEART...\. but just barely. Let's hope you never bump into her ever again.\.\^
+      text: \marUdało wam się wyrwać ze szponów SŁODZIUTKIEJ...\. ledwo co. Miejmy nadzieję, że już nigdy się na nią nie natkniemy.\.\^
 
 # =========================================================================================
 
@@ -246,14 +246,14 @@ message_60:
 message_75:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marIt's so nice to see you and KEL reunited!<br>\.AUBREY and HERO must be somewhere near here as well.<br><br>KEL, you said that we would be able to find AUBREY on the 5th floor, right?\. You should start there first!\.\^
+      text: \marDobrze widzieć, jak znowu jesteście razem z KELEM!<br>\.AUBREY i HERO też muszą gdzieś tu być.<br><br>KEL, mówiłeś coś, że na czwartym piętrze znajdziemy AUBREY, racja?\. Powinniście pójść tam w pierwszej kolejności!\.\^
 
 #Quest Completed:
 
 message_80:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marYay! It's so good to see everyone back together again!\.\^
+      text: \marJej! Tak miło znowu widzieć was wszystkich razem!\.\^
 
 # =========================================================================================
 
@@ -266,12 +266,12 @@ message_80:
 message_85:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marDang... KEL's pet rock, \c[13]HECTOR\c[0], fell out of his pocket.\. Sorry, KEL. I'm not sure where he is, but don't give up!\.\^
+      text: \marKurcze... głazik KELA, \c[13]HEKTOR\c[0], wypadł mu z kieszeni.\. Przykro mi, KEL. Nie mam pojęcia, gdzie jest, ale nie poddawaj się!\.\^
 
 message_86:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marHECTOR may have a family now, but \c[13]HECTOR JR\c[0] seems really happy to be here.\. Don't lose him this time, KEL.\.\^
+      text: \marMoże HEKTOR założył już rodzinę, ale \c[13]HEKTOR JR\c[0] cieszy się, że może tu być.\. Nie zgub go tym razem, KEL.\.\^
 
 
 # =========================================================================================
@@ -286,19 +286,19 @@ message_86:
 message_90:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marAwww... DAISY is trying to get her crush to notice her with a \c[4]FLOWER PUZZLE\c[0].\. How cute!\. I think I saw MIKAL throw one away a while back.\. Maybe you can find it somewhere!\^
+      text: \marAwww... MARGARETA stara się o to, by jej obiekt westchnień zauważył jej uczucia dzięki \c[4]PUZZLOM Z KWIATKIEM\c[0].\. Uroczo!\. Myślę, że widziałam, jak MIKAL rozrzucał je chwilę temu.\. Może gdzieś je znajdziecie!\^
 
 #After getting FLOWER PUZZLE:
 
 message_95:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marHey, you got a \c[4]FLOWER PUZZLE\c[0]!\. Wasn't DAISY looking for one to give her crush?\. It's pretty obvious who it is.\. \}<br>Cough, cough... It's NEB... Hehe...\.\^
+      text: \marO, znaleźliście \c[4]PUZZLE Z KWIATKIEM\c[0]!\. Czy MARGARETA nie chciała ich czasem mu wręczyć?\. Chyba wiadomo, o kogo chodzi.\. \}<br>Ekhe, ekhe... To NEB... Hehe...\.\^
 
 message_96:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marYay! DAISY has a \c[4]FLOWER PUZZLE\c[0] to give NEB now, but will she ever actually give it to him?\. Tune in next time to find out!\.\^
+      text: \marJej! MARGARETA może teraz dać NEBOWI \c[4]PUZZLE Z KWIATKIEM\c[0], ale czy się odważy?\. Dowiecie się w następnym odcinku!\.\^
 
 # =========================================================================================
 
@@ -311,7 +311,7 @@ message_96:
 message_100:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marMR. SCARECROW's friends have been scattered around the \c[11]CATTAIL FIELD\c[0].\. You should reunite them. He seems a little lonely...\.\^
+      text: \marPrzyjaciółki PANA STRACHOWRONA rozproszone są po \c[11]POLACH PAŁKOWYCH\c[0].\. Powinniście je do niego przyprowadzić. Wydaje się trochę samotny...\.\^
 
 
 # =========================================================================================
@@ -325,19 +325,19 @@ message_100:
 message_105:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marTVGIRL asked you to get some things from a \c[4]STRANGE LIST\c[0] with some strange stuff on it.\. How strange!\.\^
+      text: \marTELELALA poprosiła was o kilka rzeczy z \c[4]DZIWNEJ LISTY\c[0].\. Jakie to dziwne!\.\^
 
 #After getting DOOHICKEY, THINGAMABOB, and WHATCHAMACALLIT:
 
 message_110:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marHey! It looks like you have everything that TVGIRL was asking for from her \c[4]STRANGE LIST\c[0].\. You should bring them to her.\. I'm sure she'll make something amazing...\. and strange.\.\^
+      text: \marCześć! Znaleźliście wszystko z \c[4]DZIWNEJ LISTY\c[0], o co prosiła TELELALA.\. Zanieście je jej.\. Jestem przekonana, że szykuje coś wspaniałego...\. i dziwnego.\.\^
 
 message_111:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marTVGIRL was just trying to fix her COFFEE MACHINE all along.\. Did you get your free \c[3]COFFEE\c[0]?\.\^
+      text: \marPrzez cały ten czas TELELALA próbowała naprawić swój EKSPRES DO KAWY.\. Napiliście się darmowej \c[3]KAWY\c[0]?\.\^
 # =========================================================================================
 
 #Quest Name: THE B.E.D.
@@ -349,26 +349,26 @@ message_111:
 message_115:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marSo SHADY MOLE is looking for a \c[4]B.E.D.\c[0], huh?\. MAYOR MOLE would know all about that!\. He conducts experiments with his son in the basement under the school.\.\^
+      text: \marCzyli PODEJRZANY KIEŁKUN szuka \c[4]Ł.O.Ż.A.\c[0], tak?\. BURMISTRZ KIEŁKUN będzie wiedzieć coś na ten temat!\. Razem z synem przeprowadza eksperymenty w szkolnej piwnicy.\.\^
 
 #After talking to MAYOR MOLE:
 
 message_120:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marMAYOR MOLE seems pretty preoccupied with worrying about his son...\. Maybe he'll help us if we find his son first.\.\^
+      text: \marBURMISTRZA KIEŁKUNA pochłonęło zmartwienie o syna...\. Może najpierw powinniśmy go znaleźć.\.\^
 
 #After getting B.E.D.:
 
 message_125:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marIn an odd set of events, you've acquired a \c[4]B.E.D.\c[0]!<br>\.Is it really okay to give it to SHADY MOLE, though?\.\^
+      text: \marW dziwnym zbiegu okoliczności, zdobyliście \c[4]Ł.O.Ż.E.\c[0]!<br>\.Ale czy naprawdę powinniście oddać je PODEJRZANEMU KIEŁKUNOWI?\.\^
 
 message_126:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marWell, SHADY MOLE has the \c[4]B.E.D.\c[0] now...\. I wonder what evil purpose he has planned for it.\.\^
+      text: \marPODEJRZANY KIEŁKUN przejął \c[4]Ł.O.Ż.E.\c[0]...\. Ciekawe do jakiego nikczemnego celu jest mu potrzebne.\.\^
 
 # =========================================================================================
 
@@ -381,12 +381,12 @@ message_126:
 message_130:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marA very sweaty SPORT MOLE is looking for some \c[3]TOFU\c[0]...\. You should already have \c[3]TOFU\c[0], right?\. It's everywhere!\.\^
+      text: \marBardzo spocony KIEŁKUN szuka \c[3]TOFU\c[0]...\. Chyba macie gdzieś \c[3]TOFU\c[0], racja?\. Jest wszędzie!\.\^
 
 message_131:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marI don't know if \c[3]TOFU\c[0] is going to provide enough nutrients for all the exercising that SPORT MOLE is doing.\. No wonder he's so tired.\.\^
+      text: \marNie wiem, czy \c[3]TOFU\c[0] dostarczy wystarczająco substancji odżywczych dla tak ciężko ćwiczącego KIEŁKUNA.\. Nic dziwnego, że jest tak zmęczony.\.\^
 
 #message_132:
 #      text: You got \c[3]TOFU\c[0]!
@@ -409,19 +409,19 @@ message_131:
 message_140:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marDEMI is bored of his books and is looking for something more exciting to read...\. Maybe you can find one in a library somewhere.\.\^
+      text: \marDEMI znudził się swoimi książkami i poszukuje bardziej ekscytującej lektury...\. Może znajdziecie coś w bibliotece.\.\^
 
 #After getting INTERESTING BOOK:
 
 message_146:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marHey! That \c[4]INTERESTING BOOK\c[0] you have there looks pretty interesting.\. I bet DEMI would want to read something like that!\.\^
+      text: \marHej! Ta wasza \c[4]CIEKAWA KSIĄŻKA\c[0] wydaje się interesująca.\. Założę się, że DEMI chciałby przeczytać coś takiego!\.\^
 
 message_145:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marDEMI is going to be really occupied with that book you gave him.\. It was just so very interesting.\.\^
+      text: \marDEMI będzie mieć zajęcie z książką, którą mu daliście.\. Była taka ciekawa.\.\^
 
 # =========================================================================================
 
@@ -434,7 +434,7 @@ message_145:
 message_150:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marAfter the whole SWEETHEART fiasco, the captain of the SPACE PIRATES seems to have vanished again...\. Maybe those \c[4]BATTERIES\c[0] will lead you to him somehow.\.\^
+      text: \marKapitan KOSMOPIRATÓW znowu zniknął, po całej sprzeczce z SŁODZIUTKĄ...\. Może te \c[4]BATERIE\c[0] jakoś was do niego doprowadzą.\.\^
 
 #message_151:
 #      faceset: MainCharacter_Mari
@@ -446,12 +446,12 @@ message_150:
 message_155:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marWow! You fought SPACE EX-HUSBAND on the very top of a mountain?\. That sounds...\. really dramatic...\. He should be heading home now.\. You should go visit to make sure!\.\^
+      text: \marWow! Walczyliście z KOSMO-EX-MĘŻEM na szczycie góry?\. To brzmi...\. dramatycznie...\. Powinien wracać do domu.\. Odwiedźcie go, by się upewnić!\.\^
 
 message_156:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marCAPT. SPACEBOY has a lot to live for besides SWEETHEART.\. He'll be soaring through the universe again soon, I'm sure!\.\^
+      text: \marKAPITAN KOSMIK ma wiele powodów do życia poza SŁODZIUTKĄ.\. Wkrótce znów będzie szybował w kosmosie, jestem tego pewna!\.\^
 
 
 # =========================================================================================
@@ -465,12 +465,12 @@ message_156:
 message_160:
       faceset: MainCharacter_Mari
       faceindex: 5
-      text: \marYou have accepted the noble duty of safely delivering a precious package to BROTHER MOLE in \c[11]SPROUT MOLE COLONY\c[0].\. Don't you dare fail him!\.\^
+      text: \marWzięliście na siebie szlachetny obowiązek dostarczenia cennego towaru do BRATA KIEŁKUNA w \c[11]KOLONII KIEŁKUNÓW\c[0].\. Tylko go nie zawiedźcie!\.\^
 
 message_161:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marThere was 99 \c[3]TOFU\c[0] in the \c[4]CARE PACKAGE\c[0]?\. BROTHER MOLE knows BROTHER MOLE so well.\.\^
+      text: \marW \c[4]SZLACHETNEJ PACZCE\c[0] było 99 \c[3]TOFU\c[0]?\. BRAT KIEŁKUN i BRAT KIEŁKUNA tak dobrze się znają.\.\^
 
 # =========================================================================================
 
@@ -483,17 +483,17 @@ message_161:
 message_165:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marTOPHAT GHOST won't start his party until all his guests arrive, so it's up to you to gather them.\. You want to see a \c[11]GHOST PARTY\c[0] too, don't you?\.\^
+      text: \marCYLINDRODUCH nie może zacząć swojej imprezy bez gości, więc waszym zadaniem jest ich zebrać.\. Też chcielibyście wkręcić się na \c[11]STRASZNĄ IMPREZKĘ\c[0], co?\.\^
 
 message_166:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marThanks to you, all the guests have not-so-promptly arrived at the GHOST PARTY...\. but at least they've arrived!\. Why don't you go join their festivities?\.\^
+      text: \marDzięki wam wszyscy goście dość nie-niezwłocznie dotarli na STRASZNĄ IMPREZKĘ...\. najważniejsze, że są!\. Dołączycie do ich zabawy?\.\^
 
 message_167:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marI bet you had so much fun at the \c[11]GHOST PARTY\c[0].\. When did you all learn how to dance?\.\^
+      text: \marZałożę się, że świetnie bawiliście się na \c[11]STRASZNEJ IMPREZCE\c[0].\. Gdzie nauczyliście się tak tańczyć?\.\^
 
 
 # =========================================================================================
@@ -507,12 +507,12 @@ message_167:
 message_170:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marThe brachiosaurus SCOTT can't scratch an itch in a specific spot...\. I guess...\. that leaves...\. it up to you...\.\^
+      text: \marBrachiozaur SCOTT nie może dosięgnąć swędzącego go miejsca...\. To...\. chyba...\. zadanie dla was...\.\^
 
 message_171:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marThe itch has been scratched!\. SCOTT better be thankful.\. Not just anyone would do that for him.\.\^
+      text: \marI po swędzeniu!\. SCOTT powinien być wdzięczny.\. Nie byle kto zrobiłby to za niego.\.\^
 
 # =========================================================================================
 
@@ -525,19 +525,19 @@ message_171:
 message_175:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marVAN threw BERLY's \c[4]LOST BALL\c[0] somewhere deep in the \c[11]VAST FOREST\c[0].\. It couldn't have fallen too far.\.\^
+      text: \marVAN wyrzucił \c[4]ZAGINIONĄ PIŁKĘ\c[0] BERLY gdzieś w głąb \c[11]NIEZMIERNEGO LASU\c[0].\. Nie mogła polecieć zbyt daleko.\.\^
 
 #After getting BERLY'S BALL:
 
 message_180:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marNice! You got BERLY's \c[4]LOST BALL\c[0] back.\. I hear she even wants to give you something as a thank-you gesture.\. <br>How rare for her!\.\^
+      text: \marŚwietnie! Odnaleźliście \c[4]ZAGINIONĄ PIŁKĘ\c[0] BERLY.\. Słyszałam, że nawet chce dać wam coś w podzięce.\. <br>Zapiszcie to w kalendarzu!\.\^
 
 message_181:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marWow! BERLY gave you a \c[4]BUTT CERTIFICATE\c[0]?\. I bet she was up all night thinking up that one.\.\^
+      text: \marWow! BERLY dała wam \c[4]CERTYFIKAT DWÓCH DYNIEK\c[0]?\. Pewnie szykowała go całą noc.\.\^
 
 # =========================================================================================
 
@@ -550,12 +550,12 @@ message_181:
 message_185:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marAll this time, ORANGE JOE has never stopped searching for his long lost brother.\. His resolve is so inspiring...\. Who knows?\. His brother might be closer than we all think...\.\^
+      text: \marPrzez cały ten czas POMARAŃCZOWY JAŚ nie zaprzestał poszukiwań swojego zagubionego brata.\. Jego determinacja tak inspiruje...\. Kto wie?\. Jego brat może być bliżej, niż nam się wydaje...\.\^
 
 message_186:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \mar\sinv[1]Hope and vigor! Hope and vigor!\sinv[0]\. Say it with me, OMORI!\. \sinv[1]Hope and vigor! Hope and vigor!\sinv[0]\.\^
+      text: \mar\sinv[1]Nadzieja i wigor! Nadzieja i wigor!\sinv[0]\. Powtarzaj za mną, OMORI!\. \sinv[1]Nadzieja i wigor! Nadzieja i wigor!\sinv[0]\.\^
 
 # =========================================================================================
 
@@ -568,19 +568,19 @@ message_186:
 message_190:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marCANDLIE lost her \c[4]TEDDY BEAR\c[0] and can't find him anywhere.\. Sigh...\. Who will listen to her troubles now?\.\^
+      text: \marŚWIECZYNKA zgubiła swojego \c[4]PLUSZOWEGO MISIA\c[0] i nigdzie nie może go znaleźć.\. Ech...\. Kto teraz będzie wysłuchiwał jej żali?\.\^
 
 #After getting \c[4]TEDDY BEAR\c[0]:
 
 message_195:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marHey! That \c[4]TEDDY BEAR\c[0] you got there looks like it might belong to CANDLIE.\. You should give it back to her...\.<br>I'm sure she misses him very much.\.\^
+      text: \marHej! \c[4]PLUSZOWY MIŚ\c[0], którego macie, może należeć do ŚWIECZYNKI.\. Powinniście go jej oddać...\.<br>Na pewno bardzo za nim tęskni.\.\^
 
 message_196:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marCANDLIE must be so glad to have her \c[4]TEDDY BEAR\c[0] back.\. Now she won't be lonely anymore.\.\^
+      text: \marŚWIECZYNKA musi bardzo cieszyć się z odzyskania swojego \c[4]PLUSZOWEGO MISIA\c[0].\. Teraz nie jest już sama.\.\^
 
 # =========================================================================================
 
@@ -593,19 +593,19 @@ message_196:
 message_200:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marOh no! DUCKIE JR. is missing!<br>\.I'm sure his parents are awfully worried about him...\.\^
+      text: \marO nie! KACZUŚ JR zaginął!<br>\.Jego rodzice na pewno okropnie się martwią...\.\^
 
 #After talking to DUCKIE JR.:
 
 message_205:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marPhew... Seems like DUCKIE JR. had his head up in the clouds.\. You're like that too sometimes, OMORI.\. You should check and make sure DUCKIE JR. got home safely!\.\^
+      text: \marFiu... KACZUŚ JR ma głowę w chmurach.\. Ty czasami też, OMORI.\. Powinniście upewnić się, że KACZUŚ JR bezpiecznie wróci do domu!\.\^
 
 message_206:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marSeems like DUCKIE JR. had his head up in the clouds.\. You're like that too sometimes, OMORI!\.\^
+      text: \marKACZUŚ JR ma głowę w chmurach.\. Ty czasami też, OMORI!\.\^
 
 # =========================================================================================
 
@@ -618,19 +618,19 @@ message_206:
 message_210:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marMARINA is requesting that you find her some \c[4]RAT MEAT\c[0] for her new body...\. Sounds questionable, but she knows what she's doing...\. I think...\.\^
+      text: \marMARINA prosi was o znalezienie \c[4]SZCZURZEGO MIĘSA\c[0], potrzebnego do nowego ciała...\. Brzmi to podejrzanie, ale wie, co robi...\. tak myślę...\.\^
 
 #After getting RAT MEAT:
 
 message_215:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marYou found the \c[4]RAT MEAT\c[0] that MARINA was asking for!\. You should probably give that \c[4]RAT MEAT\c[0] to MARINA before it starts to rot...\.\^
+      text: \marZnaleźliście \c[4]SZCZURZE MIĘSO\c[0], o które prosiła MARINA!\. Powinniście zanieść to \c[4]SZCZURZE MIĘSO\c[0] do MARINY, zanim zacznie gnić...\.\^
 
 message_216:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marI hope MARINA likes her brand new body.\. Though...\. Her experiments probably won't...\.\^
+      text: \marMam nadzieję, że MARINIE spodoba się jej nowe ciało.\. Chociaż...\. Może nie jej eksperymentom...\.\^
 
 
 # =========================================================================================
@@ -644,19 +644,19 @@ message_216:
 message_220:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marMEDUSA is requesting that you find her some \c[4]SNOT\c[0] for her new body...\. Sounds questionable, but she knows what she's doing...\. probably.\.\^
+      text: \marMEDUZA prosi was o znalezienie \c[4]GLUTA\c[0], potrzebnego do nowego ciała...\. Brzmi to podejrzanie, ale wie, co robi...\. prawdopodobnie.\.\^
 
 #After getting SNOT:
 
 message_225:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marYou found the \c[4]SNOT\c[0] that MEDUSA was asking for!\. You should probably give that \c[4]SNOT\c[0] to MEDUSA before it gets all over the place...\.\^
+      text: \marZnaleźliście \c[4]GLUTA\c[0], o którego prosiła MEDUZA!\. Powinniście zanieść tego \c[4]GLUTA\c[0] do MEDUZY, zanim oblepi wszystko dookoła...\.\^
 
 message_226:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marMEDUSA makes her own body, huh...\. No wonder she has the perfect body-type.\.\^
+      text: \marMEDUZA buduje swoje ciało, ha...\. Nic dziwnego, ma idealną figurę.\.\^
 
 # =========================================================================================
 
@@ -669,19 +669,19 @@ message_226:
 message_230:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marMOLLY is requesting that you find her some \c[4]SCRAP METAL\c[0] for her new body...\. Sounds questionable, but she knows what she's doing...\. I assume.\.\^
+      text: \marMOLLY prosi was o znalezienie \c[4]ZŁOMU\c[0] do jej nowego ciała...\. Brzmi to podejrzanie, ale wie, co robi...\. tak zakładam.\.\^
 
 #After getting SCRAP METAL:
 
 message_235:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marYou found the \c[4]SCRAP METAL\c[0] that MOLLY was asking for!\. I wonder if she really wants a metal body like this...\.<br>Seems like it would be a bit clunky.\.\^
+      text: \marZnaleźliście \c[4]ZŁOM\c[0], o który prosiła MOLLY!\. Ciekawe, czy chciałaby takie blaszane ciało...\.<br>Byłoby trochę niezgrabne.\.\^
 
 message_236:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marIt seems like MOLLY is perfectly happy being just a head.\. I can see where she's coming from.\. She must have so much less to worry about now.\.\^
+      text: \marWygląda na to, że MOLLY jest całkiem zadowolona z bycia jedynie głową.\. Dokładnie ją rozumiem.\. Teraz ma o wiele mniej zmartwień.\.\^
 
 # =========================================================================================
 
@@ -694,12 +694,12 @@ message_236:
 message_240:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marI hope PALMIE likes her \c[4]THANK-YOU FOSSIL\c[0].\. It's definitely... unique.\.\^
+      text: \marMam nadzieję, że USZCE podoba się jej \c[4]SKAMIELINA DZIĘKCZYNNA\c[0].\. Na pewno jest... wyjątkowa.\.\^
 
 message_241:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marPEANUT and JELLY want to give PALMIE a thank-you gift for taking care of them.\. Isn't there a place you can find all sorts of special things in \c[11]ORANGE OASIS\c[0]?\.\^
+      text: \marFISTASIA i ŻELUSIA chcą dać USZCE prezent w podzięce za opiekę nad nimi.\. Czy w \c[11]POMARAŃCZOWEJ OAZIE\c[0] nie znajdziecie miejsca, w którym byłoby coś ciekawego?\.\^
 
 
 # =========================================================================================

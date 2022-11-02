@@ -116,7 +116,7 @@ message_22:
 message_23:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Chodźmy, BERLY. Poszukajmy \c[4]ZGUBIONEJ PIŁKI\c[0].\!<br>Dopóki jesteśmy razem, nic nam się nie stanie!\her
+      text: Chodźmy, BERLY. Poszukajmy \c[4]ZAGINIONEJ PIŁKI\c[0].\!<br>Dopóki jesteśmy razem, nic nam się nie stanie!\her
  
 message_24:
       text: Hah, pewnie.\! Postarajcie się tylko nie przeszkadzać mi, przy pokazie mojej wspaniałej umiejętności strzału \c[1]Z GŁÓWKI\c[0]!\ber
@@ -132,7 +132,7 @@ message_26:
 # =========================================================================================
  
 message_100:
-      text: Jesteście  gotowi, by znaleźć moją \c[4]ZGUBIONĄ PIŁKĘ\c[0]!?\!<br>\}To nie tak, że potrzebuję waszej pomocy...\ber
+      text: Jesteście  gotowi, by znaleźć moją \c[4]ZAGINIONĄ PIŁKĘ\c[0]!?\!<br>\}To nie tak, że potrzebuję waszej pomocy...\ber
  
 message_38:
       text: No wreszcie!\! Chodźmy już.\! Zaraz umrę z nudów!\ber
@@ -154,7 +154,7 @@ message_40:
       text: BERLY, proszę... Naprawdę brałem dziś prysznic.\kel
  
 message_41:
-      text: Wyczuwam...\! ...\! ...\! moją \c[4]ZGUBIONĄ PIŁKĘ\c[0]!<br>\! Tak mi się wydaje.\ber
+      text: Wyczuwam...\! ...\! ...\! moją \c[4]ZAGINIONĄ PIŁKĘ\c[0]!<br>\! Tak mi się wydaje.\ber
  
 message_42:
       faceset: MainCharacters_DreamWorld
@@ -169,7 +169,7 @@ message_43:
 # =========================================================================================
  
 message_27:
-      text: \{\com[2]ŚWIETNIE! TU JEST MOJA \c[4]ZGUBIONA PIŁKA\c[0]!!\ber
+      text: \{\com[2]ŚWIETNIE! TU JEST MOJA \c[4]ZAGINIONA PIŁKA\c[0]!!\ber
  
 message_28:
       text: \{\sinv[1]BAM!\ber
@@ -181,7 +181,7 @@ message_30:
       text: Hej, to nie jest droga na plac zabaw!\! Idziemy w złą stronę!\ber
  
 message_31:
-      text: Znalazłeś \c[4]ZGUBIONĄ PIŁKĘ\c[0].
+      text: Znalazłeś \c[4]ZAGINIONĄ PIŁKĘ\c[0].
  
 message_32:
       text: Cóż, było fajnie...\! ha, wcale nie!\!<br>To ja spadam się pobawić!\ber
@@ -196,7 +196,7 @@ message_35:
       text: Ale tak na serio, podejdźcie do mnie, zanim sobie pójdziecie.\!<br>Mam coś dla was.\ber
  
 message_36:
-      text: Chwilka, mojej \c[4]ZGUBIONEJ PIŁKI\c[0] tam nie ma!\! Macie coś ważniejszego do roboty?\ber
+      text: Chwilka, mojej \c[4]ZAGINIONEJ PIŁKI\c[0] tam nie ma!\! Macie coś ważniejszego do roboty?\ber
  
 message_37:
       text: Jeśli macie coś do zrobienia, mogliście mi po prostu powiedzieć!\!<br>Poczekam na was na placu zabaw.\ber

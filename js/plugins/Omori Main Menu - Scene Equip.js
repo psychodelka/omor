@@ -939,8 +939,8 @@ Window_OmoMenuEquipStatus.prototype.refresh = function() {
       var value1 = this.actorParamValue(actor, paramIndex);
       // Get Param Name
       var paramName = TextManager.param(paramSub ? paramSub : paramIndex);
-      if(paramName.toLowerCase() === "max hp") {paramName = "HEART";}
-      if(paramName.toLowerCase() === "max mp") {paramName = "JUICE";}
+      if(paramName.toLowerCase() === "max hp") {paramName = "SERCA";}
+      if(paramName.toLowerCase() === "max mp") {paramName = "SOK";}
       this.contents.fontSize = 20;    
       this.drawText(paramName.toUpperCase() + ':', 8, -5 + i * 21, 100)    
       this.drawText(value1, 132, -5 + i * 21, 100)

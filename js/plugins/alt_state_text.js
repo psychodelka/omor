@@ -69,9 +69,9 @@
 				if([1,8,9,10,11].contains(target.actorId())) {
                     if (target._doesUseAlternateForms()) {
                         // alternate rw black out text
-                        message = " blacked out!"
+                        message = " mdleje!"
                     } else {
-                        message = " blacked out!"
+                        message = " mdleje!"
                     }
 				}
 			}
