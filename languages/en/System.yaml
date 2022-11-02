@@ -83,7 +83,7 @@ terms:
         magicReflection: "%1 odpiera czar!"
         meVolume: "EFEKTY MUZYCZNE"
         obtainExp: "Zyskano %1 %2!"
-        obtainGold: "Zdobyto %1\\G!"
+        obtainGold: "Zdobyte MAŁŻE: %1!"
         obtainItem: "Znalezisko: %1!"
         obtainSkill: "...i poznaje %1!"
         partyName: "%1 z drużyną"
@@ -98,15 +98,15 @@ terms:
         victory: "Zwycięża %1!"
 
     param:
-        0: "Max HP"
-        1: "Max MP"
-        2: "Attack"
-        3: "Defense"
-        4: "M.Attack"
-        5: "M.Defense"
-        6: "Speed"
-        7: "Luck"
-        8: "Hit"
+        0: "Serca"
+        1: "Sok"
+        2: "Atak"
+        3: "Obrona"
+        4: "M.Atak"
+        5: "M.Obrona"
+        6: "Szybkość"
+        7: "Szczęście"
+        8: "Celność"
         9: "Evasion"
 
 # Table of Keys for Input
@@ -669,7 +669,7 @@ plugins:
         text: POWRÓT DO EKRANU TYTUŁOWEGO
         help: Powrót do ekranu tytułowego.
       toTitleScreenPrompt:
-        text: Powrócić do ekranu tytułowego?
+        text: Czy chcesz powrócić?
         commands: [TAK, NIE]
       exit:
         text: WYJŚCIE Z GRY

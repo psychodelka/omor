@@ -203,7 +203,7 @@ message_38:
 message_39:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \herHej, \n[1]! Cieszę się, że sprawa rozwiązana.\! Tych dwoje nigdy się nie nauczy.
+    text: \herHej, \n[1]! Cieszę się, że sprawa się rozwiązała.\! Tych dwoje nigdy się nie nauczy.
  
 message_43:
     faceset: MainCharacters_DreamWorld
@@ -317,7 +317,7 @@ message_86:
 message_87:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: Och, cześć, AUBREY! Witajcie wszyscy!\!<br>Jak wam minął dzień?\mar
+      text: O, cześć, AUBREY! Witajcie wszyscy!\!<br>Jak wam minął dzień?\mar
  
 message_88:
       faceset: MainCharacters_DreamWorld

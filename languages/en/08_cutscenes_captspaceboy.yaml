@@ -13,10 +13,10 @@ message_1:
       text: No hej! Jak się czujesz?\her
  
 message_2:
-      text: O, cześć...\! Jestem KAPITAN KOSMIK!\!<br>Miło was pozna-\cap
+      text: O, cześć...\! Jestem KAPITAN KOSMIK!\!<br>Miło was pozna-\n<KAPITAN KOSMIK>
  
 message_3:
-      text: \quake[1]Au, moja klata!\quake[0]\cap
+      text: \quake[1]Au, moja klata!\quake[0]\n<KAPITAN KOSMIK>
  
 message_4:
       faceset: MainCharacters_DreamWorld
@@ -24,30 +24,30 @@ message_4:
       text: O nie, wszystko dobrze?\!<br>Trochę się wściekłeś wcześniej i musieliśmy ...\aub
  
 message_5:
-      text: Ach...\! Rozumiem...\! Moja druga połowa musiała przejąć kontrolę.\cap
+      text: Ach...\! Rozumiem...\! Moja druga połowa musiała przejąć kontrolę.\n<KAPITAN KOSMIK>
  
 message_6:
-      text: Chcę was przeprosić. Wasze czyny były usprawiedliwione.\!<br>Mam tylko nadzieję, że nie sprawiłem wam dużo kłopotów.\cap
+      text: Chcę was przeprosić. Wasze czyny były usprawiedliwione.\!<br>Mam tylko nadzieję, że nie sprawiłem wam dużo kłopotów.\n<KAPITAN KOSMIK>
  
 message_7:
-      text: Ostatnio ciężko mi opanować emocje.\!<br>Staram się jak mogę, żeby trzymać je pod kontrolą, ale to robi się coraz trudniejsze.\cap
+      text: Ostatnio ciężko mi opanować emocje.\!<br>Staram się, żeby trzymać je pod kontrolą, jak mogę, ale to robi się coraz trudniejsze.\n<KAPITAN KOSMIK>
  
 message_8:
-      text: SŁODZIUTKA...\! Ona była miłością mojego życia...\!<br>Nie potrafię wyobrazić sobie życia bez niej.\cap
+      text: SŁODZIUTKA...\! Ona była miłością mojego życia...\!<br>Nie potrafię wyobrazić sobie życia bez niej.\n<KAPITAN KOSMIK>
  
 message_9:
-      text: Chyba się trochę pogubiłem.\cap
+      text: Chyba się trochę pogubiłem.\n<KAPITAN KOSMIK>
  
 message_10:
-      text: Ta \c[4]SUPER-SKŁADANKA\c[0] zawiera jej i moje ulubione piosenki.\! Włożyłem w nią tyle serca.\cap
+      text: Ta \c[4]SUPER-SKŁADANKA\c[0] zawiera nasze ulubione piosenki.\! Włożyłem w nią tyle serca.\n<KAPITAN KOSMIK>
  
 message_11:
-      text: Dziękuję wam wszystkim, że mi ją oddaliście..\!<br>W końcu są na niej zapisane najlepsze wspomnienia.\cap
+      text: Dziękuję wam wszystkim, że ją oddaliście..\!<br>W końcu są na niej zapisane najlepsze wspomnienia.\n<KAPITAN KOSMIK>
  
 message_12:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Ech... nie ma sprawy...\! aż tak wielkiej. \kel
+      text: Ech... nie ma sprawy...\! aż tak wielkiej.\kel
  
 message_13:
       faceset: MainCharacters_DreamWorld
@@ -60,66 +60,66 @@ message_14:
       text: Po prostu daj sobie czas i odpocznij.\her
  
 message_15:
-      text: Obawiam się, że nawet odpoczynek nie uleczy złamanego serca.\! Muszę się z tym uporać w inny sposób...\cap
+      text: Obawiam się, że nawet odpoczynek nie uleczy złamanego serca.\! Muszę się z tym uporać w inny sposób...\n<KAPITAN KOSMIK>
  
 message_16:
-      text: KAPITANIE KOSM- Znaczy, KOSMOCHŁOPAKU!\spb
+      text: KAPITANIE KOSM- Znaczy, KOSMOCHŁOPAKU!\n<KUMPEL KOSMOPIRAT>
  
 message_17:
-      text: Jest mi tak strasznie przykro, ale mam bardzo, bardzo złe wieści.\!<br>Twoja ulubiona planeta, PLUTON, uciekła i nigdzie nie możemy jej znaleźć.\spb
+      text: Jest mi tak strasznie przykro, ale mam bardzo, bardzo złe wieści.\! Twoja ulubiona planeta, PLUTON, uciekła i nigdzie nie możemy jej znaleźć.\n<KUMPEL KOSMOPIRAT>
  
 message_18:
-      text: Nie złość się na nas. Przepraszamy!\spd
+      text: Nie złość się na nas. Przepraszamy!\n<TYPEK KOSMOPIRAT>
  
 message_19:
-      text: P-proszę nie bij...\spb
+      text: P-proszę nie bij...\n<KUMPEL KOSMOPIRAT>
  
 message_20:
-      text: Rozumiem.\cap
+      text: Rozumiem.\n<KAPITAN KOSMIK>
  
 message_21:
-      text: Nic się nie stało.\! Jestem pewien, że nawet planetom może się znudzić obracanie .\! Być może PLUTONOWI nie było pisane bycie planetą.\cap
+      text: Nic się nie stało.\! Jestem pewien, że nawet planetom może się znudzić obracanie.\! Być może bycie planetą nie było pisane PLUTONOWI.\n<KAPITAN KOSMIK>
  
 message_22:
-      text: H-ha?\! Serio??\! Więc nie jesteś zły?\spb
+      text: H-ha?\! Serio??\! Więc nie jesteś zły?\n<KUMPEL KOSMOPIRAT>
  
 message_23:
-      text: Jesteś pewny, KAPITANIE KOSM-, znaczy KOSMOCHŁOPAKU?\spd
+      text: Jesteś pewny, KAPITANIE KOSM-, znaczy KOSMOCHŁOPAKU?\n<TYPEK KOSMOPIRAT>
  
 message_24:
-      text: Tak, jestem.\! Zbierz resztę załogi.\!<br>Wyruszamy nad \c[11]MROŹNE JEZIORO\c[0] zdobyć kilka \c[3]ZMROŻKÓW\c[0].\cap
+      text: Tak, jestem.\! Zbierz resztę załogi.\!<br>Wyruszamy nad \c[11]MROŹNE JEZIORO\c[0] zdobyć kilka \c[3]ZMROŻKÓW\c[0].\n<KAPITAN KOSMIK>
  
 message_25:
-      text: Leżenie w łóżku nie zagoi moich ran, <br>ale solidna porcja \c[3]ZMROŻKÓW\c[0] z przyjaciółmi już tak!\cap
+      text: Leżenie w łóżku nie zagoi moich ran, <br>ale solidna porcja \c[3]ZMROŻKÓW\c[0] z przyjaciółmi już tak!\n<KAPITAN KOSMIK>
  
 message_26:
-      text: I jeszcze jedno. Nie musicie już mnie nazywać KOSMOCŁOPAKIEM.\!<br>Nazywam się KAPITAN KOSMIK!\cap
+      text: I jeszcze jedno. Nie musicie już mnie nazywać KOSMOCHŁOPAKIEM.\!<br>Nazywam się KAPITAN KOSMIK!\n<KAPITAN KOSMIK>
  
 message_27:
-      text: To by oznaczało, że...\spd
+      text: To by oznaczało, że...\n<TYPEK KOSMOPIRAT>
  
 message_28:
-      text: \{\sinv[1]\Com[2]HUUUUU... \|\{RRAAAA\{AAAAAAA!!\sinv[0]\spd
+      text: \{\sinv[1]\Com[2]HUUUUU... \|\{RRAAAA\{AAAAAAA!!\sinv[0]\n<TYPEK KOSMOPIRAT>
  
 message_29:
-      text: KAPITAN powrócił! Musimy wszystkim powiedzieć!\!<br>Chodźmy, typku!\spd
+      text: KAPITAN powrócił! Musimy wszystkim powiedzieć!\!<br>Chodźmy, typku!\n<TYPEK KOSMOPIRAT>
  
 message_30:
-      text: Już lecę, druhu!\spb
+      text: Już lecę, druhu!\n<KUMPEL KOSMOPIRAT>
  
 message_31:
-      text: Nawet nie wiecie jak bardzo jestem wam wdzięczny za to co zrobiliście.\cap
+      text: Nawet nie wiecie, jak bardzo jestem wam wdzięczny za to, co zrobiliście.\n<KAPITAN KOSMIK>
  
 message_32:
-      text: Kto wie co by się stało mojej załodze, gdybyście w porę się nie zjawili.\cap
+      text: Kto wie, co stałoby się mojej załodze, gdybyście w porę się nie zjawili.\n<KAPITAN KOSMIK>
  
 message_33:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Och, to była drobnostka!\!<br>Po prostu cieszymy się, że znów jesteś sobą.\aub
+      text: Oj, to była drobnostka!\!<br>Po prostu cieszymy się, że znów jesteś sobą.\aub
  
 message_34:
-      text: Dziękuję wam z głębi serca.\! Jeśli kiedyś będziecie czegoś potrzebować ode mnie czy KOSMOPIRATÓW, to śmiało pytajcie.\cap
+      text: Dziękuję wam z głębi serca.\! Jeśli kiedyś będziecie czegoś potrzebować ode mnie czy KOSMOPIRATÓW, to śmiało pytajcie.\n<KAPITAN KOSMIK>
  
 message_35:
       faceset: MainCharacters_DreamWorld
@@ -132,7 +132,7 @@ message_36:
       text: \herNosi \c[4]WIANEK\c[0] i zawsze targa ze sobą swój \c[4]ALBUM ZE ZDJĘCIAMI\c[0].\! Nie widziałeś go może?
  
 message_41:
-      text: ...\! Niestety nie...\!<br>Ale jeśli tylko go zobaczę to od razu dam wam znać.\cap
+      text: ...\! Niestety nie...\!<br>Ale jeśli tylko go zobaczę, to od razu dam wam znać.\n<KAPITAN KOSMIK>
  
 #AUBREY looks away.
  
@@ -149,39 +149,39 @@ message_47:
 #CAPT. SPACEBOY is surprised.
  
 message_48:
-      text: \Com[2]Ach...\! Proszę nie płacz, młoda damo!\cap
+      text: \Com[2]Ach...\! Proszę, nie płacz, młoda damo!\n<KAPITAN KOSMIK>
  
 #CAPT. SPACEBOY walks up to AUBREY.
  
 message_49:
-      text: Hej, weź to.\cap
+      text: Hej, weź to.\n<KAPITAN KOSMIK>
  
 #AUBREY turns back.
  
 message_50:
-      text: Otrzymałeś  \c[4]KUPON NA ZMROŻKA\c[0]!
+      text: Otrzymujesz \c[4]KUPON NA ZMROŻKA\c[0]!
  
 message_51:
       faceset: MainCharacters_DreamWorld
       faceindex: 12
-      text: Chlip...\! chlip... chlip...\! chlip...\! \quake[1]Eeeeech...\quake[0]\aub
+      text: Chlip...\! chlip... chlip...\! chlip...\! \quake[1]Eeeee...\quake[0]\aub
  
 #Everyone turns to AUBREY and is surprised.
  
 message_52:
-      text: O-oł...\! Proszę, młoda damo... Nie płacz!\!<br>Errr...\! Hej, weź też to!\cap
+      text: O-oł...\! Proszę, młoda damo... Nie płacz!\!<br>Errr...\! Hej, weź też to!\n<KAPITAN KOSMIK>
  
 #CAPT. SPACEBOY walks to book shelf.
 #CAPT. SPACEBOY walks to AUBREY.
  
 message_53:
-      text: Otrzymałeś \c[4]BILET KOLEJOWY\c[0].
+      text: Otrzymujesz \c[4]BILET KOLEJOWY\c[0].
  
 message_54:
-      text: Używałem go do podróżowania kiedy byłem dzieckiem...\!<br>długo przed tym jak zostałem KOSMOKAPITANEM.\cap
+      text: Używałem go do podróżowania, kiedy byłem dzieckiem...\!<br>długo przed tym, jak zostałem KOSMOKAPITANEM.\n<KAPITAN KOSMIK>
  
 message_55:
-      text: Jeśli nawet MI udało się zebrać załogę i latać własnym statkiem, jestem pewny, że wam uda się znaleźć przyjaciela.\cap
+      text: Jeśli nawet MI udało się zebrać załogę i latać własnym statkiem, jestem pewny, że wam uda się odnaleźć przyjaciela.\n<KAPITAN KOSMIK>
  
 message_56:
       faceset: MainCharacters_DreamWorld
@@ -192,17 +192,17 @@ message_57:
       text: Hej, KAPITANIE! Gotowy, żeby wyruszyć?\!<br>Wszyscy na ciebie czekają!\spg
  
 message_58:
-      text: Ach! Tak, poczekajcie. Już idę!\cap
+      text: Ach! Tak, poczekajcie. Już idę!\n<KAPITAN KOSMIK>
  
 #CAPT. SPACEBOY walks to door, but turns back.
  
 message_59:
-      text: Nie możesz tracić nadziei, młoda damo!\!<br>A jeśli będzie ci zbyt ciężko, spróbuj zjeść \c[3]ZMROŻKA\c[0]!\!<br>Mnie to zawsze pomaga.\cap
+      text: Nie możesz tracić nadziei, młoda damo!\!<br>A jeśli będzie ci zbyt ciężko, spróbuj zjeść \c[3]ZMROŻKA\c[0]!\!<br>Mnie to zawsze pomaga.\n<KAPITAN KOSMIK>
  
 #CAPT. SPACEBOY turns toward the door.
  
 message_60:
-      text: Muszę iść, załoga na mnie czeka.\!<br>Powodzenia ze wszystkim i jeszczę raz wam dziękuję!\cap
+      text: Muszę iść, załoga na mnie czeka.\!<br>Powodzenia ze wszystkim i jeszczę raz wam dziękuję!\n<KAPITAN KOSMIK>
  
 message_61:
       text: Wygląda jak \c[3]SOK\c[0], ale smakuje paskudnie!

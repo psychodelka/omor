@@ -2376,11 +2376,11 @@ message_805:
 
 message_900:
     text: >
-      \fn<OMORI_GAME>Wyrządziłeś tyle krzywdy...\|<br>i nic z tym nie robisz.
+      \fn<OMORI_GAME>Wyrządziłeś tyle krzywdy...\|<br>i nic z tym nie zrobiłeś.
 
 message_901:
     text: >
-      \fn<OMORI_GAME>Nie dostałeś nic w zamian.
+      \fn<OMORI_GAME>Nie otrzymałeś nic w zamian.
 
 message_902:
     text: >
@@ -2396,7 +2396,7 @@ message_904:
 
 message_905:
     text: >
-      \fn<OMORI_GAME>Ale tak naprawdę jesteś egoistą.\! Po prostu nie chcesz, by ludzie byli od ciebie zależni.
+      \fn<OMORI_GAME>Ale tak naprawdę jesteś egoistą.\! Po prostu nie chcesz, by ludzie na tobie polegali.
 
 message_906:
     text: >
@@ -2408,7 +2408,7 @@ message_907:
 
 message_908:
     text: >
-      \fn<OMORI_GAME>Jesteś bezużyteczny...\| nawet gorzej.\!<br>Jesteś nienormalny.
+      \fn<OMORI_GAME>Jesteś bezużyteczny...\| nawet gorzej.\!<br>Jesteś chory.
 
 message_909:
     text: >
@@ -2416,11 +2416,11 @@ message_909:
 
 message_910:
     text: >
-      \fn<OMORI_GAME>Przyjaciele mylą się co do ciebie.\! Nie kochają kogoś, kim jesteś.
+      \fn<OMORI_GAME>Twoi przyjaciele mylą się co do ciebie.\! Nie kochają kogoś, kim jesteś.
 
 message_911:
     text: >
-      \fn<OMORI_GAME>Wciskasz im kłamstwa, by się chronić.
+      \fn<OMORI_GAME>Wciskasz im kłamstwa, by chronić samego siebie.
 
 message_912:
     text: >
@@ -2432,7 +2432,7 @@ message_913:
 
 message_914:
     text: >
-      \fn<OMORI_GAME>Kiedy dowiedzą się prawdy, już nidgy ci nie zaufają.
+      \fn<OMORI_GAME>Kiedy dowiedzą się prawdy, już nigdy nie będziesz w stanie odzyskać ich zaufania.
 
 message_915:
     text: >

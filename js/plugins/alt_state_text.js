@@ -25,10 +25,10 @@
         return !!this.enemy().meta.AlternateTextForms3
     }
     Game_Actor.prototype._altName = function() {
-        return !!this.actor().meta.AltName
+        return this.actor().meta.AltName || this.actor().name
     }
     Game_Enemy.prototype._altName = function() {
-        return !!this.enemy().meta.AltName
+        return this.enemy().meta.AltName || this.enemy().name
     }
 }
 {
@@ -69,9 +69,9 @@
 				if([1,8,9,10,11].contains(target.actorId())) {
                     if (target._doesUseAlternateForms()) {
                         // alternate rw black out text
-                        message = " blacked out!"
+                        message = " mdleje!"
                     } else {
-                        message = " blacked out!"
+                        message = " mdleje!"
                     }
 				}
 			}

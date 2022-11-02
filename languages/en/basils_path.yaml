@@ -9,7 +9,7 @@
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelŁo!\! Co to za ohydny, roślinny potwór?
+      text: \kelŁo!\! Co to za ohydny roślinny potwór?
  
 message_1:
       faceset: MainCharacters_DreamWorld
@@ -555,6 +555,6 @@ message_168:
       text: Zdobyłeś \c[4]SCHEMAT EMOCJI\c[0].
  
 message_170:
-      text: Czy chcesz spojrzeć na\c[4]SCHEMAT EMOCJI\c[0]?
+      text: Czy chcesz spojrzeć na \c[4]SCHEMAT EMOCJI\c[0]?
  
 

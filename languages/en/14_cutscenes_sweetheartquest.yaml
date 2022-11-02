@@ -123,7 +123,7 @@ message_32:
       text: Ojej, ojej!\! Ledwie jestem w stanie utrzymać moje podekscytowanie.\!<br>Ten występ zdecydowanie będzie najbardziej szokujący do tej pory!\n<KIEŁKUN>
  
 message_33:
-      text: O wow, o wow!!\! Musimy się spieszyć!\! <br>Nasze cztery przednie \c[4]BILETY NA WYSTĘP\c[0] tu są!\!<br>Niedługo rozpocznie się wspaniała zabawa, a my nie możemy tego przegapić!\n<KIEŁKUN>
+      text: O wow, o wow!!\! Musimy się spieszyć!\! <br>Nasze cztery przednie \c[4]BILETY NA SPEKTAKL\c[0] tu są!\!<br>Niedługo rozpocznie się wspaniała zabawa, a my nie możemy tego przegapić!\n<KIEŁKUN>
  
 message_34:
       text: Więc... w którą to my mieliśmy iść stronę?\n<KIEŁKUN>
@@ -182,7 +182,7 @@ message_40:
 message_41:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Jeżeli będziemy niedaleko, powinniśmy wejść i zobaczyć!\! <br>W końcu mamy \c[4]BILETY NA WYSTĘP\c[0]!\aub
+      text: Jeżeli będziemy niedaleko, powinniśmy wejść i zobaczyć!\! <br>W końcu mamy \c[4]BILETY NA SPEKTAKL\c[0]!\aub
  
 message_42:
       faceset: MainCharacters_DreamWorld

@@ -5,38 +5,38 @@
 #Trigger: Go up to Space boyfriends house
  
 message_0:
-      text: \Com[2]Zatrzymajcie się, dzieciaki!\!<br>Wchodzicie teraz na terytorium...\spg
+      text: \Com[2]Zatrzymajcie się, dzieciaki!\!<br>Wchodzicie teraz na terytorium...\n<KOLEŚ KOSMOPIRAT>
  
 message_1:
-      text: Kapitana KOSMICZNYCH PIRATÓW...\!<br>Władcy całego UKŁADU SŁONECZNEGO...\!<br>Władcy całego wszechświata...\spg
+      text: Kapitana KOSMOPIRATÓW...\!<br>Władcy całego UKŁADU SŁONECZNEGO...\!<br>Władcy całego wszechświata...\n<KOLEŚ KOSMOPIRAT>
  
 message_2:
-      text: Jedynego w swoim rodzaju KAP. KOSM...\! To znaczy...\! Yyy...\!<br>Właśnie wkraczacie na włości... \!KOSMO...\! CHŁOPAKA.\spg
+      text: Jedynego w swoim rodzaju KAP. KOSM...\! To znaczy...\! Yyy...\!<br>Właśnie wkraczacie w progi... \!KOSMO...\! CHŁOPAKA.\n<KOLEŚ KOSMOPIRAT>
  
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Uaa, to tu mieszka kapitan KOSMICZNYCH PIRATÓW?\!<br>\{ALE SUPER!\}\kel
+      text: Uaa, to tu mieszka kapitan KOSMOPIRATÓW?\!<br>\{ALE SUPER!\}\kel
  
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Też chcę być KOSMICZNYM PIRATEM!\kel
+      text: Też chcę być KOSMOPIRATEM!\kel
  
 message_5:
-      text: Też tego chciałem...\!a przynajmniej kiedyś.\spg
+      text: Też chciałem...\!a przynajmniej kiedyś.\n<KOLEŚ KOSMOPIRAT>
  
 message_6:
-      text: KOSMOCHŁOPAK na co dzień nie robi zbyt wiele, więc większość KOSMICZNYCH PIRATÓW miała dość i opuściła główny statek.\spg
+      text: KOSMOCHŁOPAK na co dzień nie robi zbyt wiele, więc większość KOSMOPIRATÓW miała dość i opuściła główny statek.\n<KOLEŚ KOSMOPIRAT>
  
 message_7:
-      text: Tylko my, najwierniejsi, zostaliśmy i wypełniamy wszystkie jego obowiązki.\spg
+      text: Tylko my, najwierniejsi, zostaliśmy i wypełniamy wszystkie jego obowiązki.\n<KOLEŚ KOSMOPIRAT>
  
 message_8:
-      text: Wczoraj razem z kumplami cały dzień sprzątaliśmy, wyrzucając wszystkie jego śmieci.\spg
+      text: Wczoraj razem z kumplami cały dzień sprzątaliśmy, wyrzucając wszystkie jego śmieci.\n<KOLEŚ KOSMOPIRAT>
  
 message_9:
-      text: Ech...\! Rzucając swoją starą robotę, miałem nadzieję na lepsze życie...\!<br>Nie jestem przecież niańką!\spg
+      text: Ech...\! Rzucając swoją starą robotę, miałem nadzieję na lepsze życie...\!<br>Nie jestem przecież niańką!\n<KOLEŚ KOSMOPIRAT>
  
 message_10:
       faceset: MainCharacters_DreamWorld
@@ -44,7 +44,7 @@ message_10:
       text: Och, współczuję... Brzmi to okropnie.\!<br>Może uda nam się przemówić mu do rozsądku.\aub
  
 message_11:
-      text: Oj, nie robiłbym tego na twoim miejscu.\! KAP. KOSMI...<br>To znaczy...\! KOSMOCHŁOPAK ma dwie strony.\spg
+      text: Oj, nie robiłbym tego na twoim miejscu.\! KAP. KOSMI...<br>To znaczy...\! KOSMOCHŁOPAK ma dwie strony.\n<KOLEŚ KOSMOPIRAT>
  
 message_12:
       faceset: MainCharacters_DreamWorld
@@ -77,7 +77,7 @@ message_17:
       text: Obiecuję, że za niedługo będzie lepiej!!\aub
  
 message_18:
-      text: Ech...\! Dziękuję, młoda panno.\! Mam taką nadzieję.\spg
+      text: Ech...\! Dziękuję, młoda panno.\! Mam taką nadzieję.\n<KOLEŚ KOSMOPIRAT>
  
 # =========================================================================================
 # Cutscene: Blackletter here
@@ -101,7 +101,7 @@ message_18:
  
  
 message_51:
-      text: Kaszl...\! Kaszl, kaszl...\sbf
+      text: Kaszl...\! Kaszl, kaszl...\n<KOSMOCHŁOPAK>
  
 message_52:
       faceset: MainCharacters_DreamWorld
@@ -134,42 +134,42 @@ message_57:
       text: No co?\kel
  
 message_58:
-      text: \}\quake[1]Ekhe...\! Ughhh...\! Ekhe, ekhu...\! Ech...\!<br>SŁODZIUTKA... Moja...\! najdroższa...\sbf\quake[0]
+      text: \}\quake[1]Ekhe...\! Ughhh...\! Ekhe, ekhu...\! Ech...\!<br>SŁODZIUTKA... Moja...\! najdroższa...\n<KOSMOCHŁOPAK>\quake[0]
  
 message_59:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Och... Biedactwo..\!<br>Musi być coś, co mu pomoże..\aub
+      text: Oj... Biedactwo..\!<br>Musi być coś, co mu pomoże..\aub
  
 message_60:
-      text: \}\quake[1]Ekhu, ekhe...\! Ekhe...\! Och, SŁODZIUTKA...\!<br>Gdzie jesteś?\sbf\quake[0]
+      text: \}\quake[1]Ekhu, ekhe...\! Ekhe...\! Och, SŁODZIUTKA...\!<br>Gdzie jesteś?\n<KOSMOCHŁOPAK>\quake[0]
  
 #SPACE PIRATE GUY walks in and walks to SPACE BOYFRIEND.
  
 message_61:
-      text: O nie... Tylko nie to...\!<br>KOSMOCHŁOPAK znowu ma doła.\spg
+      text: O nie... Tylko nie to...\!<br>KOSMOCHŁOPAK znowu ma doła.\n<KOLEŚ KOSMOPIRAT>
  
 message_62:
-      text: Trzymaj to, mordo. Zaraz postawi cię na nogi.\spg
+      text: Trzymaj to, mordo. Zaraz postawi cię na nogi.\n<KOLEŚ KOSMOPIRAT>
  
 #SPACE PIRATE GUY walks to the CASSETTE PLAYER.
 #SPACE PIRATE GUY is surprised and confused.
  
 message_63:
-      text: Hę?\! Czemu nie leci żadna muzyka??\spg
+      text: Hę?\! Czemu nie leci żadna muzyka?\n<KOLEŚ KOSMOPIRAT>
  
 #SPACE PIRATE GUY starts sweating.
  
 message_64:
-      text: O nie...\! Odtwarzacz...\! jest pusty!\!<br>Teraz nigdy się nie obudzi!\! Albo gorzej...\! <br>Obudzi się... zły.\spg
+      text: O nie...\! Odtwarzacz...\! jest pusty!\!<br>Teraz nigdy się nie obudzi!\! Albo gorzej...\! <br>Obudzi się... zły.\n<KOLEŚ KOSMOPIRAT>
  
 message_65:
-      text: O nie... O nie...\!<br>Gdzie może być ta \c[4]SUPER-SKŁADANKA\c[0]?\spg
+      text: O nie... O nie...\!<br>Gdzie może być ta \c[4]SUPER-SKŁADANKA\c[0]?\n<KOLEŚ KOSMOPIRAT>
  
 #SPACE PIRATE guy has an idea.
  
 message_66:
-      text: Ktoś musiał wyrzucić \c[4]SUPER-SKŁĄDANKĘ,\c[0] gdy sprzątaliśmy!\spg
+      text: Ktoś musiał wyrzucić \c[4]SUPER-SKŁĄDANKĘ\c[0], gdy sprzątaliśmy!\n<KOLEŚ KOSMOPIRAT>
  
 message_67:
       faceset: MainCharacters_DreamWorld
@@ -177,10 +177,10 @@ message_67:
       text: O co tyle krzyku? Przecież to zwyczajna kaseta.\kel
  
 message_68:
-      text: Więc widzisz...\! Rozłąka ze SŁODZIUTKĄ źle działa na KOSMOCHŁOPAKA. Robi się smutny i leży cały dzień w łóżku.\spg
+      text: Więc widzisz...\! Rozłąka ze SŁODZIUTKĄ źle działa na KOSMOCHŁOPAKA. Robi się smutny i leży cały dzień w łóżku.\n<KOLEŚ KOSMOPIRAT>
  
 message_69:
-      text: Jedyny sposób na wyrwanie go z marazmu to puszczenie mu \c[4]SUPER-SKŁADANKI\c[0].\! Jest tylko jedna taka w całym wszechświecie.\spg
+      text: Jedyny sposób na wyrwanie go z marazmu to puszczenie mu \c[4]SUPER-SKŁADANKI\c[0].\! Jest tylko jedna taka w całym wszechświecie.\n<KOLEŚ KOSMOPIRAT>
  
 message_70:
       faceset: MainCharacters_DreamWorld
@@ -188,7 +188,7 @@ message_70:
       text: Rozumiem...\! KOSMOCHŁOPAK nie jest zwyczajnie chory...\!<br>On jest... chory z miłości...\aub
  
 message_71:
-      text: Ech...\! Jeśli KOSMOCHŁOPAK się z tego szybko nie otrząśnie, to będzie to koniec dla KOSMICZNYCH PIRATÓW...\spg
+      text: Ech...\! Jeśli KOSMOCHŁOPAK się z tego szybko nie otrząśnie, to będzie to koniec dla KOSMOPIRATÓW...\n<KOLEŚ KOSMOPIRAT>
  
 message_72:
       faceset: MainCharacters_DreamWorld
@@ -210,12 +210,12 @@ message_74:
 message_75:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Nie waż się wspominać o \c[13]HEKTORZE!\c[0]\kel
+      text: Nie waż się wspominać o \c[13]HEKTORZE\c[0]!\kel
  
 message_76:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Mówię o moim \c[13]PLUSZAKU!\c[0]\aub
+      text: Mówię o moim \c[13]PLUSZAKU\c[0]!\aub
  
 message_77:
       faceset: MainCharacters_DreamWorld
@@ -223,18 +223,18 @@ message_77:
       text: Hę?\! Żadnego PLUSZAKA sobie nie przypominam.\kel
  
 message_78:
-      text: Niedaleko stąd jest \c[11]ŚMIECIOGRÓDEK\c[0], łatwo się tam zgubić!\! Nie wiem, czy uda wam się tam cokolwiek znaleźć.\spg
+      text: Niedaleko stąd jest \c[11]ŚMIECIOGRÓDEK\c[0], łatwo się tam zgubić!\! Nie wiem, czy uda wam się tam cokolwiek znaleźć.\n<KOLEŚ KOSMOPIRAT>
  
 message_79:
-      text: \Com[2]Ekhu, ekhe!\sbf
+      text: \Com[2]Ekhu, ekhe!\n<KOSMOCHŁOPAK>
  
 #Everyone turns to the bed
  
 message_80:
-      text: \quake[1]\}Och... SŁODZIUTKA...\! Muzo ty moja...\sbf\quake[0]
+      text: \quake[1]\}Och... SŁODZIUTKA...\! Muzo ty moja...\n<KOSMOCHŁOPAK>\quake[0]
  
 message_81:
-      text: \quake[1]\}Ekhu...\! Mój przenajsłodszy...\! wypełniony marmoladą... pączusiu...\sbf\quake[0]
+      text: \quake[1]\}Ekhu...\! Mój przenajsłodszy...\! wypełniony marmoladą... pączusiu...\n<KOSMOCHŁOPAK>\quake[0]
  
 #AUBREY looks at Space Boyfriend.
  
@@ -253,24 +253,24 @@ message_83:
 #[Nod (Yes) / Shake (No)]
  
 message_84:
-      text: Dziękuję wam...\!<br>Proszę, weźcie to.\spg
+      text: Dziękuję wam...\!<br>Proszę, weźcie to.\n<KOLEŚ KOSMOPIRAT>
  
 message_85:
       text: Otrzymujesz \c[4]ŚMIECIOKLUCZ\c[0].
  
 message_86:
-      text: Ten klucz pozwoli wam wejść do \c[11]ŚMIECIOGRÓDKA\c[0].<br>\!Gdzieś tam powinna leżeć \c[4]SUPER-SKŁADANKA\c[0].\spg
+      text: Ten klucz pozwoli wam wejść do \c[11]ŚMIECIOGRÓDKA\c[0].<br>\!Gdzieś tam powinna leżeć \c[4]SUPER-SKŁADANKA\c[0].\n<KOLEŚ KOSMOPIRAT>
  
 message_87:
-      text: Dojdziecie tam przez tajne przejście w ogródku KOSMOMĘŻAKOSMOCHŁOPAKA.\! Nie musicie się niepotrzebnie trudzić.\spg
+      text: Dojdziecie tam przez tajne przejście w ogródku KOSMOCHŁOPAKA.\! Nie musicie się niepotrzebnie trudzić.\n<KOLEŚ KOSMOPIRAT>
  
 message_88:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubOch, proszę, \n[1]! KOSMOCHŁOPAK naprawdę potrzebuje naszej pomocy.\!Gdybyś to ty był chory, też chciałby, żeby ktoś ci pomógł, prawda?
+      text: \aubOch, proszę, \n[1]! KOSMOCHŁOPAK naprawdę potrzebuje naszej pomocy.\! Gdybyś to ty był chory, też chciałbyś, żeby ktoś ci pomógł, prawda?
  
 message_89:
-      text: Oby KAPITAN wkrótce poczuł się lepiej...\spg
+      text: Oby KAPITAN wkrótce poczuł się lepiej...\n<KOLEŚ KOSMOPIRAT>
  
  
 # =========================================================================================
@@ -279,34 +279,34 @@ message_89:
  
  
 message_110:
-      text: Och...\! Co za pech...\spd
+      text: Och...\! Co za pech...\n<TYPEK KOSMOPIRAT>
  
 message_111:
-      text: Módlmy się, żeby KAPITAN się nie wściekł, gdy dowie się, że zgubiliśmy jego ulubioną planetę.\! Wiesz, jaki jest, gdy się denerwuje.\spd
+      text: Módlmy się, żeby KAPITAN się nie wściekł, gdy dowie się, że zgubiliśmy jego ulubioną planetę.\! Wiesz, jaki jest, gdy się denerwuje.\n<TYPEK KOSMOPIRAT>
  
 message_112:
-      text: Mieliśmy nie nazywać go więcej KAPITANEM.\!<br>Teraz to KOSMOCHŁOPAK!\spb
+      text: Mieliśmy nie nazywać go więcej KAPITANEM.\!<br>Teraz to KOSMOCHŁOPAK!\n<KUMPEL KOSMOPIRAT>
  
 message_113:
-      text: No tak, zapomniałem...\spd
+      text: No tak, zapomniałem...\n<TYPEK KOSMOPIRAT>
  
 message_114:
-      text: Urg...\!\{\quake[1]AAAA\{ARRRRR\{RRRRG!!!\spd\}
+      text: Urg...\!\{\quake[1]AAAA\{ARRRRR\{RRRRH!!!\n<TYPEK KOSMOPIRAT>\}
  
 message_115:
-      text: Czasami zastanawiam się, czy my nadal jesteśmy KOSMICZNYMI PIRATAMI.\spd
+      text: Czasami zastanawiam się, czy my nadal jesteśmy KOSMOPIRATAMI.\n<TYPEK KOSMOPIRAT>
  
 message_116:
-      text: Od kiedy te jego SŁODZIUTKA się przypałętała, nie robiliśmy nic ciekawego!\! Powinniśmy po prostu zrezygnować i iść do prawdziwej roboty.\spd
+      text: Od kiedy te jego SŁODZIUTKA się przypałętała, nie robiliśmy nic ciekawego!\! Powinniśmy po prostu zrezygnować i iść do prawdziwej roboty.\n<TYPEK KOSMOPIRAT>
  
 message_117:
-      text: Nie gadaj głupot!\!<br>Przecież pisany jest nam żywot KOSMICZNYCH PIRATÓW!\spb
+      text: Nie gadaj głupot!\!<br>Przecież pisany jest nam żywot KOSMOPIRATÓW!\n<KUMPEL KOSMOPIRAT>
  
 message_118:
-      text: Jestem pewien, że kiedyś KAPITAN wróci do zmysłów i znów wyruszymy w podróż.\! Po prostu musimy w niego wierzyć!\spb
+      text: Jestem pewien, że kiedyś KAPITAN wróci do zmysłów i znów wyruszymy w podróż.\! Po prostu musimy w niego wierzyć!\n<KUMPEL KOSMOPIRAT>
  
 message_119:
-      text: Dobrze jest mieć takiego kompana.\! Jesteś przy mnie zawsze, gdy cię potrzebuję.\spd
+      text: Dobrze jest mieć takiego kompana.\! Jesteś przy mnie zawsze, gdy cię potrzebuję.\n<TYPEK KOSMOPIRAT>
  
 # =========================================================================================
 # Cutscene: Pluto Behind a Tree
@@ -315,7 +315,7 @@ message_119:
 #BEFORE BATTLE
  
 message_130:
-    text: Włos się na głowie jeży na jego widok...\!<br>Może jednak sobie pójdziemy?
+    text: Na jego widok włos jeży się na głowie...\!<br>Zaczepić go?
  
 #BEFORE BATTLE
  
@@ -327,7 +327,7 @@ message_131:
 # =========================================================================================
  
 message_150:
-      text: \quake[1]\}Ekhu...\! ekhu...\sbf\quake[0]
+      text: \quake[1]\}Ekhu...\! ekhu...\n<KOSMOCHŁOPAK>\quake[0]
  
 message_160:
       faceset: MainCharacters_DreamWorld
