@@ -136,7 +136,7 @@ Quest_Names:
   StickInTheMud: JAK WRONA W SMOLE
   StrangeRequest: NIETYPOWA PROŚBA
   Itchy: SWĘDZĄCA SPRAWA
-  Orange: WIELKI POWRÓT JASIÓW
+  Orange: WIELKIE ZJEDNOCZENIE JASIÓW
   PresentForPalmie: PREZENT DLA USZKI
   FascinatingLiterature: WCIĄGAJĄCA LITERATURA
   Candlie: DOBRY SŁUCHACZ
@@ -230,7 +230,7 @@ Omori_Mainmenu_Sceneoptions:
 Omori_Name_Input:
   nameask: Jak brzmi jego imię?
   defaultname: SUNNY
-  max_chars: 6
+  max_chars: 10
 
 # =========================================================================================
 # OMORI SAVE AND LOAD
@@ -254,10 +254,10 @@ Yin_Blackjack:
   bets: [$5,$25,$100,Wyjdź] # Those are the strings in the bet commands
   jack_commands: [Czekaj, Dobierz] # Those are the commands for blackjack. They will be uppercased.
   dealer_streak: Kurpier %1 # %1 is streak string
-  pladr_streak: Gracz %1 # %1 is streak string
+  player_streak: Gracz %1 # %1 is streak string
   streak_string: " - Wygrane - %1" # %1 is the player/dealer streak value
   score: "Wynik: Kurpier - %1   Ty - %2" # %1 and %2 are dealer and player scores
-  bet: "Zakład: $%1 x%2Łącznie - $%3" # Format numbers references to wagerAmount, playerBonus and currentEarnings
+  bet: "Zakład: %1$ x%2 Łącznie - $%3" # Format numbers references to wagerAmount, playerBonus and currentEarnings
   maincommands: [Nowa Gra, Kontynuuj, Wyjdź] # Blackjack commands. They will be uppercased.
 
 # =========================================================================================

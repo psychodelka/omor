@@ -691,7 +691,7 @@ plugins:
       placing:
         - {text: 'UMIEŚĆ:', inputs: [ok]}
         - {text: 'POWRÓT:', inputs: [escape]}
-        - {text: 'PRZEWRÓĆ STRONĘ:', inputs: [pageup, pagedown]}
+        - {text: 'ZMIEŃ STRONĘ:', inputs: [pageup, pagedown]}
 
   itemShopMenu:
     ownedText: POSIADANE

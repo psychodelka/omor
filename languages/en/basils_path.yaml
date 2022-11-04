@@ -489,17 +489,17 @@ message_157:
 message_158:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Aj, to nic takiego... Hah, hah.\! Kasowałem typów większych niż ten tutaj!\! Za jakiś czas mógłbym nauczyć was kilku moich \c[1]ZDOLNOŚCI\c[0]!\kel
+      text: Aj, to nic takiego... Ha, ha.\! Kasowałem typów większych niż ten tutaj!\! Za jakiś czas mógłbym nauczyć was kilku moich \c[1]ZDOLNOŚCI\c[0]!\kel
  
 message_159:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: BASIL... Wiem, że nie przepadasz za przemocą...\! ale mógłbyś nauczyć się, jak się bronić!\aub
+      text: BASIL... Wiem, że nie przepadasz za przemocą...\! ale mógłbyś nauczyć się samoobrony!\aub
  
 message_160:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Wiesz...\! Tak naprawde pracowałem nad książką o walkach!\! Myślę, że moglibyśmy ją kiedyś razem przeczytać.\! Narazie dam tę książkę OMORI. \her
+      text: Wiesz...\! Tak naprawdę pracowałem nad książką o walkach!\! Myślę, że moglibyśmy ją kiedyś razem przeczytać.\! Na razie dam ją OMORIEMU.\her
  
 message_169:
       faceset: MainCharacters_DreamWorld
@@ -529,7 +529,7 @@ message_161:
 message_162:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: Okej! To wszystko, co chciałem powiedzieć!\! Cierpliwości, KEL...\her
+      text: Dobrze! To wszystko, co chciałem powiedzieć!\! Cierpliwości, KEL...\her
  
 #========
 #EMOTION

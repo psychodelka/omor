@@ -9,7 +9,7 @@
 message_0:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \Com[2]\SINV[1]Uśmiech proszę!\SINV[0]\bas
+      text: \Com[2]\SINV[1]Uśmiech, proszę!\SINV[0]\bas
  
 #Screen flashes white
 #BASIL takes a photo of the party
@@ -18,7 +18,7 @@ message_0:
 message_1:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: Och, wyszło trochę niewyraźnie...\!<br>To nic. Nadaje mu to charakteru.\bas
+      text: Oj, wyszło trochę niewyraźnie...\!<br>To nic. Nadaje mu to charakteru.\bas
  
 #BASIL puts away photo
  
@@ -35,7 +35,7 @@ message_3:
 message_4:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: O-och, jasne. \bas
+      text: O-o, jasne. \bas
  
 #BASIL takes out PHOTO ALBUM.
 #AUBREY runs to the side of BASIL.
@@ -66,7 +66,7 @@ message_7:
 message_8:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: O, cześć OMORI! Też chciałeś zobaczyć?\bas
+      text: O, cześć, OMORI! Też chciałeś zobaczyć?\bas
  
 #BASIL gave you a GROUP Photo
 #SLIDE: GROUP PHOTO (DREAM)
@@ -157,7 +157,7 @@ message_42:
 message_43:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: Ech...\! Ups...\kel
+      text: Eee...\! Ups...\kel
  
 #Aubrey jumps
  
@@ -183,14 +183,14 @@ message_46:
 message_47:
       faceset: MainCharacters_DreamWorld
       faceindex: 29
-      text: Przepraszam HERO... my nie chcieliśmy!!<br>\!Tylko nie mów MARI, błagam...\kel
+      text: Przepraszam, HERO... my nie chcieliśmy!!<br>\!Tylko nie mów MARI, błagam...\kel
  
 #BASIL gets up
  
 message_48:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: S-spokojnie, nie ma co się martwić.\! Wypadki chodzą po ludziach...\bas
+      text: S-spokojnie, nie ma co się martwić.\! Wypadki się zdarzają...\bas
  
 #HERO helps BASIL pick up his photos.
  
@@ -237,7 +237,7 @@ message_72:
 message_73:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: Nie martw się o to.\!<br>Wiem, że chciałeś tylko pooglądać mój \c[4]ALBUM\c[0].\!<br>Dziękuję, że pomogliście mi je pozbierać!\bas
+      text: Nie martwcie się o to.\!<br>Wiem, że chcieliście tylko pooglądać mój \c[4]ALBUM\c[0].\!<br>Dziękuję, że pomogliście mi je pozbierać!\bas
  
  
 #BASIL walks to the dinner table carrying the album.
@@ -253,7 +253,7 @@ message_74:
 message_75:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: Hę?? Co to jest??\! Czy to ja zrobiłem to zdjęcie?\bas
+      text: Hę? Co to jest?\! Czy to ja zrobiłem to zdjęcie?\bas
  
  
 message_76:
