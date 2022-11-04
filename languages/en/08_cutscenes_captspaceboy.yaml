@@ -21,7 +21,7 @@ message_3:
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: O nie, wszystko dobrze?\!<br>Trochę się wściekłeś wcześniej i musieliśmy ...\aub
+      text: O nie, wszystko dobrze?\!<br>Wcześniej trochę się wściekłeś i musieliśmy...\aub
  
 message_5:
       text: Ach...\! Rozumiem...\! Moja druga połowa musiała przejąć kontrolę.\n<KAPITAN KOSMIK>
@@ -42,12 +42,12 @@ message_10:
       text: Ta \c[4]SUPER-SKŁADANKA\c[0] zawiera nasze ulubione piosenki.\! Włożyłem w nią tyle serca.\n<KAPITAN KOSMIK>
  
 message_11:
-      text: Dziękuję wam wszystkim, że ją oddaliście..\!<br>W końcu są na niej zapisane najlepsze wspomnienia.\n<KAPITAN KOSMIK>
+      text: Dziękuję, że ją oddaliście.\!<br>Są na niej zapisane najlepsze wspomnienia.\n<KAPITAN KOSMIK>
  
 message_12:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Ech... nie ma sprawy...\! aż tak wielkiej.\kel
+      text: Eee... nie ma sprawy...\! aż tak wielkiej.\kel
  
 message_13:
       faceset: MainCharacters_DreamWorld

@@ -73,7 +73,7 @@ message_14:
 message_15:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Hej, mam pomysł! Możemy iść do \c[11]BZZAJAWKI\c[0]!\!<br> To jest ten sklep hobbystyczny w  \c[11]GALERII\c[0].\kel
+      text: Hej, mam pomysł! Możemy iść do \c[11]BZZAJAWKI\c[0]!\!<br>To ten sklep hobbystyczny w \c[11]GALERII\c[0].\kel
  
 message_16:
       faceset: MainCharacters_Faraway

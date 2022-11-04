@@ -145,7 +145,7 @@ message_28:
       text: Od razu lepiej!\! Dobra, na czym skończyłem...?\! Ach, tak!\n<KOSMOCHŁOPAK>
  
 message_29:
-      text: \Com[2]Głupie dzieciaki!\!<br>Muszę wam podziękować za wyrwanie mnie z tego żałosnego stanu.\!<br>Znudziło mi się leżenie w łóżku i udawanie chorego.\n<KOSMOCHŁOPAK>
+      text: \Com[2]Głupie dzieciaki!\!<br>Muszę podziękować wam za wyrwanie mnie z tego żałosnego stanu.<br>Znudziło mi się leżenie w łóżku i udawanie chorego.\n<KOSMOCHŁOPAK>
  
 message_30:
       text: Jak zawsze mawiam...\! <br>\{\quake[1]UCZUCIA SĄ DLA PRZEGRYWÓW!!\n<KOSMOCHŁOPAK>\}

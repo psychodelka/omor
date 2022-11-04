@@ -114,19 +114,19 @@ message_15:
 #A line of four KIEŁKUNS are walking toward PYREFLY FOREST.
  
 message_30:
-      text: Ożeż, ożeż!\! Czekałem już tak długo na to wydarzenie!!\!<br>To zdecydowanie przepiękny dzień!\n<KIEŁKUN>
+      text: Ożeż, ożeż!\! Czekałem już tak długo na to wydarzenie!!\!<br>To przepiękny dzień!\n<KIEŁKUN>
  
 message_31:
       text: O tak, o tak!\! W końcu, nasza cudowna królewna, SŁODZIUTKA, nareszcie się nam objawi!\n<KIEŁKUN>
  
 message_32:
-      text: Ojej, ojej!\! Ledwie jestem w stanie utrzymać moje podekscytowanie.\!<br>Ten występ zdecydowanie będzie najbardziej szokujący do tej pory!\n<KIEŁKUN>
+      text: Ojej, ojej!\! Ledwie jestem w stanie utrzymać moje podekscytowanie.\!<br>To będzie najbardziej zaskakujący występ, jaki kiedykolwiek zobaczymy!\n<KIEŁKUN>
  
 message_33:
-      text: O wow, o wow!!\! Musimy się spieszyć!\! <br>Nasze cztery przednie \c[4]BILETY NA SPEKTAKL\c[0] tu są!\!<br>Niedługo rozpocznie się wspaniała zabawa, a my nie możemy tego przegapić!\n<KIEŁKUN>
+      text: Rety, rety!!\! Musimy się spieszyć!\!<br>Tu są nasze cztery \c[4]BILETY NA SPEKTAKL\c[0] w pierwszym rzędzie!\!<br>Niedługo rozpocznie się wspaniały występ, nie możemy go przegapić!\n<KIEŁKUN>
  
 message_34:
-      text: Więc... w którą to my mieliśmy iść stronę?\n<KIEŁKUN>
+      text: Więc... w którą to mieliśmy iść stronę?\n<KIEŁKUN>
  
 #Before Cutscene block
 message_43:
@@ -139,7 +139,7 @@ message_45:
       text: \n<KIEŁKUN>Ojej, ojej!
  
 message_46:
-      text: \n<KIEŁKUN>O wow, o wow!
+      text: \n<KIEŁKUN>Rety, rety!
  
 #KEL is surprised and walks forward.
  
@@ -160,7 +160,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Zobaczmy...\!<br>O, to bilety na pierwsze miejsca na jakiś występ...\aub
+      text: Zobaczmy...\!<br>O, to bilety w pierwszym rzędzie na jakiś występ...\aub
  
 message_38:
       faceset: MainCharacters_DreamWorld
@@ -177,7 +177,7 @@ message_39:
 message_40:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Tak! Wygląda to na jakiś rodzaj zawodów!\aub
+      text: Tak! Wygląda to na jakąś konkurencji!\aub
  
 message_41:
       faceset: MainCharacters_DreamWorld
@@ -187,7 +187,7 @@ message_41:
 message_42:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Cóż...\! no dobrze.\!<br>Może wpadniemy, jeśli akurat natkniemy się na ten występ.\her
+      text: Cóż...\! no dobrze.\!<br>Może wpadniemy, jeśli akurat natkniemy się na niego natkniemy.\her
  
 # =========================================================================================
 # Cutscene: Pyreflies Intro
@@ -198,7 +198,7 @@ message_42:
 message_60:
       faceset: MainCharacters_DreamWorld
       faceindex: 27
-      text: Ech...\! Z drugiej strony... Poszukajmy BASILA gdzie indziej.\! Przez to miejsce mam gęsią skórkę.\kel
+      text: Ech...\! Z drugiej strony... Poszukajmy BASILA gdzieś indziej.\! Przez to miejsce mam gęsią skórkę.\kel
  
 message_61:
       faceset: MainCharacters_DreamWorld
@@ -223,7 +223,7 @@ message_64:
 message_65:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: Hmf! To nie było śmieszne, KEL...\aub
+      text: Pfft! To nie było śmieszne, KEL...\aub
  
 # =========================================================================================
 # Cutscene: Sweetheart's Bachelor Contest
@@ -239,7 +239,7 @@ message_80:
 message_81:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: Usiądźmy już.<br>Wygląda na to, że występ niedługo się zacznie!\aub
+      text: Usiądźmy już.<br>Występ niedługo się zacznie!\aub
  
 # =========================================================================================
 # Cutscene: Sweetheart's Bachelor Contest (Cont.)
@@ -252,97 +252,97 @@ message_81:
 #SMM walks onto the stage.
  
 message_100:
-      text: Panie i kiełkunowie...\!<br>Witamy w odcinku specjalnym...\!<br>\"SZANSY NA SERCE SŁODZIUTKIEJ!\"\smm
+      text: Kiełkunki i kiełkunowie...\!<br>Witamy w odcinku specjalnym...\!<br>\"SZANSY NA SERCE SŁODZIUTKIEJ!\"\n<KIEŁKUN MIKOŁAJ>
  
 #Applause
  
 message_101:
-      text: Przed rozpoczęciem występu, chcielibyśmy poświęcić moment na oddanie czci komuś, kto był dla nas ogromną inspiracją. \!<br>Nasz ukochany władca, KIEŁKOSŁAW.\smm
+      text: Przed rozpoczęciem występu chcielibyśmy poświęcić moment na oddanie czci komuś, kto był dla nas ogromną inspiracją.\!<br>Naszemu ukochanemu władcy, KIEŁKOSŁAWOWI.\n<KIEŁKUN MIKOŁAJ>
  
 #The curtain opens and a portrait of YE OLD SPROUT is shown.
  
 message_102:
-      text: Zdecydowanie był opiekunem, na którego żadne z nas nie zasługiwało.\! <br>Uczcijmy jego pamięć chwilą ciszy.\smm
+      text: Zdecydowanie był opiekunem, na którego żadne z nas nie zasługiwało.\! <br>Uczcijmy jego pamięć chwilą ciszy.\n<KIEŁKUN MIKOŁAJ>
  
 message_103:
-      text: ...\| ...\| ...\| ...\| ...  \smm
+      text: ...\| ...\| ...\| ...\| ...  \n<KIEŁKUN MIKOŁAJ>
  
 message_104:
-      text: Niech spoczywa w pokoju wiecznym.\smm
+      text: Niech spoczywa w pokoju wiecznym.\n<KIEŁKUN MIKOŁAJ>
  
 #Curtains close.
  
 message_105:
-      text: \sinv[1]\{A TERAZ...\. ROZPOCZNIJMY WYSTĘP!!\smm
+      text: \sinv[1]\{A TERAZ...\. ROZPOCZNIJMY WYSTĘP!!\n<KIEŁKUN MIKOŁAJ>
  
 #Curtains open, changing the graphic behind to SWEETHEART'S Show Graphic.
  
 message_106:
-      text: Ostatnim razem w \"SZANSIE NA SERCE\"...\!<br>Naszej ukochanej królewnie...\! po raz kolejny...\! nie udało się zakochać w żadnym z naszych dostojnych kawalerów!\smm
+      text: Ostatnim razem w \"SZANSIE NA SERCE\"...\!<br>Naszej ukochanej królewnie...\! po raz kolejny...\! nie udało się zakochać w żadnym z naszych dostojnych kawalerów!\n<KIEŁKUN MIKOŁAJ>
  
 message_107:
-      text: Tym razem...\! zebraliśmy trzech nowych, wyjątkowo atrakcyjnych, kandydatów!\! Czy któremuś z nich uda się zdobyć serce SŁODZIUTKIEJ?\! Przedstawmy ich!\smm
+      text: Tym razem...\! zebraliśmy trzech nowych, wyjątkowo atrakcyjnych kandydatów!\! Czy któremuś z nich uda się zdobyć serce SŁODZIUTKIEJ?\! Przedstawmy ich!\n<KIEŁKUN MIKOŁAJ>
  
 #Contestant #1 comes out and makes a circle around the stage.
  
 message_108:
-      text: KANDYDAT \NR 1 jest mieszkańcem WIOSKI KIEŁKUNÓW!\smm
+      text: KANDYDAT NR 1 jest mieszkańcem WIOSKI KIEŁKUNÓW!\n<KIEŁKUN MIKOŁAJ>
  
 message_109:
-      text: Ma prawie 90 cm wzrostu!\! Jego ulubionym jedzeniem jest \c[3]TOFU\c[0]. Posiada ogromną kolekcję plastikowych flamingów... oraz lubi długie spacery przez ciasne korytarze!\smm
+      text: Ma prawie 90 cm wzrostu!\! Jego ulubionym jedzeniem jest \c[3]TOFU\c[0]. Posiada ogromną kolekcję plastikowych flamingów... oraz lubi długie spacery przez ciasne korytarze!\n<KIEŁKUN MIKOŁAJ>
  
 message_110:
-      text: \Com[2]\{BRAWA DLA KANDYDATA \NR 1!\smm
+      text: \Com[2]\{BRAWA DLA KANDYDATA NR 1!\n<KIEŁKUN MIKOŁAJ>
  
 #Applause.
 #Contestant #2 comes out and makes a circle around the stage.
  
 message_111:
-      text: KANDYDAT \NR 2 to... Tak, zgadliście!\! <br>Również mieszkaniec WIOSKI KIEŁKUNÓW!\smm
+      text: KANDYDAT NR 2 to... Tak, zgadliście!\! <br>Również mieszkaniec WIOSKI KIEŁKUNÓW!\n<KIEŁKUN MIKOŁAJ>
  
 message_112:
-      text: Uwaga! Mierzy całe 94 cm wzrostu!!\!<br>Ma wiele zainteresowań. Takich jak:\ chodzenie, bieganie oraz pełzanie!\smm
+      text: Uwaga! Mierzy całe 94 cm wzrostu!!\!<br>Ma wiele zainteresowań. Takich jak:\ chodzenie, bieganie oraz pełzanie!\n<KIEŁKUN MIKOŁAJ>
  
 message_113:
-      text: Jego ulubionym połączeniem kolorów jest zielony z brązowym, a weekendy spędza na krążeniu wokół brudnego prania!<br>\!Mmm... nieźle.\smm
+      text: Jego ulubionym połączeniem kolorów jest zielony z brązowym, a weekendy spędza na krążeniu wokół brudnego prania!<br>\!Mmm... nieźle.\n<KIEŁKUN MIKOŁAJ>
  
 message_114:
-      text: \Com[2]\{OKLASKI DLA KANDYDATA \NR 2!\smm
+      text: \Com[2]\{OKLASKI DLA KANDYDATA \NR 2!\n<KIEŁKUN MIKOŁAJ>
  
 #Applause.
  
 message_115:
-      text: A teraz czas na coś zupełnie innego!\smm
+      text: A teraz czas na coś zupełnie innego!\n<KIEŁKUN MIKOŁAJ>
  
 #Contestant #3 comes out and makes a circle around the stage.
  
 message_116:
-      text: KANDYDAT \NR 3 przybył tutaj aż z \c[11]PLANETOWA INNEGO\c[0]!\smm
+      text: KANDYDAT NR 3 przybył tutaj aż z \c[11]PLANETOWA INNEGO\c[0]!\n<KIEŁKUN MIKOŁAJ>
  
 message_117:
-      text: To dokładnie tak, jak gdyby spadł nam z nieba!\!<br>Zarówno on, jak i my, sądzimy, że dzięki temu jest świetnym facetem.\! <br>Aplauz dla PIANKA!\smm
+      text: To dokładnie tak, jak gdyby spadł nam z nieba!\!<br>Zarówno on, jak i my sądzimy, że dzięki temu jest świetnym facetem.\! <br>Aplauz dla PIANKA!\n<KIEŁKUN MIKOŁAJ>
  
 #Scattered applause.
  
 message_118:
-      text: A teraz...\! Moment, na który wszyscy czekali...\smm
+      text: A teraz...\! Moment, na który wszyscy czekali...\n<KIEŁKUN MIKOŁAJ>
  
 message_119:
-      text: \{\sinv[1]PROSZĘ ZGASIĆ ŚWIATŁA!!\smm
+      text: \{\sinv[1]PROSZĘ ZGASIĆ ŚWIATŁA!!\n<KIEŁKUN MIKOŁAJ>
  
 #Lights dim.
  
 message_120:
-      text: \sinv[1]Emanuje...\| pięknem... \|Wielki ma...\| gest...\|<br>Ona zdecydowanie...\| najpiękniejsza tu jest...\smm
+      text: \sinv[1]Emanuje...\| pięknem... \|Wielki ma...\| gest...\|<br>Ona zdecydowanie...\| najpiękniejsza tu jest...\n<KIEŁKUN MIKOŁAJ>
  
 message_121:
-      text: Tak!\! Wiecie, o kim mówimy!<br>\!Jest tak wspaniała i potężna! I zaraz postawi stopę na tej scenie!!\smm
+      text: Tak!\! Wiecie, o kim mówimy!<br>\!Jest tak wspaniała i wielka! I zaraz wstąpi na tą scenę!!\n<KIEŁKUN MIKOŁAJ>
  
 message_122:
-      text: Proszę...\! Jak najgoręcej przywitajcie...<br>\!jedną... \!jedyną... \!wspaniałą...\smm
+      text: Proszę...\! Jak najgoręcej przywitajcie...<br>\!jedną... \!jedyną... \!wspaniałą...\n<KIEŁKUN MIKOŁAJ>
  
 message_123:
-      text: \{\{\{\Com[2]SŁODZIU-\smm
+      text: \{\{\{\Com[2]SŁODZIU-\n<KIEŁKUN MIKOŁAJ>
  
 #Lightning strikes and hits SNALEY. He gets fried and turns into ashes, then blows away.
 #There is a blackout.
@@ -425,7 +425,7 @@ message_152:
 #    - There's a room full of treadmills in bottom floor. Map 166
  
 message_153:
-      text: \n<KIEŁKUN ZARZĄDCA>Przespieszcie tempo, panowie! Nie ma czasu do stracenia!!
+      text: \n<KIEŁKUN ZARZĄDCA>Przespieszcie tempo, panowie! Nie ma czasu do stracenia!
  
 message_154:
       text: \n<KIEŁKUN>Staramy się ze wszystkich sił, zarządco!

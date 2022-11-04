@@ -3443,7 +3443,7 @@ Gamefall.JPWordWrap = Gamefall.JPWordWrap || {};
 			const lang = LanguageManager.defaultLanguage();
 			const defaultName = LanguageManager._data[lang]["text"]["XX_BLUE"]["Omori_Name_Input"]["defaultname"]
 			let name = this._name
-			if(!isTextInCurrentLanguage(name)) {name = defaultName}
+			//if(!isTextInCurrentLanguage(name)) {name = defaultName}
 			return name
 		}
 

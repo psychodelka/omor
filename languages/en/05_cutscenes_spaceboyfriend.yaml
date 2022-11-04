@@ -24,7 +24,7 @@ message_4:
       text: Też chcę być KOSMOPIRATEM!\kel
  
 message_5:
-      text: Też chciałem...\!a przynajmniej kiedyś.\n<KOLEŚ KOSMOPIRAT>
+      text: Też chciałem...\! a przynajmniej kiedyś.\n<KOLEŚ KOSMOPIRAT>
  
 message_6:
       text: KOSMOCHŁOPAK na co dzień nie robi zbyt wiele, więc większość KOSMOPIRATÓW miała dość i opuściła główny statek.\n<KOLEŚ KOSMOPIRAT>
@@ -111,7 +111,7 @@ message_52:
 message_53:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: Nie martw się, dam sobe z tym radę!\kel
+      text: Nie martw się, dam sobie z tym radę!\kel
  
 message_54:
       faceset: MainCharacters_DreamWorld
@@ -139,7 +139,7 @@ message_58:
 message_59:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Oj... Biedactwo..\!<br>Musi być coś, co mu pomoże..\aub
+      text: Oj... Biedactwo..\!<br>Musi być coś, co mu pomoże.\aub
  
 message_60:
       text: \}\quake[1]Ekhu, ekhe...\! Ekhe...\! Och, SŁODZIUTKA...\!<br>Gdzie jesteś?\n<KOSMOCHŁOPAK>\quake[0]

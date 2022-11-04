@@ -74,7 +74,7 @@ message_8:
 message_9:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: Szkoda, że wyszło trochę rozmazane, ale mimo to wyglądacie ładnie.\! Powinienem dodać je do swojej kolekcji! \bas
+      text: Szkoda, że wyszło trochę rozmazane, ale mimo to wyglądacie ładnie.\! Powinienem dodać je do swojej kolekcji!\bas
  
 #BASIL takes out his PHOTO ALBUM.
  
@@ -293,7 +293,7 @@ message_101:
 message_102:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: Nie ma sprawy.\!Poczekam aż będziesz gotów...\bas
+      text: Nie ma sprawy.\! Poczekam, aż będziesz gotów...\bas
 # Play Basil Something Animation
 # Player wakes up.
  

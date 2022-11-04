@@ -1172,7 +1172,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
 
     //CUPCAKE BUNNY//
     case 'CCB ATTACK': //CUP CAKE BUNNY ATTACK
-      text = user.name() + ' wpada na' + target._altName() + '.\r\n';
+      text = user.name() + ' wpada na ' + target._altName() + '.\r\n';
       text += hpDamageText;
       break;
 
@@ -1365,7 +1365,8 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
 
     case 'GINGER DEAD NOTHING': //GINGER DEAD MAN DO NOTHING
       text = user.name() + ' traci głowę...\r\n';
-      text += user.name() + ' odkłada ją na swoje miejsce.';
+      text += user.name() + ' odkłada ją na swoje\r\n';
+      text += 'miejsce.';
       break;
 
     case 'GINGER DEAD THROW HEAD': //GINGER DEAD MAN THROW HEAD

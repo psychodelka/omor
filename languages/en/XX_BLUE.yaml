@@ -424,7 +424,7 @@ Window_OmoMenuItemCategory:
   standardFontSize: 20 # OMORI MAIN MENU SCENE ITEM line 620
 
 Window_OmoMenuItemList:
-  drawItem_contents_fontsize: 22 # OMORI MAIN MENU SCENE ITEM line 794
+  drawItem_contents_fontsize: 18 # OMORI MAIN MENU SCENE ITEM line 794
   drawItem_drawText_position: ["rect.x + rect.width - 18", "rect.y"] # OMORI MAIN MENU SCENE ITEM line 800
 
 Window_OmoMenuItemConfirmation:
