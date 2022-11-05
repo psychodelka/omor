@@ -571,7 +571,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       text += user.name() + " jest celniejszy!\r\n"
       break;
 
-    case 'SOKU ME': // SOKU ME
+    case 'JUICE ME': // SOKU ME
       text = user.name() + ' podaje KOKOSA!\r\n'
       var absMp = Math.abs(mpDam);
       if (absMp > 0) {
@@ -1438,7 +1438,8 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
 
     //POTTED PALM//
     case 'PALM ATTACK': //PALM ATTACK
-      text = user.name() + ' uderza w ' + target._altName() + '!\r\n';
+      text = user.name() + ' uderza w\r\n';
+      text += target._altName() + '!\r\n';
       text += hpDamageText;
       break;
 
@@ -3698,8 +3699,14 @@ Window_BattleLog.prototype.displayCustomActionText = function (subject, target, 
 Window_BattleLog.prototype.displayAction = function (subject, item) {
   // Return if Item has Custom Battle Log Type
   if (item.meta.BattleLogType) { return; }
+  else if (!DataManager.isSkill(item)) {
+    this.push('addText', `${subject.name()} używa przedmiotu.`);
+    this.push('wait');
+    this.push('addText', `Wykorzystano: ${item.name}!`);
+    this.push('wait');
+  }
   // Run Original Function
-  _TDS_.CustomBattleActionText.Window_BattleLog_displayAction.call(this, subject, item);
+  else _TDS_.CustomBattleActionText.Window_BattleLog_displayAction.call(this, subject, item);
 };
 //=============================================================================
 // * Display Action Results

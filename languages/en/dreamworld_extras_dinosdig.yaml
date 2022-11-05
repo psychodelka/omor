@@ -9,7 +9,7 @@ message_1:
       text: \n<DINO>Siemka, mali podróżnicy!\!<br>Witam w DINOKOPIE! Jestem DINO, założyciel DINOKOPU!
  
 message_2:
-      text: \n<DINO>Ekhem...\! Jesteście głodni skarbów?\! Jesteście gotowi na szczyptę przygód?\! 	Jeśli tak, to przybyliście do właściwego miejsca!
+      text: \n<DINO>Ekhem...\! Jesteście głodni skarbów?\! Jesteście gotowi na szczyptę przygód?\! Jeśli tak, to przybyliście do właściwego miejsca!
  
  
 message_3:
@@ -53,7 +53,7 @@ message_9:
       text: \n<DINO>No i proszę! Dokładnie, bracie!\!<br>Szybko się uczysz, co nie?
  
 message_10:
-      text: \n<DINO>W naszym specjalnym miejscu wykopalisk, \c[11]PIRAMIDZIE ŻYWIENIA\c[0], możesz odkryć super czadowe skarby z całego wszechświata...\! a najlepsze jest to... że możesz zatrzymać wszystko, co znajdziesz!
+      text: \n<DINO>W naszym specjalnym miejscu wykopalisk, \c[11]PIRAMIDZIE ŻYWIENIA\c[0], możecie odkryć super czadowe skarby z całego wszechświata...\! a najlepsze jest to...<br>że możecie zatrzymać wszystko, co znajdziecie!
  
 message_11:
       text: \n<DINO>\sinv[1]\com[2]\{DINOBIECUJĘ!
@@ -95,7 +95,7 @@ message_20:
       text: \n<DINO>No i to chyba tyle!\! Jedyne, co wam zostało, to wejście po tych schodach, zaciągnięcie się słodkim powietrzem \c[11]PIRAMIDY ŻYWIENIOWEJ\c[0] i rozpoczęcie kopania!
  
 message_21:
-      text: \n<DINO>\sinv[1] DINOSTYCZNEJ przygody!
+      text: \n<DINO>\sinv[1]DINOSTYCZNEJ przygody!
  
 #-------------------------
 #GAME end
@@ -166,7 +166,7 @@ message_113:
  
 #Default>
 message_29:
-      text: \n<BRETT>Witajcie w DINOSKLEPIE!\!<br>Według mojego rejestru, macie dokładnie \v[1020] DINODOLARÓW!
+      text: \n<BRETT>Witajcie w DINOSKLEPIE!\!<br>Według mojego rejestru, liczba posiadanych przez was DINODOLARÓW to \v[1020]!
  
 message_32:
       text: \n<BRETT>Jeśli chcecie kupić \c[4]ŁYŻKĘ\c[0], po prostu mi ją wskażcie i w razie czego pomogę!

@@ -438,7 +438,7 @@ Window_ChoiceList:
   standardFontSize: 28 # OMORI BASE LINE 4665
 
 Window_OmoMenuActorSkillEquip:
-  skillsFontSize: 24 # OMORI MAIN MENU SCENE SKILL LINE 701
+  skillsFontSize: 22 # OMORI MAIN MENU SCENE SKILL LINE 701
 
 Window_OmoriShopItemList:
   transactionHeaderFontSize: 20 # OMORI ITEM SHOP LINE 910

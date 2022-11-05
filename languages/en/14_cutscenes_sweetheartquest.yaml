@@ -307,7 +307,7 @@ message_113:
       text: Jego ulubionym połączeniem kolorów jest zielony z brązowym, a weekendy spędza na krążeniu wokół brudnego prania!<br>\!Mmm... nieźle.\n<KIEŁKUN MIKOŁAJ>
  
 message_114:
-      text: \Com[2]\{OKLASKI DLA KANDYDATA \NR 2!\n<KIEŁKUN MIKOŁAJ>
+      text: \Com[2]\{OKLASKI DLA KANDYDATA NR 2!\n<KIEŁKUN MIKOŁAJ>
  
 #Applause.
  
@@ -320,7 +320,7 @@ message_116:
       text: KANDYDAT NR 3 przybył tutaj aż z \c[11]PLANETOWA INNEGO\c[0]!\n<KIEŁKUN MIKOŁAJ>
  
 message_117:
-      text: To dokładnie tak, jak gdyby spadł nam z nieba!\!<br>Zarówno on, jak i my sądzimy, że dzięki temu jest świetnym facetem.\! <br>Aplauz dla PIANKA!\n<KIEŁKUN MIKOŁAJ>
+      text: To dokładnie tak, jak gdyby spadł nam z nieba!\!<br>Zarówno on, jak i my sądzimy, że dzięki temu jest świetnym facetem.<br>Aplauz dla PIANKA!\n<KIEŁKUN MIKOŁAJ>
  
 #Scattered applause.
  
@@ -367,7 +367,7 @@ message_126:
 #KIEŁKUN runs in from the other side.
  
 message_127:
-      text: Pomocy! My również nie wiemy, co zrobić!\n<KIEŁKUN>
+      text: Pomocy! My też nie wiemy, co zrobić!\n<KIEŁKUN>
  
 #KIEŁKUN jumps.
  
@@ -425,7 +425,7 @@ message_152:
 #    - There's a room full of treadmills in bottom floor. Map 166
  
 message_153:
-      text: \n<KIEŁKUN ZARZĄDCA>Przespieszcie tempo, panowie! Nie ma czasu do stracenia!
+      text: \n<KIEŁKUN ZARZĄDCA>Przyspieszcie tempo, panowie! Nie ma czasu do stracenia!
  
 message_154:
       text: \n<KIEŁKUN>Staramy się ze wszystkich sił, zarządco!
@@ -445,7 +445,7 @@ message_158:
 #YES/NO
  
 message_159:
-      text: \n<KIEŁKUN ZARZĄDCA>\Com[2]A nie mówiłem, kiełkuni? Ciężka praca się opłaca!<br>\!Now keep on running!
+      text: \n<KIEŁKUN ZARZĄDCA>\Com[2]A nie mówiłem, kiełkuni? Ciężka praca się opłaca!<br>\!Przebierajcie nóżkami!
  
 message_160:
       text: \n<KIEŁKUN>Ech... ech... uff... uff...

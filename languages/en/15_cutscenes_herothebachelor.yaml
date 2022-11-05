@@ -15,24 +15,24 @@ message_1:
 #MUSTACHE MOLE walks one step forward.
  
 message_2:
-      text: Ty tam, ze spodniami w paski.\! Ty\quake[1]boska bestio!!\quake[0]\!<br>Tak… Ohohoho... Tak, ty się nadajesz!\n<WĄSATY KIEŁKUN>
+      text: Ty tam, ze spodniami w paski.\! Ty\quake[1]onieśmielająca bestio!\quake[0]\!<br>Tak... Ohohoho... Tak, ty się nadajesz!\n<WĄSATY KIEŁKUN>
  
 #HERO sweats.
  
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: H-ha?\! Kurcze... Ech...\!C-cóż dziękuję bardzo! <br>N-nie wiem, co powiedzieć...\her
+      text: H-ha?\! Kurcze... Ech...\!C-cóż, dziękuję bardzo! <br>N-nie wiem, co powiedzieć...\her
  
 #MUSTACHE MOLE walks up to HERO.
  
 message_4:
-      text: Proszę, młodzieńcze. Czy byłbyś skory pomóc biednemu, podrzędnemu kiełkunowi?\! <br>Natychmiast potrzebuję twojej pomocy.\n<WĄSATY KIEŁKUN>
+      text: Proszę, młodzieńcze. Czy byłbyś skory pomóc biednemu niziołkowi?\! <br>Natychmiast potrzebuję twojej pomocy.\n<WĄSATY KIEŁKUN>
  
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Cóż, skoro tak miło zapytałeś... Jak mógłbym odmówić?\her
+      text: Cóż, skoro tak miło poprosiłeś... Jak mógłbym odmówić?\her
  
 #MUSTACHE MOLE jumps.
  
@@ -45,7 +45,7 @@ message_6:
 message_7:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: Czekaj chwilkę! Czy moi przyjaciele mogą iść ze mną??\her
+      text: Czekaj chwilkę! Czy moi przyjaciele mogą iść ze mną?\her
  
 #MUSTACHE MOLE is confused, then surprised.
  
@@ -55,7 +55,7 @@ message_8:
 #MUSTACHE MOLE turns to party.
  
 message_9:
-      text: Jesteście tu by zobaczyć \"POSZUKIWANIE WYBRAŃCA\", prawda?\!<br>Jeśli tak, niedługo spotkacie się ponownie.\n<WĄSATY KIEŁKUN>
+      text: Jesteście tu, by zobaczyć \"SZANSĘ NA SERCE\", prawda?\!<br>Jeśli tak, niedługo spotkacie się ponownie.\n<WĄSATY KIEŁKUN>
  
 #MUSTACHE MOLE turns to HERO.
  
@@ -78,16 +78,16 @@ message_12:
  
 #Trigger: Examine Front Row Seats.
 message_30:
-      text: Witajcie, fani SŁODZIUTKIEJ.<br>Przepraszamy za chwilę przerwy.\! <br>Zapraszamy z powrotem!\smm
+      text: Witajcie, fani SŁODZIUTKIEJ.<br>Przepraszamy za chwilę przerwy.\! <br>Zapraszamy z powrotem!\n<KIEŁKUN MIKOŁAJ>
  
 message_31:
-      text: Z przykrością informujemy, że w trakcie przerwy właśnie tu, na tej scenie, doszło do tragicznego zdarzenia.\smm
+      text: Z przykrością informujemy, że w trakcie przerwy właśnie tu, na tej scenie, doszło do tragicznego zdarzenia.\n<KIEŁKUN MIKOŁAJ>
  
  
 #Curtain opens, revealing a portrait of SNALEY.
  
 message_32:
-      text: Przyszedł czas na to, by powiadomić was o nagłej stracie KANDYDATA \NR 3...\smm
+      text: Przyszedł czas na to, by powiadomić was o nagłej stracie KANDYDATA NR 3...\n<KIEŁKUN MIKOŁAJ>
  
 message_33:
       text: Zawsze będziemy pamiętać o tych kilku sekundach, przez które go znaliśmy.\! Był naprawdę wyjątkowy i niezastąpiony.
@@ -95,133 +95,133 @@ message_33:
 #Curtains close and open, changing the graphic behind to SWEETHEART'S Show Graphic. SPROUT MOLE #1 and #2 are already in their right spots.
  
 message_34:
-      text: \Com[2]\{\sinv[1]ALE PRZEDSTAWIENIE MUSI TRWAĆ!!\smm
+      text: \Com[2]\{\sinv[1]ALE PRZEDSTAWIENIE MUSI TRWAĆ!!\n<KIEŁKUN MIKOŁAJ>
  
 message_35:
-      text: Proszę przywitać oklaskami nowego KANDYDATA \NR 3...\!<br>Przybył tu aż z\c[11]NIEZMIERNEGO LASU\c[0]...\!<br>To nasz HERO, niczym rycerz w lśniącej zbroi!\smm
+      text: Proszę przywitać oklaskami nowego KANDYDATA NR 3...\!<br>Przybył tu aż z \c[11]NIEZMIERNEGO LASU\c[0]...\!<br>To nasz HERO, niczym rycerz w lśniącej zbroi!\n<KIEŁKUN MIKOŁAJ>
  
 message_36:
-      text: Słuchajcie tego, ludziska.\!<br>HERO to niezłe ciacho! Jego wzrost mierzy zadziwiającą liczbę 170 centymetrów!\smm
+      text: Słuchajcie tego, ludziska.\!<br>HERO to niezłe ciacho! Jego wzrost mierzy zadziwiającą liczbę 170 centymetrów!\n<KIEŁKUN MIKOŁAJ>
  
 #Someone whistles.
  
 message_37:
-      text: Lubi piec, gotować i sprzątać...\!<br>I jeśli to nie brzmi jak materiał na męża, to spójrzcie tylko na jego zniewalający uśmiech i łagodny charakter!\smm
+      text: Lubi piec, gotować i sprzątać...\!<br>I jeśli to nie brzmi jak materiał na męża, to spójrzcie tylko na jego zniewalający uśmiech i łagodny charakter!\n<KIEŁKUN MIKOŁAJ>
  
 #Wild applause.
  
 message_38:
-      text: A teraz, po raz kolejny...<br>nadszedł czas, by przedstawić główną gwiazdę tego programu!\smm
+      text: A teraz, po raz kolejny...<br>nadszedł czas, by przedstawić główną gwiazdę tego programu!\n<KIEŁKUN MIKOŁAJ>
  
 message_39:
-      text: \{\Com[2]PROSZĘ ZGASIĆ ŚWIATŁA!!\smm
+      text: \{\Com[2]PROSZĘ ZGASIĆ ŚWIATŁA!!\n<KIEŁKUN MIKOŁAJ>
  
 #The lights dim.
  
 message_40:
-      text: \sinv[1]Emanuje...\|pięknem... \|Wielki ma...\|gest...\|<br>Ona zdecydowanie...\| najpiękniejsza tu jest...\smm
+      text: \sinv[1]Emanuje...\| pięknem... \|Wielki ma...\| gest...\|<br>Ona zdecydowanie...\| najpiękniejsza tu jest...\n<KIEŁKUN MIKOŁAJ>
  
 message_41:
-      text: Tak!\! Dobrze wiecie, o kim mówimy!<br>\! Ona jest wszystkim, co niesamowite i cudowne, i zaraz postawi nogę na tej oto scenie!\smm
+      text: Tak!\! Dobrze wiecie, o kim mówimy!<br>\!Ona jest wszystkim, co niesamowite i cudowne, i zaraz postawi nogę na tej oto scenie!\n<KIEŁKUN MIKOŁAJ>
  
 message_42:
-      text:Jest tą... \!jedyną... \!fenomenalną...\smm
+      text: Jest tą... \!jedyną... \!fenomenalną...\n<KIEŁKUN MIKOŁAJ>
  
 message_43:
-      text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\swh
+      text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\n<SŁODZIUTKA>
  
 #The stage curtain opens revealing SW on a lounge chair.
  
 message_44:
-      text: \Com[2]\sinv[2]\{OHOH\{OHOHOHOHO\{HOHOHOHOHO!!!\swh
+      text: \Com[2]\sinv[2]\{OHOH\{OHOHOHOHO\{HOHOHOHOHO!!!\n<SŁODZIUTKA>
  
 #Fan laugh
  
 message_45:
-      text: \Com[2]\sinv[2]\{\{OH\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO!!!\swh
+      text: \Com[2]\sinv[2]\{\{O\Com[2]HOHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO!!!\n<SŁODZIUTKA>
  
 message_46:
-      text: Znakomite wejście,panienko!!\smm
+      text: Znakomite wejście, panienko!!\n<KIEŁKUN MIKOŁAJ>
  
 #Wild applause.
 #SWEETHEART jumps off from cake.
  
 message_47:
-      text: \sinv[2]\{\{ACHHHHHHHH TAK!!!!\!TOŻ TO JA!!\swh
+      text: \sinv[2]\{\{ACHHHHHHHH TAK!!!!\!TO JA!!\n<SŁODZIUTKA>
  
 message_48:
-      text: Witajcie moi głupi wielbiciele!\swh
+      text: Witajcie moi głupi wielbiciele!\n<SŁODZIUTKA>
  
 message_49:
       text: \sinv[1]Kocham cię, SŁODZIUTKA!<br>Tak, jesteś najlepsza!\n<GŁUPI WIELBICIELE>
  
 message_50:
-      text: \Com[2]\sinv[2]\{\{O\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO~!!!\swh
+      text: \Com[2]\sinv[2]\{\{O\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO~!!!\n<SŁODZIUTKA>
  
 message_51:
-      text: SŁODZIUTKO...\! Przygotowaliśmy dla ciebie trójkę najlepszych kawalerów we wszechświecie..\! Czy dzisiaj nadejdzie ten dzień, w którym jeden z nich skradnie twoje serce?\smm
+      text: SŁODZIUTKO...\! Przygotowaliśmy dla ciebie trójkę najlepszych kawalerów we wszechświecie.\! Czy dziś nadejdzie ten dzień, w którym jeden z nich skradnie twe serce?\n<KIEŁKUN MIKOŁAJ>
  
 #SMM and SWEETHEART turn to face the CONTESTANTs.
  
 message_52:
-      text: Zacznijmy od prostych pytań.\! <br>Jedną z rzeczy, którą SŁODZIUTKA ceni sobie w partnerze, jest jego wszelkie oddanie i posłuszeństwo!\smm
+      text: Zacznijmy od prostych pytań.\! <br>Jedną z rzeczy, którą SŁODZIUTKA ceni sobie w partnerze, jest jego wszelkie oddanie i posłuszeństwo!\n<KIEŁKUN MIKOŁAJ>
  
 message_106:
-      text: Czy ty, KANDYDACIE \NR 1, wyrażasz zgodę...\! by powierzyć swoją wolność panience SŁODZIUTKIEJ na resztę swojego życia?\!<br>KANDYDACIE \NR 1! Jak brzmi twoja odpowiedź?\smm
+      text: Czy ty, KANDYDACIE NR 1, wyrażasz zgodę...\! by powierzyć swoją wolność panience SŁODZIUTKIEJ na resztę swojego życia?<br>KANDYDACIE NR 1! Jak brzmi twoja odpowiedź?\n<KIEŁKUN MIKOŁAJ>
  
 #CONTESTANT #1 is confused.
  
 message_53:
-      text: Ech...\! chyba tak.\!Nie jestem pewien... \!Tak myślę...\n<KANDYDAT \NR 1>
+      text: Eee...\! chyba tak.\! Nie jestem pewien... \!Tak myślę...\n<KANDYDAT NR 1>
  
 #SMM turns to SWEETHEART.
  
 message_54:
-      text: Zgrywasz niedostępnego, rozumiem!\! Co panienka SŁODZIUTKA o tym myśli? \smm
+      text: Zgrywasz niedostępnego, rozumiem!\! Co panienka SŁODZIUTKA o tym myśli? \n<KIEŁKUN MIKOŁAJ>
  
 #SWEETHEART is annoyed.
  
 message_55:
-      text: Mmm... Nie masz nawet metra wzrostu?\! Na delicje, jest zdecydowanie za niski!\! <br>Zabierzcie go...\! \Com[2]do \c[11]LOCHÓW\C[0]!\swh
+      text: Mmm... Nie masz nawet metra wzrostu?\! Na delicje, jest zdecydowanie za niski!\! <br>Zabierzcie go...\! \Com[2]do \c[11]LOCHÓW\C[0]!\n<SŁODZIUTKA>
  
 #CONTESTANT #1 starts sweating.
  
 message_56:
-      text: Chwila... Co panienka powiedziała?\! \c[11]L-LOCHY\c[0]?\n<KANDYDAT \NR 1>
+      text: Chwila... Co panienka powiedziała?\! \c[11]L-LOCHY\c[0]?\n<KANDYDAT NR 1>
  
 #Guards come out and escort CONTESTANT #1 to THE DUNGEON.
  
 message_57:
-      text: \{\sinv[1]POO\{MOOO\{CYYY!!!\sinv[0]\n<KANDYDAT\NR 1>
+      text: \{\sinv[1]POO\{MOOO\{CYYY!!!\sinv[0]\n<KANDYDAT NR 1>
  
 #CONTESTANT #2 is sweating.
 #SMM turns to CONTESTANT #2.
  
 message_58:
-      text: Czas na KANDYDATA \NR 2.\! To samo pytanko\! <br>Nie ma dobrej czy złej odpowiedzi. Po prostu odpowiedz zgodnie z prawdą!\smm
+      text: Czas na KANDYDATA NR 2.\! To samo pytanko.\! <br>Nie ma dobrej czy złej odpowiedzi. Po prostu odpowiedz zgodnie z prawdą!\n<KIEŁKUN MIKOŁAJ>
  
 message_59:
-      text: KANDYDACIE \NR 2...\!<br>Czy powierzyłbyś swoją wolność panience SŁODZIUTKIEJ na resztę twojego życia?\smm
+      text: KANDYDACIE NR 2...\!<br>Czy powierzyłbyś swoją wolność panience SŁODZIUTKIEJ na resztę twojego życia?\n<KIEŁKUN MIKOŁAJ>
  
 #CONTESTANT #2 is sweating.
  
 message_60:
-      text: No więc, ech...\! jasne!<br>Jeśli to oznacza, że nie zostanę wysłany do \c[11]LOCHÓW\C[0]...\n<KANDYDAT \NR 2>
+      text: No więc, eee...\! jasne!<br>Jeśli to oznacza, że nie zostanę wysłany do \c[11]LOCHÓW\C[0]...\n<KANDYDAT NR 2>
  
 #SWEETHEART is annoyed.
  
 message_61:
-      text: O matko! Ten tutaj...\! Jego sama egzystencja mnie obraża\! <br>Zabierzcie go, chłopcy!\swh
+      text: O matko! Ten tutaj...\! Sama jego egzystencja mnie obraża.\! <br>Zabierzcie go, chłopcy!\n<SŁODZIUTKA>
  
 #Guards come out and escort CONTESTANT #2 to THE DUNGEON.
 #HERO starts sweating.
 #SMM turns to HERO.
  
 message_62:
-      text: KANDYDACIE \NR 3! Wygląda na to, że pozostałeś jako jedyny.\!<br>Zadaję to samo pytanie.<br>Powtarzam, odpowiadaj bez nacisku, szczerze.\smm
+      text: KANDYDACIE NR 3! Wygląda na to, że pozostałeś jako jedyny.\!<br>Zadaję to samo pytanie.<br>Powtarzam, odpowiadaj bez nacisku, szczerze.\n<KIEŁKUN MIKOŁAJ>
  
 message_63:
-      text: Czy ty, HERO, wyrażasz zgodę, by powierzyć swoją wolność panience SŁODZIUTKIEJ na resztę twojego życia? ?\smm
+      text: Czy ty, HERO, wyrażasz zgodę, by powierzyć swoją wolność panience SŁODZIUTKIEJ na resztę twojego życia?\n<KIEŁKUN MIKOŁAJ>
  
 message_64:
       faceset: MainCharacters_DreamWorld
@@ -236,10 +236,10 @@ message_65:
 #SWEETHEART is in love.
  
 message_66:
-      text: Na róże i fiołki...\! O, ten.\! Zapiera dech w piersi!\! <br>Czy to możliwe??\! Czy SŁODZIUTKA...\! \sinv[1]została postrzelona strzałą Kupidyna?\swh
+      text: Na róże i fiołki...\! O, ten.\! Zapiera dech w piersi!\! <br>Czy to możliwe??\! Czy SŁODZIUTKA...\! \sinv[1]została postrzelona strzałą Kupidyna?\n<SŁODZIUTKA>
  
 message_67:
-      text: \{\Com[2]COŻ ZA NIEOCZEKIWANY OBRÓT SPRAW\!\}<br>To musi być przeznaczenie! Para idealna!\smm
+      text: \{\Com[2]COŻ ZA NIEOCZEKIWANY OBRÓT SPRAW!\!\}<br>To musi być przeznaczenie! Para idealna!\n<KIEŁKUN MIKOŁAJ>
  
 message_68:
       faceset: MainCharacters_DreamWorld
@@ -247,7 +247,7 @@ message_68:
       text: Czekaj, ale przed chwilą powiedzia-\her
  
 message_69:
-      text: \sinv[1]\{ACH, TAK, TAK! NIE PRZESZKADZA MI TO.\!\}<br>Powtórz proszę swoje imię.\swh
+      text: \sinv[1]\{A, TAK, TAK! NIE PRZESZKADZA MI TO.\!\}<br>Proszę, powtórz swoje imię.\n<SŁODZIUTKA>
  
 message_70:
       faceset: MainCharacters_DreamWorld
@@ -255,10 +255,10 @@ message_70:
       text: H-hę?\! M-moje imię, ech...\! To HERO, panienko...\her
  
 message_71:
-      text: HERO!\! \Com[2]Mój HEROSIE!\! Musimy zawitać do moich komnat w tej chwili!\swh
+      text: HERO!\! \Com[2]Mój HEROSIE!\! Musimy zawitać do moich komnat w tej chwili!\n<SŁODZIUTKA>
  
 message_72:
-      text: Straże! Znalazłam swojego ukochanego.\!<br>\{ZABIERZCIE GO!\swh
+      text: Straże! Znalazłam swojego ukochanego.\!<br>\{ZABIERZCIE GO!\n<SŁODZIUTKA>
  
 #Guards come out and walk toward HERO.
 #HERO takes a step back and sweats.
@@ -299,12 +299,12 @@ message_77:
 message_78:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: HERO!\! Musisz ją odrzucić! !\aub
+      text: HERO!\! Musisz ją odrzucić!\aub
  
 #HERO takes a step back.
  
 message_79:
-      text: \sinv[1]Nadszedł czas, HERO! Twoja księżniczka czeka!\swh
+      text: \sinv[1]Nadszedł czas, HERO! Twoja księżniczka czeka!\n<SŁODZIUTKA>
  
 #ADD Ohohoho
  
@@ -335,10 +335,10 @@ message_83:
 message_84:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Najmocniej przepraszam...\!SŁODZIUTKA...\! panienko?\her
+      text: Najmocniej przepraszam...\! panienko...\! SŁODZIUTKO?\her
  
 message_85:
-      text: \sinv[1]Ach, słucham... Mój kochany HERO!<br>Twój głos jest jak miód na moje uszy!<br>Jeszcze raz powiedz moje imię!\sinv[0]\swh
+      text: \sinv[1]Ach, słucham... Mój kochany HERO!<br>Twój głos jest jak miód na moje uszy!<br>Jeszcze raz powiedz moje imię!\sinv[0]\n<SŁODZIUTKA>
  
 message_86:
       faceset: MainCharacters_DreamWorld
@@ -356,7 +356,7 @@ message_88:
       text: Ekhem...\!<br>Przepraszam, SŁODZIUTKA...\! Ja nie...\! jestem...\! zainteresowany...\her
  
 message_89:
-      text: Na delicje... O czym ty mówisz, mój książę?\swh
+      text: Na delicje... O czym ty mówisz, mój książę?\n<SŁODZIUTKA>
  
 message_90:
       faceset: MainCharacters_DreamWorld
@@ -371,7 +371,7 @@ message_91:
 #Audience gasps.
  
 message_92:
-      text: Oj tam, oj tam! Och, nie mów głupstw, HERO! <br>Nigdy nie słyszałam czegoś głupszego!\swh
+      text: Oj tam, oj tam! Och, nie mów głupstw, HERO! <br>Nigdy nie słyszałam czegoś głupszego!\n<SŁODZIUTKA>
  
 message_93:
       faceset: MainCharacters_DreamWorld
@@ -384,19 +384,19 @@ message_94:
       text: Ja...\! nie...\! chcę...\! cię poślubić.\her
  
 message_95:
-      text: ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... \swh
+      text: ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... \n<SŁODZIUTKA>
  
 message_96:
-      text: To jest...\! To jest niedorzeczne...\! ...\!<br>Nie...\!To jest...\! \Com[2]To jest czyste bluźnierstwo!\swh
+      text: To jest...\! To jest niedorzeczne...\! ...\!<br>Nie...\! To jest...\! \Com[2]To jest czyste bluźnierstwo!\n<SŁODZIUTKA>
  
 message_97:
-      text: \{\Com[2]\QUAKE[1]ŚMIESZ ODRZUCAĆ PANIENKĘ SŁODZIUTKĄ!?!?\swh
+      text: \{\Com[2]\QUAKE[1]ŚMIESZ ODRZUCAĆ SŁODZIUTKĄ!?!?\n<SŁODZIUTKA>
  
 message_98:
-      text: \{\Com[2]KAŻDY KOCHA SŁODZIUTKĄ!!<br>SŁYSZYSZ!? KAŻDY!!\swh
+      text: \{\Com[2]KAŻDY KOCHA SŁODZIUTKĄ!!<br>SŁYSZYSZ!? KAŻDY!!\n<SŁODZIUTKA>
  
 message_99:
-      text: \{WYŚLIJCIE GO DO \c[11]LOCHÓW\C[0]!!\swh
+      text: \{WYŚLIJCIE GO DO \c[11]LOCHÓW\C[0]!!\n<SŁODZIUTKA>
  
  
 #Guards close in on HERO.
@@ -408,19 +408,19 @@ message_100:
       text: Hej! Przestańcie!\!<br>Nie możecie zabrać HERO! On jest nasz!\aub
  
 message_101:
-      text: Cóż znowu?\!<br>Co nie-SŁODZIUTKOWY fan robi na widowni?!?\swh
+      text: Cóż znowu?\!<br>Co nie-SŁODZIUTKOWY fan robi na widowni?!?\n<SŁODZIUTKA>
  
 message_102:
-      text: Ach...\! Rozumiem...\! Musicie być fanami HERO!\swh
+      text: Ach...\! Rozumiem...\! Musicie być fanami HERO!\n<SŁODZIUTKA>
  
 message_103:
-      text: Nie wspomnę nawet o waszym wychowaniu...<br>Najpierw chcecie, żebym wyszła na głupią... a potem rujnujecie mój własny program!?\swh
+      text: Nie wspomnę nawet o waszym wychowaniu...<br>Najpierw chcecie, żebym wyszła na głupią... a potem rujnujecie mój własny program!?\n<SŁODZIUTKA>
  
 message_104:
-      text: Niniejszym skazuję was na dożywocie w lochu!!\swh
+      text: Niniejszym skazuję was na dożywocie w lochu!!\n<SŁODZIUTKA>
  
 message_105:
-      text: \{\Com[2]I POKAZ PRAWDZIWYCH TORTUR ŚREDNIOWIECZNYCH!\swh
+      text: \{\Com[2]I POKAZ PRAWDZIWYCH TORTUR ŚREDNIOWIECZNYCH!\n<SŁODZIUTKA>
  
 #Guards appear from everywhere and pose to arrest.
  
@@ -481,7 +481,7 @@ message_138:
 #MUSTACHE MOLE takes off MUSTACHE.
  
 message_139:
-      text: \{\Com[2]TO JA!\!RÓŻA!!\!\}<br>Największa fanka SŁODZIUTKIEJ w całym wszechświecie!\ros
+      text: \{\Com[2]TO JA!\! RÓŻA!!\!\}<br>Największa fanka SŁODZIUTKIEJ w całym wszechświecie!\ros
  
 message_140:
       text: Ostrzegałam was, że zapłacicie mi za zadzieranie ze mną!\ros
