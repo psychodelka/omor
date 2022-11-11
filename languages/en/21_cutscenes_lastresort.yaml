@@ -332,7 +332,7 @@ message_59:
 message_60:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \sinv[1]\{\{WITAJ, PANIE SZCZĘKOPADZIE!!\kel
+      text: \sinv[1]\{WITAJ, PANIE SZCZĘKOPADZIE!!\kel
  
 message_61:
       text: \}Kurka! KEL, to znowu ty?\! Byłem pewien, że wysłaliśmy cię daleko stąd!\!<br>Nie kazałem ci nie opuszczać swojej budki?\n<PAN SZCZĘKOPAD>
@@ -641,10 +641,10 @@ message_128:
 #PLUTO walks one step forward.
  
 message_129:
-      text: ...\! Wybacz, KEL.\plu
+      text: ...\! Wybacz, KEL.\n<PLUTON>
  
 message_130:
-      text: Nic do ciebie nie mam.\! <br>To po prostu moja fucha.\plu
+      text: Nic do ciebie nie mam.\! <br>To po prostu moja fucha.\n<PLUTON>
  
 message_131:
       text: Zobaczmy, jak sobie poradzicie...<br>\!z mocą byłej planety.\!<br>PLUTON!\! Pokaż tym dzieciakom prawdziwą siłę!\n<PAN SZCZĘKOPAD>
@@ -652,12 +652,12 @@ message_131:
 #PLUTO turns to MR. JAWSUM.
  
 message_132:
-      text: Jasne, szefie.\plu
+      text: Jasne, szefie.\n<PLUTON>
  
 #PLUTO turns to party.
  
 message_133:
-      text: Błagam, wybaczcie mi...\!<br>To wasz koniec.\plu
+      text: Błagam, wybaczcie mi...\!<br>To wasz koniec.\n<PLUTON>
  
 #PLUTO flexes and buffs up.
  
@@ -668,22 +668,22 @@ message_133:
 #Trigger: Defeat Pluto.
  
 message_150:
-      text: Uff... Uff...\! Naprawdę daliście czadu.\! <br>Uff... \! Jestem z was... taki dumny.\plu
+      text: Uff... Uff...\! Naprawdę daliście czadu.\! <br>Uff... \! Jestem z was... taki dumny.\n<PLUTON>
  
 message_151:
-      text: Ale...\! Mimo wszystko... mam zadanie do wykonania.<br>I je wypełnię.\plu
+      text: Ale...\! Mimo wszystko... mam zadanie do wykonania.<br>I je wypełnię.\n<PLUTON>
  
 message_152:
-      text: Słuchajcie, bo drugi raz nie powtórzę...\!<br>\{TO JEST DEFINICJA MOCY!!!\plu
+      text: Słuchajcie, bo drugi raz nie powtórzę...\!<br>\{TO JEST DEFINICJA MOCY!!!\n<PLUTON>
  
 message_173:
-      text: \quake[1]Kiedy...\!\quake[1] cisnę...\!\plu
+      text: \quake[1]Kiedy...\!\quake[1] cisnę...\!\n<PLUTON>
  
 #PLUTO begins charging up.
 #Screen shakes.
  
 message_153:
-      text: \Com[2]\quake[1]\{\{JES\{TEM M\{ISTRZEEEEEEEM!!!\plu
+      text: \Com[2]\quake[1]\{\{JES\{TEM MIST\{RZEEEM!!!\n<PLUTON>
  
 #Screen shakes again.
  
@@ -694,7 +694,7 @@ message_155:
       text: Ech...\! Wyluzuj, PLUTONIE.<br>\!Już dzisiaj straciłem jednego wzorowego pracownika.\!<br>A nie chcę tracić drugiego!\n<PAN SZCZĘKOPAD>
  
 message_156:
-      text: Ale szefie, nie jestem w stanie ich pokonać!<br>Po prostu potrzebuję trochę więcej czasu.\plu
+      text: Ale szefie, nie jestem w stanie ich pokonać!<br>Po prostu potrzebuję trochę więcej czasu.\n<PLUTON>
  
 message_157:
       text: Na spokojnie, PLUTON.<br>Wykonałeś kawał dobrej roboty.\n<PAN SZCZĘKOPAD>
@@ -735,7 +735,7 @@ message_164:
       text: Mimo tego, że porwał pan moich przyjaciół i wrobił nas w podpisanie umów...\! Mam wrażenie, że jest pan całkiem niezłym typkiem.\her
  
 message_165:
-      text: HERO...\! Możesz mi nie wierzyć, ale...\!<br>Zawsze widziałem w tobie syna, którego się nigdy nie miałem.\!<br>Poradzisz sobie, mądry z ciebie chłopak.\n<PAN SZCZĘKOPAD>
+      text: HERO...\! Możesz mi nie wierzyć, ale...\!<br>Zawsze widziałem w tobie syna, którego nigdy nie miałem.\!<br>Poradzisz sobie, mądry z ciebie chłopak.\n<PAN SZCZĘKOPAD>
  
 #MR. JAWSUM takes out the contracts and eats them.
  

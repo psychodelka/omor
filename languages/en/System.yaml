@@ -8,7 +8,7 @@ terms:
         1: "POZ."
         2: "SERC"
         3: "SERC"
-        4: "SOK"
+        4: "SOKU"
         5: "SOK"
         6: "TP"
         7: "TP"
@@ -94,7 +94,7 @@ terms:
         seVolume: "EFEKTY DŹWIĘKOWE"
         substitute: "%1 ochrania %2!"
         surprise: "%1 się tego nie spodziewa!"
-        useItem: "%1 używa przedmiotu.\nWykorzystano %2!"
+        useItem: "%1 używa przedmiotu.\nWykorzystano: %2!"
         victory: "Zwycięża %1!"
 
     param:

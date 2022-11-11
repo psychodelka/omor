@@ -204,7 +204,7 @@ message_46:
       text: \{NIE DOTYKAJ GO!\}\!<br>Puśćcie nas! Nie zrobiliśmy nic złego!\aub
  
 message_47:
-      text: \sinv[1]O, zadziorna!\! Myślę, że ci się spodoba, MARINA!\sinv[1]Fufufu...\sinv[0]\n<MOLLY>
+      text: \sinv[1]O, zadziorna!\! Myślę, że ci się spodoba, MARINA!\sinv[1] Fufufu...\sinv[0]\n<MOLLY>
  
 message_48:
       text: Heh.\! Cóż...\! Zapewne sprzedanie jednego powinno nam wystarczyć.\n<MARINA>

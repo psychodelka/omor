@@ -175,7 +175,7 @@ Sprite_OmoBlackLetterMap.prototype.createOverlaySprites = function() {
       var mapData = [
         {name: 'PAJĘCZE GREMIUM',   namePos: new Point(80, 195), rect: new Rectangle(0, 0, 193, 139), pos: new Point(111, 103),  blackSwitchId: 23, nameSwitchId: 30, blackSwitch50Id: 900 },
         // {name: 'Forgotten Pier',   namePos: new Point(200, 27), rect: new Rectangle(194, 0, 155, 120), pos: new Point(225, 52),  blackSwitchId: 21, nameSwitchId: 29 },
-        {name: 'WIETRZNY ZAGAJNIK',  namePos: new Point(440, 240), rect: new Rectangle(350, 0, 99, 107), pos: new Point(471, 128),  blackSwitchId: 24, nameSwitchId: 31, blackSwitch50Id: 901 },
+        {name: 'WIETRZNY ZAGAJNIK',  namePos: new Point(420, 240), rect: new Rectangle(350, 0, 99, 107), pos: new Point(471, 128),  blackSwitchId: 24, nameSwitchId: 31, blackSwitch50Id: 901 },
         {name: 'WIOSKA KIEŁKUNÓW', namePos: new Point(25, 340), rect: new Rectangle(450, 0, 94, 80), pos: new Point(54, 267),  blackSwitchId: 25, nameSwitchId: 32, blackSwitch50Id: 902 },
         {name: 'NIEZMIERNY LAS',  namePos: new Point(250, 300), rect: new Rectangle(0, 124, 640, 201), pos: new Point(-2, 143),  blackSwitchId: 26, nameSwitchId: 33, blackSwitch50Id: 903 },
         {name: 'GŁĘBOKA STUDNIA',        namePos: new Point(450, 355), rect: new Rectangle(0, 326, 418, 113), pos: new Point(119, 366),  blackSwitchId: 27, nameSwitchId: 34, blackSwitch50Id: 904 },

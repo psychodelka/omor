@@ -1,727 +1,727 @@
 # =========================================================================================
 # FARAWAY TOWN Extra
 # =========================================================================================
-
+ 
 #Interacting with PLAYER house door
-
+ 
 message_0:
-      text: Nobody's home.
-
+      text: Nikogo nie ma w domu.
+ 
 #KEL at door
-
+ 
 message_1:
-      text: \who\Sinv[1]Helllooooo...\! Helllloooooooooooo?\! Is anyone there?
-
+      text: \who\Sinv[1]Haaaaaaaaalo...\! Haaaaaaaalooooo?\! Czy jest tam kto?
+ 
 message_2:
-      text: You hear a raspy voice you don't recognize from the door.
-
+      text: Słyszysz obcy, szorstki głos dochodzący zza drzwi.
+ 
 #After Polly Cont. Cutscene
-
+ 
 message_3:
-      text: BASIL is fiddling with his \c[4]PHOTO ALBUM\c[0].\!<br>His hands are shaking...
-
+      text: BASIL bawi się swoim \c[4]ALBUMEM\c[0].\!<br>Jego dłonie drżą...
+ 
 #Exclamation mark on BASIL
-
+ 
 message_4:
       faceset: MainCharacter_Basil
       faceindex: 17
-      text: \basOh!\! Hello, \n[8]...
-
+      text: \basOch!\! Cześć, \n[8]...
+ 
 #Pizza Karaoke
 #!!!THIS SCENE IS NO LONGER APPLICABLE!!!*
-
+ 
 message_5:
-      text: It's a karaoke machine.\!<br>Who do you want to sing?
-
+      text: To maszyna do karaoke.\!<br>Kto ma zaśpiewać?
+ 
 message_6:
-      text: You pointed at KEL.
-
+      text: Wskazałeś na KELA.
+ 
 message_7:
-      text: You pointed at AUBREY.
-
+      text: Wskazałeś na AUBREY.
+ 
 message_8:
-      text: You pointed at HERO.
+      text: Wskazałeś na HERO.
 #Pick KEL/Aubrey/Hero when applicable
-
+ 
 #Flashback to BASIL and PLAYER burying the key at the stump
 #Shoveling noises
 #!!!THIS SCENE IS NO LONGER APPLICABLE!!!*
-
+ 
 message_9:
-      text: \basHuff...\! huff...\! There...\! it's done.
-
+      text: \basHaah...\! Haah...\! Już...\! po wszystkim.
+ 
 message_10:
-      text: \basNow that we've hidden everything, no one will ever find out...
-
+      text: \bas Teraz, gdy już wszystko schowaliśmy, nikt się nie dowie...
+ 
 message_11:
-      text: \basD-Don't look so scared, \n[8]...\!<br>At least we have each other...\!<br>I'll protect you! You can count on me!
-
+      text: \basN-nie rób takiej przerażonej miny, \n[8]...\!<br>Przynajmniej mamy siebie...\!<br>Ochronię cię! Możesz na mnie liczyć!
+ 
 message_12:
-      text: \basEverything will be okay...\! won't it?
-
+      text: \basWszystko będzie dobrze...\! prawda?
+ 
 #Rai at GINO'S Pizza
-
+ 
 message_13:
-      text: \n<RAI>I'm RAI! I take pride in being a musical connoisseur of sorts.
-
+      text: \n<RAI>Jestem RAI! Czerpię dumę z bycia koneserem muzyki wszelakiej. 
 message_14:
-      text: \n<RAI>If you play a \c[4]CD\c[0] on the \c[4]JUKEBOX\c[0] over there, I bet I can tell you who the artist for the track is!
-
+      text: \n<RAI>Włóż \c[4]PŁYTĘ\c[0] do stojącej tu \c[4]SZAFY GRAJĄCEJ\c[0], a założę się, że będę w stanie zgadnąć, kto jest autorem danej piosenki!
 message_15:
-      text: \n<RAI>I'm RAI! I take pride in being a musical connoisseur of sorts...\! and I also take pride in being a card game connoisseur of sorts!
-
+      text: \n<RAI>Jestem RAI! Czerpię dumę z bycia koneserem muzyki wszelakiej...\! a także z bycia koneserem gier wszelakich!
+ 
 # =========================================================================================
 # FARAWAY TOWN Extra content
 # =========================================================================================
-
+ 
 #CHECKING CLOSET AFTER GETTING SMALL KEY
 #!!!THIS SCENE IS NO LONGER APPLICABLE!!!*
-
+ 
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelWhat are you going in the closet for, \n[8]?\! You can do your chores later.\! Come on, let's make your last day worthwhile!
-
+      text: \kelPo co wchodzisz do szafy, \n[8]?\! Możesz wypełnić swoje obowiązki później.\! No chodź, sprawmy, by twój ostatni dzień tutaj był niezapomniany!
+ 
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelThat's not the way to \c[11]HOBBEEZ\c[0]! Remember, \n[8], it's in the \c[11]TOWN PLAZA\c[0] north of here!
-
+      text: \kelNie tędy idzie się do \c[11]BZZAJAWKI\c[0]! Pamiętasz, \n[8]? Jest w \c[11]GALERII DALEKOSTĄDZKIEJ\c[0] na północ stąd!
+ 
 message_22:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelCome on, \n[8], let's go to \c[11]HOBBEEZ\c[0] first!
-
+      text: \kelNo weź, \n[8], najpierw chodźmy do \c[11]BZZAJAWKI\c[0]!
+ 
 message_23:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelThat's not the way to \c[11]BASIL'S HOUSE\c[0]!\! Remember, \n[8]? It's on the street that's diagonal from ours from the crosswalk.
-
+      text: \kelNie tędy idzie się do \c[11]DOMU BASILA\c[0]!\! Pamiętasz, \n[8]? Mieszka na południowy wschód od skrzyżowania przy naszej ulicy.
+ 
 # =========================================================================================
 # HOME ALONE
 # =========================================================================================
-
+ 
 #If PLAYER chooses not to answer the door for KEL, he will be locked in his house and forced to do a house chore. You can only do one house chore per day.
-
+ 
 # Piano room locked while doing chores
-
+ 
 # WASHING DISHES
-
+ 
 message_30:
-      text: You roll up your sleeves...
-
+      text: Zaciągasz rękawy...
+ 
 message_31:
-      text: What will you wash first?
-
+      text: Co najpierw chcesz umyć?
+ 
 message_32:
-      text: METAL FORK
-
+      text: METALOWY WIDELEC
+ 
 message_33:
-      text: METAL SPOON
-
+      text: METALOWĄ ŁYŻKĘ
+ 
 message_34:
-      text: CHOPSTICKS
-
+      text: PAŁECZKI
+ 
 message_35:
-      text: BAKING PAN
-
+      text: BLASZKĘ
+ 
 message_36:
-      text: FRYING PAN
-
+      text: PATELNIĘ
+ 
 message_37:
-      text: SPATULA
-
+      text: SZPATUŁKĘ
+ 
 message_38:
-      text: TINY BOWL[S]
-
+      text: MAŁĄ MISKĘ[S]
+ 
 message_39:
-      text: VERY BIG BOWL[S]
-
+      text: BARDZO DUŻĄ MISKĘ[S]
+ 
 message_40:
-      text: FANCY BOWL[S]
-
+      text: KOSZTOWNĄ MISKĘ[S]
+ 
 message_41:
-      text: ORNATE PLATE[S]
-
+      text: OZDOBNY TALERZ[S]
+ 
 message_42:
-      text: WINE GLASS[S]
-
+      text: KIELISZEK DO WINA[S]
+ 
 message_43:
-      text: GLASS CUP[S]
-
+      text: SZKLANKĘ[S]
+ 
 message_44:
-      text: \"#1 MOM\" MUG[S]
-
+      text: KUBEK \"MAMA NR 1\"[S]
+ 
 message_45:
-      text: POLKADOT MUG[S]
-
+      text: KUBEK W KROPKI[S]
+ 
 message_46:
-      text: BORING PLATE[S]
-
+      text: ZWYCZAJNY TALERZ[S]
+ 
 message_60:
-      text: You grabbed the \v[806].
-
+      text: Wziąłeś \v[806].
+ 
 message_80:
-      text: ...\! Oops.\! You dropped the \v[806] and it shattered.
-
+      text: ...\! Ups.\! Upuściłeś \v[806], a naczynie roztrzaskało się o podłogę.
+ 
 message_90:
-      text: Maybe MOM won't notice...
-
+      text: Może MAMA nie zauważy...
+ 
 #After the washing animation is finished:
-
+ 
 message_101:
-      text: You finished washing the \v[806].
-
+      text: Skończyłeś zmywać\v[806].
+ 
 message_102:
-      text: What do you want to wash now?
-
+      text: Co chcesz teraz umyć?
+ 
 #Menu will pop up again, with the previously chosen item missing. The menu listings are randomized every time.
-
+ 
 message_91:
-      text: The dishes are squeaky clean.
-
+      text: Naczynia są wyczyszczone na błysk.
+ 
 message_92:
-      text: Dirty dishes.
-
+      text: Brudne naczynia.
+ 
 message_93:
-      text: An empty sink.
-
+      text: Pusty zlew.
+ 
 message_110:
-      text: You finally finished washing the dishes.\!<br>The tips of your fingers look like prunes.
-
+      text: W końcu skończyłeś zmywać naczynia.\!<br>Opuszki twoich palców wyglądają jak rodzynki.
+ 
 message_121:
-      text: Do you want to stop washing dishes?
-
+      text: Przestać zmywać naczynia?
+ 
 message_122:
-      text: Will you wash the dishes?
-
+      text: Pozmywać naczynia?
+ 
 message_123:
-      text: You look at your TO-DO LIST.\!<br>Today your chore is to wash the dishes.
-
+      text: Patrzysz na swoją LISTĘ RZECZY DO ZROBIENIA.\!<br>Zadaniem na dziś jest pozmywanie naczyń.
+ 
 message_124:
-      text: The dishes are all clean.\!<br>You should clean yourself too.\!<br>Maybe it's time for a bath.
-
+      text: Wszystkie naczynia są umyte.\!<br>Też powinieneś się umyć.\!<br>Może czas na kąpiel.
+ 
 #IF YOU EXAMINE DISHES WITH HERO
 message_125:
       faceset: MainCharacter_Basil
       faceindex: 13
-      text: \herLooks like you still have some chores to do before moving away, \n[8].
-
+      text: \herWidocznie masz jeszcze kilka rzeczy do zrobienia przed przeprowadzką, \n[8].
+ 
 message_126:
       faceset: MainCharacter_Basil
       faceindex: 14
-      text: \herDon't worry, I can handle it!\! I never know what to do with myself in the mornings anyway.\! Just think of it as a parting gift!
-
+      text: \herNie martw się, ja się tym zajmę!\! I tak zazwyczaj nie wiem co robić wcześnie rano.\! Pomyśl o tym jak o prezencie pożegnalnym!
+ 
 message_127:
-      text: Wow...
-
+      text: Łał...
+ 
 #  Sweeping
-
+ 
 message_130:
-      text: You equipped \c[13]MOM'S BROOM\c[0].\!<br>The dirtiness of the floor is now more apparent.
-
+      text: Wziąłeś \c[13]MIOTŁĘ MAMY\c[0].\!<br>Kurz na podłodze stał się jeszcze bardziej widoczny.
+ 
 message_131:
-      text: Do you want to stop sweeping?
-
+      text: Przestać zamiatać?
+ 
 message_132:
-      text: You put \c[13]MOM'S BROOM\c[0] down.\!<br>You are no longer focused on the dirtiness of the floor.
-
+      text: Odłożyłeś \c[13]MIOTŁĘ MAMY\c[0] na bok.\!<br>Kurz na podłodze nie jest już zauważalny.
+ 
 message_133:
-      text: The floors are finally clean.
-
+      text: Nareszcie podłoga jest czysta.
+ 
 message_134:
-      text: You look at your TO-DO LIST.\!<br>Today your chore is to sweep the house.
-
+      text: Patrzysz na swoją LISTĘ RZECZY DO ZROBIENIA.\!<br>Zadaniem na dziś jest zamiatanie podłóg.
+ 
 message_135:
-      text: Do you want to start now?
-
+      text: Czy chcesz teraz zacząć?
+ 
 message_137:
-      text: ...\! You feel a little dizzy.
-
+      text: ...\! Nie czujesz się zbyt dobrze.
+ 
 message_138:
       text: ...\| ...\| ...
-
+ 
 #  Sorting Items
-
+ 
 message_140:
-      text: CAPT. SPACEBOY ACTION FIGURE[TOY]
-
+      text: FIGURKA KAPITANA KOSMIKA[TOY]
+ 
 message_141:
-      text: BUILDING BLOCKS[TOY]
-
+      text: KLOCKI[TOY]
+ 
 message_142:
-      text: BAG OF MARBLES[TOY]
-
+      text: WOREK ZE SZKLANYMI KULKAMI[TOY]
+ 
 message_143:
-      text: YO-YO[TOY]
-
+      text: JO-JO[TOY]
+ 
 message_144:
-      text: DRY MODELING CLAY[TOY]
-
+      text: MODELINA[TOY]
+ 
 message_145:
-      text: SLINKY[TOY]
-
+      text: SPRĘŻYNKA[TOY]
+ 
 message_146:
-      text: SPROUT MOLE PLUSH[TOY]
-
+      text: PLUSZOWY KIEŁKUN[TOY]
+ 
 message_147:
-      text: SWEETHEART DOLL[TOY]
-
+      text: LALKA SŁODZIUTKA[TOY]
+ 
 message_148:
-      text: TOY CAR REMOTE[TOY]
-
+      text: PILOT DO ZABAWKOWEGO AUTA[TOY]
+ 
 message_149:
-      text: TOY CAR[TOY]
-
+      text: ZABAWKOWE AUTO[TOY]
+ 
 message_150:
-      text: BROKEN KITE[TOY]
-
+      text: ZNISZCZONY LATAWIEC[TOY]
+ 
 message_151:
-      text: PLASTIC CASH REGISTER[TOY]
-
+      text: PLASTIKOWA KASA[TOY]
+ 
 message_152:
-      text: RAINBOW XYLOPHONE[TOY]
-
+      text: TĘCZOWE CYMBAŁKI[TOY]
+ 
 message_153:
-      text: MINI TOY PIANO[TOY]
-
+      text: ZABAWKOWE PIANINKO[TOY]
+ 
 message_154:
-      text: METAL JACKS AND BALLS[TOY]
-
+      text: METALOWE KOŚCI I KULKI[TOY]
+ 
 message_155:
-      text: SMALL PINWHEEL[TOY]
+      text: MAŁY WIATRAK[TOY]
 #delete the entry below
 message_156:
-      text: \"THE ADVENTURES OF CAPT. SPACEBOY\" COMIC[BOOK]
-
+      text: KOMIKS \"PRZYGODY KAPITANA KOSMIKA\"[BOOK]
+ 
 message_157:
-      text: \"HUNGRY HUMPHREY\" BOOK[BOOK]
+      text: KSIĄŻKA \"GŁODNY GIGANTOS\"[BOOK]
 #delete the entry below
 message_158:
-      text: \"REVENGE OF SWEETHEART\" COMIC[BOOK]
+      text: KOMIKS \"ZEMSTA SŁODZIUTKIEJ\"[BOOK]
 #delete the entry below
 message_159:
-      text: \"DIGGING DINOS\" COLORING BOOK[BOOK]
-
+      text: KOLOROWANKA \"WYKOPY DINO\"[BOOK]
+ 
 message_160:
-      text: \"A GUIDE TO OUR SOLAR SYSTEM\" BOOK[BOOK]
-
+      text: KSIĄŻKA \"PRZEWODNIK PO UKŁADZIE SŁONECZNYM\"[BOOK]
+ 
 message_161:
-      text: \"DUETS FOR PIANO AND VIOLIN\" BOOK[BOOK]
-
+      text: KSIĄŻKA \"DUETY NA PIANINO I SKRZYPCE\"[BOOK]
+ 
 message_162:
-      text: \"THE FOOD PYRAMID\" BOOK[BOOK]
+      text: KSIĄŻKA \"PIRAMIDA ŻYWIENIOWA\"[BOOK]
 #delete the entry below
 message_163:
-      text: \"WEEPING WILLOW\" BOOK[BOOK]
-
+      text: KSIĄŻKA \"WIERZBINA PŁACZĄCA\"[BOOK]
+ 
 message_164:
-      text: \"ORANGE JOE'S SCRATCH-AND-SNIFF\" BOOK[BOOK]
-
+      text: KSIĄŻKA \"DRAP-I-NIUCH POMARAŃCZOWEGO JASIA\"[BOOK]
+ 
 message_165:
-      text: \"PET ROCKS\" STRATEGY GUIDE[BOOK]
+      text: PORADNIK STRATEGICZNY \"GŁAZIKI\"[BOOK]
 #delete the entry below
 message_166:
-      text: \"THE BIG YELLOW CAT\" BOOK[BOOK]
-
+      text: KSIĄŻKA \"WIELKI ŻÓŁTY KOT\"[BOOK]
+ 
 message_167:
-      text: \"THE KID AND HIS KITE\" BOOK[BOOK]
+      text: KSIĄŻKA \"DZIECIAK I JEGO LATAWIEC\"[BOOK]
 #delete the entry below
 message_168:
-      text: \"THE PLAYGROUND IN THE FOREST\" BOOK[BOOK]
+      text: KSIĄŻKA \"PLAC ZABAW W ŚRODKU LASU\"[BOOK]
 #delete the entry below
 message_169:
-      text: \"THE LONELY SCARECROW\" BOOK[BOOK]
-
+  	text: KSIĄŻKA \"SAMOTNY STRACH NA WRÓBLE\"[BOOK]
+ 
 message_170:
-      text: \"THE BENEFITS OF TOFU\" BOOK[BOOK]
-
+      text: KSIĄŻKA \"KORZYŚCI TOFU\"[BOOK]
+ 
 message_171:
-      text: AN OLD CAN OF ORANGE JOE[TRASH]
-
+      text: STARA PUSZKA POMARAŃCZOWEGO JASIA[TRASH]
+ 
 message_172:
-      text: A SINGLE PUZZLE PIECE[TRASH]
-
+      text: PUZZEL[TRASH]
+ 
 message_173:
-      text: AN OLD SMELLY SOCK[TRASH]
-
+      text: STARA ŚMIERDZĄCA SKARPETA[TRASH]
+ 
 message_174:
-      text: A PEN CAP[TRASH]
-
+      text: SKUWKA OD DŁUGOPISU[TRASH]
+ 
 message_175:
-      text: A TANGLED BUNCH OF WIRES[TRASH]
-
+      text: POPLĄTANE KABLE[TRASH]
+ 
 message_180:
-      text: This box is for TOYS.
-
+      text: Pudło na ZABAWKI.
+ 
 message_181:
-      text: This box is for BOOKS.
-
+      text: Pudło na KSIĄŻKI.
+ 
 message_182:
-      text: This box is for TRASH.
-
+      text: Pudło na ŚMIECI.
+ 
 message_183:
-      text: Did you want to put your old \v[810] in here?
-
+      text: Czy \v[810] ma tu trafić?
+ 
 message_184:
-      text: Did you want to put \v[810] in here?
-
+      text: Czy \v[810] ma tutaj trafić?
+ 
 message_186:
-      text: ...and picked up your old \v[810].
-
+      text: ...w twoich rękach \v[810] nie pierwszej młodości.
+ 
 message_187:
-      text: You put the \v[810] down before leaving.
-
+      text: \v[810] jest na miejscu.
+ 
 message_188:
-      text: You put \v[810] down before leaving.
-
+      text: \v[810] jest na miejscu.
+ 
 message_191:
-      text: Do you want to continue sorting?
-
+      text: Kontynuować sortowanie?
+ 
 message_192:
-      text: Do you want to stop sorting?
-
+      text: Przestać sortować?
+ 
 message_200:
-      text: You reached into the large cardboard box...
-
+      text: Sięgnąłeś do dużego kartonu...
+ 
 message_201:
-      text: ...and picked up \v[810].
-
+      text: ...w twoich rękach \v[810].
+ 
 message_202:
-      text: Did you want to throw your old \v[810] away?
-
+      text: Czy na pewno nie przyda ci się \v[810]?
+ 
 message_203:
-      text: Did you want to throw \v[810] away?
-
+      text: Czy na pewno nie przyda ci się \v[810]?
+ 
 message_204:
-      text: You sorted through your old belongings perfectly.\! <br>MOM will be pleased.
-
+      text: Idealnie posortowałeś swoje stare rzeczy.\! <br>MAMA będzie zadowolona.
+ 
 message_205:
-      text: You sorted through your old belongings adequately.\!<br>There are still a few things out of place, but that should be good enough for now.
-
+      text: Właściwie posortowałeś swoje stare rzeczy.\!<br>Kilka z nich jest w złym miejscu, ale to nic.
+ 
 message_206:
-      text: You sorted through your old belongings.\! You could've done better, but it doesn't really matter too much.
-
+      text: Posortowałeś swoje rzeczy.\! Mogło być lepiej, ale kogo to obchodzi.
+ 
 message_207:
-      text: You sorted through your old belongings, but somehow it's worse than before...\! MOM might scold you for this later...
-
+      text: Posortowałeś swoje stare rzeczy, ale jest gorzej, niż było wcześniej...\! Później MAMA zrobi ci kazanie ...
+ 
 message_136:
-      text: You are already holding \v[810].
-
+      text: To \v[810].
+ 
 message_185:
-      text: You look at your TO-DO LIST.\!<br>Today your chore is to organize your old belongings.
-
+      text: Patrzysz na swoją LISTĘ RZECZY DO ZROBIENIA.\!<br>Zadaniem na dziś jest sortowanie starych rzeczy.
+ 
 message_190:
-      text: There is nothing left in the large cardboard box.
+      text: W dużym kartonie nic nie zostało.
 #EXAMINE MARI'S GRAVE WITH FLOWERS
-
+ 
 message_208:
-      text: Do you want to leave \c[4]FLOWERS\c[0] in front of MARI's grave?
-
+      text: Czy chcesz zostawić \c[4]KWIATY\c[0] na grobie MARI?
+ 
 #YES/NO
-
+ 
 message_209:
-      text: You left MARI some \c[4]FLOWERS\c[0].
-
+      text: Położyłeś \c[4]KWIATY\c[0] na grobie MARI.
+ 
 #IF YES, CEMETARY (WITH MARI'S THEME) STARTS PLAYING (Forever)
-
+ 
 message_210:
-      text: You can't go out right now. REPLACE WITH HEAD SHAKING
-
+      text: Nie możesz teraz wyjść. REPLACE WITH HEAD SHAKING
+ 
 message_211:
-      text: You feel like throwing up...
-
-
+      text: Chce ci się wymiotować...
+ 
+ 
 message_236:
-      text: A get-well gift from KIM AND VANCE'S DAD.
-
+      text: Prezent od TATY KIM I VANCE’A.
+ 
 message_237:
-      text: \"Sending you some good wishes.\"\!<br>\"Just like a big ol' rubber ball, you'll bounce back!\"
-
+      text: \"Życzymy ci szybkiego powrotu do zdrowia.\"\!<br>\"Tak jak wielka gumowa piłka, odbijesz się od dna!\"
+ 
 message_221:
-      text: A get-well gift from KIM AND VANCE'S MOM.
-
+      text: Prezent od MAMY KIM I VANCE’A.
+ 
 message_252:
-      text: \"Get well soon, \n[8].\"\!<br>\"Please get to know KIM and VANCE better.\"\!<br>\"They can use a good role model like you!\"
-
+      text: \"Wracaj szybko do zdrowia, \n[8].\"\!<br>\"Proszę, zaprzyjaźnij się bardziej z KIM i VANCE’M.\"\!<br>\"Mogliby się od ciebie wiele nauczyć!\"
+ 
 message_222:
-      text: Flowers from BRENT'S FAMILY.
-
+      text: Kwiaty od RODZINY BRENTA.
+ 
 message_238:
-      text: \"Hey, \n[8]... Hope you are feeling stronger everyday.\"\!<br>\"You were a big help to BRENT over the summer.\"\!<br>\"He has been doing excellent in school.\"
-
+      text: \"Hej, \n[8]... Mamy nadzieję, że każdego dnia czujesz się lepiej.\"\!<br>\"Przez te wakacje bardzo pomogłeś BRENTOWI.\"\!<br>\"Dzięki tobie ma teraz świetne stopnie.\"
+ 
 message_223:
-      text: Flowers from JOY'S FAMILY.
-
+      text: Kwiaty od RODZINY JOY.
+ 
 message_239:
-      text: \"Hello, \n[8]. Please get well soon.\"\!<br>\"Thank you for tutoring JOY over the summer.\"\!<br>\"She is doing very well in all of her classes.\"
-
+      text: \"Cześć, \n[8]. Liczymy na to, że szybko wyzdrowiejesz.\"\!<br>\"Dziękujemy ci za nauczanie JOY przez wakacje.\"\!<br>\"Dobrze sobie teraz radzi w szkole.\"
+ 
 message_224:
-      text: Flowers from CRIS'S FAMILY.
-
+      text: Kwiaty od RODZINY CRIS.
+ 
 message_240:
-      text: \"Hope you're taking it easy, \n[8].\"\!<br>\"Hospital life ain't that bad.\"\!<br>\"It's just the universe telling you watch more TV!\"
-
+      text: \"Odpoczywaj, \n[8].\"\!<br>\"Pobyt w szpitalu nie jest taki zły.\"\!<br>\"Po prostu wszyscy wkoło namawiają cię na oglądanie telewizji!\"
+ 
 message_225:
-      text: Flowers from BEBE'S FAMILY.
-
+      text: Kwiaty od RODZINY BEBE.
+ 
 message_241:
-      text: \"\n[8], thanks for buying me that \c[4]FLOOR LAMP\c[0]!\"\!<br>\"I never did see my son BILLY again.\"\!<br>\"I hope he's doing alright...\"
-
+      text: \"\n[8], dziękuję za kupienie mi tej \c[4]LAMPY\c[0]!\"\!<br>\"Od tamtego czasu nie widziałam mojego syna, BILLY’EGO.\"\!<br>\"Mam nadzieję, że wszystko u niego dobrze...\"
+ 
 message_226:
-      text: Flowers from SEAN and KAREN.
-
+      text: Kwiaty od SZYMONA i KARINY.
+ 
 message_242:
-      text: \"Wishing you well, \n[8].\"\!<br>\"We're all finished moving into our new home, so please come visit sometime!\"
-
+      text: \"Życzymy ci wszystkiego dobrego, \n[8].\"\!<br>\"Zakończyliśmy przeprowadzkę do naszego nowego domu, wpadaj kiedy tylko zechcesz!\"
+ 
 message_227:
-      text: A get-well gift from ARTIST.
-
+      text: Prezent od ARTYSTKI.
+ 
 message_243:
-      text: \"Hi, \n[8]. Hope you're taking it slow and easy.\"\!<br>\"Get well soon and come visit.\"\!<br>\"I need to ask you for some more opinions...\"
-
+      text: \"Hejka, \n[8]. Mam nadzieję, że dużo odpoczywasz.\"\!<br>\"Zdrowiej szybko i wpadnij.\"\!<br>\"Potrzebuję więcej twoich rad...\"
+ 
 message_228:
-      text: Flowers from SARAH'S FAMILY.
-
+      text: Kwiaty od RODZINY SARY.
+ 
 message_244:
-      text: \"Hey, \n[8]. Thanks for saving my marriage.\"\!<br>\"I'm sure you'll be back on your feet in no time!\"
-
+      text: \"Hej, \n[8]. Dzięki za uratowanie mojego małżeństwa.\"\!<br>\"Jestem pewien, że niedługo staniesz na nogi jak nowonarodzony!\"
+ 
 message_229:
-      text: Flowers from CHARLENE'S FAMILY.
-
+      text: Kwiaty od RODZINY CHARLENE.
+ 
 message_245:
-      text: \"Dear, \n[8]...\! Thank you for your help during the summer.\"\!<br>\"Warmest wishes for a speedy recovery!\"
-
+      text: \"Drogi przyjacielu...\! Dziękujemy za pomoc podczas lata.\"\!<br>\"Najcieplejsze życzenia powrotu do zdrowia!\"
+ 
 message_230:
-      text: Flowers from JESSE and JESSE'S DAD.
-
+      text: Kwiaty od JESSEGO i TATY JESSEGO.
+ 
 message_246:
-      text: \"Hope you're taking care of yourself, \n[8].\"\!<br>\"JESSE's been talking to me a lot lately.\"\!<br>\"You must have picked out a great birthday gift!\"
-
+      text: \"Mamy nadzieję, że o siebie dbasz, \n[8].\"\!<br>\"JESSE ostatnio mi dużo o tobie opowiadał.\"\!<br>\"Musiałeś wybrać perfekcyjny prezent urodzinowy!\"
+ 
 message_231:
-      text: Flowers from SHOPKEEP.
-
+      text: Kwiaty od KASJERA.
+ 
 message_247:
-      text: \"Yo, \n[8]...\"\!<br>\"Just sending healthy vibes your way.\"\!<br>\"You're always welcome at HOBBEEZ!\"
-
+      text: \"Joł, \n[8]...\"\!<br>\"Wysyłam ci pozytywną energię.\"\!<br>\"Jesteś mile widziany w BZZAJAWCE!\"
+ 
 message_232:
-      text: Some get-well gifts from DAPHNE and BOWEN.
-
+      text: Jakieś prezenciki, w tym bułki od DAPHNE i BOWENA.
+ 
 message_248:
-      text: \"Partake in this bread and regain strength.\"\!<br>\"Then, play with us again...\"
-
+      text: \"Zasmakuj chleba, niech siła cię rozpiera.\"\!<br>\"A potem wróć do zabawy z nami...\"
+ 
 message_233:
-      text: Flowers from KEL and HERO'S FAMILY... and AUBREY.
-
+      text: Kwiaty od RODZINY KELA i HERO... i AUBREY.
+ 
 message_249:
-      text: \"Sending a little get-well sunshine your way.\"\!<br>\"We miss you, \n[8].\"
-
+      text: \"Ślemy ci mały promyczek zdrowia.\"\!<br>\"Tęsknimy za tobą, \n[8].\"
+ 
 message_234:
-      text: Flowers from MINCY.
-
+      text: Kwiaty od MINCY.
+ 
 message_250:
-      text: \"Thank you for motivating me to keep sketching.\"\!<br>\"Hope you feel better soon.\"\!<br>\"Thinking of you always!\"
-
+      text: \"Dziękuje za motywowanie mnie do rysowania.\"\!<br>\"Mam nadzieję, że niedługo będziesz czuł się lepiej.\"\!<br>\"Będę o tobie myśleć!\"
+ 
 message_235:
-      text: A get-well gift from VANCE, KIM, CHARLIE, ANGEL...<br>and THE MAVERICK.
-
+      text: Prezent od VANCE’A, KIM, CHARLIE, ANGELA...<br>i MAVERICKA.
+ 
 message_251:
-      text: \"Get well soom, \n[8]!\"\!<br>\"We'll be wating for a rematch!\"
-
+      text: \"Szybko wracaj do zdrowia, \n[8]!\"\!<br>\"Będziemy czekać z niecierpliwością na rewanż!\"
+ 
 message_253:
-      text: A very, very comfortable bed...\!<br>But now is not the time to sleep.
-
+      text: Bardzo, bardzo wygodne łóżko...\!<br>Ale nie czas na sen.
+ 
 message_254:
-      text: An old TV.\! You can hear a low buzzing through the speakers.
-
+      text: Stary telewizor.\! Słyszysz niskie buczenie dochodzące z głośników.
+ 
 message_255:
-      text: An empty bed.
+      text: Puste łóżko.
 # =========================================================================================
 # FARAWAY TOWN Extra
 # =========================================================================================
-
+ 
 #Interacting with KEL house door (night)
-
+ 
 message_220:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelIt's getting kind of late to visit my fam, but we can hang out more tomorrow if you want!<br>\!Come on, \n[8]... I'll walk you home!
-
+      text: \kelJest trochę za późno, by odwiedzić moją rodzinkę, ale jeśli chcesz, możemy zrobić to jutro!<br>\!Chodźmy, \n[8]... Odprowadzę cię!
+ 
 # =========================================================================================
 # Neutral Route Sleep Prompt
 # =========================================================================================
 message_404:
-      text: Tomorrow, you will be moving away.\!<br>What would you like to do?
+      text: Jutro się wyprowadzasz.\!<br>Co chcesz zrobić?
 message_405:
-      text: RETURN TO WHITE SPACE
+      text: WRÓCIĆ DO BIAŁEJ PRZESTRZENI
 message_406:
-      text: SLEEP UNTIL MORNING
+      text: POSPAĆ DO RANA
 message_407:
-      text: NOTHING
+      text: NIC
 # =========================================================================================
 # Naming Player
 # =========================================================================================
-
+ 
 message_400:
-      text: You see a boy sleeping in his room.\! What's his name?
+      text: Widzisz chłopca śpiącego w swoim pokoju.\! Jak brzmi jego imię?
 message_401:
-      text: You have no new messages.
+      text: Żadnych nowych wiadomości.
 message_402:
-      text: A very comfortable bed.\! Would you like to go to sleep?
+      text: Bardzo wygodne łóżko.\! Chcesz iść spać?
 message_403:
-      text: \n<VOICEMAIL>You have 1 new message.
-
+      text: \n<POCZTA GŁOSOWA>Masz jedną nową wiadomość.
+ 
 message_410:
-      text: The boy's name is \v[1]?
-
+      text: Jego imię to \v[1]?
+ 
 message_500:
-      text: Ah yes, a lovely well-done steak.\! Would you like to eat some?
-
+      text: O tak, pyszny, dobrze wysmażony stek.\! Chciałbyś trochę zjeść?
+ 
 message_501:
-      text: Oof...\! Your stomach didn't agree with that...
-
+      text: Uff...\! Twojemu żołądkowi się to nie spodobało...
+ 
 message_502:
-      text: You need to equip your \c[13]STEAK KNIFE\c[0].
-
+      text: Potrzebujesz wziąć swój \c[13]NÓŻ DO STEKÓW\c[0].
+ 
 message_503:
-      text: You feel like throwing up...
-
+      text: Czujesz, że zaraz zwymiotujesz...
+ 
 message_504:
-      text: \marHey, \n[8]! It's MARI!\!<br>I'm finally back home, but I forgot my keys...\!<br>Could you open the door for me?
-
+      text: \marHej, \n[8]! To ja, MARI!\!<br>Już jestem, ale zapomniałam kluczy do domu...\!<br>Mógłbyś je dla mnie otworzyć?
+ 
 message_505:
-      text: \mar\n[8]...\! Are you there?\! I'm...\! I'm cold...
+      text: \mar\n[8]...\! Jesteś tam?\! Jest...\! Jest mi zimno...
 #yes/no choice
-
+ 
 message_506:
-      text: You need a \c[13]STEAK KNIFE\c[0].
-
+      text: Potrzebujesz \c[13]NOŻA DO MIĘSA\c[0].
+ 
 message_600:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelHold on, \n[8]!\! You can't go back home yet when there's still so much to do!
-
+      text: \kelCzekaj, \n[8]!\! Nie możesz jeszcze wrócić do domu, jest jeszcze tyle rzeczy do roboty!
+ 
 message_601:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelLiven up! It's a brand new day!
-
+      text: \kelRozchmurz się! Wstał nowy, piękny dzień!
+ 
 #CEMETARY
-
+ 
 message_610:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelMARI...\! It feels like so long ago already. \!I still think about her all the time.\! I'm sure you do, too.
-
+      text: \kelMARI...\! Wydaje się, jakby to było strasznie dawno temu. \!Ciągle o niej myślę.\! Jestem pewny, że ty też.
+ 
 message_612:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelYou know...\! When MARI passed away...\! HERO...\! HERO really stopped caring about everything.<br><br>He didn't want to get out of bed for school or even eat.\! He stopped taking care of himself, stopped baking and cooking...
-
+      text: \kelWiesz...\! Kiedy MARI odeszła...\! HERO...\! HERO przestało cokolwiek obchodzić.<br><br>Nie chciał wychodzić z łóżka do szkoły, nawet po jedzenie.\! Przestał o siebie dbać, przestał piec i gotować...
+ 
 message_613:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelIt was like that for almost a year.
-
+      text: \kelByło tak przez prawie rok.
+ 
 message_614:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: \kelMom and Dad didn't know what to do either.\! We all tried to help him and be supportive, but...\! nothing was really working.
-
+      text: \kelMama i tata też nie wiedzieli, co zrobić.\! Staraliśmy się go wspierać, pomóc mu, ale...\! nic nie działało.
+ 
 message_615:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelOne night...\! I went over to him while he was all huddled in his blankets and started saying stuff.
-
+      text: \kelJednej nocy...\! Usiadłem obok niego, siedział pod kołdrą, zacząłem do niego mówić.
+ 
 message_616:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelStuff like how we all miss him and how we want him to get better...\! How everyone is really worried...\! How MARI wouldn't want to see him like this...
-
+      text: \kelMówić, jak to bardzo za nim tęsknimy i jak bardzo chcemy, by lepiej się poczuł...\! Jak wszyscy bardzo się martwimy...\! Jak MARI nie chciałaby go widzieć w takim stanie...
+ 
 message_617:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelI thought I was helping him, but...
-
+      text: \kelChciałem mu pomóc, ale...
+ 
 message_618:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: \kelBut HERO...\! HERO got angry.
-
+      text: \kelAle HERO...\! HERO się wkurzył.
+ 
 message_619:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelHe suddenly got up and started screaming and yelling at me about a bunch of stuff.\! Some of it was pretty hurtful, too...\! but I think I blocked out a lot of it.
-
+      text: \kelNagle wstał i zaczął krzyczeć do mnie różne rzeczy.\! Niektóre trochę mnie zabolały...\! ale myślę, że z większością sobie poradziłem.
+ 
 message_621:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelHis eyes were already super red...\! but the more he yelled at me, the harder he cried.
-
+      text: \kelMiał całe czerwone oczy...\! im więcej krzyczał, tym mocniej płakał.
+ 
 message_622:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelI tried my best to calm him down...\! but whatever I said just made him worse.
-
+      text: \kelPróbowałem go uspokoić...\! ale nieważne, co powiedziałem, było gorzej.
+ 
 message_623:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelI'd never seen HERO do anything close to that before.\! It really took me by surprise.\! And I was so scared that...\! Well...\! I started crying too.
-
+      text: \kelNigdy nie widziałem HERO w takim stanie.\! Bardzo mnie to przestraszyło.\!Bałem się go tak bardzo, że...\! no...\! Sam zacząłem płakać.
+ 
 message_624:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelEventually, Mom and Dad ran to our room and rushed over to hug him and calm him down...
-
+      text: \kelNiedługo po tym mama i tata pobiegli do naszego pokoju i najszybciej, jak mogli, przytulili i zaczęli go uspokajać...
+ 
 message_632:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: \kelBut they...\! completely ignored me...\! Heh, heh...
-
+      text: \kelAle...\! kompletnie mnie zignorowali...\! Ha, ha...
+ 
 message_625:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelI think that's where HERO got his senses back because he ran to me and hugged me right away.\! Just kept apologizing over and over...
-
+      text: \kelMyślę, że wtedy HERO się ogarnął, bo podbiegł do mnie i od razu mnie przytulił.\! Przepraszał mnie i przepraszał...
+ 
 message_626:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelBut...\! at least HERO got a lot better after that.\! He started taking care of himself again...\! and focusing on school a lot more...\! and joining a bunch of extracurricular stuff.
-
+      text: \kelAle...\! przynajmniej HERO poczuł się po tej sytuacji lepiej.\! Znowu zaczął o siebie dbać...\! i bardziej skupił się na nauce...\! do tego zaczął chodzić na zajęcia dodatkowe.
+ 
 message_627:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelHe's naturally good at everything but he still works really hard, so I'm proud of him!
-
+      text: \kelJest naturalnie dobry we wszystkim, ale nadal ciężko pracuję, więc jestem z niego dumny!
+ 
 message_628:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelI guess he's a little more closed off now than he used to be, but...\! I'm really just glad to have my brother back.
-
+      text: \kelWydaje mi się, że jest trochę bardziej zamknięty w sobie, niż wcześniej, ale...\! Po prostu cieszę się, że mam mojego brata z powrotem.
+ 
 message_629:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelAnyways, sorry for the long story.\! I don't think I've ever told anyone that before.
-
+      text: \kelSorki za taką długą historię.\! Chyba nigdy wcześniej nikomu o tym nie mówiłem.
+ 
 message_631:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: \kelIt's not his fault, but...\! I still think HERO blames himself for MARI's death.
-
+      text: \kelTo nie jest jego wina, ale...\! Myślę, że HERO nadal obwinia się za śmierć MARI.
+ 
 message_611:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelHERO's never visited here...\! Not even once.\! I know it really hurts, but maybe it might be good for him.\! I don't know...
-
+      text: \kelHERO nigdy tu nie przyszedł...\! Ani razu.\! Wiem, że go to boli, ale może dobrze by mu to zrobiło.\! Sam nie wiem...
+ 
 message_620:
       faceset: MainCharacters_Faraway
       faceindex: 40
-      text: \herSorry...\! I don't know if I'm ready for this yet.
-
+      text: \herWybacz...\! Nie wiem, czy jestem na to gotowy.
+ 
 #RECYCULTIST HQ
-
+ 
 message_630:
-      text: You cannot leave due to a mysterious force.
-
+      text: Nie możesz wyjść przez nieznany ci powód.
+ 
 message_640:
-      text: You took a short nap.\!<br>You should get started on chores soon.
+      text: Wziąłeś krótką drzemkę.\!<br>Powinieneś niedługo wypełnić swoje obowiązki.
+ 
+

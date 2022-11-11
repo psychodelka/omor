@@ -1886,11 +1886,11 @@ message_445:
 # ============SŁODZIUTKA
 message_451:
    text: >
-    \sinv[1]\{O, HERO!\{ MÓJ HEROSIE!!\}
+    \sinv[1]O, HERO!\{ MÓJ HEROSIE!!\}
 
 message_452:
    text: >
-    \sinv[1]\{TWÓJ UŚMIECH URZEKA ME SERCE!\}
+    \sinv[1]\{TWÓJ UŚMIECH<br>URZEKA ME SERCE!\}
 
 message_453:
    text: >

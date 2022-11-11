@@ -70,7 +70,7 @@ message_12:
 #LADAO
 #Location: Forest Playground
 message_13:
-      text: \ladZamierzam rozhuśtać się, aż do samego Księżyca!
+      text: \ladZamierzam rozhuśtać się aż do samego Księżyca!
  
 #NEB
 #Location: Forest Playground
@@ -362,7 +362,7 @@ message_104:
 #BANGS (Bed Tester)
 #Location: Last Resort - Hotel Room
 message_110:
-      text: \n<GRZYWCIO>Szef próbował znaleźć mi robotę... ale kiedy zdał sobie sprawę, że nie potrafię nic zrobić, zlecił mi stanowisko testera łóżek...  \!<br>Mmm... \!Ano... \!To łóżeczko jest naprawdę wygodne...
+      text: \n<GRZYWCIO>Szef próbował znaleźć mi robotę... ale kiedy zdał sobie sprawę, że nie potrafię nic zrobić, zlecił mi stanowisko testera łóżek...<br>Mmm... \!Ano... \!To łóżeczko jest naprawdę wygodne...
  
 #BERLY (ALI GATOR)
 #Location: Last Resort - Jawsum HQ Entrance
@@ -373,7 +373,7 @@ message_112:
       faceindex: 19
       text: \kel\sinv[1]Ooooooo, rany...\sinv[0] serio? \!<br>\Com[2]Daj spokój, BERLY! Przecież znamy się od zawsze! \!<br>Nie mogłabyś nam zrobić tyci, maciupeńkiej przysługi?
 message_113:
-      text: \berGrr, do licha...\! Wybacz, KEL! Takie są rozkazy szefa... \! Dzisiaj jest ważny dzień, więc nie chciałby żadnych...\! komplikacji. \!<br>Mamy do przygotowania zbiórkę \c[3]TOFU\c[0] na dzisiejszy wieczór!
+      text: \berGrr, do licha...\! Wybacz, KEL! Takie są rozkazy szefa...\! Dzisiaj jest ważny dzień, więc nie chciałby żadnych...\! komplikacji. \!<br>Mamy przygotować zbiórkę \c[3]TOFU\c[0] na dzisiejszy wieczór!
 message_114:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
@@ -397,7 +397,7 @@ message_120:
       faceindex: 33
       text: \kel\com[2]Błagam, BERLY! \!\SINV[2]Proszę, proszę, proszę, proszę, proszę!\sinv[0]
 message_121:
-      text: \berOj...\! Niech będzie... \!Tym razem pozwolę wam przejść. \!<br>Jednak pod warunkiem, że najpierw skołujecie mi \c[3]WODĘ BUTELKOWANĄ\c[0]!\!<br>Umieram z pragnienia!
+      text: \berOj...\! Niech będzie... \!Tym razem pozwolę wam przejść. \!<br>Jednak pod warunkiem, że najpierw skołujecie mi \c[3]WODĘ BUTELKOWANĄ\c[0]!<br>Umieram z pragnienia!
 #[Watch Alarm SFX]
 message_122:
       text: \berHej! Masz dla mnie \c[3]WODĘ BUTELKOWANĄ\c[0]?\! Dziękówa! Jestem ci dłużna!\! Chodźcie, chłopcy! Słyszałam, że mają pizzę w pokoju socjalnym!

@@ -39,7 +39,7 @@ message_11:
       text: \n<AUTOSTOPOWICZ>Cześć, dzieci. \SINV[1]Uhuhuhu...\SINV[0]\! Czy chcecie poznać ciekawostkę?\!<br>Znam miejsce... o którym pewnie już słyszeliście.
  
 message_12:
-      text: \n<AUTOSTOPOWICZ>To miejsce ma dużo nazw...\!<br>\c[11]MROCZNA PUSTKA\c[0]...\! \c[11]GŁĘBINY\c[0]...\!\c[11]CIENISTA OTCHŁAŃ\c[0]...
+      text: \n<AUTOSTOPOWICZ>To miejsce ma dużo nazw...\!<br>\c[11]MROCZNA PUSTKA\c[0]...\! \c[11]GŁĘBINY\c[0]... \!\c[11]CIENISTA OTCHŁAŃ\c[0]...
  
 message_13:
       text: \n<AUTOSTOPOWICZ>Tutaj, w \c[11]GŁĘBOKIEJ STUDNI\c[0], nazywamy je \c[11]PRZEPAŚCIĄ\c[0].

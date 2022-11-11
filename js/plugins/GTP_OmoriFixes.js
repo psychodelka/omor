@@ -2601,11 +2601,11 @@ Gamefall.OmoriFixes = Gamefall.OmoriFixes || {};
 		`)	
 	}
 
-	$.parseNoEffectEmotion = function(tname, em) {
+	/* $.parseNoEffectEmotion = function(tname, em) {
 		if(em.toLowerCase().contains("afraid")) {
-		  return target.name() + " cannot be more AFRAID!\r\n";
+		  return target.name() + " nie może się bardziej BAĆ!\r\n";
 		}
-		let finalString = `${tname} can't get ${em}`;
+		let finalString = `${tname} nie może ${em}`;
 		if(finalString.length >= 40) {
 		  let voinIndex = 0;
 		  for(let i = 40; i >= 0; i--) {
@@ -2621,8 +2621,8 @@ Gamefall.OmoriFixes = Gamefall.OmoriFixes || {};
 
 
 		$.parseNoStateChange = function(tname,stat,hl) {
-			let noStateChangeText = `${tname}'s ${stat} can't go`
-			let second = `any ${hl}`; // TARGET NAME - STAT - HIGHER/LOWER
+			let noStateChangeText = `${stat} ${target._altName()} nie może`
+			let second = `${hl}`; // TARGET NAME - STAT - HIGHER/LOWER
 			let complete = `${noStateChangeText} ${second}`;
 			if(complete.length < 40) {
 				BattleManager.addText(complete, 16)
@@ -2631,7 +2631,7 @@ Gamefall.OmoriFixes = Gamefall.OmoriFixes || {};
 				BattleManager.addText(noStateChangeText, 1)
 				BattleManager.addText(second, 16)
 			}
-		}
+		} */
 
 	//###############################################################################
 	//

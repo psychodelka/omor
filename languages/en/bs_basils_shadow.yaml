@@ -308,7 +308,7 @@ message_52:
  
 message_53:
    text: >
-    \>NIEZNAJOMY: \<\fn<OMORI_GAME>\n[8]...\! Cały ten czas próbowałem jakoś do ciebie dotrzeć...\! Dlaczego nie odpowiedziałeś?
+    \>NIEZNAJOMY: \<\fn<OMORI_GAME>\n[8]...\! Cały ten czas próbowałem jakoś do ciebie dotrzeć...\!<br><\fn<OMORI_GAME>Dlaczego nie odpowiedziałeś?
  
 message_54:
    text: >
@@ -316,7 +316,7 @@ message_54:
  
 message_55:
    text: >
-    \>NIEZNAJOMY: \<\fn<OMORI_GAME>Jeśli nie możemy stawić temu czoła razem...\! przynajmniej pozwól mi z tobą być.
+    \>NIEZNAJOMY: \<\fn<OMORI_GAME>Jeśli nie możemy stawić temu czoła razem...\! przynajmniej pozwól mi <br><\fn<OMORI_GAME>z tobą być.
  
 message_56:
    text: >

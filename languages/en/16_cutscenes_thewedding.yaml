@@ -142,7 +142,7 @@ message_29:
       text: \quake[1]\{\{\Com[2]NIE ZGADZAM SIĘ!!\quake[0]\who
  
 message_30:
-      text: \Com[2]\{ZATRZYMAJCIE TEN ŚLUB, NATYCHMIAST!!\who
+      text: \Com[2]\{ZATRZYMAJCIE TEN ŚLUB,<br>NATYCHMIAST!!\who
  
 #Camera pans to party.
 #AUBREY is at the end of the aisle.
@@ -280,10 +280,10 @@ message_55:
       text: Ach...\! Tak...\! Już wszystko rozumiem.\n<SŁODZIUTKA>
  
 message_56:
-      text: Przyznam...\! Myliłam się wobec ciebie, HERO.\!<br> Myślałam, że jesteś godnym kompanem...\! ale...\! wygląda na to, że zazdrościsz mi, tak jak wszyscy inni!\n<SŁODZIUTKA>
+      text: Przyznam...\! Myliłam się wobec ciebie, HERO.\!<br>Myślałam, że jesteś godnym kompanem...\! ale...\! wygląda na to, że zazdrościsz mi, tak jak wszyscy inni!\n<SŁODZIUTKA>
  
 message_57:
-      text: \Com[2]Tak!\! To musi być to!\! Mój oszałamiający wygląd...\! Mój uwodzicielski uśmiech... \! Moja towarzyska osobowość...\! Moja obecność musi sprawiać ci niemały trud!\n<SŁODZIUTKA>
+      text: \Com[2]Tak!\! To musi być to!\! Mój oszałamiający wygląd...\! Mój uwodzicielski uśmiech...\! Moja towarzyska osobowość...\! Moja obecność musi sprawiać ci niemały trud!\n<SŁODZIUTKA>
  
 message_58:
       text: W każdym razie...\! Nie musicie już rozpaczać.\!<br>Zakończę wasze cierpienia... \!osobiście.\!\n<SŁODZIUTKA>
@@ -399,7 +399,7 @@ message_94:
       text: \sinv[1]O, SŁODZIUTKO...\!<br>Zostaw ten zakurzony zamek...<br>i oblećmy cały wszechświat!\n<KOSMOMĄŻ>
  
 message_96:
-      text: \sinv[1]Tak! Tak, mój mężu!<br>\! Za tobą pójdę, jak na bal!\n<SŁODZIUTKA>
+      text: \sinv[1]Tak! Tak, mój mężu!<br>\!Za tobą pójdę jak na bal!\n<SŁODZIUTKA>
  
 message_97:
       text: Chodźmy już, moja SŁODZIUTKA!<br>Już wystarczająco długo byliśmy rozdzieleni.\n<KOSMOMĄŻ>
