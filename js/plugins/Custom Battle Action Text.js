@@ -60,9 +60,9 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
     }
     let finalString;
     if (target._doesUseAlternateForms2()) {
-      finalString = `${tname} nie potrafią stać się ${em}`; // TOvDO: plural
+      finalString = `${tname} nie mogą ${em}`; // TOvDO: plural
     } else {
-      finalString = `${tname} nie potrafi stać się ${em}`;
+      finalString = `${tname} nie może się ${em}`;
     }
     if (finalString.length >= 40) {
       let voinIndex = 0;
@@ -467,7 +467,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       if (!user._noEffectMessage) {
         text += steppedEmotionStateText('happy', user)
       }
-      else { if (target._doesUseAlternateForms()) {
+      else { if (user._doesUseAlternateForms()) {
         text += parseNoEffectEmotion(user.name(), 'bardziej SZCZĘŚLIWA!', user); // TOvDO: female
       } else {
         text += parseNoEffectEmotion(user.name(), 'bardziej SZCZĘŚLIWY!', user) } }
@@ -1321,7 +1321,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
     case 'SSS SLITHER': //STRAWBERRY SHORT SNAKE SLITHER
       text = user.name() + ' szczęśliwie pełza!\r\n';
       if (!user._noEffectMessage) { text += user.name() + ' czuje SZCZĘŚCIE!'; }
-      else { if (target._doesUseAlternateForms()) {
+      else { if (user._doesUseAlternateForms()) {
         text += parseNoEffectEmotion(user.name(), 'bardziej SZCZĘŚLIWA!', user); // TOvDO: female
       } else {
         text += parseNoEffectEmotion(user.name(), 'bardziej SZCZĘŚLIWY!', user) } }
@@ -1508,7 +1508,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       text = user.name() + ' szczęśliwie skacze dokoła.\r\n';
       text += 'Jest przesłodki!\r\n';
       if (!user._noEffectMessage) { text += user.name() + ' czuje SZCZĘŚCIE!'; }
-      else { if (target._doesUseAlternateForms()) {
+      else { if (user._doesUseAlternateForms()) {
         text += parseNoEffectEmotion(user.name(), 'bardziej SZCZĘŚLIWA!', user); // TOvDO: female
       } else {
         text += parseNoEffectEmotion(user.name(), 'bardziej SZCZĘŚLIWY!', user) } }
@@ -2146,7 +2146,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       break;
 
     case 'LILI CRY': //LILI CRY
-      text = 'Łzy napływają do oczu ' + user.name() + '.\r\n';
+      text = user.name() + ' zalewa się łzami.\r\n';
       text += target.name() + " czuje SMUTEK."
       break;
 
@@ -2385,7 +2385,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       if (!user._noEffectMessage) {
         text += user.name() + ' czuje SZCZĘŚCIE!';
       }
-      else { if (target._doesUseAlternateForms()) {
+      else { if (user._doesUseAlternateForms()) {
         text += parseNoEffectEmotion(user.name(), 'bardziej SZCZĘŚLIWA!', user); // TOvDO: female
       } else {
         text += parseNoEffectEmotion(user.name(), 'bardziej SZCZĘŚLIWY!', user) } }

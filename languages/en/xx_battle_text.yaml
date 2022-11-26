@@ -1433,7 +1433,7 @@ message_278:
 # Before Swallow (Generic 2)
 message_279:
    text: >
-    \>GIGANTOS: \<\sinv[1]Niewiedza jest cnotą, lecz racz czasem zważać.\| Jak długo musimy to jeszcze powtarzać?
+    \>GIGANTOS: \<\sinv[1]Niewiedza jest cnotą, lecz racz czasem zważać.\| Jak długo musimy to jeszcze powtarzać? 
 
 #Before GIGANTOS Abort
 message_323:
@@ -2030,7 +2030,7 @@ message_520:
 
 message_521:
    text: >
-    \v[1001] skręca w lewo...
+    Pozostałe rundy: \v[1001]...
 
 message_522:
    text: >
@@ -2134,7 +2134,7 @@ message_603:
 # Turn 1 of charging
 message_604:
    text: >
-    \>PLUTON: \<I am glad to have met each of you...\! and watch you all grow.
+    \>PLUTON: \<Znajomość z wami była dla mnie zaszczytem...\! jak również widok, jak rośniecie w siłę.
 
 # Turn 2 of charging
 message_605:

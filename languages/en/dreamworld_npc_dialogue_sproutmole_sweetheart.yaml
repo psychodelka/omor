@@ -1,679 +1,679 @@
 # =========================================================================================
 # Dreamworld NPC dialogue
 # =========================================================================================
-
+ 
 # ==============Sproutmole Village / Sweetheart's Castle====================================
-
-
+ 
+ 
                         #====NIGHT 2====
-
+ 
 #BANDITO MOLE
 #Location: Sprout Mole village
-
+ 
 message_0:
-      text: \who\}Fidget, fidget, fidget...\! Hush, hush, hush...
-
+      text: \who\}Wierciu, wierciu, wierciu...\! Ćśś, ćśś, ćśś...
+ 
 #Beautiful Mole
 #Location: Sproutmole Village
 message_1:
-      text: \n<BEAUTIFUL MOLE>Look at me...\!<br>I am truly the most beautiful SPROUT MOLE, am I not?
-
+      text: \n<PIĘKNY KIEŁKUN>Spójrzcie na mnie...\!<br>Bez wątpienia jestem najpiękniejszym KIEŁKUNEM, czyż nie?
+ 
 #BOX Mole
 #Location: Sproutmole Village
-
+ 
 message_221:
-      text: \n<BOX MOLE>Christmas is my favorite time of the year, so why not just celebrate Christmas all the time?
-
-
+      text: \n<KWADRAKIEŁKUN>Święta to mój ulubiony czas w roku, dlaczego każdego dnia nie obchodzimy Gwiazdki?
+ 
+ 
 message_2:
-      text: \n<BOX MOLE>Christmas is ruined...
-
+      text: \n<KWADRAKIEŁKUN>Święta zniszczone...
+ 
 #BUTLER Mole
 #Location: Check Dream world -dungeon dialogue
-
+ 
 #CHEF Mole
 #Location: Sprout Mole Village
 #(TOFU TRIVIA copy)
 message_3:
-      text: \n<CHEF MOLE>Ah yes, welcome!\! You must be here to learn about the best culinary feat since sliced bread...\! \Com[2]\c[3]TOFU\c[0]!
-
+      text: \n<SZEF KIEŁKUCHNI>Ach tak, witam!\! Musieliście tu przybyć, aby na własne oczy ujrzeć to wybitne dzieło kulinarne od czasów krojonego chleba...\! \Com[2]\c[3]TOFU\c[0]!
+ 
 message_4:
-      text: \n<CHEF MOLE>C'est magnifique!\!<br>Here's your \c[3]TOFU\c[0] trivia for the day.
-
+      text: \n<SZEF KIEŁKUCHNI>C'est magnifique!\!<br>Oto ciekawostka o \c[3]TOFU\c[0] na dziś.
+ 
 message_5:
-      text: \n<CHEF MOLE>\Com[2]How dare you defy the majesty of \c[3]TOFU\c[0]!?\!<br>Get out.\! You disgust me!
-
+      text: \n<SZEF KIEŁKUCHNI>\Com[2]Jak śmiesz sprzeciwiać się majestatowi \c[3]TOFU\c[0]!?\!<br>Wynocha.\! Budzisz we mnie odrazę!
+ 
 message_6:
-      text: \n<CHEF MOLE>It takes twelve-thousand, six-hundred and seventy-two blocks of \c[3]TOFU\c[0] lined up end-to-end lengthwise to equal one mile!
-
+      text: \n<SZEF KIEŁKUCHNI>Potrzeba siedmiu tysięcy osiemset siedemdziesięciu czterech kostek \c[3]TOFU\c[0] ustawionych wzdłuż linii, aby ich długość wynosiła dokładnie jeden kilometr!
+ 
 message_7:
-      text: \n<CHEF MOLE>There are four kinds of \c[3]TOFU\c[0]...\!<br>firm, extra firm, soft and silken!
-
+      text: \n<SZEF KIEŁKUCHNI>Istnieją cztery rodzaje \c[3]TOFU\c[0]...\!<br>twarde, ekstra twarde, miękkie i puszyste!
+ 
 message_8:
-      text: \n<CHEF MOLE>Firm \c[3]TOFU\c[0] can be stir-fried, baked, cubed, and just about anything else.\! This is because it can retain its shape and still absorb flavor!
-
+      text: \n<SZEF KIEŁKUCHNI>Twarde \c[3]TOFU\c[0] można usmażyć, ugotować, pokroić w kostkę oraz przygotować na każdy możliwy sposób.\! Jest to możliwe dzięki konsystencji, która potrafi wchłonąć smak i nadal zachować swój kształt!
+ 
 message_9:
-      text: \n<CHEF MOLE>Soft \c[3]TOFU\c[0] is best prepared raw or drained.\! It's best for desserts, smoothies, dips and sauces!
-
+      text: \n<SZEF KIEŁKUCHNI>Miękkie \c[3]TOFU\c[0] najlepiej przygotować na surowo lub odsączyć.\! Nadaje się wyśmienicie do deserów, koktajli, dipów i sosów!
+ 
 message_10:
-      text: \n<CHEF MOLE>Silken \c[3]TOFU\c[0] is creamy and can be used for baking, dressings, sauces, smoothies and desserts!
-
+      text: \n<SZEF KIEŁKUCHNI>Puszyste \c[3]TOFU\c[0] ma kremową konsystencję i można je użyć do wypieków, sosów, koktajli oraz deserów!
+ 
 message_11:
-      text: \n<CHEF MOLE>Smoked \c[3]TOFU\c[0] is a great alternative for meat!
-
+      text: \n<SZEF KIEŁKUCHNI>Wędzone \c[3]TOFU\c[0] jest świetnym zamiennikiem dla mięsa!
+ 
 message_12:
-      text: \n<CHEF MOLE>Since \c[3]TOFU\c[0] is high in soy content, it is not good for you if you have kidney stones!
-
+      text: \n<SZEF KIEŁKUCHNI>Ponieważ \c[3]TOFU\c[0] ma wysoką zawartość soi, odradza się spożywanie go w przypadku posiadania kamieni nerkowych!
+ 
 message_13:
-      text: \n<CHEF MOLE>The best way to add flavor to \c[3]TOFU\c[0] is to glaze it until golden, then add a marinade.\! It will absorb all the flavors until the sauce becomes syrup that sticks to the pan!
-
+      text: \n<SZEF KIEŁKUCHNI>Najlepszym sposobem na wzbogacenie smaku \c[3]TOFU\c[0] jest glazurowanie go, aż do uzyskania złocistego koloru, a następnie dodanie marynaty.\! Gdy już wchłonie wszystkie smaki, sos stanie się syropem, który będzie lepił się do patelni!
+ 
 message_14:
-      text: \n<CHEF MOLE>If you wish to know more about the amazing and majestic \c[3]TOFU\c[0], feel free to talk to me again.\! Ho-ho!
-
+      text: \n<SZEF KIEŁKUCHNI>Jeśli pragniesz zgłębić więcej wiedzy o cudownym i znamienitym \c[3]TOFU\c[0], nie krępuj się porozmawiać ze mną ponownie.\! Cho-cho!
+ 
 #DOUBLE MOLE
 #Location: Sprout Mole Village
 message_20:
-      text: \n<DOUBLE MOLE>We are two!\! We are one!\! We are twon?
-
+      text: \n<PODWÓJNY KIEŁKUN>Jesteśmy dwoma!\! Jesteśmy jednym!\! Jesteśmy jednoma?
+ 
 #DUNCE MOLE
 #Location: Sprout Mole Village
 message_21:
-      text: \n<DUNCE MOLE>This wall is nice and cold!
-
+      text: \n<MATOŁ KIEŁKUN>Ta ściana jest milusia i zimna!
+ 
 #ELDER MOLE
 #Location: Sprout Mole Village
 message_22:
-      text: \n<MAYOR MOLE>I am working on revolutionary technology that will change all life in the colony...\! nay...\! the world!
-
+      text: \n<BURMISTRZ KIEŁKUN>Pracuję nad przełomową technologią, która zmieni życia wszystkich w kolonii...\! mało tego...\! na całym świecie!
+ 
 #ELDER MOLE JR.
 #Location: Sprout Mole Village
 message_23:
-      text: \n<MAYOR MOLE JR>It's so hard to get a good night's sleep lately!\! If only I had something to make the experience of sleeping more comfortable...
-
+      text: \n<SYN BURMISTRZA>Ostatnio miewam problemy z wysypianiem się!\! Gdybym tylko miał coś, co pomogłoby mi komfortowo zasnąć...
+ 
 #Fall mole: Location Sprout Mole village Note: Check Season mole yaml
 #Family Mole 1: Check Delivery for brother yaml
-
+ 
 #Family Mole 2
 #Location: Sprout Mole Village
 message_24:
-      text: \n<FAMILY MOLE>I hate Mondays.
-
+      text: \n<RODZINNY KIEŁKUN>Nienawidzę poniedziałków.
+ 
 #FAMILY MOLE 3
 #Location: Sprout Mole Village
 message_25:
-      text: \n<FAMILY MOLE>We SPROUT MOLES do not dare leave the colony ever since the great move.\! It was a hard time...
-
+      text: \n<RODZINNY KIEŁKUN>My, KIEŁKUNY, nie mamy odwagi opuścić kolonii od czasów wielkiej przeprowadzki.\! To były ciężkie czasy...
+ 
 message_26:
-      text: \n<FAMILY MOLE>Many of us didn't make it...\! SPROUT MOLES were getting lost left and right...\! Children were separated from their families!\! Oh, the horror!
-
+      text: \n<RODZINNY KIEŁKUN>Wielu z nas poległo...\! KIEŁKUNY ginęły na lewo i prawo...\! Dzieci zostały oddzielone od swoich rodzin!\! Och, co za koszmar!
+ 
 message_27:
-      text: \n<FAMILY MOLE>I mean, at least it's all okay now...\! for the most part.
-
+      text: \n<RODZINNY KIEŁKUN>Przynajmniej teraz wszystko wróciło do normy...\! w większości.
+ 
 #FLAMINGO MOLE
 #Location: Sprout Mole Village
-
+ 
 message_30:
-      text: \n<FAMILY MOLE>SPROUT MOLES, while intelligent, are also very obsessive creatures.\! As you can see, I lack any semblance of self-control.
-
+      text: \n<RODZINNY KIEŁKUN>KIEŁKUNY, choć są inteligentnymi stworzeniami, mają tendencję do przejawiania obłąkanej natury.\! Jak widzisz, brak mi jakichkolwiek oznak samokontroli.
+ 
 #GUARD MOLE
 #Location: Sweetheart's Castle
 #Check DREAM WORLD - DUNGEON DIALOGUE.
-
+ 
 #MAID MOLE
 #Location: Sweetheart's Castle
 #Check DREAM WORLD - DUNGEON DIALOGUE.
-
+ 
 #OFFICER MOLE
 #Location: Sprout Mole Village
 message_32:
-      text: \n<OFFICER MOLE>It's our duty as officers to lock them do-badders in here to keep the peace!
-
+      text: \n<POLICJANT KIEŁKUN>Naszym obowiązkiem jako funkcjonariuszy jest skuwanie tutejszych nicponiów, aby utrzymać porządek!
+ 
 #ROSA
 #Location: N/A
-
+ 
 #SPORT MOLE
 #Location: Sprout Mole Village
 message_33:
-      text: \n<SPORT MOLE>Huff...\! huff huff...
-
+      text: \n<SPORTOWIEC KIEŁKUN>Ufff...\! Ufff ufff...
+ 
 #SPRING MOLE
 #Location: Sprout Mole Village -Seasonal Gifts Quest
 #Check DREAM WORLD QUEST DIALOGUE.
-
+ 
 #SPROUT MOLE MIKE
 #Location: Sweetheart's Castle
 #[Main Story]
-
+ 
 #STUDENT MOLE 1
 #Location: Sprout Mole Village
 message_40:
-      text: \n<STUDENT MOLE>Hey, look at this cool thing I drew!
-
+      text: \n<UCZEŃ KIEŁKUN>Hej, spójrz na tę fajną rzecz, którą narysowałem!
+ 
 #STUDENT MOLE 2
 #Location: Sprout Mole Village
 message_41:
-      text: \n<STUDENT MOLE>D-Do you think we'll all still be friends after we graduate?
-
+      text: \n<UCZEŃ KIEŁKUN>M-myślisz, że po ukończeniu szkoły nadal będziemy przyjaciółmi?
+ 
 #STUDENT MOLE 3
 #Location: Sprout Mole Village
 message_42:
-      text: \n<STUDENT MOLE>Despite all my \QUAKE[1]rage\QUAKE[0], I am still just a mole in a cage.
-
+      text: \n<UCZEŃ KIEŁKUN>Mogłaś moją być \QUAKE[1]kiełkunową narzeczoną\QUAKE[0].
+ 
 #SUE CHEF MOLE 1 & SUE CHEF MOLE 2
 #Location: Sprout Mole Village
 message_43:
-      text: \n<SOUS CHEF MOLE>How dare you speak such blasphemy!\! It is only common knowledge that \c[3]TOFU\c[0] is better when served hot!
-
+      text: \n<ZASTĘPCA SZEFA KUCHNI>Jak śmiesz wypowiadać takie bluźnierstwo!\! To oczywiste, że \c[3]TOFU\c[0] smakuje lepiej, gdy jest podawane na ciepło!
+ 
 message_44:
-      text: \n<SOUS CHEF MOLE>Are you mad?\! Any SPROUT MOLE with decent sense knows that \c[3]TOFU\c[0] is better when served cold!
-
+      text: \n<ZASTĘPCA SZEFA KUCHNI>Czyś ty oszalał?\! Każdy KIEŁKUN o zdrowych zmysłach wie, że \c[3]TOFU\c[0] smakuje dużo lepiej na zimno!
+ 
 message_45:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text:  \herHey, there's no need to fight.\! Why don't you two come to a compromise?
-
+      text:  \herHej, nie ma sensu się spierać.\! Czemu nie dojdziecie do kompromisu?
+ 
 message_46:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herWho knows?\! Maybe you're both right!\! Or maybe you can cook \c[3]TOFU\c[0] in a way that hasn't been done yet...\! Somewhere between hot and cold, like...
-
+      text: \herKto wie?\! Może oboje macie rację!\! A może będziecie w stanie przyrządzić \c[3]TOFU\c[0] w sposób, jakiego jeszcze nie było...\! Coś pomiędzy ciepłym a zimnym, jak...
+ 
 message_47:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herI don't know...\! L-Lukewarm?
-
+      text: \herNo nie wiem...\! Na l-letnio?
+ 
 message_48:
-      text: \n<SOUS CHEF MOLE>...
-
+      text: \n<ZASTĘPCA SZEFA KUCHNI>...
+ 
 message_49:
-      text: \n<SOUS CHEF MOLE>\sinv[1]Eeeeewwwwwwwwwwwwww...
-
+      text: \n<ZASTĘPCA SZEFA KUCHNI>\sinv[1]Fuuuuuuuuuuuuuujjjj...
+ 
 message_50:
-      text: \n<SOUS CHEF MOLE>Lukewarm \c[3]TOFU\c[0]?\! That's the worst idea I've ever heard.\!<br>Even cold \c[3]TOFU\c[0] is better than that...
-
+      text: \n<ZASTĘPCA SZEFA KUCHNI>Letnie \c[3]TOFU\c[0]?\! To najgorszy pomysł, jaki kiedykolwiek słyszałem.\!<br>Nawet zimne \c[3]TOFU\c[0] jest lepsze od tego...
+ 
 message_51:
-      text: \n<SOUS CHEF MOLE>Lukewarm \c[3]TOFU\c[0]?\! I want to throw up.\!<br>Even hot \c[3]TOFU\c[0] is better than that...
-
+      text: \n<ZASTĘPCA SZEFA KUCHNI>Letnie \c[3]TOFU\c[0]?\! Zaraz puszczę pawia.\!<br>Nawet ciepłe \c[3]TOFU\c[0] jest lepsze od tego...
+ 
 #SUE CHEF MOLE 3
 #Location: Sprout Mole Village
 message_60:
-      text: \n<SOUS CHEF MOLE>I have no idea what I'm doing!
-
+      text: \n<ZASTĘPCA SZEFA KUCHNI>Nie mam bladego pojęcia, co wyprawiam!
+ 
 #SUMMER MOLE
 #Location: Sprout Mole Village -Seasonal Gifts Quest
 #Check DREAM WORLD QUEST DIALOGUE.
-
+ 
 #SWEETHEART
 #Location: N/A
-
+ 
 #TEACHER MOLE
 #Location: Sprout Mole Village
 message_61:
-      text: \n<TEACHER MOLE>I have no idea what I'm doing!
-
+      text: \n<KIEŁKUŃSKI NAUCZYCIEL>Nie mam zielonego pojęcia, co wyprawiam!
+ 
 #TOFU JASH
 #Location: Sprout Mole Village - Tofu Shop (Jash Quest)
 #Check SHOP DIALOGUE GUIDE
-
+ 
 #WALL MOLE
 #Location: Sprout Mole Village
-
+ 
 message_62:
-      text: This SPROUT MOLE is super-glued to the wall.
-
+      text: Ten KIEŁKUN jest przyklejony na kropelkę do ściany.
+ 
 #WINTER MOLE
 #Location: Sprout Mole Village -Seasonal Gifts Quest
 #Check DREAM WORLD QUEST DIALOGUE.
-
-
+ 
+ 
                         #====NIGHT 3====
-
-
+ 
+ 
 #BANDITO MOLE
 #Location: Sprout Mole Village - B.E.D Trade Quest 1
 #Refer to SIDEQUEST: B.E.D.
-
+ 
 #BEAUTIFUL MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #BOX MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #BUTLER MOLE
 #Location: Sweethearts Castle
 message_80:
-      text: \n<BUTLER MOLE>Sigh...\! Now with SWEETHEART gone, my life has no meaning...
-
+      text: \n<LOKAJ KIEŁKUN>Ech...\! Teraz, gdy SŁODZIUTKA odeszła, moje życie nie ma sensu...
+ 
 #CHEF MOLE
 #Location: Sprout Mole Village - B.E.D. Trade Quest 3
 #Same as NIGHT 2.
-
+ 
 #DOUBLE MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #DUNCE MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #ELDER MOLE
 #Location: Sprout Mole Village- B.E.D. Trade Quest 2
 #Refer to SIDEQUEST: B.E.D.
-
+ 
 #ELDER MOLE JR.
 #Location: Sprout Mole Village- B.E.D. Trade Quest 5
 #Refer to SIDEQUEST: B.E.D.
-
+ 
 #FALL MOLE
 #Location: Sprout Mole Village- Seasonal Gifts Quest
 #Same as NIGHT 2.
-
+ 
 #FAMILY MOLE 1
 #Location: Sprout mole Village- Delivery for Brother Quest
 #Same as NIGHT 2.
-
+ 
 #FAMILY MOLE 2
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #FAMILY MOLE 3
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #FLAMINGO MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #GUARD MOLE
 #Location: Sweetheart's Castle
 message_81:
-      text: \n<GUARD MOLE>With SWEETHEART gone, my life has no meaning.
-
+      text: \n<OCHRONIARZ KIEŁKUN>Odkąd SŁODZIUTKA odeszła, moje życie nie ma sensu.
+ 
 #MAID MOLE
 #Location: Sweetheart's Castle
 message_82:
-      text: \n<MAID MOLE>With SWEETHEART gone, my life has no meaning.
-
+      text: \n<SŁUŻĄCA KIEŁKUNKA>Odkąd SŁODZIUTKA odeszła, moje życie nie ma sensu.
+ 
 #OFFICER MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #ROSA
 #Location: Sprout Mole Village
 message_83:
-      text: \n<ROSA>After that wedding fiasco, SWEETHEART left and never came back!\! \Com[2]This is all your fault!
-
+      text: \n<RÓŻA>Po tej ślubnej klapie, SŁODZIUTKA odeszła i już nigdy nie wróci!\! \Com[2]To wszystko wasza wina!
+ 
 #SPORT MOLE
 #Location: Sprout Mole Village- B.E.D. Trade Quest 4
 #Refer to sidequest_BED
-
+ 
 #SPRING MOLE
 #Location: Sprout Mole Village -Seasonal Gifts Quest
 #Same as NIGHT 2.
-
+ 
 #SPROUT MOLE MIKE
 #Location: Sweetheart's Castle
 message_84:
-      text: \n<SPROUT MOLE MIKE>Sigh...\! I don't know what to do with myself now that SWEETHEART is gone... She was my everything...
-
+      text: \n<KIEŁKUN MIKOŁAJ>Ech...\! Nie wiem, co ze sobą teraz zrobić, skoro SŁODZIUTKA odeszła... Ona była dla mnie wszystkim...
+ 
 #STUDENT MOLE 1
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #STUDENT MOLE 2
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #STUDENT MOLE 3
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #SUE CHEF MOLE 1
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #SUE CHEF MOLE 2
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #SUE CHEF MOLE 3
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #SUMMER MOLE
 #Location: Sprout Mole Village -Seasonal Gifts Quest
 #Same as NIGHT 2.
-
+ 
 #SWEETHEART
 #Location: N/A
-
+ 
 #TEACHER MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #TOFU JASH
 #Location: Sprout Mole Village - Tofu Shop (Jash Quest)
 #Same as NIGHT 2.
-
+ 
 #WALL MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #WINTER MOLE
 #Location: Sprout Mole Village -Seasonal Gifts Quest
 #Same as NIGHT 2.
-
-
+ 
+ 
                         #====NIGHT 4====
-
-
+ 
+ 
 #BANDITO MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 3.
-
+ 
 #BEAUTIFUL MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #BOX MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #BUTLER MOLE
 #Location: Last Resort
 message_85:
-      text: \n<BUTLER MOLE>I came here because they said they were offering jobs...
+      text: \n<LOKAJ KIEŁKUN>Jestem tu, bo powiedziano mi, że mają dla mnie ofertę pracy...
 #After Mr.Jawsum leaves Last Resort
 #Location: Sweetheart's Castle
-
+ 
 #CHEF MOLE
 #Location: Sprout Mole Village - B.E.D. Trade Quest 3
 #Same as NIGHT 3.
-
+ 
 #After B.E.D Trade Quest
 #Same as NIGHT 2.
-
+ 
 #DOUBLE MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #DUNCE MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #ELDER MOLE
 #Location: Sprout Mole Village- B.E.D. Trade Quest 2
 #Same as NIGHT 3.
-
+ 
 #After B.E.D Trade Quest
 #Same as NIGHT 2.
-
+ 
 #ELDER MOLE JR.
 #Location: Sprout Mole Village- B.E.D. Trade Quest 5
 #Same as NIGHT 3.
-
+ 
 #After B.E.D Trade Quest
 #Same as NIGHT 2.
-
+ 
 #FALL MOLE
 #Location: Sprout Mole Village- Seasonal Gifts Quest
 #Same as NIGHT 2.
-
+ 
 #FAMILY MOLE 1
 #Location: Sprout mole Village- Delivery for Brother Quest
 #Same as NIGHT 2.
-
+ 
 #FAMILY MOLE 2
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #FAMILY MOLE 3
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #FLAMINGO MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #GUARD MOLE
 #Location: LAST RESORT
 message_86:
-      text: \n<GUARD MOLE>I came here because they said they were offering jobs...
+      text: \n<OCHRONIARZ KIEŁKUN>Jestem tu, bo powiedziano mi, że mają dla mnie ofertę pracy...
 #After Mr.Jawsum leaves Last Resort
 #Location: Sweetheart's Castle
-
+ 
 #MAID MOLE
 #Location: LAST RESORT
 message_87:
-      text: \n<MAID MOLE>I came here because they said they were offering jobs...
+      text: \n<SŁUŻĄCA KIEŁKUNKA>Jestem tu, bo powiedziano mi, że mają dla mnie ofertę pracy...
 #After Mr.Jawsum leaves Last Resort
 #Location: Sweetheart's Castle
-
+ 
 #OFFICER MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #ROSA
 #Location: Sprout Mole Village
 #[Incomplete]
-
+ 
 #SPORT MOLE
 #Location: Sprout Mole Village- B.E.D. Trade Quest 4
 #Same as NIGHT 3.
-
+ 
 #After B.E.D Trade Quest
 #Same as NIGHT 2.
-
+ 
 #SPRING MOLE
 #Location: Sprout Mole Village -Seasonal Gifts Quest
 #Same as NIGHT 2.
-
+ 
 #SPROUT MOLE MIKE
 #Location: Sweetheart's Castle
 #Same as NIGHT 2.
-
+ 
 #STUDENT MOLE 1
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #STUDENT MOLE 2
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #STUDENT MOLE 3
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #SUE CHEF MOLE 1
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #SUE CHEF MOLE 2
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #SUE CHEF MOLE 3
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #SUMMER MOLE
 #Location: Sprout Mole Village -Seasonal Gifts Quest
 #Same as NIGHT 2.
-
+ 
 #SWEETHEART
 #Location: N/A
 #After Mr.Jawsum leaves Last Resort
 #Location: Slime Girl's Lair
 #Check dreamworld extras slimegirls
-
+ 
 #TEACHER MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #TOFU JASH
 #Location: Sprout Mole Village - Tofu Shop
 #Same as NIGHT 2.
-
+ 
 #WALL MOLE
 #Location: Sprout Mole Village
 #Same as NIGHT 2.
-
+ 
 #WINTER MOLE
 #Location: Sprout Mole Village -Seasonal Gifts Quest
 #Same as NIGHT 2.
-
+ 
 #===
-
+ 
 #THEATER
-
+ 
 message_100:
-      text: \n<SPROUT MOLE>As a reputable movie critic, I believe that all of SWEETHEART's works are beyond what our feeble minds can comprehend!
-
+      text: \n<KIEŁKUN>Jako renomowany krytyk filmowy uważam, że wszystkie dzieła SŁODZIUTKIEJ są poza zasięgiem rozumowania naszych prymitywnych umysłów!
+ 
 message_101:
-      text: \n<SPROUT MOLE>Boy...\! You lot look awfully familiar.\!<br>Have I seen you on TV!?
-
+      text: \n<KIEŁKUN>O rety...\! Wyglądasz strasznie znajomo.\!<br>Czy przypadkiem nie widziałem cię już w telewizji!?
+ 
 message_102:
-      text: \n<SPROUT MOLE>Be quiet! This is my favorite movie!
-
+      text: \n<KIEŁKUN>Milcz! To mój ulubiony film!
+ 
 message_103:
-      text: \n<SPROUT MOLE>Oh, SWEETHEART...\! You're too good for this world.
-
+      text: \n<KIEŁKUN>Och, SŁODZIUTKA...\! Ten świat na ciebie nie zasługuje.
+ 
 message_104:
-      text: \n<SPROUT MOLE>I've watched every episode of \"SWEETHEART'S QUEST FOR HEARTS\" at least six times!
-
+      text: \n<KIEŁKUN>Obejrzałem każdy odcinek \"SZANSY NA SERCE SŁODZIUTKIEJ\" przynajmniej sześć razy!
+ 
 message_105:
-      text: \n<SPROUT MOLE>I bring SWEETHEART with me wherever I go!\!<br>Say hello, SWEETHEART!
-
+      text: \n<KIEŁKUN>Zabieram SŁODZIUTKĄ ze sobą gdziekolwiek idę!\!<br>Przywitaj się, SŁODZIUTKA!
+ 
 message_106:
-      text: \n<SPROUT MOLE>SWEETHEART is the only one that understands me...
-
+      text: \n<KIEŁKUN>SŁODZIUTKA jest jedyną osobą, która mnie rozumie...
+ 
 message_107:
-      text: \n<SPROUT MOLE>SWEETHEART is perfect in every way.\!<br>I would do \quake[1]anything\quake[0] for her...
-
+      text: \n<KIEŁKUN>SŁODZIUTKA jest idealna pod każdym względem.\!<br>Zrobiłbym dla niej \quake[1]wszystko\quake[0]...
+ 
 message_108:
-      text: \n<SPROUT MOLE>I love SWEETHEART so much, I can't even remember a time before her.\! Seriously... I can't!
-
+      text: \n<KIEŁKUN>Kocham SŁODZIUTKĄ tak bardzo, że nawet nie pamiętam, co robiłem, zanim ją poznałem.\! Serio... Mówię poważnie!
+ 
 message_109:
-      text: \n<SPROUT MOLE>\}SWEETHEART...\! You will be mine...\{
-
+      text: \n<KIEŁKUN>\}SŁODZIUTKA...\! Będziesz należeć do mnie...\{
+ 
 #AFTER SW WEDDING
-
+ 
 message_110:
-      text: \n<SPROUT MOLE>Sniff...\! SWEETHEART has done it again.\! I am utterly moved.
-
+      text: \n<KIEŁKUN>Szloch...\! SŁODZIUTKA znowu przeszła samą siebie.\! Jestem niezmiernie poruszony.
+ 
 message_111:
-      text: \n<SPROUT MOLE>Are you HERO, as in \sinv[1]the\sinv[0] HERO from \"SWEETHEART'S QUEST FOR HEARTS\"!?\! Your acting was superb!\! I truly believed that you rejected SWEETHEART!
-
+      text: \n<KIEŁKUN>Czy ty to HERO, no wiesz, \sinv[1]ten\sinv[0] HERO z \"SZANSY NA SERCE SŁODZIUTKIEJ\"!?\! Twoja gra aktorska była wspaniała!\! Naprawdę uwierzyłem, że dałeś kosza SŁODZIUTKIEJ!
+ 
 message_114:
-      text: \n<SPROUT MOLE>Now that \"SWEETHEART'S QUEST FOR HEARTS\" is over...\! so is my life.
-
+      text: \n<KIEŁKUN>Skoro \"SZANSA NA SERCE SŁODZIUTKIEJ\" się skończyła...\! tak również moje życie.
+ 
 message_120:
-      text: An uncomfortably-realistic SWEETHEART doll.
-
+      text: Niepokojąco realistyczna kukła SŁODZIUTKIEJ.
+ 
 #SKELETON
-
+ 
 message_121:
-      text: It is not alive.
-
+      text: Jest martwe.
+ 
 message_122:
-      text: An assortment of lethal weapons...\!<br>One of them is missing.
-
-
+      text: Szeroki asortyment śmiertelnych broni...\!<br>Brakuje jednej z nich.
+ 
+ 
 message_130:
-      text: Yo, JIMZ! It's been a while, buddy!<br>\!How was your weekend, man?\n<SPROUT MOLE>
-
+      text: Joł, JAKUB! Kopę lat, kumplu!<br>\!Jak minął twój weekend, stary?\n<KIEŁKUN>
+ 
 message_131:
-      text: What's up, LINDA? Haven't seen you around in forever!\!<br>How's your old man?\! I miss that guy.\n<SPROUT MOLE>
-
+      text: Jak tam, LINDA? Nie widziałem cię od wieków!\!<br>Co u twojego staruszka?\! Brakuje mi go.\n<KIEŁKUN>
+ 
 message_132:
-      text: Hey, SAL! You've lost weight! Good for you!\n<SPROUT MOLE>
-
+      text: Hej, SYLWEK! Straciłeś na wadze! Tak trzymaj!\n<KIEŁKUN>
+ 
 message_133:
-      text: JEFFREY! My man!\! It's been too long.\!<br>We gotta catch up sometime.\n<SPROUT MOLE>
-
-
+      text: JERZY! Ty stary druchu!\! Minęło zbyt wiele czasu.\!<br>Musimy się kiedyś spotkać.\n<KIEŁKUN>
+ 
+ 
 #SPROUT CROWD
-
+ 
 message_200:
-      text: \sprI gave up my entire supply of \c[3]TOFU\c[0] for this seat!
-
+      text: \n<KIEŁKUN>Oddałem mój cały zapas \c[3]TOFU\c[0] za to miejsce!
+ 
 message_201:
-      text: \sprI gave up my college savings for this seat!
-
+      text: \n<KIEŁKUN>Oddałem moje oszczędności na studia za to miejsce!
+ 
 message_202:
-      text: \sprI gave up my house for this seat!
-
+      text: \n<KIEŁKUN>Oddałam mój dom za to miejsce!
+ 
 message_203:
-      text: \sprI gave up my soul for this seat!
-
+      text: \n<KIEŁKUN>Oddałem swoją duszę za to miejsce!
+ 
 #REST OF CROWD
-
+ 
 message_204:
-      text: \spr\sinv[1]SWEETHEART... SWEETHEART...<br>She's the only one for me!\sinv[0]
-
+      text: \n<KIEŁKUN>\sinv[1]SŁODZIUTKA... SŁODZIUTKA...<br>Moja jedyna!\sinv[0]
+ 
 message_205:
-      text: \sprSWEETHEART is perfect!\! She makes no mistakes!
-
+      text: \n<KIEŁKUN>SŁODZIUTKA jest idealna!\! Nie popełnia żadnych błędów!
+ 
 message_206:
-      text: \sprMy love for SWEETHEART knows no bounds!
-
+      text: \n<KIEŁKUN>Moja miłość do SŁODZIUTKIEJ nie zna granic!
+ 
 message_207:
-      text: \sprSWEETHEART...\! She is a goddess walking amongst us...<br>\!We are so blessed.
-
+      text: \n<KIEŁKUN>SŁODZIUTKA...\! Jest boginią chodząca wśród nas...<br>\! Jesteśmy błogosławieni.
+ 
 #UNIQUE SPROUT CROWD
-
+ 
 message_208:
-      text: \sprThe show hasn't even started and I'm already shaking!\! \quake[1]<br>Why won't the shaking stop!?\quake[0]
-
+      text: \n<KIEŁKUN>Przedstawienie jeszcze się nie zaczęło, a ja już się cały trzęsę!\! \quake[1]<br>Dlaczego nie mogę przestać!?\quake[0]
+ 
 message_209:
-      text: \spr\"S\" is for \"STUNNING\".\! \"W\" is for \"WONDERFUL\".\!<br>\"E\" is for \"EXTRAORDINARY\".\! \"E\" is for \"EXCEPTIONAL\".\!<br>\"T\" is for...\! \"TOFU\"...\! Mmm...\! Delicious \c[3]TOFU\c[0]...
-
+      text: \n<KIEŁKUN>\"S\" jak \"SKROMNA\".\! \"Ł\" jak \"ŁASKAWA\".\!<br>\"O\" jak \"OLŚNIEWAJĄCA\".\! \"D\" jak \"DOSTOJNA\".\!<br>\"Z\" jak...\! \"ZNAKOMITA\"...\! Mmm...\! Zupełnie jak \c[3]TOFU\c[0]...
+ 
 message_210:
-      text: \spr\"H\" is for \"HEADSTRONG\".\! \"E\" is for \"EXEMPLARY\".\!<br>\"A\" is for \"ATTRACTIVE\".\! R is for \"RADICAL.\"\!<br>And \"T\" is for...\! \"THE BEST!\", of course!
-
+      text: \n<KIEŁKUN>\"I\" jak \"INTELIGENTA\".\! \"U\" jak \"UROCZA\".\!<br>\"T\" jak \"TROSKLIWA\".\! \”K\” jak \"KOCHAJĄCA.\"\!<br>Oraz \"A\" jak...\! \"ATRAKCYJNA!\", rzecz jasna!
+ 
 message_211:
-      text: \spr\}Yay! SWEETHEART!
-
+      text: \n<KIEŁKUN>\}Jej! SŁODZIUTKA!
+ 
 message_212:
-      text: \sprI hear there used to be a library here...\!<br>but then SWEETHEART built her stage over it...\!<br>Who needs to read when you have SWEETHEART!?
-
+      text: \n<KIEŁKUN>Słyszałem, że była tu kiedyś biblioteka...\!<br>ale potem SŁODZIUTKA zbudowała nad nią swoją scenę...\!<br>Komu potrzebne jest czytanie, kiedy ma się SŁODZIUTKĄ!?
+ 
 message_213:
-      text: \sprA tomato by any other name would taste just as juicy.
-
+      text: \n<KIEŁKUN>Pomidor o innej nazwie nadal smakowałby tak samo soczyście.
+ 
 message_214:
-      text: \sprI'm just here for a good time!
-
+      text: \n<KIEŁKUN>Jestem tu tylko dla dobrej zabawy!
+ 
 message_215:
-      text: \sprI used to only like SWEETHEART ironically...\!<br>and now here I am...\! What happened to me?
-
+      text: \n<KIEŁKUN>Kiedyś tylko ironicznie lubiłem SŁODZIUTKĄ...\!<br>a teraz jestem tutaj...\! Gdzie ja zbłądziłem?
+ 
 message_216:
-      text: \sprAt first, I was skeptical about this whole SWEETHEART thing, but I think I'm starting to get it...
-
+      text: \n<KIEŁKUN>Początkowo byłem sceptycznie nastawiony do tej całej SŁODZIUTKIEJ, ale chyba zaczynam się do niej przekonywać...
+ 
 message_217:
-      text: \sprI came here with my family, but we were separated on the way here...\! I may never see them ever again.
-
+      text: \n<KIEŁKUN>Przyjechałem tu z rodziną, lecz po drodze zostaliśmy rozdzieleni...\! Mogę już ich nigdy więcej nie zobaczyć.
+ 
 message_218:
-      text: \sprI heard that SWEETHEART is actually a \c[3]DONUT\c[0]...\!<br>I wonder if the rumors are true...
-
+      text: \n<KIEŁKUN>Słyszałem, że SŁODZIUTKA jest tak naprawdę \c[3]PĄCZKIEM\c[0]...\!<br>Ciekawe, czy te plotki są prawdziwe...
+ 
 #Elevator
 message_220:
-      text: Well, this is awkward.
-
-
+      text: Cóż, to jest ciut niezręczne.
+ 
+ 
 #Doors
 message_225:
-      text: \n<???>This room is occupied!
-
+      text: \n<???>Ten pokój jest zajęty!
+ 
 message_226:
-      text: \n<???>I cannot be disturbed right now!
-
+      text: \n<???>Proszę nie przeszkadzać!
+ 
 message_227:
-      text: \n<???>No humans allowed!
-
+      text: \n<???>Zakaz wstępu ludziom!
+ 
 message_228:
-      text: \n<???>This room is for SPROUT MOLES only!
-
+      text: \n<???>Wstęp tylko dla KIEŁKUNÓW!
+ 
 message_250:
-      text: \sprIt never hurts to have \c[3]TOFU\c[0] on you at all times.\! I know I've gotten out of plenty of sticky situations with \c[3]TOFU\c[0]!
+      text: \n<KIEŁKUN>Zawsze warto jest mieć \c[3]TOFU\c[0] pod ręką.\! Wierz mi, udało mi się wyjść cało z wielu tarapatów dzięki \c[3]TOFU\c[0]!

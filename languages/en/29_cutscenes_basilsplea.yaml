@@ -71,7 +71,7 @@ message_9:
 message_10:
       faceset: MainCharacter_Basil_Dark
       faceindex: 20
-      text: Ktoś taki mógłby zrobić czegoś takiego...\bas
+      text: Ktoś taki nie mógłby zrobić czegoś takiego...\bas
  
 #BASIL turns to window.
  
@@ -172,7 +172,7 @@ message_27:
 message_28:
       faceset: MainCharacter_Basil_Dark
       faceindex: 25
-      text: \n[8]...\! \n[8] nie... zrobiłbyś czegoś takiego.\bas
+      text: \n[8]...\! \n[8], nie... zrobiłbyś czegoś takiego.\bas
  
 #BASIL cries.
  

@@ -48,7 +48,7 @@ terms:
         actorDamage: "%1 otrzymuje %2 obrażeń!"
         actorDrain: "%1 traci %3 %2U!"
         actorGain: "%1 zyskuje %3 %2U!"
-        actorLoss: "%1 traci %3 %2U!"
+        actorLoss: "%1 traci %3 %2!"
         actorNoDamage: "%1 nie odnosi obrażeń!"
         actorNoHit: "PUDŁO! %1 nie odnosi obrażeń!"
         actorRecovery: "%1 odzyskuje %3 %2!"

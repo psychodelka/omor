@@ -2,451 +2,452 @@
 # ** ROCOCO INTRODUCTION
 # =========================================================================================
 #THE ARTIST ROCOCO:
-
+ 
 #After defeating Jawsum/Pluto in Last Resort, if you backtrack to Sweetheart's Castle - Fanmail Graveyard, you will notice a hole in the wall.
-
+ 
 #ROCOCO is an artist who is an elf.
-
+ 
 message_0:
-    text: \n<???>\sinv[1]Le gasp!\sinv[0]\! C-Could it be!?
-
+    text: \n<???>\sinv[1]Mon Dieu!\sinv[0]\! Cz-czy to możliwe!?
+ 
 message_1:
-    text: \n<???>Ah, finally...\! Some company...
-
+    text: \n<???>Ach, nareszcie...\! Jakaś przyjazna twarz...
+ 
 #*charm pose spinning*
-
+ 
 message_2:
-    text: \n<???>\sinv[2]Hyohehyohehyohehyo!
-
+    text: \n<???>\sinv[2]Hiohehiohehiohehio!
+ 
 message_3:
-    text: \n<???>I've been alone for so long...\! but after what feels like an eternity...\! At last...\! I have...\! an audience!
-
+    text: \n<???>Tak długo byłem całkiem sam...\! i chociaż mam wrażenie, że minęła wieczność...\! w końcu...\! przybyła...\! publika!
+ 
 #*charm pose spinning*
-
+ 
 message_4:
-    text: \n<???>\sinv[2]Hyohehyohehyohehyo!
-
+    text: \n<???>\sinv[2]Hiohehiohehiohehio!
+ 
 message_5:
-    text: \n<???>Who am I, you ask?
-
+    text: \n<???>Kim jestem, zapytujecie?
+ 
 message_6:
-    text: \n<ROCOCO>Why...\! I am the great up-and-coming artist, ROCOCO!
-
-
+    text: \n<ROKOKO>Przecież...\! jestem ROKOKO, największa wschodząca gwiazdą sztuki! 
+ 
+ 
 message_7:
     faceset: MainCharacters_DreamWorld
     faceindex: 28
-    text: \kelThis guy's...\! kind of weird.\! Let's get out of here.
-
+    text: \kelTen gość jest...\! trochę dziwny.\! Lepiej się stąd zmywajmy.
+ 
 #*ROCOCO runs to block exit*
-
+ 
 message_8:
-    text: \n<ROCOCO>\com[2]Wait, don't go!\! Please listen to my story!
-
+    text: \n<ROKOKO>\com[2]Zaczekajcie, nie odchodźcie!\! Proszę, posłuchajcie mojej historii!
 message_9:
     faceset: MainCharacters_DreamWorld
     faceindex: 27
-    text: \kelExcuse...\! us.
-
+    text: \kelPrzepra...\! szam.
+ 
 message_10:
-    text: \n<ROCOCO>\{\com[2]\quake[1]PLEASE LISTEN! I'M SO LONELY!!
-
+    text: \n<ROKOKO>\{\com[2]\quake[1]PROSZĘ, POSŁUCHAJCIE! JESTEM TAKI SAMOTNY!!
+ 
 #*pause*
-
+ 
 message_11:
-    text: \n<ROCOCO>Ahem...\! right.\! Now where should I start?
-
+    text: \n<ROKOKO>Ekhem...\! no tak.\! Od czego powinienem zacząć?
+ 
 message_12:
-      text: \n<ROCOCO>In the beginning was me...\! crying in a pod in the middle of space...\! witnessing my home planet blow up right before my eyes.
-
+      text: \n<ROKOKO>Na początku byłem sam...\! płaczący w kapsule w przestworzach kosmosu...\! patrzący na to, jak przed moimi oczyma wybucha ma rodzima planeta.
+ 
 message_13:
-    text: \n<ROCOCO>I can still remember it all so vividly...\!<br>Fire...\| Fire...\| everywhere...\| and then darkness.
-
+    text: \n<ROKOKO>Wciąż pamiętam to tak wyraźnie...\!<br>Ogień...\| Ogień...\| wszędzie...\| a potem ciemność.
+ 
 message_14:
-    text: \n<ROCOCO>When I awoke, I found myself in the middle of a desert...\! surrounded by a sea of brown sugar, in a strange land I soon learned to be called \c[11]ORANGE OASIS\c[0].
-
+    text: \n<ROKOKO>Kiedy się obudziłem, okazało się, że jestem na środku pustyni...\! otoczony przez morze cukru brązowego, w dziwnym miejscu zwanym, jak się później dowiedziałem, \c[11]POMARAŃCZOWĄ OAZĄ\c[0].
+ 
 message_15:
-    text: \n<ROCOCO>Even as a baby, I knew I was the sole survivor of my species...\! the last elf in the entire universe.
-
+    text: \n<ROKOKO>Już jako niemowlę wiedziałem, że jestem ostatnim z mojego gatunku...\! ostatnim elfem w całym wszechświecie.
+ 
 #*Party members gather and sit*
-
+ 
 message_16:
-    text: \n<ROCOCO>\"So this is how it ends..."\ I thought.
-
+    text: \n<ROKOKO>\A więc tak to się zakończy...\ – pomyślałem.
+ 
 message_17:
-      text: \n<ROCOCO>Yet...\! In a stroke of luck, I was found by none other than a young \c[3]DONUT\c[0] by the name of SWEETHEART.\! She brought me to her family and they took me in as one of their own.
-
+      text: \n<ROKOKO>Jednakże...\! los się do mnie uśmiechnął i znalazł mnie pewien \c[3]PĄCZEK\c[0] we własnej osobie, a na imię jej było SŁODZIUTKA.\! Zaprowadziła mnie do swojej rodziny, która przyjęła mnie niczym swojego.
+ 
 message_18:
-    text: \n<ROCOCO>SWEETHEART and I...\! We grew up together.
-
+    text: \n<ROKOKO>SŁODZIUTKA i ja...\! dorastaliśmy razem.
+ 
 message_19:
-    text: \n<ROCOCO>It was a rough childhood.\! We fought frequently, but she would always win...\! If I fought back...\! Well...\! ...
-
+    text: \n<ROKOKO>Ciężkie było to dzieciństwo.\! Często walczyliśmy, ona zawsze wygrywała...\! Gdy próbowałem się bronić...\! No cóż...\! ...
+ 
 message_20:
-    text: \n<ROCOCO>Anyway! I learned to run!\! And I got quite good at running...\!<br>But...\! there's only so far you can run.
-
+    text: \n<ROKOKO>Nieważne! Nauczyłem się biegać!\! I całkiem dobrze mi to szło...\!<br>ale...\! w pewnym momencie nie ma już dokąd uciekać.
+ 
 message_21:
-    text: \n<ROCOCO>Yes, it was a hard time.\! But even through that suffering, I stood firm.
-
-
+    text: \n<ROKOKO>Tak, było to bardzo trudne.\! Ale nawet w obliczu tego cierpienia, nie poddałem się.
+ 
+ 
 message_22:
-      text: \n<ROCOCO>Because even then, I knew everything had a purpose.\! I was sent to this planet and survived for one reason and one reason only...\! to repopulate my entire species.
-
+      text: \n<ROKOKO>Bo już wtedy wiedziałem, że wszystko ma jakiś cel.\! Zostałem wysłany na tę planetę i przetrwałem tylko i wyłącznie w jednym celu...\! aby odbudować populację mojego gatunku.
+ 
 #*pause*
-
+ 
 message_23:
-    text: \n<ROCOCO>There is a conspicuous gap in my memory after this, so I'll fast-forward a few years.
-
+    text: \n<ROKOKO>Tutaj pojawia się podejrzana dziura w moich wspomnieniach, więc przeskoczę o kilka lat do przodu.
+ 
 message_24:
-    text: \n<ROCOCO>At some point...\! SWEETHEART and I fell deeply in love, became engaged, and moved to this giant castle together!
-
+    text: \n<ROKOKO>W pewnym momencie...\! SŁODZIUTKA i ja zakochaliśmy się na zabój, zaręczyliśmy się i wprowadziliśmy razem do tego wielkiego pałacu.
+ 
 message_25:
-    text: \n<ROCOCO>We were inseparable, her and I... and we loved each other dearly!\! I would do anything for her, and I mean anything!
-
+    text: \n<ROKOKO>Byliśmy nierozłączni, ja i ona... szczerze się kochaliśmy!\! Zrobiłbym dla niej wszystko, a mówiąc wszystko, mam na myśli wszystko!
+ 
 message_26:
-    text: \n<ROCOCO>I was ready to spend the rest of our lives together...\! to grow old...\! and to raise hundreds upon hundreds of children!
-
+    text: \n<ROKOKO>Byłem gotów spędzić z nią resztę życia...\! zestarzeć się razem...\! i wychować setki dzieci!
+ 
 message_27:
-      text: \n<ROCOCO>Hmm... Thinking about it now, I wonder if I ever made that clear to her.
-
+      text: \n<ROKOKO>Hmm... Ciekawe, czy kiedykolwiek powiedziałem jej to wprost.
+ 
 message_28:
-    text: \n<ROCOCO>Anyway, continuing my story...
-
+    text: \n<ROKOKO>W każdym razie, historia toczy się dalej...
+ 
 message_29:
-    text: \n<ROCOCO>Alas, all good times must come to an end.\! As SWEETHEART's fan base grew, she and I grew apart as well.
-
+    text: \n<ROKOKO>Niestety wszystko, co dobre, kiedyś się kończy.\! Kiedy fanów SŁODZIUTKIEJ przybywało, oddalaliśmy się od siebie.
+ 
 message_30:
-    text: \n<ROCOCO>She began receiving gifts and letters from suitors from all over the universe...\! asking for a chance to prove their love to her.
-
-
+    text: \n<ROKOKO>Zaczęła otrzymywać prezenty i listy od adoratorów z każdego zakątka wszechświata...\! proszących o szansę na pokazanie jej swojej miłości.
+ 
+ 
 message_31:
-    text: \n<ROCOCO>Being her one true love, I was vehemently against this notion! But she wouldn't have it!
-
+    text: \n<ROKOKO>Jako jej jedyna prawdziwa miłość oczywiście wniosłem sprzeciw! Ale ona nie chciała mnie słuchać!
+ 
 message_32:
-      text: \n<ROCOCO>“SWEETHEART is for sharing!” she would say!
-
+      text: \n<ROKOKO>SŁODZIUTKĄ trzeba się dzielić! – mówiła!
+ 
 message_33:
-    text: \n<ROCOCO>...
-
+    text: \n<ROKOKO>...
+ 
 message_34:
-    text: \n<ROCOCO>So...\! one night while I was asleep...\! SWEETHEART and her servants tied me up and sealed me inside the walls of her castle.
-
+    text: \n<ROKOKO>A więc...\! pewnej nocy, kiedy spałem...\! SŁODZIUTKA i jej służący związali i zamknęli mnie w ścianach jej pałacu.
+ 
 message_35:
-    text: \n<ROCOCO>I have been wandering aimlessly through the darkness inside the walls ever since...\! surviving off old TOAST and \c[3]TOFU\c[0].
-
-
+    text: \n<ROKOKO>Od tego czasu błąkam się w ciemności w ścianach... \! żyjąc tylko o starych TOSTACH i \c[3]TOFU\c[0].
+ 
+ 
 message_37:
-      text: \n<ROCOCO>Fast-forward a few more years, and that brings us to now!
-
+      text: \n<ROKOKO>Przenieśmy się o parę lat w przyszłość i oto jesteśmy!
+ 
 message_38:
-    text: \n<ROCOCO>Yes...\! You four are the first living beings I have seen since that fateful day.
-
+    text: \n<ROKOKO>Tak...\! Wasza czwórka to pierwsze żywe istoty, które spotkałem od tamtego pamiętnego dnia.
+ 
 message_39:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \herWow, sir.\! That's a really... umm...\| shocking story.
-
+    text: \herŁał, proszę pana.\! To bardzo... eee...\| szokująca historia.
+ 
 #ROCOCO shakes.
-
+ 
 message_40:
-    text: \n<ROCOCO>\sinv[1]Sniff... Oh... SWEETHEART...\! Why did you do it?<br>\!Was I not good enough for you?
-
+    text: \n<ROKOKO>\sinv[1]Chlip... Och... SŁODZIUTKA...\! Dlaczego mi to zrobiłaś?<br>\!Nie wystarczałem ci?
+ 
 message_41:
     faceset: MainCharacters_DreamWorld
     faceindex: 4
-    text: \aubWell...\! Sorry about everything...\! We're going to go now.
-
+    text: \aubNo dobrze...\! Przykro nam z powodu tego wszystkiego...\! Musimy już iść.
+ 
 #party gets up
-
+ 
 message_42:
-    text: \n<ROCOCO>\com[2]\quake[1]\{WAIT, I'M NOT FINISHED YET!
-
+    text: \n<ROKOKO>\com[2]\quake[1]\{STOP, JESZCZE NIE SKOŃCZYŁEM!
+ 
 message_43:
-      text: \n<ROCOCO>I'm just getting to the point!
-
+      text: \n<ROKOKO>Właśnie miałem dojść do sedna!
+ 
 message_44:
-    text: \n<ROCOCO>\sinv[1]Sigh...\sinv[0]\! For the last few years, I've had a long time to think.
-
+    text: \n<ROKOKO>\sinv[1]Ech...\sinv[0]\! Przez ostatnie parę lat miałem dużo czasu do namysłu.
+ 
 message_45:
-    text: \n<ROCOCO>I kind of gave up on my dreams and all that stuff now...\!<br>It all seems so far away and pointless...
-
+    text: \n<ROKOKO>W sumie to porzuciłem moje marzenia i takie tam...\!<br>Wszystko wydaje się takie odległe i bezsensowne...
+ 
 message_46:
-    text: \n<ROCOCO>So...\! I've decided to drop everything and become an artist instead!
-
+    text: \n<ROKOKO>Więc...\! postanowiłem rzucić wszystko i zostać artystą!
+ 
 #ROCOCO walks to his canvas.
-
+ 
 message_47:
-    text: \n<ROCOCO>\sinv[1]Sigh...\sinv[0]\! And since I'm just starting out, I suppose I can give you all a discount.
-
+    text: \n<ROKOKO>\sinv[1]Ech...\sinv[0]\! No i skoro dopiero zaczynam, możecie dostać zniżkę.
+ 
 #*ROCOCO CHARM stay in pose*
-
+ 
 message_48:
-      text: \n<ROCOCO>For my first ever masterpiece...\! I will only charge you 1000 CLAMS!
-
+      text: \n<ROKOKO>Za moje pierwsze arcydzieło...\! chcę jedynie 1000 MAŁŻY!
+ 
 #*stop pose*
-
+ 
 message_49:
     faceset: MainCharacters_DreamWorld
     faceindex: 39
-    text: \herWell...\! What do you guys think?\! 1000 CLAMS is kind of steep, isn't it?
-
+    text: \herNo...\! To co myślicie?\! 1000 MAŁŻY to trochę wygórowana cena, co nie?
+ 
 message_50:
-    text: \n<ROCOCO>\{\com[2]\quake[1]PLEASE COMMISSION ME!
-
+    text: \n<ROKOKO>\{\com[2]\quake[1]PROSZĘ, ZAMÓWCIE COŚ!
+ 
 message_51:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \herWe...\! We'll think about it.
-
+    text: \herNo...\! Pomyślimy...
+ 
 message_52:
-    text: \n<ROCOCO>Ah! Yes... Yes, of course! Do take your time!
-
+    text: \n<ROKOKO>Ach! Tak... Tak, naturalnie! Nie spieszcie się!
+ 
 message_999:
-    text: \n<ROCOCO>I will stand right here until then!
-
+    text: \n<ROKOKO>I tak się nigdzie nie wybieram!
+ 
 message_53:
-    text: \$\n<ROCOCO>For my first ever masterpiece, I will only charge you 1000 CLAMS!\! Have you decided to assist me on my journey of self-discovery?
-
+    text: \$\n<ROKOKO>Tylko 1000 MAŁŻY za moje pierwsze arcydzieło!\! Czy zdecydowaliście się pomóc mi w mojej podróży samopoznania?
+ 
 #[YES/NO]
-
-
+ 
+ 
 #[YES]
 #*chaching*
-
+ 
 message_54:
-    text: \n<ROCOCO>\{\{\sinv[1]LE MAGNIFICENT!!
-
+    text: \n<ROKOKO>\{\{\sinv[1]Le magnifique!!
+ 
 message_55:
-      text: \n<ROCOCO>Please return after some more adventuring!\!<br>After all, greatness takes time!
-
+      text: \n<ROKOKO>Proszę, wróćcie po kolejnych przygodach!\!<br>Przecież geniusz wymaga czasu!
+ 
 #[NO]
-
+ 
 message_56:
-    text: \n<ROCOCO>Oh...\! That's fine...\! \sinv[1]Sigh...\sinv[0]\!<br>I am sure...\! Someone else will recognize a true artist when they see one.
-
+    text: \n<ROKOKO>Och...\! W porządku...\! \sinv[1]Ech...\sinv[0]\!<br>Jestem pewien, że...\! ktoś inny od pierwszego wejrzenia zauważy we mnie artystę!
+ 
 #If you try to leave after not paying for COMMISSION:
-
+ 
 message_57:
-    text: \n<ROCOCO>\sinv[1]\com[2]\{DON'T KEEP ME WAITING!!
-
+    text: \n<ROKOKO>\sinv[1]\com[2]\{NIE KAŻCIE MI CZEKAĆ!!
+ 
 #If you try to leave after paying for COMMISSION:
-
+ 
 message_58:
-    text: \n<ROCOCO>\sinv[1]\com[2]\{I WON'T DISAPPOINT YOU!!
-
+    text: \n<ROKOKO>\sinv[1]\com[2]\{NIE ZAWIODĘ WAS!!
+ 
 #Upon returning once painting is complete:
-
+ 
 message_59:
-    text: \n<ROCOCO>\sinv[1]Le gasp!\sinv[0]\! You have returned!
-
+    text: \n<ROKOKO>\sinv[1]Mon Dieu!\sinv[0]\! Powróciliście!
+ 
 message_60:
-      text: \n<ROCOCO>Please admire my latest masterpiece.\! It is already framed in the gallery ahead.
-
+      text: \n<ROKOKO>Proszę, podziwiajcie moje najnowsze arcydzieło.\! Już wisi, oprawione, w galerii na wprost.
+ 
 #After checking out the painting:
-
+ 
 message_61:
-    text: \n<ROCOCO>Well? Are you happy with my masterpiece?
-
+    text: \n<ROKOKO>No i co? Zadowoleni z mojego arcydzieła?
+ 
 message_62:
-    text: \n<ROCOCO>Just so you know...\! As my skills become more formidable, my commission rates will also increase!
-
+    text: \n<ROKOKO>Pamiętajcie jednak...\! że im bardziej się wprawię, tym droższe będą moje prace!
+ 
 message_63:
-    text: \$\n<ROCOCO>This next masterpiece will cost you \v[1000] CLAMS!\! Will you continue to assist me on my journey of self-discovery?
-
+    text: \$\n<ROKOKO>Kolejne arcydzieło będzie was kosztowało \v[1000] MAŁŻY!\! Chcecie dalej wspierać mnie w mojej podróży samopoznania?
+ 
 #After completing all paintings:
-
+ 
 message_64:
-    text: \n<ROCOCO>Thank you, fellow living beings.\! Through these few commissions...\! I feel as if I had made great leaps in my quest of self-discovery in the process.\! I am also very rich now.
-
+    text: \n<ROKOKO>Dziękuję, miłe istoty żywe.\! Dzięki tym kilku zamówieniom...\! czuję, że poczyniłem wielkie kroki w moim samopoznaniu.\! Jestem też teraz bardzo bogaty.
+ 
 message_65:
-      text: \n<ROCOCO>I can do no more for you!\! I truly feel complete!
-
+      text: \n<ROKOKO>Nic więcej nie mogę dla was zrobić!\! Czuję się prawdziwie spełniony!
+ 
 #How to Commission Art:
 #ROCOCO will make a total of 6 pieces for you.
 #To commission art from ROCOCO, just talk to him and pay him the amount he asks for. His price will increase with each piece you commission.
 #After you pay ROCOCO, the art will be ready as soon as you exit Sprout Mole Village.
 #When you come back, ROCOCO will tell you that your new art is done and hanging in the gallery. After you check the painting, you can talk to him again. He will ask if you want to commission him for his next piece.
-
+ 
 #1st piece: Kid's Drawing
 #Cost: 1000 CLAMS
-
+ 
 message_70:
-    text: \"UNTITLED\"<br>\!- By The Great Artist, ROCOCO
-
+    text: \"BEZ TYTUŁU\"<br>\!- autorstwa ROKOKO, wielkiego artysty
+ 
 message_71:
-    text: \n<ARTIST COMMENTARY>\"Hey I'm just starting out, okay? Give me a break.\"
-
+    text: \n<KOMENTARZ ARTYSTY>\"Hej, dopiero zaczynam, dobra? Odpuśćcie mi.\"
+ 
 #2nd piece: Gesture (WIP)
 #Cost: 5000 CLAMS
 message_72:
-    text: \"PEOPLE WITH FRUIT\"<br>\!- By The Great Artist, ROCOCO
-
+    text: \"LUDZIE Z OWOCAMI\"<br>\!- autorstwa ROKOKO, wielkiego artysty
+ 
 message_73:
-    text: \n<ARTIST COMMENTARY>"Behold my improvement!\! However, it is plain that I am still a student.\! I must shake off this novice energy for my next piece."
-
+    text: \n<KOMENTARZ ARTYSTY>"Spójrzcie tylko na mój rozwój!\! Jednak wiadome jest, że jestem tylko uczniem.\! Muszę wykorzystać rozpierającą mnie energię nowicjusza, tworząc kolejne dzieło."
+ 
 #3rd piece: Cubist
 #Cost: 10000 CLAMS
 message_74:
-    text: \"LA FIESTA DE CUATRO\"<br>\!- By The Great Artist, ROCOCO
-
+    text: \"LA FIESTA DE CUATRO\"<br>\!- autorstwa ROKOKO, wielkiego artysty
+ 
 message_75:
-    text: \n<ARTIST COMMENTARY>"As all great artists say... realism is boring!\! This is my most expressive piece yet!\! Can you feel my expression?"
-
+    text: \n<KOMENTARZ ARTYSTY>"Tak jak mówią wszyscy najlepsi artyści... realizm jest nudny!\! To moje najbardziej ekspresyjne dzieło!\! Czujecie moją ekspresję?"
+ 
 #4th piece: Manga Cover (WIP)
 #Cost: 15000 CLAMS
-
+ 
 message_76:
-    text: \"OMORI'S UNUSUAL ESCAPADES\"<br>\!- By The Great Artist, ROCOCO
-
+    text: \"NIECODZIENNE ESKAPADY OMORIEGO\"<br>\!- autorstwa ROKOKO, wielkiego artysty
+ 
 message_77:
-    text: \n<ARTIST COMMENTARY>"What!? Are you surprised?\! What are you saying, huh? Can't an artist change styles!?"
-
+    text: \n<KOMENTARZ ARTYSTY>"Co!? Jesteście zaskoczeni?\! O co chodzi, hm? Artysta nie może zmienić stylu!?"
+ 
 #5th piece: Renaissance (WIP)
 #Cost: 25000 CLAMS
-
+ 
 message_78:
-    text: \"THE FINAL REVELATION\"<br>\!- By The Great Artist, ROCOCO
-
+    text: \"OSTATECZNA APOKALIPSA\"<br>\!- autorstwa ROKOKO, wielkiego artysty
+ 
 message_79:
-    text: \n<ARTIST COMMENTARY>"I won't lie to you.\! I struggled with this one, but I think it turned out half-decent.\! My next work will be better!"
-
+    text: \n<KOMENTARZ ARTYSTY>"Nie będę kłamać.\! Miałem problemy z tym obrazem, ale wyszedł chyba nie najgorzej.\! Następny będzie jeszcze lepszy!"
+ 
 #6th piece: Pixel Art (WIP)
 #Cost: 50000 CLAMS
-
+ 
 message_80:
-    text: \"OMORI, AUBREY, KEL, AND HERO\"<br>\!- By The Great Artist, ROCOCO
-
+    text: \"OMORI, AUBREY, KEL I HERO\"<br>\!- autorstwa ROKOKO, wielkiego artysty
+ 
 message_81:
-    text: \n<ARTIST COMMENTARY>"My art has truly ascended with this masterpiece.\! I have finally captured you in your true essence.\! I can do nothing more for you."
-
-
+    text: \n<KOMENTARZ ARTYSTY>"Moja sztuka w istocie wstąpiła w niebiosa za sprawą tego arcydzieła.\! Wreszcie ująłem esencję waszej egzystencji.\! Nic więcej nie mogę dla was zrobić."
+ 
+ 
 #NOT HAVING ENOUGH CLAMS
-
+ 
 message_1000:
-    text: \n<ROCOCO>Ah...\! I see that you are lacking in CLAMS.\! I am sorry, but my prices are firm...\! and I do not work for free!
-
+    text: \n<ROKOKO>Ach...\! Widzę, że brakuje wam MAŁŻY.\! Przykro mi, ale ceny nie podlegają negocjacji...\! a ja nie pracuję za darmo!
+ 
 #THE SCULPTOR GATOR GUY:
 #In the construction area in LAST RESORT above MARI's picnic, there will be a sculptor working on a HERO statue. He will remain here until Epilogue after Hero becomes boss of Last Resort.
-
+ 
 #Before HERO is in party:
 message_90:
-      text: \n<GATOR GUY>Phew...\! I'm just about finished with our tribute to our employee of the century.<br><br>Look at me makin' statues and stuff...\! Never thought I could actually do it, but the boss always believed in me!
-
+      text: \n<ALI GATOR>Uf...\! Prawie skończyłem nasz hołd dla pracownika stulecia.<br><br>Kto by pomyślał, że będę robił posągi i w ogóle...\! Nigdy nie myślałem, że serio mogę coś takiego zrobić, ale szef zawsze we mnie wierzył!
+ 
 #After HERO is in party:
 message_91:
-    text: \n<GATOR GUY>Hey HERO! Just finishing up your statue here per boss's orders.\! Lookin' pretty good, I might add...
-
+    text: \n<ALI GATOR>Hej, HERO! Właśnie kończę twój posąg, zgodnie z rozkazem szefa.\! Tak swoją drogą, wygląda całkiem nieźle...
+ 
 #After Hero becomes the boss, the Gator Guy will move to his work station.
 #Since Hero is the boss, the GATOR GUY will offer to make a statue of OMORI, AUBREY or KEL (since Hero will already be completed.)
-
+ 
 message_92:
-    text: \n<GATOR GUY>Hey, new boss!\! Always figured you'd take over the old man's work one day.\! Hope work's treatin' ya well.
-
+    text: \n<ALI GATOR>Hej, nowy szefie!\! Zawsze wiedziałem, że zabierzesz staruszkowi stołek.\! Trzymaj się w tej robocie.
+ 
 message_93:
-    text: \n<GATOR GUY>You four look like a tight-knit group, but your statue's lookin' a bit lonely there, HERO.
-
+    text: \n<ALI GATOR>Wasza czwórka wygląda na zgraną ekipę, ale ten posąg wydaje się dość samotny, HERO.
+ 
 message_94:
-    text: \n<GATOR GUY>If you want me to make all of you together, I can do that for ya...\! But I'm just a humble sculptor... ain't makin' the big bucks like you.
-
+    text: \n<ALI GATOR>Jak chcesz, mogę zrobić was wszystkich...\! Ale jestem tylko prostym rzeźbiarzem... nie zarabiam takich kokosów jak wy.
+ 
 message_95:
-      text: \n<GATOR GUY>Still, I owe the old boss a big favor.\! If you want me to work, you'd still have to pay for the cost of materials...\! somethin' like 3000 CLAMS each.
-
+      text: \n<ALI GATOR>No ale i tak mam dług wobec starego szefa.\! Jeśli mam pracować, musielibyście opłacić koszt materiałów...\! jakieś 3000 MAŁŻY za sztukę.
+ 
 message_96:
-    text: \n<GATOR GUY>So did you want me to make a statue of one of y'all?
-
+    text: \n<ALI GATOR>To co, mam zrobić posąg któregoś z was?
+ 
 #[YES/NO]
 message_97:
-    text: \n<GATOR GUY>Who did you want me to make a statue of?
-
+    text: \n<ALI GATOR>Kogo uwiecznić jako posąg?
+ 
 #[OMORI/AUBREY/KEL]
 #
 message_98:
-    text: \n<GATOR GUY>Sounds good, boss!\! Y'all take a bit to do your own thing and come check back later!\! I'll make a new friend for you soon enough, boss.
-
+    text: \n<ALI GATOR>Ma się rozumieć, szefie!\! Pójdźcie robić swoje i wróćcie później!\! Już niedługo będziesz miał nowego przyjaciela, szefie.
+ 
 #[NO/NEVERMIND]
-
+ 
 message_99:
-      text: \n<GATOR GUY>Alright! Your call, boss...\! but from my humble point of view, I just think your statue could use some more friends.
-
+      text: \n<ALI GATOR>Jasne! Twoja decyzja, szefie...\! ale moim zdaniem twojemu posągowi przydałoby się trochę przyjaciół.
+ 
 message_1002:
-      text: \n<GATOR GUY>Alright...\! Your call, boss...
-
+      text: \n<ALI GATOR>No dobra...\! Twoja decyzja, szefie...
+ 
 #Once you pay for your statue, it will be completed as soon as you exit the Last Resort building to Last Resort Entrance.
-
+ 
 #After you come back when the statue is complete:
 message_100:
-    text: \n<GATOR GUY>What do you think, boss?\! I can see that your statue's lookin' a bit less lonely now.
+    text: \n<ALI GATOR>No to co sądzisz, szefie?\! Twój posąg wreszcie jest mniej samotny.
 message_101:
-    text: \n<GATOR GUY>Did you want me to make another friend?\!<br>It'll cost ya 3000 CLAMS.
-
+    text: \n<ALI GATOR>To co, zrobić kolejnego przyjaciela?\!<br>Będziesz musiał wybulić 3000 MAŁŻY.
+ 
 #After OMORI, AUBREY, and KEL statues are complete:
-
+ 
 message_102:
-      text: \n<GATOR GUY>What do you think, boss?\! I can see that your statue's lookin' a bit less lonely now.
-
+      text: \n<ALI GATOR>No to co sądzisz, szefie?\! Twój posąg wreszcie nie jest samotny.
+ 
 message_103:
-    text: \n<GATOR GUY>You know... I was talkin' to your friends at the picnic and I think they should be invited to this statue party!
-
+    text: \n<ALI GATOR>Wiecie co... Gadałem z waszymi przyjaciółmi na pikniku i im też należy się chyba miejsce na tej imprezie posągów!
+ 
 message_104:
-    text: \n<GATOR GUY>Did you want me to make another friend?\!<br>It'll cost ya 3000 CLAMS.
-
+    text: \n<ALI GATOR>To co, zrobić kolejnego przyjaciela?\!<br>Będziesz musiał wybulić 3000 MAŁŻY.
+ 
 message_105:
-      text: \n<GATOR GUY>Who did you want me to make a statue of?
+      text: \n<ALI GATOR>Kogo uwiecznić jako posąg?
 #[MARI/BASIL]
-
+ 
 #After completing MARI/BASIL statues:
 message_106:
-    text: \n<GATOR GUY>What do you think, boss?\! I can see that your statue's lookin' a bit less lonely now.
-
+    text: \n<ALIGATOR>No to co sądzisz, szefie?\! Twój posąg wreszcie nie jest taki samotny.
+ 
 #*GATOR GUY looks at statues*
-
+ 
 message_107:
-    text: \n<GATOR GUY>Dang... Now I'm the one feelin' lonely...\! If it's not too much to ask boss, do you think I'd be able to join your statue party?
-
+    text: \n<ALI GATOR>Cholibka... No to teraz ja czuję się samotny...\! Może proszę o zbyt wiele, szefie, ale czy mógłbym dołączyć do waszej imprezy posągów?
+ 
 #After completing GATOR GUY statue:
-
+ 
 message_108:
-      text: \n<GATOR GUY>Well, it's done.\! This party is officially complete!
-
+      text: \n<ALI GATOR>No to zrobione.\! Wszyscy uczestnicy imprezy w komplecie!
+ 
 #*GATOR GUY looks at statues*
-
+ 
 message_109:
-      text: \n<GATOR GUY>There's just nothin' like lookin' at the giant faces of all your friends together.
-
+      text: \n<ALI GATOR>Nie ma to jak patrzenie na ogromne twarze wszystkich swoich przyjaciół.
+ 
 message_110:
-    text: \n<GATOR GUY>Thanks for makin' me a part of this group, even if it's only as a statue.\! You guys are the real deal.
-
+    text: \n<ALI GATOR>Dzięki za wpuszczenie mnie do waszej grupy, nawet jeśli tylko jako posąg.\! Dobre z was ziomki.
+ 
 message_111:
-    text: \n<GATOR GUY>Here's my phone number, boss.\! Just give me a call if you ever need some back-up.
-
+    text: \n<ALI GATOR>To mój numer telefonu, szefie.\! Zadzwoń, jeśli będziesz potrzebował wsparcia.
+ 
 message_112:
-    text: HERO learned \c[1]GATOR AID\c[0]!
+    text: HERO poznał \c[1]WSPOMAGATOR\c[0]!
 #Skill Get common event
-
+ 
 #not enough CLAMS
-
+ 
 message_1001:
-    text: \n<GATOR GUY>You don't got enough CLAMS on you, boss!\! No worries, I can wait.\! I'm sure you could earn some real quick.
-
+    text: \n<ALI GATOR>Masz za mało MAŁŻY, szefie!\! Ale spoko, mogę poczekać.\! Jestem pewien, że szybko coś zarobisz.
+ 
 #Statues
-
+ 
 message_1010:
-    text: An impressive statue of you.\!<br>It's weird to see your face so big.
-
+    text: Imponujący posąg przedstawiający ciebie.\!<br>Dziwnie widzieć twoją twarz w takim rozmiarze.
+ 
 message_1011:
-    text: An impressive statue of AUBREY.\!<br>Her cheerful presence lights up the whole area.
-
+    text: Imponujący posąg przedstawiający AUBREY.\!<br>Jej radosną aurę czuć wszędzie dookoła. 
+ 
 message_1012:
-    text: An impressive statue of KEL.\!<br>It captures his essence perfectly.
-
+    text: Imponujący posąg przedstawiający KELA.\!<br>Idealnie oddaje jego istotę bycia.
+ 
 message_1013:
-    text: An impressive statue of HERO.\! Wow...
-
+    text: Imponujący posąg przedstawiający HERO.\! Łał...
+ 
 message_1014:
-    text: An impressive statue of MARI.\!<br>You never know what's hiding behind her mischevious smile.
-
+    text: Imponujący posąg przedstawiający MARI.\!<br>Nigdy nie wiesz, co się kryje za tym psotnym uśmieszkiem.
+ 
 message_1015:
-    text: An impressive statue of BASIL.\!<br>Even as a statue, he's hiding his face behind a camera.
-
+    text: Imponujący posąg przedstawiający BASILA.\!<br>Nawet jako posąg wciąż chowa się przed obiektywem.
+ 
 message_1016:
-    text: An impressive statue of GATOR GUY.\!<br>Lookin' good...
+    text: Imponujący posąg przedstawiający ALI GATORA.\!<br>Wygląda nieźle...
+ 
+
