@@ -254,7 +254,7 @@ message_40:
 message_45:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Jeśli nie stawisz czoła prawdzie...\! staw się mnie.
+      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Jeśli nie stawisz czoła prawdzie...\! staw mi czoła.
  
 message_41:
       faceset: MainCharacter_Basil
