@@ -1,156 +1,156 @@
 # =========================================================================================
 # Dreamworld NPC dialogue
 # =========================================================================================
-
+ 
 # ==============WHITE SPACE / Neighbors Room ========================================
                         #====NIGHT 1-1====
-
+ 
 #Black Cat
 #Location: White Space, asleep
 message_0:
-      text: The black cat is fast asleep.
-
+      text: Czarny kot pogrążył się w głębokim śnie.
+ 
 #EYE in the shelf
 #Location: Neighbors room, inthe shelf
 message_1:
-      text: You feel like you are being watched.
-
+      text: Czujesz się obserwowany.
+ 
 #SNAKE
 #Location: Neighbor's Room, on the staircase
 message_2:
-      text: \sinv[1]Sssssssssssss?\sinv[0]\! (Waiting for something to happen?)
-
+      text: \sinv[1]Sssssssssssss?\sinv[0]\! (Czekasz, aż coś się stanie?)
+ 
 # ==============FOREST PLAYGROUND========================================
                         #====NIGHT 1-1====
-
+ 
 #Bangs
 #Location: Forest Playground
 message_10:
-      text: \banHaving fun takes too much effort, so watching my friends have fun is enough for me.
-
+      text: \n<GRZYWCIO>Zabawa jest zbyt męcząca, więc wystarczy mi obserwowanie, jak bawią się moi przyjaciele.
+ 
 #Bun
 #Location: Forest Playground
 message_11:
-      text: \bunNOSE is my best friend.\!<br>She can't say much, but she's really smart!
-
+      text: \n<KOCZKA>NOSKA jest moją najlepszą przyjaciółką.\!<br>Niewiele mówi, ale jest bardzo mądra!
+ 
 message_12:
-      text: \daiS-sorry, can you please not go this way?<br>I'm picking flowers \}for someone special...
-
+      text: \n<MARGARETA>P-przepraszam, możesz tędy nie przechodzić?<br>Zbieram kwiatki \}dla kogoś wyjątkowego...
+ 
 message_13:
-      text: \daiI picked some flowers \}for someone special...<br>I hope he likes it...
-
+      text: \n<MARGARETA>Zebrałam kilka kwiatków \}dla kogoś wyjątkowego...<br>Mam nadzieję, że mu się spodobają...
+ 
 #After Headbutt Quest
 message_14:
-      text: \berCome on, VAN.\! Put your head into it!
-
+      text: \berNo dawaj, VAN.\! Rusz głową!
+ 
 message_15:
-      text: \n<BROWS>\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!
-
+      text: \n<BREWCIO>\Com[2]AAAAAAA\{AAAAAA\{AAAA!!!
+ 
 message_16:
-      text: \hapHop! \}And-a-\{Hop! \}And-a-\{Hop! Hop! Hop!
-
+      text: \hapHop! \}No-i--\{Hop! \}No-i--\{Hop! Hop! Hop!
+ 
 # ==============HEADBUTT=======================================
-
+ 
 message_20:
-      text: \berHey, dudes! Thanks for getting my ball back.\!<br>As you can see, I'm putting it to good use!
-
+      text: \berHej, ludziska! Dzięki za pomoc w odzyskaniu piłki.\!<br>Jak widać, już z niej korzystam!
+ 
 message_21:
-      text: \n<VAN>Yup, she sure is.
-
+      text: \n<VAN>Ta, to właśnie robi.
+ 
 message_22:
-      text: \berI was thinkin'...\! Since you were all so kind to help me out,<br>I'm gonna be generous and teach you my special \c[1]SKILL\c[0].
-
+      text: \berTak sobie myślałam...\! Skoro byliście tacy mili, żeby mi pomóc,<br>to wykażę się hojnością i nauczę was mojej specjalnej \c[1]ZDOLNOŚCI\c[0].
+ 
 message_23:
-      text: \berBut first, I got a question for y'all...
-
+      text: \berAle najpierw mam do was pytanie...
+ 
 message_24:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \kelWell, \{duh!\} That'd have to be \n[2]!
-
+      text: \kelNo, \{ba!\} No jasne, że \n[2]!
+ 
 message_25:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aub\Com[2]\{What did you say!?
-
+      text: \aub\Com[2]\{Coś ty powiedział!?
+ 
 message_26:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \kelWhoa, chill out!\!<br>No \{hard\} feelings... get it?
-
+      text: \kelWeź, uspokój się!\!<br>Jeju, ale z ciebie \{twarda\} sztuka... czaisz?
+ 
 message_27:
-      text: \berHeh.\! That sounds about right!
-
+      text: \berHa.\! Ma to sens!
+ 
 message_28:
-      text: \berAlright \n[2], I'm gonna teach you a \c[1]SKILL\c[0], just between hard-headed folk like us.
-
+      text: \berNo dobra, \n[2], nauczę cię \c[1]ZDOLNOŚCI\c[0], tak między nami, twardogłowami.
+ 
 message_29:
-      text: \berIt's my specialty... \c[1]HEADBUTT\c[0]!<br>\!It's simple really. You just run up to someone and...
-
+      text: \berTo moja specjalność... \c[1]Z DYŃKI\c[0]!<br>\!Totalny banał, naprawdę. Po prostu podbiegasz do kogoś i...
+ 
 message_30:
-      text: \Com[2]\{WH\{\Com[2]HHH\{HHAA\{\Com[2]AAMMMM!!!
-
+      text: \Com[2]\{TR\{\Com[2]RRR\{RRAA\{\Com[2]AAAACH!!!
+ 
 message_31:
-      text: \berNow you try.
-
+      text: \berTwoja kolej.
+ 
 message_32:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubThat looks like it would hurt...\!<br>And also mess up my hair.\!<br>And also ruin my bow.
-
+      text: \aubWygląda na bolesne...\!<br>I zrobiłoby mi siano na głowie.\!<br>I zniszczyło moją kokardę.
+ 
 message_33:
-      text: \berOh come on, \n[2]! Live a little!<br>Having messy hair never hurt anyone.\!<br>\n[4] is living proof of that.
-
+      text: \berNo weź, \n[2]! Poszalej trochę!<br>Rozczochrane włosy jeszcze nikogo nie zabiły.\!<br>\n[4] to żywy przykład.
+ 
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \herYeah, you bet!
-
+      text: \herA żebyś wiedziała!
+ 
 message_35:
-      text: \berWhy don't you give it a shot?
-
+      text: \berNo, spróbuj.
+ 
 message_36:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: \aubHmph! Fine...
-
+      text: \aubPfft! No dobra...
+ 
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubBut if I'm doing this... I'm gonna give it all I got!
-
+      text: \aubAle jeśli mam to zrobić... to dam z siebie wszystko!
+ 
 message_38:
-      text: \Com[2]\{WH\{\Com[2]HHH\{HHAA\{\Com[2]AAMMMM!!!
-
+      text: \Com[2]\{TR\{\Com[2]RRR\{RRAA\{\Com[2]AACH!!!
+ 
 message_39:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubErughh...
-
+      text: \aubYychh...
+ 
 message_40:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubUh-oh... \! I feel... dizzy...
-
+      text: \aubO nie... \! Teraz... kręci mi się w głowie...
+ 
 message_41:
-      text: \ber\{whoa! Nice one!!\}<br>I knew I saw talent in you.
-
+      text: \ber\{O rany! Nieźle!!\}<br>Wiedziałam, że masz do tego talent.
+ 
 message_42:
-      text: \ber\{Congratulations!!\}<br>You passed the test with flying colors!
-
+      text: \ber\{Gratulacje!!\}<br>Przeszłaś test śpiewająco!
+ 
 message_43:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aub...Huh?\! What's happening?
-
+      text: \aub... Hę?\! Co się dzieje?
+ 
 message_44:
-      text: \berFrom this day forth...<br>I hereby declare you a bonafide \c[1]HEADBUTTER\c[0].
-
+      text: \berOd dnia dzisiejszego...<br>Ogłaszam cię prawdziwą \c[1]DYŃKĄ\c[0].
+ 
 message_45:
-      text: \berHere, take this certificate.<br>Show your friends. I'm sure they'll be proud!
-
+      text: \berProszę, oto twój certyfikat.<br>Pokaż przyjaciołom. Na pewno będą dumni!
+ 
 message_46:
-      text: AUBREY learned \c[1]HEADBUTT\c[0].
-
+      text: AUBREY poznała cios \c[1]Z DYŃKI\c[0].
+ 
 message_47:
-      text: You got a \c[4]BUTT CERTIFICATE\c[0].
+      text: Dostałeś \c[4]CERTYFIKAT 2 DYNIEK\c[0].

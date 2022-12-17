@@ -525,7 +525,7 @@ message_171:
 message_175:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marVAN wyrzucił \c[4]ZAGINIONĄ PIŁKĘ\c[0] BERLY gdzieś w głąb \c[11]NIEZMIERNEGO LASU\c[0].\. Nie mogła polecieć zbyt daleko.\.\^
+      text: \marVAN rzucił \c[4]ZAGINIONĄ PIŁKĄ\c[0] BERLY gdzieś w głąb \c[11]NIEZMIERNEGO LASU\c[0].\. Nie mogła polecieć zbyt daleko.\.\^
 
 #After getting BERLY'S BALL:
 
@@ -713,12 +713,12 @@ message_241:
 message_245:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marKITE KID thinks one of the pinwheels in the \c[11]FLOATING FOREST\c[0] is broken.\. I wonder if there's any way to fix it.\.\^
+      text: \marDZIECIAK Z LATAWCEM sądzi, że jeden z wiatraczków w \c[11]PODNIEBNYM ZAGAJNIKU\c[0] jest popsuty.\. Ciekawe, czy jest jakiś sposób, by go naprawić.\.\^
 
 message_246:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marThe pinwheels seem to all be spinning now.\. You know what KEL always says.\. If it doesn't work...\. throw something at it!\.\^
+      text: \marWszystkie wiatraczki już się kręcą.\. Pamiętasz powiedzonko KELA.\. Jeśli coś się popsuło...\. cios pomoże!\.\^
 
 # =========================================================================================
 
@@ -732,12 +732,12 @@ message_246:
 message_250:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marBERLY says she's looking for the perfect material to inspire her next amazing feat...\. to create the ultimate weapon!\.\^
+      text: \marBERLY szuka czegoś, co zainspiruje ją do kolejnego niesamowitego wyczynu...\. stworzenia arcybroni!\.\^
 
 message_251:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marWow, that \c[13]COOL NOODLE\c[0] is way cooler than a normal \c[13]POOL NOODLE\c[0]!\. It must be so much more powerful now.\.\^
+      text: \marWow, ten \c[13]MAKARĄ\c[0] jest o wiele fajniejszy niż zwykły \c[13]MAKARON\c[0]!\. Stał się teraz potężną bronią.\.\^
 
 
 # =========================================================================================
@@ -751,7 +751,7 @@ message_251:
 message_255:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marPESSI seems to have lost a precious thing.\.<br>Maybe you can help him by retracing his steps in \c[11]SPROUT MOLE VILLAGE\c[0].\.\^
+      text: \marPESSI zgubił coś bardzo cennego.\.<br>Może moglibyście mu pomóc, podążając za jego śladami w \c[11]WIOSCE KIEŁKUNÓW\c[0].\.\^
 
 
 #After getting PESSI'S THING:
@@ -759,12 +759,12 @@ message_255:
 message_261:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marYay! You got \c[4]PESSI'S THING\c[0] back from ROSA.\.<br>Ah... I see...\. It's that kind of thing.\. Well, who am I to judge?\. Go return it to him.\.\^
+      text: \marJej! Odzyskaliście od RÓŻY \c[4]COŚ PESSIEGO\c[0].\.<br>Ach... Rozumiem...\. To takie coś.\. Cóż, nie mnie to oceniać.\. Zwróćcie mu to.\.\^
 
 message_260:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marPESSI's going to be waiting in that line forever...\. Should someone tell him the event is already over?\.\^
+      text: \marPESSI zaczeka się w tej kolejce...\. Może powinniśmy powiedzieć mu, że już się skończyło?\.\^
 
 # =========================================================================================
 
@@ -777,17 +777,17 @@ message_260:
 message_265:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marThe goddess of the lake isn't looking too happy these days.\. Maybe some jokes would be able to cheer her up!\. Make sure you have a \c[4]JOKE BOOK\c[0] to write them all down.\.\^
+      text: \marOstatnimi czasy pani jeziora nie wygląda na szczęśliwą.\. Może jakiś żart poprawi jej humor!\. Upewnijcie się, że macie \c[4]KSIĘGĘ ŻARTÓW\c[0], by wszystkie w niej spisać.\.\^
 
 message_266:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marMost of the jokes I've seen around are pretty bad...\. but there's got to be a joke that's less bad than the others.\.\^
+      text: \marWiększość żartów, które tu słyszałam, była dość słaba...\. ale gdzieś musi znaleźć się żart choć ciut lepszy od tamtych.\.\^
 
 message_267:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marOut of all the jokes, that was the one to make her laugh?\. Well, I guess humor is different for everyone.\.\^
+      text: \marTen żart, spośród wszystkich innych, ją rozśmieszył?\. Cóż, każdy ma własne poczucie humoru.\.\^
 
 # =========================================================================================
 
@@ -801,13 +801,13 @@ message_267:
 message_270:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marWhere could BASIL be?\. I thought he was with you, OMORI...\. You last spotted him at his house, right?\. Maybe you should trace your steps.\.\^
+      text: \marGdzie mógł podziać się BASIL?\. Myślałam, że był razem z tobą, OMORI...\. Ostatni raz widzieliście go w jego domu, tak?\. Może powinniście pójść swoimi śladami.\.\^
 
 #Path to Basil (II)
 message_271:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marBASIL's house is just down this path.\. I hope BASIL is okay...\. He doesn't do well alone...\.\^
+      text: \marDom BASILA jest na wprost.\. Oby wszystko było z nim w porządku...\. Sam nie radzi sobie dobrze...\.\^
 
 #==========================
 #After you visit BASIL's house (after getting Hangman), MARI's dialogue for the BASIL IS MISSING quest changes depending on the map you are in.
@@ -816,86 +816,86 @@ message_271:
 message_272:
         faceset: MainCharacter_Mari
         faceindex: 4
-        text: \marWhere could BASIL be?\. Could he be somewhere in \c[11]VAST FOREST\c[0]?\. BASIL wouldn't just go off on his own like that...\. Maybe something happened to him...\.\^
+        text: \marGdzie podział się BASIL?\. Czy jest gdzieś w \c[11]NIEZMIERNYM LESIE\c[0]?\. BASIL nie uciekłby od tak...\. Może coś mu się stało...\.\^
 
 #Path to Basil (II)
 message_273:
         faceset: MainCharacter_Mari
         faceindex: 4
-        text: \marIt doesn't look like BASIL is anywhere in \c[11]VAST FOREST\c[0] after all...\. I wonder where he could have wandered off to.\.\^
+        text: \marNie wygląda na to, aby BASIL był gdzieś w \c[11]NIEZMIERNYM LESIE\c[0]...\. Jestem ciekawa, gdzie mógł odejść.\.\^
 
 #Kite Kid
 message_274:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marWould BASIL wander all the way up here? From what I can see, there hasn't been anything out of the ordinary.\. Just trees, pinwheels, and the wind.\.\^
+      text: \marCzy BASIL odszedłby aż tu, na górę? Jak widać, nie ma tu nic niezwykłego.\. Tylko drzewa, wiatraczki i wiatr.\.\^
 
 #Orange Oasis
 message_275:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marDo you think BASIL stumbled upon here somehow?\. I'm sure he would've said hello if he saw me.\. I would've fed him so many CARAMEL APPLES, even if he doesn't like sweets!\.\^
+      text: \marMyślicie, że BASIL jakimś cudem się tutaj przypałętał?\. Jestem pewna, że przywitałby się, gdyby mnie zauważył.\. Poczęstowałabym go masą JABŁEK W KARMELU, nawet jeśli nie lubi słodyczy!\.\^
 
 #Rain town
 message_276:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marIt's not likely that BASIL is around here, though I do think BASIL would have enjoyed this place.\. All the VEGGIE KIDS would've liked him, too.<br>Just imagine...\. BASIL reading the VEGGIE KIDS a book for storytime...\. Adorable!\.\^
+      text: \marRaczej nie znajdziemy tu BASILA, chociaż myślę, że spodobałoby mu się to miejsce.\. Wszystkie ŚWIEŻAKI by go polubiły.<br>Tylko sobie to wyobraźcie...\. BASIL czytający ŚWIEŻAKOM opowiadanie...\. Uroczo!\.\^
 
 #Otherworld campsite
 message_277:
         faceset: MainCharacter_Mari
         faceindex: 2
-        text: \marCould BASIL have climbed the ladder all the way up to \c[11]OTHERWORLD\c[0]?\. You can try asking around to see if people have seen him.\.<br>The SPACE PIRATES just north of here may be a good place to start.\.\^
+        text: \marCzy BASIL wspiąłby się drabiną aż do \c[11]PLANETOWA INNEGO\c[0]?\. Możecie spytać miejscowych, czy go nie widzieli.\.<br>KOSMOPIRACI na północ stąd mogą być dobrym wyborem na początek.\.\^
 
 #Frozen Lake
 message_278:
         faceset: MainCharacter_Mari
         faceindex: 4
-        text: \marI haven't seen BASIL around here, but I don't think BASIL would have come here on his own.\. He really doesn't like cold weather...\.\^
+        text: \marNie widziałam BASILA w okolicy, ale nie wydaje mi się, by chciałby tu przyjść.\. Nie przepada za zimnem...\.\^
 
 
 #Junkyard IV
 message_279:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marYou can get a really good look of the entire \c[11]JUNKYARD\c[0] from up here...\. but I don't see BASIL anywhere.<br><br>It is strange though...\. I could've sworn I saw BASIL near the campsite earlier...\. but maybe I was mistaken.\.\^
+      text: \marStąd ma się niezły widok na cały \c[11]ŚMIECIOGRÓDEK\c[0]...\. ale nigdzie nie widzę BASILA.<br><br>To trochę dziwne...\. Mogę przysiąc, że wcześniej widziałam BASILA przy obozie...\. mogłam się mylić.\.\^
 
 #Junkyard IX  (Same as Junkyard IV)
 message_280:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marYou can get a really good look of the entire \c[11]JUNKYARD\c[0] from up here...\. but I don't see BASIL anywhere.<br><br>It is strange though...\. I could've sworn I saw BASIL near the campsite earlier...\. but maybe I was mistaken.\.\^
+      text: \marStąd ma się niezły widok na cały \c[11]ŚMIECIOGRÓDEK\c[0]...\. ale nigdzie nie widzę BASILA.<br><br>To trochę dziwne...\. Mogę przysiąc, że wcześniej widziałam BASILA przy obozie...\. mogłam się mylić.\.\^
 
 #Pyrefly IV
 message_281:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marI've been thinking...\. Maybe BASIL had to go somewhere important in a rush...\. But where would he have gone? And why wouldn't he tell us about it?\.<br>I just hope he didn't end up in any trouble... and that he's somewhere safe.\.\^
+      text: \marZastanawiałam się, czy...\. Może BASIL musiał gdzieś pilnie się udać...\. Ale gdzie mógł pójść? I czemu nam o tym nie powiedział?\.<br>Mam tylko nadzieję, że nie wpakował się w żadne tarapaty... i że jest w bezpiecznym miejscu.\.\^
 
 #Pyrefly to SM town
 message_282:
         faceset: MainCharacter_Mari
         faceindex: 4
-        text: \mar\sinv[1]Sigh...\sinv[0]\. I've looked all over, but it doesn't look like BASIL is around this area either...\. We can't give up...\. BASIL needs us!\.\^
+        text: \mar\sinv[1]Ech...\sinv[0]\. Szukałam już wszędzie, ale tu też nigdzie nie widać śladu BASILA...\. Nie możemy się poddać...\. BASIL nas potrzebuje!\.\^
 
 #Sproutmole Town I
 message_283:
         faceset: MainCharacter_Mari
         faceindex: 0
-        text: \marHey! It looks like the \c[4]SHOW TICKETS\c[0] you found can be used here.\. But it might help to take a look around for BASIL first.<br><br>Do you think the SPROUT MOLES will know anything?\. It never hurts to ask!\.\^
+        text: \marHej! Możecie wykorzystać tu znalezione przez was \c[4]BILETY NA SPEKTAKL\c[0].\. Ale lepiej najpierw rozejrzeć się, czy nie ma tu BASILA.<br><br>Czy KIEŁKUNY mogą coś wiedzieć?\. Kto pyta, nie błądzi!\.\^
 
 #Underground Dungeon
 message_284:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marWhat if BASIL got in trouble with SWEETHEART and she locked him up?\. This place is so big...\. There must be answers somewhere!\.\^
+      text: \marCo, jeśli BASIL podpadł SŁODZIUTKIEJ, a ona go uwięziła?\. Lochy są ogromne...\. Gdzieś musi kryć się odpowiedź!\.\^
 
 #Servant's Quarter (Same as Underground Dungeon)
 message_285:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marWhat if BASIL got in trouble with SWEETHEART and she locked him up?\. This place is so big...\. There must be answers somewhere!\.\^
+      text: \marCo, jeśli BASIL podpadł SŁODZIUTKIEJ, a ona go uwięziła?\. Pałac jest ogromny...\. Gdzieś musi kryć się odpowiedź!\.\^
 
 #==========================
 #After the Swim switch, MARI will play the same dialogue across all picnics. This should override any previous unique dialogue.
@@ -904,12 +904,12 @@ message_285:
 message_286:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marHmm... BASIL is missing, huh?\. Could he be somewhere around here?\. You know him better than we do, OMORI!\.\^
+      text: \marHmm... BASIL się zgubił, co?\. Czy jest gdzieś tutaj?\. Znasz go lepiej niż my, OMORI!\.\^
 
 message_287:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marDarn...\. It doesn't look like BASIL was in SWEETHEART's castle either.\. Where else could he have gone?\.\^
+      text: \marKurczę...\. BASILA nie było też w zamku SŁODZIUTKIEJ.\. Gdzie jeszcze mógł się podziać?\.\^
 
 #Last Resort
 #Last Resort Elevator
@@ -938,14 +938,14 @@ message_287:
 message_400:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marOMORI...\. You... agreed to slay bunnies for LEAFIE?\. AUBREY will be upset you know.\.\^
+      text: \marOMORI...\. Ty... zgodziłeś się zabić króliki na prośbę LIŚCIKA?\. Wiesz, AUBREY będzie przykro.\.\^
 
 #Quest Complete:
 
 message_401:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marI can't say I'm thrilled...\. but congratulations...\. you're a BUNNY-killer now.\.\^
+      text: \marNie powiem, że mnie to nie rusza...\. ale gratuluję...\. otrzymujesz tytuł KRÓLIKOBÓJCY.\.\^
 
 
 # =========================================================================================
@@ -959,21 +959,21 @@ message_401:
 message_402:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marIt seems to be raining just a bit too much.\. There's got to be something here that can help these VEGGIE KIDS.\.\^
+      text: \marZbyt mocno się rozpadało.\. Musi być coś, co pomoże ŚWIEŻAKOM.\.\^
 
 #Quest Complete:
 
 message_403:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marYou can't blame yourself for what happened to \c[11]RAIN TOWN\c[0].\. You were only trying to help...\. right?\.\^
+      text: \marNie obwiniajcie się o to, co stało się z \c[11]MŻAWKOWEM\c[0].\. Próbowaliście pomóc...\. racja?\.\^
 
 #Quest Complete II:
 
 message_408:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marThe VEGGIE KIDS are comfortable again.\. I hope they grow up and become wonderful VEGGIE ADULTS!\.\^
+      text: \marŚWIEŻAKI znowu mogą być spokojne.\. Mam nadzieję, że szczęśliwie dorosną i staną się wspaniałymi DOJRZAKAMI!\.\^
 
 
 # =========================================================================================
@@ -987,14 +987,14 @@ message_408:
 message_404:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marFARMER JIM must be having a real tough time with these pesky SQUIZZARDS.\. Help him get rid of those yucky creatures!\.\^
+      text: \marFARMER KUBA musi mieć ciężkie życie z uciążliwymi KAŁAMAGIKAMI.\. Pomóżcie mu pozbyć się tych paskudnych stworzeń!\.\^
 
 #Quest Complete:
 
 message_405:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marSEACOWS are so cute!\. Now that there's less SQUIZZARDS on the farm, they'll have more room to moo-ve around, hehe.\.\^
+      text: \marAle słodziaki z tych KRÓW MORSKICH!\. Mają muuu-ltum miejsca do popisu, skoro na farmie jest teraz mniej KAŁAMAGIKÓW, hehe.\.\^
 
 
 # =========================================================================================
@@ -1008,14 +1008,14 @@ message_405:
 message_406:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marWhoa! That's a \c[4]GIANT CHECK\c[0] for 1000000 CLAMS!\. I don't know of any banks around here, but I do know someone who might be hungry for CLAMS.\.\^
+      text: \marŁa! \c[4]WIELKI CZEK\c[0] na 1000000 MAŁŻ!\. Nie wiem, czy w okolicy są jakieś banki, ale znam kogoś, kto mógłby mieć chrapkę na MAŁŻE.\.\^
 
 #Quest Complete:
 
 message_407:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marHUMPHREY's full and happy now.\. All is well again!\. People just aren't themselves when they're hungry.\.\^
+      text: \marGIGANTOS jest teraz najedzony i zadowolony.\. Wszystko się ułożyło!\. Nie jesteś sobą, kiedy jesteś głodny.\.\^
 
 
 # =========================================================================================
@@ -1049,4 +1049,4 @@ message_407:
 message_420:
       faceset: MainCharacter_Mari
       faceindex: 7
-      text: \marI heard a rumor about an old empty house south of the playground.\. I wonder...\. if it really is empty, hehe...\.\^
+      text: \marDoszła do mnie plotka, że na południe od placu zabaw stoi stary opuszczony dom.\. Ciekawi mnie...\. czy naprawdę jest opuszczony, hehe...\.\^

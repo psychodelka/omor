@@ -826,7 +826,7 @@ Window_OmoMenuItemConfirmation.prototype.initialize = function() {
 //=============================================================================
 Window_OmoMenuItemConfirmation.prototype.isUsingCustomCursorRectSprite = function() { return true; };
 Window_OmoMenuItemConfirmation.prototype.standardPadding = function() { return 5; }
-Window_OmoMenuItemConfirmation.prototype.windowWidth = function() { return 115; }
+Window_OmoMenuItemConfirmation.prototype.windowWidth = function() { return 125; }
 Window_OmoMenuItemConfirmation.prototype.windowHeight = function() { return 68; }
 Window_OmoMenuItemConfirmation.prototype.lineHeight = function() { return 24; };
 Window_OmoMenuItemConfirmation.prototype.standardFontSize = function() { return LanguageManager.getMessageData("XX_BLUE.Window_OmoMenuItemConfirmation").standardFontSize; };

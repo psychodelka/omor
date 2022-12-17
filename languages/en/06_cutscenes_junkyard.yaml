@@ -1,399 +1,401 @@
 # =========================================================================================
 # Cutscene: Aubrey's SMASH Tag Skill
 # =========================================================================================
-
+ 
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: Awww, man!<br>It looks like there's a big block of junk in the way!\kel
-
+      text: No nie!<br>Na drodze leży kupa śmieci!\kel
+ 
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: You might even call it...\! a roadblock...\! get it?\her
-
+      text: Szkoda...\! a nawet przeszkoda!...\! Łapiecie?\her
+ 
 message_2:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: Not to worry, everyone!\!<br>This big ol' block is nothing compared to my swing!\aub
-
+      text: Hej, nie ma co się martwić!\!<br>To żaden problem dla mojego machnięcia!\aub
+ 
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: Hey OMORI, you know how you can cut roots and traffic cones? \!Well, you're not the only one with a special ability around here!\aub
-
+      text: Hej OMORI, wiesz, że możesz ścinać korzenie i pachołki, prawda? \!Nie jesteś tutaj jedyną osobą ze specjalnymi zdolnościami!\aub
+ 
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: I, for one, can smash large blocks out of the way!\aub
-
+      text: Ja, na przykład, mogę zmiatać duże przeszkody stojące nam na drodze!\aub
+ 
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: KEL and HERO have their own special abilities, too...<br>\}\!Although I'm not so sure about KEL... hehe...\aub
-
+      text: KEL i HERO też mają swoje super moce...<br>\}\!Chociaż mam wątpliwości co do KELA... hehe...\aub
+ 
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Just make me the LEADER by selecting TAG in the PLAYER MENU or by holding \DII[tag]! \!<br>I'll get rid of this hunkajunk, easy-peasy!\aub
-
-
+      text: By przekazać mi rolę LIDERA, po prostu mnie ZACZEP lub przytrzymaj \DII[tag]! \!<br>Pozbędę się tej kupy złomu! To dla mnie łatwizna!\aub
+ 
+ 
 message_7:
-      text: The gate is locked.\! You can probably open it using a \c[4]JUNKYARD KEY\c[0].
-
+      text: Brama jest zamknięta.\! Może uda ci się ją otworzyć za pomocą  \c[4]ŚMIECIOKLUCZA\c[0].
+ 
 # =========================================================================================
 # Cutscene: Kel's THROW Tag Skill
 # =========================================================================================
-
+ 
 #message_20:
 #      faceset: MainCharacters_DreamWorld
 #      faceindex: 18
 #      text: Hey, is that a target I see?\! I'll have you know that throwing stuff at targets is my specialty!\!<br>Make me LEADER, OMORI! I'll hit that switch for you!\kel
-
+ 
 # =========================================================================================
 # Cutscene: Hero's CHARM Tag Skill
 # =========================================================================================
-
+ 
 message_30:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \Com[2]Hey, MR. CONVEYOR-BOT!\!<br>Switch up those conveyor belts for us already!\kel
-
+      text: \Com[2]Ej, PANIE TAŚMOBOCIE!\!<br> Przełączaj te taśmy!\kel
+ 
 message_31:
-      text: \n<MR. CONVEYOR-BOT>\quake[1]Bzzt...\! Hmph...\! Rude person...\quake[0]
-
+      text: \n<PAN TAŚMOBOT>\quake[1]Bzzt...\! Hmf...\! Niemiła osoba...\quake[0]
+ 
 message_32:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: You can't just yell orders at people, KEL!\!<br>Geez! Have some tact, will you?\aub
-
+      text: KEL, nie możesz tak sobie rozkazywać na lewo i prawo!\!<br>Rany! Chociaż udawaj miłego, dobra?\aub
+ 
 message_33:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Now, now... There's no need to fuss.\! I'll handle this one!\her
-
+      text: Spokojnie... Nie ma co robić awantury.\! Ja się tym zajmę!\her
+ 
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 49
-      text: Ahem...\! Greetings, Sir CONVEYOR-BOT.\! My companions and I require your assistance in changing the directions of your conveyors.\! Will you and your friends please help us?\her
-
+      text: Ekhem...\! Witam, mości PANIE TAŚMOBOCIE.\! Moi kompani oraz ja żądamy pańskiej pomocy ze zmianą kursu ruchu taśmociągów.\! Czy wraz z waćpana współpracownikami bylibyście w mocy nam pomóc?\her
+ 
 #HERO CHARM ANIMATION
-
+ 
 message_35:
-      text: \n<CONVEYOR-BOT>\quake[1]Bzzzzzt!\! Ahh...\! Hmm...\! Nice person...\! Okay... \quake[0]
-
+      text: \n<PAN TAŚMOBOT>\quake[1]Bzzzzzt!\! Aaa...\! Hmm...\! Miła osoba...\! Dobrze... \quake[0]
+ 
 message_36:
-      text: \n<CONVEYOR-BOT>\}\quake[1]Bzzzzt... Rude person...
-
+      text: \n<PAN TAŚMOBOT>\}\quake[1]Bzzzzt... Niemiła osoba...
+ 
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Now, now... There's no need to fuss.\! I'll handle this one!\!<br>TAG me, OMORI!\her
+      text: Spokojnie... Nie ma co robić awantury.\!Ja się tym zajmę!\!<br>ZACZEP mnie, OMORI!\her
 # =========================================================================================
 # Cutscene: Hero's CHARM Tag Skill (Cont.)
 # =========================================================================================
-
+ 
 #Trigger: OMORI cuts the cheese.
-
+ 
 message_40:
-      text: You cut the cheese.
-
+      text: Kroisz ser.
+ 
 #Trigger: Tag HERO and examine Cheese.
-
+ 
 # EMS spirals down from the sky
-
+ 
 message_50:
-      text: \}Hello, friends!\! It's me... EMS, the humble hungry hamster!\ems
-
+      text: \}Witajcie, przyjaciele!\! To ja... EMI, skromna i głodna!\n<EMI>
+ 
 #EMS looks around.
-
+ 
 message_51:
-      text: \}Oh wow, is this all for me? What a treat!\!<br>How did you know that cheese is my favorite?\ems
-
+      text: \}Wow, to wszystko dla mnie? Ale wyżerka!\!<br>Skąd wiedzieliście, że kocham ser?\n<EMI>
+ 
 message_52:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: I don't have to guess, EMS!\!<br>Everything is your favorite.\her
-
+      text: Nietrudno zgadnąć, EMI!\!<br>Ty przecież kochasz każde jedzenie.\her
+ 
 #HERO turns to party.
-
+ 
 message_53:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Everyone, this is EMILY the hamster, but I just call her EMS!\!<br>She's a good friend of mine.\her
-
+      text: Wszyscy, oto chomik EMILKA, ale możecie nazywać ją EMI!\!<br>Jest moją wierną przyjaciółką.\her
+ 
 message_54:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: You know what to do, EMS!\her
-
+      text: Wiesz, co robić, EMI!\her
+ 
 message_55:
-      text: \}I sure do!\! \Com[2]Be done in a jiffy!\ems
-
+      text: \}Się wie!\! \Com[2]Potrzymaj mi kokardkę!\n<EMI>
+ 
 #EMS begins to devour the cheese.
-
+ 
 message_56:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: Whoa...\kel
-
+      text: Ja cię kręcę...\kel
+ 
 message_57:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: How does all of that even fit in her body?\aub
-
+      text: Jak ona tyle w sobie zmieściła?\aub
+ 
 message_58:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Beats me. I try not to think about it.\her
-
+      text: Nie mam zielonego pojęcia. Nie zawracaj sobie tym głowy.\her
+ 
 message_59:
-      text: The cheese has been eaten, and the path has been cleared.
-
+      text: Ser został zjedzony, a droga oczyszczona.
+ 
 message_60:
-      text: \}That was incredibly satisfying!\ems
-
+      text: \}Dość się najadłam!\n<EMI>
+ 
 message_61:
-      text: \}If you are ever in need of any giant cheese-eating services again, you know who to call!\ems
-
+      text: \}Jeśli całkiem przypadkowo na waszej drodze stanie gigantyczny ser, dajcie znać!\n<EMI>
+ 
 message_62:
-      text: \}Goodbye, friends!\ems
-
+      text: \}To na razie, przyjaciele!\n<EMI>
+ 
 #EMS spirals into the sky.
-
+ 
 # =========================================================================================
 # Cutscene: Rosa
 # =========================================================================================
-
+ 
 #Trigger: Entering proximity in JUNKYARD
-
+ 
 message_80:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Sigh...\! How are we supposed to find anything in here!?\!<br>There's just way too much junk!\aub
-
+      text: Ech...\! Jak niby mamy cokolwiek znaleźć w tej kupie śmieci!?\!<br>To jak szukanie igły w stogu siana!\aub
+ 
 message_81:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: Wait, were we looking for something?\kel
-
+      text: Czekaj, my czegoś szukamy?\kel
+ 
 message_82:
-      text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\who
-
+      text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHO~!!\who
+ 
 message_83:
-      text: At long last, I've finally found it.\who
-
+      text: Po tylu trudach, w końcu znalazłam.\who
+ 
 message_84:
-      text: After countless hours of digging and digging...\!<br>This one-of-a-kind, ultra-exclusive \c[4]SPECIAL MIXTAPE\c[0] finally belongs to me!\who
-
+      text: Po wieczności kopania...\!<br>Jedyna w swoim rodzaju, unikalna jak żadna inna \c[4]SUPER-SKŁADANKA\c[0] w końcu jest w moich rękach!\who
+ 
 message_85:
-      text: ROSA!\! The \#1 SWEETHEART fan in the world!\ros
-
+      text: RÓŻA!\! Największa fanka SŁODZIUTKIEJ na świecie!\n<RÓŻA>
+ 
 message_86:
-      text: With this one-of-a-kind addition to my collection,<br>I will finally surpass all those lame posers out there.\ros
-
+      text: Wszystkie te kiczowate plakaty opadną na widok tego wyjątkowego dodatku.\n<RÓŻA>
+ 
 message_87:
-      text: Wait...\! sniff...\! Oh, no!\! <br>This \c[4]SPECIAL MIXTAPE\c[0]...\! It smells like doo-doo.\!<br>Sniff... sniff...\! Oh, no!\! I smell like doo-doo!\ros
-
+      text: Chwila...\! niuch...\! No nie!\! <br>Ta \c[4]SUPER-SKŁADANKA\c[0]...\! cuchnie łajnem.\!<br>Niuch... niuch...\! Nie!\! Ja też cuchnę!\n<RÓŻA>
+ 
 message_88:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Hold on... Did she say she found a \c[4]SPECIAL MIXTAPE\c[0]?\!<br>That's what we've been looking for!\aub
-
+      text: Moment... Czy ona znalazła \c[4]SUPER-SKŁADANKĘ\c[0]?\!<br>Właśnie jej szukaliśmy!\aub
+ 
 message_89:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \sinv[1]Oh yeahhh\}hhhh\}hhh...\sinv[0]\kel\}
-
+      text: \sinv[1]O taaa\}aaaa\}aak...\sinv[0]\kel\}
+ 
 message_90:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Let's go get it!\kel
-
+      text: Chodźmy po nią!\kel
+ 
 message_91:
-      text: \Com[2]I can hear everything you're saying, you know!\!<br>Just as I suspected, owning something so valuable is already getting me into trouble.\ros
-
+      text: \Com[2]Wszystko słyszę!\!<br>Wiedziałam, że ta cenna kaseta sprawi mi wiele kłopotów.\n<RÓŻA>
+ 
 message_92:
-      text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\ros\sinv[0]
-
+      text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHO~!!\n<RÓŻA>\sinv[0]
+ 
 message_93:
-      text: What's the matter? Are you jealous??\ros
-
+      text: O co wam chodzi? Jesteście zazdrośni??\n<RÓŻA>
+ 
 message_94:
-      text: This \c[4]SPECIAL MIXTAPE\c[0] is mine!\!<br>I'll never give it to you! Not now, not ever!\ros
-
+      text: Ta \c[4]SUPER-SKŁADANKA\c[0] jest moja i tylko moja!\!<br>W życiu jej nie dostaniecie!\n<RÓŻA>
+ 
 message_95:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Hey! We didn't come all the way out here for nothing!\!<br>If you don't give us that \c[4]SPECIAL MIXTAPE\c[0], we'll have to take it by force!\kel
-
+      text: Słuchaj no, nie na darmo przebyliśmy tyle drogi!\!<br>Jeśli nie oddasz nam tej \c[4]SUPER-SKŁADANKI\c[0], będziemy zmuszeni użyć siły!\kel
+ 
 message_96:
-      text: \Com[2]\{\quake[1]EEEEEK!! SUCH SAVAGE BEHAVIOR!!\quake[0]\}\!<br>Violence never solved anything, you know.\ros
-
+      text: \Com[2]\{\quake[1]COOOOO?!! CO ZA BANDA ZBÓJÓW!!\quake[0]\}\!<br>Siłą niczego nie rozwiążesz, imbecylu.\n<RÓŻA>
+ 
 message_97:
-      text: Hmph!\! I'm much too refined for this nonsense.\!<br>Farewell, peons... and see you never!\ros
-
+      text: Hmf!\! Nie będę zniżać się do waszego poziomu.\!<br>Adios, servus, sayonara... do niezobaczenia!\n<RÓŻA>
+ 
 #ROSA runs off screen
-
+ 
 message_98:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \Com[2]Wait! Come back here!<br>\!Hurry, OMORI! After her! We can't let her get away!\kel
-
+      text: \Com[2]Chwila! Wracaj tu!<br>\!Dawaj, OMORI! Za nią! Nie możemy dać jej zwiać!\kel
+ 
 message_99:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Hurry, OMORI! After her!\!<br>We can't let her get away!\kel
-
+      text: Szybciej, OMORI!\!<br>Nie możemy dać jej zwiać!\kel
+ 
 # =========================================================================================
 # Cutscene: Loading...
 # =========================================================================================
-
+ 
 #Trigger: Entering proximity in JUNKYARD - BOSS MAP.
-
+ 
 message_120:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: ROSA... we've finally caught you!\!<br>Now give us back that \c[4]SPECIAL MIXTAPE\c[0]!\kel
-
+      text: W końcu cię mamy, RÓŻO!\!<br>A teraz oddawaj nam \c[4]SUPER-SKŁADANKĘ\c[0]!\kel
+ 
 message_121:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
       text: ...\kel
-
+ 
 message_122:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: What's with her?\!<br>\{\Sinv[1]\Com[2]HEY ROSA, CAN YOU HEAR US!?\kel\}\sinv[0]
-
+      text: Co z nią nie tak?\!<br>\{\Sinv[1]\Com[2]RÓŻO, SŁYSZYSZ NAS!?\kel\}\sinv[0]
+ 
 message_123:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Huh?\! I wonder why she isn't responding.\!<br>Let's take a closer look.\her
-
+      text: Hę?\! Czemu nie odpowiada?\!Przyjrzyjmy się jej.\her
+ 
 # =========================================================================================
 # Cutscene: Loading... continued
 # =========================================================================================
-
+ 
 #Trigger: Defeating download window
-
+ 
 message_140:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: ...\! What...\! just happened?\her
-
+      text: ...\! Co...\! się właśnie stało?\her
+ 
 message_141:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Who cares!? We gotta take back that \c[4]SPECIAL MIXTAPE\c[0]!\kel
-
+      text: Kogo to obchodzi!? Musimy zgarnąć \c[4]SUPER-SKŁADANKĘ\c[0]!\kel
+ 
 #OMORI walks to ROSA.
-
+ 
 message_142:
-      text: You took the \c[4]SPECIAL MIXTAPE\c[0] from ROSA.
-
+      text: Wziąłeś \c[4]SUPER-SKŁADANKĘ\c[0] od RÓŻY.
+ 
 #ROSA is surprised and looks around.
-
+ 
 message_143:
-      text: Huh? What in the world?\ros
-
+      text: Hę? Co do jasnej...?\n<RÓŻA>
+ 
 #ROSA looks at OMORI.
 #ROSA is surprised.
-
+ 
 message_144:
-      text: Hey! That's mine! Give it back!\ros
-
+      text: Ej! To moja własność! Oddawać!\n<RÓŻA>
+ 
 #KEL jumps.
-
+ 
 message_145:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: No way! It's finders keepers.\!<br>We're putting this back in SPACE BOYFRIEND's boombox, where it belongs!\kel
-
+      text: Chciałabyś! Znalezione nie kradzione.\!<br>Musimy to odłożyć na miejsce, czyli do boomboxa KOSMOCHŁOPAKA!\kel
+ 
 message_146:
-      text: Hm?\! SPACE...\! BOYFRIEND...\! you say?\ros
-
+      text: Hm?\! KOSMO...\! CHŁOPAKA...\! powiadasz?\n<RÓŻA>
+ 
 #ADD Ohohoho
-
+ 
 message_147:
-      text: Oh, you ignorant child.\!<br>Haven't you heard the latest news?\ros
-
+      text: O, to ty nie wiesz?\!<br>Nie słyszałeś ostatnich wieści?\n<RÓŻA>
+ 
 message_148:
-      text: I have a very reputable source who tells me that <br>SPACE BOYFRIEND and SWEETHEART have long since parted ways!\ros
-
+      text: Z zaufanego źródła doszła do mnie informacja o rozstaniu się KOSMOCHŁOPAKA ze SŁODZIUTKĄ!\n<RÓŻA>
+ 
 message_149:
-      text: Why do you think this \c[4]SPECIAL MIXTAPE\c[0] is in the \c[11]JUNKYARD\c[0] in the first place?\! It's because SPACE BOYFRIEND threw it away himself!\ros
-
+      text: A jak myślisz, dlaczego \c[4]SUPER-SKŁADANKA\c[0] trafiła do \c[11]ŚMIECIOGRÓDKA\c[0]?\! Bo KOSMOCHŁOPAK sam ją tu wyrzucił!\n<RÓŻA>
+ 
 message_150:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: SPACE BOYFRIEND threw away the \c[4]SPECIAL MIXTAPE\c[0] himself!?\!<br>Uh oh...\! That's not good.\her
-
+      text: KOSMOCHŁOPAK z własnej woli wyrzucił \c[4]SUPER-SKŁADANKĘ\c[0]!?\!<br>Ojoj...\! Niedobrze.\her
+ 
 message_151:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: But if SPACE BOYFRIEND and SWEETHEART aren't together anymore, how will we ever wake up SPACE BOYFRIEND now?\aub
-
+      text: Skoro KOSMOCHŁOPAK rozstał się ze SŁODZIUTKĄ, to jak niby mamy go teraz obudzić?\aub
+ 
 message_152:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: The future of the once-great coalition of SPACE PIRATES is depending on us...\aub
-
+      text: Przyszłość koalicji KOSMOPIRATÓW leży w naszych rękach...\aub
+ 
 message_153:
-      text: Hmph.\! That sounds like your problem, not mine.\ros
-
+      text: Hmf.\! To chyba wasz problem, nie mój.\n<RÓŻA>
+ 
 message_154:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: \com[2]Wait just a second!\! How do we know you're not lying about all this?\! You could just be trying to get this \c[4]SPECIAL MIXTAPE\c[0] back!\kel
-
+      text: \com[2]Zaczekaj chwilkę!\! Skąd możemy mieć pewność, że nie kłamiesz?\! Może po prostu chcesz od nas wyłudzić \c[4]SUPER-SKŁADANKĘ\c[0]?!\kel
+ 
 message_155:
-      text: Well...\! I...\! \Com[2]never!\!<br>I may be rude and pretentious, but I'm not a liar!\ros
-
+      text: Ee...\! Ja...\! \Com[2]nigdy!\!<br>Może jestem wścibska i wredna, ale absolutnie nie kłamliwa!\n<RÓŻA>
+ 
 message_156:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Like we'd trust you!\! I think we'll just keep this \c[4]SPECIAL MIXTAPE\c[0] and see for ourselves.\kel
-
+      text: Taa, a świnie potrafią latać!\! Na wszelki wypadek przechowamy \c[4]SUPER-SKŁADANKĘ\c[0] i sami się przekonamy.\kel
+ 
 message_157:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Now scram, you ugly plant creature!\! Go bother someone else!\kel
-
+      text: A teraz spadaj, paskudna kiełko!\! Zawracaj głowę komuś innemu!\kel
+ 
 message_158:
-      text: Oh, my!\! So rude.\ros
-
+      text: Dobry Boże!\! Co za arogancja.\n<RÓŻA>
+ 
 #ROSA walks away, then turns back to party.
-
+ 
 message_159:
-      text: You'll pay for this, stupid boy! Mark my words!\ros
-
+      text: Zapłacisz za to, podły dzieciaku! Zapamiętaj moje słowa!\n<RÓŻA>
+ 
 #ROSA walks off screen
-
+ 
 # =========================================================================================
 # NEW KEL THROW
 # =========================================================================================
-
+ 
 message_170:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \com[2]Ow! What the-!\! What gives!?\kel
-
+      text: \com[2]Ałć! Co do-!\! Za co!?\kel
+ 
 #KEL exclamation then idea
-
+ 
 message_171:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Heh. Well, whaddya know?\! There's a weak point on its head!\!<br>I can recognize one of those anywhere.\kel
-
+      text: Heh. No widzisz\! Ma czuły punkt na czubku głowy!\!<br>Zawsze je rozpoznaję.\kel
+ 
 #pan down to platform
-
+ 
 message_172:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Let's try throwing something at it!\!<br>I'm sure that'll work.\kel
-
+      text: Spróbujmy w to rzucić!\!<br>Powinno zadziałać.\kel
+ 
 message_173:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: That platform there looks like a good place to throw from.\!<br>TAG me! I got this!\kel
+      text: Ta platforma idealnie nada się do rzutu.\!<br>ZACZEP mnie! Zajmę się tym!\kel
+ 
+
