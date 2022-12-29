@@ -65,7 +65,7 @@ message_31:
 #CHARLENE
 #Location: Forest Playground
 message_12:
-      text: \n<KAROLCIA>\}\}W-witam... \!przyjaciele...
+      text: \n<SZARLIN>\}\}W-witam... \!przyjaciele...
  
 #LADAO
 #Location: Forest Playground
@@ -229,7 +229,7 @@ message_84:
       text: \berOd tego dnia...\!<br>Niniejszym ogłaszam cię niepodważalną DYNIACZKĄ.
  
 message_85:
-      text: \berI weź ze sobą ten certyfikat.\! Pochwal się swoim przyjaciołom. \!<br>Jestem pewna, że będą z ciebie dumni!
+      text: \berI weź ze sobą ten certyfikat.\! Pochwal się swoim przyjaciołom.\!Jestem pewna, że będą z ciebie dumni!
  
 message_86:
       text: AUBREY nauczyła się \c[1]Z DYŃKI\c[0].
@@ -453,7 +453,7 @@ message_132:
 #Location: Last Resort - Entrance
  
 message_133:
-      text: \n<KAROLCIA>\}\}H-hej... \!Zakaz chlapania w basenie... \!dobrze?
+      text: \n<SZARLIN>\}\}H-hej... \!Zakaz chlapania w basenie... \!dobrze?
  
 #DAISY (Mural Artist)
 #Location: Last Resort - Hotel Hallway
@@ -523,7 +523,7 @@ message_144:
 #CHARLENE
 #Location: Forest Playground
 message_145:
-      text: \n<KAROLCIA>\}\}Witam... \!ponownie...
+      text: \n<SZARLIN>\}\}Witam... \!ponownie...
  
 #DAISY
 #Location: Forest Playground

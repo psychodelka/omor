@@ -168,7 +168,7 @@ message_90:
 #After the washing animation is finished:
  
 message_101:
-      text: Skończyłeś zmywać\v[806].
+      text: Skończyłeś zmywać \v[806].
  
 message_102:
       text: Co chcesz teraz umyć?

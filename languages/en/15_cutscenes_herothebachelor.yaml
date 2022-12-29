@@ -15,7 +15,7 @@ message_1:
 #MUSTACHE MOLE walks one step forward.
  
 message_2:
-      text: Ty tam, ze spodniami w paski.\! Ty\quake[1]onieśmielająca bestio!\quake[0]\!<br>Tak... Ohohoho... Tak, ty się nadajesz!\n<WĄSATY KIEŁKUN>
+      text: Ty tam, ze spodniami w paski.\! Ty \quake[1]onieśmielająca bestio!\quake[0]\!<br>Tak... Ohohoho... Tak, ty się nadajesz!\n<WĄSATY KIEŁKUN>
  
 #HERO sweats.
  

@@ -1,296 +1,296 @@
 # =========================================================================================
 # Farawaytown extras daily dialogue
 # =========================================================================================
-
+ 
 #=========================================================================================
 # DAY 1 - SUNSET
 #=========================================================================================
-
-
+ 
+ 
 #========================== BASIL================================
-
+ 
 #Location: Basil's House (Cutscene: Polly)
 #BASIL's eyes follow \n[8].
-
+ 
 message_0:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: \n<BASIL>O-Oh...\! Hi...\! \n[8]...
-
+      text: \n<BASIL>O-och...\!Witaj...\! \n[8]...
+ 
 message_1:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: \n<BASIL>It's nice to finally see you again...\! Haha...
-
+      text: \n<BASIL>Dobrze cię w końcu widzieć...\! Haha...
+ 
 message_2:
       faceset: MainCharacter_Basil
       faceindex: 35
-      text: \n<BASIL>W-Why... are you staring at me like that?
-
+      text: \n<BASIL>Cz-czemu... tak na mnie patrzysz?
+ 
 message_4:
       faceset: MainCharacter_Basil
       faceindex: 36
-      text: \n<BASIL>U-Um...\! \n[8]?\! Is...\! Is everything okay?
-
+      text: \n<BASIL>E-em...\! \n[8]?\! Czy...\! Czy coś się stało?
+ 
 #========================== ANGEL================================
-
+ 
 #Location: Hobbeez looking at comics (Pet Rock Fight)
-
+ 
 message_10:
-      text: \n<ANGEL>\Com[2]What are you looking at!?\! Just so you know, I happen to be a regular here! I gotta study up on the latest comics before school starts again!
-
+      text: \n<ANGEL>\Com[2]Na co się gapisz!?\!Tak dla twojej wiadomości to jestem tu stałym klientem! Muszę przewertować wszystkie najnowsze komiksy przed końcem wakacji!
+ 
 #========================== CHARLIE (CHARLENE)================================
-
+ 
 #Location: Hardware store looking at flowers
-
+ 
 message_20:
       text: \n<CHARLIE>...
-
+ 
 #========================== THE MAVERICK================================
-
+ 
 #Location: FARAWAY PARK running in place in an open area
-
+ 
 message_30:
-      text: \n<THE MAVERICK>\Com[2]Ah!\! If it isn't KEL and \n[8]!
-
+      text: \n<WIELKI MAVERICK>\Com[2]Ach!\! Proszę, proszę, przecież to KEL i \n[8]!
+ 
 message_31:
-      text: \n<THE MAVERICK>You may have witnessed my humiliation earlier today...\! but now is the time that I, \Com[2]THE MAVERICK, redeem myself once again!
-
+      text: \n<WIELKI MAVERICK>Prawdopodobnie widziałeś, jak zostałem wcześniej upokorzony...\! ale teraz jest pora na to abym ja, \Com[2]WIELKI MAVERICK, powtórnie odzyskał swój honor!
+ 
 message_32:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelHuh? What is this about now, MIKHAEL?
-
+      text: \kelO co ci teraz chodzi, MIKHAEL?
+ 
 message_33:
-      text: \n<THE MAVERICK>Grr...\! Curse you and your cheeky attitude!
-
+      text: \n<WIELKI MAVERICK>Grr...\! Do diabła z tobą i twoim bezczelnym sposobem bycia!
+ 
 message_34:
-      text: \n<THE MAVERICK>\Com[2]\{KEL!\!\Com[2] I CHALLENGE THEE TO A RACE!\}
-
+      text: \n<WIELKI MAVERICK>\Com[2]\{KEL!\!\Com[2] WYZYWAM CIĘ NA WYŚCIG!\}
+ 
 message_35:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kel...Really?\! A race?
-
+      text: \kel...Serio?\! Na wyścig?
+ 
 message_36:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelI don't know...\! I'm pretty fast...
-
+      text: \kelNo nie wiem...\! Jestem dość szybki...
+ 
 message_37:
-      text: \n<THE MAVERICK>\Com[2]Hah!\! That's what you say now!\!<br>But just wait until you see the results of my training!
-
+      text: \n<WIELKI MAVERICK>\Com[2]Hah!\! Mówisz tak teraz!\!<br>Ale tylko poczekaj, aż zobaczysz efekty mojego treningu!
+ 
 message_38:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelI'm being serious, MIKHAEL.\! It's only fair to warn you...\!<br>I'm fast.\! Like \SINV[1]REALLY\SINV[0] fast.
-
+      text: \kelJa mówię na serio, MIKHAEL.\! Jakbym cię nie ostrzegł, to nie byłoby to fair.\!<br>Jestem szybki.\! Taki \SINV[1]MEGA\SINV[0] szybki.
+ 
 message_39:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelHey, I know!\! To make things a bit more even, you can use your scooter if you want!
-
+      text: \kelEj, wiem!\! Żebyśmy obydwaj mieli szansę na wygraną, możesz wystartować na swojej hulajnodze, jeśli chcesz!
+ 
 message_40:
-      text: \n<THE MAVERICK>\{\Com[2]DON'T YOU PATRONIZE ME!!\}
-
+      text: \n<WIELKI MAVERICK>\{\Com[2]NIE DAWAJ MI FORÓW!!\}
+ 
 message_41:
-      text: \n<THE MAVERICK>Come on, KEL!\!<br>You've been talking the talk, but can you walk the walk!?\!<br>\Com[2]Why don't you show me a real challenge!?
-
+      text: \n<WIELKI MAVERICK>No weź, KEL!\!<br>Gadać sobie możesz, ale czy dasz radę?\!<br>\Com[2]Może rzuciłbyś mi jakieś prawdziwe wyzwanie!?
+ 
 message_42:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: \kelSigh...\! I'm going to have to do this, aren't I?
-
+      text: \kelEchhh...\! Będę musiał się ścigać, prawda?
+ 
 message_43:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelSorry, \n[8].\! This'll be really quick.
-
+      text: \kelSorki, \n[8].\! To zajmie tylko chwilkę.
+ 
 #PLAYER is at the finish line.
 #CAMERA pans to KEL and THE MAVERICK who are on the other side of the track.
-
-
+ 
+ 
 message_44:
-      text: \n<THE MAVERICK>\Com[2]\{\SINV[1]REEEEAAAADYYYYY!!\SINV[0]
-
+      text: \n<WIELKI MAVERICK>\Com[2]\{\SINV[1]DO BIEGUUUUUU!!\SINV[0]
+ 
 message_45:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelSet...
-
+      text: \kelGotowi...
+ 
 message_46:
-      text: \n<THE MAVERICK and KEL>\Com[2]\SINV[1]GO\{OO\{OOO\{OOO\{OOOOO!!\SINV[0]
-
+      text: \n<WIELKI MAVERICK i KEL>\Com[2]\SINV[1]STA\{AAA\{AAA\{RRRT\{TTTTT!!\SINV[0]
+ 
 #KEL runs quickly, and the camera follows
 #After a few seconds,THE MAVERICK slowly walks into the screen from off CAMERA
-
+ 
 message_47:
-      text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! Wait...\!<br>I...\! huff...\! I want a rematch...
-
+      text: \n<WIELKI MAVERICK>Uff...\!uff...\! uff...\!uff...\!Czekaj...\!<br>Ja...\!uff...\! Domagam się rewanżu...
+ 
 message_48:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelI don't think so, MIKHAEL...\!<br>I mean... It's getting kind of late, isn't it?
-
+      text: \kelNie wiem czy to dobry pomysł, MIKHAEL...\!<br>No bo... Już jest trochę późno, co nie?
+ 
 message_49:
-      text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...
-
+      text: \n<WIELKI MAVERICK>Uff...\! uff...\! uff...\! uff...\! uff...\! uff...\! uff...\! uff...
+ 
 #THE MAVERICK's wig falls off and he picks it up and puts it back on.
-
+ 
 message_50:
-      text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...\!<br>Please...
-
+      text: \n<WIELKI MAVERICK>Uff...\! uff...\! uff...\! uff...\! uff...\! uff...\! uff...\! uff...\!<br>Błagam...
+ 
 message_51:
-      text: \n<THE MAVERICK>Huff...\! I...\! huff...\! must...\! huff...\! defend...\! my honor...\! huff...
-
+      text: \n<WIELKI MAVERICK>Uff...\!Ja...\! Uff...\! muszę...\! Uff...\! bronić...\!swojego honoru...\! Uff...
+ 
 message_52:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelMaybe another time...\! Me and \n[8] are gonna go now...\! See you later, MIKHAEL!
-
+      text: \kelMoże innym razem...\! Ja i \n[8] będziemy już się zbierać...\! Do następnego, MIKHAEL!
+ 
 #cutscene ends
-
+ 
 message_53:
-      text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! huff...\! huff...\!<br>Curse you, KEL...\! Huff...
-
+      text: \n<WIELKI MAVERICK>Uff...\! uff...\! uff...\! uff...\! uff...\! uff...\!<br>Bądź przeklęty, KEL...\! Uff...
+ 
 message_54:
-      text: \n<THE MAVERICK>You haven't seen the last of...\! \Com[2]THE MAVERICK... huff...
-
+      text: \n<WIELKI MAVERICK>Nie doczekałeś się jeszcze końca...\! \Com[2]WIELKIEGO MAVERICKA... Uff...
+ 
 #========================== SHORT HAIR GIRL================================
-
+ 
 #Location: FARAWAY PARK running in place in an open area
-
+ 
 message_60:
-      text: \n<SHORT HAIR GIRL>I think I found the true love of my life today...\!<br>I hope he notices me!
-
+      text: \n<KRÓTKOWŁOSA>Chyba znalazłam dziś moją drugą połówkę...\!<br>Mam nadzieję, że zwróci na mnie uwagę!
+ 
 #========================== FASHIONABLE MOM================================
-
+ 
 #Location: Candy Shop
-
+ 
 message_70:
-      text: \n<FASHIONABLE MOM>Chocolate is a girl's best friend!\!<br>Although...\! diamonds are also pretty high up there...
-
+      text: \n<MAMA MODNA>Czekolada to najlepsza przyjaciółka dziewczyn!\!<br>Chociaż...\! diamenty też są dość wysoko na tej liście...
+ 
 #========================== STRANGE MAN================================
-
+ 
 #Location: FARAWAY PARK
-
+ 
 message_80:
-      text: \n<STRANGE MAN>The filth of the planet...\! It makes me sick...\!<br>How I wish I could just...\! wipe it all away.
-
+      text: \n<DZIWAK>Od nieczystości tej planety...\! Aż mi nie dobrze...\!<br>Jak ja bym chciał móc tylko...\! pozbyć się ich wszystkich.
+ 
 #========================== OLD BEARDY===============================
-
+ 
 #Location: Graveyard
-
+ 
 message_90:
-      text: \n<OLD BEARDY>This lot is pretty quiet, isn't it?\! You can't hear the hustle and bustle of the streets here at all...
-
+      text: \n<STARY BRODACZ>Tutejszy parking jest dość cichy, prawda?\! Ani trochę nie słychać tutaj świstów i gwizdów ulic...
+ 
 message_91:
-      text: \n<OLD BEARDY>Heh...\! The only things here are wandering spirits...\!<br>Oh, and me, of course!
-
+      text: \n<STARY BRODACZ>Heh...\! Jedyne co tutaj się znajduje, to tułaczące się dusze...\!<br>Och, oczywiście ja też tu jestem!
+ 
 message_92:
-      text: \n<OLD BEARDY>What's with that look?\!<br>\{\Com[2]I AIN'T DEAD YET!
-
+      text: \n<STARY BRODACZ>Czemu się tak na mnie patrzysz?\!<br>\{\Com[2]JA JESZCZE ŻYJĘ!
+ 
 message_93:
-      text: \n<OLD BEARDY>\SINV[2]\Com[2]GWA\{HAH\{AHA\{HAHA\{HAHA!!\SINV[0]
-
+      text: \n<STARY BRODACZ>\SINV[2]\Com[2]GUA\{HAH\{AHA\{HAHA\{HAHA!!\SINV[0]
+ 
 #========================== DAPHNE & BOWEN===============================
-
+ 
 #Location: Church
-
+ 
 message_100:
-      text: \n<A TWIN>\SINV[1]Our family comes to \c[11]CHURCH\c[0] once a week...\SINV[0]
-
+      text: \n<BLIŹNIACZKA>\SINV[1]Nasze rodzina chodzi do \c[11]KOŚCIOŁA\c[0] raz w tygodniu...\SINV[0]
+ 
 message_101:
-      text: \n<THE OTHER TWIN>\SINV[1]Sometimes twice...\SINV[0]
-
+      text: \n<BLIŹNIAK>\SINV[1]Czasami dwa razy...\SINV[0]
+ 
 message_102:
-      text: \n<A TWIN>\SINV[1]Sometimes thrice...\SINV[0]
-
-
+      text: \n<BLIŹNIAK>\SINV[1]Czasami trzy...\SINV[0]
+ 
+ 
 #========================== POLLY===============================
-
+ 
 #Location: Basil's House
-
+ 
 #After cutscene: Polly
 message_110:
-      text: \n<POLLY>Dinner will be ready soon.\!<br>Please feel free to make yourself at home!
-
+      text: \n<POLLY>Obiad będzie niedługo gotowy.\!<br>Czujcie się jak u siebie!
+ 
 #After cutscene: Awkward Dinner
 message_111:
-      text: \n<POLLY>You're probably wondering who I am, right?\!<br>I'm nobody really... just a nurse who is taking care of BASIL's grandmother.
-
+      text: \n<POLLY>Zastanawiasz się pewnie, kim jestem?\!<br>Tak naprawdę to nikim ciekawym... Jestem pielęgniarką, która zajmuje się babcią BASILA.
+ 
 message_112:
-      text: \n<POLLY>A few months ago, BASIL's parents hired me as BASIL's caretaker since they travel out of the country frequently.
-
+      text: \n<POLLY>Kilka miesięcy temu rodzice BASILA zatrudnili mnie jako opiekunkę, ponieważ często wyjeżdżają.
+ 
 message_113:
-      text: \n<POLLY>I try to do as much as I can for BASIL while I'm here, but...
-
+      text: \n<POLLY>Kiedy tu jestem, dla BASILA robię wszystko, co mogę ale...
+ 
 message_114:
-      text: \n<POLLY>Ever since I've started staying here, I can't shake the feeling that BASIL is trying to avoid me...
-
+      text: \n<POLLY>Od momentu, w którym zaczęłam tu przesiadywać, mam wrażenie, że BASIL próbuje udawać, że mnie nie ma...
+ 
 message_115:
-      text: \n<POLLY>I wonder if I'm doing something wrong...
-
+      text: \n<POLLY>Zastanawiam się, czy robię coś źle...
+ 
 #==========================Preacher===============================
-
+ 
 #Location: Church
-
+ 
 message_120:
-      text: \n<PREACHER>Hmm...\! I usually wouldn't condone fighting in the middle of a sermon...\! but that seemed really important.
-
+      text: \n<KSIĄDZ>Hmm...\! Przeważnie nie jestem za kłótniami w środku mszy...\! ale wydaję mi się, że to było coś ważnego.
+ 
 message_121:
-      text: \n<PREACHER>That girl AUBREY has come here every week for the past few years, but she never talks to anyone.
-
+      text: \n<KSIĄDZ>Ta dziewczyna, AUBREY, przychodzi tu co tydzień od kilku lat, ale nigdy z nikim nie rozmawia.
+ 
 message_122:
-      text: \n<PREACHER>I've tried to approach her a few times...<br>but she keeps calling me...\! err...\! bad things...
-
+      text: \n<KSIĄDZ>Kilka razy próbowałem z nią porozmawiać...<br>ale ciągle wyzywa mnie od...\! Eee...\! najgorszych...
+ 
 message_123:
-      text: \n<PREACHER>She seems very troubled.\! Perhaps she could use a friend.
-
+      text: \n<KSIĄDZ>Wydaje się zakłopotana.\! Przydałby się jej jakiś przyjaciel.
+ 
 #==========================Sarah===============================
-
+ 
 #Location: Sarah's House
-
+ 
 message_130:
-      text: \n<PONYTAIL GIRL>Oh, hi!\! I heard some commotion in the kitchen.\!<br>Did my dad's \c[4]WEDDING RING\c[0] fall down the sink again?<br>\!He always does that...
-
+      text: \n<DZIEWCZYNA W KUCYKU>O, cześć!\!Słyszę jakieś zamieszanie w kuchni.\!<br>Czy \c[4]PIERŚCIONEK ZARĘCZYNOWY\c[0] mojego taty spadł znowu do odpływu zlewu?<br>\!Często mu się to zdarza...
+ 
 message_131:
-      text: \n<PONYTAIL GIRL>He doesn't know that I know, though... Hehe...
-
+      text: \n<DZIEWCZYNA W KUCYKU>Nie wie, że wiem... Hehe...
+ 
 message_132:
-      text: \n<PONYTAIL GIRL>Anyways, hi! I'm SARAH!\! It's nice to meet you!
-
+      text: \n<DZIEWCZYNA W KUCYKU>A tak poza tym, cześć! Jestem SARA!\! Miło mi was poznać!
+ 
 #Talk to SARAH again
-
+ 
 message_133:
-      text: \n<PONYTAIL GIRL>Since my mom started going on her health rampage, we don't have any chips or snacks in our house anymore...\! but...
-
+      text: \n<DZIEWCZYNA W KUCYKU>Odkąd moja mama wpadła w obsesję na punkcie zdrowia, nie mamy w domu żadnych przekąsek...\! ale...
+ 
 message_134:
-      text: \n<PONYTAIL GIRL>I guess carrots and celery taste pretty good...\! if they're dipped in ranch sauce...
-
+      text: \n<DZIEWCZYNA Z KUCYKAMI>Marchewki i seler nie są aż takie złe...\! jeśli pomacza się je w sosie czosnkowym...
+ 
 #==========================Sarah's Dad===============================
-
+ 
 #Location: Sarah's House (Ring in the sink quest)
-
+ 
 message_140:
-      text: \n<CLUMSY GUY>Hmm...\! Hey kids, have you seen a big bag of potato chips lying around?\! I could've sworn I just bought a huge bag of chips the other day...
-
+      text: \n<NIEZDARNY FACET>Hmm...\! Hej, dzieciaki, widzieliście gdzieś tutaj może dużą paczkę chipsów?\! Jestem pewny, że niedawno jedną kupiłem...
+ 
 #==========================Sarah's Mom===============================
-
+ 
 #Location: Sarah's House (Ring in the sink quest)
-
+ 
 message_150:
-      text: \n<PONYTAIL LADY>My family and I are supposed to start eating healthy this week, but the smell of \c[11]GINO'S PIZZA\c[0] is so tempting...
-
+      text: \n<PANI W KUCYKU>Ja i moja rodzina mieliśmy zacząć jeść zdrowo od tego tygodnia, ale zapach z \c[11]PIZZERII U GINO\c[0] jest taki kuszący...
+ 
 message_151:
-      text: \n<PONYTAIL LADY>Sigh...\! Maybe something greasy is okay once in a while...
-
+      text: \n<PANI W KUCYKU>Echhh...\! Może od czasu do czasu można przekąsić coś niezdrowego...
+ 
 #==========================The Maverick's Dad===============================
-
+ 
 #Location: Church
-
+ 
 message_160:
-      text: \n<WELL-DRESSED LADY>Oh, dear...\! Sniff...\!<br>It looks like our youngest son didn't show up to \c[11]CHURCH\c[0] again...
-
+      text: \n<STYLOWA PANI>O niebiosa...\! Niuch...\!<br>Wygląda na to, że mój najmłodszy syn znowu nie przyszedł do \c[11]KOŚCIOŁA\c[0]...
+ 
 message_161:
-      text: \n<WELL-DRESSED MAN>Sigh...\! MIKHAEL...\! Where are you?\!<br>Why must you make your mother worry?
+      text: \n<STYLOWY PAN>Echh...\! MIKHAEL...\! Gdzie jesteś?\!<br>Czy musisz martwić matkę?

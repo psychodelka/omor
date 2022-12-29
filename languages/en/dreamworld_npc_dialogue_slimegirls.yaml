@@ -1,379 +1,379 @@
 # =========================================================================================
 # Dreamworld NPC dialogue
 # =========================================================================================
-
+ 
 # ==============SLIME GIRLS LAIR (HUMPHREY)========================
-
-
+ 
+ 
                         #====NIGHT 3====
-
+ 
 #CLEANING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_0:
-      text: \humSweep...\. sweep...\. sweep...
-
+      text: \n<GIGANTOS>Zmiotu...\. Zmiotu...\. Zmiotu...
+ 
 #FIGHTING 1/2 HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_1:
-      text: \humPut em' up, me!
-
+      text: \n<GIGANTOS>W górę, ja!
+ 
 message_2:
-      text: \humNo, you put em' up!
-
+      text: \n<GIGANTOS>Nie, ty w górę!
+ 
 #FLOATING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_3:
-      text: \hum\sinv[1]Weeeeeeeeeeeeeeeeeeeeee!!
-
+      text: \n<GIGANTOS>\sinv[1]Łiiiiiiiiiiiiiiiiiiiii!!
+ 
 #GAMBLER 1 HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_4:
-      text: \humI'm calling your bluff!\! You can't fool me, me!
-
+      text: \n<GIGANTOS>Widzę, że blefujesz!\! Nie oszukasz mnie!
+ 
 #GAMBLER 2 HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_5:
-      text: \humYou can't beat this hand, me!\! I'm going all in!
-
+      text: \n<GIGANTOS>Nie pokonasz mnie!\! Idę na całość!
+ 
 #GAMER HUMPHREY
 #Location:Slime Girls Lair / Humphrey
 message_6:
-      text: \humTalk to me later, I'm in the middle of a game!
-
+      text: \n<GIGANTOS>Porozmawiajmy później, jestem w trakcie rozgrywki
+ 
 #PAINTING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_7:
-      text: \humWah, yes...\! My greatest masterpiece...\! Hon, hon!
-
+      text: \n<GIGANTOS>Ach tak...\! Moje najwspanialsze arcydzieło...\! Hum, hum!
+ 
 #READING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_8:
-      text: \humAccording to my calculations, reading makes you smart!
-
+      text: \n<GIGANTOS>Zgodnie z moimi obliczeniami, czytanie czyni cię mądrym.
+ 
 #RUNNING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_9:
-      text: \humHuff...\! Huff...\! Huff...\! A lot of hard work goes into keeping my physique!
-
+      text: \n<GIGANTOS>Uff...\! Uff...\! Uff...\! Wkładam dużo ciężkiej pracy w utrzymanie mojej sylwetki!
+ 
 #TANNING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_10:
-      text: \humAhhh...\! This is the life...\! Summer tan, here I come!
-
+      text: \n<GIGANTOS>Achhh...\! To jest życie...\! Letnia opalenizno, nadchodzę!
+ 
 #SNALEY
 #Location: Slime Girls Lair / Medusa River 1 (228)
 message_50:
-      text: \n<SNALEY>What a nice looking pool!
-
+      text: \n<PIANEK>Co za śliczny basen!
+ 
 #WATERFALL HUMPHRIES 1
 message_11:
-      text: \humSure! I love making bridges!
-
+      text: \n<GIGANTOS>Jasne! Kocham tworzyć mosty!
+ 
 message_12:
-      text: \humOkay! If that's what everyone else is doing...
-
+      text: \n<GIGANTOS>Spoko! Jeśli to jest to, co robią wszyscy inni...
+ 
 message_13:
-      text: \humAwww, man... Bridge duty again?\!<br>When do I get to eat something?
-
+      text: \n<GIGANTOS>Rany... Rola mostu, znowu?\!<br>Kiedy dostanę coś do zjedzenia?
+ 
 message_22:
-      text: \humYou mean at the big waterfall down south?\! Okay! I'll race you!
-
+      text: \n<GIGANTOS>Masz na myśli ten wielki wodospad na południu?\! Okej, Pościgajmy się!
+ 
 #WATERFALL HUMPHRIES 2
-
+ 
 message_16:
-      text: \humA bridge, you say?
-
+      text: \n<GIGANTOS>Most, mówisz?
+ 
 message_21:
-      text: \humI'm already there!
-
+      text: \n<GIGANTOS>Już tam jestem!
+ 
 message_14:
-      text: \humYou want to use me as a stepping stone to further your ambiguous agenda?\! Sounds like a plan!
-
+      text: \n<GIGANTOS>Chcesz mnie wykorzystać, żeby zrealizować swoje niejednoznaczne zamiary?\! Dobry pomysł!
+ 
 message_15:
-      text: \humIs it bridge o'clock already?\! Time really flies, huh?
-
+      text: \n<GIGANTOS>Czy to już most po piątej?\! Czas ucieka, co?
+ 
 message_17:
-      text: \n<HUMPHREY BRIDGES, BRIDGE EXPERT>Finally, my time has come!
-
+      text: \n<GIGANTOS MOSTOW, EKSPERT OD MOSTÓW>Nareszcie, mój czas nadszedł!
+ 
 message_18:
-      text: \n<HUMPHREY ELEVATORS, ELEVATOR EXPERT>Elevators are better than bridges, but I suppose I'll play along for now.
-
+      text: \n<GIGANTOS WINDOW, EKSPERT OD WIND>Windy są lepsze od mostów, ale przypuszczam, że jak na razie mogę poudawać.
+ 
 message_19:
-      text: \humWell...\! ...\! Alright!
-
+      text: \n<GIGANTOS>Ta...\! ...\! W porządku!
+ 
 message_20:
-      text: \humA wise whale once said... "Yeah, okay!"
-
+      text: \n<GIGANTOS>Pewien mądry wieloryb powiedział kiedyś... “Ta, w porządku!”
+ 
 message_27:
-      text: \humWe HUMPHREY in MEDUSA's sector pride ourselves in being the best of the best!
-
+      text: \n<GIGANTOS>My, GIGANTOS, z sektora MEDUZY szczycimy się tym, że jesteśmy najlepsi z najlepszych!
+ 
 message_23:
-      text: \humMEDUSA treats us well and feeds us regularly...\!<br>You can't say the same about MARINA or MOLLY!
-
+      text: \n<GIGANTOS>MEDUZA traktuje nas dobrze i karmi nas regularnie...\!<br>Nie można powiedzieć tego samego o MARINIE lub MOLLY!
+ 
 message_24:
-      text: \humAll the HUMPHREY from MARINA's sector keep disappearing, so she keeps asking MEDUSA for more...\!<br>Gulp...\! I hope I'm not next...
-
+      text: \n<GIGANTOS>GIGANTOS z sektora MARINY znika, więc ciągle prosi MEDUZĘ o więcej... \!<br>Eee...\! Mam nadzieję, że nie będę następny...
+ 
 message_25:
-      text: \humYou can tell MEDUSA is mad because she'll pace back and forth.\! She'll never yell at you, but still...\! It's pretty scary.
-
+      text: \n<GIGANTOS>Widać, że MEDUZA jest wściekła, kiedy kręci się tam i z powrotem.\! Nigdy na ciebie nie nakrzyczy, ale...\! To trochę przerażające.
+ 
 message_26:
-      text: \humWatch your step!\! Some of the spilled liquids aren't meant to be touched by humans!
-
+      text: \n<GIGANTOS>Patrz, jak chodzisz!\! Niektóre z rozlanych płynów nie powinny wchodzić w kontakt z ludzką skórą!
+ 
 message_29:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: \aubHUMPHREY! Could you please help us make a bridge?
-
+      text: \aubGIGANTOSIE! Czy pomógłbyś nam zrobić most? 
+ 
 message_30:
-      text: Science-y mumbo jumbo.
-
+      text: Naukowa paplanina.
+ 
 #==
-
+ 
 #spikes DIALOGUE
-
+ 
 message_31:
       faceset: 01_OMORI_BATTLE
       faceindex: 0
       text: \n<OMORI>...
-
+ 
 message_32:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubBe careful!\! I don't trust this guy one bit...
-
+      text: \aubOstrożnie!\! Ani trochę nie ufam temu gościowi...
+ 
 message_33:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kelPhew...\! I was sure you guys were gonna pick me...
-
+      text: \kelFiu...\! Byłem pewien, że mnie wybierzecie...
+ 
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herWatch your step, okay?<br>If it gets too serious, I'll back you up.
-
-
+      text: \herUważaj na siebie, dobrze? <br>Jeśli zrobi się zbyt niebezpiecznie, dam ci wsparcie.
+ 
+ 
 #==
-
+ 
 #MEDUSA area
-
+ 
 message_40:
-      text: \n<HUMPHREY>I'm reading a book about air conditioning!\!<br>It's very informative!
-
+      text: \n<GIGANTOS>Czytam książkę o klimatyzacji!\!<br>Jest bardzo pouczająca!
+ 
 message_41:
-      text: \n<HUMPHREY>I'm trying to relax...\! but I can't stop thinking about this really interesting book I read about air conditioning the other day...
-
+      text: \n<GIGANTOS>Próbuję się zrelaksować...\! ale nie mogę przestać myśleć o tej interesującej książce o klimatyzacji, którą wtedy czytałem...
+ 
 message_42:
-      text: \n<HUMPHREY>You know what I'm just crazy about?\! Air conditioning.\!<br>Ain't it the greatest?
-
-
+      text: \n<GIGANTOS>Wiesz za czym tak szaleję?\! Za klimatyzacją.\!<br>Czyż nie jest najwspanialsza?
+ 
+ 
 #Humphrey PUZZLE HINT Guy
-
+ 
 message_45:
-      text: \n<WISE HUMPHREY>\sinv[1]Whale hello there, friends!\!\sinv[0]<br>Would you like a HUMPHREY HINT for 300 CLAMS?\$
-
+      text: \n<MĄDRY GIGANTOS>\sinv[1]Wielo, rybcie!\!\sinv[0]<br>Czy chcielibyście zakupić GIGANTOSOWĄ WSKAZÓWKĘ za 300 MAŁŻY?\$
+ 
 #HARD PUZZLE HINT
 message_46:
-      text: \n<WISE HUMPHREY>A WISE HUMPHREY once said...\!<br>\"Count your enemies...\! Then, the order will lead to victory.\"
-
+      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\!<br>\”Swych wrogów licz...\! A kolejność do zwycięstwa doprowadzi.\"
+ 
 message_110:
-      text: \n<WISE HUMPHREY>\com[2]What!? You're still stuck on this one?\!<br>Ugh... fine.\! How's this?
-
+      text: \n<MĄDRY GIGANTOS>\com[2]Co?! Wciąż nie możesz tego rozgryźć?\!<br>Ech... W porządku.\! Może to?
+ 
 message_111:
-      text: \n<WISE HUMPHREY>A WISE HUMPHREY once said...\! \"Count your enemies to reveal the path...\! Then on your journey, observe the falling water.\"
-
-
+      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\! \”Swych wrogów licz, by drogę poznać...\! Następnie, podczas swej podróży obserwuj wodospady.\"
+ 
+ 
 #EASY PUZZLE HINT
-
+ 
 message_47:
-      text: \n<WISE HUMPHREY>A WISE HUMPHREY once said...\!<br>\"When all else fails, try reading from left to right!\"
-
+      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\!<br>\"Kiedy wszystko zawodzi, czytanie od lewej do prawej nie zaszkodzi!\"
+ 
 #MED PUZZLE HINT
 message_48:
-      text: \n<WISE HUMPHREY>A WISE HUMPHREY once said...\!<br>\"Sometimes the back is more interesting than the front!\"
-
+      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\!<br>\"Czasami tył bardziej interesujący jest od przodu!\"
+ 
 #NOT ENOUGH CLAMS
 message_49:
-      text: \n<WISE HUMPHREY>Sorry, no can do!\! I can't give away a HUMPHREY HINT for anything less than 300 CLAMS!
-
+      text: \n<MĄDRY GIGANTOS>Przykro mi, nic nie mogę poradzić!\! Nie mogę oddać GIGANTOSOWEJ WSKAZÓWKI za mniej niż 300 MAŁŻY!
+ 
 message_51:
-      text: \n<WISE HUMPHREY>\{\{\Com[2]\sinv[1]DEE-LICIOUS!!
-
+      text: \n<MĄDRY GIGANTOS>\{\{\Com[2]\sinv[1]PRZEEPYSZNIE!!
+ 
 message_52:
-      text: \n<WISE HUMPHREY>Here's your hint!\! I'll only say it once.
-
+      text: \n<MĄDRY GIGANTOS>Oto wasza wskazówka!\! Wypowiem ją tylko raz.
+ 
 message_53:
-      text: \n<WISE HUMPHREY>Okay... Well, suit yourself!
-
+      text: \n<MĄDRY GIGANTOS>Dobrze... Jak tam sobie chcecie!
+ 
 #WITHOUT PUZZLE ACTIVATION
 message_54:
-      text: \n<WISE HUMPHREY>\sinv[1]Whale hello there, friends!\!\sinv[0] Puzzles aren't everyone's forte.\! If you get stuck, I can help you out a little...\! or maybe a lot!
-
+      text: \n<MĄDRY GIGANTOS>\sinv[1]Wielo, rybcie!\!\sinv[0] Zagadki nie są mocną stroną każdego.\! Jeśli gdzieś utkniecie, mogę wam trochę pomóc...\! albo nawet bardzo!
+ 
 message_56:
-      text: \n<HUMPHREY>Ah... of course!\! The calculations are so simple when you put it that way...
-
+      text: \n<GIGANTOS>Ach... Oczywiście!\! Obliczenia są o wiele prostsze, kiedy ujmuje się je w ten sposób...
+ 
 message_57:
-      text: \n<HUMPHREY>So if I multiply the result...\! Subtract by infinity...\! Then divide by zero...\! And carry the one...\! That would bring me to...\!<br>an imaginary number!
-
+      text: \n<GIGANTOS>Więc jeśli przemnożę wynik...\! Odejmę nieskończoność...\! Potem podzielę przez zero...\! I wykonam działanie pisemne...\! To otrzymam...\!<br>liczbę urojoną!
+ 
 message_58:
-      text: \n<WISE HUMPHREY>\sinv[1]Whale hello there, friends!\!\sinv[0] Puzzles aren't everyone's forte, but that's pretty irrelevant now.
-
-
+      text: \n<MĄDRY GIGANSTOS>\sinv[1]Wielo, rybcie!\!\sinv[0] Zagadki nie są mocną stroną każdego, ale to już nieistotne.
+ 
+ 
 #WATERFALL HUMPHRIES 2
-
+ 
 #===
 #MUTANTHEART
-
+ 
 message_60:
-      text: \n<MUTANTHEART>\}H-Henno...
-
+      text: \n<POCZWARNIUTKAT>\}S-selwus...
+ 
 message_61:
-      text: \n<MUTANTHEART>\}H-Henno!
-
+      text: \n<POCZWARNIUTKA>\}S-selwus!
+ 
 message_62:
-      text: MUTANTHEART poked you back.
-
+      text: POCZWARNIUTKA zaczepiła cię z powrotem.
+ 
 message_63:
-      text: \n<MUTANTHEART>\sinv[1]\}Henno~
-
+      text: \n<POCZWARNIUTKA>\sinv[1]\}Selwus~
+ 
 message_64:
-      text: MUTANTHEART seems delighted!
-
+      text: POCZWARNIUTKA wygląda na zachwyconą!
+ 
 message_65:
-      text: \n<MUTANTHEART>\}H...\! Henno?
-
+      text: \n<POCZWARNIUTKA>\}S...\! Selwus?
+ 
 message_66:
-      text: What would you like to do?
-
+      text: Co chciałbyś zrobić?
+ 
 message_67:
-      text: POKE
-
+      text: ZACZEP
+ 
 message_68:
-      text: PET
-
+      text: POGŁASKAJ
+ 
 message_69:
-      text: FIGHT
-
+      text: WALCZ
+ 
 message_70:
-      text: NOTHING
-
+      text: NIC
+ 
 message_71:
-      text: You poked MUTANTHEART.
-
+      text: Zaczepiłeś POCZWARNIUTKĄ.
+ 
 message_72:
-      text: You pet MUTANTHEART.
-
+      text: Pogłaskałeś POCZWARNIUTKĄ.
+ 
 message_73:
-      text: You pet the abomination.
-
+      text: Pogłaskałeś paskudztwo.
+ 
 message_74:
-      text: You poked the abomination.
-
+      text: Zaczepiłeś paskudztwo.
+ 
 message_100:
-      text: \n<HUMPHREY>Sigh...\! Listen to them having fun up there.\! Those part-timers got it easy.
-
+      text: \n<GIGANTOS>Ech...\! Słuchaj, jak dobrze się tam bawią.\! Półetatowcy mają życie jak w Madrycie.
+ 
 message_101:
-      text: \n<HUMPHREY>MEDUSA and her sisters have been researching the world for centuries.\! These books are the fruits of their labor!
-
+      text: \n<GIGANTOS>MEDUZA i jej siostry od wieków badają świat.\! Te książki są owocem ich pracy!
+ 
 message_102:
-      text: \n<HUMPHREY>No matter how many times I do this experiment, it never turns out how it's supposed to.\! Guess it's time to refer back to the manual...
-
+      text: \n<GIGANTOS>Nieważne, ile razy robię ten eksperyment, nigdy nie kończy się tak, jak powinien.\! Chyba pora, by zerknąć do instrukcji obsługi...
+ 
 message_103:
-      text: \n<HUMPHREY>\sinv[1]Zzzzzzzzzzzzzzzzzzzzz...
-
+      text: \n<GIGANTOS>\sinv[1]Zzzzzzzzzzzzzzzzzzzzz...
+ 
 message_104:
-      text: \n<HUMPHREY>All this slime is starting to become a real hazard.\! We should really start thinking about hiring one of those cleaning HUMPHREY from MOLLY's sector.
-
+      text: \n<GIGANTOS>Cały ten śluz zaczyna być prawdziwym zagrożeniem.\! Naprawdę powinniśmy zacząć myśleć o zatrudnieniu jednego z tych sprzątających GIGANTOSÓW z sektora MOLLY.
+ 
 #MARINA
 #Location: Slime Girls Lair / Humphrey
 #[Main Quest]
-
+ 
 #MEDUSA
 #Location: Slime Girls Lair / Humphrey
 #[Main Quest]
-
+ 
 #MOLLY
 #Location: Slime Girls Lair / Humphrey
 #[Main Quest]
-
+ 
 #MUTANTHEART
 #Location: N/A
-
+ 
 #PERFECTHEART
 #Location: N/A
-
+ 
 #ROBOHEART
 #Location: Slime Girls Lair / Humphrey
 #[Main Quest]
-
-
+ 
+ 
                         #====NIGHT 4====
 #CLEANING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 #Same as NIGHT 3.
-
+ 
 #FIGHTING 1/2 HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 #Same as NIGHT 3.
-
+ 
 #FLOATING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 #Same as NIGHT 3.
-
+ 
 #GAMBLER 1 HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 #Same as NIGHT 3.
-
+ 
 #GAMBLER 2 HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 #Same as NIGHT 3.
-
+ 
 #GAMER HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 #Same as NIGHT 3.
-
+ 
 #PAINTING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 #Same as NIGHT 3.
-
+ 
 #READING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 #Same as NIGHT 3.
-
+ 
 #RUNNING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 #Same as NIGHT 3.
-
+ 
 #TANNING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 #Same as NIGHT 3.
-
+ 
 #MARINA (Head Only)
 #Location: Slime Girls Lair / Humphrey - Marina's Body Quest
 #Sidequest: Marina
-
+ 
 #MEDUSA (Head Only)
 #Location: Slime Girls Lair / Humphrey - Medusa's Body Quest
 #Sidequest: Medusa
-
+ 
 #MOLLY (Head Only)
 #Location: Slime Girls Lair / Humphrey - Molly's Body Quest
 #Sidequest: Molly
-
+ 
 #MUTANTHEART
 #Location: Slime Girls Lair / Humphrey
-
+ 
 #PERFECTHEART
 #Location: Slime Girls Lair / Humphrey
 #Dreamworld_extras_slimegirls
-
+ 
 #ROBOHEART
 #Location: N/A
-
-
+ 
+ 
 #--- WATERFALL HUMPHRIES
-
+ 
 message_200:
-      text: \n<HUMPHREY>Gee... You popped in just as I was in the middle of fixing up this tube!
-
+      text: \n<GIGANTOS>O rany... Wpadliście akurat, gdy byłem w trakcie naprawiania tej rury!
+ 
 message_201:
-      text: \n<HUMPHREY>Ahh... finally! A room without a waterfall...\! This bright white light is perfect for my summer tan!
+      text: \n<GIGANTOS>Aach... nareszcie! Pomieszczenie bez wodospadu...\! To jasne, białe światło jest idealne dla mojej letniej opalenizny!

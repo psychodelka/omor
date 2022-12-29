@@ -57,7 +57,7 @@ message_9:
 #BERLY headbutts VAN
  
 message_10:
-      text: Przepraszam, BERLY...\!<br> Ale zakręci mi się w głowie, jeśli będę tak robił.\n<VAN>
+      text: Przepraszam, BERLY...\!<br>Ale zakręci mi się w głowie, jeśli będę tak robił.\n<VAN>
  
 message_11:
       text: To dlatego, że masz za miękką głowę!\ber
@@ -65,13 +65,13 @@ message_11:
 #VAN remembers something.
  
 message_12:
-      text: O! Chyba sobie przypomniałem!\!<br> Widziałem, jak piłka poleciała gdzieś w tamtą stronę!\n<VAN>
+      text: O! Chyba sobie przypomniałem!\!<br>Widziałem, jak piłka poleciała gdzieś w tamtą stronę!\n<VAN>
  
 #Everyone turns their head to Vast Forest Entrance.
 #Camera pans to Vast Forest Entrance.
  
 message_13:
-      text: Prosto do \c[11]NIEZMIERNEGO LASU\c[0]?\! Ugh...\\! No to jej nigdy nie znajdziemy.\! Równie dobrze możemy jej nawet nie szukać!\ber
+      text: Prosto do \c[11]NIEZMIERNEGO LASU\c[0]?\! Ech...\! No to nigdy jej nie znajdziemy.\! Równie dobrze możemy jej nawet nie szukać!\ber
  
 #HERO turns to BERLY.
  
@@ -87,7 +87,7 @@ message_16:
       text: Kiedyś wdałam się tam w super groźną bójkę z takim paskudnym, liściastym stworzeniem z martwym wzrokiem i rozdziawioną paszczą.\ber
  
 message_17:
-      text: Oczywiście przechytrzyłam ją dzięki mojej fajności, mądrości i w ogóle.\!<br>W końcu na świecie nie ma potwora, który miałby szansę mnie pokonać!\ber
+      text: Oczywiście przechytrzyłam ją dzięki mojej fajności, mądrości i w ogóle.\! W końcu na świecie nie ma potwora, który miałby szansę mnie pokonać!\ber
  
 message_18:
       text: \Com[2]\SINV[2]\{ŁAHAHA\{HAHAH\{AHA!!\ber\}\}\LECLEAR

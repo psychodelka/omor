@@ -1,117 +1,117 @@
 # =========================================================================================
 # Farawaytown: Kels Room
 # =========================================================================================
-
+ 
 #=========================Kels Room==============================
-
-
+ 
+ 
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelWhat's wrong, HERO?
-
+      text: \kelCoś nie tak, HERO?
+ 
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 36
       text: \her...
-
+ 
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelOh... I know...\! There must be a spider in this room.\!<br>Don't worry, HERO! I gotchu!
-
+      text: \kelA... czaje...\! W tym pokoju skrywa się pająk.\!<br>Na luzie, HERO! Pokażę temu leszczowi!
+ 
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelNow where is that pesky little...
-
+      text: \kelGdzie on, kurka wodna, się...
+ 
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \kelA-ha! I got you now!
-
+      text: \kelOho! Mam cię!
+ 
 #*squish SFX*
-
+ 
 message_6:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelIt's alright now, HERO.\! You can take it easy.\!<br>The spider's gone!
-
+      text: \kelJuż git, HERO.\! Na spokojnie.\!<br>Intruz wyeliminowany!
+ 
 message_7:
       faceset: MainCharacters_Faraway
       faceindex: 36
-      text: \her\}...\! Show it to me.
-
+      text: \her\}...\! Udowodnij.
+ 
 message_8:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelHuh?\! Did you say something, HERO?
-
+      text: \kelHa?\! Coś mówiłeś, HERO?
+ 
 message_9:
       faceset: MainCharacters_Faraway
       faceindex: 36
-      text: \herShow me the spider.
-
+      text: \herUdowodnij, że nie żyje.
+ 
 message_10:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelOh, that's right.
-
+      text: \kelAch, racja.
+ 
 message_11:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelHere, look.\! See?\! It's really dead.
-
+      text: \kelNo patrz.\! Widzisz?\! Sztywny jak nic.
+ 
 message_12:
       faceset: MainCharacters_Faraway
       faceindex: 36
       text: \her...
-
+ 
 message_13:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelI'm going to go flush it down the toilet now, okay?
-
+      text: \kelIdę go spuścić w toalecie, jasne?
+ 
 #*KEL LEAVES THE ROOM*
 #*Toilet flush SFX*
 #*KEL comes back*
-
+ 
 message_14:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kel\sinv[1]And... I'm back!\sinv[0]\! But the spider is gone!\! It's like magic!
-
+      text: \kel\sinv[1]I... Wróciłem!\sinv[0]\! Bez pająka!\! Takie czary!
+ 
 message_15:
       faceset: MainCharacters_Faraway
       faceindex: 36
       text: \her... ... ...
-
+ 
 message_16:
       faceset: MainCharacters_Faraway
       faceindex: 36
       text: \her... ... ... ... ... ... ...
-
+ 
 message_17:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: \herHuff...\! Thank goodness...
-
+      text: \herOch...\! Dzięki Bogu...
+ 
 message_18:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelHERO...\! I feel like your fear of spiders has gotten worse...
-
+      text: \kelHERO...\! Chyba jeszcze bardziej zacząłeś obawiać się pająków...
+ 
 message_19:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: \kelYou should really try to work on that!\! What if a spider shows up when I'm not here?
-
+      text: \kelPowinieneś nad tym popracować!\! Co jeśli zobaczysz pająka akurat, gdy nie będzie mnie w domu?
+ 
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 35
-      text: \herGasp... Y-You really think that could happen?
-
+      text: \Ach... T-tego nie przemyślałem...
+ 
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelMan, HERO...\! This is one of those rare times where I feel like the big brother!
+      text: \kelO chłopie...\! Właśnie w takich sytuacjach czuję się jakbym to ja był starszym bratem!

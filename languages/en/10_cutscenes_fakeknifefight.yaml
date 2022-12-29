@@ -296,7 +296,7 @@ message_103:
 message_104:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \{\sinv[1]HUUU-RRAAA!\! SZCZĘŚLIWE ZJEDNOCZENIE!!\kel\}
+      text: \{\sinv[1]HUUU-RRAAA!\! SZCZĘŚLIWE<br>ZJEDNOCZENIE!!\kel\}
  
 message_105:
       faceset: MainCharacters_Faraway
@@ -306,7 +306,7 @@ message_105:
 message_106:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: O-och...\! Przepraszam was...\! Bardzo bym chciał, ale...\!<br>I...\! Powinienem już wracać do domu.\bas
+      text: O-och...\! Przepraszam was...\! Bardzo bym chciał, ale...\!<br>Ja...\! Powinienem już wracać do domu.\bas
  
 message_107:
       faceset: MainCharacters_Faraway

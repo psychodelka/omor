@@ -177,5 +177,6 @@ var $plugins =
 {"name":"DisableMouse","status":false,"description":"Disables mouse clicks.","parameters":{}},
 {"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
 {"name":"changestatelist","status":true,"description":"","parameters":{}},
-{"name":"alt_state_text","status":true,"description":"","parameters":{}}
+{"name":"alt_state_text","status":true,"description":"","parameters":{}},
+{"name":"PL_item_form_fix","status":true,"description":"","parameters":{}}
 ];

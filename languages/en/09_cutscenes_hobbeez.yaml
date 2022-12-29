@@ -113,7 +113,7 @@ message_30:
 message_31:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: Ugh, to... oni.\!<br>Miejmy tylko nadzieję, że więcej się na nich nie natkniemy.\kel
+      text: Ech, to... oni.\!<br>Miejmy tylko nadzieję, że więcej się na nich nie natkniemy.\kel
  
 message_32:
       faceset: MainCharacters_Faraway
@@ -131,7 +131,7 @@ message_32:
 message_50:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Więc...\! Znajdujemy się w \c[11]BZZAJAWKA\c[0]!\kel
+      text: Więc...\! Znajdujemy się w \c[11]BZZAJAWCE\c[0]!\kel
  
 message_51:
       faceset: MainCharacters_Faraway
@@ -187,12 +187,12 @@ message_58:
 message_70:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: To...\! Tak!\! To idealne!\!<br>KSIĄŻKA KUCHARSKA PAPY CHRUPCIA „GDZIE CHRUPCIÓW SZEŚĆ, TAM BĘDZIE CO ZJEŚĆ”!\kel
+      text: To...\! Tak!\! To idealne!\!<br>KSIĄŻKA KUCHARSKA PAPY CHRUPCIA "GDZIE CHRUPCIÓW SZEŚĆ, TAM BĘDZIE CO ZJEŚĆ"!\kel
  
 message_71:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Wow, that's a mouthful.\kel
+      text: Wow, co za tytuł.\kel
  
 message_72:
       faceset: MainCharacters_Faraway
@@ -217,7 +217,7 @@ message_75:
 message_76:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \Com[2]20.00$!?\! Zdzierstwo!\kel
+      text: \Com[2]20$!?\! Zdzierstwo!\kel
  
 message_77:
       faceset: MainCharacters_Faraway
@@ -235,12 +235,12 @@ message_79:
       text: Hej, KASJERZE! Chcielibyśmy kupić tę książkę!\kel
  
 message_80:
-      text: KEL! Jak się masz, kolego?\!<br>Trochę cię tu nie było, nie sądzisz?.\n<SHOPKEEP>
+      text: KEL! Jak się masz, kolego?\!<br>Trochę cię tu nie było, nie sądzisz?\n<KASJER>
  
 #Pedro hair flip
  
 message_81:
-      text: Ach, to przecież KSIĄŻKA KUCHARSKA PAPY CHRUPCIA „GDZIE CHRUPCIÓW SZEŚĆ, TAM BĘDZIE CO ZJEŚĆ” !\!<br>Widzę, że mamy tu koneserów!\n<SHOPKEEP>
+      text: Ach, to przecież KSIĄŻKA KUCHARSKA PAPY CHRUPCIA „GDZIE CHRUPCIÓW SZEŚĆ, TAM BĘDZIE CO ZJEŚĆ” !\!<br>Widzę, że mamy tu koneserów!\n<KASJER>
  
 message_82:
       faceset: MainCharacters_Faraway
@@ -248,11 +248,11 @@ message_82:
       text: Ta, mój brat używał jej cały czas !\!<br>Jego ciastka wychodziły świetnie.\kel
  
 message_83:
-      text: To rzadkość widzieć innych fanów PAPY CHRUPCIA.\!<br>To będzie 20.00$!\n<SHOPKEEP>
+      text: To rzadkość widzieć innych fanów PAPY CHRUPCIA.\!<br>To będzie 20$!\n<KASJER>
  
 #Currency noise
 message_84:
-      text: Dziękuję!\! I proszę bardzo!\n<SHOPKEEP>
+      text: Dziękuję!\! I proszę bardzo!\n<KASJER>
  
 message_85:
       faceset: MainCharacters_Faraway

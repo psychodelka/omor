@@ -592,7 +592,7 @@ plugins:
       textSkip:
         text: POMIJANIE TEKSTU
         options: ["WŁ.", "WYŁ."]
-        help: Szybkie przewijanie tekstu przez naciśnięcie lub przytrzymanie klawisza ZATWIERDŹ/ANULUJ.
+        help: Przewijanie tekstu przez naciśnięcie lub przytrzymanie klawisza ZATWIERDŹ/ANULUJ.
         boolIndex: true
         spacing: 80
 

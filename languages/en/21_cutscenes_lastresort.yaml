@@ -1,4 +1,3 @@
- 
 # =========================================================================================
 # Misc
 # =========================================================================================
@@ -325,7 +324,7 @@ message_58:
 message_59:
       faceset: MainCharacters_DreamWorld
       faceindex: 6
-      text: \com[540]P-przykro mi, PANIE SZKZĘKOPADZIE... nagłe okoliczności.\aub
+      text: \com[540]P-przykro mi, PANIE SZCZĘKOPADZIE... nagłe okoliczności.\aub
  
 #KEL jumps.
  
