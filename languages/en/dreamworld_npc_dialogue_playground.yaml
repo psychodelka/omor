@@ -177,7 +177,7 @@ message_71:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: \aubTo wygląda, jakby miało zaboleć...\!<br>i zniszczyć moją fyzurę.\!<br>Do tego zrujnować moją kokardkę.
+      text: \aubTo wygląda, jakby miało zaboleć...\!<br>i zniszczyć moją fryzurę.\!<br>Do tego zrujnować moją kokardkę.
  
 message_73:
       text: \berOj, nie przesadzaj, \n[2]! Poszalej trochę!\!<br>Potargane włosy jeszcze nikomu nie zaszkodziły.\!<br>\n[4] jest tego żywym dowodem.
@@ -229,10 +229,10 @@ message_84:
       text: \berOd tego dnia...\!<br>Niniejszym ogłaszam cię niepodważalną DYNIACZKĄ.
  
 message_85:
-      text: \berI weź ze sobą ten certyfikat.\! Pochwal się swoim przyjaciołom.\!Jestem pewna, że będą z ciebie dumni!
+      text: \berI weź ze sobą ten certyfikat.\! Pochwal się swoim przyjaciołom.\! Jestem pewna, że będą z ciebie dumni!
  
 message_86:
-      text: AUBREY nauczyła się \c[1]Z DYŃKI\c[0].
+      text: AUBREY nauczyła się uderzać \c[1]Z DYŃKI\c[0].
  
 message_87:
       text: Otrzymujesz \c[4]CERTYFIKAT 2 DYNIEK\c[0].
@@ -381,7 +381,7 @@ message_114:
 message_115:
       text: \ber\Com[2]Hej, odpuść sobie! Nie bez powodu zrobili ze mnie szefową ochrony! \!Chcieli kogoś stanowczego... \!Kogoś, kto mógłby podjąć trudne decyzje! \!Osobę z tęgą głową!
 message_116:
-      text: \berNo, bo... Spójrz na moją odznakę... \!Tak się błyszczy!
+      text: \berNo bo... Spójrz na moją odznakę... \!Tak się błyszczy!
 message_117:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
@@ -504,7 +504,7 @@ message_151:
 #BANGS
 #Location: Forest Playground
 message_142:
-      text: \n<GRZYWCIO>Ech...<br>\!Będę tęsknił za byciem testerem łóżek w \c[11]OSTATNIEJ PRZYSTANI\c[0]...\!<br>W końcu poczułem, że znalazłem swoje prawdziwe powołanie.
+      text: \n<GRZYWCIO>Ech...<br>\!Będę tęsknił za byciem testerem łóżek w \c[11]OSTATNIEJ PRZYSTANI\c[0]...<br>W końcu poczułem, że znalazłem swoje prawdziwe powołanie.
  
 #BERLY
 #Location: Forest Playground

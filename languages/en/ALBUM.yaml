@@ -66,7 +66,7 @@ faraway_message10:
 faraway_message11:
     background: 0
     position: 2
-    text: \n<10 MARCA> \n[8] słucha książki, którą ostatnio czytałem.\! Mari ukradła mi aparat i zrobiła nam zdjęcie, kiedy nie patrzyliśmy.<br><br>Powinienem pilnować swoich rzeczy.
+    text: \n<10 MARCA>\n[8] słucha, jak czytam książkę, którą zacząłem ostatnio.\! Mari ukradła mi aparat i zrobiła nam zdjęcie, kiedy nie patrzyliśmy.<br><br>Powinienem pilnować swoich rzeczy.
  
 faraway_message12:
     background: 0
@@ -166,7 +166,7 @@ faraway_message30:
 faraway_message31:
     background: 0
     position: 2
-    text: \n<20 LIPCA - \n[8] MA URODZINY>Hurra! \n[8] kończy dziś 12 lat!\! Mimo że ja, \n[8], AUBREY, i KEL jesteśmy z tego samego rocznika, to \n[8] jest z nas najmłodszy .<br>Jest  naszym oczkiem w głowie, musimy się nim opiekować!
+    text: \n<20 LIPCA - \n[8] MA URODZINY>Hurra! \n[8] kończy dziś 12 lat!\! Mimo że ja, \n[8], AUBREY i KEL jesteśmy z tego samego rocznika, to \n[8] jest z nas najmłodszy.<br>Jest naszym oczkiem w głowie, musimy się nim opiekować!
  
 faraway_message32:
     background: 0
@@ -176,7 +176,7 @@ faraway_message32:
 faraway_message33:
     background: 0
     position: 2
-    text: \n<20 LIPCA - \n[8] MA URODZINY>Ciężko stwierdzić po zdjęciu, ale \n[8] dostał od MARI i HERO duży zestaw klocków.<br><br>Wygląda na bardziej zainteresowanego pudłem, niż kolcakami.\!<br>Zachowuje się jak nowa kotka MARI, MRUSIA!
+    text: \n<20 LIPCA - \n[8] MA URODZINY>Ciężko stwierdzić po zdjęciu, ale \n[8] dostał od MARI i HERO duży zestaw klocków.<br><br>Wygląda na bardziej zainteresowanego pudłem niż klockami.\!<br>Zachowuje się jak nowa kotka MARI, MRUSIA!
  
 faraway_message34:
     background: 0
@@ -201,7 +201,7 @@ faraway_message37:
 faraway_message38:
     background: 0
     position: 2
-    text: \n<14 SIERPNIA>Poszedłem do łazienki i kiedy wróciłem, zobaczyłem to zdjęcie...<br><br><br>KEL powiedział, że zrobił je przypadkowo, ale ja mu nie wierzę...
+    text: \n<14 SIERPNIA>Poszedłem do łazienki i kiedy wróciłem, zobaczyłem to zdjęcie...<br><br>KEL powiedział, że zrobił je przypadkowo, ale ja mu nie wierzę...
  
 faraway_message39:
     background: 0
@@ -226,7 +226,7 @@ faraway_message42:
 faraway_message43:
     background: 0
     position: 2
-    text: \n<9 WRZEŚNIA>Dzisiaj pierwszy dzień szkoły!\! Ja, \n[8], KEL, i AUBREY wstajemy wcześnie rano.\! AUBREY jest taka fotogeniczna!
+    text: \n<9 WRZEŚNIA>Dzisiaj pierwszy dzień szkoły!\! Ja, \n[8], KEL i AUBREY wstajemy wcześnie rano.\! AUBREY jest taka fotogeniczna!
  
 faraway_message44:
     background: 0

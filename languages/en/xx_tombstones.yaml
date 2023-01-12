@@ -42,10 +42,10 @@ message_12:
     text: \"Tu spoczywa RAI.\"<br>\!\"Poległ w walce...\! odwiedź kogoś innego.\"
 
 message_13:
-    text: \"Tu spoczywa ARCHEIA.\"<br>\!\"Died swimming with the fishes.\"
+    text: \"Tu spoczywa ARCHEIA.\"<br>\!\"Zmarła podczas pływania razem z rybami.\"
 
 message_14:
-    text: \"Tu spoczywa TDS.\"<br>\!\"You have to be realistic about these things.\"
+    text: \"Tu spoczywa TDS.\"<br>\!\"Tu trzeba być realistą.\"
 
 message_15:
     text: \"Tu spoczywa ktoś inny.\"
@@ -74,7 +74,7 @@ message_22:
     text: \"Tu spoczywa SKEJVEN.\"<br>\!\"Ostatnim gwoździem do trumny był...\! JavaScript.\"
 
 message_23:
-    text: \"Tu spoczywa WONEK.\"<br>\!\"W sumie to nic nie zrobił.\"
+    text: \"Tu spoczywa WONEK i SUNN.\"<br>\!\"W sumie to nic nie zrobili.\"
 
 message_24:
     text: \"Tu spoczywa NIKO.\"<br>\!\"Ktoś w internecie nazwał go cringe'owym.\"

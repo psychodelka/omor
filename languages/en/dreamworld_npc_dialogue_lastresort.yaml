@@ -1,584 +1,584 @@
 # =========================================================================================
 # Dreamworld NPC dialogue
 # =========================================================================================
-
-# ==============LAST RESORT / UNDERWATER HIGHWAY / ABYSS========================
-
-
+ 
+# ==============OSTATNIA PRZYSTAŃ / UNDERWATER HIGHWAY / ABYSS========================
+ 
+ 
                         #====NIGHT 3====
-
+ 
 #ABBI
 #Location:Abyss
 #Abyss (Boss) - Tentacle Quest
 #Check sidequest_dreamworld_tentacle
-
+ 
 #DEALER JASH
-#Location: LAST RESORT
+#Location: OSTATNIA PRZYSTAŃ
 #SHOP QUEST yaml
-
-#PINKBEARD
-#Location: Last Resort
-
+ 
+#RÓŻOBRODY
+#Location: OSTATNIA PRZYSTAŃ
+ 
 #ADD ARG!!!!!!!
 message_0:
-      text: \n<PINKBEARD>This joint just ain't cut out like these folks are making it out to be.\! \Com[2]I want my CLAMS back, ya hear!?
-
-#FISHBOY
-#Location: Last Resort
+      text: \n<RÓŻOBRODY>To kasyno to jedno wielkie oszustwo.\! \Com[2]Oddajcie mi moje MAŁŻE, słyszycie!?
+ 
+#RYBNIAK
+#Location: OSTATNIA PRZYSTAŃ
 message_1:
-      text: \n<FISHBOY>Catching and raising fish is a hobby of mine.\!<br>It passes time and is moderately rewarding.
-
-
+      text: \n<RYBNIAK>Łowienie i hodowla ryb to moje ulubione zajęcie.\!<br>Pozwala zabić czas i jest całkiem przyjemne.
+ 
+ 
 #GOYLE THE CRAB
-#Location: Last Resort
+#Location: OSTATNIA PRZYSTAŃ
 #Faces up, faces down when talked to
 message_3:
-      text: \n<GOYLE THE CRAB>Don't look at me! I'm hideous!
-
+      text: \n<KRAB GOYLE>Nie patrz na mnie! Wyglądam ohydnie!
+ 
 #HITCHHIKER
 #Location: Underwater Highway
 #Check DREAM WORLD EXTRAS BLACKSPACE yaml
-
-#HOT DOG GUY
-#Location: Last Resort
+ 
+#GOŚĆ OD HOT DOGÓW
+#Location: OSTATNIA PRZYSTAŃ
 message_4:
-      text: \n<HOT DOG GUY>\SINV[1]\c[3]HOT DOGS\c[0]...\! Get'chur \c[3]HOT DOGS\c[0] here...\SINV[0]
-
+      text: \n<GOŚĆ OD HOT DOGÓW>\SINV[1]\c[3]HOT DOGI\c[0]...\! \c[3]HOT DOGI\c[0] sprzedaję...\SINV[0]
+ 
 message_5:
-      text: \$\n<HOT DOG GUY>You want a \c[3]HOT DOG\c[0]? It'll only cost ya 100 CLAMS...\!<br>Come on... they're yummy.\$
-
+      text: \$\n<GOŚĆ OD HOT DOGÓW>Chcesz \c[3]HOT DOGA\c[0]? Kupisz go za jedyne 100 MAŁŻY...\!<br>Śmiało... są pyszne.\$
+ 
 message_6:
-      text: You got a \c[3]HOT DOG\c[0].
-
+      text: Zdobyłeś \c[3]HOT DOGA\c[0].
+ 
 message_7:
-      text: \n<HOT DOG GUY>Alright...\! but they're yummy.
-
+      text: \n<GOŚĆ OD HOT DOGÓW>Rozumiem...\! ale są naprawdę dobre.
+ 
 message_36:
-      text: \n<HOT DOG GUY>You don't have enough CLAMS for this...
-
-#LAMB
-#Location: Last Resort
+      text: \n<GOŚĆ OD HOT DOGÓW>Nie masz wystarczająco MAŁŻY...
+ 
+#OWCA
+#Location: OSTATNIA PRZYSTAŃ
 message_8:
-      text: \n<LAMB>We decided to come here on our honeymoon because they offered a free room and luxury resort experience!
-
+      text: \n<OWCA>Postanowiliśmy, że spędzimy tu nasz miesiąc miodowy, ponieważ zaproponowali nam darmowy pokój i luksusowy wypoczynek w kurorcie!
+ 
 message_9:
-      text: \n<LAMB>\Com[2]Luxury, my butt!\! This place is as shoddy as it gets.\!<br>I can already see the paint coming off the walls!
-
-#WOLF
-#Location: Last Resort
+      text: \n<OWCA>\Com[2]Guzik prawda!\! To miejsce jest tak tandetne, jak tylko się da.\!<br>Już teraz widzę, że ze ścian schodzi farba!
+ 
+#WILK
+#Location: OSTATNIA PRZYSTAŃ
 message_10:
-      text: \n<WOLF>Honestly, I don't mind this place at all.\!<br>It's not bad at all for being free...\! even if the kiddie pool outside is haunted.
-
-#ELEANOR
+      text: \n<WILK>Szczerze mówiąc, nie mam nic przeciwko temu miejscu.\!<br>Nie jest źle jak na darmówkę...\! nawet jeśli brodzik za oknem jest nawiedzony.
+ 
+#ELEONORA
 #Location: MUSTARD SUBMERSIBLE
 message_11:
-      text: \n<SADIE>Hi, I'm SADIE...\! My sisters and I started this cafe together...\! But since CLAMS have been tight, a lot of my sisters decided to start working at the \c[11]LAST RESORT\c[0].
-
+      text: \n<SARA>Cześć, Jestem SARA...\! Ja i moje siostry założyłyśmy tę kawiarnię wspólnie...\! Ale odkąd krucho u nas z MAŁŻAMI, postanowiły zatrudnić się w \c[11]OSTATNIEJ PRZYSTANI\c[0].
+ 
 message_12:
-      text: \n<SADIE>It's just me and my sister ELEANOR left...
-
+      text: \n<SARA>Pozostałam tylko ja i ELEONORA...
+ 
 message_13:
-      text: \n<SADIE>\sinv[1]Sigh...\sinv[0]\! I wish they would come back here.\!<br>I would do anything to hear them sing again!
-
+      text: \n<SARA>\sinv[1]Ech...\sinv[0]\! Chciałabym, żeby wróciły tu do mnie.\!<br>Dałabym wszystko, żeby znów usłyszeć ich śpiew!
+ 
 #JULIA
-#Location: Last Resort
+#Location: OSTATNIA PRZYSTAŃ
 message_14:
-      text: \n<JULIA>I started working here because they offered me a good salary, but I haven't even gotten my first paycheck!
-
-#LUCY
-#Location: Last Resort
+      text: \n<JULIA>Zaczęłam tu pracować, bo zaproponowali mi dobrą pensję, ale nie dostałam jeszcze pierwszej wypłaty!
+ 
+#ŁUCJA
+#Location: OSTATNIA PRZYSTAŃ
 message_15:
-      text: \n<LUCY>\}I miss my sisters back at the \c[11]MUSTARD SUB\c[0]...
-
-#PAM
-#Location: Last Resort
+      text: \n<ŁUCJA>\}Brakuje mi moich sióstr i \c[11]MUSZTARDYSKAFU\c[0]...
+ 
+#PAMELA
+#Location: OSTATNIA PRZYSTAŃ
 message_16:
-      text: \n<PAM>Sorry, I can't serve \c[3]FRUIT JUICE\c[0] to minors.
-
+      text: \n<PAMELA>Przepraszam was, ale nie sprzedajemy \c[3]SOKU OWOCOWEGO\c[0] nieletnim.
+ 
 #RITA
-#Location: Last Resort
+#Location: OSTATNIA PRZYSTAŃ
 message_17:
-      text: \n<RITA>My sisters and I own a small cafe on the highway east of here.\! You should check it out.\! The food is delicious!
-
-#SADIE
+      text: \n<RITA>Razem z siostrami prowadzimy małą kawiarenkę przy autostradzie, na wschód stąd.\! Powinieneś tam kiedyś wpaść.\! Jedzenie jest przepyszne!
+ 
+#SARA
 #Location: MUSTARD SUBMERSIBLE
 #Check SHOP DIALOGUE GUIDE. (Mustard Submersible)
-
-#SHARK PICKLE
-#Location: Last Resort
+ 
+#OGÓREKIN
+#Location: OSTATNIA PRZYSTAŃ
 message_18:
-      text: \n<SHARK PICKLE>Do you want to learn a fact about SHARKS and/or PICKLES?\!<br>If you give me a \c[3]COMBO MEAL\c[0], I'll tell you what I know!
+      text: \n<OGÓREKIN>Chcesz dowiedzieć się czegoś o REKINACH i/lub OGÓRKACH?\!<br>Jeśli dasz mi \c[3]ZESTAW\c[0], powiem ci wszystko, co wiem!
 #yes/no (only if combo meal is in inventory)
-
+ 
 #yes
 message_19:
-      text: \n<SHARK PICKLE>Hey, thanks a lot! \!<br>Would you like to learn about SHARKS and/or PICKLES?
-
+      text: \n<OGÓREKIN>Hej, wielkie dzięki! \!<br>Chcesz się dowiedzieć czegoś o REKINACH czy/oraz o OGÓRKACH?
+ 
 message_20:
-      text: SHARKS
-
+      text: REKINY
+ 
 message_21:
-      text: PICKLES
-
+      text: OGÓRKI
+ 
 message_22:
-      text: \n<SHARK PICKLE>Great!\! Here's what I know...
-
-
+      text: \n<OGÓREKIN>Bajecznie!\! Oto co wiem...
+ 
+ 
 #Shark
-
+ 
 message_23:
-      text: \n<SHARK PICKLE>Sharks can only swim forward.<br>\!Isn't that inspiring?\! I think so...
-
+      text: \n<OGÓREKIN>Rekiny nie potrafią pływać wspak.<br>\!Czyż nie jest to inspirujące?\! Bo ja tak myślę...
+ 
 message_100:
-      text: \n<SHARK PICKLE>Sharks have multiple layers of teeth...\! which probably come in handy when they're eating pickles!
-
+      text: \n<OGÓREKIN>Rekiny mają wiele warstw uzębienia...\! co pewnie jest pomocne, kiedy jedzą ogórki!
+ 
 message_101:
-      text: \n<SHARK PICKLE>Sharks don't have bones!\! We are actually made from human ears and noses.
-
+      text: \n<OGÓREKIN>Rekiny nie mają kości!\! Tak naprawdę składamy się z ludzkich uszu i nosów.
+ 
 message_102:
-      text: \n<SHARK PICKLE>Contrary to popular belief, most sharks don't like to eat people...\! except tiger sharks...\! Those guys will eat anything...
-
-
+      text: \n<OGÓREKIN>Wbrew powszechnej opinii, większość rekinów nie przepada za jedzeniem ludzi...\! no może poza żarłaczami tygrysimi...\! Ci goście zjedzą wszystko...
+ 
+ 
 #PICKLES
 message_24:
-      text: \n<SHARK PICKLE>November 14th is National Pickle Day.<br>\!Remember to eat your yearly pickle!
-
+      text: \n<OGÓREKIN>14 listopada przypada Narodowy Dzień Ogórka Kiszonego.<br>\!Pamiętaj, żeby zjeść wtedy swoje kiszonki!
+ 
 message_104:
-      text: \n<SHARK PICKLE>Have too many pickles?\! You can bury them in the ground and come back for them later!\! Just remember where you buried them...
-
+      text: \n<OGÓREKIN>Masz za dużo ogórków?\! Możesz zakopać część z nich w ziemi i wrócić po nie później!\! Tylko pamiętaj, gdzie je zakopałeś...
+ 
 message_105:
-      text: \n<SHARK PICKLE>Pickles are used for courting rituals in certain cultures.\! That's about all I'll say about that!
-
+      text: \n<OGÓREKIN>W niektórych kulturach ogórki są używane w rytuałach godowych.\! Nic więcej nie powiem w tym temacie!
+ 
 message_106:
-      text: \n<SHARK PICKLE>Think it's possible that you have scurvy?\! Then maybe you should have eaten a pickle!
-
-
-
-
-
+      text: \n<OGÓREKIN>Myślisz, że możesz mieć szkorbut?\! Gdybyś jadł ogórki, nigdy by się to nie wydarzyło!
+ 
+ 
+ 
+ 
+ 
 #SEACOW
 #Location:Underwater Highway
 message_25:
-      text: \n<SEACOW>Uhh... \!moo?
-
+      text: \n<KROWA MORSKA>Uch... \!muu?
+ 
 #SEACOW FARMER
 #Location:Underwater Highway- Hunt Squizzards Quest
 #Check Seacow farmer (Hunt Squizzards) yaml
-
-#GATOR GUY
-#Location: Last Resort - Break Room
+ 
+#ALI GATOR
+#Location: OSTATNIA PRZYSTAŃ - Break Room
 message_26:
-      text: \n<GATOR GUY>I got everyone pizza!
-
-#GATOR GUY
-#Location: Last Resort - Construction
+      text: \n<ALI GATOR>Mam pizzę dla wszystkich!
+ 
+#ALI GATOR
+#Location: OSTATNIA PRZYSTAŃ - Construction
 message_27:
-      text: \n<GATOR GUY>Huff... \!Huff... \!My back hurts... \!I'm too old for this.
-
-#GATOR GUY
-#Location: Last Resort - Break Room
+      text: \n<ALI GATOR>Uch... \!Uch... \!Plecy mnie bolą... \!Jestem na to za stary.
+ 
+#ALI GATOR
+#Location: OSTATNIA PRZYSTAŃ - Break Room
 message_28:
-      text: \n<GATOR GUY>Our stocks are falling... \!I mean, rising, at an alarming rate!
-
-#GATOR GUY
-#Location: Last Resort - Casino
-#GATOR GUY is on his tiny phone.
+      text: \n<ALI GATOR>Nasze akcje spadają... \!W sensie, rosną, i to w zastraszającym tempie!
+ 
+#ALI GATOR
+#Location: OSTATNIA PRZYSTAŃ - Casino
+#ALI GATOR is on his tiny phone.
 message_29:
-      text: \n<GATOR GUY>\}Nah... \!You serious?... \!Not again... \!<br>Don't worry about it... \! That won't be a problem...
-
-#GATOR GUY
-#Location: Last Resort- Bathroom (Looking at Mirror)
+      text: \n<ALI GATOR>\}Nie... \!Serio?... \!Znowu\!<br>Nie przejmuj się tym... \! Nie będzie z tym problemu...
+ 
+#ALI GATOR
+#Location: OSTATNIA PRZYSTAŃ- Bathroom (Looking at Mirror)
 message_30:
-      text: \n<GATOR GUY>Hey there, good lookin'...
-
-#GATOR GUY
-#Location: Last Resort Entrance
-#GATOR GUY is on his tiny phone.
+      text: \n<ALI GATOR>Witaj, przystojniaku...
+ 
+#ALI GATOR
+#Location: OSTATNIA PRZYSTAŃ Entrance
+#ALI GATOR is on his tiny phone.
 message_31:
-      text: \n<GATOR GUY>\}Uh huh... \!Yeah... \!Right... \!Who?... \!You got it.
-
-#GATOR GUY
-#Location: Last Resort Entrance
-#GATOR GUY is on his tiny phone.
+      text: \n<ALI GATOR>\}Aha... \!Tak... \!Dobra... \!Kogo?... \!Nie ma sprawy.
+ 
+#ALI GATOR
+#Location: OSTATNIA PRZYSTAŃ Entrance
+#ALI GATOR is on his tiny phone.
 message_32:
-      text: \n<GATOR GUY>\}Yessir... \!Yessir... \!Yessir... \!Yessir... \!Affirmative... \!Roger that...
-
+      text: \n<ALI GATOR>\}Tak, proszę pana... \!Oczywiście, proszę pana... \!Zrozumiano, proszę pana... \!Już się robi, proszę pana... \!Potwierdzam... \!Przyjąłem...
+ 
 #SLIME 1
 #Location:
 #[INCOMPLETE]
-
+ 
 #SLIME 2
 #Location:
 #[INCOMPLETE]
-
+ 
 #SLIME 3
 #Location:
 #[INCOMPLETE]
-
+ 
 #SLIME 4
 #Location:
 #[INCOMPLETE]
-
+ 
 #SLIME 5
 #Location:
 #[INCOMPLETE]
-
+ 
                         #====NIGHT 4====
-
+ 
 #ABBI
 #Location: Abyss
 #Abyss (Boss) - Tentacle Quest
 #Same as NIGHT 3.
-
+ 
 #DEALER ASH
-#Location: Last Resort
+#Location: OSTATNIA PRZYSTAŃ
 #Same as NIGHT 3.
-
-#PINKBEARD
+ 
+#RÓŻOBRODY
 #Location: Space Captains House- Bring Boy Home Quest
-#Check DREAM WORLD SIDEQUEST PINKBEARD
-
-#FISHBOY
+#Check DREAM WORLD SIDEQUEST RÓŻOBRODY
+ 
+#RYBNIAK
 #Location: Underwater Highway
 #Same as NIGHT 3.
-
+ 
 #GOYLE THE CRAB
 #Location: Underwater Highway
 #Same as NIGHT 3.
-
+ 
 #HITCHHIKER
 #Location: Underwater Highway
 #Same as NIGHT 3.
-
-#HOT DOG GUY
+ 
+#GOŚĆ OD HOT DOGÓW
 #Location: Underwater Highway
 #Same as NIGHT 3.
-
-#LAMB
-#Location: ORANGE OASIS
+ 
+#OWCA
+#Location: POMARAŃCZOWA OAZA
 message_33:
-      text: \n<LAMB>We tried going to the \c[11]LAST RESORT\c[0] for our honeymoon...<br>but that didn't really work out, so we took a train here to the \c[11]ORANGE OASIS\c[0]!
-
+      text: \n<OWCA>Na nasz miesiąc miodowy chcieliśmy pojechać do \c[11]OSTATNIEJ PRZYSTANI\c[0]...<br>ale nie było tam tak, jak sobie wyobrażaliśmy, dlatego przyjechaliśmy tutaj, do \c[11]POMARAŃCZOWEJ OAZY\c[0]!
+ 
 message_34:
-      text: \n<LAMB>I'm not sure what I was expecting...\! It's err...\!<br>It's quite orange.
-
-#WOLF
-#Location: ORANGE OASIS
+      text: \n<OWCA>Nie wiem, czego się spodziewałam...\! Jest yyyyy...\!<br>Jest dość pomarańczowa.
+ 
+#WILK
+#Location: POMARAŃCZOWA OAZA
 message_35:
-      text: \n<WOLF>Huff... huff... \! It's so hot.\! Is there even a hotel around here?
-
-#ELEANOR
+      text: \n<WILK>Uch... Uch... \! Ale tu gorąco.\! Czy w ogóle znajdziemy tu jakiś hotel?
+ 
+#ELEONORA
 #Location: MUSTARD SUBMERSIBLE
 message_80:
-      text: \n<SADIE>Hi, I'm SADIE!\! My sisters and I started this cafe together!
-
+      text: \n<SARA>Cześć, jestem SARA!\! Ja i moje siostry założyłyśmy tę kawiarnię wspólnie!
+ 
 message_81:
-      text: \n<SADIE>ELEANOR handles the register, so please speak with her if you want to buy a delicious \c[3]COMBO MEAL\c[0]!
-
+      text: \n<SARA>ELEONORA zbiera zamówienia, więc zgłoście się do niej, jeśli chcecie kupić przepyszny \c[3]ZESTAW\c[0]!
+ 
 message_82:
-      text: \n<SADIE>Also, those are my sisters singing!\!<br>Aren't their voices so pretty?
-
-
+      text: \n<SARA>To śpiewają moje siostry!\!<br>Mają piękne głosy, prawda?
+ 
+ 
 #JULIA
 #Location: Mustard Submersible
 message_85:
-      text: \n<JULIA>I left the \c[11]LAST RESORT\c[0], and am back here!\! Just don't tell my sisters I missed them!\! \SINV[1]Ufufu!\SINV[0]
-
-#LUCY
+      text: \n<JULIA>Wyjechałam z \c[11]OSTATNIEJ PRZYSTANI\c[0] i wróciłam tutaj!\! Tylko nie mów moim siostrom, że za nimi tęskniłam!\! \SINV[1]Ufufu!\SINV[0]
+ 
+#ŁUCJA
 #Location: Mustard Submersible
 message_90:
-      text: \n<LUCY>\}Hi... I'm glad to be back...\! I hope you like it here!
-
-#PAM
+      text: \n<ŁUCJA>\}Hej... Cieszę się, że wróciłam...\! Mam nadzieję, że podoba ci się to miejsce!
+ 
+#PAMELA
 #Location: Mustard Submersible
 message_95:
-      text: \n<PAM>I left the \c[11]LAST RESORT\c[0], because I missed SADIE and ELEANOR...\! but it looks like everyone else beat me to it.
-
+      text: \n<PAMELA>Opuściłam \c[11]OSTATNIĄ PRZYSTAŃ\c[0], bo brakowało mi SARY i ELEONORY...\! ale wygląda na to, że wszyscy wrócili tu przede mną.
+ 
 message_96:
-      text: \n<PAM>I guess I should be worrying about CLAMS right now but...\!<br>I'm just happy that we're all together again.\! We'll get by somehow!
-
-#SADIE
+      text: \n<PAMELA>Chyba powinnam się teraz martwić o MAŁŻE, ale...\!<br>Jestem po prostu szczęśliwa, że znów jesteśmy razem.\! Jakoś sobie poradzimy!
+ 
+#SARA
 #Location: Mustard Submersible
 #[Incomplete]
-
-#SHARK PICKLE
+ 
+#OGÓREKIN
 #Location:Underwater Highway
 #Same as NIGHT 3.
-
+ 
 #POKER FACE
-#Location: Last Resort
+#Location: OSTATNIA PRZYSTAŃ
 #POKER FACE: I got a mean poker face...
-
+ 
 #SEACOW
 #Location: Underwater Highway
 #Same as NIGHT 3.
-
+ 
 #SEACOW FARMER
 #Location: Underwater Highway - Hunt Squizzards Quest
 #Same as NIGHT 3.
-
+ 
 #MR. JAWSUM
-#Location: Last Resort
+#Location: OSTATNIA PRZYSTAŃ
 #Check DREAM WORLD QUEST DIALOGUE.
 #After Cutscene: Feed Humphrey 1
 #Location: N/A
-
-#GATOR GUY
+ 
+#ALI GATOR
 #Location: Forest Playground
 message_60:
-      text: \n<GATOR GUY>\SINV[1]Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop!\SINV[0]
-
-#GATOR GUY
+      text: \n<ALI GATOR>\SINV[1]Hop! \!\}I-\{Hop! \!\}I-\{Hop! \!\}I-\{Hop!\SINV[0]
+ 
+#ALI GATOR
 #Location: Mustard Submersible
-#GATOR GUY is on his tiny phone.
+#ALI GATOR is on his tiny phone.
 message_61:
-      text: \n<GATOR GUY>\}Uh huh...\! Three orders...\! Uh huh...\! Uh huh...\! I don't know...\! I can ask...\!<br>Okay, so you want four orders now...
-
-#GATOR GUY
-#Location: Last Resort
+      text: \n<ALI GATOR>\}Aha...\! Trzy zamówienia...\! Aha...\! Aha...\! Nie wiem...\! Mogę się spytać...\!<br>Okej, więc jednak chcą państwo cztery...
+ 
+#ALI GATOR
+#Location: OSTATNIA PRZYSTAŃ
 message_62:
-      text: \n<GATOR GUY>The boss doesn't have his usual energy lately...\!<br>I wonder if something's up...
+      text: \n<ALI GATOR>Ostatnio szef jest trochę zgaszony...\!<br>Zastanawiam się, czy coś go trapi...
 #After Cutscene: Feed Humphrey 1
 message_63:
-      text: \n<GATOR GUY>\Com[2]Hello, HERO, sir!\! \Com[2]Have a good day, sir!
-
-#GATOR GUY
-#Location: Last Resort - Break Room Stock Guy
+      text: \n<ALI GATOR>\Com[2]Witam, panie HERO!\! \Com[2]Życzę panu miłego dnia!
+ 
+#ALI GATOR
+#Location: OSTATNIA PRZYSTAŃ - Break Room Stock Guy
 #Same as DAY 3.
 #After Cutscene: Feed Humphrey 1
 message_64:
-      text: \n<GATOR GUY>In the short time that HERO has taken over as the new boss, our gross income has grown exponentially!
-
+      text: \n<ALI GATOR>Niedługo po tym jak HERO został nowym szefem, nasze przychody zaczęły gwałtownie rosnąć!
+ 
 message_65:
-      text: \n<GATOR GUY>At this rate...\! one day, we might even be cash-flow positive!
-
-#GATOR GUY
+      text: \n<ALI GATOR>W tym tempie...\! pewnego dnia, może będziemy mieć nawet jakieś zyski!
+ 
+#ALI GATOR
 #After Cutscene: Feed Humphrey 1
-#Location: Last Resort
+#Location: OSTATNIA PRZYSTAŃ
 message_66:
-      text: \n<GATOR GUY>Thanks to HERO's incredible leadership, our business model is more efficient than ever!\! We're on our way to the top, baby!
-
-#GATOR GUY
+      text: \n<ALI GATOR>Dzięki niesamowitemu kierownictwu HERO, nasz model biznesowy jest wydajniejszy niż kiedykolwiek!\! Pędzimy na szczyt, kochani!
+ 
+#ALI GATOR
 #After Cutscene: Feed Humphrey 1
-#Location: Last Resort
+#Location: OSTATNIA PRZYSTAŃ
 message_67:
-      text: \n<GATOR GUY>Are you tired of walking, boss?\!<br>Do you want me to carry you?
-
-#GATOR GUY
+      text: \n<ALI GATOR>Szefie, nie zmęczył się pan chodzeniem?\!<br>Chce szef, żebym szefa poniósł?
+ 
+#ALI GATOR
 #After Cutscene: Feed Humphrey 1
-#Location: Last Resort
+#Location: OSTATNIA PRZYSTAŃ
 message_68:
-      text: \n<GATOR GUY>\}So you were saying...\! Mhmm...\! No, you're missing the point...\! But that's not fiscally possible...\! I said fiscally, not physically!
-
-#GATOR GUY
-#Location: Last Resort
+      text: \n<ALI GATOR>\}Więc mówisz...\! Mhmm...\! Nie, nie chodzi mi o to...\! Ale to finansowo niemożliwe...\! Powiedziałem finansowo, nie fizycznie!
+ 
+#ALI GATOR
+#Location: OSTATNIA PRZYSTAŃ
 message_69:
-      text: \n<GATOR GUY>How you doin', boss?\! You want a free \c[5]RUBBER BAND\c[0]?\!<br>Don't worry about it.\! It's on me!
-
+      text: \n<ALI GATOR> Jak tam, szefie?\! Chce pan darmową \c[5]RECEPTURKĘ\c[0]?\!<br>Niech się szef nie martwi.\! Na mój koszt!
+ 
 message_70:
-      text: \n<GATOR GUY>Hey, you want another \c[5]RUBBER BAND\c[0], don't you?\!<br>Go on, take it!\! Anything for you, boss.
-
+      text: \n<ALI GATOR>Hej, nie chciałby pan jeszcze jednej \c[5]RECEPTURKI\c[0]?\!<br>Proszę brać, śmiało!\! Dla pana wszystko, szefie.
+ 
 message_71:
-      text: \n<GATOR GUY>You and your friends sure like \c[5]RUBBER BANDS\c[0]...\!<br>not that it's a problem.\! I got all the \c[5]RUBBER BANDS\c[0] in the world!
-
+      text: \n<ALI GATOR>Pan i pańscy przyjaciele z pewnością marzą o  \c[5]RECEPTURCE\c[0]...\!<br>nie żeby to był problem.\! Mam wszystkie \c[5]RECEPTURKI\c[0] świata!
+ 
 message_72:
-      text: \n<GATOR GUY>I know that look!\! That's the look of someone who wants another \c[5]RUBBER BAND\c[0]!\! Here ya go, boss!\! With everything you've done for us, it's the least I could do!
-
+      text: \n<ALI GATOR>Znam to spojrzenie!\! Spojrzenie kogoś, kto chce kolejną \c[5]RECEPTURKĘ\c[0]!\! Proszę bardzo, szefie!\! Za to wszystko, co pan dla nas zrobił, przynajmniej tak mogę się odwdzięczyć!
+ 
 message_73:
-      text: \n<GATOR GUY>Hey, boss!\! You liking those \c[5]RUBBER BANDS\c[0] I gave you?\!<br>Pretty neat, huh?\! I can get you more if you want...
-
+      text: \n<ALI GATOR>Hej, szefie!\! Podobają się panu te \c[5]RECEPTURKI\c[0] ode mnie?\!<br>Fajne, nie?\! Mogę dać panu więcej, jeśli szef chce...
+ 
 #Repeats infinitely:
 message_74:
-      text: \n<GATOR GUY>Here, boss!\! Take one more \c[5]RUBBER BAND\c[0]!\!<br>You go on and enjoy it!
-
+      text: \n<ALI GATOR>Proszę, szefie!\! Niech pan weźmie kolejną \c[5]RECEPTURKĘ\c[0]!\!<br>Kolejna do kolekcji!
+ 
 message_75:
-      text: You got a \c[5]RUBBER BAND\c[0]!
-
+      text: Dostałeś \c[5]RECEPTURKĘ\c[0]!
+ 
 #SLIME 1
 #Location:
 #extras_shop
-
+ 
 message_120:
-      text: Would you like to listen to this MUSICAL CLAM?
-
+      text: Czy chcesz posłuchać tego MUZYCZNEGO MAŁŻA?
+ 
 message_121:
-      text: Close this MUSICAL CLAM?
-
+      text: Zamknąć MUZYCZNEGO MAŁŻA?
+ 
 #BIKER gang
-
+ 
 message_125:
-      text: \n<CITY SLICKER>Respect your community!
-
+      text: \n<CWANIAK>Szanuj swoje otoczenie!
+ 
 message_126:
-      text: \n<JET SETTER>Love yourself!
-
+      text: \n<WAŻNIAK>Kochaj siebie!
+ 
 message_127:
-      text: \n<SKULL CRUSHER>Be kind to others!
-
+      text: \n<CZACHA>Bądź uprzejmy dla innych!
+ 
 message_128:
-      text: \n<BRICK>I donate to charity!
-
+      text: \n<CEGŁA>Wspieram cele charytatywne!
+ 
 message_130:
-      text: \n<FROG>\}\quake[1]Ribbit...\quake[0]\! (Waiting for something to happen?)
-
+      text: \n<ŻABA>\}\quake[1]Re-re kum-kum...\quake[0]\! (Czekasz, aż coś się stanie?)
+ 
 #MUSCLE Sign
-
+ 
 #OMORI
 message_150:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelLookin' good, OMORI!
-
+      text: \kelJesteś w formie, OMORI!
+ 
 message_151:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubWhat a hunk!
-
+      text: \aubAle przystojniak!
+ 
 message_152:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herOMORI, have you been working out?
-
+      text: \herOMORI, ćwiczyłeś ostatnio?
+ 
 #AUBREY
 message_153:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kel\sinv[1]Oooh, AUBREY... You're so dreamy...
-
+      text: \kel\sinv[1]Ooo, AUBREY... Wyglądasz jak ósmy cud świata...
+ 
 message_154:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herWould you like anything, sir?\! A \c[3]FRUIT JUICE\c[0]?\! A back \c[1]MASSAGE\c[0]?\! Some croutons?
-
+      text: \herŻyczyłaby sobie pani czegoś?\! A \c[3]SOKU\c[0]?\! \c[1]MASAŻ\c[0] pleców?\! A może grzankę?
+ 
 message_155:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubWow!\! I could get used to this!
-
+      text: \aubWow!\! Mogłabym się do tego przyzwyczaić!
+ 
 #KEL
 message_156:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelIt is I, KEL of the future!\! I'm gonna have so much muscle, I'm gonna barely be able to walk!
-
+      text: \kelOto ja, KEL z przyszłości!\! Będę tak umięśniony, że ledwo będę mógł chodzić!
+ 
 message_158:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelStrike a pose! Hoo-hah!\! I'm gonna get all the girls. Just you wait.
-
+      text: \kelZdjęcie proszę! Uhu!\! Zdobędę wszystkie dziewczyny. Tylko poczekajcie.
+ 
 message_159:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: \aubNot like that, you won't.
-
+      text: \aubNa pewno nie w ten sposób.
+ 
 #HERO
 message_160:
       faceset: MainCharacters_DreamWorld
       faceindex: 49
-      text: Settle down, ladies...\! There's enough of me to go around.\her
-
+      text: Spokojnie, panienki...\! Starczy mnie dla was wszystkich.\her
+ 
 message_161:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aub\sinv[1]Ewwwwwwwwww!\sinv[0] Stop it, HERO.\! Or else I'm telling MARI!
-
+      text: \aub\sinv[1]Fuuuuuuuj!\sinv[0] Przestań, HERO.\! Albo powiem MARI!
+ 
 message_162:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herS-Sorry.
-
+      text: \herS-sorka.
+ 
 #phone
-
+ 
 message_170:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kel\{\com[2]\{HELLO? THIS IS KEL!
-
+      text: \kel\{\com[2]\{HALO? STACHU?
+ 
 message_171:
       faceset: MainCharacters_DreamWorld
       faceindex: 25
-      text: \kel\{\com[2]\{WHERE IS MY ROOM SERVICE?
-
+      text: \kel\{\com[2]\{SŁUCHAJ, JEST STACHU W DOMU?
+ 
 message_172:
       faceset: MainCharacters_DreamWorld
       faceindex: 33
-      text: \kel\{\com[2]\{IT'S BEEN 45 MINUTES!
-
+      text: \kel\{\com[2]\{GDZIE PINIONDZE SĄ ZA LAS!
+ 
 message_174:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: \kel\}...\! Yes...\! Uh huh...\! Uh huh...\! Oh, that's...\! M-My mistake.\! S-So sorry.\! Goodbye.
-
+      text: \kel\}...\! Tak...\! Yhy...\! Aha...\! Och, to...\! M-mój błąd.\! B-bardzo przepraszam.\! Do widzenia.
+ 
 message_175:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
       text: \kel...
-
+ 
 message_176:
-      text: \n<SPROUT MOLE>Hello, who is this?
-
+      text: \n<KIEŁKUN>Halo, kto mówi?
+ 
 message_177:
-      text: \n<SPROUT MOLE>Sorry, you have the wrong number.
-
+      text: \n<KIEŁKUN>Przepraszam, to chyba pomyłka.
+ 
 message_178:
-      text: \n<SPROUT MOLE>\com[2]Do you think this is funny, kid!?
-
+      text: \n<KIEŁKUN>\com[2]Myślisz, że jesteś śmieszny, dzieciaku!?
+ 
 message_179:
-      text: \n<SPROUT MOLE>My mom warned me about people like you!
-
+      text: \n<KIEŁKUN>A mama ostrzegała, przed takimi jak ty!
+ 
 message_180:
-      text: \n<NOSE>\}Nose goes!\! \quake[1]Bzzt...
-
+      text: \n<NOSKA>\}Nos daje głos!\! \quake[1]Bzzt...
+ 
 #HERO BOSS
 message_200:
-      text: Good day, boss. Love your hair!\n<GATOR GUY>
-
+      text: Dobrego dnia, szefie. Uwielbiam pana włosy!\n<ALI GATOR>
+ 
 message_201:
-      text: Hey, boss. Love the suit!\n<GATOR GUY>
-
+      text: Hej, szefie. Świetny garnitur!\n<ALI GATOR>
+ 
 #POTHOLE GUYS
 message_220:
-      text: \n<GATOR GUY>Move along, move along... Nothing to see here.
-
+      text: \n<ALI GATOR>Dalej, dalej... Nie ma tu nic ciekawego.
+ 
 message_221:
-      text: \n<GATOR GUY>New potholes every day...\! I hope I'm getting paid overtime for this.
-
+      text: \n<ALI GATOR>Codziennie jakaś nowa dziura...\! Mam nadzieję, że kiedyś mi za to zapłacą.
+ 
 message_233:
-      text: \n<GATOR GUY>I keep filling in the holes...\! but they just keep coming back!
-
+      text: \n<ALI GATOR>Naprawiam tę drogę bez końca...\! ale wciąż pojawiają się nowe dziury!
+ 
 #HERO BOSS
 message_222:
-      text: \n<GATOR GUY>How's it going, boss?\! Hope you're not workin' too hard.
-
+      text: \n<ALI GATOR>Co tam u pana, szefie?\! Mam nadzieję, że się pan nie przepracowuje.
+ 
 message_223:
-      text: \n<GATOR GUY>Checking up on us all the way out here, boss?\! That's some real leadership.
-
+      text: \n<ALI GATOR>Nawet tutaj sprawdza pan, co robimy?\! To dopiero prawdziwe zdolności przywódcze.
+ 
 message_234:
-      text: \n<GATOR GUY>What's up, boss?\! Thanks for takin' over the business and everything.\! I hear you're killin' it up there!
-
+      text: \n<ALI GATOR>Co tam, szefie?\! Dzięki za przejęcie tej firmy i w ogóle.\! Słyszałem, że świetnie sobie pan radzi z tym całym zarządzaniem!
+ 
 message_224:
-      text: \n<GATOR GUY>So... I bumped into Mom on the way up here and she won't stop nagging me...\! Wearing shades inside is bad for your eyes, she says.
-
+      text: \n<ALI GATOR>Więc... W drodze tutaj spotkałem moją mamę i musiałem wysłuchiwać jej narzekań...\! Ciągle tylko mówi, że oślepnę przez noszenie okularów przeciwsłonecznych w budynkach.
+ 
 message_225:
-      text: \n<GATOR GUY>I can't take off these shades just like that.\! They're like a part of me!
-
+      text: \n<ALI GATOR>Ale nie mogę tak po prostu zdjąć tych okularów.\! One są jakby częścią mnie!
+ 
 message_226:
-      text: \n<GATOR GUY>Man... Mom's visiting again?\! She must be empty-nesting hard.
-
+      text: \n<ALI GATOR>Kurde... Mama znów przyjdzie?\! Pewnie przechodzi przez ten cały syndrom pustego gniazda.
+ 
 message_227:
-      text: \n<GATOR GUY>What? Mom's here?\! I gotta go say hi later!
-
+      text: \n<ALI GATOR>Co? Mama przyszła?\! Będę musiał się z nią potem przywitać!
+ 
 message_228:
-      text: \n<GATOR GUY>Yay! Mom's here!
-
+      text: \n<ALI GATOR>Hurra! Mama przyszła!
+ 
 message_229:
-      text: \n<GATOR GUY>Ugh...\! Mom.
-
+      text: \n<ALI GATOR>Uch...\! Mamo.
+ 
 message_230:
-      text: \n<GATOR GUY>Wearing shades inside is cool.
-
+      text: \n<ALI GATOR>Noszenie okularów przeciwsłonecznych w środku jest cool.
+ 
 message_231:
-      text: \n<GATOR GUY>Tourists are already showing up even though we're not done with construction yet.\! Don't know if that's a good thing or a bad thing...
-
+      text: \n<ALI GATOR>Turyści już przyjeżdżają, pomimo że nawet nie skończyliśmy budowy.\! Nie wiem, czy to dobrze czy źle...
+ 
 message_232:
-      text: \n<GATOR GUY>Fixing stuff is fun!
+      text: \n<ALI GATOR>Naprawianie rzeczy jest fajne!

@@ -139,7 +139,7 @@ message_58:
 message_59:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Oj... Biedactwo..\!<br>Musi być coś, co mu pomoże.\aub
+      text: Oj... Biedactwo...\!<br>Musi być coś, co mu pomoże.\aub
  
 message_60:
       text: \}\quake[1]Ekhu, ekhe...\! Ekhe...\! Och, SŁODZIUTKA...\!<br>Gdzie jesteś?\n<KOSMOCHŁOPAK>\quake[0]
@@ -205,7 +205,7 @@ message_73:
 message_74:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Czekajcie! Gdzie idziecie?! Powinniśmy mu pomóc!\!<br>Zwłaszcza ty powinieneś wiedzieć, jak boli utrata ukochanej osoby.\aub
+      text: Czekaj! Gdzie idziesz?! Powinniśmy mu pomóc!\!<br>Zwłaszcza ty powinieneś wiedzieć, jak boli utrata ukochanej osoby.\aub
  
 message_75:
       faceset: MainCharacters_DreamWorld

@@ -10,7 +10,7 @@
 message_0:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Widziałeś to??<br>AUBREY wyrzuciła coś do śmietnika!\! <br>Zobaczmy, co tam jest...\kel
+      text: Widziałeś to?<br>AUBREY wyrzuciła coś do śmietnika!\! <br>Zobaczmy, co tam jest...\kel
  
 # =========================================================================================
 # Cutscene: Album Get
@@ -82,7 +82,7 @@ message_47:
       text: Oddałeś BASILOWI jego \c[4]ALBUM\c[0].
  
 message_48:
-      text: BASIL! Nie mówiłeś, że twoi przyjaciele nas odwiedzą.\!<br>Chcielibyście zjeść z nami kolację?\! <br>Zawsze gotuje odrobinę za dużo.\n<POLLY>
+      text: BASIL! Nie mówiłeś, że twoi przyjaciele nas odwiedzą.\!<br>Chcielibyście zjeść z nami kolację?\! <br>Zawsze gotuję odrobinę za dużo.\n<POLLY>
  
 message_49:
       faceset: MainCharacters_Faraway
@@ -351,7 +351,7 @@ message_124:
 message_125:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: W tym roku...\! mlask...\! nareszcie... będę...\! <br>wyższy od niego..\! <br>mlask...\! Czuję to w kościach!\kel
+      text: W tym roku...\! mlask...\! nareszcie... będę...\! wyższy od niego...\! mlask...\!<br>Czuję to w kościach!\kel
  
 message_126:
       text: Hehe...\! Wydajecie się sobie bliscy.\! <br>Nic złego...\! Rodzina jest bardzo ważna!\n<POLLY>

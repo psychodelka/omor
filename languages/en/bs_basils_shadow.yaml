@@ -216,7 +216,7 @@ message_34:
       text: \n<BASIL>Ja...\| przepraszam.
  
 message_35:
-      text: \n<BASIL>Wybaczysz mi?\|Przyjacielu...
+      text: \n<BASIL>Wybaczysz mi?\| Przyjacielu...
  
 #===========================================================================================
  
@@ -316,7 +316,7 @@ message_54:
  
 message_55:
    text: >
-    \>NIEZNAJOMY: \<\fn<OMORI_GAME>Jeśli nie możemy stawić temu czoła razem...\! przynajmniej pozwól mi z<br>\<\fn<OMORI_GAME>tobą być.
+    \>NIEZNAJOMY: \<\fn<OMORI_GAME>Jeśli nie możemy razem stawić temu czoła...\! przynajmniej bądź przy<br>\<\fn<OMORI_GAME>mnie.
  
 message_56:
    text: >

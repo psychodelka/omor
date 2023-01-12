@@ -614,7 +614,7 @@ message_610:
 message_612:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelWiesz...\! Kiedy MARI odeszła...\! HERO...\! HERO przestało cokolwiek obchodzić.<br><br>Nie chciał wychodzić z łóżka do szkoły, nawet po jedzenie.\! Przestał o siebie dbać, przestał piec i gotować...
+      text: \kelWiesz...\! Kiedy MARI odeszła...\! HERO...\! Wszystko przestało obchodzić HERO.<br><br>Nie chciał wychodzić z łóżka do szkoły, nawet po jedzenie.\! Przestał o siebie dbać, przestał piec i gotować...
  
 message_613:
       faceset: MainCharacters_Faraway
@@ -664,7 +664,7 @@ message_622:
 message_623:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelNigdy nie widziałem HERO w takim stanie.\! Bardzo mnie to przestraszyło.\!Bałem się go tak bardzo, że...\! no...\! Sam zacząłem płakać.
+      text: \kelNigdy nie widziałem HERO w takim stanie.\! Bardzo mnie to przestraszyło.\! Bałem się go tak bardzo, że...\! no...\! Sam zacząłem płakać.
  
 message_624:
       faceset: MainCharacters_Faraway
@@ -689,7 +689,7 @@ message_626:
 message_627:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelJest naturalnie dobry we wszystkim, ale nadal ciężko pracuję, więc jestem z niego dumny!
+      text: \kelJest naturalnie dobry we wszystkim, ale nadal ciężko pracuje, więc jestem z niego dumny!
  
 message_628:
       faceset: MainCharacters_Faraway
@@ -722,6 +722,6 @@ message_630:
       text: Nie możesz wyjść przez nieznany ci powód.
  
 message_640:
-      text: Wziąłeś krótką drzemkę.\!<br>Powinieneś niedługo wypełnić swoje obowiązki.
+      text: Uciąłeś sobie krótką drzemkę.\!<br>Niedługo powinieneś wypełnić swoje obowiązki.
  
 

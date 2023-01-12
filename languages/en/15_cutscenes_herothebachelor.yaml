@@ -147,7 +147,7 @@ message_46:
 #SWEETHEART jumps off from cake.
  
 message_47:
-      text: \sinv[2]\{\{ACHHHHHHHH TAK!!!!\!TO JA!!\n<SŁODZIUTKA>
+      text: \sinv[2]\{\{AAAAAAAACH TAK!!!!\! TO JA!!\n<SŁODZIUTKA>
  
 message_48:
       text: Witajcie moi głupi wielbiciele!\n<SŁODZIUTKA>
@@ -481,10 +481,10 @@ message_138:
 #MUSTACHE MOLE takes off MUSTACHE.
  
 message_139:
-      text: \{\Com[2]TO JA!\! RÓŻA!!\!\}<br>Największa fanka SŁODZIUTKIEJ w całym wszechświecie!\ros
+      text: \{\Com[2]TO JA!\! RÓŻA!!\!\}<br>Największa fanka SŁODZIUTKIEJ w całym wszechświecie!\n<RÓŻA>
  
 message_140:
-      text: Ostrzegałam was, że zapłacicie mi za zadzieranie ze mną!\ros
+      text: Ostrzegałam was, że zapłacicie mi za zadzieranie ze mną!\n<RÓŻA>
  
 message_141:
       faceset: MainCharacters_DreamWorld
@@ -497,15 +497,15 @@ message_142:
       text: Mogłem się domyślić, że byłaś tą, która tak potwornie zamąciła, RÓŻO!\kel
  
 message_143:
-      text: Czyli mieli rację... <br>\{ZEMSTA JEST SŁODKA!!\ros
+      text: Czyli mieli rację... <br>\{ZEMSTA JEST SŁODKA!!\n<RÓŻA>
  
 message_144:
-      text: A teraz gnijcie, plebsie! Gnijcie w \c[11]LOCHACH\C[0] na zawsze!\ros
+      text: A teraz gnijcie, plebsie! Gnijcie w \c[11]LOCHACH\C[0] na zawsze!\n<RÓŻA>
  
 #ROSA walks O.S.
  
 message_145:
-      text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\ros
+      text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\n<RÓŻA>
  
 message_146:
       faceset: MainCharacters_DreamWorld

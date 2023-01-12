@@ -194,7 +194,7 @@ Scene_BlackJack.prototype.commandWager500 = function () {
 
 Scene_BlackJack.prototype.setWagerAmount = function(amount) {
     if (!(this._earnings >= amount)) {
-        this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_1").text + amount);
+        this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_1").text + " " + amount);
         this._timer = 90;
         this._wagerWindow.activate();
         return;
@@ -619,7 +619,7 @@ Scene_BlackJack.prototype.update = function() {
             this._wagerWindow.visible = true;
             this._wagerWindow.select(0);
             this._titleWindow.visible = true;
-            this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_2").text + this._earnings + LanguageManager.getMessageData("blackjack_minigame.message_3").text);
+            this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_2").text + " " + this._earnings + LanguageManager.getMessageData("blackjack_minigame.message_3").text);
 
             this.startFadeIn(100);
         }
@@ -661,7 +661,7 @@ Scene_BlackJack.prototype.update = function() {
     if (this._timer > 0 && this._wagerWindow.visible) {
         this._timer --;
         if (this._timer <= 0) {
-            this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_2").text + this._earnings + LanguageManager.getMessageData("blackjack_minigame.message_3").text);
+            this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_2").text + " " + this._earnings + LanguageManager.getMessageData("blackjack_minigame.message_3").text);
         }
     }
     if (this._showingOpponentAction){
@@ -697,7 +697,7 @@ Scene_BlackJack.prototype.update = function() {
                 if (this._earnings <= 0) {
                     this.gameOver();
                 } else {
-                    this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_2").text + this._earnings + LanguageManager.getMessageData("blackjack_minigame.message_3").text);
+                    this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_2").text + " " + this._earnings + LanguageManager.getMessageData("blackjack_minigame.message_3").text);
                     this._titleWindow.visible = true;
                     this._dataWindow.visible = false;
                     this.softReset();
@@ -713,8 +713,8 @@ Scene_BlackJack.prototype.update = function() {
 
 Scene_BlackJack.prototype.payOut = function() {
     this._titleWindow.visible = true;
-    if (this._atLeastOneGameStarted) this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_2").text + this._earnings + "!");
-    else this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_8").text + this._earnings + "!");
+    if (this._atLeastOneGameStarted) this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_2").text + " " + this._earnings + "!");
+    else this._titleWindow.refresh(LanguageManager.getMessageData("blackjack_minigame.message_8").text + " " + this._earnings + "!");
     $gameVariables.setValue(827, this._earnings);
 }
 

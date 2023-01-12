@@ -123,7 +123,7 @@ message_32:
       text: Ojej, ojej!\! Ledwie jestem w stanie utrzymać moje podekscytowanie.\!<br>To będzie najbardziej zaskakujący występ, jaki kiedykolwiek zobaczymy!\n<KIEŁKUN>
  
 message_33:
-      text: Rety, rety!!\! Musimy się spieszyć!\!<br>Tu są nasze cztery \c[4]BILETY NA SPEKTAKL\c[0] w pierwszym rzędzie!\!<br>Niedługo rozpocznie się wspaniały występ, nie możemy go przegapić!\n<KIEŁKUN>
+      text: Rety, rety!!\! Musimy się spieszyć!\!<br>Tu są nasze cztery \c[4]BILETY NA SPEKTAKL\c[0] w pierwszym rzędzie!<br>Niedługo rozpocznie się wspaniały występ, nie możemy go przegapić!\n<KIEŁKUN>
  
 message_34:
       text: Więc... w którą to mieliśmy iść stronę?\n<KIEŁKUN>
@@ -177,17 +177,17 @@ message_39:
 message_40:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Tak! Wygląda to na jakąś konkurencji!\aub
+      text: Tak! Wygląda to na jakąś konkurencję!\aub
  
 message_41:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Jeżeli będziemy niedaleko, powinniśmy wejść i zobaczyć!\! <br>W końcu mamy \c[4]BILETY NA SPEKTAKL\c[0]!\aub
+      text: Jeżeli będziemy niedaleko, powinniśmy wejść i zobaczyć!\!<br>W końcu mamy \c[4]BILETY NA SPEKTAKL\c[0]!\aub
  
 message_42:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Cóż...\! no dobrze.\!<br>Może wpadniemy, jeśli akurat natkniemy się na niego natkniemy.\her
+      text: Cóż...\! no dobrze.\!<br>Może wpadniemy, jeśli akurat się na niego natkniemy.\her
  
 # =========================================================================================
 # Cutscene: Pyreflies Intro
@@ -451,7 +451,7 @@ message_160:
       text: \n<KIEŁKUN>Ech... ech... uff... uff...
  
 message_161:
-      text: \n<KIEŁKUN ZARZĄDCA>Szybciej, panowie!\! Musimy się wysilić jak tylko możemy, aby przenieść nam świetlaną przyszłość!
+      text: \n<KIEŁKUN ZARZĄDCA>Szybciej, panowie!\! Musimy  wysilić się, jak tylko możemy, aby przynieść nam świetlaną przyszłość!
  
 message_162:
       text: Bardzo duże gniazdko elektryczne.

@@ -1,174 +1,174 @@
-
+ 
 # =========================================================================================
 # Faraway extra dialogue
 # =========================================================================================
-
+ 
 #SECRET LAKE CUTSCENE - DAY 3 AFTER GETTING AUBREY:
-
+ 
 #Intro
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelSo this is your hangout spot with your new friends, huh?
-
+      text: \kelWięc to jest miejsce, w którym spotykasz się ze swoimi nowymi przyjaciółmi?
+ 
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubYeah... so what?
-
+      text: \aubTa... no i co?
+ 
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelEh...\! Nothing really. Can't really blame you.
-
+      text: \kelEch...\! Nic, serio. Nie będę cię winić.
+ 
 #Kel walks up 1 step
-
+ 
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelIt is a pretty cool place...
-
+      text: \kelTo miejsce wydaje się całkiem spoko...
+ 
 #*KEL walks to lake*
-
+ 
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelThe lake's a little murkier now, but I remember we used to swim here all the time!
-
+      text: \kelJezioro wygląda trochę mroczniej niż kiedyś, ale pamiętam, jak pływaliśmy tutaj cały czas!
+ 
 message_6:
       faceset: MainCharacters_Faraway
       faceindex: 11
-      text: \aubIt looks the same as it always did...\! You just had lower standards.
-
+      text: \aubWygląda tak, jak zawsze wyglądało...\! Po prostu miałeś mniejsze wymagania.
+ 
 message_7:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: \kelHeh heh... Maybe so, maybe so.\!<br>So... why did we stop swimming here again?
-
+      text: \kelHeh heh... Może, może.\!<br>Więc... czemu w ogóle przestaliśmy tutaj pływać?
+ 
 message_8:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubYou don't remember?\! MARI stopped wanting to come here after the time \n[8] almost drowned...
-
+      text: \aubNie pamiętasz?\! MARI nie chciała już tutaj przychodzić, po tym, jak \n[8] prawie utonął...
+ 
 #*KEL jumps*
-
+ 
 message_9:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelOh man, I completely forgot about that!
-
+      text: \kelAch tak, kompletnie o tym zapomniałem!
+ 
 #*HERO walks to lake*
-
+ 
 message_10:
       faceset: MainCharacters_Faraway
       faceindex: 31
-      text: \herKEL and I used to do tricks jumping off that statue, but when we asked \n[8] to try it...\! he froze up and fell into the lake.
-
+      text: \herKEL i ja robiliśmy sztuczki podczas skakania z posągu, więc chcieliśmy, żeby \n[8] też spróbował. Tyle, że gdy spróbował, to zamarł w miejscu i wpadł do jeziora...
+ 
 #*HERO turns to player*
-
+ 
 message_11:
       faceset: MainCharacters_Faraway
       faceindex: 34
-      text: \herDo you remember, \n[8]?\! It all happened so fast...
-
+      text: \herPamiętasz, \n[8]?\! To wszystko wydarzyło się tak szybko...
+ 
 message_12:
       faceset: MainCharacters_Faraway
       faceindex: 34
-      text: \herAnd even though we were already in the water, it wasn't us who saved you.
-
+      text: \herI pomimo tego, że także byliśmy wtedy w wodzie, to nie my ciebie uratowaliśmy.
+ 
 #*KEL turns to PLAYER*
-
+ 
 message_13:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelNo, it was MARI...\! She dived in before we could even react.
-
+      text: \kelNie, to była MARI...\! Zanurkowała, zanim zdążyliśmy w ogóle zareagować.
+ 
 #*AUBREY walks to front of pier*
-
+ 
 message_14:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubI'll never forget that moment that she carried you out of the lake.\! And when you finally opened your eyes, she fell on top of you and burst into tears.
-
+      text: \aubNigdy nie zapomnę tego momentu, w którym wyciągnęła cię z tego jeziora.\! I gdy w końcu otworzyłeś oczy, położyła się na tobie i zaczęła płakać.
+ 
 message_15:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aub...\! I had never seen her that way before...
+      text: \aub...\! Nigdy wcześniej nie widziałam jej w takim stanie...
 #*HERO walks right in front of PLAYER*
-
+ 
 message_16:
       faceset: MainCharacters_Faraway
       faceindex: 31
-      text: \herMARI really loved you, \n[8].\! You know that, don't you?
-
-
+      text: \herMARI bardzo cię kochała, \n[8].\! Wiesz o tym, prawda?
+ 
+ 
 # =========================================================================================
 # Sleepover final messages - Day 3 night after basil's memories
 # =========================================================================================
-
+ 
 #Examine sleeping Kel
-
+ 
 #1st talk
 #message_20:
 #      text: Even though KEL is just as you remember him...\!<br>you still can tell he has grown while you were gone.\!<br>Something about that hurts, but you don't know why.
-
+ 
 #2nd talk
 message_21:
-      text: KEL has always been there for you.\! And even though he's a bit careless at times, you know he has a good heart.
-
+      text: KEL zawsze cię wspierał.\! Pomimo tego, że czasami bywa lekko niedbały, wiesz, że ma dobre serce.
+ 
 message_22:
-      text: More than anything, he just wants everyone around him to be happy.\! He has always been someone you could count on to lift your spirits.
-
+      text: Niczego bardziej nie chce, niż żeby wszyscy byli szczęśliwi.\! Zawsze był kimś, na kogo mogłeś liczyć.
+ 
 message_23:
-      text: You will really miss him.
-
+      text: Będziesz za nim bardzo tęsknić.
+ 
 #1st talk
 #message_24:
 #      text: Loud, angry, violent...\! AUBREY has changed a lot...\!<br>But, she still hardly makes a noise when she sleeps.
-
+ 
 #2nd talk
 message_25:
-      text: AUBREY has always acted true to her feelings.\!<br>Even though she has trouble admitting how much she cares,<br>her actions have shown otherwise.
-
+      text: AUBREY zawsze postępowała tak, jak mówiło jej serce.\!<br>Pomimo, że nie chce się do tego przyznać, jej czyny robią to za nią.
+ 
 message_26:
-      text: She has been a little hard to understand...\! but you can trust that she will always try her best to do the right thing.
-
+      text: Zawsze ciężko było ją zrozumieć,\! ale wiesz, że zawsze będzie starać się zrobić to, co najlepsze.
+ 
 message_27:
-      text: You will really miss her.
-
+      text: Będziesz za nią bardzo tęsknić.
+ 
 #1st talk
 #message_28:
 #      text: HERO looks peaceful...\! but you can't help but worry.\!<br>For a moment, you wonder what his life would have been like if MARI was still there.
-
+ 
 #2nd talk
 message_29:
-      text: HERO has always been someone you could rely on.\! He is wise, capable, loving, and always puts others above himself.
-
+      text: HERO zawsze był kimś, na kim mogłeś polegać.\! Jest inteligentny, zdolny, czuły i zależy mu bardziej na innych, niż na sobie.
+ 
 message_30:
-      text: He is the kind of person that will always make himself available to help you, even to a fault.
-
+      text: Jest tym typem osoby, która zawsze będzie do dyspozycji, jeśli będziesz potrzebować pomocy.
+ 
 message_31:
-      text: You will really miss him.
-
-
+      text: Będziesz za nim bardzo tęsknić.
+ 
+ 
 #RECYCLEPATH AFTERWARDS
-
+ 
 message_35:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kel\n[8]...\! Uh...\! \n[8]...?
-
+      text: \kel\n[8]...\! Ech...\! \n[8]...?
+ 
 message_36:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubHey, you alright?\! You've been staring into space for like five minutes now...
-
+      text: \aubHej, wszystko gra?\! Patrzysz w jeden punkt już od chyba pięciu minut...
+ 
 message_37:
       faceset: MainCharacters_Faraway
       faceindex: 38
-      text: \herHaha...\! What were you daydreaming about, \n[8]?
-
+      text: \herHaha...\! O czym tak fantazjowałeś, \n[8]?
+ 
 message_38:
       faceset: MainCharacters_Faraway
       faceindex: 30
-      text: \herYour expression...\! It was so peaceful.
+      text: \herTwój wyraz twarzy...\! Był taki spokojny.

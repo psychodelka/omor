@@ -1,244 +1,243 @@
 # =========================================================================================
 # Farawaytown extras daily dialogue
 # =========================================================================================
-
+ 
 # =========================================================================================
 # DAY 3 - SUNSET
 # =========================================================================================
-
+ 
 #==============KEL===========================================
 #If Player enters sean and karens house
 #Location: Sean and Karens House
-
+ 
 message_0:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelWell...\! Today is our last day together, huh \n[8]?
-
+      text: \kelNooo...\! To nasz ostatni wspólnie spędzony dzień, co nie, \n[8]?
+ 
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelIt's nice that we have a chance to celebrate with everyone before you head off for new horizons!
-
+      text: \kelCieszę się, że mamy okazję być dzisiaj wszyscy razem, zanim wyruszysz na nowe horyzonty!
+ 
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelJust enjoy yourself and relax for now. <br>\!We're in good company!
-
-
+      text: \kelPo prostu bądź sobą i zrelaksuj się. <br>\!Świetni z nas kumple!
+ 
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelWell... Munch...\! Today is our last day together, huh \n[8]?
-
+      text: \kelNooo... Mniam...\! To nasz ostatni wspólnie spędzony dzień, co nie \n[8]?
+ 
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelIt's nice that we...\! Munch...\! have a chance to celebrate with everyone before you head off for new horizons!
-
+      text: \kelCieszę się...\! Mniam...\! że mamy okazję być dzisiaj wszyscy razem, zanim wyruszysz na nowe horyzonty!
+ 
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelJust enjoy yourself and relax for now. <br>\!Munch...\! We're in good company!
-
-
+      text: \kelPo prostu bądź sobą i zrelaksuj się. <br>\!Mniam...\! Świetni z nas kumple!
+ 
+ 
 #==============HERO===========================================
 #If Player enters sean and karens house
 #Location: Sean and Karens House
-
+ 
 message_10:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: \herI haven't been to a party like this in a long time.\! We have parties in college too, but they're not as...\! erm...\! quaint.
-
+      text: \herDawno nie byłem na takiej imprezie.\! Na studiach też się jakieś trafiają, ale nie są takie...\! emm...\! oryginalne.
+ 
 #CONDITIONAL: If PLAYER helps with COOKING QUEST
 message_11:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: \herI'm glad everyone's enjoying the food, though...\!<br>It's the culmination of our hard work!
-
+      text: \herAle cieszę się, że wszystkim smakuje jedzenie...\!<br>To efekt naszej ciężkiej pracy!
+ 
 #==============AUBREY===========================================
 #If Player enters sean and karens house
 #Location: Sean and Karens House
-
-
+ 
+ 
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubParties aren't really my thing...\! but this is kind of nice.
-
+      text: \aubNie przepadam za imprezami...\! ale ta nie jest taka zła.
+ 
 #CONDITIONAL: If PLAYER helps with COOKING QUEST
-
+ 
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubHmph...\! And I guess it's true what they say...
-
+      text: \aubHmf...\! Chyba to, co się mówi to prawda...
+ 
 message_22:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubFood always tastes better when you cook it yourself...
-
+      text: \aubWłasnoręcznie robione jedzenie smakuje lepiej...
+ 
 #==============KIM===========================================
 #Location: Sean and Karens House
-
+ 
 message_30:
-      text: \kimHey, it's you!\!<br>Darn...\! I guess this party isn't cool anymore...
-
+      text: \kimChwila, chwila, to ty!\!<br>Kurczaki...\! Ta impreza nie jest już taka fajna...
+ 
 message_31:
-      text: \kimHeh heh...\! Just kidding...\! nerd.
-
+      text: \kimHeh heh...\! Żartuję tylko...\! kujonie.
+ 
 message_32:
-      text: \kimAnyways...\! AUBREY told me you were moving away tomorrow.\! That sounds kinda sucky, but I'm sure you'll be okay.
-
+      text: \kimA tak w ogóle...\! AUBREY powiedziała mi, że się jutro wyprowadzasz.\! Brzmi trochę słabo, ale na pewno wyjdzie to na dobre...
+ 
 #Stomach grumble sfx
-
+ 
 message_33:
-      text: \kimOh! That wasn't me grumbling...\! That was my stomach.\!<br>I'd better start on this food before it's all gone...
-
+      text: \kimOj! To nie ja...\! To był mój brzuch.\!<br>Lepiej, żebym coś przekąsiła, zanim całe żarcie zniknie...
+ 
 #==============THE MAVERICK===========================================
 #Location: Starting at Bakery
-
+ 
 message_40:
-      text: \n<THE MAVERICK>Maybe I judged my family's business too fast...\!<br>I've been running from this for so long, but I don't seem to be good at anything else.
-
+      text: \n<WIELKI MAVERICK>Może zbyt szybko oceniłem rodzinny interes...\!<br>Tak długo od tego uciekałem, chociaż chyba nie jestem dobry w niczym innym.
+ 
 message_41:
-      text: \n<THE MAVERICK>Is it possible that I, \Com[2]THE MAVERICK, could be good at baking?
-
+      text: \n<WIELKI MAVERICK>Czy to możliwe, abym ja, \Com[2]WIELKI MAVERICK, był dobry w pieczeniu?
+ 
 #==============VANCE===========================================
 #Location: Sean and Karens House
-
+ 
 message_50:
-      text: \vanMunch...\! munch...\! munch...\! munch...\! munch...\! Awwww, yeah!\! Free food!
-
+      text: \vanMniam...\! mniam...\! mniam...\! mniam...\! mniam...\! Ooo, tak!\! Darmowe żarełko!
+ 
 #==============SHORT HAIR GIRL===========================================
 #Location: TOWN PLAZA
-
+ 
 message_60:
-      text: \n<SHORT HAIR GIRL>This is the first spot where I met my crush...<br>I hope he comes by soon...
-
+      text: \n<KRÓTKOWŁOSA>W tym miejscu pierwszy raz spotkałam mojego ukochanego...<br>Mam nadzieję, że niedługo znów się tu pojawi...
+ 
 #==============FASHIONABLE MOM===========================================
 #Location: SHORT HAIR GIRL's House
-
+ 
 message_70:
-      text: \n<FASHIONABLE MOM>Have you seen BEBE? She's going to be late for dinner...\!<br>We got Chinese takeout tonight!
-
+      text: \n<MAMA MODNA>Widziałeś może BETĘ? Spóźni się na obiad...\!<br>A dziś chińszczyzna!
+ 
 #==============INTIMIDATING GIRL===========================================
 #Location: SHORT HAIR GIRL's House
-
+ 
 message_80:
-      text: \n<INTIMIDATING GIRL>I'm glad Mom went with Chinese takeout for dinner... Everything she cooks is so bland, but don't tell her that.
-
+      text: \n<ONIEŚMIELAJĄCA>Jak dobrze, że dziś chińszczyzna... Potrawy mamy są kompletnie bez smaku, ale nie mów jej tego.
+ 
 #if leader is HERO
-
+ 
 message_81:
-      text: \n<INTIMIDATING GIRL>Hey HERO... Are you joining us for dinner?\! This is happening way too fast! We're supposed to start dating before you meet my mom, don't you think? Teehee...
-
-
+      text: \n<ONIEŚMIELAJĄCA>Hej, HERO... Przyjdziesz do nas na obiad?\! To dzieje się za szybko! Powinniśmy się ze sobą spotykać przed spotkaniem z moją mamą, nie sądzisz? Hihi...
+ 
+ 
 #==============BRENT===========================================
 #Location: Brent's House
-
+ 
 message_90:
-      text: \n<SMART-LOOKING BOY>Yay! Dad's home!
-
+      text: \n<KUJON>Jej! Tata wrócił!
+ 
 #==============PHARMACIST===========================================
 #Location: Brent's House
-
+ 
 message_100:
-      text: \n<PHARMACIST>Working all day and night can be pretty trying at times, but having dinner with my family like this reminds me that it's all worth it.
-
+      text: \n<APTEKARZ>Harowanie cały dzień i noc potrafi być wykańczające, ale kiedy zasiadam do obiadu z całą rodziną przypominam sobie, że jest to tego warte.
+ 
 #==============SCHOOL PRINCIPAL===========================================
 #Location: Brent's House
-
+ 
 message_110:
-      text: \n<SCHOOL PRINCIPAL>It's nice to have everyone home for a change.\!<br>My husband works nights so late sometimes...<br>I'm sure BRENT misses his father a lot.
-
-
+      text: \n<DYREKTOR SZKOŁY>To miłe, kiedy wszyscy są w domu.\!<br>Mój mąż czasami wraca do domu późno w nocy...<br>Jestem pewna, że BRENT bardzo tęskni za ojcem.
+ 
+ 
 #==============HECTOR===========================================
 #Location: FARAWAY PARK chasing something
-
+ 
 message_120:
-      text: \n<HECTOR>\Com[2]Bark! \{Bark! \{Bark!\}\} Bark!\! \{Bark! \}Bark! \}Bark?<br>\!(Good boy is I?)
-
+      text: \n<HEKTOR>\Com[2]Hau! \{Hau! \{Hau!\}\} Hau!\! \{Hau! \}Hau! \}Hau?<br>\!(Ja dobry pies?)
+ 
 #==============JOY===========================================
 #Location: JOY'S HOUSE
-
+ 
 message_130:
-      text: \n<SMALL GIRL>Dad's being extra nice to me today, hehe...
-
+      text: \n<MAŁA DZIEWCZYNKA>Tata jest dziś dla mnie super miły, hehe...
+ 
 message_131:
-      text: \n<SMALL GIRL>He says he's going to take me and grandma to the beach tomorrow!\! I can't wait!
-
+      text: \n<MAŁA DZIEWCZYNKA>Powiedział, że jutro zabierze mnie i babcię na plażę!\! Nie mogę się doczekać!
+ 
 #==============JOYS DAD===========================================
 #Location: JOY'S HOUSE
-
+ 
 message_140:
-      text: \n<THICK EYEBROWS>Sniff...\! My big boy's all grown up and left his nest.\!<br>Sigh... I was thinkin' that I should be easier on JOY...
-
+      text: \n<BRWIASTY>Chlip...\! Mój synek już dorósł i opuścił swoje gniazdo.\!<br>Ech... Chyba powinnem bardziej popuścić NADZIEI...
+ 
 message_141:
-      text: \n<THICK EYEBROWS>She's been stuck in her room all summer, after all.\!<br>Kids don't stay kids forever, do they?
-
+      text: \n<BRWIASTY>Przesiedziała prawie całe wakacje w swoim pokoju...\!<br>Dzieci nie będą wiecznie dziećmi, prawda?
+ 
 #==============KAREN===========================================
 #Location: Sean's House (Housewarming party)
-
+ 
 message_150:
-      text: \n<PIGTAILS LADY>Welcome to our housewarming party!\! Please make yourself at home...\! but just for a few hours...
-
+      text: \n<PANI W KUCYKACH>Witaj na naszej domówce!\! Czuj się jak u siebie...\! ale tylko na kilka godzin...
+ 
 message_151:
-      text: \n<CHECKERS GUY>Please relax and have some food!\! You can stay as long as you like...\! reasonably!
-
+      text: \n<KRACIASTY>Zrelaksuj się i wrzuć coś na ząb!\! Możesz tu zostać tak długo, jak chcesz...\! tylko z umiarem!
+ 
 #==============KEL'S DAD===========================================
 #Location: Farawy Park
-
+ 
 message_160:
-      text: \n<KEL'S DAD>Here's a lesson from your old man.\! As you get older, it's going to get harder and harder to make friends...
-
+      text: \n<TATA KELA>Lekcja od starego druha.\! Im starsi będziecie, tym trudniej będzie się z kimś zaprzyjaźnić...
+ 
 message_161:
-      text: \n<KEL'S DAD>So if you think you have a good one...\! it's important to cherish them.\! Friends can be for life, you hear me!
-
+      text: \n<TATA KELA>Więc jeśli macie jakiegoś dobrego kumpla...\! cieszcie się tym.\! Przyjaciele zostają na całe życie, to ważne!
+ 
 #==============KIM AND VANCES DAD===========================================
 #Location: Farawy Park
-
+ 
 message_170:
-      text: \n<GRUFF GUY>Ahhh...\! Quality time with my two kiddos.<br>Who could ask for more?
-
+      text: \n<PAN ZRZĘDA>Ach...\! Dobrze spędzony czas z moimi dwoma dzieciakami.<br>Czemu miałbym chcieć czegoś więcej?
+ 
 #==============KIMS MOM===========================================
 #Location: Kim's House
-
+ 
 message_180:
-      text: \SINV[2]SNIP, \{SNIP, SNIP, \{SNIP, SNIP, \{SNIP!!
-
+      text: \SINV[2]CIACH, \{CIACH, CIACH, \{CIACH, CIACH, \{CIACH!!
+ 
 #==============MINCY===========================================
 #Location: Farawy Park (Company Quest 6)
-
+ 
 message_190:
-      text: \n<MINCY>I definitely won't forget you guys.\! Not ever...
-
+      text: \n<MINCY>Na pewno o was nie zapomnę.\! Nigdy...
+ 
 #==============POLLY===========================================
 #Location: Basil's House
-
+ 
 #After cutscene: Polly's WElcome
 message_200:
-      text: \n<POLLY>Oh, BASIL...\!<br>Why can't you see that everyone is here for you?
-
+      text: \n<POLLY>Och, BASIL...\!<br>Czemu nie zauważasz tego, że masz w nas wsparcie?
+ 
 #After cutscene: Basil won't leave his ROOM
 message_201:
-      text: \n<POLLY>Please do whatever you can for BASIL...\!<br>If anyone can help him, it's you!
-
+      text: \n<POLLY>Proszę, zrób wszystko, co w twojej mocy dla BASILA...\!<br>Jeśli ktoś może mu pomóc, to ty!
+ 
 #==============SARAH===========================================
 #Location: Gino's Pizza
-
+ 
 message_210:
-      text: \n<PONYTAIL GIRL>Urf...\! How am I supposed to eat with my parents being all lovey-dovey like that?
-
+      text: \n<DZIEWCZYNA W KUCYKU>Uch...\! Jak mam jeść z moim rodzicami cały czas w tej przesłodzonej atmosferze?
+ 
 #==============SARAH'S DAD===========================================
 #Location: Gino's Pizza
-
+ 
 message_220:
-      text: \n<CLUMSY GUY>Sniff...\! I have a pizza in my left hand and my wife's hand in my right.\! This is all a man could ever ask for...
-
+      text: \n<NIEZDARNY FACET>Chlip...\! W jednej ręce trzymam kawałek pizzy, a w drugiej rękę mojej żony.\! Oto czego pragnie mężczyzna...
+ 
 #==============SARAH'S MOM===========================================
 #Location: Gino's Pizza
-
+ 
 message_230:
-      text: \n<PONYTAIL LADY>Hehe... This is nice, isn't it, pumpkin?
+      text: \n<PANI W KUCYKU>Hehe... Jak miło, nieprawdaż, słoneczko?

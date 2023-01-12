@@ -182,7 +182,7 @@ message_80:
 #Location: Graveyard
  
 message_90:
-      text: \n<STARY BRODACZ>Tutejszy parking jest dość cichy, prawda?\! Ani trochę nie słychać tutaj świstów i gwizdów ulic...
+      text: \n<STARY BRODACZ>Nawet tu cicho, prawda?\! Ani trochę nie słychać tutaj świstów i gwizdów ulic...
  
 message_91:
       text: \n<STARY BRODACZ>Heh...\! Jedyne co tutaj się znajduje, to tułaczące się dusze...\!<br>Och, oczywiście ja też tu jestem!
@@ -198,7 +198,7 @@ message_93:
 #Location: Church
  
 message_100:
-      text: \n<BLIŹNIACZKA>\SINV[1]Nasze rodzina chodzi do \c[11]KOŚCIOŁA\c[0] raz w tygodniu...\SINV[0]
+      text: \n<BLIŹNIACZKA>\SINV[1]Nasza rodzina chodzi do \c[11]KOŚCIOŁA\c[0] raz w tygodniu...\SINV[0]
  
 message_101:
       text: \n<BLIŹNIAK>\SINV[1]Czasami dwa razy...\SINV[0]

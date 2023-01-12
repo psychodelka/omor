@@ -60,9 +60,9 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
     }
     let finalString;
     if (target._doesUseAlternateForms2()) {
-      finalString = `${tname} nie mogą ${em}`; // TOvDO: plural
+      finalString = `${tname} nie mogą stać się ${em}`; // TOvDO: plural
     } else {
-      finalString = `${tname} nie może się ${em}`;
+      finalString = `${tname} nie może stać się ${em}`;
     }
     if (finalString.length >= 40) {
       let voinIndex = 0;
@@ -2462,8 +2462,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       break;
 
     case 'SXBF NOTHING':  // SXBF NOTHING
-      text = user.name() + ' patrzy z tęsknotą\r\n';
-      text += 'w dal.';
+      text = user.name() + ' patrzy z tęsknotą w dal.';
       break;
 
     case 'ANGRY SONG':  // ANGRY SONG
@@ -3958,36 +3957,64 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
 //=============================================================================
 // * Display Custom Action Text
 //=============================================================================
-MAX_CHAR_IN_LINE = 36;
+const MAX_CHAR_IN_LINE = 36;
+
 Window_BattleLog.prototype.displayCustomActionText = function (subject, target, item) {
   // Make Custom Action Text
   var text = this.makeCustomActionText(subject, target, item);
   // If Text Length is more than 0
   if (text.length > 0) {
     if (!!this._multiHitFlag && !!item.isRepeatingSkill) { return; }
-    // Get Get
+    // Split text into several parts
     textArray = text.split(/\r\n/);
 
-    for (var i = 0; i < textArray.length; i++) { 
-      if (textArray[i].length > MAX_CHAR_IN_LINE) {
-        var sliceIndex = 0;
-        for(let j = MAX_CHAR_IN_LINE; j >= 0; j--) {
-          if(textArray[i][j] === " ") {
-            sliceIndex = j;
-            break;
-          }
-        }
-        this.push('addText', textArray[i].slice(0, sliceIndex).trim());
-        this.push('addText', textArray[i].slice(sliceIndex).trimLeft());
+    // Check if every text line is no more than MAX_CHAR_IN_LINE
+    textArray.forEach(text => { 
+      if (text.length > MAX_CHAR_IN_LINE) {
+        this.sliceLongString(text);
       }
-      else this.push('addText', textArray[i]); 
-    } 
-    
+      else this.push('addText', text); 
+    });
     // Add Wait
     this.push('wait', 15);
   }
   if (!!item.isRepeatingSkill) { this._multiHitFlag = true; }
 }
+
+Window_BattleLog.prototype.displayHpDamage = function(target) {
+  let text = this.makeHpDamageText(target);
+
+  if (target.result().hpAffected) {
+      if (target.result().hpDamage > 0 && !target.result().drain) {
+          this.push('performDamage', target);
+      }
+      if (target.result().hpDamage < 0) {
+          this.push('performRecovery', target);
+      }
+      if (text.length > MAX_CHAR_IN_LINE) {
+        this.sliceLongString(text);
+        return;
+      }
+      this.push('addText', text);
+  }
+};
+
+// Function which slices text into 2 parts if it's longer than MAX_CHAR_IN_LINE
+Window_BattleLog.prototype.sliceLongString = function(text) {
+  var sliceIndex = 0;
+
+  for(let j = MAX_CHAR_IN_LINE; j >= 0; j--) {
+    if(text[j] === " ") {
+      sliceIndex = j;
+      break;
+    }
+  }
+
+  this.push('addText', text.slice(0, sliceIndex).trim());
+  this.push('addText', text.slice(sliceIndex).trimLeft());
+  this.push('wait', 10);
+}
+
 //=============================================================================
 // * Display Action
 //=============================================================================

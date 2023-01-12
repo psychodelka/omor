@@ -98,7 +98,7 @@ message_19:
       text: OMORI, może ty i twoi przyjaciele moglibyście pomóc BERLY i pilnować, aby nie stała jej się krzywda.\! Sam bym z nią poszedł, ale...\n<VAN>
  
 message_20:
-      text: \Com[2]\SINV[1]VANNNNN\{NNNNNNN!!\}\!<br>\Com[2]BREWCIO znowu zgniótł GRZYWCIA!\SINV[0]\hap
+      text: \Com[2]\SINV[1]VANNNNN\{NNNNNNN!!\}\!<br>\Com[2]BREWCIO znowu zgniótł GRZYWCIA!\SINV[0]\n<SZCZĘŚLIWCIA>
  
 #VAN looks toward the noise and is surprised.
  

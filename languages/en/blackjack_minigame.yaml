@@ -1,5 +1,3 @@
-
-
 # =========================================================================================
 # MINI-GAME: Blackjack
 # =========================================================================================
@@ -8,16 +6,16 @@ message_0:
   text: Koniec Gry
 
 message_1:
-  text: Stracone Dolary - 
+  text: Stracone Dolary –  
 
 message_2:
-  text: Zyskane Dolary - 
+  text: Zyskane Dolary –  
 
 message_3:
   text: <br>O ile chcesz się założyć?
 
 message_4:
-  text: Zwycięstwa -
+  text: Zwycięstwa –  
 
 message_5:
   text: Kurpier 
@@ -29,4 +27,4 @@ message_7:
   text: <br>O ile chcesz się założyć?
 
 message_8:
-  text: <br>Zarobione dolary - 
+  text: <br>Zarobione dolary –  

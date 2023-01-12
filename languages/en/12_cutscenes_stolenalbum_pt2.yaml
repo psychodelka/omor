@@ -59,7 +59,7 @@ message_9:
 message_10:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Ech...\! Mam już tego dość dzisiaj.<br>\KIM, zawrzyjmy układ.\kel
+      text: Ech...\! Dziś Mam już tego dość.<br>\!KIM, zawrzyjmy układ.\kel
  
 message_24:
       faceset: MainCharacters_Faraway
@@ -67,7 +67,7 @@ message_24:
       text: Ty zdradzisz mi gdzie jest AUBREY, a ja nie powiem sprzedawcy, że ukradłaś te \c[3]CUKSY\c[0].\kel
  
 message_11:
-      text: I ktoś tu mówił, że będzie kablować!\kim
+      text: I ktoś tu mówił, że nie będzie kablować!\kim
  
 message_12:
       faceset: MainCharacters_Faraway
@@ -189,7 +189,7 @@ message_48:
       text: \}Możesz się go chociaż zapytać, czy ma jakieś z toffi?\van
  
 message_49:
-      text: Przestań, VANCE! Musimy być silni!\! <br>Jak wrócimy do domu Taty, to będziemy mieli tyle \c[3]CUKSÓW\c[0], ile zapragniemy.\kim
+      text: Przestań, VANCE! Musimy być silni!\! <br>Jak wrócimy do domu taty, to będziemy mieli tyle \c[3]CUKSÓW\c[0], ile zapragniemy.\kim
  
 message_50:
       text: Dobra...\! Zrobię to dla ciebie, siostrzyczko.\van
@@ -233,10 +233,10 @@ message_58:
 #KIM turns around.
  
 message_59:
-      text: Dobra.\! Naprawdę, tak bardzo chcecie wiedzieć, hę?\kim
+      text: Dobra.\! Naprawdę tak bardzo chcecie wiedzieć, hę?\kim
  
 message_60:
-      text: \{W TAKIM RAZIE ZAŁATWMY TO PIĘŚCIAMI!\kim
+      text: \{W TAKIM RAZIE ZAŁATWMY TO<br>PIĘŚCIAMI!\kim
  
 message_61:
       text: Jeśli wygracie, to powiem wam, gdzie jest AUBREY...\! ale jeśli my zwyciężymy, oddacie nam tę torebkę i już do tego nie wracamy.\kim
@@ -383,7 +383,7 @@ message_107:
 message_108:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Naprawdę ciężko mi sobie wyobrazić, żeby AUBREY była w \c[11]KOŚCIELE\c[0]...\!, ale nie uwierzę, póki nie zobaczę..\kel
+      text: Naprawdę ciężko mi sobie wyobrazić, żeby AUBREY była w \c[11]KOŚCIELE\c[0]...\! ale nie uwierzę, póki nie zobaczę..\kel
  
  
 # =========================================================================================
@@ -516,7 +516,7 @@ message_167:
 message_168:
       faceset: MainCharacters_Faraway
       faceindex: 10
-      text:  \}Heh...\! Serio?\! Serio wyciągasz w to teraz MARI?\aub
+      text:  \}Heh...\! Serio?\! Serio wciągasz w to teraz MARI?\aub
  
 message_169:
       faceset: MainCharacters_Faraway
@@ -758,7 +758,7 @@ message_221:
 message_222:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Szlag...\! Wiedziałem, że ostatnio coś było z nią nie tak,...\! ale wciąż jest mi jej szkoda.\! Może to był zły pomysł.\kel
+      text: Szlag...\! Wiedziałem, że ostatnio coś było z nią nie tak...\! ale wciąż jest mi jej szkoda.\! Może to był zły pomysł.\kel
  
 #After a battle
  

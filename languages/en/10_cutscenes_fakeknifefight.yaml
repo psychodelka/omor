@@ -123,7 +123,7 @@ message_35:
 #AUBREY walks to KIM's side and faces her.
  
 message_36:
-      text: Och, cześć AUBREY...\!<br>Ten frajer KEL tu przylazł i myśli, że może mną pomiatać!\! Pokaż mu kto tu naprawdę rządzi!\kim
+      text: Och, cześć AUBREY...\!<br>Ten frajer KEL tu przylazł i myśli, że może mną pomiatać!\! Pokaż mu, kto tu naprawdę rządzi!\kim
  
 #AUBREY get off scooter, and turns to KEL.
  
@@ -149,7 +149,7 @@ message_39:
 message_40:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: Wow, to serio ty.\!<br> Minęło tyle czasu, a ty wciąż wyglądasz tak samo.\aub
+      text: Wow, to serio ty.\!<br>Minęło tyle czasu, a ani trochę się nie zmieniłeś.\aub
  
 message_41:
       faceset: MainCharacters_Faraway
@@ -159,7 +159,7 @@ message_41:
 message_42:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: Ogarnij się, AUBREY!\!<br>Nie wiesz przez co przeszedł.\kel
+      text: Ogarnij się, AUBREY!\!<br>Nie wiesz, przez co przeszedł.\kel
  
 message_43:
       faceset: MainCharacters_Faraway
@@ -188,12 +188,12 @@ message_46:
 message_47:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Co z tobą kuźwa nie tak, AUBREY!?\kel
+      text: Co z tobą, kuźwa, nie tak, AUBREY!?\kel
  
 message_48:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: Ugh… Chodź \n[8]!\! Mamy sprawę do załatwienia!\kel
+      text: Ech... Chodź, \n[8]!\! Mamy sprawę do załatwienia!\kel
  
 message_49:
       faceset: MainCharacters_Faraway
@@ -203,7 +203,7 @@ message_49:
 message_50:
       faceset: MainCharacters_Faraway
       faceindex: 11
-      text: W sumie, czemu nie?\!<br>Wasza dwójka kontra ja! Pasuje?\!<br>\Com[2]chodźcie!\! Spiorę was obu!\aub
+      text: W sumie, czemu nie?\!<br>Wasza dwójka kontra ja! Pasuje?\!<br>\Com[2]Chodźcie!\! Spiorę was obu!\aub
  
 # =========================================================================================
 # Cutscene: Fake Knife Fight

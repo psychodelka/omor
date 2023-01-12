@@ -55,7 +55,7 @@ message_7:
 message_8:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: Kiedy...\! byliśmy przyjaciółmi...\!<br>Pamiętasz, jak robiłem każdemu zdjęcia ?\bas
+      text: Kiedy...\! byliśmy przyjaciółmi...\!<br>Pamiętasz, jak robiłem każdemu zdjęcia?\bas
  
 message_9:
       faceset: MainCharacters_Faraway
@@ -65,7 +65,7 @@ message_9:
 message_10:
       faceset: MainCharacter_Basil
       faceindex: 34
-      text: Ach...\! Racja...\! No, bo...\! AUBREY...\! Zabrała mój \c[4]ALBUM\c[0] i...\bas
+      text: Ach...\! Racja...\! No bo...\! AUBREY...\! Zabrała mój \c[4]ALBUM\c[0] i...\bas
  
 #KEL walks one step forward.
  
@@ -94,7 +94,7 @@ message_14:
 message_15:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: Ach...\! Dobrze...\! Dziękuję ...\bas
+      text: Ach...\! Dobrze...\! Dziękuję...\bas
  
 #KEL turns toward BASIL.
  
@@ -120,7 +120,7 @@ message_18:
 message_19:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \Com[2] Chodź, \n[8]! Nie ma czasu do stracenia!\! Musimy znaleźć \c[4]ALBUM\c[0].\! Chodźmy do \c[11]PARKU\c[0] po wskazówki!\kel
+      text: \Com[2]Chodź, \n[8]! Nie ma czasu do stracenia!\! Musimy znaleźć \c[4]ALBUM\c[0].\! Chodźmy do \c[11]PARKU\c[0] po wskazówki!\kel
  
 message_20:
       faceset: MainCharacter_Basil
@@ -181,7 +181,7 @@ message_47:
 #ANGEL turns to KEL.
  
 message_48:
-      text: O!\! Czy to nie KEL i ten dziwny dzieciak z nożem?.\!<br>Godni przeciwnicy dla wszechmocnego ANGELA.\who
+      text: O!\! Czy to nie KEL i ten dziwny dzieciak z nożem?\!<br>Godni przeciwnicy dla wszechmocnego ANGELA.\who
  
 #ADD FWEFWEFWEFWE
  
@@ -368,7 +368,7 @@ message_94:
 #MAVERICK is at the fountain, with one DZIEWCZYNA on each arm.
  
 message_110:
-      text: I wtedy powiedziałem... nie MAVERICK.\! <br>JESTEM \Com[2]WIELKI MAVERICK!\mav
+      text: I wtedy powiedziałem... nie MAVERICK.\! <br>JESTEM \Com[2]WIELKI MAVERICK!\n<WIELKI MAVERICK>
  
 message_111:
       text: O, \Com[2]WIELKI MAVERICKU, jesteś taki zabawny!\n<DZIEWCZYNA>
@@ -377,7 +377,7 @@ message_112:
       text: Ho, ho! Wow, wspaniała historia, \Com[2]WIELKI MAVERICKU!\n<DZIEWCZYNA 2>
  
 message_113:
-      text: \sinv[1]Kochane, kochane... proszę! Starczy mnie dla was wszystkich...\sinv[2]\mav
+      text: \sinv[1]Kochane, kochane... proszę! Starczy mnie dla was wszystkich...\sinv[2]\n<WIELKI MAVERICK>
  
 #KEL walks up.
  
@@ -387,17 +387,17 @@ message_114:
       text: MIKHAEL...\! Co ty robisz?\kel
  
 message_115:
-      text: \Com[2]O!\mav
+      text: \Com[2]O!\n<WIELKI MAVERICK>
  
 #THE MAVERICK walks toward KEL and flips his hair.
  
 message_116:
-      text: Przecież to KEL!\! Mój...\! \Com[2]arcywróg!\mav
+      text: Przecież to KEL!\! Mój...\! \Com[2]arcywróg!\n<WIELKI MAVERICK>
  
 #THE MAVERICK does a lame pose.
  
 message_117:
-      text: W końcu przyznajesz się do klęski?\mav
+      text: W końcu przyznajesz się do klęski?\n<WIELKI MAVERICK>
  
 message_118:
       faceset: MainCharacters_Faraway
@@ -407,7 +407,7 @@ message_118:
 #THE MAVERICK starts to sweat.
  
 message_119:
-      text: P-przestań mnie tak nazywać!\! <br>Odrzuciłem to imię dawno temu!\mav
+      text: P-przestań mnie tak nazywać!\! <br>Odrzuciłem to imię dawno temu!\n<WIELKI MAVERICK>
  
 message_120:
       faceset: MainCharacters_Faraway
@@ -415,13 +415,13 @@ message_120:
       text: MIKHAEL, wiesz czy nie?\kel
  
 message_121:
-      text: Znów to przebrzydłe imię!\! <br>J-jak możesz mnie tak ośmieszać!!\mav
+      text: Znów to przebrzydłe imię!\! <br>J-jak możesz mnie tak ośmieszać!!\n<WIELKI MAVERICK>
  
 message_122:
-      text: Ja, \Com[2]WIELKI MAVERICK, nie będę tego tolerował!\! <br>\Com[2]\{CZEKA WAS KONIEC!\mav
+      text: Ja, \Com[2]WIELKI MAVERICK, nie będę tego tolerował!\! <br>\Com[2]\{CZEKA WAS KONIEC!\n<WIELKI MAVERICK>
  
 message_123:
-      text: \{\Com[2]PRZYPATRZCIE SIĘ, PANIENKI!\!\}<br>Zaraz zmiotę podłogę kudłami tego przegrywa!\mav
+      text: \{\Com[2]PRZYPATRZCIE SIĘ, PANIENKI!\!\}<br>Zaraz zmiotę podłogę kudłami tego przegrywa!\n<WIELKI MAVERICK>
  
 message_124:
       faceset: MainCharacters_Faraway
@@ -429,7 +429,7 @@ message_124:
       text: Weź, MIKHAEL...\! Nie rób tego.\! <br>Pytam jeszcze raz-\kel
  
 message_125:
-      text: \{\Com[2]WALCZ ZE MNĄ, GŁUPCZE!!<br>NIE BĄDŹ TCHÓRZEM!!!\mav
+      text: \{\Com[2]WALCZ ZE MNĄ, GŁUPCZE!!<br>NIE BĄDŹ TCHÓRZEM!!!\n<WIELKI MAVERICK>
  
 message_126:
       faceset: MainCharacters_Faraway
@@ -448,43 +448,43 @@ message_127:
 #Defeated by THE Maverick
  
 message_149:
-      text: \mavByłeś godnym przeciwnikiem, KEL...\! ale pora zniszczyć cię raz na zawsze.
+      text: \n<WIELKI MAVERICK>Byłeś godnym przeciwnikiem, KEL...\! ale pora zniszczyć cię raz na zawsze.
  
 #Trigger: Defeat THE MAVERICK
  
 #THE MAVERICK is defeated on the floor.
  
 message_150:
-      text: Nie...\! tak nie może być.\mav
+      text: Nie...\! tak nie może być.\n<WIELKI MAVERICK>
  
 message_151:
-      text: Bóstwa niebieskie...\mav
+      text: Bóstwa niebieskie...\n<WIELKI MAVERICK>
  
 message_152:
-      text: \{DODAJCIE MI SIŁ!!\mav
+      text: \{DODAJCIE MI SIŁ!!\n<WIELKI MAVERICK>
  
 #THE MAVERICK strikes his final pose.
  
 message_153:
-      text: \Com[2]\sinv[1]HII\Com[2]\{IIAAAAA\Com[2]\{AAAAAAA\Com[2]\{AAAAAAAA!!!\mav
+      text: \Com[2]\sinv[1]HII\Com[2]\{IIAAAAA\Com[2]\{AAAAAAA\Com[2]\{AAAAAAAA!!!\n<WIELKI MAVERICK>
  
 message_154:
       text: Fuj, co z nim? Ale lamus.\n<DZIEWCZYNA>
  
 message_155:
-      text: To nie było warte $10.00. Weźcie mnie stąd...\n<DZIEWCZYNA 2>
+      text: To nie było warte 10 $. Zabierzcie mnie stąd...\n<DZIEWCZYNA 2>
  
 #The DZIEWCZYNAs walk O.S.
 #THE MAVERICK looks where the DZIEWCZYNAs left and walks 1 step forward.
  
 message_156:
-      text: K-kochane!\! Proszę, nie idźcie!\mav
+      text: K-kochane!\! Proszę, nie idźcie!\n<WIELKI MAVERICK>
  
 message_157:
-      text: Mam więcej pieniędzy!\mav
+      text: Mam więcej pieniędzy!\n<WIELKI MAVERICK>
  
 message_158:
-      text: ... \!Ech...\mav
+      text: ... \!Ech...\n<WIELKI MAVERICK>
  
 #His wig falls off, but he fixes it.
  
@@ -496,23 +496,23 @@ message_159:
 #THE MAVERICK turns away from KEL.
  
 message_160:
-      text: \Com[2]\{KTOŚ O TAKIM IMIENIU NIE ISTNIEJE!!\mav
+      text: \Com[2]\{KTOŚ O TAKIM IMIENIU NIE ISTNIEJE!!\n<WIELKI MAVERICK>
  
 message_161:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: Weź... Nie poproszę cię już o nic do osranej śmierci.\! <br>Powiedz tylko gdzie jest AUBREY i damy spokój!\kel
+      text: Weź... Nie poproszę cię już o nic do osranej śmierci.\! <br>Powiedz tylko, gdzie jest AUBREY i damy spokój!\kel
  
 message_162:
-      text: ...\mav
+      text: ...\n<WIELKI MAVERICK>
  
 #THE MAVERICK turns to KEL.
  
 message_163:
-      text: Dobra.\!<br>Tak się składa, że wiem gdzie ona jest i ci powiem...\! <br>pod jednym warunkiem...\mav
+      text: Dobra.\!<br>Tak się składa, że wiem gdzie ona jest i ci powiem...\! <br>pod jednym warunkiem...\n<WIELKI MAVERICK>
  
 message_164:
-      text: Naucz się mówić do mnie poprawnie, \Com[2]WIELKI MAVERI-\mav
+      text: Naucz się mówić do mnie poprawnie, \Com[2]WIELKI MAVERI-\n<WIELKI MAVERICK>
  
 #KEL turns to PLAYER.
  
@@ -529,6 +529,6 @@ message_166:
 message_167:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: Razem z VANCE'M uwielbiają słodycze, więc...\! Myślę, że poszli gdzieś po \c[3]CUKSY\c[0].\kel
+      text: Razem z VANCEM uwielbiają słodycze, więc...\! Myślę, że poszli gdzieś po \c[3]CUKSY\c[0].\kel
  
 

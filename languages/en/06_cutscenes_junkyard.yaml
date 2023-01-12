@@ -57,7 +57,7 @@ message_7:
 message_30:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \Com[2]Ej, PANIE TAŚMOBOCIE!\!<br> Przełączaj te taśmy!\kel
+      text: \Com[2]Ej, PANIE TAŚMOBOCIE!\!<br>Przełączaj te taśmy!\kel
  
 message_31:
       text: \n<PAN TAŚMOBOT>\quake[1]Bzzt...\! Hmf...\! Niemiła osoba...\quake[0]
@@ -88,7 +88,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Spokojnie... Nie ma co robić awantury.\!Ja się tym zajmę!\!<br>ZACZEP mnie, OMORI!\her
+      text: Spokojnie... Nie ma co robić awantury.\! Ja się tym zajmę!\!<br>ZACZEP mnie, OMORI!\her
 # =========================================================================================
 # Cutscene: Hero's CHARM Tag Skill (Cont.)
 # =========================================================================================
@@ -269,7 +269,7 @@ message_122:
 message_123:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Hę?\! Czemu nie odpowiada?\!Przyjrzyjmy się jej.\her
+      text: Hę?\! Czemu nie odpowiada?\! Przyjrzyjmy się jej.\her
  
 # =========================================================================================
 # Cutscene: Loading... continued
@@ -384,7 +384,7 @@ message_170:
 message_171:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Heh. No widzisz\! Ma czuły punkt na czubku głowy!\!<br>Zawsze je rozpoznaję.\kel
+      text: Heh. No widzisz.\! Ma czuły punkt na czubku głowy!\!<br>Zawsze je rozpoznaję.\kel
  
 #pan down to platform
  
@@ -397,5 +397,3 @@ message_173:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
       text: Ta platforma idealnie nada się do rzutu.\!<br>ZACZEP mnie! Zajmę się tym!\kel
- 
-
