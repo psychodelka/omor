@@ -116,7 +116,7 @@ message_114:
 message_115:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubGdzie idziesz, OMORI?\! Musimy poszukać BASILA…
+      text: \aubGdzie idziesz, OMORI?\! Musimy poszukać BASILA...
  
 #FRIEND TEXT
 message_120:
@@ -127,6 +127,5 @@ message_120:
 message_121:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelCo tam, kumplu?\! Tęskniłeś? Hehe…
- 
+      text: \kelCo tam, kumplu?\! Tęskniłeś? Hehe...
 

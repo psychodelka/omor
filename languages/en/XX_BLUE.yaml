@@ -375,7 +375,7 @@ Window_OmoWindowIndexCursor:
   refresh_draw_text_position: [0, -13] # OMORI BASE line 3976
 
 Window_NameBox:
-  refresh_draw_text_position: ["padding", -14] # OMORI BASE line 4634
+  refresh_draw_text_position: ["padding", -12] # OMORI BASE line 4634
   standardFontSize: "$gameSystem.getMessageFontSize()" # YEP MESSAGE CORE line 1094
 
 Window_OmoriBattleActorStatus:

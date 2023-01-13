@@ -89,7 +89,7 @@ message_13:
 message_14:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Nie bój nic, BASIL.\!<br>Ja i \n[8] cię obronimy.\kel
+      text: Nie bój nic, BASIL.\!<br>Ja i \n[8] się tym zajmiemy.\kel
  
 message_15:
       faceset: MainCharacter_Basil
@@ -407,7 +407,7 @@ message_118:
 #THE MAVERICK starts to sweat.
  
 message_119:
-      text: P-przestań mnie tak nazywać!\! <br>Odrzuciłem to imię dawno temu!\n<WIELKI MAVERICK>
+      text: P-przestań mnie tak nazywać!\! <br>Odrzuciłem ten przydomek dawno temu!\n<WIELKI MAVERICK>
  
 message_120:
       faceset: MainCharacters_Faraway
@@ -501,7 +501,7 @@ message_160:
 message_161:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: Weź... Nie poproszę cię już o nic do osranej śmierci.\! <br>Powiedz tylko, gdzie jest AUBREY i damy spokój!\kel
+      text: Weź... Nie poproszę cię już o nic do usranej śmierci.\! <br>Powiedz tylko, gdzie jest AUBREY i damy spokój!\kel
  
 message_162:
       text: ...\n<WIELKI MAVERICK>
