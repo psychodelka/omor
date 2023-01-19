@@ -865,7 +865,7 @@ message_220:
 message_221:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelHmm...\! Myślisz że BASIL jest gdzieś w \c[11]OSTATNIEJ PRZYSTANI\c[0]?
+      text: \kelHmm...\! Myślisz, że BASIL jest gdzieś w \c[11]OSTATNIEJ PRZYSTANI\c[0]?
  
 message_222:
       faceset: MainCharacters_DreamWorld

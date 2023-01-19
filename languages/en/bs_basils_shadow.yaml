@@ -80,7 +80,7 @@ message_6:
 message_8:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Tęsknie za tobą, \n[8].\! Ty zawsze mnie wysłuchiwałeś.
+      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Tęsknię za tobą, \n[8].\! Ty zawsze mnie wysłuchiwałeś.
  
 message_9:
       faceset: MainCharacter_Basil

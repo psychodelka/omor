@@ -66,7 +66,7 @@ faraway_message10:
 faraway_message11:
     background: 0
     position: 2
-    text: \n<10 MARCA>\n[8] słucha, jak czytam książkę, którą zacząłem ostatnio.\! Mari ukradła mi aparat i zrobiła nam zdjęcie, kiedy nie patrzyliśmy.<br><br>Powinienem pilnować swoich rzeczy.
+    text: \n<10 MARCA>\n[8] słucha, jak czytam książkę, którą zacząłem ostatnio.\! MARI ukradła mi aparat i zrobiła nam zdjęcie, kiedy nie patrzyliśmy.<br><br>Powinienem pilnować swoich rzeczy.
  
 faraway_message12:
     background: 0
@@ -81,7 +81,7 @@ faraway_message13:
 faraway_message14:
     background: 0
     position: 2
-    text: \n<31 MARCA>Po posiłku wszyscy poza mną, HERO i MARI poszli spać.<br><br>Kiedy robiłem zdjęcie, stało się coś niefortunnego.\!Ekhem... Dzięki wielkie, HEKTOR.\! Będę musiał później zakleić to taśmą.
+    text: \n<31 MARCA>Po posiłku wszyscy poza mną, HERO i MARI poszli spać.<br><br><br>Kiedy robiłem zdjęcie, stało się coś niefortunnego.\! Ekhem... Dzięki wielkie, HEKTOR.\! Będę musiał później zakleić to taśmą.
  
 faraway_message15:
     background: 0
@@ -116,7 +116,7 @@ faraway_message20:
 faraway_message21:
     background: 0
     position: 2
-    text: \n<29 KWIETNIA>KEL w swoim żywiole(znowu)...<br><br><br>Poszliśmy do BZZAJAWKI, ale właściciel kazał KELOWI zostawić jego kurtkę na zewnątrz, po tym jak zamoczył mu wszystkie komiksy.<br>\!Sorka, KASJERZE.
+    text: \n<29 KWIETNIA>KEL w swoim żywiole (znowu)...<br><br><br>Poszliśmy do BZZAJAWKI, ale właściciel kazał KELOWI zostawić jego kurtkę na zewnątrz, po tym jak zamoczył mu wszystkie komiksy.<br>Sorka, KASJERZE.
  
 faraway_message22:
     background: 0
@@ -156,7 +156,7 @@ faraway_message28:
 faraway_message29:
     background: 0
     position: 2
-    text: \n<22 CZERWCA>HERO śpi na MARI.\! Zmęczył się pływaniem.\!Cóż... Wygląda na to, że MARI jednak się nie opali.
+    text: \n<22 CZERWCA>HERO śpi na MARI.\! Zmęczył się pływaniem.\! Cóż... Wygląda na to, że MARI jednak się nie opali.
  
 faraway_message30:
     background: 0
@@ -196,7 +196,7 @@ faraway_message36:
 faraway_message37:
     background: 0
     position: 2
-    text: \n<14 SIERPNIA>Ta-da!\! Całe lato pracowaliśmy nad zrobieniem domku na drzewie, który /n[8] będzie mieć na swoim podwórku i dzisiaj w końcu skończyliśmy!<br><br>HERO i jego tata napracowali się najbardziej, ale to AUBREY i ja zrobiliśmy papierowe rośliny, żeby postawić je na oknie!\! Według mnie, każdy zrobił kawał dobrej roboty!
+    text: \n<14 SIERPNIA>Ta-da!\! Całe lato pracowaliśmy nad zrobieniem domku na drzewie, który \n[8] będzie mieć na swoim podwórku i dzisiaj w końcu skończyliśmy!<br>HERO i jego tata napracowali się najbardziej, ale to AUBREY i ja zrobiliśmy papierowe rośliny, żeby postawić je na oknie!\! Według mnie, każdy zrobił kawał dobrej roboty!
  
 faraway_message38:
     background: 0
@@ -241,7 +241,7 @@ faraway_message45:
 faraway_message46:
     background: 0
     position: 2
-    text: \n<22 WRZEŚNIA>MARI ćwicząca swoją część na występ w następnym miesiącu .<br>Wszyscy przyjdziemy na koncert!<br><br>To będzie pierwszy raz, kiedy MARI i \n[8] zagrają w duecie, ale wiem, że pójdzie im świetnie!\! Będziemy trzymać kciuki na publiczności!
+    text: \n<22 WRZEŚNIA>MARI ćwicząca swoją część na występ w następnym miesiącu.<br>Wszyscy przyjdziemy na koncert!<br>To będzie pierwszy raz, kiedy MARI i \n[8] zagrają w duecie, ale wiem, że pójdzie im świetnie!\! Będziemy trzymać kciuki na publiczności!
  
 faraway_message47:
     background: 0
@@ -251,7 +251,7 @@ faraway_message47:
 faraway_message48:
     background: 0
     position: 2
-    text: \n<22 WRZEŚNIA>Po wielu błaganiach, \n[8] przyłączył się do ćwiczenia... Hehe...<br><br>Nadal dopracowują niektóre fragmenty, ale już teraz brzmią genialnie! Wiem, że pójdzie im super.<br><br>Dawaj, MARI! Dawaj, \n[8]!\! Dacie sobie radę!
+    text: \n<22 WRZEŚNIA>Po wielu błaganiach, \n[8] przyłączył się do ćwiczenia... Hehe...<br><br><br>Nadal dopracowują niektóre fragmenty, ale już teraz brzmią genialnie! Wiem, że pójdzie im super.<br><br>Dawaj, MARI! Dawaj, \n[8]!\! Dacie sobie radę!
  
 #DREAM WORLD
  

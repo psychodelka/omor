@@ -113,7 +113,7 @@ message_64:
       text: \n<BAZGROŁ>Niczego tu nie ma.\! Nic nie zostało.
  
 message_65:
-      text: \n<BAZGROŁ>Stuk-puk... \! Stuk-puk...
+      text: \n<BAZGROŁ>Stuk-puk...\! Stuk-puk...
  
 #--------------------------------------------------------------------------------------------
  
@@ -574,7 +574,7 @@ message_265:
 message_266:
       faceset: MainCharacter_Basil
       faceindex: 5
-      text: \basOMORI...\| Proszę... \| pomóż...
+      text: \basOMORI...\| Proszę...\| pomóż...
  
 #BASIL is eaten.
  
@@ -678,7 +678,7 @@ message_324:
 message_325:
       faceset: MainCharacter_Basil
       faceindex: 4
-      text: \basH-hej, OMORI... \! Jesteś troszkę oziębły.\!<br>Czy zrobiłem coś nie tak?
+      text: \basH-hej, OMORI... \!Jesteś troszkę oziębły.\!<br>Czy zrobiłem coś nie tak?
  
 #While walking, OMORI finds a raft.
  

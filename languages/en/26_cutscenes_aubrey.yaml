@@ -73,7 +73,7 @@ message_10:
 message_11:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: No... \! Sorki, ale...\!<br>Jesteś ostatnią osobą, której bym się tu spodziewał.\kel
+      text: No...\! Sorki, ale...\!<br>Jesteś ostatnią osobą, której bym się tu spodziewał.\kel
  
 message_12:
       faceset: MainCharacters_Faraway
@@ -311,7 +311,7 @@ message_76:
 message_77:
       faceset: MainCharacters_Faraway
       faceindex: 34
-      text: Słyszałem coś...\!<br>ale chcę zobaczyć twoją wersję wydarzeń.\! <br>Możesz powiedzieć mi, co się wczoraj zdażyło?\her
+      text: Słyszałem coś...\!<br>ale chcę poznać twoją wersję wydarzeń.\! <br>Możesz powiedzieć mi, co się wczoraj zdarzyło?\her
  
 message_78:
       faceset: MainCharacters_Faraway

@@ -13,7 +13,7 @@ message_1:
 #KEL walks up to you.
  
 message_2:
-      text: KEL sięgnał do twojej KIESZENI i wyjął z niej \c[4]SUPER-SKŁADANKĘ\c[0].
+      text: KEL sięgnął do twojej KIESZENI i wyjął z niej \c[4]SUPER-SKŁADANKĘ\c[0].
  
 message_3:
       faceset: MainCharacters_DreamWorld

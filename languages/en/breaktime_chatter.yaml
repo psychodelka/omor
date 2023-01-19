@@ -784,7 +784,7 @@ message_137:
 message_138:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herZrapałaś...\! \com[2]co!?
+    text: \herZdrapałaś...\! \com[2]co!?
  
 message_139:
     faceset: MainCharacter_Mari
@@ -794,7 +794,7 @@ message_139:
 message_140:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marZrobiłam ją mieszając owoce!\!Z, eee...\! żelatyną!
+    text: \marZrobiłam ją, mieszając owoce!\! Z, eee...\! żelatyną!
  
 message_141:
     faceset: MainCharacters_DreamWorld

@@ -474,12 +474,15 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       break;
 
     case 'HEADBUTT':  // HEADBUTT
-      text = user.name() + ' uderza ' + target._altName() + ' z główki!\r\n';
+    if (target.name() === $gameActors.actor(8).name()) {
+      text = user.name() + ' uderza cię z główki!\r\n'; }
+    else {
+      text = user.name() + ' uderza ' + target._altName() + ' z główki!\r\n'; }
       text += hpDamageText;
       break;
 
     case 'HOMERUN': // Homerun
-      text = user.name() + ' wykopuje wroga z parku!\r\n';
+      text = user.name() + ' wykopuje wroga z pola!\r\n';
       text += hpDamageText;
       break;
 
@@ -759,7 +762,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       break;
 
     case 'PASS AUBREY':  // KEL PASS AUBREY
-      text = 'AUBREY wykupuje piłkę z parku!\r\n';
+      text = 'AUBREY wykupuje piłkę z pola!\r\n';
       text += hpDamageText;
       break;
 
@@ -3486,7 +3489,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       if (target.name() === $gameActors.actor(8).name()) {
         text = user.name() + ' łapie cię za koszulkę i obrywasz w nos!\r\n';
       }
-      else text = user.name() + ' łapie ' + target._altName() + ' za koszulkę i obrywa w nos!\r\n';
+      else text = user.name() + ' łapie ' + target._altName() + ' za koszulkę, ' + target.name() + ' obrywa w nos!\r\n';
       text += hpDamageText;
       break;
 

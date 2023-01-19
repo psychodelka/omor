@@ -193,7 +193,7 @@ message_105:
 #KEL pushes PLAYER toward the hallway.
  
 message_106:
-      text: \Com[2] Chwileczkę, młodzieńcze\n<MAMA KELA>
+      text: \Com[2]Chwileczkę, młodzieńcze-\n<MAMA KELA>
  
 message_107:
       faceset: MainCharacters_Faraway
