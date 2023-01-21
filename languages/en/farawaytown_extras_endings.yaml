@@ -2,47 +2,63 @@
 # Endings
 # =========================================================================================
 
+
 #Save for later: messages 0 - 40
+
+
 
 
 # =========================================================================================
 # Balcony End
 # =========================================================================================
 
+
 #Before arriving at Balcony: (Black screen)
 
+
 message_41:
-      text: \aubHey, OMORI! Where've you been?<br>We've been waiting so long for you!
+      text: \aubHej, OMORI! Gdzie się podziewasz?<br>Tak długo już na ciebie czekamy!
+
 
 message_42:
-      text: \kelYeah, come on OMORI! What's the holdup?<br>You shouldn't keep your friends waiting, y'know!
+      text: \kelWłaśnie, szybciej, OMORI! Co ci tyle zajmuje?<br>Nie powinieneś kazać czekać swoim przyjaciołom, wiesz?!
+
 
 message_43:
-      text: \herAUBREY, KEL! Be patient.<br>OMORI will come visit us soon!
+      text: \herAUBREY, KEL! Bądźcie cierpliwi.<br>OMORI niedługo nas odwiedzi!
+
 
 message_44:
-      text: \marTake your time, OMORI. We'll be right here.<br>You know where to find us!
+      text: \marBez pośpiechu, OMORI. Poczekamy na ciebie tutaj.<br>Wiesz, gdzie nas znaleźć!
+
 
 message_45:
-      text: \basAll of us can't wait to see you again...\!<br>Come on, OMORI! Let's all go on an adventure together!
+      text: \basNie możemy się doczekać, aż znowu się z tobą spotkamy...\!<br>Dawaj, OMORI! Wyruszmy wspólnie na przygodę!
+
 
 # =========================================================================================
 # Abandon End
 # =========================================================================================
 
+
 # Already implemented
+
 
 # =========================================================================================
 # Stab End
 # =========================================================================================
 
+
 # Already implemented
+
 
 # =========================================================================================
 # Misc
 # =========================================================================================
 
+
 #Naming PLAYER
 
+
 message_60:
-      text: You see a boy sleeping in his room...\! What's his name?
+      text: Widzisz chłopca śpiącego w pokoju...\! Jak brzmi jego imię?
