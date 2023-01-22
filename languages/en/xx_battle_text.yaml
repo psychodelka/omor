@@ -1033,7 +1033,7 @@ message_191:
 
 message_192:
    text: >
-    \>WIELKI MAVERICK: \<Uff...\! Przyznam...\! Jestem pod wrażeniem...\! ale wciąż miną lata świetlne zanim mnie pokonacie!
+    \>WIELKI MAVERICK: \<Uff...\! Przyznam...\! Jestem pod wrażeniem...<br>ale wciąż miną lata świetlne zanim mnie pokonacie!
 
 # Getting Weaker (10%):
 
@@ -1085,7 +1085,7 @@ message_201:
 
 message_202:
    text: >
-    \>KIM: \<Pokażę wam, że wzrost to nie wszystko!\! Nie przegram z takimi frajerami, jak wy!
+    \>KIM: \<Pokażę wam, że wzrost to nie wszystko!\! Nie przegram z takimi frajerami jak wy!
 
 # After Defeat:
 

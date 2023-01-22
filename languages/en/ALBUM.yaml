@@ -36,7 +36,7 @@ faraway_message4:
 faraway_message5:
     background: 0
     position: 2
-    text: \n<18 LUTEGO - MOJE URODZINY>\n[8] gra w grę na kanapie.<br>\!\n[8] jest trochę nieśmiały, ale dobry z niego słuchacz.<br><br>Zawsze, kiedy jestem smutny albo zły, to mogę mu się wygadać.\! Czasami czuję, że nie powinienem mu się wyżalać, ale chyba mu to nie przeszkadza.
+    text: \n<18 LUTEGO - MOJE URODZINY>\n[8] gra w grę na kanapie.<br>\!\n[8] jest trochę nieśmiały, ale dobry z niego słuchacz.<br><br>Zawsze, kiedy jestem smutny albo zły, to mogę mu się wygadać.\! Czasami czuję, że nie powinienem mu się żalić, ale chyba mu to nie przeszkadza.
  
 faraway_message6:
     background: 0
@@ -61,12 +61,12 @@ faraway_message9:
 faraway_message10:
     background: 0
     position: 2
-    text: \n<10 MARCA>KEL nadal czuł się trochę przygnębiony przegraną z HERO w siłowaniu zeszłego wieczoru, więc HERO postanowił spróbować go pocałować!<br>KEL wygląda na zirytowanego.<br>\!Ach, ta braterska miłość...
+    text: \n<10 MARCA>KEL nadal czuł się trochę przygnębiony przez przegraną z HERO w siłowaniu zeszłego wieczoru, więc HERO postanowił spróbować go pocałować!<br>KEL wygląda na zirytowanego.<br>\!Ach, ta braterska miłość...
  
 faraway_message11:
     background: 0
     position: 2
-    text: \n<10 MARCA>\n[8] słucha, jak czytam książkę, którą zacząłem ostatnio.\! MARI ukradła mi aparat i zrobiła nam zdjęcie, kiedy nie patrzyliśmy.<br><br>Powinienem pilnować swoich rzeczy.
+    text: \n<10 MARCA>\n[8] słucha, jak czytam książkę, którą zacząłem ostatnio.\! MARI ukradła mi aparat i zrobiła nam zdjęcie, kiedy nie patrzyliśmy.<br>Powinienem pilnować swoich rzeczy.
  
 faraway_message12:
     background: 0
@@ -251,7 +251,7 @@ faraway_message47:
 faraway_message48:
     background: 0
     position: 2
-    text: \n<22 WRZEŚNIA>Po wielu błaganiach, \n[8] przyłączył się do ćwiczenia... Hehe...<br><br><br>Nadal dopracowują niektóre fragmenty, ale już teraz brzmią genialnie! Wiem, że pójdzie im super.<br><br>Dawaj, MARI! Dawaj, \n[8]!\! Dacie sobie radę!
+    text: \n<22 WRZEŚNIA>Po wielu błaganiach, \n[8] przyłączył się do ćwiczenia... Hehe...<br><br>Nadal dopracowują niektóre fragmenty, ale już teraz brzmią genialnie! Wiem, że pójdzie im super.<br><br>Dawaj, MARI! Dawaj, \n[8]!\! Dacie sobie radę!
  
 #DREAM WORLD
  

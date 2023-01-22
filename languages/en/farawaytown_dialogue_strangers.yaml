@@ -2,107 +2,143 @@
 # Farawaytown extras daily dialogue
 # =========================================================================================
 
+
 # ===================STRANGER 1================
 #OLIVE BEANIE, by bus stop
 
+
 message_1:
-      text: \n<OLIVE BEANIE>Hmm...\! Looks like the bus is late today.
+      text: \n<OLIWKA W CZAPCE>Hmm...\! Wygląda na to, że autobus się dzisiaj spóźnia.
+
 
 message_2:
-      text: \n<OLIVE BEANIE>Or maybe I'm the one who's late...
+      text: \n<OLIWKA W CZAPCE>Chyba, że to ja jestem spóźniona...
+
 
 message_3:
-      text: \n<OLIVE BEANIE>Man...\! I sure hope I didn't miss it again.
+      text: \n<OLIWKA W CZAPCE>Kurde...\! Mam wielką nadzieję, że tym razem na niego zdążę.
+
 
 message_4:
-      text: \n<OLIVE BEANIE>When I was younger, my family used to go to this park a lot.\! I remember there being a lake with a statue in the middle...\! but I can't find it anywhere.
+      text: \n<OLIWKA W CZAPCE>Gdy byłam młodsza, moja rodzina często chodziła do parku.\! Pamiętam, że było tam jezioro z posągiem na samym środku...\! ale nie mogę go nigdzie znaleźć.
+
 
 # ===================STRANGER 2================
 #Older man with glasses
 
+
 message_10:
-      text: \n<OLD MAN WITH GLASSES>I'm meeting up with someone, but they're late...\! Don't tell me I've been stood up!
+      text: \n<STARUSZEK W OKULARACH>Miałem się z kimś spotkać, ale wygląda na to, że się spóźni...\! Mam nadzieję, że mnie nie wystawi!
+
 
 # ===================STRANGER 3================
 #Brown hair lady
 
+
 message_20:
-      text: \n<BROWN HAIR LADY>Uhh...\! Can I help you?
+      text: \n<SZATYNKA>Uch...\! Mogę w czymś pomóc?
+
 
 # ===================STRANGER 4================
 #Newsreporter
 
+
 message_30:
-      text: \n<REPORTER>I work at the news station in the city, but sometimes I drive to \c[11]FARAWAY PARK\c[0] during my breaks.\! There's just something really relaxing about this place.
+      text: \n<REPORTERKA>Pracuję w mieście obok, w telewizji, ale czasami przyjeżdżam do \c[11]DALEKOSTĄDU\c[0] w czasie wolnym od pracy.\! Panuje tutaj jakaś dziwnie relaksująca atmosfera.
+
 
 # ===================STRANGER 5================
 #Pencil in hair man
 
+
 message_40:
-      text: \n<PENCIL MAN>I need a nice soft drink.\! I've been working on my next big project and need something to keep me alert!
+      text: \n<OŁÓWNIK>Potrzebuję czegoś dobrego, ale bez alkoholu.\! Pracuję nad moim nowym, wielkim projektem, więc potrzebuję czegoś, aby pozostać czujnym!
+
 
 # ===================STRANGER 6================
 #Glasses boy
 
+
 message_50:
-      text: \n<GLASSES BOY>My favorite novel just got a comic adaption!\! ...\! But the main character looks nothing like how I imagined him...
+      text: \n<NERD>Moja ulubiona książka właśnie dostała komiksową wersję!\! ...\! Ale główny bohater wygląda zupełnie inaczej, niż sobie wyobrażałem...
+
 
 # ===================STRANGER 7================
 #Tall man
 
+
 message_60:
-      text: \n<STRANGER>I'm pretty sure I'm lost.\! Both in body...\! and in spirit.
+      text: \n<NIEZNAJOMY>Jestem praktycznie pewien, że się zgubiłem.\! Zarówno fizycznie...\! jak i mentalnie.
+
 
 # ===================STRANGER 8================
 #Messy hair man
 
+
 message_70:
-      text: \n<MESSY HAIR MAN>I love bananas so much.\! I could stare at them all day.
+      text: \n<ROZCZOCHRANIEC>Jak ja uwielbiam banany...\! Mógłbym gapić się na nie cały dzień.
+
 
 message_71:
-      text: \n<MESSY HAIR MAN>Yesterday while I was eating a banana...\! I found a cool overgrown lake area just behind the park.
+      text: \n<ROZCZOCHRANIEC>Wczoraj, gdy jadłem banana...\! Znalazłem spoko zarośnięte jezioro tuż za parkiem.
+
 
 message_72:
-      text: \n<MESSY HAIR MAN>But soon after, a bunch of hooligans on scooters rolled in and kicked me out.
+      text: \n<ROZCZOCHRANIEC>Ale chwilę później pojawiła się grupka chuliganów na hulajnogach i mnie stamtąd wywalili.
+
 
 message_73:
-      text: \n<MESSY HAIR MAN>\com[2]And to make matters worse, they even threw away my banana!
+      text: \n<ROZCZOCHRANIEC>\com[2]I co gorsza, wyrzucili mojego banana!
+
 
 message_74:
-      text: \n<MESSY HAIR MAN>Sigh...\! I can't let a bunch of kids boss me around!\!<br>I'm an adult now!\! ...\! A young adult at least...
+      text: \n<ROZCZOCHRANIEC>Ech...\! Nie mogę pozwolić na to, żeby grupka dzieciaków mnie dręczyła!\!<br>Koniec końców, jestem już dorosły!\! ...\! A przynajmniej młodym dorosłym...
+
+
 
 
 # ===================STRANGER 9================
 #Doctor
 
+
 message_80:
-      text: \n<PROFESSIONAL>Let's see...\! What medication would help the most for a 30-hour flight?
+      text: \n<PROFESJONALISTA>Zobaczmy...\! Jakie leki pomogłyby mi przeżyć trzydziestogodzinny lot?
+
 
 # ===================STRANGER 10================
 #Player lookalike
 
+
 message_90:
-      text: \n<SKINNY BOY>Whatchu lookin' at, mister?
+      text: \n<CHUDZINA>Na co się tak gapisz, typie?
+
 
 # ===================STRANGER 11================
 #Kel lookalike
 
+
 message_100:
-      text: \n<ENERGETIC BOY>I'm playing a game with my best friend!
+      text: \n<NADPOBUDLIWY>Gram w grę z moim najlepszym przyjacielem!
+
 
 # ===================MOVERS================
 
+
 message_101:
-      text: \n<STRANGER>\sinv[1]Goodbye...\| Goodbye...\| Goodbye...
+      text: \n<NIEZNAJOMY>\sinv[1]Żegnaj...\| Żegnaj...\| Żegnaj...
+
 
 message_102:
-      text: \n<STRANGER>What kind of future awaits you, I wonder?
+      text: \n<NIEZNAJOMY>Ciekawe, jaka przyszłość cię czeka...
+
 
 message_103:
-      text: \n<STRANGER>Your mom is waiting for you outside.
+      text: \n<NIEZNAJOMY>Twoja mama już czeka na ciebie na zewnątrz.
+
 
 message_104:
-      text: \n<STRANGER>It's time to move on from this place and start anew.
+      text: \n<NIEZNAJOMY>Czas zapomnieć o przeszłości i zacząć od nowa, w nowym miejscu...
+
 
 message_105:
-      text: \n<STRANGER>May you live a long and happy life.
+      text: \n<NIEZNAJOMY>Mam nadzieję, że twoje życie będzie długie i szczęśliwe.

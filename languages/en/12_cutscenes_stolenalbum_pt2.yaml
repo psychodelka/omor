@@ -43,7 +43,7 @@ message_5:
 message_6:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Hola hola, urwisy!<br>Chyba zapomnieliście za to zapłacić.\kel
+      text: Hola, hola, urwisy!<br>Chyba zapomnieliście za to zapłacić.\kel
  
 message_7:
       text: \Com[2]\{ZJEŻDŻAJ STĄD, FRAJERZE!!<br>NIE ZNASZ MNIE!!!\kim
@@ -59,7 +59,7 @@ message_9:
 message_10:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Ech...\! Dziś Mam już tego dość.<br>\!KIM, zawrzyjmy układ.\kel
+      text: Ech...\! Dziś mam już tego dość.<br>\!KIM, zawrzyjmy układ.\kel
  
 message_24:
       faceset: MainCharacters_Faraway
@@ -108,7 +108,7 @@ message_18:
 message_19:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \{HAHA!! DOBRZE CI TAK!!\kel
+      text: \{HAHA!! DOBRZE WAM TAK!!\kel
  
 message_20:
       faceset: MainCharacters_Faraway
@@ -168,14 +168,14 @@ message_43:
 #KIM turns around.
  
 message_44:
-      text: To znowu ty, KEL? Czego ty do cholery chcesz, okrutniku!?\kim
+      text: To znowu ty, KEL? Czego ty, do cholery, chcesz, okrutniku!?\kim
  
 #KEL holds up candy.
  
 message_45:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Jak powiesz nam gdzie jest AUBREY to dam ci tą całą \c[4]WIELKĄ TORBĘ CUKSÓW\c[0]!\kel
+      text: Jak powiesz nam, gdzie jest AUBREY, to dam ci tą całą \c[4]WIELKĄ TORBĘ CUKSÓW\c[0]!\kel
  
 message_46:
       text: N-naprawdę? całą?\!<br>Znaczy, czekaj-\! \Com[2]Nie sprzedamy się za kilka \c[3]CUKSÓW\c[0]!\!<br>Za kogo ty nas masz?\kim
@@ -262,7 +262,7 @@ message_65:
 message_66:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: Chodź, \n[8].\! Wiesz, co mamy robić.\kel
+      text: Chodź, \n[8].\! Wiesz, co robić.\kel
  
 # =========================================================================================
 # Cutscene:  Kim & Vance's Loss
@@ -346,7 +346,7 @@ message_99:
  
  
 message_100:
-      text: No chodź, KIM... Musimy się zbierać...\!<br>Wiesz jak mama się złości, kiedy się spóźniamy.\van
+      text: No chodź, KIM... Musimy się zbierać...\!<br>Wiesz, jak mama się złości, kiedy się spóźniamy.\van
  
 message_101:
       text: Dobra, dobra... Słyszę...\! Już idę...\kim
@@ -454,7 +454,7 @@ message_128:
 message_140:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: Wow! Nie spodziewałem się, że tak po prostu tu wejdziesz, \n[8].\! <br>Teraz nie ma odwrotu...\!<br>\}Musimy być bardzo cicho.\kel
+      text: Wow! Nie spodziewałem się, że tak po prostu tu wejdziesz, \n[8].\! <br>Teraz nie ma odwrotu...<br>\}Musimy być bardzo cicho.\kel
  
 #[Trigger: PLAYER walks near AUBREY.]
  
@@ -568,7 +568,7 @@ message_177:
 message_178:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \}I co z tego?\! Wolę być prosty, niż taki, jak ty!\! <br>Jak mogłaś zrobić to BASILOWI?\! <br>Wiesz, jak ważny jest dla niego ten \c[4]ALBUM\c[0]!\kel
+      text: \}I co z tego?\! Wolę być prosty, niż taki jak ty!\! <br>Jak mogłaś zrobić to BASILOWI?\! <br>Wiesz, jak ważny jest dla niego ten \c[4]ALBUM\c[0]!\kel
  
 message_179:
       faceset: MainCharacters_Faraway
@@ -605,7 +605,7 @@ message_184:
 message_185:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \}Wiesz czemu przychodzę tutaj co tydzień?\!<br>Pomimo, że minęło tyle czasu, nadal próbuję odnaleźć spokój,\! <br>a dzisiaj skutecznie mi w tym przeszkadzacie.\aub
+      text: \}Wiesz, czemu przychodzę tutaj co tydzień?\!<br>Pomimo, że minęło tyle czasu, nadal próbuję odnaleźć spokój,\! <br>a dzisiaj skutecznie mi w tym przeszkadzacie.\aub
  
 message_186:
       faceset: MainCharacters_Faraway
@@ -698,7 +698,7 @@ message_201:
 message_202:
       faceset: MainCharacters_Faraway
       faceindex: 10
-      text: Myślisz, że jesteś tym dobrym, prawda KEL??\aub
+      text: Myślisz, że jesteś tym dobrym, prawda, KEL?\aub
  
 message_203:
       faceset: MainCharacters_Faraway

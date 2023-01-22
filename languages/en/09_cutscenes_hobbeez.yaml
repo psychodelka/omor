@@ -11,7 +11,7 @@ message_1:
       text: Pamiętasz mnie?\! Tu twój kumpel, KEL!\who
  
 message_2:
-      text: Więc, ja...\! ech...\! Zauważyłem ten znak z napisem "NA SPRZEDAŻ" przed twoim domem...\! i jakby...\! err...\! mama mi mówiła, że za niedługo się przeprowadzacie.\kel
+      text: Więc, ja...\! ech...\! Zauważyłem ten znak z napisem "NA SPRZEDAŻ" przed twoim domem...\! i jakby...\! yyy...\! mama mi mówiła, że za niedługo się przeprowadzacie.\kel
  
 message_3:
       text: Więc tak sobie pomyślałem...\! że te kilka dni zanim wyjedziesz moglibyśmy spędzić wspólnie... czy coś...\! No wiesz, tak jak kiedyś.\kel
@@ -222,7 +222,7 @@ message_76:
 message_77:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Kurka! Zostawiłem portfel w domu...\!<br>Err...\! Możesz za mnie zapłacić, \n[8]?\!<br>Oddam ci potem, przysięgam.\kel
+      text: Kurka! Zostawiłem portfel w domu...\!<br>Yyy...\! Możesz za mnie zapłacić, \n[8]?\!<br>Oddam ci potem, przysięgam.\kel
  
 message_78:
       faceset: MainCharacters_Faraway

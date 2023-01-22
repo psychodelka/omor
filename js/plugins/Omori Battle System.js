@@ -307,8 +307,10 @@ BattleManager.displayExp = function() {
 //=============================================================================
 BattleManager.displayGold = function() {
   var gold = this._rewards.gold;
+  let text = TextManager.obtainGold.format(gold);
+  text = this._logWindow.changeClamsFormat(text, gold);
   if (gold > 0) {
-    this._logWindow.push('addText', '\\.' + TextManager.obtainGold.format(gold));
+    this._logWindow.push('addText', '\\.' + text);
     this._logWindow.push('wait');
     this._logWindow.push('waitForInput')
   }

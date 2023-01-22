@@ -83,7 +83,7 @@ terms:
         magicReflection: "%1 odpiera czar!"
         meVolume: "EFEKTY MUZYCZNE"
         obtainExp: "Zyskano %1 %2!"
-        obtainGold: "Zdobyte MAŁŻE: %1!"
+        obtainGold: "Zdobywasz %1 MAŁŻY!"
         obtainItem: "Znalezisko: %1!"
         obtainSkill: "...i poznaje %1!"
         partyName: "%1 z drużyną"
@@ -661,7 +661,7 @@ plugins:
     system:
       restoreConfig:
         text: PRZYWRÓCENIE USTAWIEŃ DOMYŚLNYCH
-        help: Przywrócenie domyślnych ustawień gry i odzyskanie global.rpgsave.
+        help: Przywrócenie domyślnych ustawień gry, odzyskanie global.rpgsave.
       load:
         text: WCZYTAJ ZAPIS
         help: Wczytanie pliku zapisu.

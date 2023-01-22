@@ -3974,9 +3974,22 @@ Window_BattleLog.prototype.displayCustomActionText = function (subject, target, 
     // Check if every text line is no more than MAX_CHAR_IN_LINE
     textArray.forEach(text => { 
       if (text.length > MAX_CHAR_IN_LINE) {
-        this.sliceLongString(text);
+        let textArray = this.sliceLongString(text);
+        
+        if (textArray[1].includes('obrażeń')) {
+          textArray[1] = this.changeDamageForm(textArray[1], target)
+        }
+
+        this.push('addText', textArray[0]);
+        this.push('addText', textArray[1]);
       }
-      else this.push('addText', text); 
+      else {
+        if (text.includes('obrażeń')) {
+          text = this.changeDamageForm(text, target)
+        }
+
+        this.push('addText', text); 
+      }
     });
     // Add Wait
     this.push('wait', 15);
@@ -3995,16 +4008,22 @@ Window_BattleLog.prototype.displayHpDamage = function(target) {
           this.push('performRecovery', target);
       }
       if (text.length > MAX_CHAR_IN_LINE) {
-        this.sliceLongString(text);
+        let textArray = this.sliceLongString(text);
+        textArray[1] = this.changeDamageForm(textArray[1], target);
+
+        this.push('addText', textArray[0]);
+        this.push('addText', textArray[1]);
+        this.push('wait', 10);
         return;
       }
+      text = this.changeDamageForm(text, target);
       this.push('addText', text);
   }
 };
 
 // Function which slices text into 2 parts if it's longer than MAX_CHAR_IN_LINE
 Window_BattleLog.prototype.sliceLongString = function(text) {
-  var sliceIndex = 0;
+  let sliceIndex = 0;
 
   for(let j = MAX_CHAR_IN_LINE; j >= 0; j--) {
     if(text[j] === " ") {
@@ -4013,10 +4032,53 @@ Window_BattleLog.prototype.sliceLongString = function(text) {
     }
   }
 
-  this.push('addText', text.slice(0, sliceIndex).trim());
-  this.push('addText', text.slice(sliceIndex).trimLeft());
-  this.push('wait', 10);
+  return [text.slice(0, sliceIndex).trim(), text.slice(sliceIndex).trimLeft()]
 }
+
+Window_BattleLog.prototype.changeDamageForm = function(text, target) {
+  let damageDealtString = target.result().hpDamage + '';
+
+  switch (true) {
+    case damageDealtString === '1': 
+      return text.replace('obrażeń', 'obrażenie');
+
+    case this.checkIfEndsWithTwoThreeFour(damageDealtString):
+      return text.replace('obrażeń', 'obrażenia');
+
+    default:
+      return text;
+  }
+}
+
+Window_BattleLog.prototype.checkIfEndsWithTwoThreeFour = function(damageString) {
+  let lastDigit = damageString.charAt(damageString.length-1);
+  let lastTwoDigits = parseInt(lastDigit);
+
+  if (damageString.length > 1) {
+    lastTwoDigits = parseInt(damageString.slice(damageString.length-2));
+  }
+
+  if ((lastDigit === '2' || lastDigit === '3' || lastDigit === '4') && (Math.floor(lastTwoDigits/10) !== 1)) {
+    return true;
+  }
+  return false;
+}
+
+Window_BattleLog.prototype.changeClamsFormat = function(text, gold) {
+  let goldString = gold + '';
+
+  switch (true) {
+    case goldString === '1': 
+      return text.replace('MAŁŻY', 'MAŁŻĘ');
+
+    case this.checkIfEndsWithTwoThreeFour(goldString):
+      return text.replace('MAŁŻY', 'MAŁŻE');
+
+    default:
+      return text;
+  }
+};
+
 
 //=============================================================================
 // * Display Action
