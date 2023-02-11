@@ -288,7 +288,7 @@ message_166:
 # ========================================================================================
  
 message_180:
-      text: Kij do baseballa.\! MARI używała go do gry w softballa, dopóki nie uszkodziła sobie kolana.
+      text: Kij do bejsbolu.\! MARI używała go do gry w softballa, dopóki nie uszkodziła sobie kolana.
  
 message_181:
       text: Pluszak AUBREY, \"PAN ŻAKŁANBAK\".
@@ -705,7 +705,7 @@ message_324:
 message_325:
       faceset: MainCharacters_Faraway
       faceindex: 11
-      text: Połamania skrzypiec.\aub
+      text: Połamania smyczka.\aub
  
 message_330:
       faceset: MainCharacters_Faraway

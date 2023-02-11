@@ -5,174 +5,174 @@
 #SM TOWN Door Guard
 
 message_750:
-    text: \n<SPROUT MOLE>Ahem...\! If I may have your \c[4]SHOW TICKETS\c[0] please.
+    text: \n<KIEŁKUN>Ekhem...\! Czy mógłbym zobaczyć wasze \c[4]BILETY NA SPEKTAKL\c[0]?
 
 message_751:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubYes yes, of course MR. SPROUT MOLE, sir!\!<br>We have our tickets right here!
+    text: \aubTak, tak, jasne, proszę PANA KIEŁKUNA!\!<br>Są tutaj!
 
 message_752:
-    text: AUBREY reached into your POCKET and took out the \c[4]SHOW TICKETS\c[0].
+    text: AUBREY sięgnęła do twojej KIESZENI i wyciągnęła z niej \c[4]BILETY NA SPEKTAKL\c[0].
 
 message_753:
     faceset: MainCharacters_DreamWorld
     faceindex: 3
-    text: \aubHere you go, MR. SPROUT MOLE.
+    text: \aubProszę bardzo, PANIE KIEŁKUNIE.
 
 message_754:
-    text: \n<SPROUT MOLE>Oh...\! \com[2]Oh, my!\! I can't believe my eyes...\! These are front row tickets!\! You...\! You all must have made some great sacrifices to be here today...\! I applaud you.
+    text: \n<KIEŁKUN>O...\! \com[2]Ojej!\! Nie wierzę własnym oczom...\! Miejsca w pierwszym rzędzie!\! Wy...\! Musieliście wielce się poświęcić, by dziś tu być...\! Gratuluję.
 
 message_755:
-    text: \n<SPROUT MOLE>Forgive me for calling you strange-looking earlier.\!<br>At a second glance, you four are the most normal-looking SPROUT MOLES I have ever seen.
+    text: \n<KIEŁKUN>Wybaczcie za moje wcześniejsze nazwanie was dziwolągami.\!<br>Po dokładniejszym przyjrzeniu się wyglądacie na najnormalniejsze KIEŁKUNY, jakie kiedykolwiek widziałem.
 
 #SM TOWN Ticket Vendor (Before Show)
 
 message_760:
-    text: \n<SPROUT MOLE>Please enjoy your front row seats, fellow normal-looking SPROUT MOLES!
+    text: \n<KIEŁKUN>Cieszcie się swoimi miejscami w pierwszym rzędzie, towarzysze normalni KIEŁKUNI!
 
 #SM TOWN Ticket Vendor (After Show)
 
 message_761:
-    text: \n<SPROUT MOLE>Wow! What an explosive finale!\!<br>Isn't SWEETHEART just the greatest?
+    text: \n<KIEŁKUN>Wow! Cóż za wybuchowe zakończenie!\!<br>Czy SŁODZIUTKA nie jest najwspanialsza?
 
 #Blackletter Video Tape
 
 message_762:
-      text: You got an unlabeled tape.
+      text: Zdobywasz niepodpisaną kasetę.
 
 #Watering Plants
 
 message_763:
-      text: OMORI gained 1 HEART.
+      text: OMORI zdobywa 1 SERCE.
 
 message_764:
-      text: AUBREY gained 1 HEART.
+      text: AUBREY zdobywa 1 SERCE.
 
 message_765:
-      text: KEL gained 1 HEART.
+      text: KEL zdobywa 1 SERCE.
 
 message_766:
-      text: HERO gained 1 HEART.
+      text: HERO zdobywa 1 SERCE.
 
 #Molly Entrance Tube
 
 message_767:
-      text: \"OUT OF ORDER\"
+      text: \"NIECZYNNE\"
 
 message_778:
-      text: \"UNDER CONSTRUCTION\"
+      text: \"TEREN BUDOWY\"
 
 #Molly Password Puzzle (Before)
 
 message_768:
-      text: I ❤ MOLLY
+      text: K❤CHAM MOLLY
 
 message_769:
-      text: PASSWORD
+      text: HASŁO
 
 message_770:
-      text: HUMPHREY
+      text: GIGANTOS
 
 message_771:
-      text: BOOM
+      text: BUM
 
 message_772:
       text: ROBOT
 
 message_773:
-      text: NEVERMIND
+      text: NIEWAŻNE
 
 #Molly Password Puzzle (After)
 
 message_774:
-      text: BOMB
+      text: BOMBA
 
 message_775:
-      text: BOMO
+      text: BAMBO
 
 message_776:
-      text: MOMB
+      text: MABOB
 
 message_777:
-      text: BOOM
+      text: BABOM
 
 # === Night Scares ===
 
 #Fridge
 message_780:
-      text: There is nothing inside.
+      text: W środku nic nie ma.
 
 # === Otherworld Ladder Hector ===
 
 message_801:
-      text: A regular rock.
+      text: Zwykły kamień.
 
 # === SW Garden Statue ===
 
 message_802:
-      text: \n<IMPRESSIVE STATUE>You said, "NEVERMIND."
+      text: \n<IMPONUJĄCY POSĄG>Powiedziałeś "NIEWAŻNE."
 
 # === Vast Forest ===
 
 message_803:
-      text: \n<HOT DIGGITY DOG>It seems that I am the perfect length to block this path.
+      text: \n<FRANCUSKI PIESEK>Wygląda na to, że jestem idealnej długości, by zablokować przejście.
 
 # === Mustard Sub ===
 
 message_804:
-      text: The SPACE PIRATES are entranced by their CAPTAIN.
+      text: KOSMOPIRACI są oczarowani swoim KAPITANEM.
 
 # === SW Garden Guards ===
 
 message_805:
-    text: \n<ALEX THE ESTEEMED>As a member of the esteemed elite, I have a special code word to hide...\! but you probably wouldn't know anything about that.
+    text: \n<ALEKSANDER POWAŻANY>Jako członek poważanej elity kryję hasło...\! ale pewnie nic o tym nie wiesz.
 
 message_806:
-    text: \n<BRIAN THE DISTINGUISHED>Careful where you tread...\! You are in the presence of one of SWEETHEART's distinguished elites.\! I will guard the wisdom of this castle with my life!
+    text: \n<BRAJAN DYSTYNGOWANY>Uważajcie, gdzie stąpacie...\! Jesteście w obecności członka dystyngowanej elity SŁODZIUTKIEJ.\! Mądrości tego zamku będe strzegł własnym życiem!
 
 message_807:
-    text: \n<CAROL THE ILLUSTRIOUS>Protecting the sacred password is an arduous task.<br>\!Perhaps one day you fine young moles will carry the same burden of the illustrious elite.
+    text: \n<KAROLINA WSPANIAŁA>Obrona świętego hasła jest żmudnym zadaniem.<br>\!Może pewnego dnia na was, młode kiełki, będziecie ciążyć to samo brzemie, co na wspaniałej elicie.
 
 message_808:
-    text: \n<HELEN THE CALAMITOUS>Uhh... Hi?\! I'm, like... super busy standing here being one of the calamitous elite and all.\! Can I, like... help you with something?
+    text: \n<HELENA FATALNA>Eee... Cześć?\! Jestem, jakby... mega zajęta staniem tutaj i byciem częścią fatalnej elity i w ogóle.\! Czy mogę, jakby... w czymś wam pomóc?
 
-# === Sprout Mole Village ===
+# === KIEŁKUN Village ===
 
 message_809:
-    text: Do you want to cut the Christmas tree?
+    text: Czy chcesz ściąć choinkę?
 
 message_810:
-    text: Do you want to cut the wire?
+    text: Czy chcesz przeciąć kabel?
 
 # === Last Resort Elevator ===
 
 message_811:
-    text: You used your \c[4]COOL KEY CARD\c[0].
+    text: Użyłeś \c[4]SREBRNEJ KARTY\c[0].
 
 # === Hidden Library ===
 
 message_812:
-    text: Do you want to place your \c[4]SHEET MUSIC\c[0]?
+    text: Chcesz położyć swoje \c[4]NUTY\c[0]?
 
 message_813:
-    text: All the words have been scribbled out.
+    text: Wszystkie słowa zostały zabazgrane.
 
 message_814:
-    text: OMORI learned \c[1]VERTIGO\c[0].
+    text: OMORI poznał \c[1]ZAWRÓT\c[0].
 
 message_815:
-    text: OMORI learned \c[1]CRIPPLE\c[0].
+    text: OMORI poznał \c[1]PARALIŻ\c[0].
 
 message_816:
-    text: OMORI learned \c[1]SUFFOCATE\c[0].
+    text: OMORI poznał \c[1]UDUSZENIE\c[0].
 
 # === Otherworld Ladder ===
 
 message_817:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herBASIL has got to be around here somewhere.
+      text: \herBASIL musi gdzieś tu być.
 
 # === Doom Tomb ===
 
@@ -209,21 +209,21 @@ message_834:
 # === Slime Girls Lair ===
 
 message_830:
-    text: Do you want to give your \c[4]SLIMY KEYCARD\c[0] to HUMPHREY?
+    text: Czy chcesz oddać swoją \c[4]LEPKĄ KARTĘ\c[0] GIGANTOSOWI?
 
 message_831:
-    text: \n<HUMPHREY>\sinv[1]Ooooooooh... \sinv[0]A \c[4]SLIMY KEYCARD\c[0]!
+    text: \n<GIGANTOS>\sinv[1]Uuuuuuuuu... \sinv[0]\c[4]LEPKA KARTA\c[0]!
 
 message_832:
-    text: \n<HUMPHREY>\sinv[1]Yum, yum!\sinv[0]\! So...\! Did you want to go downstairs now?
+    text: \n<GIGANTOS>\sinv[1]Mniam, mniam!\sinv[0]\! Więc...\! Chcieliście zejść na dół?
 
 message_833:
-    text: \n<HUMPHREY>\sinv[1]Alrighty~\! I'll be right here! \quake[1]Nyak, nyak!\quake[0]
+    text: \n<GIGANTOS>\sinv[1]W porząsiu~\! Zaraz tam będę! \quake[1]Mniam, mniam!\quake[0]
 
 # === BS Clearing ===
 
 message_840:
-    text: W...Wait...\! P-Please, \n[8]...\! Don't leave me...\! \fn<OMORI_GAME><br>Not again...\who
+    text: Ch... chwila...\! P-proszę, \n[8]...\! Nie zostawiaj mnie...\! \fn<OMORI_GAME><br>Nie rób tego znowu...\who
 
 # === Last Resort Construction ===
 
@@ -238,92 +238,92 @@ message_851:
 message_860:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: But on the bright side, at least we have BASIL's \c[4]PHOTO ALBUM\c[0] now... and it only took us half a day, too!\! Talk about teamwork!\! How about a high five, \n[8]?\kel
+      text: Ale patrząc na jasną stronę, przynajmniej mamy \c[4]ALBUM\c[0] BASILA... i zajęło nam to tylko pół dnia!\! Co za współpraca!\! Piona, \n[8]?\kel
 
 message_861:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: You know, \n[8].\! You were pretty awesome back there...\! jumping in to the lake to save BASIL like that.\kel
+      text: Wiesz, \n[8].\! Byłeś całkiem niezły...\! od tak wskoczyłeś do jeziora, żeby uratować BASILA.\kel
 
 message_867:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Even if HERO ended up saving the day, I think you deserve some recognition too.\! How about a high five?\kel
+      text: Myślę, że nawet pomimo tego, że HERO uratował całą sytuację, to tobie należy się większe uznanie.\! Przybijesz?\kel
 
 message_862:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Yo, \n[8].\! Thanks for letting us sleep over last night...\! and for spending your last few days with me.\! You're a real friend.\! \com[2]High five!\kel
+      text: Joł, \n[8].\! Dziena za pozwolenie nam tu przenocować...\! i spędzenie swoich paru ostatnich dni ze mną.\! Prawdziwy z ciebie przyjaciel.\! \com[2]Piątka!\kel
 
 message_863:
-    text: Do you want to high five KEL?
+    text: Chcesz przybić piątkę z KELEM?
 
 # === NORTH COAST ===
 
 message_864:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: Steady your heartbeat...\!<br>Don't be afraid.\! It's not as scary as you think.\mar
+      text: Uspokój się...\!<br>Nie bój się.\! To nie takie straszne, jak może się wydawać.\mar
 
 # === SUMMONING ROOM ===
 
 message_865:
-    text: A portal has been opened.
+    text: Otworzył się portal.
 
 # === DINO'S DIG ===
 
 message_866:
-    text: BEST CHOICE
+    text: NAJLEPSZY WYBÓR
 
 # === MYSTERY POTION ===
 
 message_868:
-    text: The effects of the MYSTERY POTION wore off...
+    text: Efekty TAJEMNICZEGO ELIKSIRU ustąpiły...
 
 # === SW Servant Quarters ===
 
 message_869:
-    text: PICK RANDOMLY
+    text: WYBÓR LOSOWY
 
 # === UWH TOLL ===
 
 message_870:
-    text: \n<TOLL GATOR>You thought you'd be able to sneak by here if there were three of you kids, huh? \!This isn't just a carpool lane...\! It's a double carpool lane!
+    text: \n<MYTOGATOR>Dzieciaki, myśleliście, że w trójkę się tu prześlizgniecie, co? \!To nie jest zwykła droga...\! To dwupasmówka!
 
 # === STATIC VOID ===
 
 message_871:
-    text: \n<YE OLD SPROUT>You killed me...
+    text: \n<KIEŁKOSŁAW>Zabiłeś mnie...
 
 # === LAST RESORT HOTEL ===
 
 message_872:
-    text: The doll's eyes are hollowed out.\! Do you want to look inside?
+    text: Oczy lalki są wydrążone.\! Chcesz spojrzeć w dziury?
 
 # === Mystery Potion ===
 
 message_993:
-    text: The MYSTERY POTION doesn't work in bathrooms for some reason.
+    text: TAJEMNICZY ELIKSIR z jakiegoś powodu nie działa w łazienkach.
 
 message_994:
-    text: The MYSTERY POTION did not work on AUBREY.
+    text: TAJEMNICZY ELIKSIR nie zadziałał na AUBREY.
 
 message_995:
-    text: The MYSTERY POTION did not work on KEL.
+    text: TAJEMNICZY ELIKSIR nie zadziałał na KELU.
 
 message_996:
-    text: The MYSTERY POTION did not work on HERO.
+    text: TAJEMNICZY ELIKSIR nie zadziałał na HERO.
 
 message_997:
-    text: The label says the MYSTERY POTION only works underwater.
+    text: Na etykiecie napisane jest, że TAJEMNICZY ELIKSIR działa tylko pod wodą.
 
 message_998:
-    text: The effects of the MYSTERY POTION wore off...
+    text: Efekty TAJEMNICZEGO ELIKSIRU ustąpiły...
 
 # === NEIGHBOR'S ROOM ===
 
 message_1000:
-    text: Do you want to join your friends?
+    text: Czy chcesz dołączyć do przyjaciół?
 
 # -----------------------------------------------
 # - UNSORTED
@@ -332,7 +332,7 @@ message_1000:
 message_607:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Hold on, OMORI.\! We should go check on BASIL first...\her
+      text: Poczekaj, OMORI.\! Najpierw powinniśmy sprawdzić co u BASILA...\her
 
 # -----------------------------------------------
 # - PUZZLE ROOMs (4)
@@ -362,7 +362,7 @@ message_607:
 #KEY
 
 message_343:
-    text: You got a \c[4]JUNKYARD KEY\c[0]!
+    text: Zdobywasz \c[4]ŚMIECIOKLUCZ\c[0]!
 
 # -----------------------------------------------
 # - JUNKYARD IV (145)
@@ -371,110 +371,110 @@ message_343:
 #FIRST THROW EVENT
 
 message_200:
-    text: \n<MR. SCARETHROW>They call me SCARETHROW.\! I am stuck in the ground.\!<br>Throw things at me...\! and hear a strange sound!
+    text: \n<PAN STRACHORZUT>Mówią na mnie STRACHORZUT.\! Nie mogę się stąd ruszyć.\!<br>Rzuć we mnie czymś...\! a usłyszysz dziwny dźwięk!
 
 message_201:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelWhoa, cool! Sounds like my kind of game!
+    text: \kelŁa, czadersko! Brzmi jak coś dla mnie!
 
 message_202:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kelLet me try, OMORI! Please!
+    text: \kelDaj mi spróbować, OMORI! Proszę!
 
 message_203:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelCome on, OMORI! TAG me already!
+    text: \kelNo weź, OMORI! ZACZEP mnie!
 
 message_204:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \aubHold on OMORI, I want to see what this does!
+    text: \aubPoczekaj, OMORI, chcę sprawdzić, jak to działa!
 
 #SCARETHROW
 
 message_345:
-    text: \n<MR. SCARETHROW>Wasn't that fun?\! Come again another day and try again!
+    text: \n<PAN STRACHORZUT>Niezła zabawa, co?\! Odwiedźcie mnie jeszcze kiedy indziej!
 
 message_346:
-    text: \n<MR. SCARETHROW>You can stop now.
+    text: \n<PAN STRACHORZUT>Możesz już przestać.
 
 message_347:
-    text: \n<MR. SCARETHROW>This is really starting to hurt...
+    text: \n<PAN STRACHORZUT>To naprawdę zaczyna boleć...
 
 message_348:
-    text: \n<MR. SCARETHROW>Please... stop it...
+    text: \n<PAN STRACHORZUT>Proszę... nie rób...
 
 message_349:
-    text: \n<MR. SCARETHROW>...
+    text: \n<PAN STRACHORZUT>...
 
 message_350:
-    text: \n<MR. SCARETHROW>If you don't stop now, I'm going to have to report you to the authorities.
+    text: \n<PAN STRACHORZUT>Jeśli nie przestaniesz, będę zmuszony zgłosić twoje zachowanie władzom.
 
 message_351:
-    text: \n<MR. SCARETHROW>Please stop...\! I'm asking you politely.
+    text: \n<PAN STRACHORZUT>Błagam, nie rób...\! Grzecznie proszę.
 
 message_352:
-    text: \n<MR. SCARETHROW>Stop it.\! Stop it right now, I say!
+    text: \n<PAN STRACHORZUT>Przestań.\! Mówię, natychmiast przestań!
 
 message_353:
-    text: \n<MR. SCARETHROW>Hmph...\! Words just mean nothing to you, I see.
+    text: \n<PAN STRACHORZUT>Hmf...\! Słowa nic dla ciebie nie znaczą, rozumiem.
 
 message_354:
-    text: \n<MR. SCARETHROW>Sigh...\! I remember when people used to listen to me...\!<br>Y'know... back in high school, everyone used to make fun of me for having no legs.
+    text: \n<PAN STRACHORZUT>Ech...\! Pamiętam czasy, gdy ludzie mnie słuchali...\!<br>Wiesz... w liceum wszyscy śmieli się z tego, że nie mam nóg.
 
 message_355:
-    text: \n<MR. SCARETHROW>They'd say things like...\!<br>"Oh look! It's SCARETHROW, standing in the same spot like he always does!\! Let's use him for target practice!"
+    text: \n<PAN STRACHORZUT>Mówili rzeczy typu...\!<br>"O, patrzcie! To STRACHORZUT, jak zawszestoi w tym samym miejscu!\! Poćwiczmy na nim celność!"
 
 message_356:
-    text: \n<MR. SCARETHROW>\sinv[1]Ohoooooo...\sinv[0]\! Kids are so mean... Like really, really horrible...
+    text: \n<PAN STRACHORZUT>\sinv[1]Ohoooooo...\sinv[0]\! Dzieci są takie niemiłe... Bardzo, bardzo okropne...
 
 message_357:
-    text: \n<MR. SCARETHROW>Heh heh...\! You're just throwing balls at me!\!<br>What do I even have to complain about?\!<br>This is nothing compared to what I used to go through.
+    text: \n<PAN STRACHORZUT>He he...\! Rzucacie we mnie piłkami!\!<br>Na co miałbym narzekać?\!<br>To nic w porównaniu do tego, przez co przechodziłem.
 
 message_358:
-    text: \n<MR. SCARETHROW>It always starts small, y'know?\! First, it was \c[5]RUBBER BANDS\c[0]... then \c[13]RUBBER BALLS\c[0]...\! I remember once a kid even threw a desk at me.
+    text: \n<PAN STRACHORZUT>Zawsze zaczyna się od małych rzeczy, wiecie?\! Najpierw \c[5]RECEPTURKI\c[0]... potem \c[13]PIŁECZKI KAŁCZUKOWE\c[0]...\! Pamiętam, jak kiedyś jakiś dzieciak rzucił we mnie stolikiem.
 
 message_359:
-    text: \n<MR. SCARETHROW>Yeah...\! That's right...\! I took an entire desk head-on!\! I used to tell myself... if I could survive that, I could survive anything!
+    text: \n<PAN STRACHORZUT>Ta...\! Dokładnie...\! Przyjąłem stolik na klatę!\! Mówiłem sobie... że jeśli przeżyłem to, to przeżyję wszystko!
 
 message_360:
-    text: \n<MR. SCARETHROW>Now, see...\! If I had hands... we could play catch.
+    text: \n<PAN STRACHORZUT>Teraz popatrzcie...\! Gdybym miał dłonie... moglibyśmy zagrać w rzucankę.
 
 message_361:
-    text: \n<MR. SCARETHROW>Here, throw me the ball.\! I'll try to catch it.
+    text: \n<PAN STRACHORZUT>Dalej, podaj mi piłkę.\! Postaram się ją złapać.
 
 message_362:
-    text: \n<MR. SCARETHROW>Darn...\! I guess it slipped right through my fingers...\! Haha...\! <br>Don't worry...\! I'll get it next time.
+    text: \n<PAN STRACHORZUT>Kurczę...\! Przeleciała mi przez palce...\! Haha...\! <br>Nie bój nic...\! Złapię następnym razem.
 
 message_363:
-    text: \n<MR. SCARETHROW>Oh! I almost had that one!\! I was really close... Did you see?\!<br>Come on... Try it again.
+    text: \n<PAN STRACHORZUT>O! Prawie miałem!\! Było blisko... Widziałeś?\!<br>No dalej... Spróbuj jeszcze raz.
 
 message_364:
-    text: \n<MR. SCARETHROW>Haha...\! Ah, man... Good times...
+    text: \n<PAN STRACHORZUT>Haha...\! Ach, rany... Dobre czasy...
 
 message_365:
-    text: \n<MR. SCARETHROW>Could it be... that I don't have real arms either?\! I wonder...
+    text: \n<PAN STRACHORZUT>Czy... nie mam też normalnych rąk?\! Ciekawe...
 
 message_366:
-    text: \n<MR. SCARETHROW>Sigh...\! I wish I could move...
+    text: \n<PAN STRACHORZUT>Ech...\! Chciałbym móc się ruszać...
 
 message_367:
-    text: \n<MR. SCARETHROW>I could travel the world...\! settle down with someone I love...\! start a family...
+    text: \n<PAN STRACHORZUT>Mógłbym podróżować po świecie...\! zamieszkać z kimś, kogo kocham...\! założyć rodzinę...
 
 message_368:
-    text: \n<MR. SCARETHROW>No...\! It's dangerous to dream so recklessly.\!<br>Why must I be stuck here?\!<br>Am I not allowed to have anything nice?
+    text: \n<PAN STRACHORZUT>Nie...\! Niebezpiecznie jest tak nierozważnie marzyć.\!<br>Czemu muszę tu tkwić?\!<br>Czy nie zasługuję na przyjemności?
 
 message_369:
-    text: \n<MR. SCARETHROW>Why is fate so cruel? What did I do wrong?\!<br>It's not fair...\! I hate this...
+    text: \n<PAN STRACHORZUT>Czemu mój los jest tak okrutny? Gdzie popełniłem błąd?\!<br>To nieuczciwe...\! Nie cierpię tego...
 
 message_370:
-    text: \n<MR. SCARETHROW>Ah... What's this feeling?\! I think I'm crying.\! Am I crying?\!<br>I don't have tear ducts so I can't tell.\!<br>Sigh...\! Just forget I said any of this, okay?
+    text: \n<PAN STRACHORZUT>Ach... Co to za uczucie?\! Chyba płaczę.\! Płaczę?\!<br>Nie mam kanalików łzowych, więc nie wiem.\!<br>Ech...\! Zapomnijcie, że cokolwiek mówiłem, dobrze?
 
 message_371:
-    text: \n<MR. SCARETHROW>They call me SCARETHROW.\! I am stuck in the ground.\!<br>Throw things at me...\! and hear a strange sound!
+    text: \n<PAN STRACHORZUT>Mówią na mnie STRACHORZUT.\! Nie mogę się stąd ruszyć.\!<br>Rzuć we mnie czymś...\! a usłyszysz dziwny dźwięk!
 
 # -----------------------------------------------
 # - JUNKYARD VI (147)
@@ -483,13 +483,13 @@ message_371:
 #COUCH
 
 message_154:
-    text: This feels like a good place to relax.\!<br>Would you like to take a break?
+    text: Wygląda jak miejsce dobre na odpoczynek.\!<br>Czy chciałbyś odpocząć?
 
 message_155:
-    text: Is it time to go already?
+    text: Czy czas już iść?
 
 message_156:
-    text: Just a little longer...
+    text: Jeszcze małą chwilę...
 
 # -----------------------------------------------
 # - JUNKYARD VIII (149)
@@ -498,26 +498,26 @@ message_156:
 #KEY MAGNET, AUBREY SMASH
 
 message_178:
-    text: An electric field is preventing you from getting any closer.
+    text: Pole magnetyczne nie pozwala ci się zbliżyć.
 
-#ROSA
+#RÓŻA
 
 message_341:
-    text: \n<???>Okay...?\! That was weird...
+    text: \n<???>Okej...?\! To było dziwne...
 
 # -----------------------------------------------
 # - JUNKYARD IX (150)
 # -----------------------------------------------
 
-#ROSA
+#RÓŻA
 
 message_506:
-    text: \n<ROSA>You'll never catch me, stick legs!
+    text: \n<RÓŻA>Nigdy mnie nie złapiecie, guzdrały!
 
 message_342:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: Hurry, OMORI! After her!<br>We need that \c[4]SPECIAL MIXTAPE\c[0]!\kel
+    text: Prędko, OMORI! Za nią!<br>Potrzebujemy tej \c[4]SUPER-SKŁADANKI\c[0]!\kel
 
 # -----------------------------------------------
 # - PYREFLY FOREST (156, 158, 160)
@@ -526,71 +526,71 @@ message_342:
 #EMPTY TRACK SPACES
 
 message_51:
-    text: The railroad track is missing a segment.
+    text: Brakuje odcinka torów.
 
 message_52:
-    text: Do you want to set down a \c[4]WOODEN TRACK\c[0] here?
+    text: Czy chcesz położyć tu \c[4]DESKĘ\c[0]?
 
 #ITEM
 
 message_344:
-    text: You got a \c[4]MATCHBOX\c[0].
+    text: Zdobywasz \c[4]ZAPAŁKI\c[0].
 
 message_625:
-    text: You got a \c[4]WOODEN TRACK\c[0].
+    text: Otrzymujesz \c[4]DESKĘ\c[0].
 
 #CANDLE
 
 message_623:
-    text: You need a \c[4]MATCHBOX\c[0] to light this candle.
+    text: Potrzebujesz \c[4]ZAPAŁEK\c[0], by zapalić tę świeczkę.
 
 # -----------------------------------------------
 # - PYREFLY: WILLOW (153)
 # -----------------------------------------------
 
 message_157:
-    text: MOON JOKE
+    text: ŻART O KSIĘŻYCU
 
 message_158:
-    text: SCARECROW JOKE
+    text: ŻART O STRACHU NA WRÓBLE
 
 message_159:
-    text: BICYCLE JOKE
+    text: ŻART O ROWERZE
 
 message_160:
-    text: PENGUIN JOKE
+    text: ŻART O PINGWINIE
 
 message_161:
-    text: CHEESE JOKE
+    text: ŻART O SERZE
 
 message_162:
-    text: OCEAN JOKE
+    text: ŻART O MORZU
 
 message_163:
-    text: CONSTRUCTION JOKE
+    text: ŻART O BUDOWIE
 
 # -----------------------------------------------
 
 message_188:
-    text: The surface of the water is shimmering.
+    text: Powierzchnia wody migocze.
 
 message_189:
-    text: Do you want to throw 10 CLAMS into the lake?\$
+    text: Czy chcesz wrzucić 10 MAŁŻY do jeziora?\$
 
 message_190:
-    text: You don't have any CLAMS.
+    text: Nie masz żadnych MAŁŻY.
 
 message_191:
     text: ...
 
 message_192:
-    text: There's an empty \c[4]JOKE BOOK\c[0] here.\! Pick it up?
+    text: Leży tu pusta \c[4]KSIĘGA ŻARTÓW\c[0].\! Podnieść?
 
 message_193:
-    text: It's always good to have some jokes on hand.\!<br>If only you had a \c[4]JOKE BOOK\c[0] to write them down in...
+    text: Zawsze dobrze jest mieć parę żartów pod ręką.\!<br>Gdybyś tylko miał \c[4]KSIĘGĘ ŻARTÓW\c[0], w której mógłbyś je spisać...
 
 message_194:
-    text: Egg-cellent!\!<br>You recorded the joke in your \c[4]JOKE BOOK\c[0].
+    text: RozbraJAJOnco!\!<br>Zapisałeś żart w swojej \c[4]KSIĘDZE ŻARTÓW\c[0].
 
 # -----------------------------------------------
 # - PYREFLY: VIII (160)
@@ -601,27 +601,27 @@ message_194:
 message_507:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: What the heck is this thing!?\!<br>It's... kind of slimy...\! and smells like bad apples. \kel
+      text: Co to, kuźwa, jest!?\!<br>Jest... trochę lepkie...\! i wali zgniłym jabłkiem. \kel
 
 message_508:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: There's more forest on the other side of this lump.<br>\!Come on, AUBREY! Smash this thing to smithereens!\kel
+      text: W dalszej części kupki ciągnie się las.<br>\!No dalej, AUBREY! Rozwal to w drobny mak!\kel
 
 message_509:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Oh? What's this? You're asking me for help, KEL?\! How rare!\aub
+      text: O? A co to? Prosisz mnie o pomoc, KEL?\! Niespotykane!\aub
 
 message_510:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Step aside! I'll show you all how it's done!\aub
+      text: Odsuńcie się! Pokażę wam, jak to się robi!\aub
 
 message_511:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \Com[2]I'm gonna give this strange lump all I've got!\aub
+      text: \Com[2]Pokażę tej kupce, na co mnie stać!\aub
 
 #special charge up AUBREY SMASH + screen shake, but it does not budge
 #pause
@@ -639,12 +639,12 @@ message_513:
 message_514:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelWell...\! this is embarrassing.\!<br>I guess we should find another way past this thing.
+      text: \kelNo...\! to klops.\!<br>Chyba powinniśmy znaleźć inny sposób, by obejść to coś.
 
 message_630:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: Yes...\! Let's do that...\aub
+      text: Tak...\! Racja...\aub
 
 # -----------------------------------------------
 # - PYREFLY: IX (161)
@@ -653,17 +653,17 @@ message_630:
 message_800:
       faceset: MainCharacters_DreamWorld
       faceindex: 7
-      text: \com[2]Where are you going, OMORI!?\! Please don't leave me here...\aub
+      text: \com[2]Gdzie się wybierasz, OMORI!?\! Proszę, nie zostawiaj mnie tutaj...\aub
 
 message_515:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: Uh... OMORI?\! I think you're forgetting somebody...\kel
+      text: Eee... OMORI?\! Chyba o kimś zapomniałeś...\kel
 
 message_516:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: OMORI...\! I could... probably use a little help here...\her
+      text: OMORI...\! Przydałaby mi się... mała pomoc...\her
 
 # -----------------------------------------------
 # - SWEETHEART'S CASTLE: DUNGEON F1 (182)
@@ -672,27 +672,27 @@ message_516:
 #Skeleton
 
 message_380:
-    text: \n<BONES>I've been stuck down here so long, I feel like I can barely move a muscle...
+    text: \n<KOŚCIU>Tkwię tu już tak długo, że ledwo co mogę drgnąć...
 
 message_381:
-    text: \n<BONES>...\! Eh?\! What's that face for?
+    text: \n<KOŚCIU>...\! E?\! Co to za mina?
 
-#Contestant moles
+#UCZESTNIK TELETURNIEJU moles
 
 message_395:
-    text: \n<CONTESTANT>Oh, no! What are we going to do!?\!<br>No one ever escapes \c[11]THE DUNGEON\C[0]!
+    text: \n<UCZESTNIK TELETURNIEJU>O nie! Co teraz zrobimy!?\!<br>Z \c[11]LOCHÓW\C[0] nie da się wydostać!
 
 #Mole closest to door
 
 message_517:
-    text: \n<PINK? MOLE>\com[2]\sinv[1]\{\{HEEEEEEEEEEEEEEEEEEELP US!!
+    text: \n<RÓŻOWY? KIEŁKUN>\com[2]\sinv[1]\{\{POMOOOOOOOOOOOOOOOOOOOOOOOOOOOCY!!
 
 # -----------------------------------------------
 # - SWEETHEART'S CASTLE: TORTURE ROOM (184)
 # -----------------------------------------------
 
 message_518:
-    text: \n<BUTLER MOLE>I have made a grave mistake and will now suffer the consequences.
+    text: \n<KIEŁKUN KAMERDYNER>Popełniłem śmiertelny błąd i teraz poniosę jego konsekwencje.
 
 # -----------------------------------------------
 # - SWEETHEART'S CASTLE: FOYER (172)
@@ -703,28 +703,28 @@ message_518:
 message_519:
     faceset: MainCharacters_DreamWorld
     faceindex: 31
-    text: \kelAww, geez...\! Look at the size of this crowd!
+    text: \kelJacie...\! Spójrzcie, jak wielki jest ten tłum!
 
 message_520:
     faceset: MainCharacters_DreamWorld
     faceindex: 4
-    text: \aubWe'll never get through at this rate!\! Let's look around for another exit...
+    text: \aubW tym tempie nigdy się nie przedostaniemy!\! Poszukajmy innego wyjścia...
 
 message_852:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \herHmmm... Maybe the crowd will die down eventually...\! We should check back here later.
+    text: \herHmmm... Może niedługo tłum się rozproszy...\! Powinniśmy sprawdzić to później.
 
 #'MAXIMUS'
 
 message_244:
-    text: \n<SIR MAXIMUS>Stop, imposters!<br>I know what you are... and you are not SPROUT MOLES!\!<br>Hmhm! You must be wondering how I am able to tell...<br>You see... I am above those feeble and inexperienced HAROLDs and MARSHAs!<br><br>I am SIR MAXIMUS... and with my impressive lineage, I will be victorious and bring honor to my family!
+    text: \n<RYCERZ MAKSYM>Stać, impostorzy!<br>Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!\!<br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br>Wiecie... jestem lepszy niż ci słabi, niedoświadczeni HAROLDZI i MARCJE!<br><br>Jam jest RYCERZ MAKSYM... a mój wspaniały rodowód przyniesie mi zwycięstwo i chwałę dla rodziny!
 
 message_245:
-    text: \n<SIR MAXIMUS II>Stop, imposters! I know what you are... and you are not SPROUT MOLES!<br><br>Hmhm! You must be wondering how I am able to tell...<br>\!You see... I am the son of the fabled warrior of legend,<br>SIR MAXIMUS...<br>You may have bested my father, but I am stronger than he!\! With my impressive lineage and my father by my side, I will be victorious!
+    text: \n<RYCERZ MAKSYM II>Stać, impostorzy! Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!<br><br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br>\!Wiecie... jestem synem legendarnego wojownika,<br>RYCERZA MAKSYMA...<br>Może udało wam się pokonać mojego ojca, ale jestem od niego silniejszy!\! Dzięki mojemu wspaniałemu rodowodowi oraz ojcu po mojej stronie, osiągnę zwycięstwo!
 
 message_246:
-    text: \n<SIR MAXIMUS III>Stop, imposters! I know what you are... and you are not SPROUT MOLES!<br><br>Hmhm! You must be wondering how I am able to tell...<br>\!You see... I am the son of the fabled warrior of legend,<br>SIR MAXIMUS II and grandson of SIR MAXIMUS...<br>You may have bested my father and grandfather, but that has only fueled my rage and thirst for vengeance!<br><br>With my impressive lineage and my father and grandfather by my side, I will be victorious and avenge my family!
+    text: \n<RYCERZ MAKSYM III>Stać, impostorzy! Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!<br><br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br>\!Wiecie... jestem synem legendarnego wojownika,<br>RYCERZA MAKSYMA II oraz wnuczkiem RYCERZA MAKSYMA...<br>Może udało wam się pokonać mojego ojca i dziadka, lecz to jedynie podsyciło mój gniew i żądzę zemsty!<br><br>Dzięki mojemu wspaniałemu rodowodowi oraz ojcu i dziadku po mojej stronie, osiągnę zwycięstwo i pomszczę moich przodków!
 
 
 # -----------------------------------------------
@@ -732,10 +732,10 @@ message_246:
 # -----------------------------------------------
 
 message_522:
-    text: This statue is made of the crystallized tears of SWEETHEART's enemies.
+    text: Posąg wykonany jest z skrystalizowanych łez wrogów SŁODZIUTKIEJ.
 
 message_391:
-    text: You have become art.
+    text: Stałeś się sztuką.
 
 # -----------------------------------------------
 # - SWEETHEART'S CASTLE: SERVANT'S QUARTER (180)
@@ -744,181 +744,181 @@ message_391:
 #Bottom left room
 
 message_523:
-    text: The SPROUT MOLE gazes wistfully at SWEETHEART's portrait.
+    text: Zadumany KIEŁKUN wpatruje się w portret SŁODZIUTKIEJ.
 
 message_524:
-    text: \n<BUTLER MOLE>I wish she would hang me up on the wall too.
+    text: \n<KIEŁKUN KAMERDYNDER>Chciałbym, żeby też powiesiła mnie na ścianie.
 
 #Bottom right room 1
 
 message_525:
-    text: \n<BUTLER MOLE>Sors de ma chambre ou j'appellerai les flics!
+    text: \n<KIEŁKUN KAMERDYNDER>Sors de ma chambre ou j'appellerai les flics!
 
 message_526:
-    text: \n<MAID MOLE>Oh, Francois!\! I can't understand a single word you're saying, but you're so dreamy!
+    text: \n<KIEŁKUNKA POKOJÓWKA>Och, Francois!\! Nie rozumiem ani słowa, ale jesteś jak ze snu!
 
 #Bottom right room 2
 
 message_527:
-    text: \n<SPROUT MOLE>Dangit...\! How did I end up in this mess?
+    text: \n<KIEŁKUN>Kurka...\! Jak ja wpakowałem się w to bagno?
 
 message_528:
-    text: \n<SPROUT MOLE>A scary looking SPROUT MOLE named MARSHA suddenly pulled me from my home and said I was going to replace some faulty staff here.
+    text: \n<KIEŁKUN>Straszny KIEŁKUN o imieniu MARCJA nagle wyciągnął mnie z domu i powiedział, że mam być tu na wymianę jakiegoś niesprawnego personelu.
 
 message_529:
-    text: \n<SPROUT MOLE>Apparently the last guy got thrown into \c[11]THE DUNGEON\C[0] for treason...\! The turnover rate here must be horrible.
+    text: \n<KIEŁKUN>Podobno ostatni koleś został wrzucony do \c[11]LOCHÓW\C[0] za zdradę...\! Rotacja pracowników musi być tu straszna.
 
 #Top left room 1
 
 message_530:
-    text: \n<BUTLER MOLE>\com[2]Don't kid yourself, cretin!<br>I'm going to be the one to marry SWEETHEART!
+    text: \n<KIEŁKUN KAMERDYNDER>\com[2]Nie oszukuj się, kretynie!<br>To ja ożenię się ze SŁODZIUTKĄ!
 
 message_531:
-    text: \n<BUTLER MOLE>\com[2]You spout delusions, twin brother!\!<br>Is it I who is going to marry SWEETHEART!
+    text: \n<KIEŁKUN KAMERDYNDER>\com[2]Masz urojenia, bracie!\!<br>Ja ożenię się ze SŁODZIUTKĄ!
 
 message_532:
-    text: \n<BUTLER MOLE>Oh, please! This will be no contest!\! When it comes to the two of us, I am by far the more dashing!
+    text: \n<KIEŁKUN KAMERDYNDER>O, proszę! Nie urządzajmy zawodów!\! Porównując nas obu, jestem o wiele bardziej stylowy!
 
 message_533:
-    text: \n<BUTLER MOLE>Don't be foolish, brother! We look exactly the same!\! I just know that SWEETHEART is going to fall for... my personality!
+    text: \n<KIEŁKUN KAMERDYNDER>Nie bądź głupcem, bracie! Wyglądamy identycznie!\! Jestem pewien, że SŁODZIUTKĄ urzeknie... moja osobowość!
 
 message_534:
-    text: \n<BUTLER MOLE>Tsk, tsk, tsk... Nonsense, brother!\! When the time is ripe, she will fall head over heels over my \sinv[1]fashoooonable\sinv[0] new mustache!
+    text: \n<KIEŁKUN KAMERDYNDER>Tsk, tsk, tsk... Nonsens, bracie!\! Kiedy nadejdzie czas, zakocha się do szaleństwa w moich \sinv[1]elegaaaaanckich\sinv[0], nowych wąsach!
 
 message_535:
-    text: \n<BUTLER MOLE>Hmph! A \sinv[1]fashoooonable\sinv[0] mustache, you say!?<br>\!What mustache!?\! All I see are a pair of nose hairs!
+    text: \n<KIEŁKUN KAMERDYNDER>Hmf! \sinv[1]Elegaaaaanckie\sinv[0] wąsy, powiadasz!?<br>\!Jakie wąsy!?\! Widzę tylko parę długich włochów z nosa!
 
 message_536:
-    text: \n<BUTLER MOLE>Dear brother...\! \com[2]You're really getting on my last stem!\!<br>But I know how to settle this!
+    text: \n<KIEŁKUN KAMERDYNDER>Kochany bracie...\! \com[2]Działasz mi na łodyżki!\!<br>Lecz wiem jak to rozwikłać!
 
 message_537:
-    text: \n<BUTLER MOLES>\{\{FELLOW SPROUT MOLES!!
+    text: \n<KIEŁKUN KAMERDYNDERS>\{\{TOWARZYSZE KIEŁKUNI!!
 
 message_660:
-    text: \n<BUTLER MOLES>\{\{STRANGE CREATURES!!
+    text: \n<KIEŁKUN KAMERDYNDERS>\{\{DZIWNE STWORZENIA!!
 
 message_538:
-    text: \n<BUTLER MOLES>Which one of us do you think is a better match for SWEETHEART!?
+    text: \n<KIEŁKUN KAMERDYNDERS>Jak myślicie, który z nas byłby lepszym kandydatem dla SŁODZIUTKIEJ!?
 
 message_539:
-    text: \n<BUTLER MOLE>Ha! What did I tell you!?\!<br>I'm going to go ask SWEETHEART to marry me right now!
+    text: \n<KIEŁKUN KAMERDYNDER>Ha! Co ci mówiłem!?\!<br>W tej chwili idę poprosić SŁODZIUTKĄ o rękę!
 
 message_540:
-    text: \n<BUTLER MOLE>\com[2]I don't believe this nonsense!
+    text: \n<KIEŁKUN KAMERDYNDER>\com[2]Nie wierzę w ten nonsens!
 
 message_541:
-    text: \n<BUTLER MOLE>Ha! As expected!\!<br>I'm going to go ask SWEETHEART to marry me right now!
+    text: \n<KIEŁKUN KAMERDYNDER>Ha! Tak myślałem!\!<br>W tej chwili idę poprosić SŁODZIUTKĄ o rękę!
 
 message_542:
-    text: \n<BUTLER MOLE>I don't believe this nonsense!
+    text: \n<KIEŁKUN KAMERDYNDER>Nie wierzę w ten nonsens!
 
 message_543:
-    text: \n<BUTLER MOLE>Oh, woe is me!\!<br>I mourn for my lost brother.
+    text: \n<KIEŁKUN KAMERDYNDER>O, biada mi!\!<br>Opłakuje mojego zmarłego brata.
 
 message_544:
-    text: \n<BUTLER MOLE>With his looks...<br>I already know it'll be off to \c[11]THE DUNGEON\C[0] with him.
+    text: \n<KIEŁKUN KAMERDYNDER>Po jego wyglądzie...<br>można stwierdzić, że zabierają go do \c[11]LOCHÓW\C[0].
 
 message_545:
-    text: \n<BUTLER MOLE>Just like our late third brother...
+    text: \n<KIEŁKUN KAMERDYNDER>Podobnie jak nasz trzeci brat nieboszczyk...
 
 message_546:
-    text: \n<BUTLER MOLE>I can't believe my plan worked!\! Now I can finally get this room all to myself...
+    text: \n<KIEŁKUN KAMERDYNDER>Nie wierzę, że mój plan się powiódł!\! Teraz w końcu mogę mieć cały pokój dla siebie...
 
 #Meditating mole
 
 message_547:
-    text: \n<MAID MOLE>\sinv[1]Hum... Clear your mind...\!<br>Hum... Harmonize with the universe...\!<br>Hum... Return to your natural state...
+    text: \n<KIEŁKUNKA POKOJÓWKA>\sinv[1]Mmm... Oczyść umysł...\!<br>Mmm... Połącz się z wszechświatem...\!<br>Mmm... Wróć do stanu pierwotnego...
 
 message_548:
-    text: \n<MAID MOLE>\sinv[1]Hum... Become...\! \c[3]TOFU\c[0] again...
+    text: \n<KIEŁKUNKA POKOJÓWKA>\sinv[1]Mmm... Ponownie...\! stań się \c[3]TOFU\c[0]...
 
 message_549:
-    text: \n<MAID MOLE>\com[2]Hey! Can't you see I'm trying to meditate here!?
+    text: \n<KIEŁKUNKA POKOJÓWKA>\com[2]Ej! Nie widzicie, że staram się medytować!?
 
 message_550:
-    text: \n<MAID MOLE>You bunch are so rude!
+    text: \n<KIEŁKUNKA POKOJÓWKA>Jesteście niewychowani!
 
 #Table moles
 
 message_551:
-    text: \n<BUTLER MOLE>SWEETHEART is so cool...\! I wish I could work here forever!
+    text: \n<KIEŁKUN KAMERDYNDER>SŁODZIUTKA jest taka fajna...\! Chciałbym pracować tutaj wiecznie!
 
 message_552:
-    text: \n<BUTLER MOLE>SWEETHEART is so scary!\! I wish I could go home...
+    text: \n<KIEŁKUN KAMERDYNDER>SŁODZIUTKA jest taka przerażająca!\! Chciałbym móc wrócić do domu...
 
 #Top left room 2
 
 message_553:
-    text: \n<BUTLER MOLE>It's so hard to sleep with those two in the other room!
+    text: \n<KIEŁKUN KAMERDYNDER>Z takimi sąsiadami ledwo co da się zasnąć!
 
 message_554:
-    text: \n<BUTLER MOLE>If only we had ceilings here...
+    text: \n<KIEŁKUN KAMERDYNDER>Gdyby tylko zamontowali tu sufit...
 
 message_555:
-    text: \n<BUTLER MOLE>\sinv[1]Snooooooooooooooooore...
+    text: \n<KIEŁKUN KAMERDYNDER>\sinv[1]Chrrrrrrrrrrrrr...
 
 #Top right room
 
 message_556:
-    text: \n<MAID MOLE>Dear diary...\! today...\! I...\! ...\! ...
+    text: \n<KIEŁKUNKA POKOJÓWKA>Kochany pamiętniku...\! dzisiaj...\! ja...\! ...\! ...
 
 message_557:
-    text: \n<MAID MOLE>Gee...\! What did I do today?
+    text: \n<KIEŁKUNKA POKOJÓWKA>Jeju...\! Co ja dzisiaj robiłam?
 
 # -----------------------------------------------
 # - SWEETHEART'S CASTLE: BEDROOM (186)
 # -----------------------------------------------
 
 message_558:
-    text: \n<CASTELLA>Huff...\! huff...\! huff...
+    text: \n<KREMÓWKA>Uff...\! uff...\! uff...
 
 message_901:
-    text: \n<CASTELLA>Gasp! What are you doing in here!?\! Common SPROUT MOLES aren't allowed in SWEETHEART's CHAMBERS... You know the rules!
+    text: \n<KREMÓWKA>Ach! Co tu robicie!?\! Zwyczajne KIEŁKUNY nie mają wstępu do KOMNAT SŁODZIUTKIEJ... Znacie zasady!
 
 message_902:
-    text: \n<CASTELLA>Ah...\! Wait a minute...\! Perhaps you will be able to help me.
+    text: \n<KREMÓWKA>Ach...\! Minutkę...\! Może będziecie w stanie mi pomóc.
 
 message_559:
-    text: \n<CASTELLA>SWEETHEART ordered me to move this statue out of her bedroom before she returns, but I can't get it to move at all!
+    text: \n<KREMÓWKA>SŁODZIUTKA rozkazała mi wynieść ten posąg z jej sypialni zanim wróci, ale ani drgnie!
 
 message_560:
-    text: \n<CASTELLA>If only this thing was suddenly and conveniently smashed into itty bitty pieces...
+    text: \n<KREMÓWKA>Gdyby tylko to coś zostało nagle przypadkiem roztrzaskane na kawałeczki...
 
 message_561:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelWell, ma'am...\! What it sounds like to me is... that you're in need of some destruction...\! and AUBREY here happens to be a destruction specialist!
+    text: \kelCóż, panienko...\! Wygląda mi to na... potrzebę destrukcji...\! a tak się zdaje, że AUBREY jest specjalistką od zniszczeń!
 
 message_903:
-    text: \n<CASTELLA>AUBREY?\! Well, that is a very strange name for a SPROUT MOLE...\! Then again, SWEETHEART has been running out of new names to give as of late.
+    text: \n<KREMÓWKA>AUBREY?\! To bardzo dziwne imię jak na KIEŁKUNA...\! Z drugiej strony SŁODZIUTKIEJ kończą się już imiona.
 
 message_562:
     faceset: MainCharacters_DreamWorld
     faceindex: 4
-    text: \aubWait, KEL...\! Isn't that a statue of CAPT. SPACEBOY?\!<br>I would feel bad destroying it.
+    text: \aubCzekaj, KEL...\! Czy to nie posąg KAPITANA KOSMIKA?\!<br>Czułabym się z tym źle.
 
 message_563:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelPsh... It's not like he's ever going to know!\! CAPT. SPACEBOY and SWEETHEART are a thing of the past...\! Live and let live, that's what I always say!
+    text: \kelPfft... Jakby miał się o tym w ogóle dowiedzieć!\! KAPITAN KOSMIK i SŁODZIUTKA to już przeszłość...\! Żyj i pozwól żyć, jak zawsze powtarzam!
 
 message_564:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aubYou don't always say that!\!<br>But fine... I guess I can give it a shot.
+    text: \aubNie mówisz tak zawsze!\!<br>Ale dobra... spróbuję.
 
 message_565:
-    text: \n<CASTELLA>I will stare at this statue and hope my psychic powers awaken in the meantime.
+    text: \n<KREMÓWKA>Będę wpatrywać się w ten posąg z nadzieją, że w międzyczasie przebudzą się moje moce psioniczne.
 
 message_566:
-    text: \n<CASTELLA>Phew... you're real lifesavers!\!<br>I should have known to just leave this task to the specialists!
+    text: \n<KREMÓWKA>Fiu... naprawdę uratowaliście mi życie!\!<br>Mogłam od razu zostawić to zadanie specjalistom!
 
 #AUBREY READYS
 
 message_635:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aubOkay...\! Here I go...\! This time...\! I won't fail!
+    text: \aubDobra...\! Lecimy...\! Tym razem...\! Nie zawiodę!
 
 #SBF STATUE CRUMBLES
 
@@ -933,136 +933,136 @@ message_567:
     text: \kel...
 
 message_569:
-    text: \n<CASTELLA>My word!\! You've done it!
+    text: \n<KREMÓWKA>Jejku!\! Udało ci się!
 
 message_570:
-    text: \n<CASTELLA>Well...\! Time to clean this up!
+    text: \n<KREMÓWKA>Więc...\! Czas posprzątać!
 
 message_308:
-    text: \n<CASTELLA>My, my... Well, this is a surprise!\!<br>Turns out all I had to do was lift it from the bottom!
+    text: \n<KREMÓWKA>Rany... Co za niespodzianka!\!<br>Okazuje się, że musiałam jedynie podnieść go od dołu!
 
 # -----------------------------------------------
 # - SWEETHEART'S CASTLE: THEATER (168)
 # -----------------------------------------------
 
 message_571:
-    text: \n<MOLE ON THE RUN>\}Shh...\! I'm not really here...\! ...\!<br>You didn't see anything.
+    text: \n<KIEŁKUN UCIEKINIER>\}Csiii...\! Nie ma mnie tu...\! ...\!<br>Nic nie widzieliście.
 
 # -----------------------------------------------
 # - SWEETHEART'S CASTLE: BALLROOM (178)
 # -----------------------------------------------
 
 message_572:
-    text: \n<VIRTUOSO MOLE>\com[2]No, no, no, no, no, no, no!\! This won't do at all!\!<br>You in center left! You call that singing!?\!<br>My cousin's plastic flamingo sings better than you!
+    text: \n<KIEŁKUN WIRTUOZ>\com[2]Nie, nie, nie, nie, nie, nie, nie!\! To się nie nadaje!\!<br>Ty w środku po lewej! Ty to nazywasz śpiewem!?\!<br>Plastikowy flaming mojego kuzyna już lepiej śpiewa!
 
 message_573:
-    text: \n<VIRTUOSO MOLE>And don't think I can't see you in the back row dozing off during the chorus!\! Pull yourselves together, or else SWEETHEART will have us thrown in \c[11]THE DUNGEON\C[0]!
+    text: \n<KIEŁKUN WIRTUOZ>I nie myśl sobie, że nie widzę cię drzemiącego podczas chórków tam w tylnym rzędzie!\! Zepnijcie łodygi, inaczej SŁODZIUTKA wtrąci nas do \c[11]LOCHU\C[0]!
 
 message_574:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \n<HERO>Huh...\! These SPROUT MOLES seem to have run into some trouble...\! I wonder if there's any way we can help.
+    text: \n<HERO>Ha...\! Ci KIEŁKUNI wpakowali się w kłopoty...\! Jestem ciekaw, czy możemy im jakoś pomóc.
 
 message_575:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\com[2]Hey, guys! Y'all need a hand?\!<br>We're professional helpers here, at your service!
+    text: \kel\com[2]Hej, koleszki! Potrzebujecie pomocnej dłoni?\!<br>Profesjonalni pomagacze, do waszych usług!
 
 message_576:
-    text: \n<VIRTUOSO MOLE>Oh, thank goodness! The professionals have arrived!
+    text: \n<KIEŁKUN WIRTUOZ>Och, dzięki bogu! Pojawili się profesjonaliści!
 
 message_577:
-    text: \n<VIRTUOSO MOLE>We absolutely must have the choir ready before SWEETHEART's main event, but there simply isn't enough time!
+    text: \n<KIEŁKUN WIRTUOZ>Koniecznie musimy przygotować chórek przed wystąpieniem SŁODZIUTKIEJ, ale nie mamy wystarczająco czasu!
 
 message_578:
-    text: \n<VIRTUOSO MOLE>You see... We SPROUT MOLES become very sleepy when listening to music...\! so as you can imagine, the choir keeps putting itself to sleep!
+    text: \n<KIEŁKUN WIRTUOZ>Zrozumcie... Nas, KIEŁKUNÓW, szybko usypia muzyka...\! więc jak możecie sobie wyobrazić, chórek ciągle kładzie się do snu!
 
 message_579:
-    text: \n<VIRTUOSO MOLE>Sigh... I'm afraid we may have to resort to...\!<br>\quake[1]alternative...\!\quake[0] methods to keep them all awake...
+    text: \n<KIEŁKUN WIRTUOZ>Ech... Obawiam się, że będziemy musieli powołać się na...\!<br>\quake[1]alternatywne...\!\quake[0] sposoby, które nie pozwolą im wszystkim zasnąć...
 
 message_580:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelI see!\! Not to fear, dear fellow SPROUT MOLE!<br>\!I know...\! \quake[1]exactly...\quake[0]\! what you're talking about!
+    text: \kelCzaję!\! Nie bój nic, kochany towarzyszu KIEŁKUNIE!<br>\!Wiem...\! \quake[1]dokładnie...\quake[0]\! o czym mowa!
 
 message_900:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \herY-You...\! You do?
+    text: \herW-wiesz...?
 
 message_581:
-    text: \n<VIRTUOSO MOLE>Thank goodness, we're saved!<br>\!I should have expected as such from professionals.
+    text: \n<KIEŁKUN WIRTUOZ>Dzięki bogu, jesteśmy uratowani!<br>\!Mogłem spodziewać się czegoś takiego po profesjonalistach.
 
 message_640:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelI'll handle this, good sir. You can trust me!
+    text: \kelZałatwię to, proszę pana. Może mi pan zaufać!
 
 message_582:
     faceset: MainCharacters_DreamWorld
     faceindex: 16
-    text: \kelMR. VIRTUOSO MOLE, sir...\! I'm all ready to go.
+    text: \kelPANIE KIEŁKUNIE WIRTUOZIE...\! Jestem zwarty i gotowy.
 
 message_583:
-    text: \n<VIRTUOSO MOLE>Thank you, gracious professional!\!<br>We are in your debt.
+    text: \n<KIEŁKUN WIRTUOZ>Dzięki ci, miłosierny profesjonalisto!\!<br>Mamy u ciebie dług.
 
 message_584:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelThis will be a piece of cake.\! Just TAG me in!\! I know \quake[1]exactly...\quake[0]\! what to do.
+    text: \kelTo będzie bułka z masłem.\! Po prostu mnie ZACZEP!\! Wiem \quake[1]dokładnie...\quake[0]\! co zrobić.
 
 message_585:
-    text: \n<VIRTUOSO MOLE>\Com[2]Yes, yes, yes, yes, yes, yes! Splendid work!\! With your help, the main event will surely be most glorious!
+    text: \n<KIEŁKUN WIRTUOZ>\Com[2]Tak, tak, tak, tak, tak, tak! Wspaniała robota!\! Z waszą pomocą główny występ z pewnością będzie najcudowniejszy!
 
 message_586:
-    text: \n<VIRTUOSO MOLE>Excuse me, professional...\! If I may... it seems like you barely did anything...
+    text: \n<KIEŁKUN WIRTUOZ>Wybacz, profesjonalisto...\! Jeśli mogę... wygląda na to, że nie zrobiłeś nic szczególnego...
 
 message_587:
-    text: \n<VIRTUOSO MOLE>Oh... It's not working...\! This situation may be hopeless...
+    text: \n<KIEŁKUN WIRTUOZ>Och... Nie działa...\! Chyba nic na to nie poradzimy...
 
 message_588:
-    text: \n<VIRTUOSO MOLE>Ah, I am sensing improvement already!
+    text: \n<KIEŁKUN WIRTUOZ>Ach, dostrzegam poprawę!
 
 message_589:
-    text: \n<VIRTUOSO MOLE>But... I wonder if we can do better!\!<br>Do you want to try again, professional?
+    text: \n<KIEŁKUN WIRTUOZ>Lecz... jestem ciekaw, czy może być lepiej!\!<br>Czy chcesz spróbować ponownie, profesjonalisto?
 
 message_590:
-    text: \n<VIRTUOSO MOLE>Ah, it looks like it's almost time for the event!
+    text: \n<KIEŁKUN WIRTUOZ>Ach, już prawie czas na wystąpienie!
 
 message_591:
-    text: \n<VIRTUOSO MOLE>This means we only have enough time for one more session.\! Do you want to give us one last shot?
+    text: \n<KIEŁKUN WIRTUOZ>To znaczy, że zostało nam czasu na tylko jedną sesję.\! Czy chcesz dać nam ostatnią szansę?
 
 message_592:
-    text: \n<VIRTUOSO MOLE>I believe in you, professional!\! Whip us into shape!
+    text: \n<KIEŁKUN WIRTUOZ>Wierzę w ciebie, profesjonalisto!\! Ustaw nas do porządku!
 
 message_593:
-    text: \n<VIRTUOSO MOLE>Thank you for your time.\!<br>We will try to make do with what we have.
+    text: \n<KIEŁKUN WIRTUOZ>Dziękuję za poświęcony czas.\!<br>Postaramy się poradzić sobie z tym, co mamy.
 
-#DANCING MOLES
+#TAŃCZĄCY KIEŁKUNS
 
 message_373:
-    text: \n<DANCING MOLE>Sigh...\! I want to dance too, but no one will be my partner...
+    text: \n<TAŃCZĄCY KIEŁKUN>Ech...\! Też chcę zatańczyć, ale nikt nie chce zostać moim partnerem...
 
 message_374:
-    text: \n<DANCING MOLE>...\! Will one of you dance with me?
+    text: \n<TAŃCZĄCY KIEŁKUN>...\! Czy ktoś z was ze mną zatańczy?
 
 message_375:
-    text: \n<DANCING MOLE>Okay! I won't disappoint you!
+    text: \n<TAŃCZĄCY KIEŁKUN>Dobrze! Nie zawiodę cię!
 
 message_376:
-    text: \n<DANCING MOLE>That was so much fun...\! Ah...\! What is this feeling?\!<br>My heart is racing so fast...
+    text: \n<TAŃCZĄCY KIEŁKUN>Było tak fajnie...\! Ach...\! Co to za uczucie?\!<br>Moje serce bije jak szalone...
 
 message_377:
-    text: \n<DANCING MOLE>Thanks, hehe...
+    text: \n<TAŃCZĄCY KIEŁKUN>Dzięki, hehe...
 
 message_378:
-    text: \n<DANCING MOLE>Do you want to dance with me again?
+    text: \n<TAŃCZĄCY KIEŁKUN>Czy chcesz jeszcze raz ze mną zatańczyć?
 
 message_379:
-    text: \n<DANCING MOLE>Yay...
+    text: \n<TAŃCZĄCY KIEŁKUN>Jej...
 
 message_799:
-    text: \n<DANCING MOLE>Sigh...\! What did I do to deserve this loneliness?
+    text: \n<TAŃCZĄCY KIEŁKUN>Ech...\! Czym zasłużyłem sobie na tę samotność?
 
 
 
@@ -1075,209 +1075,209 @@ message_799:
 message_594:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\sinv[1]Woo-hoo! We're finally out of SWEETHEART's castle!\!\sinv[0]<br>I wonder what's up with that big event everyone is preparing for...
+    text: \kel\sinv[1]Łuhu! W końcu wydostaliśmy się z zamku SŁODZIUTKIEJ!\!\sinv[0]<br>Ciekawe o co chodzi z tym wielkim wydarzeniem, na który wszyscy się szykują...
 
 message_595:
     faceset: MainCharacters_DreamWorld
     faceindex: 4
-    text: \aubStrange... I don't see the SPROUT MOLES from the entrance anywhere.\! Where could they have all gone?
+    text: \aubDziwne... Nigdzie nie widzę KIEŁKUNÓW, które stały przy wejściu.\! Gdzie mogły się podziać?
 
 message_596:
     faceset: MainCharacters_DreamWorld
     faceindex: 39
-    text: \n<HERO>There must be a hidden exit somewhere!\! Let's poke around at anything that looks suspicious.
+    text: \n<HERO>Gdzieś tu musi być ukryte wyjście!\! Przyjrzyjmy się wszystkiemu, co wygląda podejrzanie.
 
 #Second Cutscene (Statue Laser)
 
 message_309:
     faceset: MainCharacters_DreamWorld
     faceindex: 31
-    text: \kel\{\{\quake[1]YEOWCH!! THAT HURT!!\}\}
+    text: \kel\{\{\quake[1]AUĆ!! TO BOLAŁO!!\}\}
 
 message_310:
     faceset: MainCharacters_DreamWorld
     faceindex: 7
-    text: \aubIs everyone okay!?\! What happened!?
+    text: \aubCzy wszyscy są cali!?\! Co się stało!?
 
 message_650:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: \kelUgh...\! That SWEETHEART topiary just fired a laser at us!
+    text: \kelUch...\! Ten krzak SŁODZIUTKIEJ właśnie strzelił w nas laserem!
 
 message_311:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \n<HERO>Hmm...\! There's just gotta be a way to get rid of these guys...
+    text: \n<HERO>Hmm...\! Musi być jakiś sposób na pozbycie się tych gości...
 
 #Third Cutscene (Throw Platform)
 
 message_312:
     faceset: MainCharacters_DreamWorld
     faceindex: 25
-    text: \kelAlright, SWEETHEART... You asked for this!
+    text: \kelDobra, SŁODZIUTKA... Sama się o to prosiłaś!
 
 message_313:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: \kel\com[2]\{\{\sinv[1]HI-YAHHHH!!
+    text: \kel\com[2]\{\{\sinv[1]HA-JAAAAA!!
 
 message_314:
     faceset: MainCharacters_DreamWorld
     faceindex: 24
-    text: \kel...\! Dang... I missed.
+    text: \kel...\! Kurczę... Nie trafiłem.
 
 message_315:
     faceset: MainCharacters_DreamWorld
     faceindex: 14
-    text: \aubOh, silly KEL!\! You're not going to knock out anything throwing like that!
+    text: \aubOj, głupiutki KEL!\! Takim ciosem niczego nie powalisz!
 
 message_316:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubWhy don't you try aiming for once?
+    text: \aubDlaczego choć raz nie spróbujesz wycelować?
 
 message_317:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelHuh?\! Aim?\! I can do that?
+    text: \kelHa?\! Celować?\! To tak można?
 
 message_318:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubOf course!\! Even you can aim, KEL!
+    text: \aubOczywiście!\! Możesz, KEL!
 
 message_319:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kelAlright! I'll give it my best shot!
+    text: \kelW porządku! Dam z siebie wszystko!
 
 #Vine Moles
 
 message_597:
-    text: \n<GARDENER MOLE>These vines are going to be the death of me!
+    text: \n<KIEŁKUN OGRODNIK>Te pnącza kiedyś mnie zabiją!
 
 message_598:
-    text: \n<GARDENER MOLE>Curse these vines! They just never quit!
+    text: \n<KIEŁKUN OGRODNIK>Przeklęte pnącza! Nigdy nie dadzą mi spokoju!
 
 message_599:
-    text: \n<GARDENER MOLE>We spend every day chopping these vines, but it never seems like we get any work done.
+    text: \n<KIEŁKUN OGRODNIK>Każdy dzień spędzamy na ścinaniu tych pnączy, ale nigdy nie widać efektów naszej pracy.
 
 message_600:
-    text: \n<GARDENER MOLE>I can almost see the other side... or can I?
+    text: \n<KIEŁKUN OGRODNIK>Już prawie widzę drugą stronę... czy tylko mi się wydaje?
 
 message_601:
-    text: \n<GARDENER MOLE>These vines are tough like me!
+    text: \n<KIEŁKUN OGRODNIK>Te pnącza są cięte jak ja!
 
 message_602:
-    text: \n<GARDEN MOLE>Almost there... I think...
+    text: \n<OGRODOWY KIEŁKUN>Jeszcze trochę... Tak myślę...
 
 message_603:
-    text: \n<GARDENER MOLE>We keep cuttin' down these vines...<br>but they just keep growin' back!
+    text: \n<KIEŁKUN OGRODNIK>Bez końca ścinamy te pnącza...<br>ale ciągle odrastają!
 
 message_604:
-    text: \n<GARDENER MOLE>Chop... Chop... Chop...
+    text: \n<KIEŁKUN OGRODNIK>Ciach... Ciach... Ciach...
 
 message_605:
-    text: \n<GARDENER MOLE>Careful not to cut yourself! These vines are sharp!
+    text: \n<KIEŁKUN OGRODNIK>Uważaj, by się nie pociąć! Te pnącza są ostre!
 
 message_606:
-    text: \n<GARDEN MOLE>Huh... That's weird...\! I can't see anything...
+    text: \n<OGRODOWY KIEŁKUN>Hę... To dziwne...\! Nic nie widzę...
 
 #PUZZLE MOLE 1 (Top Left)
 
 message_0:
-    text: \n<ALEX THE ESTEEMED>There are four passwords that must be spoken to the SWEETHEART statue to unveil the secret tunnel.<br><br>Naturally, as one of the chosen elite, I have been given the responsibility of guarding the third of four!
+    text: \n<ALEKSANDER POWAŻANY>Aby otworzyć tajemny korytarz, należy podać posągowi SŁODZIUTKIEJ cztery hasła.<br><br>Oczywiście jako iż jestem członkiem wybranej elity, leży na mnie odpowiedzialność za ostatnie z czterech!
 
 message_1:
-    text: \n<ALEX THE ESTEEMED>Huh?\! You want to know the password?\!<br>Oh no...\! I'm sorry...\! I'm not supposed to tell anyone...
+    text: \n<ALEKSANDER POWAŻANY>Hę?\! Chcesz poznać hasło?\!<br>O nie...\! Tak mi przykro...\! Nie mogę nikomu go zdradzić...
 
 message_2:
-    text: \n<ALEX THE ESTEEMED>Huh? You really need it?\! Like you really, really need it?\!<br>Like you really, really, really need it?\! Like you really, really, really, really, really, really, really, really, really need it?
+    text: \n<ALEKSANDER POWAŻANY>Ha? Naprawdę go potrzebujesz?\! Tak naprawdę, naprawdę go potrzebujesz?\!<br>Tak naprawdę, naprawdę, naprawdę go potrzebujesz?<br>Tak naprawdę, naprawdę, naprawdę, naprawdę, naprawdę, naprawdę, naprawdę go potrzebujesz?
 
 message_3:
-    text: \n<ALEX THE ESTEEMED>...\! Hmm...\! Hmmmmmm...\!<br>I guess I have no choice then...\!<br>But you have to promise not to tell anyone else!<br>\Com[2]\{PINKY-SWEAR ON IT!
+    text: \n<ALEKSANDER POWAŻANY>...\! Hmm...\! Hmmmmmm...\!<br>W takim razie nie mam wyboru...\!<br>Ale musisz mi obiecać, że nikomu go nie powiesz!<br>\Com[2]\{PRZYSIĘGNIJ NA MAŁY PALUSZEK!
 
 message_4:
-    text: \n<ALEX THE ESTEEMED>And done!\!<br>Phew... I was worried you might've been someone untrustworthy!<br>Now...\! lean in closer...\!<br>\}The password that I have been entrusted with is...\! "FILLED".\!<br>You got that?\! Promise you won't tell anyone, okay?
+    text: \n<ALEKSANDER POWAŻANY>I już!\!<br>Fiu... Bałem się, że jesteś kimś podejrzanym!<br>A teraz...\! przybliż się...<br>\}Hasło, które mi powierzono, brzmi...\! "W ŚRODKU".\!<br>Kumasz?\! Obiecaj, że nikomu nie powiesz.
 
 message_5:
-    text: \n<ALEX THE ESTEEMED>I'm sorry, but you have to learn how to keep a secret before I can tell you the secret password.
+    text: \n<ALEKSANDER POWAŻANY>Przykro mi, ale musisz nauczyć się jak dochować tajemnicy, zanim powiem ci hasło.
 
 #PUZZLE MOLE 2 (Bottom Right)
 
 message_400:
-    text: \n<BRIAN THE DISTINGUISHED>There are four passwords that must be spoken to the SWEETHEART statue to unveil the secret tunnel.<br><br>Naturally, as one of the chosen elite, I have been given the responsibility of guarding the second of four!
+    text: \n<BRAJAN DYSTYNGOWANY>Aby otworzyć tajemny korytarz, należy podać posągowi SŁODZIUTKIEJ cztery hasła.<br><br>Oczywiście jako iż jestem członkiem wybranej elity, leży na mnie odpowiedzialność za drugie z czterech!
 
 message_6:
-    text: \n<BRIAN THE DISTINGUISHED>You want to know the password, eh?\!<br>\com[2]Not so fast there, buddy.\!<br>I gotta say... You're awfully tall for a SPROUT MOLE...
+    text: \n<BRAJAN DYSTYNGOWANY>Chcesz znać hasło, eee?\!<br>\com[2]Nie tak prędko, koleszko.\!<br>Muszę przyznać... Jesteś okropnie wysoki jak na KIEŁKUNA...
 
 message_7:
-    text: \n<BRIAN THE DISTINGUISHED>\com[2]How do I know if you really are one of us highly intelligent and majestic creatures?\! You think I'd ever spill the password to a potential spy? \!Ha!\! Don't make me laugh!
+    text: \n<BRAJAN DYSTYNGOWANY>\com[2]Skąd mam mieć pewność, że jesteście jednymi z nas, zaawansowanie inteligentnych i majestatycznych stworzeń?\! Myślicie, że kiedykolwiek podałbym hasło potencjalnemu szpiegowi? \!Ha!\! Nie rozśmieszajcie mnie!
 
 message_8:
-    text: \n<BRIAN THE DISTINGUISHED>If you're so sure you're a SPROUT MOLE, why don't you prove it?\! I'll tell you the password... if you can guess what am I thinking about right now!
+    text: \n<BRAJAN DYSTYNGOWANY>Skoro jesteś taki pewien swojej KIEŁKUŃSKIEJ natury, czemu jej nie udowodnisz?\! Podam ci hasło... jeśli zgadniesz, o czym teraz myślę!
 
 message_9:
     text: TOFU
 
 message_10:
-    text: SWEETHEART
+    text: SŁODZIUTKA
 
 message_151:
-    text: SURVIVAL
+    text: PRZETRWANIE
 
 message_152:
-    text: \n<BRIAN THE DISTINGUISHED>\com[2]A-ha!\! I knew there was something fishy about you!
+    text: \n<BRAJAN DYSTYNGOWANY>\com[2]A-ha!\! Wiedziałem, że coś tu śmierdzi!
 
 message_153:
-    text: \n<BRIAN THE DISTINGUISHED>Everyone knows SPROUT MOLES are immortal!<br>\!Guards, take these buffoons away!
+    text: \n<BRAJAN DYSTYNGOWANY>Każdy wie, że KIEŁKUNY są nieśmiertelne!<br>\!Straże, zabierzcie tych cymbałów!
 
 #You are transported to THE DUNGEON cell.
 
 message_401:
-    text: \n<BRIAN THE DISTINGUISHED>There are four passwords that must be spoken to the SWEETHEART statue to unveil the secret tunnel.<br><br>Naturally, as one of the chosen elite, I have been given the responsibility of guarding the second of four!
+    text: \n<BRAJAN DYSTYNGOWANY>Aby otworzyć tajemny korytarz, należy podać posągowi SŁODZIUTKIEJ cztery hasła.<br><br>Oczywiście jako iż jestem członkiem wybranej elity, leży na mnie odpowiedzialność za trzecie z czterech!
 
 message_11:
-    text: \n<BRIAN THE DISTINGUISHED>Oh...\! Mmm...\! Delicious \c[3]TOFU\c[0]...
+    text: \n<BRAJAN DYSTYNGOWANY>Och...\! Mmm...\! Pyszne \c[3]TOFU\c[0]...
 
 message_12:
-    text: \n<BRIAN THE DISTINGUISHED>Oh...\! Hmmm...\! I was thinking about \c[3]TOFU\c[0]...\! but...\!<br>you know what... you're right!
+    text: \n<BRAJAN DYSTYNGOWANY>Och...\! Hmmm...\! Myślałem o \c[3]TOFU\c[0]...\! ale...\!<br>wiesz co... masz rację!
 
 message_13:
-    text: \n<BRIAN THE DISTINGUISHED>I should absolutely be thinking about SWEETHEART!<br>Perhaps you are even more of a SPROUT MOLE than me!
+    text: \n<BRAJAN DYSTYNGOWANY>Absolutnie powinienem myśleć o SŁODZIUTKIEJ!<br>Może jesteś większym KIEŁKUNEM niż ja!
 
 message_14:
-    text: \n<BRIAN THE DISTINGUISHED>I apologize for ever doubting you.\! I guess there are all kinds of SPROUT MOLES out there!<br><br>Now...\! lean in closer...\!<br>\}The password that I have been entrusted with is...\! "JELLY".\!<br>You got that?\! Promise you won't tell anyone, okay?
+    text: \n<BRAJAN DYSTYNGOWANY>Przepraszam za zwątpienie.\! Rozumiem, że na świecie są różne typy KIEŁKUNÓW!<br><br>A teraz...\! przybliż się...\!<br>\}Hasło, które mi powierzono, brzmi...\! "Z MARMOLADKĄ".\!<br>Łapiesz?\! Obiecaj, że nikomu nie powiesz.
 
 #PUZZLE MOLE 3 (Bottom Left)
 
 message_402:
-    text: \n<CAROL THE ILLUSTRIOUS>There are four passwords that must be spoken to the SWEETHEART statue to unveil the secret tunnel.<br><br>Naturally, as one of the chosen elite, I have been given the responsibility of guarding the first of four!
+    text: \n<KAROLINA WSPANIAŁA>Aby otworzyć tajemny korytarz, należy podać posągowi SŁODZIUTKIEJ cztery hasła.<br><br>Oczywiście jako iż jestem członkinią wybranej elity, leży na mnie odpowiedzialność za pierwsze z czterech!
 
 message_15:
-    text: \n<CAROL THE ILLUSTRIOUS>It's a beautiful day out in the garden isn't it, brothers and sisters?
+    text: \n<KAROLINA WSPANIAŁA>Jak miło spędzić ten piękny dzień w ogrodzie, co nie, bracia i siostry?
 
 message_16:
-    text: \n<CAROL THE ILLUSTRIOUS>Ah!\! You are saying you would like to know of the password?\!<br>I apologize.\! I'm afraid that is not in my jurisdiction.
+    text: \n<KAROLINA WSPANIAŁA>Ach!\! Chcielibyście znać hasło?\!<br>Przepraszam.\! Wydaje mi się, że nie jest to w ramach moich kompetencji.
 
 message_17:
-    text: \n<CAROL THE ILLUSTRIOUS>Though...\! I suppose something tasty, off-white, and cube-ish may change my mind...
+    text: \n<KAROLINA WSPANIAŁA>Chociaż...\! myślę, że może coś smacznego, śnieżnobiałego i sześciennego mogłoby zmienić moje zdanie...
 
 #Give puzzle mole a consumable
 
 message_20:
-    text: Give CAROL THE ILLUSTRIOUS a \c[3]TOFU\c[0]?
+    text: Dać \c[3]TOFU\c[0] KAROLINIE WSPANIAŁEJ?
 
 #Give mole TOFU
 message_18:
-    text: \n<CAROL THE ILLUSTRIOUS>Oh...\! Mmm...\! Delicious, irresistible \c[3]TOFU\c[0]...<br>\!I suppose I could let it slip just this once...
+    text: \n<KAROLINA WSPANIAŁA>Och...\! Mmm...\! Pyszne, zniewalające \c[3]TOFU\c[0]...<br>\!Chyba choć raz mogę odpuścić...
 
 #Give mole anything else
 message_19:
-    text: \n<CAROL THE ILLUSTRIOUS>Now...\! lean in closer...\!<br>\}The password that I have been entrusted with is...\! "SWEET".\!<br>You got that?\! Promise you won't tell anyone, okay?
+    text: \n<KAROLINA WSPANIAŁA>A teraz...\! zbliż się...\!<br>\}Hasło, które mi powierzono, brzmi...\! "SŁODZIUTKI".\!<br>Łapiecie?\! Tylko nikomu nie mówcie, dobrze?
 
 message_624:
-    text: You don't have any \c[3]TOFU\c[0].
+    text: Nie masz żadnego \c[3]TOFU\c[0].
 
 # message_20:
 #     text: \n<GUARD MOLE>Ugh... Bleh!\! What did you give me!?\!<br>I cannot break my vows over this gruel!
@@ -1285,123 +1285,123 @@ message_624:
 #PUZZLE MOLE 4 (Top Right) MSG 22 - 23
 
 message_403:
-    text: \n<HELEN THE CALAMITOUS>There are four passwords that must be spoken to the SWEETHEART statue to unveil the secret tunnel.<br><br>Naturally, as one of the chosen elite, I have been given the responsibility of guarding the fourth of four!
+    text: \n<HELENA FATALNA>Aby otworzyć tajemny korytarz, należy podać posągowi SŁODZIUTKIEJ cztery hasła.<br><br>Oczywiście jako iż jestem członkinią wybranej elity, leży na mnie odpowiedzialność za drugie z czterech!
 
 message_21:
-    text: \n<HELEN THE CALAMITOUS>But, ugh!\! I'm supposed to hold onto this super secret password and everything, right? But, like, it's about food, so now I'm just thinking about food all the time...<br>It makes me so hungry, that I've started chewing on the grass to curb my appetite! Can you believe it!? They should really start providing food to the guards around here!
+    text: \n<HELENA FATALNA>Ale, ech!\! Mam strzec tego super tajnego hasła i w ogóle, no nie? Ale, jakby, to coś o jedzeniu, więc teraz tylko ciągle o nim myślę...<br>Jestem taka głodna, że az zaczęłam żuć trawę, żeby powstrzymać apetyt! Uwierzylibyście!? Naprawdę powinni zacząć karmić tutejsze straże!
 
 message_22:
-    text: \n<HELEN THE CALAMITOUS>And like, what kind of password is "DONUT" anyway?\! As in like, that stupid pet name that weird blue guy always called SWEETHEART or something?<br>\com[2]Puh-lease!\! That's no secret at all! Anyone could guess that! They were always walking around here and acting all couple-y, calling each other names like that back and forth...<br>Saying things like, "Why won't you ask me to marry you yet?" and "I'm sorry. My friends don't approve of this relationship..." all the time... Ugh! So annoying!
+    text: \n<HELENA FATALNA>I co to w ogóle ma być za hasło, "PĄCZUŚ"?\! Tak jak ten niebieski dziwoląg zawsze mówił na SŁODZIUTKĄ czy coś?<br>\com[2]Dajcie spokój!\! Żaden sekret! Każdy by to zgadnął!<br>Zawsze się tu przechadzali i zachowywali jak taka typowa parka, ciągle rzucali do siebie słodkimi słówkami...<br>Mówili coś w stylu:\ "Czemu jeszcze mi się nie oświadczyłeś?" albo "Wybacz. Kumple nie akceptują mojego związku..." cały czas... Ech! Nie wytrzymam!
 
 message_23:
-    text: \n<HELEN THE CALAMITOUS>But, whatever...\! I'm still stuck here guarding the passwords with those three other guards...\! Those guys couldn't keep a secret to save their lives!<br>Hmph! That's right! Pity me if you want! See if I care!\! Here I am, trapped here in this lonely little corner in the garden, guarding the word "DONUT" of all things!\! Geez-louise!
+    text: \n<HELENA FATALNA>Ale, pal licho...\! Wciąż tkwię tutaj i strzegę haseł z tymi trzema strażnikami...\! Nie byliby w stanie nie pisnąć słówka, żeby uchronić się przed śmiercią!<br>Hmf! Racja! Litujcie się nade mną ile chcecie! Mam to gdzieś!\! Proszę, jestem uwięziona w tym ciasnym kącie ogrodu, strzegąc jakiegoś słowa "PĄCZUŚ"!\! Rany koguta!
 
 #PASSWORD STATUE PART 1
 
 message_24:
-    text: You stared at the side of the statue.
+    text: Wpatrzyłeś się w bok posągu.
 
 message_405:
-    text: \n<IMPRESSIVE STATUE>\Com[2]\quake[1]\{\{HEY!! EYES UP HERE!!!
+    text: \n<IMPONUJĄCY POSĄG>\Com[2]\quake[1]\{\{EJ!! OCZY DO GÓRY!!!
 
 message_25:
-    text: An impressive statue of SWEETHEART casts a discomforting shadow over the garden.
+    text: IMPONUJĄCY POSĄG SŁODZIUTKIEJ rzuca niepokojący cień na ogród.
 
 message_26:
-    text: \n<IMPRESSIVE STATUE>\quake[1]\{\{WHAT'S THE PASSWORD?
+    text: \n<IMPONUJĄCY POSĄG>\quake[1]\{\{JAK BRZMI HASŁO?
 
 #ADJECTIVE
 
 message_27:
-    text: MAGICAL
+    text: MAGICZNY
 
 message_28:
-    text: FLAMING
+    text: PŁOMIENNY
 
 message_29:
-    text: ROMANTIC
+    text: ROMANTYCZNY
 
 message_30:
-    text: BEAUTIFUL
+    text: PIĘKNY
 
 #NOUN
 
 message_31:
-    text: PLANET
+    text: KSIĘŻYC
 
 message_32:
-    text: FLAMINGO
+    text: FLAMING
 
 message_33:
-    text: MOLE
+    text: KIEŁKUN
 
 message_34:
-    text: PINEAPPLE
+    text: ANANAS
 
 #DESCRIPTOR
 
 message_35:
-    text: EATING
+    text: JEDZĄCY
 
 message_36:
-    text: SIZED
+    text: W ROZMIARZE
 
 message_37:
-    text: INHALING
+    text: WDYCHAJĄCY
 
 message_38:
-    text: SUMMONING
+    text: WZYWAJĄCY
 
 #NOUN
 
 message_39:
-    text: STATUE
+    text: STATUĘ
 
 message_40:
-    text: TOAST
+    text: TOSTA
 
 message_41:
-    text: WHALE
+    text: WIELORYBA
 
 message_42:
-    text: ELEVATOR
+    text: WINDĘ
 
 #ANSWERS
 
 message_43:
-    text: SWEET
+    text: SŁODZIUTKI
 
 message_44:
-    text: JELLY
+    text: PĄCZUŚ
 
 message_45:
-    text: FILLED
+    text: Z MARMOLADKĄ
 
 message_46:
-    text: DONUT
+    text: W ŚRODKU
 
 #PASSWORD STATUE PART 2
 
 message_47:
-    text: \n<IMPRESSIVE STATUE>... And?
+    text: \n<IMPONUJĄCY POSĄG>... I?
 
 message_48:
     text: ...\. ...\. ...\. ...\. ...\.
 
 message_49:
-    text: \n<IMPRESSIVE STATUE>You said, \"\v[101] \v[102] \v[103] \v[104]\"\c[0].
+    text: \n<IMPONUJĄCY POSĄG>Powiedziałeś, \"\v[101] \v[102] \v[103] \v[104]\"\c[0].
 
 message_50:
-    text: \n<IMPRESSIVE STATUE>\Com[2]\quake[1]\{\{WRONG!!!
+    text: \n<IMPONUJĄCY POSĄG>\Com[2]\quake[1]\{\{ŹLE!!!
 
 message_404:
-    text: \n<IMPRESSIVE STATUE>\Com[2]\quake[1]\{\{FINE!!!!
+    text: \n<IMPONUJĄCY POSĄG>\Com[2]\quake[1]\{\{DOBRZE!!!!
 
 message_411:
-    text: \n<IMPRESSIVE STATUE>Hmph...\. ...\. ...
+    text: \n<IMPONUJĄCY POSĄG>Hmf...\. ...\. ...
 
 message_412:
-    text: You stared at the back of the statue.
+    text: Wpatrzyłeś się w tył posągu.
 
 
 # -----------------------------------------------
@@ -1411,7 +1411,7 @@ message_412:
 #BLOCKING SWITCH
 
 message_173:
-    text: \n<PRISONER MOLE>Huzzah!\! After countless failures, I've finally almost made my escape!\! All I need to do now is find the exit!
+    text: \n<KIEŁKUN WIĘZIEŃ>Hurra!\! Po niezliczonych porażkach w końcu prawie udało mi się wydostać!\! Muszę jedynie znaleźć wyjście!
 
 # -----------------------------------------------
 # - SW CASTLE: SERVANT'S QUARTER (180)
@@ -1420,23 +1420,23 @@ message_173:
 #TOP LEFT ROOM
 
 message_211:
-    text: SPROUT MOLE
+    text: KIEŁKUN
 
 message_212:
-    text: OTHER SPROUT MOLE
+    text: DRUGI KIEŁKUN
 
 # -----------------------------------------------
 # - TRAIN (328)
 # -----------------------------------------------
 
 message_228:
-    text: This person seems occupied.
+    text: Ta osoba zdaje się być zajęta.
 
 message_229:
-    text: TOAST.
+    text: TOST.
 
 message_230:
-    text: \fn<OMORI_GAME>\who\quake[1]Stay...\| away...
+    text: \fn<OMORI_GAME>\who\quake[1]Odsuń...\| się...
 
 # -----------------------------------------------
 # - ORANGE OASIS: DINO'S DIG (107 - 110)
@@ -1445,57 +1445,57 @@ message_230:
 #EXCAVATION DINO (107)
 
 message_429:
-    text: POTATO SPOON (5)
+    text: ZIEMNIACZANA ŁYŻKA (5)
 
 message_430:
-    text: PLASTIC SPOON (10)
+    text: PLASTIKOWA ŁYŻKA (10)
 
 message_431:
-    text: WOODEN SPOON (15)
+    text: DREWNIANA ŁYŻKA (15)
 
 message_432:
-    text: SILVER SPOON (20)
+    text: SREBRNA ŁYŻKA (20)
 
 message_433:
-    text: GOLDEN SPOON
+    text: ZŁOTA ŁYŻKA
 
 message_434:
-    text: \n<DINO>Hey, where are you going?\! \com[2]Don't you want to go on an \sinv[1]adventure\c[0]!?
+    text: \n<DINO>Ej, gdzie się wybieracie?\! \com[2]Nie chcecie udać się na \sinv[1]przygodę\c[0]!?
 
 message_435:
-    text: You got a DINO DOLLAR.
+    text: Zdobywasz DINODOLARA.
 
 message_436:
-    text: You got \v[1001] DINO DOLLARS.
+    text: Zdobywasz \v[1001] DINODOLARÓW.
 
 #EXCAVATION DINO (108)
 
 message_439:
-    text: \n<DINO>Want to buy a \c[4]SPOON\c[0]?\!<br>It only costs 1 DINO DOLLAR!
+    text: \n<DINO>Chcesz kupić \c[4]ŁYŻKĘ\c[0]?\!<br>Kosztuje jedynie 1 DINODOLARA!
 
 message_441:
-    text: \n<DINO>Dig with your \c[4]SPOON\c[0] and discover wondrous treasures!
+    text: \n<DINO>Kopnij swoją \c[4]ŁYŻKĄ\c[0] i odkryj niezwykłe skarby!
 
 message_444:
-    text: You got a \c[4]POTATO SPOON\c[0].
+    text: Zdobywasz \c[4]ZIEMNIACZANĄ ŁYŻKĘ\c[0].
 
 #EXCAVATION DINO (108 -> Map Teleport: Trying to Leave)
 
 message_442:
-    text: \n<DINO>\com[2]What!?\! Are you sure you're done diggin'?
+    text: \n<DINO>\com[2]Co!?\! Zmęczyło was kopanie?
 
 message_443:
-    text: \n<DINO>I don't really understand, but okay!
+    text: \n<DINO>Nie do końca czaję, ale spoko!
 
 #STEG DINO
 
 message_428:
-    text: \n<CHAD>That's my grandfather.
+    text: \n<CHAD>To mój dziadek.
 
 #SHOP DINO
 
 message_413:
-    text: \n<DINO>Yo! I got some choice goods for sale here! You interested?
+    text: \n<DINO>Joł! Mam trochę towaru na promocji! Zainteresowani?
 
 # message_414:
 #     text: Would you like to trade your eggs in for \v[115] DINO DOLLARS?
@@ -1504,37 +1504,37 @@ message_413:
 #     text: You now have \v[1020] DINO DOLLARS.
 
 message_416:
-    text: \n<BRETT>You've already got a \c[4]SPOON\c[0], dude!\! Come back when it breaks and I'll see what I can do for you.
+    text: \n<BRETT>Brachu, masz \c[4]ŁYŻKĘ\c[0]!\! Wróć, kiedy się zepsuje, wtedy zobaczę, jak mógłbym ci pomóc.
 
 message_417:
-    text: You got\c[4] PLASTIC SPOON\c[0].
+    text: Zdobywasz \c[4]PLASTIKOWĄ ŁYŻKĘ\c[0].
 
 message_418:
-    text: You got \c[4]WOODEN SPOON\c[0].
+    text: Zdobywasz \c[4]DREWNIANĄ ŁYŻKĘ\c[0].
 
 message_419:
-    text: You got \c[4]SILVER SPOON\c[0].
+    text: Zdobywasz \c[4]SREBRNĄ ŁYŻKĘ\c[0].
 
 message_420:
-    text: You got\c[4] GOLDEN SPOON\c[0].
+    text: Zdobywasz \c[4]ZŁOTĄ ŁYŻKĘ\c[0].
 
 message_421:
-    text: You got \c[13]SAFETY HELMET\c[0].
+    text: Zdobywasz \c[13]KASK\c[0].
 
 message_422:
-    text: You got \c[3]DINO BERRY\c[0].
+    text: Zdobywasz \c[3]DINOWOC\c[0].
 
 message_423:
-    text: You got \c[3]DINO MELON SODA\c[0].
+    text: Zdobywasz \c[3]DINOMELONŻADĘ\c[0].
 
 message_424:
-    text: You got \c[3]DINO NUGGET\c[0].
+    text: Zdobywasz \c[3]DINOKURCZĘ\c[0].
 
 message_425:
-    text: You got \c[3]DINO PASTA\c[0].
+    text: Zdobywasz \c[3]DINODANIE\c[0].
 
 message_426:
-    text: You got \c[5]DINO JAM\c[0].
+    text: Zdobywasz \c[5]DINODŻEM\c[0].
 
 # message_427:
 #     text: You don't have enough DINO POINTS.
@@ -1543,46 +1543,46 @@ message_426:
 #     text: Trade DINO EGGS!
 
 message_60:
-    text: BUY A SPOON!
+    text: KUP ŁYŻKĘ!
 
 message_61:
-    text: BUY DINO STUFF!
+    text: KUP DINORZECZY!
 
 message_62:
-    text: What would you like to buy?
+    text: Co chciałbyś kupić?
 
 message_63:
-    text: PLASTIC SPOON (1 DD)
+    text: PLASTIKOWA ŁYŻKA (1 DD)
 
 message_64:
-    text: WOODEN SPOON (5 DD)
+    text: DREWNIANA ŁYŻKA (5 DD)
 
 message_65:
-    text: SILVER SPOON (10 DD)
+    text: SREBRNA ŁYŻKA (10 DD)
 
 message_66:
-    text: GOLDEN SPOON (15 DD)
+    text: ZŁOTA ŁYŻKA (15 DD)
 
 message_67:
-    text: SAFETY HELMET (30 DD)
+    text: KASK (30 DD)
 
 message_68:
-    text: DINO BERRY (10 DD)
+    text: DINOWOC (10 DD)
 
 message_69:
     text: DINO MELON (10 DD)
 
 message_70:
-    text: DINO NUGGET (10 DD)
+    text: DINOKURCZĘ (10 DD)
 
 message_71:
-    text: DINO PASTA (10 DD)
+    text: DINODANIE (10 DD)
 
 message_72:
-    text: DINO JAM (10 DD)
+    text: DINODŻEM (10 DD)
 
 message_73:
-    text: NEVERMIND
+    text: NIEWAŻNE
 
 # -----------------------------------------------
 # - DOUGH DUNGEON (343)
@@ -1591,181 +1591,181 @@ message_73:
 #'Summon Placement'
 
 message_76:
-    text: The smell of fresh bread fills the air.
+    text: W powietrzu unosi się zapach świeżego chleba.
 
 message_77:
-    text: Do you want to sacrifice the \c[3]\v[102]\c[0]?
+    text: Czy chcesz poświęcić \c[3]\v[102]\c[0]?
 
 message_78:
-    text: You found a \c[4]RECIPE FOR DISASTER\c[0].\! Take it?
+    text: Znajdujesz \c[4]PRZEPIS NA KATASTROFĘ\c[0].\! Wziąć go?
 
 message_383:
-    text: Do you want to put back the \c[4]RECIPE FOR DISASTER\c[0]?
+    text: Czy chcesz odłożyć \c[4]PRZEPIS NA KATASTROFĘ\c[0]?
 
 message_407:
-    text: You are holding a \c[4]RECIPE FOR DISASTER\c[0].
+    text: Trzymasz \c[4]PRZEPIS NA KATASTROFĘ\c[0].
 
 message_79:
-    text: Do you want to sacrifice \c[4]ACTUAL MOLE\c[0]?
+    text: Czy chcesz złożyć w ofierze \c[4]PRAWDZIWEGO KUNA\c[0]?
 
 message_298:
-    text: You set down the \c[3]\v[102]\c[0]... but nothing happened.
+    text: \c[3]\v[102]\c[0] leży w kole... ale nic się nie dzieje.
 
 message_299:
-    text: You pick \c[3]\v[102]\c[0] back up.
+    text: Podnosisz \c[3]\v[102]\c[0] z powrotem.
 
 #SACRIFICE OBJECTS
 
 message_74:
-    text: Do you want to pick up the \c[3]\v[102]\c[0]?
+    text: Czy chcesz podnieść \c[3]\v[102]\c[0]?
 
 message_75:
-    text: You are holding the \c[3]\v[102]\c[0].
+    text: Trzymasz \c[3]\v[102]\c[0].
 
 message_88:
-    text: Do you want to put back the \c[3]\v[102]\c[0]?
+    text: Czy chcesz odłożyć \c[3]\v[102]\c[0]?
 
 message_80:
-    text: \n<PAPA CHIP>PAPA CHIP sees you eyeing that plate of OATMEAL COOKIES.\! PAPA CHIP warns you now for your own sake...\! Don't do it!
+    text: \n<PAPA CHRUPCIO>PAPA CHRUPCIO widzi, jak przyglądacie się temu talerzowi CIASTEK OWSIANYCH.\! PAPA CHRUPCIO ostrzega dla waszego własnego dobra...\! Przestańcie!
 
 message_81:
-    text: \n<PAPA CHIP>Now listen here...\! PAPA CHIP has saved a great deal of explorers by warning them of the plethora of dangers in these tombs.
+    text: \n<PAPA CHRUPCIO>Słuchajcie...\! PAPA CHRUPCIO uratował wielu odkrywców, ostrzegając ich przed mnogością niebezpieczeństw, jakie czyhają w tych grobowcach.
 
 message_82:
-    text: \n<PAPA CHIP>You'd best listen to PAPA CHIP's advice.
+    text: \n<PAPA CHRUPCIO>Lepiej posłuchajcie się rady PAPY CHRUPCIA.
 
 message_83:
-    text: \n<PAPA CHIP>\quake[1]Step...\! away...\! from the \c[3]OATMEAL COOKIES\c[0].
+    text: \n<PAPA CHRUPCIO>\quake[1]Odsuńcie...\! się...\! od \c[3]CIASTEK OWSIANYCH\c[0].
 
 message_84:
-    text: \n<PAPA CHIP>Please, travelers...\! PAPA CHIP is begging you!\! Don't do it!\!<br>Do not waste your precious young lives on something so fruitless!
+    text: \n<PAPA CHRUPCIO>Proszę, podróżnicy...\! PAPA CHRUPCIO was błaga!\! Nie róbcie tego!\!<br>Nie marnujcie swojego cennego młodego życia na coś tak bezowocnego!
 
 message_85:
-    text: You took the \c[3]OATMEAL COOKIES\c[0] despite PAPA CHIP's warnings.
+    text: Wziąłeś \c[3]CIASTKA OWSIANE\c[0] pomimo ostrzeżeń PAPY CHRUPCIA.
 
 message_86:
-    text: \n<PAPA CHIP>Oh! You've done it now!\! Oh doughie, you've done it now!\!<br>PAPA CHIP can't look!
+    text: \n<PAPA CHRUPCIO>Och! Właśnie to zrobiłeś!\! O Beatko, właśnie to zrobiłeś!\!<br>PAPA CHRUPCIO nie może na to patrzeć!
 
 message_87:
-    text: \n<PAPA CHIP>Hmm...\! PAPA CHIP is supposed to warn you of the danger that is NEFARIOUS CHIP...\! but it seems that NEFARIOUS CHIP was no match for you.<br>I suppose PAPA CHIP is just useless, then.
+    text: \n<PAPA CHRUPCIO>Hmm...\! PAPA CHRUPCIO powinien ostrzec was przed niebezpieczeństwem, jakie stanowi NIKCZEMNY CHRUPCIO...\! ale okazuje się, że pokonanie NIKCZEMNEGO CHRUPCIA było dla was jak pestka.<br>W takim razie PAPA CHRUPCIO jest zwykle beznadziejny.
 
-#'PAPA CHIP'
+#'PAPA CHRUPCIO'
 
 message_179:
-    text: \n<PAPA CHIP>\sinv[1]Hoho!\sinv[0]\! PAPA CHIP comes with good tidings for you!
+    text: \n<PAPA CHRUPCIO>\sinv[1]Hoho!\sinv[0]\! PAPA CHRUPCIO przynosi wieści!
 
 message_180:
-    text: \n<PAPA CHIP>As a sign of good will, PAPA CHIP will give you something PAPA CHIP knows you will enjoy!
+    text: \n<PAPA CHRUPCIO>Na znak dobrej woli PAPA CHRUPCIO podaruje wam coś, co się wam spodoba!
 
 message_521:
-    text: PAPA CHIP gave you \c[3]BREAD\c[0]!
+    text: PAPA CHRUPCIO dał ci \c[3]CHLEB\c[0]!
 
 message_181:
-    text: \n<PAPA CHIP>I'm PAPA CHIP!
+    text: \n<PAPA CHRUPCIO>Jestem PAPA CHRUPCIO!
 
 #'NEFARIOUS Chip'
 
 message_406:
-    text: \n<NEFARIOUS CHIP>\com[2]\{\sinv[1]HON, HON, HON, HON, HON!
+    text: \n<NEFARIOUS CHIP>\com[2]\{\sinv[1]HUM, HUM, HUM, HUM, HUM!
 
-#'ACTUAL MOLE' in DOOM TOMB
+#'PRAWDZIWY KUN' in DOOM TOMB
 
 message_182:
-    text: \n<ACTUAL MOLE>REPLACE
+    text: \n<PRAWDZIWY KUN>REPLACE
 
 message_183:
-    text: \n<ACTUAL MOLE>REPLACE
+    text: \n<PRAWDZIWY KUN>REPLACE
 
 message_184:
-    text: \n<ACTUAL MOLE>\quake[1]\{\{WHAT IN TARNATION!?!?
+    text: \n<PRAWDZIWY KUN>\quake[1]\{\{CO U DIABŁA!?!?
 
 message_185:
-    text: \n<ACTUAL MOLE>REPLACE
+    text: \n<PRAWDZIWY KUN>REPLACE
 
 message_186:
-    text: \n<ACTUAL MOLE>REPLACE
+    text: \n<PRAWDZIWY KUN>REPLACE
 
 message_187:
-    text: \n<ACTUAL MOLE>REPLACE
+    text: \n<PRAWDZIWY KUN>REPLACE
 
-#'DOUGHIE & BISCUIT': Pre-Battle - UNUSED
+#'CHAŁKA & BISZKOPT': Pre-Battle - UNUSED
 
 message_213:
-    text: \n<DOUGHIE>...
+    text: \n<CHAŁKA>...
 
 message_214:
-    text: \n<DOUGHIE>Are you a ghost?
+    text: \n<CHAŁKA>Jesteś duchem?
 
 message_215:
-    text: \n<BISCUIT>That seems likely.\! It would appear that some of our haunted pastries have found their way back to us.
+    text: \n<BISZKOPT>Bardzo prawdopodobne.\! Wygląda na to, że część nawiedzonego pieczywa odnalazła drogę powrotną do nas.
 
 message_216:
-    text: \n<DOUGHIE>Perhaps they are here to exact their revenge?\! That would be most...
+    text: \n<CHAŁKA>Może przyszło, by dokonać zemsty?\! Byłoby to bardzo...
 
 message_217:
-    text: \n<BISCUIT>...Unfortunate.
+    text: \n<BISZKOPT>...niefortunne.
 
-#'DOUGHIE & BISCUIT': Post-Battle - UNUSED
+#'CHAŁKA & BISZKOPT': Post-Battle - UNUSED
 
 message_218:
-    text: \n<DOUGHIE>Oh, you weren't ghosts after all.
+    text: \n<CHAŁKA>Och, wcale nie byliście duchami.
 
 message_219:
-    text: \n<BISCUIT>Well, this is awkward.\! This spiritual venture has been fun and all, but I do think it is about time we moved on.
+    text: \n<BISZKOPT>To niezręczne.\! To duchowe doświadczenie było zabawne i w ogóle, ale myślę, że nadszedł czas, abyśmy ruszyli dalej.
 
 message_220:
-    text: \n<BISCUIT>Meet us below, we will have an escape prepared for you.
+    text: \n<BISZKOPT>Spotkajmy się poniżej, przygotujemy dla was drogę ucieczki.
 
 message_221:
-    text: \n<DOUGHIE>Apologies for the troubles.
+    text: \n<CHAŁKA>Wybaczcie za kłopoty.
 
-#'DOUGHIE & BISCUIT' - UNUSED
+#'CHAŁKA & BISZKOPT' - UNUSED
 
 message_222:
-    text: \n<DOUGHIE>I really don't know why I thought you were ghosts.
+    text: \n<CHAŁKA>Naprawdę nie wiem, czemu wzięłam was za duchy.
 
 message_223:
-    text: \n<BISCUIT>Baking was fun, but I quite enjoyed our battle as well.
+    text: \n<BISZKOPT>Pieczenie było fajne, ale również spodobała mi się nasza potyczka.
 
-#'DOUGHIE & BISCUIT': Escape (Doom Entrance: 114) - UNUSED
+#'CHAŁKA & BISZKOPT': Escape (Doom Entrance: 114) - UNUSED
 
 message_224:
-    text: \n<DOUGHIE>See you later.
+    text: \n<CHAŁKA>Do zobaczenia.
 
 message_225:
-    text: \n<BISCUIT>Or see you never?
+    text: \n<BISZKOPT>Albo nie-zobaczenia?
 
 message_226:
-    text: \n<DOUGHIE>Whichever the case...
+    text: \n<CHAŁKA>W każdym razie...
 
 message_227:
-    text: \n<BISCUIT>Farewell.
+    text: \n<BISZKOPT>Żegnajcie.
 
 # -----------------------------------------------
 # - FROZEN FOREST (140)
 # -----------------------------------------------
 
 message_293:
-    text: \n<SIGN>"A frozen heart may melt, but a broken one remains forever in pieces..."
+    text: \n<ZNAK>"Zamarznięte serce może stopnieć, lecz złamane pozostanie w kawałkach na wieki..."
 
 message_294:
-    text: \n<SIGN>"Don't come looking for me...<br>Only the cold can keep me company now..."
+    text: \n<ZNAK>"Nie szukajcie mnie...<br>Jedynie zimno dotrzyma mi towarzystwa..."
 
 message_295:
-    text: \n<SIGN>"There is nothing for you here... Begone!"
+    text: \n<ZNAK>"Nie ma tu nic ciekawego... Precz!"
 
 message_296:
-    text: \n<SIGN>"Go away! Leave me to my miserable existence!"
+    text: \n<ZNAK>"Odejdźcie! Dajcie mi wieść swoją nędzną egzystencję!"
 
 message_297:
-    text: \n<SIGN>"I see you've made it this far.<br>I hope you get frostbite and die."
+    text: \n<ZNAK>"Dotarliście aż tutaj.<br>Mam nadzieję, że zamarzniecie i umrzecie."
 
 # -----------------------------------------------
 # - UNDERWATER HIGHWAY: CONSTRUCTION (204) - UNUSED
 # -----------------------------------------------
 
 message_249:
-    text: This bridge is in disrepair, but a \c[4]TOOLBOX\c[0] could help you put it back in working order.
+    text: Most jest w ruinie, ale \c[4]SKRZYNKA NA NARZĘDZIA\c[0] mogłaby pomóc w przywróceniu jego użyteczności.
 
 # -----------------------------------------------
 # - UNDERWATER HIGHWAY (203)
@@ -1774,209 +1774,209 @@ message_249:
 #FIRST TOLL
 
 message_384:
-    text: \n<TOLL GATOR>This lane's carpool only, kid.<br>Come back when you've got friends!
+    text: \n<MYTOGATOR>Smarkaczu, tu jeździ się tylko z pasażerami.<br>Wróć, kiedy znajdziesz sobie przyjaciół!
 
 message_385:
-    text: \n<TOLL GATOR>\{\{\sinv[1]Keh heh!
+    text: \n<MYTOGATOR>\{\{\sinv[1]khi hi!
 
 message_386:
-    text: \n<TOLL GATOR>Did you think you'd be able to sneak by this carpool lane if there were two of you kids?\! This isn't just a carpool lane...\! It's a double carpool lane!
+    text: \n<MYTOGATOR>Myśleliście, że w dwójkę prześlizgniecie się przez drogę dla samochodów z pasażerami?\! To nie jest zwykła droga...\! To dwupasmówka dla pojazdów z pasażerami!
 
 message_387:
-    text: \n<TOLL GATOR>You gotta be a posse of four or more, otherwise you can just crawl back the way you came.
+    text: \n<MYTOGATOR>Musicie mieć czterech albo więcej ziomków, inaczej możecie doczołgać się tam, skąd przyszliście.
 
 message_388:
-    text: \n<TOLL GATOR>...\! You really have three friends?\!<br>Hmph... Alright, alright... Let's get a move on, people.
+    text: \n<MYTOGATOR>...\! Poważnie masz trzech kumpli?\!<br>Hmf... Dobra, dobra... W drogę, ludziska.
 
 message_389:
-    text: \n<TOLL GATOR>Hope you've got a few CLAMS on ya... Keh heh...
+    text: \n<MYTOGATOR>Obyś miał przy sobie parę MAŁŻY... khi hi...
 
 #GATE SNAKES
 
 message_390:
-    text: \n<TOLL SNAKE>\sinv[1]Sssssssssssssssssssss...<br>\sinv[0] (This is how snakes snore.)
+    text: \n<MYTOWĄŻ>\sinv[1]Sssssssssssssssssssss...<br>\sinv[0] (Tak chrapią węże.)
 
 message_165:
-    text: \n<TOLL SNAKE>Phew!\! I can finally relax...\! Holding up my body all sssssstraight like that is some sssssseriously hard work!
+    text: \n<MYTOWĄŻ>Fiu!\! W końcu mogę odpocząć...\! Leżenie szszszsztywno jak kij od miotły to ssssstrasznie męcząca robota!
 
 message_166:
-    text: \n<TOLL SNAKE>I'm a sssssssnake, but I'm not toxic!\!<br>On the contrary, I'm actually quite friendly!
+    text: \n<MYTOWĄŻ>Jestem wężem, ale nie toksssssycznym!\!<br>Wręcz przeciwnie, jestem dość przyjazny!
 
 message_167:
-    text: \n<TOLL SNAKE>Ease my suffering.
+    text: \n<MYTOWĄŻ>Ulżyj moim cierpieniom.
 
 #TOLL GATE 1, PRIZE WHEEL
 
 message_89:
-    text: \n<TOLL GATOR>This toll here's gonna cost you...\! Let's see here...\! \v[1012] CLAMS!\! You got 'em or not?
+    text: \n<MYTOGATOR>Przejazd będzie kosztować...\! Zobaczmy...\! \v[1012] MAŁŻY!\! Masz czy nie?
 
 message_90:
-    text: \n<TOLL GATOR>Hey there, good chums!\! Pleasure to meetcha, keh heh.
+    text: \n<MYTOGATOR>Strzała, kumple!\! Przemiło mi was poznać, khi hi.
 
 message_91:
-    text: \n<TOLL GATOR>So you kids want access to the toll road?\! Well... sure!\! But while we're at it, let's make this a little fun.
+    text: \n<MYTOGATOR>Więc chcecie dostać się do autostrady?\! No... dobra!\! Ale skoro tak, to zabawmy się trochę.
 
 message_92:
-    text: \n<TOLL GATOR>Why don't you spin this wheel for me?
+    text: \n<MYTOGATOR>Mógłbym prosić cię o zakręcenie tym kołem?
 
 message_93:
-    text: \n<TOLL GATOR>\{\sinv[1]EXCELLENT SPIN, BUDDY!
+    text: \n<MYTOGATOR>\{\sinv[1]ŚWIETNE ZAKRĘCENIE, STARY!
 
 message_94:
-    text: \n<TOLL GATOR>Your toll is \v[1012] CLAMS.\! That sound good to you?
+    text: \n<MYTOGATOR>Do zapłaty \v[1012] MAŁŻY.\! Pasuje?
 
 message_95:
-    text: \n<TOLL GATOR>\v[1012] CLAMS!?\! That's someone's lucky number!
+    text: \n<MYTOGATOR>\v[1012] MAŁŻY!?\! Szczęśliwa liczba!
 
 message_96:
-    text: \n<TOLL GATOR>It's also going to be the price for your toll.\!<br>You gonna pay up?
+    text: \n<MYTOGATOR>Również dodamy to do rachunku.\!<br>Wypłacisz się?
 
 message_97:
-    text: \n<TOLL GATOR>\com[2]\{\{\sinv[1]HOOWEE, WE HAVE A WINNER!!!
+    text: \n<MYTOGATOR>\com[2]\{\{\sinv[1]HURRA, MAMY ZWYCIĘZCĘ!!!
 
 message_98:
-    text: \n<TOLL GATOR>\v[1012] CLAMS is my final offer!<br>C'mon! You gotta take it!\$
+    text: \n<MYTOGATOR>\v[1012] MAŁŻY to moja ostateczna stawka!<br>No dalej! Bierz!\$
 
 message_99:
-    text: \n<TOLL GATOR>That's what I like to hear!<br>\!Nice doin' business witcha...\! suckers.
+    text: \n<MYTOGATOR>Miód na moje uszy!<br>\!Interesy z wami to czysta przyjemność...\! głąby.
 
 message_100:
-    text: \n<TOLL GATOR>Hmph...\! Runnin' away ain't gonna change the price, kid.
+    text: \n<MYTOGATOR>Hmf...\! Ucieczka nie zmieni kosztu, szkraby.
 
 message_101:
-    text: \n<TOLL GATOR>Now hold on one second here...\!<br>The numbers aren't adding up...\!<br>You're gonna have to spin again.
+    text: \n<MYTOGATOR>Poczekaj sekundkę...\!<br>Liczby się nie zgadzają...\!<br>Zakręć jeszcze raz.
 
 message_102:
-    text: \n<TOLL GATOR>How's one more spin for good measure?
+    text: \n<MYTOGATOR>A może jeszcze jedno zakręcenie na dobrą sprawę?
 
 message_103:
-    text: \n<TOLL GATOR>Come on! You can afford it!<br>\!Why don't you give your parents a call?
+    text: \n<MYTOGATOR>No weź! Stać cię!<br>\!Nie możesz zadzwonić do rodziców?
 
 message_104:
-    text: \n<TOLL GATOR>Aww, that's a shame...\! If ya don't spin, ya can't win.
+    text: \n<MYTOGATOR>Ooo, co za szkoda...\! Bez kręcenia nie ma wygranej.
 
 message_105:
-    text: \n<TOLL GATOR>Aww, come on...\! Don't be so stingy.
+    text: \n<MYTOGATOR>Ooo, no proszę...\! Nie bądź taki skąpy.
 
 message_106:
-    text: \n<TOLL GATOR>Later, gator...
+    text: \n<MYTOGATOR>O innej porze, aligatorze...
 
 message_107:
-    text: \n<TOLL GATOR>Whoa, whoa, whoa! Where you goin', buddy?
+    text: \n<MYTOGATOR>Hola, hola, hola! Gdzie się wybieracie, koleszki?
 
 message_108:
-    text: \n<TOLL GATOR>Back it up nice and slow...<br>This here's a toll road, see?\!<br>\com[2]Cough up the CLAMS or get lost!
+    text: \n<MYTOGATOR>Back it up nice and slow...<br>This here's a toll road, see?\!<br>\com[2]Cough up the CLAMS or get lost!
 
 #TOLL GATE 2
 
 message_109:
-    text: \n<TOLL GATOR>So you want me to open the gate, huh?\!<br>It would be my pleasure!\! It'll only cost ya 2000 CLAMS.\$
+    text: \n<MYTOGATOR>So you want me to open the gate, huh?\!<br>It would be my pleasure!\! It'll only cost ya 2000 CLAMS.\$
 
 message_110:
-    text: \n<TOLL GATOR>You kids sure are smart! \v[1001] CLAMS is a steal!\!<br>\}...\! Heh...\! Like stealing \c[3]CANDY\c[0] from a baby...
+    text: \n<MYTOGATOR>You kids sure are smart! \v[1001] CLAMS is a steal!\!<br>\}...\! Heh...\! Like stealing \c[3]CANDY\c[0] from a baby...
 
 message_111:
-    text: \n<TOLL GATOR>You mean to say you kids don't got 2000 CLAMS on ya?<br>That's real sad...\! Real tough luck, I tell ya...
+    text: \n<MYTOGATOR>You mean to say you kids don't got 2000 CLAMS on ya?<br>That's real sad...\! Real tough luck, I tell ya...
 
 message_112:
-    text: \n<TOLL GATOR>But, hey!\! No need to get down!<br>I got a surefire way to help you out of this ordeal, see?
+    text: \n<MYTOGATOR>But, hey!\! No need to get down!<br>I got a surefire way to help you out of this ordeal, see?
 
 message_113:
-    text: \n<TOLL GATOR>Ahem...\! You just need to sign these papers, these papers, these papers, and these papers...\! And lo and behold! You'll have \v[979] CLAMS just like that!
+    text: \n<MYTOGATOR>Ahem...\! You just need to ZNAK these papers, these papers, these papers, and these papers...\! And lo and behold! You'll have \v[979] CLAMS just like that!
 
 message_114:
-    text: Do you want to sign the papers?
+    text: Do you want to ZNAK the papers?
 
 #[YES/NO]
 
 message_115:
-    text: \n<TOLL GATOR>There ya go!\! 2000 CLAMS!\! It's that easy!
+    text: \n<MYTOGATOR>There ya go!\! 2000 CLAMS!\! It's that easy!
 
 message_116:
-    text: \n<TOLL GATOR>Hey, by the way...\! Careful about the interest.\!<br>We'll be coming to collect...
+    text: \n<MYTOGATOR>Hey, by the way...\! Careful about the interest.\!<br>We'll be coming to collect...
 
 message_117:
-    text: \n<TOLL GATOR>Come on! Don't be a stranger!
+    text: \n<MYTOGATOR>Come on! Don't be a stranger!
 
 message_118:
-    text: \n<TOLL GATOR>So you want me to open the gate for you?\!<br>It'll only cost ya 5000 CLAMS.\$
+    text: \n<MYTOGATOR>So you want me to open the gate for you?\!<br>It'll only cost ya 5000 CLAMS.\$
 
 message_119:
-    text: \n<TOLL GATOR>You're the kids who signed those loan papers!\!<br>Trust me... You'll thank me later!
+    text: \n<MYTOGATOR>You're the kids who ZNAKed those loan papers!\!<br>Trust me... You'll thank me later!
 
 message_120:
-    text: \n<TOLL GATOR>Not enough CLAMS, aye?\! No worries, man...<br>Happens to everybody.
+    text: \n<MYTOGATOR>Not enough CLAMS, aye?\! No worries, man...<br>Happens to everybody.
 
 message_121:
-    text: \n<TOLL GATOR>What's the problem?\! You're saying I raised the toll?
+    text: \n<MYTOGATOR>What's the problem?\! You're saying I raised the toll?
 
 message_122:
-    text: \n<TOLL GATOR>Yeah, I sure did.\! What about it?
+    text: \n<MYTOGATOR>Yeah, I sure did.\! What about it?
 
 message_123:
-    text: \n<TOLL GATOR>Have a nice day!
+    text: \n<MYTOGATOR>Miłego dnia!
 
 message_124:
-    text: \n<TOLL GATOR>I see you kids tryin' to climb the gate!\!<br>Get off of there! That's private property!
+    text: \n<MYTOGATOR>I see you kids tryin' to climb the gate!\!<br>Get off of there! That's private property!
 
 message_168:
-    text: \n<TOLL GATOR>Good, good.\!<br>Here... 3000 CLAMS all for you!
+    text: \n<MYTOGATOR>Good, good.\!<br>Here... 3000 CLAMS all for you!
 
 message_169:
-    text: \n<TOLL GATOR>Yeesh...\! Come back when you've got more CLAMS...
+    text: \n<MYTOGATOR>Yeesh...\! Come back when you've got more CLAMS...
 
 message_170:
-    text: \n<TOLL GATOR>So you want me to open the gate for you?\!<br>It'll only cost ya 10000 CLAMS.\$
+    text: \n<MYTOGATOR>So you want me to open the gate for you?\!<br>It'll only cost ya 10000 CLAMS.\$
 
 message_171:
-    text: \n<TOLL GATOR>I'll wait.
+    text: \n<MYTOGATOR>Poczekam.
 
 message_172:
-    text: \n<TOLL GATOR>...
+    text: \n<MYTOGATOR>...
 
 #TOLL GATE 3
 
 message_125:
-    text: \n<TOLL GATOR>\sinv[1]Zzzzzzzzzzzzzzzzzzzzzzzzzz...
+    text: \n<MYTOGATOR>\sinv[1]Zzzzzzzzzzzzzzzzzzzzzzzzzz...
 
 message_126:
-    text: \n<TOLL GATOR>Huh? Where am I?
+    text: \n<MYTOGATOR>Huh? Where am I?
 
 message_127:
-    text: \n<TOLL GATOR>Oh, crap!
+    text: \n<MYTOGATOR>Oh, crap!
 
 message_128:
-    text: \n<TOLL GATOR>Boss, look! I wasn't sleepin'... I was just-
+    text: \n<MYTOGATOR>Boss, look! I wasn't sleepin'... I was just-
 
 message_129:
-    text: \n<TOLL GATOR>Oh... You're just a bunch of kids...\!<br>Bet you just want me to open the gate.
+    text: \n<MYTOGATOR>Oh... You're just a bunch of kids...\!<br>Bet you just want me to open the gate.
 
 message_130:
-    text: \n<TOLL GATOR>Well, I'm gonna to be real with you... These toll prices are jacked. \!It's gonna cost you 3000 CLAMS but I'd find another way around if I were you.<br>So you still want me to open the gate?\$
+    text: \n<MYTOGATOR>Well, I'm gonna to be real with you... These toll prices are jacked. \!It's gonna cost you 3000 CLAMS but I'd find another way around if I were you.<br>So you still want me to open the gate?\$
 
 message_131:
-    text: \n<TOLL GATOR>Really?\! You just got that kind of money lying around?
+    text: \n<MYTOGATOR>Really?\! You just got that kind of money lying around?
 
 message_132:
-    text: \n<TOLL GATOR>You must be swimmin' in it...
+    text: \n<MYTOGATOR>You must be swimmin' in it...
 
 message_133:
-    text: \n<TOLL GATOR>Alright, gate's open.
+    text: \n<MYTOGATOR>Alright, gate's open.
 
 message_134:
-    text: \n<TOLL GATOR>Don't have the cash?\! Yeah, I thought as much...<br>Just turn around, kid. Nothin' but sharks around here.
+    text: \n<MYTOGATOR>Don't have the cash?\! Yeah, I thought as much...<br>Just turn around, kid. Nothin' but sharks around here.
 
 message_135:
-    text: \n<TOLL GATOR>Good choice.\! Save your money for a cool bike or something.
+    text: \n<MYTOGATOR>Good choice.\! Save your money for a cool bike or something.
 
 message_136:
-    text: \n<TOLL GATOR>Hey, you're back!\! Toll is 3000 CLAMS, same as always.\$
+    text: \n<MYTOGATOR>Hey, you're back!\! Toll is 3000 CLAMS, same as always.\$
 
 message_137:
-    text: \n<TOLL GATOR>Kids these days are really something...
+    text: \n<MYTOGATOR>Kids these days are really something...
 
 message_138:
-    text: \n<TOLL GATOR>Hey, don't go touching that!<br>Anything happens to it and they'll have my tail!
+    text: \n<MYTOGATOR>Hey, don't go touching that!<br>Anything happens to it and they'll have my tail!
 
 # -----------------------------------------------
 # - UNDERWATER HIGHWAY: TAXI RIDE (211)
@@ -2033,7 +2033,7 @@ message_292:
 # - SLIME GIRLS: MARINA (221)
 # -----------------------------------------------
 
-#TUMOR SIGN 1
+#TUMOR ZNAK 1
 
 message_231:
     text: EXHIBIT\! STRANGE GROWTH\!<br>PROPERTIES\! ABILITY TO REGENERATE AFTER BEING SMASHED
@@ -2042,59 +2042,59 @@ message_231:
 # - SLIME GIRLS: MARINA (222)
 # -----------------------------------------------
 
-#CHIMERA SIGN
+#CHIMERA ZNAK
 
 message_626:
     text: WARNING\! DO NOT POKE THE GLASS
 
-#TUMOR SIGN 2
+#TUMOR ZNAK 2
 
 message_164:
     text: EXHIBIT\! STRANGE GROWTH\!<br>PROPERTIES\! ABILITY TO TRANSFORM INTO A BRIDGE
 
-#BUNNY SIGN
+#BUNNY ZNAK
 
 message_232:
     text: EXHIBIT\! BUNNIES\!<br>PROPERTIES\! SOFT AND PLIABLE
 
-#RECEPTION HUMPHREY
+#RECEPTION GIGANTOS
 
 message_233:
-    text: \n<RECEPTIONIST HUMPHREY>Welcome!\! MARINA is not currently seeing anyone right now...\! but if you are enjoying the exhibit, feel free to crawl into a cage and wait for the next available experiment.
+    text: \n<RECEPTIONIST GIGANTOS>Welcome!\! MARINA is not currently seeing anyone right now...\! but if you are enjoying the exhibit, feel free to crawl into a cage and wait for the next available experiment.
 
 message_234:
-    text: \n<RECEPTIONIST HUMPHREY>You will know when the screaming stops.
+    text: \n<RECEPTIONIST GIGANTOS>You will know when the screaming stops.
 
 # -----------------------------------------------
 # - SLIME GIRLS: MARINA (225)
 # -----------------------------------------------
 
 message_372:
-    text: \n<HUMPHREY>I like this spot!
+    text: \n<GIGANTOS>I like this spot!
 
 message_621:
-    text: \n<HUMPHREY>I heard there were a lot of delicious WATERMELONS in here so I ate them all!\ Mmm... dee-licious!
+    text: \n<GIGANTOS>I heard there were a lot of delicious WATERMELONS in here so I ate them all!\ Mmm... dee-licious!
 
 # -----------------------------------------------
 # - SLIME GIRLS: MEDUSA (250)
 # -----------------------------------------------
 
 message_235:
-    text: \n<HUMPHREY>Out for a swim?\! Me too!
+    text: \n<GIGANTOS>Out for a swim?\! Me too!
 
 message_236:
-    text: \n<HUMPHREY>Hey, check this out, humans.
+    text: \n<GIGANTOS>Hey, check this out, Mmmans.
 
 message_237:
-    text: \n<HUMPHREY>Did you know us HUMPHRIES are strong enough to withstand a waterfall's current?\! Watch this!
+    text: \n<GIGANTOS>Did you know us MmmPHRIES are strong enough to withstand a waterfall's current?\! Watch this!
 
 message_238:
-    text: \n<HUMPHREY>Yikes!\! Except for that guy, I guess...<br>\!Oh well! That's just natural selection working.
+    text: \n<GIGANTOS>Yikes!\! Except for that guy, I guess...<br>\!Oh well! That's just natural selection working.
 
 message_239:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelHey, you know what?\! I just had an idea!\!<br>I bet... if we gather enough HUMPHRIES-
+    text: \kelHey, you know what?\! I just had an idea!\!<br>I bet... if we gather enough MmmPHRIES-
 
 message_905:
     faceset: MainCharacters_DreamWorld
@@ -2107,10 +2107,10 @@ message_906:
     text: \kel\com[2]Hey! I was supposed to say that!
 
 message_240:
-    text: \n<HUMPHREY>I say that MEDUSA's experiment has a fourteen times seven plus forty-four divided by eleven minus two percent chance of success!
+    text: \n<GIGANTOS>I say that MEDUSA's experiment has a fourteen times seven plus forty-four divided by eleven minus two percent chance of success!
 
 message_241:
-    text: \n<HUMPHREY>Biology is my worst subject, but that's never stopped me!
+    text: \n<GIGANTOS>Biology is my worst subject, but that's never stopped me!
 
 message_242:
     text: \n<BIG MOLIO>I am BIG MOLIO.
@@ -2126,10 +2126,10 @@ message_904:
 # -----------------------------------------------
 
 message_327:
-    text: \n<HUMPHREY>All my friends left me behind to go build a bridge...\! but I'm gonna show them up by building an even bigger bridge!
+    text: \n<GIGANTOS>All my friends left me behind to go build a bridge...\! but I'm gonna show them up by building an even bigger bridge!
 
 message_328:
-    text: \n<HUMPHREY>If you see any HUMPHRIES floating about, be sure to send them my way.
+    text: \n<GIGANTOS>If Wiecie any MmmPHRIES floating about, be sure to send them my way.
 
 # -----------------------------------------------
 # - SLIME GIRLS: MEDUSA (230)
@@ -2215,7 +2215,7 @@ message_503:
 message_504:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: You got this! Show this puzzle who's boss!\kel
+      text: Zdobywasz this! Show this puzzle who's boss!\kel
 
 message_505:
       faceset: MainCharacters_DreamWorld
@@ -2226,113 +2226,113 @@ message_505:
 # - SLIME GIRLS: MOLLY ROOM RIGHT 2 (238)
 # -----------------------------------------------
 
-#WELCOME HUMPHRIES
+#WELCOME MmmPHRIES
 
 message_445:
-    text: \n<RECEPTIONIST HUMPHREY>Welcome!\! You are about to enter MOLLY's testing center where she conducts various procedures and analyses!
+    text: \n<RECEPTIONIST GIGANTOS>Welcome!\! You are about to enter MOLLY's testing center where she conducts various procedures and analyses!
 
 message_477:
-    text: \n<OPERATOR HUMPHREY>According to our tests, it would seem that SPROUT MOLES grow from \c[3]TOFU\c[0]!\! Who knew!?
+    text: \n<OPERATOR GIGANTOS>According to our tests, it would seem that KIEŁKUNS grow from \c[3]TOFU\c[0]!\! Who knew!?
 
 message_478:
-    text: \n<OPERATOR HUMPHREY>Ah... These results are quite unexpected...\! With this knowledge, I just may be able to find the cure for mortality!
+    text: \n<OPERATOR GIGANTOS>Ah... These results are quite unexpected...\! With this knowledge, I just may be able to find the cure for mortality!
 
 message_479:
-    text: \n<OPERATOR HUMPHREY>Oh my! Surely, these numbers aren't correct!\!<br>...\! Oh... wait...\! It seems that I have miscalculated...\!<br>I guess they're not.
+    text: \n<OPERATOR GIGANTOS>Oh my! Surely, these numbers aren't correct!\!<br>...\! Oh... wait...\! It seems that I have miscalculated...\!<br>I guess they're not.
 
 message_480:
-    text: \n<OPERATOR HUMPHREY>We understand so little about this world, so we study it...\! yet our research just fills us with even more questions!\!<br>It's an endless and fruitless cycle!
+    text: \n<OPERATOR GIGANTOS>We understand so little about this world, so we study it...\! yet our research just fills us with even more questions!\!<br>It's an endless and fruitless cycle!
 
 message_481:
-    text: \n<OPERATOR HUMPHREY>This is HUMPHREY to HUMPHREY... Do you read me?
+    text: \n<OPERATOR GIGANTOS>This is GIGANTOS to GIGANTOS... Do you read me?
 
 message_482:
-    text: \n<OPERATOR HUMPHREY>Mhmm...\! Yes...\!<br>Have you tried turning it off and back on again?
+    text: \n<OPERATOR GIGANTOS>Mhmm...\! Yes...\!<br>Have you tried turning it off and back on again?
 
 message_483:
-    text: \n<OPERATOR HUMPHREY>It's tough to get any actual work done around here, since MOLLY is always messing with our research...<br><br>I wish I was assigned to MEDUSA's quadrant...\!<br>That's where they assign all the work-hard-play-hard types...<br>I hear they even have a water slide!
+    text: \n<OPERATOR GIGANTOS>It's tough to get any actual work done around here, since MOLLY is always messing with our research...<br><br>I wish I was asZNAKed to MEDUSA's quadrant...\!<br>That's where they asZNAK all the work-hard-play-hard types...<br>I hear they even have a water slide!
 
 message_484:
-    text: \n<OPERATOR HUMPHREY>That's what I'm saying...\! According to the live feed, she's working hard on something in her "workshop"...\! Yeah, okay...\!<br>I'll keep an eye on it.
+    text: \n<OPERATOR GIGANTOS>That's what I'm saying...\! According to the live feed, she's working hard on something in her "workshop"...\! Yeah, okay...\!<br>I'll keep an eye on it.
 
 message_485:
-    text: \n<OPERATOR HUMPHREY>Looks like MARINA just had a huge fight with a client.\! Things aren't looking good...
+    text: \n<OPERATOR GIGANTOS>Looks like MARINA just had a huge fight with a client.\! Things aren't looking good...
 
 #Teleport Object
 
 message_396:
-    text: \n<SPROUT MOLE>I can't believe I signed up for this.
+    text: \n<KIEŁKUN>I can't believe I ZNAKed up for this.
 
-#FIRST HUMPHREY (Pattern)
+#FIRST GIGANTOS (Pattern)
 
 message_446:
-    text: \n<HUMPHREY>Greetings, visitors!\! Would you like to see something cool?\!<br>This machine here can perform remote teleportation!
+    text: \n<GIGANTOS>Greetings, visitors!\! Would you like to see something cool?\!<br>This machine here can perform remote teleportation!
 
 message_454:
-    text: \n<HUMPHREY>With the power of modern technology, I can send this SPROUT MOLE to the other side of the grid!\! Take a look!
+    text: \n<GIGANTOS>With the power of modern technology, I can send this KIEŁKUN to the other side of the grid!\! Take a look!
 
 message_455:
-    text: \n<HUMPHREY>\com[2]What!? An error?\! ...\!<br>Someone must have messed with the program.<br><br>Sigh...\! It was probably MOLLY again...\!<br>She always pulls stunts like this...
+    text: \n<GIGANTOS>\com[2]What!? An error?\! ...\!<br>Someone must have messed with the program.<br><br>Sigh...\! It was probably MOLLY again...\!<br>She always pulls stunts like this...
 
 message_456:
-    text: \n<HUMPHREY>Dangit, MOLLY!\! Everything worked so perfectly this morning...
+    text: \n<GIGANTOS>Dangit, MOLLY!\! Everything worked so perfectly this morning...
 
-#SECOND HUMPHREY (Pattern)
+#SECOND GIGANTOS (Pattern)
 
 message_447:
-    text: \n<HUMPHREY>Hey there, visitors!\! I've been leading an experiment on HUMPHREY-through-HUMPHREY movement!\! You've come just in time to watch us conduct our final test!
+    text: \n<GIGANTOS>Hey there, visitors!\! I've been leading an experiment on GIGANTOS-through-GIGANTOS movement!\! You've come just in time to watch us conduct our final test!
 
 message_448:
-    text: \n<HUMPHREY>Are you ready, gang?\! Let's do it just like we practiced!
+    text: \n<GIGANTOS>Are you ready, gang?\! Let's do it just like we practiced!
 
 message_449:
-    text: \n<HUMPHREY>This... This wasn't in my plans...
+    text: \n<GIGANTOS>This... This wasn't in my plans...
 
 message_451:
-    text: \n<HUMPHREY>Where'd everybody go?
+    text: \n<GIGANTOS>Where'd everybody go?
 
 message_457:
-    text: \n<HUMPHREY>We're testing!
+    text: \n<GIGANTOS>We're testing!
 
 message_458:
-    text: \n<HUMPHREY>I can't wait to show off the results of our research!
+    text: \n<GIGANTOS>I can't wait to show off the results of our research!
 
 message_459:
-    text: \n<HUMPHREY>I'm all ready to go!
+    text: \n<GIGANTOS>I'm all ready to go!
 
 message_460:
-    text: \n<HUMPHREY>I should have gone through my notes one last time...
+    text: \n<GIGANTOS>I should have gone through my notes one last time...
 
 message_476:
-    text: \n<HUMPHREY>Prepare to be amazed!
+    text: \n<GIGANTOS>Prepare to be amazed!
 
-#FOURTH HUMPHREY (Pattern)
+#FOURTH GIGANTOS (Pattern)
 
 message_452:
-    text: \n<HUMPHREY>Ah! Hello, visitors!\! After months upon months of hard work and toil, I've successfully created the first-ever HUMPHREY hologram machine!<br>Don't they look just like the real thing?\!<br>Sniff...\! I couldn't be more proud...
+    text: \n<GIGANTOS>Ah! Hello, visitors!\! After months upon months of hard work and toil, I've successfully created the first-ever GIGANTOS hologram machine!<br>Don't they look just like the real thing?\!<br>Sniff...\! I couldn't be more proud...
 
 message_453:
-    text: \n<HUMPHREY>MOLLY told me to stand here, but I don't know why!
+    text: \n<GIGANTOS>MOLLY told me to stand here, but I don't know why!
 
-#THIRD HUMPHREY (Pattern)
+#THIRD GIGANTOS (Pattern)
 
 message_461:
-    text: \n<HUMPHREY>Hmm...\| Oof...\| Urg...\| Hrm...\| Eh?
+    text: \n<GIGANTOS>Hmm...\| Oof...\| Urg...\| Hrm...\| Eh?
 
 message_462:
-    text: \n<HUMPHREY>Huh? What are you looking at me like that for?\!<br>Can't you see that I'm busy?
+    text: \n<GIGANTOS>Huh? What are you looking at me like that for?\!<br>Can't Wiecie that I'm busy?
 
 message_463:
-    text: \n<HUMPHREY>...
+    text: \n<GIGANTOS>...
 
 message_700:
-    text: \n<HUMPHREY>Actually... I just got an idea!\! On second thought, can one of you kids try running through these metal plates for me?\!<br>I just want to test something.
+    text: \n<GIGANTOS>Actually... I just got an idea!\! On second thought, can one of you kids try running through these metal plates for me?\!<br>I just want to test something.
 
 message_701:
-    text: \n<HUMPHREY>Why don't you discuss it amongst yourselves and vote?
+    text: \n<GIGANTOS>Why don't you discuss it amongst yourselves and vote?
 
 message_702:
-    text: Who should help HUMPHREY with his experiment?
+    text: Who should help GIGANTOS with his experiment?
 
 message_465:
       faceset: MainCharacters_DreamWorld
@@ -2355,22 +2355,22 @@ message_468:
       text: Leave this to me...\! Besides, I don't have a good feeling about this.\her
 
 message_469:
-    text: \n<HUMPHREY>Hurry up! I don't have all day!
+    text: \n<GIGANTOS>Hurry up! I don't have all day!
 
 message_470:
-    text: \n<HUMPHREY>\com[2]A-ha! I knew one of these spikes was broken...
+    text: \n<GIGANTOS>\com[2]A-ha! I knew one of these spikes was broken...
 
 message_471:
-    text: \n<HUMPHREY>If I had a cup of coffee right now, I would sip it!
+    text: \n<GIGANTOS>If I had a cup of coffee right now, I would sip it!
 
 message_472:
-    text: \n<HUMPHREY>Thanks for voluntarily risking your life.
+    text: \n<GIGANTOS>Thanks for voluntarily risking your life.
 
 message_473:
-    text: \n<HUMPHREY>Well... I guess now I gotta go fix it.
+    text: \n<GIGANTOS>Well... I guess now I gotta go fix it.
 
 message_474:
-    text: \n<HUMPHREY>Hmm...\| Oof...\| Urg...\| Hrm...\| Eh?
+    text: \n<GIGANTOS>Hmm...\| Oof...\| Urg...\| Hrm...\| Eh?
 
 message_475:
     text: \"TYPE... CONSOLE\"<br>\"STATUS... BROKEN\"
@@ -2388,27 +2388,27 @@ message_177:
     text: HERO
 
 message_450:
-    text: \n<HUMPHREY>Whoa, there! Not so fast, buddy. You're not done here yet!\! Make sure to go through all of them!
+    text: \n<GIGANTOS>Whoa, there! Not so fast, buddy. You're not done here yet!\! Make sure to go through all of them!
 
 # -----------------------------------------------
 # - SLIME GIRLS: LOST ROOM 1 (241) UNUSED
 # -----------------------------------------------
 
 message_486:
-    text: \n<KNOWLEDGEABLE HUMPHREY>A wise whale once said...<br>"Counting your enemies will show you the path to victory!"\! or something like that...
+    text: \n<KNOWLEDGEABLE GIGANTOS>A wise whale once said...<br>"Counting your enemies will show you the path to victory!"\! or something like that...
 
 message_608:
-    text: \n<KNOWLEDGEABLE HUMPHREY>Would you like some assistance?
+    text: \n<KNOWLEDGEABLE GIGANTOS>Would you like some assistance?
 
 message_609:
-    text: \n<KNOWLEDGEABLE HUMPHREY>If you direct your attention to this here monitor, you will see the position of four different teleporters. Counting the number of enemies in the room will let you know which position is the right one!
+    text: \n<KNOWLEDGEABLE GIGANTOS>If you direct your attention to this here monitor, you will see the position of four different teleporters. Counting the number of enemies in the room will let you know which position is the right one!
 
 # -----------------------------------------------
 # - SLIME GIRLS: LOST ROOM 4 (247)
 # -----------------------------------------------
 
 message_487:
-    text: \n<KNOWLEDGEABLE HUMPHREY>A wise whale once said...<br>"The order of the route will lead you to the solution!"\! or something like that...
+    text: \n<KNOWLEDGEABLE GIGANTOS>A wise whale once said...<br>"The order of the route will lead you to the solution!"\! or something like that...
 
 # -----------------------------------------------
 # - SLIME GIRLS: MOLLY ROOM LEFT 2 (240)
@@ -2430,7 +2430,7 @@ message_331:
     text: \n<HERO>Ahem...\! Greetings, Sir CONVEYOR-BOT...\! My companions and<br>I require your assistance in changing the directions of your conveyors...\! Will you and your friends please aid us?
 
 message_332:
-    text: \n<MR. CONVEYOR-BOT>\quake[1]Bzzt...\! Hmph...\! Nice person...\quake[0]
+    text: \n<MR. CONVEYOR-BOT>\quake[1]Bzzt...\! Hmf...\! Nice person...\quake[0]
 
 message_333:
       text: \n<MR. CONVEYOR-BOT>\quake[1]Get... lost...\quake[0]
@@ -2479,77 +2479,77 @@ message_999:
 # -----------------------------------------------
 
 message_488:
-    text: \n<HUMPHREY>MOLLY told us to write letters on our back and stand in this order!
+    text: \n<GIGANTOS>MOLLY told us to write letters on our back and stand in this order!
 
 message_489:
-    text: \n<HUMPHREY>At least, I think it was this order...
+    text: \n<GIGANTOS>At least, I think it was this order...
 
 message_490:
-    text: \n<HUMPHREY>I'm pretty sure I'm supposed to switch places with the one on your right...
+    text: \n<GIGANTOS>I'm pretty sure I'm supposed to switch places with the one on your right...
 
 message_491:
-    text: \n<HUMPHREY>And when I say "your right", I mean you, as in the person standing in front of me... not some hypothetical observer watching us from behind a screen.
+    text: \n<GIGANTOS>And when I say "your right", I mean you, as in the person standing in front of me... not some hypothetical observer watching us from behind a screen.
 
 message_492:
-    text: \n<HUMPHREY>This must be for one of MOLLY's crazy puzzles again...
+    text: \n<GIGANTOS>This must be for one of MOLLY's crazy puzzles again...
 
 message_493:
-    text: \n<HUMPHREY>That girl loves to play games too much. If she would just focus, she could probably do so much good for the world!
+    text: \n<GIGANTOS>That girl loves to play games too much. If she would just focus, she could probably do so much good for the world!
 
 message_494:
-    text: \n<HUMPHREY>It's a good thing I checked before writing this "M", or else I would have almost written another "B"...
+    text: \n<GIGANTOS>It's a good thing I checked before writing this "M", or else I would have almost written another "B"...
 
 message_495:
-    text: \n<HUMPHREY>That would have been pretty bad, huh?
+    text: \n<GIGANTOS>That would have been pretty bad, huh?
 
 # -----------------------------------------------
 # - SLIME GIRLS LAIR: MEDUSA (231, 250)
 # -----------------------------------------------
 
-#FLOATIE HUMPHRIES 1
+#FLOATIE MmmPHRIES 1
 
 message_57:
-    text: \n<HUMPHREY>Of course I will! I thought you'd never ask!
+    text: \n<GIGANTOS>Of course I will! I thought you'd never ask!
 
 message_58:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelHey, HUMPHREY! Do you wanna to join your friend HUMPHREY at the waterfall?
+    text: \kelHey, GIGANTOS! Do you wanna to join your friend GIGANTOS at the waterfall?
 
 message_610:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
+    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
 
 message_611:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
+    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
 
 message_612:
-    text: \n<HUMPHREY BRIDGE\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
+    text: \n<GIGANTOS BRIDGE\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
 
 message_613:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
+    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
 
-#FLOATIE HUMPHRIES 2
+#FLOATIE MmmPHRIES 2
 
 message_614:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]\i[13]
+    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]\i[13]
 
 message_615:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]
+    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]
 
 message_616:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]
+    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]
 
 message_617:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
+    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
 
 message_618:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
+    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
 
 message_619:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
+    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
 
 message_620:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
+    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
 
 # -----------------------------------------------
 # - RECYCULTIST: RANDOM DIALOGUE (341)
@@ -2697,7 +2697,7 @@ message_275:
     text: \n<RECYCLEPATH>The spirit of the rubber glove told me that this world is no longer fit for us.\! We must build, as the holy bin in the sky commands us...
 
 message_276:
-    text: \n<RECYCLEPATH>To reach the trashless world, where humans and biodegradable materials may coexist in harmony!
+    text: \n<RECYCLEPATH>To reach the trashless world, where Mmmans and biodegradable materials may coexist in harmony!
 
 message_277:
     text: \n<RECYCLEPATH>You kids have reached a long way up this tower...\! but I'm afraid this is where your journey ends.

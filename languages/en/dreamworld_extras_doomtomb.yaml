@@ -213,7 +213,7 @@ message_220:
 message_221:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubDzięki... Myślałam, że zostanę już TOSTEM na zawsze!
+      text: \aubDzięki... Myślałam, że zostanę TOSTEM już na zawsze!
  
 #AUBREY joins your party.
  
@@ -410,7 +410,7 @@ message_97:
       text: \n<CHAŁKA>Jednakże...\! Żywa ciekawość zżera mnie od środka...
  
 message_98:
-      text: \n<CHAŁKA>Ten portal na ziemi pomógłby opuścić nam to miejsce.
+      text: \n<CHAŁKA>Ten portal na ziemi pomógłby nam opuścić  to miejsce.
  
 message_99:
       text: \n<CHAŁKA>Używaliśmy go wiele razy, by przywołać chleb, jednak nigdy nie widzieliśmy, co kryje się po jego drugiej stronie...

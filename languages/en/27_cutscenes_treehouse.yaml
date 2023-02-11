@@ -291,7 +291,7 @@ message_101:
 message_102:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Ej, patrzcie! Nasze karty!\! <br>Byłem w nich najlepszy, co nie?\kel
+      text: Ej, patrzcie! Nasze karty!\! <br>Byłem w nie najlepszy, co nie?\kel
  
 #AUBREY walks up to stuffed toy.
  
@@ -395,7 +395,7 @@ message_118:
 message_119:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Znowu wszyscy razem...<br>\! MARI byłaby z nas taka dumna!\kel
+      text: Znowu wszyscy razem...<br>\!MARI byłaby z nas taka dumna!\kel
  
 message_120:
       faceset: MainCharacters_Faraway

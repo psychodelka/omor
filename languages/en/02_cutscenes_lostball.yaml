@@ -132,7 +132,7 @@ message_26:
 # =========================================================================================
  
 message_100:
-      text: Jesteście  gotowi, by znaleźć moją \c[4]ZAGINIONĄ PIŁKĘ\c[0]!?\!<br>\}To nie tak, że potrzebuję waszej pomocy...\ber
+      text: Jesteście gotowi, by znaleźć moją \c[4]ZAGINIONĄ PIŁKĘ\c[0]!?\!<br>\}To nie tak, że potrzebuję waszej pomocy...\ber
  
 message_38:
       text: No wreszcie!\! Chodźmy już.\! Zaraz umrę z nudów!\ber

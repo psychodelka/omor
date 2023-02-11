@@ -39,7 +39,7 @@ message_6:
  
  
 message_7:
-      text: Brama jest zamknięta.\! Może uda ci się ją otworzyć za pomocą  \c[4]ŚMIECIOKLUCZA\c[0].
+      text: Brama jest zamknięta.\! Może uda ci się ją otworzyć za pomocą \c[4]ŚMIECIOKLUCZA\c[0].
  
 # =========================================================================================
 # Cutscene: Kel's THROW Tag Skill
