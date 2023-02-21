@@ -5004,30 +5004,30 @@ Sprite_ACSBubble.prototype.updatePosition = function(position) {
   switch (this._actorIndex) {
     case 0: // AUBREY
       switch (position) {
-        case 0: this.x = 110; this.y = 45 ;break;
+        case 0: this.x = 110; this.y = 40 ;break;
         case 1: this.x = 90; this.y = 110 ;break;
-        case 2: this.x = 5; this.y = 140 ;break;
+        case 2: this.x = -5; this.y = 150 ;break;
       }
     break;
     case 1: // HERO
       switch (position) {
-        case 0: this.x = -115; this.y = 45 ;break;
+        case 0: this.x = -115; this.y = 40 ;break;
         case 1: this.x = -105; this.y = 110 ;break;
-        case 2: this.x = -15; this.y = 140 ;break;
+        case 2: this.x = -2; this.y = 145 ;break;
       }
     break;
     case 2: // OMORI
       switch (position) {
-        case 0: this.x = 5; this.y = -80 ;break;
+        case 0: this.x = -10; this.y = -80 ;break;
         case 1: this.x = 95; this.y = -55 ;break;
-        case 2: this.x = 110; this.y = 10 ;break;
+        case 2: this.x = 110; this.y = 20 ;break;
       }
     break;
     case 3: // KEL
       switch (position) {
-        case 0: this.x = -5; this.y = -70 ;break;
-        case 1: this.x = -95; this.y = -55 ;break;
-        case 2: this.x = -105; this.y = 10 ;break;
+        case 0: this.x = 0; this.y = -70 ;break;
+        case 1: this.x = -100; this.y = -55 ;break;
+        case 2: this.x = -110; this.y = 20 ;break;
       }
     break;
     default:

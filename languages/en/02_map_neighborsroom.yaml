@@ -1,7 +1,7 @@
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kel\c[13]HECTOR\c[0] jest najfajniejszym głazikiem na świecie! 
+      text: \kel\c[13]HEKTOR\c[0] jest najfajniejszym głazikiem na świecie!
  
 message_2:
       text: Nie możesz wyjść bez swoich przyjaciół.
@@ -128,4 +128,3 @@ message_121:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
       text: \kelCo tam, kumplu?\! Tęskniłeś? Hehe...
-

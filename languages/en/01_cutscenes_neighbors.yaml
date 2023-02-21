@@ -30,7 +30,7 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: No nie... \Com[2]Patrz pod nogi, AUBREY!\!<br>Pomieszałaś wszystkie karty!!\!<br>A byłem już tak blisko wygranej.\kel
+      text: No nie... \Com[2]Patrz pod nogi, AUBREY!\!<br>Pomieszałaś wszystkie karty!!\!<br>A prawie wygrywałem.\kel
  
 message_4:
       faceset: MainCharacters_DreamWorld
@@ -42,7 +42,7 @@ message_4:
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Oszczędź sobie swoje mądrości, HERO!<br>\!Mówisz tak, bo sam przegrywałeś.\kel
+      text: Daj spokój, HERO!<br>\!Mówisz tak, bo sam przegrywałeś.\kel
  
 message_6:
       faceset: MainCharacters_DreamWorld
@@ -546,5 +546,3 @@ message_125:
  
 message_200:
       text: Twoi przyjaciele na ciebie czekają.
- 
-

@@ -1,644 +1,837 @@
-# =========================================================================================
+`# =========================================================================================
 # Dreamworld NPC Dialogue: Sweetheart's Castle -> Foyer
 # =========================================================================================
 
+
 message_200:
-      text: \n<HAROLD>\com[2]\{\{\quake[1]HALT, PRISONERS!!
+      text: \n<HAROLD>\com[2]\{\{\quake[1]STAĆ, WIĘŹNIOWIE!!
+
 
 message_201:
-      text: \n<HAROLD>Did you really think that you could escape that easily!?
+      text: \n<HAROLD>Poważnie myśleliście, że tak łatwo będzie się wydostać!?
+
 
 message_202:
-      text: \n<HAROLD>It's back to \c[11]THE DUNGEON\C[0] for you four!
+      text: \n<HAROLD>Pora wracać do \c[11]LOCHÓW\C[0], dzieciaki!
+
 
 #message_203: Delete line
 #      text: \n<KEL>Yes, we are?
 
+
 message_204:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \n<AUBREY>Darn... and we were so close too!
+      text: \n<AUBREY>Kurka... Było tak blisko!
+
 
 message_205:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \n<KEL>\}Uh-oh... what do we do now?
+      text: \n<KEL>\}Ch-cholera... I co teraz?
+
 
 message_206:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: \n<HERO>Think, HERO, think!\! Come on... How do we get out of this?\!<br>...\! Oh, I got it!
+      text: \n<HERO>Myśl, HERO, myśl!\! Dawaj... Jak się stąd wydostać?\!<br>...\! Och, wiem!
+
 
 message_207:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \n<HERO>...\! Ahem...\! On the contrary, sir knight, I think you have mistaken us for someone else! Hm, hm, yes.
+      text: \n<HERO>...\! Ekhem...\! Muszę się sprzeciwić, waćpanie, gdyż zakrawa mi to na omylenie nas z kimś innym! No, no, zgadza się.
+
 
 #KEL ? MARK THEN EXCLAMATION POINT
 #EVERYONE TURN AND PUTS ON SPROUT MOLE MASKS
 
+
 message_208:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \n<KEL>\com[2]Hem, hem. Don't be so quick to judge!\!<br>We are SPROUT MOLES, indubitably.
+      text: \n<KEL>\com[2]Ejże, ej. Nie oceniaj książki po okładce!\!<br>Jesteśmy KIEŁKUNAMI z krwi i kości.
+
 
 message_209:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \n<AUBREY>Hoo, hoo, indeed! Ah yes, quite!\! I am also a lover of \c[3]TOFU\c[0] and SWEETHEART!\! Mmm... Delicious SWEETHEA- I mean, \c[3]TOFU\c[0].
+      text: \n<AUBREY>O tak, tak, jak najbardziej! Jeszcze jak!\! Jestem też wielbicielką \c[3]TOFU\c[0] i SŁODZIUTKIEJ!\! Mmm... Przepyszna SŁODZIU... Znaczy, pyszne \c[3]TOFU\c[0].
+
 
 message_210:
-      text: \n<HAROLD>Egad! My eyes must have deceived me. I apologize, brethren.<br>\!It is rather hard to see through this helmet.
+      text: \n<HAROLD>Och! Moje oczy musiały mnie zawieść. Moje kondolencje, bracia.<br>\!Czasem ciężko zobaczyć coś przez ten hełm.
+
 
 message_211:
-      text: \n<HAROLD>Very well, carry on then.\! I will resume my patrol.\! You lot ought to return to your stations as well, lest our dear SWEETHEART notices...
+      text: \n<HAROLD>A więc dalej w drogę.\! Ja kontynuuję swój patrol.\! Wy również, moi drodzy, kierujcie się w stronę waszego celu. Chyba nie chcecie, by jej wysokość SŁODZIUTKA zauważyła...
+
 
 message_212:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \n<HERO>Heh... How's that for some quick thinking?
+      text: \n<HERO>Ech... Chyba dobrze jak na spontaniczny plan?
+
 
 message_213:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: \n<AUBREY>That was so smooth, HERO!\! With these \c[4]SPROUT MOLE MASKS\c[0], we'll be able to make it out of here in a cinch!
+      text: \n<AUBREY>Poszło jak z płatka, HERO!\! Dzięki tym \c[4]KIEŁKUNOWYM MASKOM\c[0] wydostaniemy się stąd migiem!
+
 
 message_214:
       faceset: MainCharacters_DreamWorld
       faceindex: 24
-      text: \n<KEL>Do we really have to keep wearing these, HERO?\!<br>Mine is getting kind of itchy...
+      text: \n<KEL>Serio musimy je nosić, HERO?\!<br>Trochę zaczyna mnie drapać...
+
 
 message_215:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \n<HERO>Yes, KEL... We should keep them on until we get out of here.\! C'mon... Let's move.
+      text: \n<HERO>Tak, KEL... Musimy je nosić, póki się stąd nie wydostaniemy.\! Dawaj... Chodźmy.
+
 
 # =========================================================================================
 # Dreamworld NPC Dialogue: Sweetheart's Castle -> Guest List
 # =========================================================================================
 
+
 message_0:
-      text: \n<GUEST LIST MOLE>Oh my! There's simply no time to admit entry to all these unruly guests!\! It just goes to show that we mustn't ever underestimate the popularity of our dear SWEETHEART...
+      text: \n<KIEŁKUN OD LISTY GOŚCI>Mój boże! Nie ma czasu na zatwierdzenie wejścia wszystkich tych gości bez grama kultury!\! A to dowód na to, że sława naszej kochanej SŁODZIUTKIEJ jest niepodważalna...
+
 
 #guest mole puts up chart
 
+
 message_1:
-      text: \n<GUEST LIST MOLE>You there! Servants with the ugly faces!\! The upcoming main event has a strict dress code.<br><br>It is of utmost importance that our audience is dressed to SWEETHEART's exact specifications.\! Here is a simple chart that even a non-SPROUT MOLE could understand!
+      text: \n<KIEŁKUN OD LISTY GOŚCI>Wy tutaj! Sługi z nieprzyzwoitymi facjatami!\! Nadchodzące główne wydarzenie wymaga przepisowego stroju. Jest dla nas niesamowicie istotne, aby widownia była ubrana po myśli SŁODZIUTKIEJ.\! Tutaj macie prostą instrukcję. Zrozumie ją KIEŁKUN i nie tylko!
+
 
 message_2:
-      text: \n<GUEST LIST MOLE>What is it now?\! Do you need help with something?
+      text: \n<KIEŁKUN OD LISTY GOŚCI>Słucham?\! Potrzebujecie z czymś pomocy?
+
 
 message_3:
-      text: \n<GUEST LIST MOLE>Kindly ask the lesser guests to follow you and bring them to me!\! You can do something that simple, can't you?
+      text: \n<KIEŁKUN OD LISTY GOŚCI>Ładnie poproście grupkę gości, by za wami podążali i przyprowadźcie ich do mnie!\! Nie sprawi wam to problemu, racja?
+
 
 #pan up
 message_4:
-      text: \n<GUEST LIST MOLE>\com[2]What are you doing!?<br>That SPROUT MOLE is an esteemed guest!
+      text: \n<KIEŁKUN OD LISTY GOŚCI>\com[2]Co wy wyprawiacie!? Ten KIEŁKUN jest gościem pierwszej klasy!
+
 
 message_5:
-      text: What's the dress code again?
+      text: Jak miały być ubrane KIEŁKUNY?
+
 
 message_6:
-      text: How many SPROUT MOLES are left?
+      text: Ile KIEŁKUNÓW zostało?
+
 
 message_7:
-      text: \n<GUEST LIST MOLE>Even from here, I can see that there are \v[1001] guests that are improperly dressed!
+      text: \n<KIEŁKUN OD LISTY GOŚCI>Nawet stąd widzę \v[1001] niewłaściwie ubranych gości!
+
 
 message_8:
-      text: \n<GUEST LIST MOLE>Even from here, I can see that there is 1 guest that is improperly dressed!
+      text: \n<KIEŁKUN OD LISTY GOŚCI>Nawet stąd widzę 1 niewłaściwie ubranego gościa!
+
 
 message_10:
-      text: \n<GUEST LIST MOLE>Splendid! I knew you had it in you!\!<br>Now we can finally get rid of these unpinkish guests!
+      text: \n<KIEŁKUN OD LISTY GOŚCI>Cudownie! Wiedziałem, że macie do tego głowę!\!<br>W końcu możemy pozbyć się tych nieróżowych gości!
+
 
 message_11:
-      text: \n<GUEST LIST MOLE>And that takes care of that!\!<br>Those unpinkish guests will never see the light of day again!
+      text: \n<KIEŁKUN OD LISTY GOŚCI>I załatwione!\!<br>Ci nieróżowi goście już nigdy nie ujrzą słońca!
+
 
 message_12:
-      text: \n<GUEST LIST MOLE>\Com[2]\{GUARDS!!\!\}<br>Escort these SPROUT MOLES to \c[11]THE DUNGEON\C[0]!
+      text: \n<KIEŁKUN OD LISTY GOŚCI>\Com[2]\{STRAŻ!!\!\}<br>Przetransportować tych KIEŁKUNÓW do \c[11]LOCHU\C[0]!
+
 
 message_20:
-      text: \n<PINK MOLE>How dare they make me wait! I am an esteemed guest!
+      text: \n<RÓŻOWY KIEŁKUN>To niewyobrażalne, żeby kazali mi tyle czekać! Jestem szanownym gościem!
+
 
 message_21:
-      text: \n<PINK? MOLE>How dare they make me wait! I am an esteemed guest!
+      text: \n<RÓŻOWY? KIEŁKUN>To niewyobrażalne, żeby kazali mi tyle czekać! Jestem szanownym gościem!
+
 
 message_22:
-      text: \n<PINK? MOLE>\v[1001]
+      text: \n<RÓŻOWY? KIEŁKUN>\v[1001]
+
 
 message_23:
-      text: Perhaps someone more charming could change their tune...
+      text: Może ktoś bardziej kulturalny przemówiłby im do rozumu...
+
 
 message_30:
-    text: Do you want to ask this SPROUT MOLE to follow you?
+    text: Chcesz, by ten KIEŁKUN podążał za tobą?
 
+
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> bAKE cAKE
 message_40:
-      text: \n<HAROLD>\sinv[1]I don't know what I've been told...\!<br>SWEETHEART's love's as good as gold!
+      text: \n<HAROLD>\sinv[1]Nie wiem, o czym oni mówią...\!<br>Miłość SŁODZIUTKIEJ jest na wagę złota!
+
 
 message_41:
-      text: \n<HAROLD>\sinv[2]Hut! Hut! Hut!
+      text: \n<HAROLD>\sinv[2]Tup! Tup! Tup!
+
 
 message_42:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Greetings, esteemed guest! Please follow me as your presence is urgently required...\her
+      text: Witaj, szanowny gościu! Prosiłbym cię o podążanie za nami, gdyż twoja osobistość jest nam niezwykle potrzebna...\her
+
 
 # =========================================================================================
-# Dreamworld NPC Dialogue: Sweetheart's Castle -> bAKE cAKE
 # =========================================================================================
 message_60:
-      text: \n<HEAD CHEF MOLE>Urg... My dear sous chefs...\!<br>I'm afraid my back just can't take anymore!\! It is at this unfortunate time that I announce my retirement.
+      text: \n<GŁÓWNY SZEF KIEŁKUCHNI>Uch... Moi drodzy podopieczni...\!<br>Niestety mój kręgosłup już wysiada!\! W tej niefortunnej chwili muszę ogłosić, iż przechodzę na emeryturę.
+
 
 message_61:
-      text: \n<SOUS CHEF MOLE>But wait, chief! Without you, who will lead us in our task of baking a most magnificent cake for the main event!?
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ale czekaj, szefie! Jak mamy przygotować bajeczne ciasto na tę wyjątkową okazję bez ciebie!?
+
 
 message_62:
-      text: \n<CHEF MOLE>Sous chefs, it is now time for one of you to step up to the limelight.\! A cake must be baked today! Our very lives are on the line!
+      text: \n<SZEF KIEŁKUCHNI>Moi asystenci, jeden z was musi się wspiąć o szczebel wyżej.\! Ciasto musi być dzisiaj gotowe! Jesteśmy na krawędzi!
+
 
 message_63:
-      text: \n<SOUS CHEF MOLE>Oh, yes! I hear you, chief!\! As the most capable one of us,<br>I will volunteer and take charge of this task!\!<br>I won't fail you! I promise...
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ach, jasne! Rozumiem, szefie!\! Jako najzdolniejszy z nas wszystkich, podejmę się dowodzenia tym zadaniem!\!<br>Nie zawiodę cię! Masz moje słowo...
+
 
 # =========------------------
 message_70:
-     text: \n<OTHER SOUS CHEF MOLE>Hmm... Actually...\! I think I'll sit this one out...
+     text: \n<INNY ASYSTENT SZEFA KIEŁKUCHNI>Hmm... Właściwie to...\! Chyba nie wezmę udziału...
+
 
 message_71:
-      text: \n<OTHER SOUS CHEF MOLE>Yeah, my stomach doesn't feel so good...
+      text: \n<INNY ASYSTENT SZEFA KIEŁKUCHNI>No, jakoś brzuch mnie rozbolał...
+
 
 message_74:
-      text: \n<SOUS CHEF MOLE>Bah! I don't need the support of you haters!\! I'll bake a cake that will end all cakes, you'll see!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ba! Nie potrzebuję waszej pomocy, nieudacznicy!\! Upiekę najlepsze ciasto na świecie, jeszcze zobaczycie!
+
 
 message_72:
-      text: \n<SOUS CHEF MOLE>Hey, you there!\! You four are SOUS CHEFS now.\!<br>Meet me in the kitchen, pronto!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ej, wy tutaj!\! Mianuję was ASYSTENTAMI SZEFA KIEŁKUCHNI.\!<br>Widzimy się w kuchni, pronto!
+
 
 # =========------------------
+
 
 message_73:
-      text: \n<SOUS CHEF MOLE>What took you so long!?\! Step on it, will you?\! I can't leave this room until I bake the best cake in existence!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Co tak długo!?\! Zajmijcie się tym, dobra?\! Nie ruszę się stąd, póki nie upiekę najlepszego ciasta we wszechświecie!
+
 
 # =========------------------
 
+
 message_80:
-      text: \n<SOUS CHEF MOLE>\com[2]Where are you going!? Come back here!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>\com[2]Gdzie wy się wybieracie!? Wracać tu!
+
 
 message_81:
-      text: \n<SOUS CHEF MOLE>Good luck...\! You're going to need it.
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Powodzenia...\! Przyda wam się.
+
 
 # =========------------------
 message_82:
-      text: \n<SOUS CHEF MOLE>Are you ready to start baking?\! Just follow my instructions and you'll be fine.\! I remember the HEAD CHEF's recipe by heart!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Gotowi, żeby już zacząć?\! Po prostu słuchajcie moich instrukcji i będzie perfekcyjnie.\! Znam przepis GŁÓWNEGO SZEFA KIEŁKUCHNI na pamięć!
+
 
 message_83:
-      text: \n<SOUS CHEF MOLE>Hey, don't be nervous!\! Trust me, I know what I'm doing!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ej, nie ma co się denerwować!\! Zaufajcie mi, wiem co robię!
+
 
 message_84:
-      text: \n<SOUS CHEF MOLE>First, we must preheat the oven to 75 DEGREES!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Krok pierwszy, nastawcie piekarnik na 75 STOPNI!
+
 
 message_100:
-      text: What temperature do you want to preheat the oven?
+      text: Na jaką temperaturę chcesz nastawić piekarnik?
+
 
 # =========------------------
 message_101:
-      text: 75 DEGREES
+      text: 75 STOPNI
+
 
 message_102:
-      text: 190 DEGREES
+      text: 190 STOPNI
+
 
 message_103:
-      text: 350 DEGREES
+      text: 350 STOPNI
+
 
 message_120:
-      text: PICK RANDOMLY
+      text: WYLOSUJ
 # =========------------------
+
 
 message_104:
-      text: You turned on the oven.\! It is now preheating.
+      text: Nastawiłeś piekarnik.\! Nagrzewa się.
+
 
 message_105:
-      text: \n<SOUS CHEF MOLE>Excellent work!\! The next thing to do is to mix two main ingredients in a bowl...\! FLOWERS and PING PONG BALLS!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Cudownie!\! Następnie musicie wymieszać dwa główne składniki w misce...\! MĘKĘ i PIŁECZKI DO PING PONGA!
+
 
 message_106:
-      text: \n<SOUS CHEF MOLE>You're doing great!\! Next, comes the SALT and CHEESE!\!<br>Yeah, beat those together until it's soup!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Nieźle wam idzie!\! Potem trzeba dodać SÓL i SER!\!<br>Dokładnie, mieszajcie póki nie będzie rzadkie!
 # =========------------------
 message_107:
-      text: Do you want to take the SUGAR?
+      text: Czy chcesz wziąć CUKIER?
+
 
 message_108:
-      text: Do you want to take the FLOUR?
+      text: Czy chcesz wziąć MĄKĘ?
+
 
 message_109:
-      text: Do you want to take the GARDEN SOIL?
+      text: Czy chcesz wziąć ZIEMIĘ OGRODOWĄ?
+
 
 message_110:
-      text: Do you want to take the STRAWBERRIES?
+      text: Czy chcesz wziąć TRUSKAWKI?
+
 
 message_111:
-      text: Do you want to take the PINEBERRIES?
+      text: Czy chcesz wziąć SZYSZKI?
+
 
 message_112:
-      text: Do you want to take the FRUIT JUICE?
+      text: Czy chcesz wziąć SOK OWOCOWY?
+
 
 message_113:
-      text: Do you want to take the BUTTER?
+      text: Czy chcesz wziąć MASŁO?
+
 
 message_114:
-      text: Do you want to take the PICKLES?
+      text: Czy chcesz wziąć OGÓRKI?
+
 
 message_115:
-      text: Do you want to take the FISH?
+      text: Czy chcesz wziąć RYBĘ?
+
 
 message_116:
-      text: Do you want to take the EGGS?
+      text: Czy chcesz wziąć JAJKA?
+
 
 message_117:
-      text: Do you want to take the OLD BOOT?
+      text: Czy chcesz wziąć STAREGO BUTA?
+
 
 message_118:
-      text: Do you want to take the WHOLE CHICKEN?
+      text: Czy chcesz wziąć CAŁEGO KURCZAKA?
 # =========------------------
+
 
 message_122:
-      text: You are carrying too many ingredients.
+      text: Niesiesz za dużo składników.
+
 
 message_123:
-      text: \n<SOUS CHEF MOLE>Now we're cooking!\! Last but not least, grab the SAUCE and cut it into pieces!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Teraz gotujemy!\! Na koniec pokrójcie SOS na kawałki!
+
 
 message_124:
-      text: \n<SOUS CHEF MOLE>Magnificent!\! Now, mix them all together and stick it in the microwave!\! It's that easy!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Wspaniale!\! Teraz zmiksujcie wszystko razem i włóżcie do mikrofali!\! To takie proste!
+
 
 # =========------------------
+
 
 message_125:
-      text: Take the CAKE BATTER?
+      text: Wziąć CIASTO?
+
 
 message_126:
-      text: You put the CAKE BATTER in the oven.
+      text: Wkładasz CIASTO do piekarnika.
+
 
 # =========------------------
 
+
 message_127:
-      text: You baked a CAKE.\! Wow! It looks pretty good!
+      text: Upiekłeś CIASTO.\! Wow! Wygląda bardzo dobrze!
+
 
 message_128:
-      text: You baked a CAKE.\! It looks just okay.
+      text: Upiekłeś CIASTO.\! Wygląda w miarę dobrze.
+
 
 message_129:
-      text: You baked a CAKE.\! It doesn't look quite right...
+      text: Upiekłeś CIASTO.\! Nie wygląda zbyt dobrze...
+
 
 message_130:
-      text: You baked a CAKE.\! ...\! What the heck did you put in here!?
+      text: Upiekłeś CIASTO.\! ...\! Czego ty do niego, kurde, dodałeś!?
+
 
 # =========------------------
 message_131:
-      text: \n<SOUS CHEF MOLE>Ah! All done?\! Beautiful work, I must say!\!<br>Let's have a taste!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ach! Wszystko gotowe?\! Dobra robota, jestem pod wrażeniem!\!<br>Skosztujmy tego potwora!
+
 
 message_132:
-      text: \n<SOUS CHEF MOLE>\com[2]\{MARVELOUS, JUST AS I EXPECTED!!\!\}<br>Those other SOUS CHEFS will be sorry!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>\com[2]\{FANTASTYCZNIE! DOKŁADNIE TAK, JAK TO SOBIE WYOBRAŻAŁEM!!\!\}<br>Kopara opadnie reszcie ASYSTENTÓW!
+
 
 message_133:
-      text: \n<SOUS CHEF MOLE>Hmm... This cake is good, but not good enough to impress the others...
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Hmm... To ciasto jest dobre, lecz nie na tyle, by zaskoczyć resztę...
+
 
 message_134:
-      text: \n<SOUS CHEF MOLE>Wow, this is disgusting!\! Back to the drawing board, it is!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Wow, to jest naprawdę obrzydliwe!\! Chyba pora wrócić do przedszkola!
+
 
 message_135:
-      text: \n<SOUS CHEF MOLE>Oh, goodness... This isn't a cake at all! It's practically soup!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Dobry Boże... Z której strony to niby jest ciasto!? Wygląda jak zupa!
+
 
 message_136:
-      text: \n<SOUS CHEF MOLE>\com[2]...\!\quake[1]\{\{AWEKJRLKJFLKASNFAWIJGAWEFJAWEKFJAKFAASJFKA!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>\com[2]...\!\quake[1]\{\{AWEKJRLKJFLKASNFAWIJGAWEFJAWEKFJAKFAASJFKA!
 # =========------------------
 
+
 message_137:
-      text: Are you sure this is what you want to do?
+      text: Jesteś pewien, że chcesz to zrobić?
+
 
 message_138:
-      text: You need to gather all your ingredients.
+      text: Musisz wziąć wszystkie potrzebne składniki.
+
 
 message_140:
-      text: Take the MIXTURE?
+      text: Wziąć MIESZANKĘ?
+
 
 message_141:
-      text: Take the PLATTER?
+      text: Wziąć TACĘ?
+
 
 message_142:
-      text: You don't need this.
+      text: Nie potrzebujesz tego.
+
 
 message_143:
-      text: You need more ingredients.
+      text: Potrzebujesz więcej składników.
+
 
 # =========------------------
 message_144:
-      text: \n<SOUS CHEF MOLE>\com[2]What are you doing!?\! Come back here and bake this cake!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>\com[2]Co wy wyprawiacie!?\! Wracać tu i robić to ciasto!
+
 
 message_500:
-      text: \n<SOUS CHEF MOLE>\com[2]\{\{HEY! NO STEALING!!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>\com[2]\{\{EJ! NIE KRADNIEMY!!
 # =========------------------
 message_145:
-      text: \n<SOUS CHEF MOLE>Good riddance...\! That guy was such a drag.\!<br>Now, you ready to actually bake this cake?
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>W końcu się go pozbyliśmy...\! Ten typ był kulą u nogi.\!<br>No to co, możecie zacząć robić ciasto?
+
 
 message_146:
-      text: \n<SOUS CHEF MOLE>Cool! So the first thing to do is to preheat the oven to 350 DEGREES.
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Super! A więc najpierw musicie nastawić piekarnik na 350 STOPNI.
+
 
 message_147:
-      text: \n<SOUS CHEF MOLE>Remember, it's 350 DEGREES!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Pamiętajcie, 350 STOPNI!
+
 
 message_148:
-      text: \n<SOUS CHEF MOLE>Hey, what are you doing!? That's not what I said!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ejże, co robicie!? To nie to o co prosiłem!
+
 
 message_149:
-      text: \n<SOUS CHEF MOLE>Pay attention next time!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Uważajcie następnym razem!
 # =========------------------
 message_150:
-      text: \n<SOUS CHEF MOLE>Awesome! Now, mix some FLOUR and EGGS together.
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Elegancko! Teraz wymieszajcie MĄKĘ z JAJKAMI.
+
 
 message_151:
-      text: \n<SOUS CHEF MOLE>Next comes the SUGAR and BUTTER.\!<br>Beat it until it's nice and fluffy!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Następnie CUKIER i MASŁO.\!<br>Ubijajcie, dopóki nie będzie puszyste!
 # =========------------------
 message_152:
-      text: \n<SOUS CHEF MOLE>And now finally, for the topping...\!<br>It's just gotta be STRAWBERRIES!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Na koniec wisienka na torcie...\!<br>A dokładniej TRUSKAWKI!
+
 
 message_153:
-      text: \n<SOUS CHEF MOLE>All done?\! Sweet!\! Now grab all your stuff, put it into the BAKING PAN, and bake it in the oven!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Gotowe?\! Wyśmienicie!\! Teraz wsadźcie wszystko do FORMY NA CIASTO i upieczcie w piekarniku!
 # =========------------------
 message_154:
-      text: You don't have any CAKE BATTER to put in the oven.
+      text: Nie masz CIASTA, które mógłbyś włożyć do piekarnika.
 # =========------------------
 message_155:
-      text: \n<SOUS CHEF MOLE>And that's how you bake a cake!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>I właśnie tak się robi ciasto!
+
 
 message_156:
-      text: \n<SOUS CHEF MOLE>Mmm... Yup! That'll do it!\!<br>Finally, a cake our late HEAD CHEF would be proud of.
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Mmm... Tak! Pychota!\!<br>W końcu - ciasto, z którego nasz stary GŁÓWNY SZEF KUCHNI byłby dumny.
+
 
 message_157:
-      text: \n<SOUS CHEF MOLE>May his memory live on forever...
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Na zawsze zostanie w naszej pamięci...
+
 
 message_158:
-      text: \n<SOUS CHEF MOLE>You may go now, servants! Be free!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Możecie już iść, sługi! Poczujcie wolność!
+
 
 # =========------------------
 message_159:
-      text: You can always try again.
+      text: Zawsze możesz spróbować jeszcze raz.
+
 
 message_160:
-      text: What the heck did you put in here!?
+      text: Czego ty tutaj, kurde, dodałeś!?
 # =========------------------
 message_161:
-      text: Put back the \v[1001]?
+      text: Odłożyć \v[1001]?
 # =========------------------
 message_162:
-      text: \n<SOUS CHEF MOLE>This is a cake our late HEAD CHEF would be proud of.\! May his memory live on forever...
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Z takiego ciasta nasz stary GŁÓWNY SZEF KIEŁKUCHNI byłby dumny.\! Na zawsze pozostanie w naszej pamięci...
+
 
 message_163:
-      text: \n<SOUS CHEF MOLE>You may go now, servants! Be free!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Możecie już iść, sługi! Poczujcie wolność!
 # =========------------------
 message_164:
-      text: \n<HEAD CHEF MOLE>...
+      text: \n<GŁÓWNY SZEF KIEŁKUCHNI>...
+
 
 message_165:
-      text: \n<SOUS CHEF MOLE>Who are you?
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Kim jesteś?
+
 
 message_166:
-      text: \n<SOUS CHEF MOLE>Who am I!?
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Kim ja jestem!?
+
 
 message_167:
-      text: An array of ingredients.\! Some more appetizing than others.
+      text: Cała paleta składników do wyboru.\! Jedne bardziej, drugie mniej apetyczne.
+
 
 message_168:
-      text: \n<SOUS CHEF MOLE>May our late HEAD CHEF's memory live on forever...
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Nasz stary GŁÓWNY SZEF KIEŁKUCHNI na zawsze pozostanie w naszej pamięci...
+
 
 message_169:
-      text: \n<SOUS CHEF MOLE>My cake really made the big screen!\! The late HEAD CHEF would have been proud.\! May his memory live on forever...
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>To ciasto jest niesamowite!\! Stary GŁÓWNY SZEF KIEŁKUCHNI byłby dumny.\! Na zawsze pozostanie w naszej pamięci...
+
 
 # =========================================================================================
 # Dreamworld NPC Dialogue: Sweetheart's Castle -> Elevator
 # =========================================================================================
 
+
 message_300:
-      text: THE FOYER
+      text: HOL
+
 
 message_301:
-      text: THE CHAMBERS
+      text: KOMNATY
+
 
 #Bandito Mole Chance
 
+
 message_310:
-      text: \n<BANDITO MOLE>\}This is a robbery.
+      text: \n<KIEŁKUN BANDYTA>\}To jest napad.
+
 
 # =========================================================================================
 # Dreamworld NPC Dialogue: Sweetheart's Castle -> Dungeon
 # =========================================================================================
 
+
 message_320:
-      text: \n<SMUGGLER JASH>I got sent to the dungeon for smuggling...\!<br>but old habits die hard.
+      text: \n<JUZEK PRZEMYTNIK>Wysłali mnie do lochu za przemyt...\!<br>ale ciągle to za mną chodzi.
+
 
 message_321:
-      text: \n<SMUGGLER JASH>That said, I've got some choice goods for sale, patron.\! Interested in buying?
+      text: \n<JUZEK PRZEMYTNIK>Skoro już się z wami tym podzieliłem, może skusilibyście się na jakiś gadżecik, przyjaciele?\! Do wyboru, do koloru.
+
 
 message_322:
-      text: \n<SMUGGLER JASH>Got some choice goods for sale, patron.
+      text: \n<JUZEK PRZEMYTNIK>Mam parę rzeczy na sprzedaż, przyjaciele.
+
 
 #Kitchen Fireplace
 
+
 message_350:
-      text: There's a heart-shaped switch hidden inside the fireplace.\!<br>Do you want to press it?
+      text: W kominku jest schowany przycisk w kształcie serca.\!<br>Chcesz go nacisnąć?
+
 
 message_351:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Hmm...\! I wonder what that was for...\her
+      text: Hmm...\! Zastanawiam się, co to robi...\her
+
 
 message_352:
-      text: There's a heart-shaped switch hidden inside the fireplace...\! but you already pressed it.
+      text: W kominku jest schowany przycisk w kształcie serca...\! ale już jest wciśnięty.
+
+
 
 
 #SW Foyer
 
+
 message_359:
-      text: \n<CANDLE BUNNY>\sinv[1]Pyon?
+      text: \n<ŚWIECOKRÓLIK>\sinv[1]Piu?
+
 
 message_355:
-      text: \n<HAROLD>Back to your stations, newbies!\!<br>We don't take kindly to slackers!
+      text: \n<HAROLD>Wracać na swoje miejsca, świeżaki!\!<br>Nie ma co się rozczulać nad próżniakami!
+
 
 message_356:
-      text: \n<MARSHA>We take our jobs seriously!\! SWEETHEART's royal guard only accepts the best of the best!
+      text: \n<MARCJA>Bierzemy naszą robotę na poważnie!\! Ochroniarz drogiej SŁODZIUTKIEJ akceptuje tylko najlepszych z najlepszych!
+
 
 message_357:
-      text: \n<LUCIUS>I have studied the art of combat my entire life.\! If you all work hard...\! maybe one day you too can become a LUCIUS!
+      text: \n<LUCJUSZ>Całe życie poświęciłem na naukę sztuk walki.\! Jeśli odpowiednio się postaracie...\! może pewnego dnia będziecie tak dobrzy jak LUCJUSZ!
+
 
 message_358:
-      text: \n<THERESE>Hey, have you seen SIR MAXIMUS around?\!<br>That guy owes me some CLAMS...
+      text: \n<TERESA>Hej, widzieliście gdzieś w okolicy RYCERZA MAKSYMA?\!<br>Ten typek wisi mi parę MAŁŻY...
+
+
 
 
 #SW AFTER WEDDING
 
+
 message_370:
-      text: \n<CASTELLA>I've seen you lot in the latest episode of \"SWEETHEART'S QUEST FOR HEARTS\"!
+      text: \n<KREMÓWKA>Widziałam cię w ostatnim odcinku \"SZANSY NA SERCE SŁODZIUTKIEJ\"!
+
 
 message_371:
-      text: \n<CASTELLA>It was an episode worthy of my dearest SWEETHEART...\! but I could have done without the ending.
+      text: \n<KREMÓWKA>To był odcinek warty drogiej SŁODZIUTKIEJ...\! ale mogli sobie odpuścić końcówkę.
+
 
 message_372:
-      text: \n<CASTELLA>SWEETHEART is going to miss her afternoon tea...
+      text: \n<KREMÓWKA>SŁODZIUTKA zaraz zapomni o swojej popołudniowej herbatce...
+
 
 message_373:
-      text: \n<VIRTUOSO MOLE>Ah! I recognize you.\! You must be the paid actors from \"SWEETHEART'S QUEST FOR HEARTS\"!
+      text: \n<KIEŁKUN WIRTUOZ>Ach! Rozpoznaję was.\! Musicie być tymi opłaconymi aktorami \"SZANSY NA SERCE SŁODZIUTKIEJ\"!
+
 
 message_374:
-      text: \n<VIRTUOSO MOLE>Your performance was absolutely breathtaking.\! I believed every minute of it.
+      text: \n<KIEŁKUN WIRTUOZ>Wasz występ był fantastyczny.\! Tak realistyczny, że aż w to uwierzyłem.
+
 
 message_375:
-      text: \n<HAROLD>How about that ending?\! Bet you guys didn't expect that for the finale.
+      text: \n<HAROLD>A co sądzicie o tym finale?\! Założę się, że żaden z was się nie spodziewał takiego zwrotu akcji.
+
 
 message_376:
-      text: \n<MARSHA>We take our jobs seriously!\! SWEETHEART's royal guard only accept the best of the best!
+      text: \n<MARCJA>Bierzemy naszą robotę na poważnie!\! Ochroniarz drogiej SŁODZIUTKIEJ akceptuje tylko najlepszych z najlepszych!
+
 
 message_377:
-      text: \n<LUCIUS>I have studied the art of combat my entire life.\! Young SPROUT MOLES spend their lives training to be a LUCIUS!
+      text: \n<LUCJUSZ>Całe życie poświęciłem na naukę sztuk walki.\! Młode KIEŁKUNY ćwiczą dniami i nocami, by być jak LUCJUSZ!
+
 
 message_378:
-      text: \n<THERESE>Hey, have you seen SIR MAXIMUS around?\!<br>That guy owes me some CLAMS...
+      text: \n<TERESA>Hej, widzieliście gdzieś w okolicy RYCERZA MAKSYMA?\!<br>Ten typek wisi mi parę MAŁŻY...
+
 
 # =========================================================================================
 # Dreamworld NPC Dialogue: Sweetheart's Castle -> Library
 # =========================================================================================
 
+
 message_400:
-      text: \n<PINK? MOLE>Of course! The staff is wonderful here!
+      text: \n<RÓŻOWY? KIEŁKUN>Oczywiście! Tutejsza obsługa spisuje się na medal!
+
 
 message_401:
-      text: \n<PINK? MOLE>Who do you think you are!?\! I want to speak to the manager!
+      text: \n<RÓŻOWY? KIEŁKUN>Za kogo ty się masz!?\! Chcę rozmawiać z kierownikiem!
+
 
 message_402:
-      text: \n<PINK? MOLE>Fine.
+      text: \n<RÓŻOWY? KIEŁKUN>Dobrze.
+
 
 message_403:
-      text: \n<PINK? MOLE>Nah.
+      text: \n<RÓŻOWY? KIEŁKUN>Nie.
+
 
 message_404:
-      text: \n<PINK? MOLE>\}\"This is 'BIGBOYZ' to 'ALPHA-3'...\! the jig is up.\! Abort the mission.\"\! \quake[1]Bzzt...\quake[0]
+      text: \n<RÓŻOWY? KIEŁKUN>\}\"Tutaj 'WIELKIECHŁOPY' do 'ALFA-3'...\! to już koniec.\! Przerwać misję.\"\! \quake[1]Bzzt...\quake[0]
+
 
 message_405:
-      text: \n<PINK? MOLE>Sorry, but I am not the mole you are looking for.
+      text: \n<RÓŻOWY? KIEŁKUN>Przykro mi, ale nie jestem kiełkiem, którego szukasz.
+
 
 message_406:
-      text: \n<PINK? MOLE>O-okay...\! but you have to explain what's going on!
+      text: \n<RÓŻOWY? KIEŁKUN>D-dobrze...\! ale musicie mi wytłumaczyć o co biega!
+
 
 message_407:
-      text: \n<PINK? MOLE>Ew... Who are you?\! Never talk to me again.
+      text: \n<RÓŻOWY? KIEŁKUN>Fuu... Kim ty jesteś?\! Nigdy więcej mi się tu nie pokazuj.
+
 
 message_408:
-      text: \n<PINK? MOLE>Do I have to stand in another line?
+      text: \n<RÓŻOWY? KIEŁKUN>Mam ustać w innej kolejce?
+
 
 message_409:
-      text: \n<PINK? MOLE>Maybe, I'll come with you...\! But maybe I won't.
+      text: \n<RÓŻOWY? KIEŁKUN>Może pójdę z wami...\! A może nie.
+
 
 message_410:
-      text: \n<PINK? MOLE>The laws of this land are cruel...
+      text: \n<RÓŻOWY? KIEŁKUN>Prawa tego miejsca są okrutne...
+
 
 message_411:
-      text: \n<PINK? MOLE>All because I'm wearing my favorite color blue!?\! I'll never move for you!
+      text: \n<RÓŻOWY? KIEŁKUN>To przez to, że mam na sobie mój ulubiony kolor, niebieski!?\! W życiu się stąd nie ruszę!
+
 
 message_412:
-      text: \n<PINK? MOLE>My presence is required?\! Of course it is.
+      text: \n<RÓŻOWY? KIEŁKUN>Jestem potrzebna?\! Oczywiście, że jestem.
+
 
 message_413:
-      text: \n<PINK? MOLE>Psh...\! or what?
+      text: \n<RÓŻOWY? KIEŁKUN>Pfft...\! a jak nie, to co?
+
 
 message_414:
-      text: \n<PINK? MOLE>Dang... I knew I picked the wrong tie!
+      text: \n<RÓŻOWY? KIEŁKUN>Kurka... Wiedziałem, że ten krawat będzie zły!
+
 
 message_415:
-      text: \n<PINK? MOLE>I walked eight-hundred miles to get here.\! I'm not giving up my seat!
+      text: \n<RÓŻOWY? KIEŁKUN>Przeszedłem tysiąc kilometrów, by tu dotrzeć.\! Nie poddam się tak prędko!
+
 
 message_416:
-      text: \n<PINK? MOLE>Me? They have got to make an exception.\! I must go show them a piece of my mind!
+      text: \n<RÓŻOWY? KIEŁKUN>Ja? Muszą zrobić wyjątek.\! Pokażę im trochę inteligencji!
+
 
 message_417:
-      text: \n<PINK? MOLE>No! Maybe \sinv[1]you\sinv[0] should leave!
+      text: \n<RÓŻOWY? KIEŁKUN>Nie! Może to \sinv[1]wy\sinv[0] powinniście wyjść!
+
 
 message_418:
-      text: \n<PINK? MOLE>Am I finally getting center stage?
+      text: \n<RÓŻOWY? KIEŁKUN>W końcu będę w centrum uwagi?
+
 
 message_419:
-      text: \n<PINK? MOLE>No way. I'm the most important person here!
+      text: \n<RÓŻOWY? KIEŁKUN>Nie ma mowy. Jestem tu najważniejszą osobą!
+
 
 message_420:
-      text: \n<PINK? MOLE>\sinv[1]WEEEEEEEEEHH!\sinv[0] Why do I gotta go!?
+      text: \n<RÓŻOWY? KIEŁKUN>\sinv[1]ŁAAAAAAAAAACH!\sinv[0] Czemu muszę iść!?
+
 
 message_421:
-      text: \n<PINK? MOLE>Oh yeah? Make me!
+      text: \n<RÓŻOWY? KIEŁKUN>Ta? Chcielibyście!
+
 
 message_422:
-      text: \n<PINK? MOLE>Oh...\! I just wanted to see my only son.
+      text: \n<RÓŻOWY? KIEŁKUN>Och...\! Ja tylko chciałem zobaczyć się z moim synem.
+
 
 message_423:
-      text: \n<PINK? MOLE>Can ye speak up, sonny? I can't hear you!
+      text: \n<RÓŻOWY? KIEŁKUN>Możesz troszkę głośniej? Nie słyszę cię!
+
 
 message_424:
-      text: \n<PINK? MOLE>My... of course! You look like a \sinv[1]clean\sinv[0], upstanding gentleman!
+      text: \n<RÓŻOWY? KIEŁKUN>Ojej... Już, jasne! Wyglądasz na \sinv[1]przystojnego\sinv[0], wyrachowanego mężczyznę!
+
 
 message_425:
-      text: \n<PINK? MOLE>Don't touch me!\! You look like you have germs!
+      text: \n<RÓŻOWY? KIEŁKUN>Łapska precz!\! Na bank macie jakieś bakterie!
+
 
 # =========================================================================================
 # Dreamworld NPC Dialogue: Sweetheart's Castle -> Kitchen
 # =========================================================================================
 
+
 message_450:
-      text: Put back the SUGAR?
+      text: Odłożyć CUKIER?
+
 
 message_451:
-      text: Put back the FLOUR?
+      text: Odłożyć MĄKĘ?
+
 
 message_452:
-      text: Put back the GARDEN SOIL?
+      text: Odłożyć ?
+
 
 message_453:
-      text: Put back the STRAWBERRIES?
+      text: Odłożyć TRUSKAWKI?
+
 
 message_454:
-      text: Put back the PINEBERRIES?
+      text: Odłożyć SZYSZKI?
+
 
 message_455:
-      text: Put back the FRUIT JUICE?
+      text: Odłożyć SOK OWOCOWY?
+
 
 message_456:
-      text: Put back the BUTTER?
+      text: Odłożyć MASŁO?
+
 
 message_457:
-      text: Put back the PICKLES?
+      text: Odłożyć OGÓRKI?
+
 
 message_458:
-      text: Put back the FISH?
+      text: Odłożyć RYBĘ?
+
 
 message_459:
-      text: Put back the EGGS?
+      text: Odłożyć JAJKA?
+
 
 message_460:
-      text: Put back the OLD SHOE?
+      text: Odłożyć STAREGO BUTA?
+
 
 message_461:
-      text: Put back the WHOLE CHICKEN?
+      text: Odłożyć CAŁEGO KURCZAKA?
+
 
 #====
 #trying to pick up something after cooking game
 
+
 message_462:
-      text: \n<SOUS CHEF MOLE>Hey! No touchie!
+      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Hej! Nie dotykaj!
 #====
 
+
 #AFTER DEFEATING MAXIMUS III
+
 
 message_501:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herHey, is it just me or does it seem quieter all of a sudden?
+      text: \herEj, jakoś tu ciszej, czy mi się wydaje?
+
 
 message_502:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelWasn't there a crowd of SPROUT MOLES at the entrance earlier?\! I don't see them around anywhere!
+      text: \kelNie było tu wcześniej tłumu KIEŁKUNÓW przy wejściu?\! Nigdzie ich nie widać!
+
 
 message_503:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubThey must have finally pushed their way outside!\! Let's follow them, OMORI.\! Maybe they can lead us out of here!
+      text: \aubMusieli w końcu wyjść!\! Chodźmy za nimi, OMORI.\! Może nas stąd wyprowadzą!

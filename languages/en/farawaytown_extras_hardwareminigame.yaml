@@ -3,97 +3,125 @@
 # =========================================================================================
 
 
+
+
 message_19:
-      text: You see a 'HELP WANTED' poster for a short-term hardware sorting job.
+      text: Widzisz plakat 'SZUKAM PRACOWNIKA' dotyczący pracy dorywczej przy sortowaniu sprzętu.
+
 
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelOh! You're taking this job, \n[8]?\! In that case, I'll come back for you later.\! Work hard, okay?
+      text: \kelOch! Bierzesz tą fuchę, \n[8]?\! W takim razie, wpadnę po ciebie później.\.\! Nie leń się, jasne?
+
 
 #Intro
 message_0:
-      text: \n<FIX-IT GUY>Yo, kid! I see you staring at that HELP WANTED poster!\!<br>You interested in a quick job?
+      text: \n<SPEC>Ej, młody! Widzę, że zainteresowała cię oferta pracy!\!<br>Masz ochotę trochę zarobić?
+
 
 #[Nod/Shake]
 #[Nod]
 message_1:
-      text: \n<FIX-IT GUY>That's awesome, kid!\! I'll help you get started.
+      text: \n<SPEC>No i super, młody!\! Pomogę ci zacząć.
 #[Shake]
 message_2:
-      text: \n<FIX-IT GUY>Well, alright.<br>\!If you ever want some extra cash, just let me know.
+      text: \n<SPEC>No dobra.<br>\!Jak zabraknie ci siana, wiesz, gdzie się kierować.
+
 
 #Tool Names
 message_3:
-      text: DRILL
+      text: WIERTARKĘ
+
 
 message_4:
-      text: TAPE
+      text: TAŚMĘ
+
 
 message_5:
-      text: SHOVEL
+      text: ŁOPATĘ
+
 
 message_6:
-      text: SAW
+      text: PIŁĘ
+
 
 message_7:
-      text: HAMMER
+      text: MŁOTEK
+
 
 message_8:
-      text: WRENCH
+      text: KLUCZ FRANCUSKI
+
 
 message_9:
-      text: Do you want to put \v[815] here?
+      text: Chcesz tu położyć \v[815]?
+
 
 message_10:
-      text: What do you want to replace?
+      text: Co chcesz zamienić?
+
 
 message_11:
-      text: You put the \v[813] where the \v[815] was.
+      text: Zamieniłeś ze sobą \v[813] i \v[815].
+
 
 message_12:
-      text: You have a \v[815] in your hands.
+      text: Trzymasz \v[815].
+
 
 message_13:
-      text: You put the \v[815] here.
+      text: Kładziesz tu \v[815].
+
 
 message_14:
-      text: What do you want to pick up?
+      text: Co chcesz wziąć?
+
 
 message_15:
-      text: You grab the \v[815].
+      text: Bierzesz \v[815].
+
 
 # Trying to leave the shop without finishing your job
 message_16:
-      text: \n<FIX-IT GUY>Hey! Where do you think you're going?
+      text: \n<SPEC>Ej! A ty dokąd?
+
 
 message_17:
-      text: \n<FIX-IT GUY>I thought we had a deal!\! Fix the displays and you'll get paid!
+      text: \n<SPEC>Chyba zawarliśmy umowę!\! Ogarniasz graty z wystawy w zamian za wypłatę!
+
 
 # Complete
 message_18:
-      text: Everything is finally in its rightful place.
+      text: Wszystko w końcu jest na swoim miejscu.
+
 
 #Rule Explanation
 message_23:
-      text: \n<FIX-IT GUY>Alright, kid.\! Take a good look at those shelves behind you and you'll probably notice that everything's a big jumbled mess!
+      text: \n<SPEC>No dobra, młody.\! Nie widzisz tego bałaganu na półkach tuż za tobą!?
+
 
 message_24:
-      text: \n<FIX-IT GUY>You'd think with a sign above the shelf it'd be obvious where to put things, but people just don't give a crap these days...\! Sigh...\! I hate working retail...
+      text: \n<SPEC>Niby na plakietce wyraźnie jest napisane, gdzie jest czego miejsce, ale niestety ludzie mają to w nosie...\! Echh...\! Nienawidzę pracować w hurcie...
+
 
 message_21:
-      text: \n<FIX-IT GUY>Anyway, the sign above the shelf shows what product should be on display.\! Your job is to move everything back to its rightful place, got it?\! I'm countin' on you, kid.
+      text: \n<SPEC>Tak czy siak, plakietka nad półką pokazuje, gdzie powinien być dany produkt.\! Masz poukładać wszystko na swoje miejsce, panimaju?\! Liczę na ciebie, młody.
+
 
 #Quest Finish
 
+
 message_22:
-      text: \n<FIX-IT GUY>\sinv[1]Snore...\| Snore...\!\sinv[0] H-Huh? What? You're finally done?\!<br>Excellent work, kid!\! Here's $30.00!\!<br>Don't spend it all in one place!
+      text: \n<SPEC>\sinv[1]Chrrr...\| Chrrr...\!\sinv[0] E-ech? Co? Już skończyłeś?\!<br>Wyśmienicie, młody!\! Trzymaj, 30 $!\!<br>Nie wydaj wszystkiego na raz!
+
 
 #Return to Party:
 message_40:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \KelHey, \n[8]! How'd you do?\! While you were working,<br>I decided to play some basketball at the park!\!<br>Man, that was fun...\! Well...\! I'm ready to go when you are!
+      text: \KelSiema, \n[8]! Jak ci poszło?\! Kiedy pracowałeś, trochę sobie pograłem w kosza w parku!\!<br>Ale to była jazda...\! No...\! Daj mi znać, kiedy możemy ruszać!
+
 
 message_30:
-      text: \n<FIX-IT GUY>Hmm...\! Let's see here...\! Uh... yeah! You're almost there!\! Just get in the zone!
+      text: \n<SPEC>Hmm...\! Przyjrzyjmy się...\! Uch... ta! Już prawie!\! Po prostu wejdź do środka!

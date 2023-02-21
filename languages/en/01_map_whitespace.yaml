@@ -71,7 +71,7 @@ message_15:
 # - THE TISSUE BOX
 # -----------------------------------------------
 message_16:
-    text: "Pudełko chusteczek służące do wycierania twoich smutków."
+    text: "Pudełko chusteczek do wycierania twoich smutków."
  
 # -----------------------------------------------
 # - THE LIGHTBULB
@@ -87,7 +87,7 @@ message_18:
 message_19:
     text: "Coś upadło w pobliżu."
 message_20:
-    text: "Znajdujesz \\v[49].\\!\\lb <br>W ostrzu widzisz dokładnie swoje odbicie."
+    text: "Znajdujesz \\v[49].\\!\\lb <br>W ostrzu dokładnie widzisz swoje odbicie."
  
 # -----------------------------------------------
 # - LIGHTBULB BREAK
@@ -129,7 +129,7 @@ message_103:
 # - THE CAT
 # -----------------------------------------------
 message_104:
-    text: \n<CAT>Miau?
+    text: \n<KOT>Miau?
  
 # -----------------------------------------------
 # - THE LAPTOP
@@ -196,5 +196,3 @@ message_126:
  
 message_200:
     text: "Spod czarnych drzwi wyłania się nikły cień.\\!<br>Co chcesz zrobić?"
- 
-

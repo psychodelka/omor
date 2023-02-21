@@ -2600,38 +2600,69 @@ Gamefall.OmoriFixes = Gamefall.OmoriFixes || {};
 		.. .. . . ............ ........ .... ..... ...... .... .............. .... .....
 		`)	
 	}
+	const MAX_CHAR_IN_LINE = 35;
 
-	/* $.parseNoEffectEmotion = function(tname, em) {
-		if(em.toLowerCase().contains("afraid")) {
-		  return target.name() + " nie może się bardziej BAĆ!\r\n";
+	$.parseNoEffectEmotion = function(target, em) {
+        let tname = target.name();
+        if (em.toLowerCase().contains("bać")) {
+            if (tname === $gameActors.actor(1).name()) { return "OMORI się nie boi!\r\n" }
+            if (target._doesUseAlternateForms2()) {
+                return target.name() + ' się nie boją!\r\n';
+            }
+            return target.name() + " się nie boi!\r\n";
+        }
+        let finalString;
+        if (target._doesUseAlternateForms2()) {
+            finalString = `${tname} nie mogą stać się ${em}`;
+        } else {
+            finalString = `${tname} nie może stać się ${em}`;
+        }
+        if (finalString.length > MAX_CHAR_IN_LINE) {
+            let textArray = [];
+
+            textArray = $.sliceLongString(finalString);
+            BattleManager.addText(textArray[0], 16);
+            BattleManager.addText(textArray[1], 16);
+            return;
+        }
+        BattleManager.addText(finalString, 16);
+	} 
+
+	$.parseNoStateChange = function(target, stat, hl, you) {
+        let text = '';
+        if (you != null) {
+            text = `Twój ${stat} nie może ${hl}`;
+        } else if (target._doesUseAlternateForms()) {
+            text = `${stat} ${target._altName()} nie może ${hl}`;
+        } else if (target._doesUseAlternateForms2()) {
+            text = `${stat} ${target._altName()} nie mogą ${hl}`;
+        } else {
+            text = `${stat} ${target._altName()} nie może ${hl}`;
+        }
+
+        if(text.length > MAX_CHAR_IN_LINE) {
+            let textArray = [];
+
+            textArray = $.sliceLongString(text);
+            BattleManager.addText(textArray[0], 16);
+            BattleManager.addText(textArray[1], 16);
+            return;
+        }
+        BattleManager.addText(text, 16);
+	} 
+
+	$.sliceLongString = function(text) {
+		let sliceIndex = 0;
+		
+		for(let j = MAX_CHAR_IN_LINE; j >= 0; j--) {
+			if(text[j] === " ") {
+			sliceIndex = j;
+			break;
+			}
 		}
-		let finalString = `${tname} nie może ${em}`;
-		if(finalString.length >= 40) {
-		  let voinIndex = 0;
-		  for(let i = 40; i >= 0; i--) {
-			if(finalString[i] === " ") {
-			  voinIndex = i;
-			  break;
-			}
-		  }
-		  finalString = [finalString.slice(0, voinIndex).trim(), "\r\n", finalString.slice(voinIndex).trimLeft()].join('')
-		}
-		return finalString;
-	  }
-
-
-		$.parseNoStateChange = function(tname,stat,hl) {
-			let noStateChangeText = `${stat} ${target._altName()} nie może`
-			let second = `${hl}`; // TARGET NAME - STAT - HIGHER/LOWER
-			let complete = `${noStateChangeText} ${second}`;
-			if(complete.length < 40) {
-				BattleManager.addText(complete, 16)
-			}
-			else {
-				BattleManager.addText(noStateChangeText, 1)
-				BattleManager.addText(second, 16)
-			}
-		} */
+    
+		return [text.slice(0, sliceIndex).trim(), text.slice(sliceIndex).trimLeft()]
+	}
 
 	//###############################################################################
 	//

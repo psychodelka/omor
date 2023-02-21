@@ -15,7 +15,7 @@ message_0:
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Och, tam ją widzę!\kel
+      text: O, tam ją widzę!\kel
  
 #Camera pans to KIM and VANCE.
  
@@ -27,7 +27,7 @@ message_2:
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Hej, KIM! Widziałaś gdzieś AUBR-\kel
+      text: Hej, KIM! Widziałaś gdzieś AUBR...\kel
  
 #KIM turns to VANCE.
  
@@ -383,7 +383,7 @@ message_107:
 message_108:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Naprawdę ciężko mi sobie wyobrazić, żeby AUBREY była w \c[11]KOŚCIELE\c[0]...\! ale nie uwierzę, póki nie zobaczę..\kel
+      text: Naprawdę ciężko mi sobie wyobrazić, żeby AUBREY była w \c[11]KOŚCIELE\c[0]...\! ale nie uwierzę, póki nie zobaczę.\kel
  
  
 # =========================================================================================
@@ -441,7 +441,7 @@ message_127:
 message_128:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Hmm... Wygląda na to, że przygotowują się do mszy.\! Nie chcesz spędzić swoich ostatnich dni tutaj, siedząc w \c[11]KOŚĆIELE\c[0], co nie?\kel
+      text: Hmm... Wygląda na to, że przygotowują się do mszy.\! Nie chcesz spędzić swoich ostatnich dni tutaj siedząc w \c[11]KOŚCIELE\c[0], co nie?\kel
  
 # =========================================================================================
 # Cutscene: Kel follows Player

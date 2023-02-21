@@ -966,7 +966,7 @@ message_574:
 message_575:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\com[2]Hej, koleszki! Potrzebujecie pomocnej dłoni?\!<br>Profesjonalni pomagacze, do waszych usług!
+    text: \kel\com[2]Hej, koleżki! Potrzebujecie pomocnej dłoni?\!<br>Profesjonalni pomagacze, do waszych usług!
 
 message_576:
     text: \n<KIEŁKUN WIRTUOZ>Och, dzięki bogu! Pojawili się profesjonaliści!
@@ -1209,7 +1209,7 @@ message_400:
     text: \n<BRAJAN DYSTYNGOWANY>Aby otworzyć tajemny korytarz, należy podać posągowi SŁODZIUTKIEJ cztery hasła.<br><br>Oczywiście jako iż jestem członkiem wybranej elity, leży na mnie odpowiedzialność za drugie z czterech!
 
 message_6:
-    text: \n<BRAJAN DYSTYNGOWANY>Chcesz znać hasło, eee?\!<br>\com[2]Nie tak prędko, koleszko.\!<br>Muszę przyznać... Jesteś okropnie wysoki jak na KIEŁKUNA...
+    text: \n<BRAJAN DYSTYNGOWANY>Chcesz znać hasło, eee?\!<br>\com[2]Nie tak prędko, koleżko.\!<br>Muszę przyznać... Jesteś okropnie wysoki jak na KIEŁKUNA...
 
 message_7:
     text: \n<BRAJAN DYSTYNGOWANY>\com[2]Skąd mam mieć pewność, że jesteście jednymi z nas, zaawansowanie inteligentnych i majestatycznych stworzeń?\! Myślicie, że kiedykolwiek podałbym hasło potencjalnemu szpiegowi? \!Ha!\! Nie rozśmieszajcie mnie!
@@ -1862,71 +1862,71 @@ message_106:
     text: \n<MYTOGATOR>O innej porze, aligatorze...
 
 message_107:
-    text: \n<MYTOGATOR>Hola, hola, hola! Gdzie się wybieracie, koleszki?
+    text: \n<MYTOGATOR>Hola, hola, hola! Gdzie się wybieracie, koleżki?
 
 message_108:
-    text: \n<MYTOGATOR>Back it up nice and slow...<br>This here's a toll road, see?\!<br>\com[2]Cough up the CLAMS or get lost!
+    text: \n<MYTOGATOR>Wracajcie tu ładnie...<br>Ta droga jest płatna, rozumiecie?\!<br>\com[2]Wyskakujcie z MAŁŻY albo się zmywajcie!
 
 #TOLL GATE 2
 
 message_109:
-    text: \n<MYTOGATOR>So you want me to open the gate, huh?\!<br>It would be my pleasure!\! It'll only cost ya 2000 CLAMS.\$
+    text: \n<MYTOGATOR>Więc chcecie, żebym otworzył przejazd, co?\!<br>To byłaby czysta przyjemność!\! Za jedyne 2000 MAŁŻY.\$
 
 message_110:
-    text: \n<MYTOGATOR>You kids sure are smart! \v[1001] CLAMS is a steal!\!<br>\}...\! Heh...\! Like stealing \c[3]CANDY\c[0] from a baby...
+    text: \n<MYTOGATOR>Sprytne dzieciaki! \v[1001] MAŁŻY to zdzierstwo!\!<br>\}...\! Heh...\! Jak zabranie dziecku \c[3]CUKSA\c[0]...
 
 message_111:
-    text: \n<MYTOGATOR>You mean to say you kids don't got 2000 CLAMS on ya?<br>That's real sad...\! Real tough luck, I tell ya...
+    text: \n<MYTOGATOR>Chcecie powiedzieć, że nie macie przy sobie 2000 MAŁŻY?<br>Tak mi przykro...\! Co za pech...
 
 message_112:
-    text: \n<MYTOGATOR>But, hey!\! No need to get down!<br>I got a surefire way to help you out of this ordeal, see?
+    text: \n<MYTOGATOR>Ale, ej!\! Nie ma co się smucić!<br>Mam pewien sposób, który pozwoli wam wygrzebać się z tej sytuacji, wiecie?
 
 message_113:
-    text: \n<MYTOGATOR>Ahem...\! You just need to ZNAK these papers, these papers, these papers, and these papers...\! And lo and behold! You'll have \v[979] CLAMS just like that!
+    text: \n<MYTOGATOR>Ekhem...\! Wystarczy tylko podpisać tu, tam, w tym i tamtym miejscu...\! Ot tak! Zgarniecie \v[979] MAŁŻY w mgnieniu oka!
 
 message_114:
-    text: Do you want to ZNAK the papers?
+    text: Czy chcesz podpisać dokumenty?
 
 #[YES/NO]
 
 message_115:
-    text: \n<MYTOGATOR>There ya go!\! 2000 CLAMS!\! It's that easy!
+    text: \n<MYTOGATOR>Proszę bardzo!\! 2000 MAŁŻY!\! Prościutko!
 
 message_116:
-    text: \n<MYTOGATOR>Hey, by the way...\! Careful about the interest.\!<br>We'll be coming to collect...
+    text: \n<MYTOGATOR>Hej, tak przy okazji...\! Uważajcie na odsetki.\!<br>Przyjdziemy po zapłatę...
 
 message_117:
-    text: \n<MYTOGATOR>Come on! Don't be a stranger!
+    text: \n<MYTOGATOR>No weźcie! Nie jesteśmy sobie obcy!
 
 message_118:
-    text: \n<MYTOGATOR>So you want me to open the gate for you?\!<br>It'll only cost ya 5000 CLAMS.\$
+    text: \n<MYTOGATOR>Więc chcielibyście, bym otworzył wam przejazd?\!<br>To będzie 5000 MAŁŻY.\$
 
 message_119:
-    text: \n<MYTOGATOR>You're the kids who ZNAKed those loan papers!\!<br>Trust me... You'll thank me later!
+    text: \n<MYTOGATOR>To wy podpisaliście papiery na kredyt!\!<br>Uwierzcie mi... Jeszcze mi podziękujecie!
 
 message_120:
-    text: \n<MYTOGATOR>Not enough CLAMS, aye?\! No worries, man...<br>Happens to everybody.
+    text: \n<MYTOGATOR>Za mało MAŁŻY, hy?\! Nie ma sprawy, stary...<br>Każdemu może się przytrafić.
 
 message_121:
-    text: \n<MYTOGATOR>What's the problem?\! You're saying I raised the toll?
+    text: \n<MYTOGATOR>Jakiś problem?\! Podwyższyłem cenę?
 
 message_122:
-    text: \n<MYTOGATOR>Yeah, I sure did.\! What about it?
+    text: \n<MYTOGATOR>Ta, się wie.\! I co w związku z tym?
 
 message_123:
     text: \n<MYTOGATOR>Miłego dnia!
 
 message_124:
-    text: \n<MYTOGATOR>I see you kids tryin' to climb the gate!\!<br>Get off of there! That's private property!
+    text: \n<MYTOGATOR>Widzę, że próbujecie wspiąć się na furtkę!\!<br>Złaźcie! To własność prywatna!
 
 message_168:
-    text: \n<MYTOGATOR>Good, good.\!<br>Here... 3000 CLAMS all for you!
+    text: \n<MYTOGATOR>Dobrze, dobrze.\!<br>Proszę... 3000 MAŁŻY jest wasze!
 
 message_169:
-    text: \n<MYTOGATOR>Yeesh...\! Come back when you've got more CLAMS...
+    text: \n<MYTOGATOR>Kuuurka...\! Wróćcie, kiedy zarobicie trochę MAŁŻY...
 
 message_170:
-    text: \n<MYTOGATOR>So you want me to open the gate for you?\!<br>It'll only cost ya 10000 CLAMS.\$
+    text: \n<MYTOGATOR>Więc chcecie, żebym otworzył wam przejście?\!<br>Za jedyne 10000 MAŁŻY.\$
 
 message_171:
     text: \n<MYTOGATOR>Poczekam.
@@ -1940,71 +1940,71 @@ message_125:
     text: \n<MYTOGATOR>\sinv[1]Zzzzzzzzzzzzzzzzzzzzzzzzzz...
 
 message_126:
-    text: \n<MYTOGATOR>Huh? Where am I?
+    text: \n<MYTOGATOR>Ha? Gdzie ja jestem?
 
 message_127:
-    text: \n<MYTOGATOR>Oh, crap!
+    text: \n<MYTOGATOR>O kuźwa!
 
 message_128:
-    text: \n<MYTOGATOR>Boss, look! I wasn't sleepin'... I was just-
+    text: \n<MYTOGATOR>Szefie, proszę! Ja nie kimałem... Ja tylko-
 
 message_129:
-    text: \n<MYTOGATOR>Oh... You're just a bunch of kids...\!<br>Bet you just want me to open the gate.
+    text: \n<MYTOGATOR>O... To tylko zgraja dzieciaków...\!<br>Pewnie chcecie, żebym otworzył przejazd.
 
 message_130:
-    text: \n<MYTOGATOR>Well, I'm gonna to be real with you... These toll prices are jacked. \!It's gonna cost you 3000 CLAMS but I'd find another way around if I were you.<br>So you still want me to open the gate?\$
+    text: \n<MYTOGATOR>No, będę z wami szczery... Naciągają was na hajs za przejazd. \!Do zapłaty będzie 3000 MAŁŻY, ale na waszym miejscu znalazłbym jakieś inne przejście.<br>Dalej chcecie, żebym otworzył bramkę?\$
 
 message_131:
-    text: \n<MYTOGATOR>Really?\! You just got that kind of money lying around?
+    text: \n<MYTOGATOR>Serio?\! Macie przy sobie taką kasę?
 
 message_132:
-    text: \n<MYTOGATOR>You must be swimmin' in it...
+    text: \n<MYTOGATOR>Pewnie w niej pływacie...
 
 message_133:
-    text: \n<MYTOGATOR>Alright, gate's open.
+    text: \n<MYTOGATOR>Dobra, Sezam otwarty.
 
 message_134:
-    text: \n<MYTOGATOR>Don't have the cash?\! Yeah, I thought as much...<br>Just turn around, kid. Nothin' but sharks around here.
+    text: \n<MYTOGATOR>Nie masz kasy?\! Ta, spodziewałem się...<br>Zawróć, dzieciaku. Kręcą się tu same bazyliszki.
 
 message_135:
-    text: \n<MYTOGATOR>Good choice.\! Save your money for a cool bike or something.
+    text: \n<MYTOGATOR>Dobry wybór.\! Zbieraj pieniądze na fajny rower czy coś.
 
 message_136:
-    text: \n<MYTOGATOR>Hey, you're back!\! Toll is 3000 CLAMS, same as always.\$
+    text: \n<MYTOGATOR>Hej, wróciliście!\! Przejazd kosztuje 3000 MAŁŻY, jak zawsze.\$
 
 message_137:
-    text: \n<MYTOGATOR>Kids these days are really something...
+    text: \n<MYTOGATOR>Te dzisiejsze dzieci...
 
 message_138:
-    text: \n<MYTOGATOR>Hey, don't go touching that!<br>Anything happens to it and they'll have my tail!
+    text: \n<MYTOGATOR>Ej, nie dotykać!<br>Jeśli coś się z tym stanie to mnie zgarną!
 
 # -----------------------------------------------
 # - UNDERWATER HIGHWAY: TAXI RIDE (211)
 # -----------------------------------------------
 
 message_139:
-    text: \n<TAXI DRIVER>Hey, kid! You wanna go somewhere cool?
+    text: \n<TAKSÓWKARZ>Hej, dzieciaku! Zabrać cię w kozackie miejsce?
 
 message_140:
-    text: \n<TAXI DRIVER>They're callin' it the \c[11]LAST RESORT\c[0]!\! It's the hottest, trendiest place to be, a real diamond in the rough...\!<br>You've gotta have heard of it!
+    text: \n<TAKSÓWKARZ>Nazywają je \c[11]OSTATNIĄ PRZYSTANIĄ\c[0]!\! To najgorętsze, najmodniejsze miejsce, w jakim kiedykolwiek się znalazłeś, prawdziwy nieoszlifowany diament...\!<br>Musiałeś o nim słyszeć!
 
 message_141:
-    text: \n<TAXI DRIVER>I can take you there for a nominal fee of 3000 CLAMS!<br>Come on... Don't be shy!\! I don't bite...\! much...
+    text: \n<TAKSÓWKARZ>Zabiorę cię tam za symboliczną opłatą 3000 MAŁŻY!<br>No dalej... Nie wstydź się!\! Nie gryzę...\! aż tak mocno...
 
 message_142:
-    text: The cab ride cost a truly exorbitant fee.\! It's too bad you don't have any friends to split the cost with...
+    text: Przejazd taksówką kosztował cię niebotyczną cenę.\! Jaka szkoda, że nie masz przy sobie kumpli, z którymi mógłbyś podzielić się kosztami...
 
 message_143:
-    text: \n<TAXI DRIVER>Hmm... It seems like you're coming up a little short...\!<br>Well, that's fine... I'll just take all that you have! Keh heh!
+    text: \n<TAKSÓWKARZ>Hmm... Trochę ci brakuje...\!<br>Cóż, nic nie szkodzi... Wezmę tyle, ile masz! Ke he!
 
 message_144:
-    text: \n<TAXI DRIVER>Hmm... It seems like you're coming up a little short...\!<br>Well, that's fine... I'll just take all that you-
+    text: \n<TAKSÓWKARZ>Hmm... Trochę ci brakuje...\!<br>Cóż, nic nie szkodzi... Wezmę tyle, ile...
 
 message_145:
-    text: \n<TAXI DRIVER>Wow... You really got nothing on you, huh?\!<br>You must've been scammed real bad.\! I pity you.
+    text: \n<TAKSÓWKARZ>Wow... Jesteś spłukany, co?\!<br>Musieli nieźle cię omamić.\! Współczuję.
 
 message_146:
-    text: \n<TAXI DRIVER>Hey, kid!\! You wanna go back to the \c[11]DEEP WELL\c[0]?<br>It'll only cost ya 1,500 CLAMS.
+    text: \n<TAKSÓWKARZ>Hej, dzieciaku!\! Chcesz wrócić do \c[11]GŁĘBOKIEJ STUDNI\c[0]?<br>Będzie cię to kosztować jedyne 1500 MAŁŻY.
 
 # -----------------------------------------------
 # - SLIME GIRLS LAIR: WATER SLIDE (230)
@@ -2025,7 +2025,7 @@ message_146:
 #     text: Down
 
 message_292:
-    text: Welcome to MEDUSA's waterslide!\!<br>Navigate the currents by holding down an ARROW KEY!
+    text: Zjeżdżalnia wodna MEDUZY wita!\!<br>Zmieniaj nurt, przytrzymując STRZAŁKĘ!
 
 ### NO LONGER USED ###
 
@@ -2036,7 +2036,7 @@ message_292:
 #TUMOR ZNAK 1
 
 message_231:
-    text: EXHIBIT\! STRANGE GROWTH\!<br>PROPERTIES\! ABILITY TO REGENERATE AFTER BEING SMASHED
+    text: WYSTAWA\! DZIWNY ROZWÓJ\!<br>WŁAŚCIWOŚCI\! MOŻLIWOŚĆ REGENERACJI PO ZGNIECENIU
 
 # -----------------------------------------------
 # - SLIME GIRLS: MARINA (222)
@@ -2045,91 +2045,91 @@ message_231:
 #CHIMERA ZNAK
 
 message_626:
-    text: WARNING\! DO NOT POKE THE GLASS
+    text: UWAGA\! NIE DOTYKAĆ SZYBY
 
 #TUMOR ZNAK 2
 
 message_164:
-    text: EXHIBIT\! STRANGE GROWTH\!<br>PROPERTIES\! ABILITY TO TRANSFORM INTO A BRIDGE
+    text: WYSTAWA\! DZIWNY ROZWÓJ\!<br>WŁAŚCIWOŚCI\! MOŻLIWOŚĆ PRZEMIANY W MOST
 
 #BUNNY ZNAK
 
 message_232:
-    text: EXHIBIT\! BUNNIES\!<br>PROPERTIES\! SOFT AND PLIABLE
+    text: WYSTAWA\! KRÓLICZKI\!<br>WŁAŚCIWOŚCI\! MIĘKKOŚĆ I ELASTYCZNOŚĆ
 
 #RECEPTION GIGANTOS
 
 message_233:
-    text: \n<RECEPTIONIST GIGANTOS>Welcome!\! MARINA is not currently seeing anyone right now...\! but if you are enjoying the exhibit, feel free to crawl into a cage and wait for the next available experiment.
+    text: \n<GIGANTOS RECEPCJONISTA>Witamy!\! MARINA nie przyjmuje obecnie pacjentów...\! ale jeśli spodobała ci się wystawa, nie krępuj się wślizgnąć do klatki i czekać na kolejny wolny termin eksperymentu.
 
 message_234:
-    text: \n<RECEPTIONIST GIGANTOS>You will know when the screaming stops.
+    text: \n<GIGANTOS RECEPCJONISTA>Nadejdzie, kiedy ucichną krzyki.
 
 # -----------------------------------------------
 # - SLIME GIRLS: MARINA (225)
 # -----------------------------------------------
 
 message_372:
-    text: \n<GIGANTOS>I like this spot!
+    text: \n<GIGANTOS>Podoba mi się to miejsce!
 
 message_621:
-    text: \n<GIGANTOS>I heard there were a lot of delicious WATERMELONS in here so I ate them all!\ Mmm... dee-licious!
+    text: \n<GIGANTOS>Słyszałem, że jest tu wiele pysznych ARBUZÓW, więc wszystkie je zjadłem!\ Mmm... pyyychota!
 
 # -----------------------------------------------
 # - SLIME GIRLS: MEDUSA (250)
 # -----------------------------------------------
 
 message_235:
-    text: \n<GIGANTOS>Out for a swim?\! Me too!
+    text: \n<GIGANTOS>Na kąpiel?\! Ja też!
 
 message_236:
-    text: \n<GIGANTOS>Hey, check this out, Mmmans.
+    text: \n<GIGANTOS>Ej, patrzcie na to, ludzie.
 
 message_237:
-    text: \n<GIGANTOS>Did you know us MmmPHRIES are strong enough to withstand a waterfall's current?\! Watch this!
+    text: \n<GIGANTOS>Czy wiedziałeś, że my, GIGANTOSY, jesteśmy wyjątkowo silne, by wstrzymać prąd wodospadu?\! Spójrz!
 
 message_238:
-    text: \n<GIGANTOS>Yikes!\! Except for that guy, I guess...<br>\!Oh well! That's just natural selection working.
+    text: \n<GIGANTOS>Fujka!\! No może oprócz tego gościa...<br>\!No cóż! Tak działa naturalna selekcja.
 
 message_239:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelHey, you know what?\! I just had an idea!\!<br>I bet... if we gather enough MmmPHRIES-
+    text: \kelEj, wiecie co?\! Wpadłem na pomysł!\!<br>Gdybyśmy tak... zebrali odpowiednio dużo GIGANTOSÓW...
 
 message_905:
     faceset: MainCharacters_DreamWorld
     faceindex: 3
-    text: \aubThen maybe... we could use them to form a bridge to the other side!
+    text: \aubWtedy... moglibyśmy ułożyć z nich most!
 
 message_906:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: \kel\com[2]Hey! I was supposed to say that!
+    text: \kel\com[2]Hej! To była moja kwestia!
 
 message_240:
-    text: \n<GIGANTOS>I say that MEDUSA's experiment has a fourteen times seven plus forty-four divided by eleven minus two percent chance of success!
+    text: \n<GIGANTOS>Mówię, że eksperyment MEDUZY ma czternaście razy siedem plus czterdzieści cztery podzielone przez jedenaście odjąć dwa procenty na powodzenie!
 
 message_241:
-    text: \n<GIGANTOS>Biology is my worst subject, but that's never stopped me!
+    text: \n<GIGANTOS>Mam pałę z biologii, ale to w niczym mnie nie powstrzyma!
 
 message_242:
-    text: \n<BIG MOLIO>I am BIG MOLIO.
+    text: \n<GRUBY KIEŁSON>Jestem GRUBY KIEŁSON.
 
 message_243:
-    text: \n<BIG MOLIO>In return for finding me, I bless you with great fortune.
+    text: \n<GRUBY KIEŁSON>W podzięce za me znalezienie, błogosławię was wielkim szczęściem.
 
 message_904:
-    text: \n<BIG MOLIO>My duty has been fulfilled.
+    text: \n<GRUBY KIEŁSON>Wypełniłem swój obowiązek.
 
 # -----------------------------------------------
 # - SLIME GIRLS: MEDUSA (231)
 # -----------------------------------------------
 
 message_327:
-    text: \n<GIGANTOS>All my friends left me behind to go build a bridge...\! but I'm gonna show them up by building an even bigger bridge!
+    text: \n<GIGANTOS>Wszyscy kumple zostawili mnie i poszli budować most...\! ale pokażę im i zbuduję jeszcze większy!
 
 message_328:
-    text: \n<GIGANTOS>If Wiecie any MmmPHRIES floating about, be sure to send them my way.
+    text: \n<GIGANTOS>Jeśli zauważycie jakieś GIGANTOSY snujące się w okolicy, skierujcie je do mnie.
 
 # -----------------------------------------------
 # - SLIME GIRLS: MEDUSA (230)
@@ -2138,89 +2138,89 @@ message_328:
 message_397:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: Huff...\! huff...\! huff...\her
+      text: Uff...\! uff...\! uff...\her
 
 message_398:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: I would...\! really appreciate it...\! if you guys could wrap this up...\! pretty soon...\!\her
+      text: Byłbym...\! naprawdę wdzięczny...\! gdybyście zwinęli to...\! za jakąś chwilkę...\!\her
 
 message_399:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: No rush...\! I just think I'm...\! getting...\! hurg...\! kind of sick...\her
+      text: Bez pośpiechu...\! po prostu...\! robi mi się trochę...\! hurg...\! niedobrze...\her
 
 # -----------------------------------------------
 # - SLIME GIRLS: MOLLY MAIN ROOM (236)
 # -----------------------------------------------
 
 message_147:
-    text: \n<MOLLY>\com[539]Oh, hello MARINA...\!<br>\com[539]Are you here to steal my things again?<br><br>\com[539]Well, not this time.\! \com[539]I've prepared something \com[539]extra special for you today... \sinv[1]Fufufu~
+    text: \n<MOLLY>\com[539]Och, cześć, MARINA...\!<br>\com[539]Znowu przyszłaś mi coś podwędzić?<br><br>\com[539]Nie tym razem.\! \com[539]Dzisiaj przygotowałam dla ciebie coś \com[539]wyjątkowo szczególnego... \sinv[1]Fufufu~
 
 message_149:
-    text: \n<MOLLY>\com[539]As you know, \com[539]I am a very busy person,\!<br>\com[539]But alas... you are my sister.<br><br>\com[539]I will grant you access \com[539]to my room...\!<br>if you \com[539]are able to \com[539]solve my little gift.
+    text: \n<MOLLY>\com[539]Jak wiesz, \com[539]jestem bardzo zapracowaną osobą,\!<br>\com[539]Ale niestety... jesteś moją siostrą.<br><br>\com[539]Udzielę ci wstępu \com[539]do mojego pokoju...\!<br>jeśli \com[539]będziesz w stanie \com[539]rozwiązać moją niespodziankę.
 
 message_150:
-    text: \n<MOLLY>\com[539]\com[539]Hope to see you soon, darling...\!\com[539] if you're still alive, \com[539]that is!
+    text: \n<MOLLY>\com[539]\com[539]Do zobaczenia później, kochana...\!\com[539] jeśli będziesz jeszcze żywa, \com[539]ma się rozumieć!
 
 #TERMINAL INTERACTION
 
 message_392:
-    text: \"TYPE... PUZZLE\"<br>\"THEME... PATTERN\"<br>\"DIFFICULTY... EASY\"
+    text: \"RODZAJ... ZAGADKA\"<br>\"STYL... SCHEMAT\"<br>\"POZIOM TRUDNOŚCI... ŁATWY\"
 
 message_393:
-    text: \"TYPE... PUZZLE\"<br>\"THEME... MEMORIZATION\"<br>\"DIFFICULTY... HARD\"
+    text: \"RODZAJ... ZAGADKA\"<br>\"STYL... ZAPAMIĘTYWANIE\"<br>\"POZIOM TRUDNOŚCI... TRUDNY\"
 
 message_394:
-    text: \"TYPE... PUZZLE\"<br>\"THEME... MULTIPLE CHOICE\"<br>\"DIFFICULTY... MEDIUM\"
+    text: \"RODZAJ... ZAGADKA\"<br>\"STYL... WIELOKROTNY WYBÓR\"<br>\"POZIOM TRUDNOŚCI... ŚREDNI\"
 
 message_496:
-    text: Do you want to activate this puzzle?\!<br>You cannot choose another puzzle until it is solved.
+    text: Czy chcesz uruchomić zagadkę?\!<br>Nie możesz wybrać kolejnej, zanim ta nie zostanie rozwiązana.
 
 message_497:
-    text: \"TYPE... PUZZLE\"<br>\"STATUS... SOLVED\"
+    text: \"RODZAJ... ZAGADKA\"<br>\"STATUS... ROZWIĄZANA\"
 
 #PASSWORD PUZZLE (Bomb Collision)
 
 message_498:
-    text: Do you want to input the password?
+    text: Czy chcesz wpisać hasło?
 
 message_622:
-    text: \n<SPEAKER>You think you're real clever, huh?
+    text: \n<GŁOŚNIK>You think you're real clever, huh?
 
 message_907:
-    text: What is the password?
+    text: Jakie jest hasło?
 
 #WIRE PUZZLE (Wire Events)
 
 message_499:
-    text: Do you want to cut the \c[8]red wire\c[0]?
+    text: Czy chcesz przeciąć \c[8]czerwony kabel\c[0]?
 
 message_500:
-    text: Do you want to cut the \c[11]blue wire\c[0]?
+    text: Czy chcesz przeciąć \c[11]niebieski kabel\c[0]?
 
 message_501:
-    text: Do you want to cut the white wire?
+    text: Czy chcesz przeciąć biały kabel?
 
 message_502:
-    text: Do you want to cut the \c[3]green wire\c[0]?
+    text: Czy chcesz przeciąć \c[3]zielony kabel\c[0]?
 
 #BUTTON PUZZLE (Bomb Collision)
 
 message_503:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: Go on!\! We believe in you!\aub
+      text: Dawaj!\! Wierzymy w ciebie!\aub
 
 message_504:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Zdobywasz this! Show this puzzle who's boss!\kel
+      text: Dasz radę! Pokaż tej zagadce, kto tu rządzi!\kel
 
 message_505:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: You can do this! We got your back!\her
+      text: Uda ci się! Trzymamy kciuki!\her
 
 # -----------------------------------------------
 # - SLIME GIRLS: MOLLY ROOM RIGHT 2 (238)
@@ -2229,151 +2229,151 @@ message_505:
 #WELCOME MmmPHRIES
 
 message_445:
-    text: \n<RECEPTIONIST GIGANTOS>Welcome!\! You are about to enter MOLLY's testing center where she conducts various procedures and analyses!
+    text: \n<GIGANTOS RECEPCJONISTA>Witam!\! Czy mogę podać...\! Ekhem...\! Właśnie wkraczacie na obszar centrum badawczego MOLLY, gdzie przeprowadzane są badania i analizy!
 
 message_477:
-    text: \n<OPERATOR GIGANTOS>According to our tests, it would seem that KIEŁKUNS grow from \c[3]TOFU\c[0]!\! Who knew!?
+    text: \n<GIGANTOS OPERATOR>Z naszych badań wynika, że KIEŁKUNY wyrastają z \c[3]TOFU\c[0]!\! Kto by pomyślał!?
 
 message_478:
-    text: \n<OPERATOR GIGANTOS>Ah... These results are quite unexpected...\! With this knowledge, I just may be able to find the cure for mortality!
+    text: \n<GIGANTOS OPERATOR>Ach... Dość nieoczekiwany wynik...\! Dzięki tej wiedzy być może będę w stanie wynaleźć lek na śmierć!
 
 message_479:
-    text: \n<OPERATOR GIGANTOS>Oh my! Surely, these numbers aren't correct!\!<br>...\! Oh... wait...\! It seems that I have miscalculated...\!<br>I guess they're not.
+    text: \n<GIGANTOS OPERATOR>Ojej! Liczby zdecydowanie się nie zgadzają!\!<br>...\! Och... chwila...\! Pomyliłem się w rachunkach...\!<br>Chyba jednak tak.
 
 message_480:
-    text: \n<OPERATOR GIGANTOS>We understand so little about this world, so we study it...\! yet our research just fills us with even more questions!\!<br>It's an endless and fruitless cycle!
+    text: \n<GIGANTOS OPERATOR>Rozumiemy ten świat w bardzo małym stopniu, więc go badamy...\! ale nasze prace jedynie mnożą pytania!\!<br>To niekończący się i bezowocny cykl!
 
 message_481:
-    text: \n<OPERATOR GIGANTOS>This is GIGANTOS to GIGANTOS... Do you read me?
+    text: \n<GIGANTOS OPERATOR>GIGANTOS do GIGANTOSA... Czy mnie słychać?
 
 message_482:
-    text: \n<OPERATOR GIGANTOS>Mhmm...\! Yes...\!<br>Have you tried turning it off and back on again?
+    text: \n<GIGANTOS OPERATOR>Mhmm...\! Tak...\!<br>Próbowałeś wyłączyć i włączyć?
 
 message_483:
-    text: \n<OPERATOR GIGANTOS>It's tough to get any actual work done around here, since MOLLY is always messing with our research...<br><br>I wish I was asZNAKed to MEDUSA's quadrant...\!<br>That's where they asZNAK all the work-hard-play-hard types...<br>I hear they even have a water slide!
+    text: \n<GIGANTOS OPERATOR>Ciężko cokolwiek tu skończyć, MOLLY ciągle miesza coś przy badaniach...<br><br>Chcicałbym być w oddziale MEDUZY...\!<br>Przydzielają tam samych dobrze zarabiających imprezowiczów...<br>Słyszałem, że mają nawet zjeżdżalnię wodną!
 
 message_484:
-    text: \n<OPERATOR GIGANTOS>That's what I'm saying...\! According to the live feed, she's working hard on something in her "workshop"...\! Yeah, okay...\!<br>I'll keep an eye on it.
+    text: \n<GIGANTOS OPERATOR>O to mi chodzi...\! Z rejestru kamer wychodzi na to, że ciężko pracuje nad czymś w swoim "warsztacie"...\! Ta, okej...\!<br>Będę miał na to oko.
 
 message_485:
-    text: \n<OPERATOR GIGANTOS>Looks like MARINA just had a huge fight with a client.\! Things aren't looking good...
+    text: \n<GIGANTOS OPERATOR>Widocznie MARINA ostro pokłóciła się z klientem.\! Nie wygląda to dobrze...
 
 #Teleport Object
 
 message_396:
-    text: \n<KIEŁKUN>I can't believe I ZNAKed up for this.
+    text: \n<KIEŁKUN>Nie wierzę, że się na to zgodziłem.
 
 #FIRST GIGANTOS (Pattern)
 
 message_446:
-    text: \n<GIGANTOS>Greetings, visitors!\! Would you like to see something cool?\!<br>This machine here can perform remote teleportation!
+    text: \n<GIGANTOS>Witajcie, goście!\! Chcielibyście zobaczyć coś fajnego?\!<br>Ta oto maszyna zdolna jest do teleportacji na daleką odległość!
 
 message_454:
-    text: \n<GIGANTOS>With the power of modern technology, I can send this KIEŁKUN to the other side of the grid!\! Take a look!
+    text: \n<GIGANTOS>Dzięki mocy nowoczesnej technologii mogę wysłać tego KIEŁKUNA na drugą stronę pola!\! Spójrzcie!
 
 message_455:
-    text: \n<GIGANTOS>\com[2]What!? An error?\! ...\!<br>Someone must have messed with the program.<br><br>Sigh...\! It was probably MOLLY again...\!<br>She always pulls stunts like this...
+    text: \n<GIGANTOS>\com[2]Co!? Błąd?\! ...\!<br>Ktoś musiał grzebać przy systemie.<br><br>Ech...\! To pewnie znowu MOLLY...\!<br>Zawsze robi takie numery...
 
 message_456:
-    text: \n<GIGANTOS>Dangit, MOLLY!\! Everything worked so perfectly this morning...
+    text: \n<GIGANTOS>Psiakrew, MOLLY!\! Rano wszystko działało bez zarzutów...
 
 #SECOND GIGANTOS (Pattern)
 
 message_447:
-    text: \n<GIGANTOS>Hey there, visitors!\! I've been leading an experiment on GIGANTOS-through-GIGANTOS movement!\! You've come just in time to watch us conduct our final test!
+    text: \n<GIGANTOS>Cześć, goście!\! Prowadzę badania nad ruchem GIGANTOSOWYM!\! Przyszliście w samą porę, by zobaczyć, jak przeprowadzamy nasz ostatni test!
 
 message_448:
-    text: \n<GIGANTOS>Are you ready, gang?\! Let's do it just like we practiced!
+    text: \n<GIGANTOS>Gotowi, chłopaki?\! Tak jak ćwiczyliśmy!
 
 message_449:
-    text: \n<GIGANTOS>This... This wasn't in my plans...
+    text: \n<GIGANTOS>Tego... Tego nie było w planach...
 
 message_451:
-    text: \n<GIGANTOS>Where'd everybody go?
+    text: \n<GIGANTOS>Gdzie się wszyscy podziali?
 
 message_457:
-    text: \n<GIGANTOS>We're testing!
+    text: \n<GIGANTOS>Testujemy!
 
 message_458:
-    text: \n<GIGANTOS>I can't wait to show off the results of our research!
+    text: \n<GIGANTOS>Nie mogę doczekać się, by pokazać wyniki naszych badań!
 
 message_459:
-    text: \n<GIGANTOS>I'm all ready to go!
+    text: \n<GIGANTOS>Zwarty i gotowy!
 
 message_460:
-    text: \n<GIGANTOS>I should have gone through my notes one last time...
+    text: \n<GIGANTOS>Mogłem jeszcze jeden raz przejrzeć notatki...
 
 message_476:
-    text: \n<GIGANTOS>Prepare to be amazed!
+    text: \n<GIGANTOS>Przygotuj się na zaskoczenie!
 
 #FOURTH GIGANTOS (Pattern)
 
 message_452:
-    text: \n<GIGANTOS>Ah! Hello, visitors!\! After months upon months of hard work and toil, I've successfully created the first-ever GIGANTOS hologram machine!<br>Don't they look just like the real thing?\!<br>Sniff...\! I couldn't be more proud...
+    text: \n<GIGANTOS>Ach! Witajcie, goście!\! Po wielu miesiącach ciężkiej pracy i trudu udało mi się stworzyć pierwszy w historii GIGANTOSOWY hologram!<br>Czyż nie wygląda jak żywy?\!<br>Chlip...\! Jestem taki dumny...
 
 message_453:
-    text: \n<GIGANTOS>MOLLY told me to stand here, but I don't know why!
+    text: \n<GIGANTOS>MOLLY kazała mi tu stać, ale nie wiem po co!
 
 #THIRD GIGANTOS (Pattern)
 
 message_461:
-    text: \n<GIGANTOS>Hmm...\| Oof...\| Urg...\| Hrm...\| Eh?
+    text: \n<GIGANTOS>Hmm...\| Uf...\| Urg...\| Hrm...\| Eee?
 
 message_462:
-    text: \n<GIGANTOS>Huh? What are you looking at me like that for?\!<br>Can't Wiecie that I'm busy?
+    text: \n<GIGANTOS>Ha? Co się tak patrzysz?\!<br>Nie widać, że jestem zajęty?
 
 message_463:
     text: \n<GIGANTOS>...
 
 message_700:
-    text: \n<GIGANTOS>Actually... I just got an idea!\! On second thought, can one of you kids try running through these metal plates for me?\!<br>I just want to test something.
+    text: \n<GIGANTOS>Właściwie... Mam pomysł!\! Czy któreś z was mogłoby przebiec dla mnie przez te metalowe płyty?\!<br>Chciałbym coś sprawdzić.
 
 message_701:
-    text: \n<GIGANTOS>Why don't you discuss it amongst yourselves and vote?
+    text: \n<GIGANTOS>Przedyskutujcie i zagłosujcie.
 
 message_702:
-    text: Who should help GIGANTOS with his experiment?
+    text: Kto powinien pomóc GIGANTOSOWI przy eksperymencie?
 
 message_465:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Okay... if you're sure, OMORI.\! Just be careful!\! I don't have a good feeling about this.\aub
+      text: Dobrze... skoro jesteś pewien, OMORI.\! Tylko uważaj!\! Mam co do tego złe przeczucie.\aub
 
 message_466:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Huh?\! Me?\! Okay... but I don't have a good feeling about this.\aub
+      text: Hę?\! Ja?\! Dobra... ale mam co do tego złe przeczucie.\aub
 
 message_467:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: What!? Why do I gotta do it!?\!<br>Fine... but I don't have a good feeling about this.\kel
+      text: Co!? Czemu ja!?\!<br>No dobra... ale mam co do tego złe przeczucie.\kel
 
 message_468:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Leave this to me...\! Besides, I don't have a good feeling about this.\her
+      text: Zostawcie to mi...\! Poza tym mam co do tego złe przeczucie.\her
 
 message_469:
-    text: \n<GIGANTOS>Hurry up! I don't have all day!
+    text: \n<GIGANTOS>Prędko! Nie mam na to całego dnia!
 
 message_470:
-    text: \n<GIGANTOS>\com[2]A-ha! I knew one of these spikes was broken...
+    text: \n<GIGANTOS>\com[2]A-ha! Wiedziałem, że któryś z kolców był złamany...
 
 message_471:
-    text: \n<GIGANTOS>If I had a cup of coffee right now, I would sip it!
+    text: \n<GIGANTOS>Wypiłbym sobie kawę!
 
 message_472:
-    text: \n<GIGANTOS>Thanks for voluntarily risking your life.
+    text: \n<GIGANTOS>Dziękuję za dobrowolne narażenie swojego życia.
 
 message_473:
-    text: \n<GIGANTOS>Well... I guess now I gotta go fix it.
+    text: \n<GIGANTOS>No... Teraz muszę to naprawić.
 
 message_474:
-    text: \n<GIGANTOS>Hmm...\| Oof...\| Urg...\| Hrm...\| Eh?
+    text: \n<GIGANTOS>Hmm...\| Uf...\| Urg...\| Hrm...\| Eee?
 
 message_475:
-    text: \"TYPE... CONSOLE\"<br>\"STATUS... BROKEN\"
+    text: \"RODZAJ... KONSOLA\"<br>\"STATUS... ZEPSUTA\"
 
 message_174:
     text: OMORI
@@ -2388,27 +2388,27 @@ message_177:
     text: HERO
 
 message_450:
-    text: \n<GIGANTOS>Whoa, there! Not so fast, buddy. You're not done here yet!\! Make sure to go through all of them!
+    text: \n<GIGANTOS>Hola! Nie tak prędko, kumplu. Jeszcze nie koniec roboty!\! Przejdź przez nie wszystkie!
 
 # -----------------------------------------------
 # - SLIME GIRLS: LOST ROOM 1 (241) UNUSED
 # -----------------------------------------------
 
 message_486:
-    text: \n<KNOWLEDGEABLE GIGANTOS>A wise whale once said...<br>"Counting your enemies will show you the path to victory!"\! or something like that...
+    text: \n<INTELIGENTNY GIGANTOS>Pewien mądry wieloryb powiedział kiedyś...<br>"Swych wrogów licz, by odnaleźć do zwycięstwa drogę!"\! czy coś w tym stylu...
 
 message_608:
-    text: \n<KNOWLEDGEABLE GIGANTOS>Would you like some assistance?
+    text: \n<INTELIGENTNY GIGANTOS>Czy mogę w czymś pomóc?
 
 message_609:
-    text: \n<KNOWLEDGEABLE GIGANTOS>If you direct your attention to this here monitor, you will see the position of four different teleporters. Counting the number of enemies in the room will let you know which position is the right one!
+    text: \n<INTELIGENTNY GIGANTOS>Jeśli spojrzycie na ten oto monitor, dostrzeżecie pozycję czterech różnych teleporterów. Liczenie wrogów pomoże ci zorientować się, która pozycja jest właściwa!
 
 # -----------------------------------------------
 # - SLIME GIRLS: LOST ROOM 4 (247)
 # -----------------------------------------------
 
 message_487:
-    text: \n<KNOWLEDGEABLE GIGANTOS>A wise whale once said...<br>"The order of the route will lead you to the solution!"\! or something like that...
+    text: \n<INTELIGENTNY GIGANTOS>Pewien mądry wieloryb powiedział kiedyś...<br>"Kolejność doprowadzi cię do celu!"\! czy jakoś tak...
 
 # -----------------------------------------------
 # - SLIME GIRLS: MOLLY ROOM LEFT 2 (240)
@@ -2417,90 +2417,90 @@ message_487:
 message_329:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelHey, it's these guys again!\! Work your magic, HERO!
+    text: \kelEj, to znowu ci goście!\! Zaczaruj ich, HERO!
 
 message_330:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \n<HERO>Hey, you're right!
+    text: \n<HERO>Hej, masz rację!
 
 message_331:
     faceset: MainCharacters_DreamWorld
     faceindex: 49
-    text: \n<HERO>Ahem...\! Greetings, Sir CONVEYOR-BOT...\! My companions and<br>I require your assistance in changing the directions of your conveyors...\! Will you and your friends please aid us?
+    text: \n<HERO>Ekhem...\! Witam, mości TAŚMOBOCIE...\! Moi kompani oraz ja żądamy pańskiej pomocy ze zmianą kursu ruchu taśmociągów.\! Czy wraz z waćpana współpracownikami bylibyście w mocy nam pomóc?
 
 message_332:
-    text: \n<MR. CONVEYOR-BOT>\quake[1]Bzzt...\! Hmf...\! Nice person...\quake[0]
+    text: \n<PAN TAŚMOBOT>\quake[1]Bzzt...\! Hmf...\! Miła osoba...\quake[0]
 
 message_333:
-      text: \n<MR. CONVEYOR-BOT>\quake[1]Get... lost...\quake[0]
+      text: \n<PAN TAŚMOBOT>\quake[1]Spadaj...\quake[0]
 
 message_334:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \n<HERO>H-huh? That's strange...\! That worked so well before...
+    text: \n<HERO>H-hę? Dziwne...\! Wcześniej zadziałało...
 
 message_335:
     faceset: MainCharacters_DreamWorld
     faceindex: 29
-    text: \kelDon't be so down, HERO!\! He's probably just got his gears all mixed up or something!
+    text: \kelNie łam się, HERO!\! Pewnie coś mu się w biegach pomajtało!
 
 message_336:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aubCould you say that any louder?\! Now he's gonna get even more mad at us!
+    text: \aubMoże głośniej?\! Będzie jeszcze bardziej zły na nas!
 
 message_337:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kelHey, scrap heap!<Br>You'll turn those belts around for us, won'tcha?
+    text: \kelEj, złomogłowie!<br>Zmieniłbyś dla nas tory, co?
 
 message_338:
-      text: \n<CONVEYOR-BOT>\quake[1]Bzzzzzt!\! Ahh...\! Hmm...\! Rude person...\!<br>Hehe...\! Just like MOLLY...\quake[0]
+      text: \n<CONVEYOR-BOT>\quake[1]Bzzzzzt!\! Aach...\! Hmm...\! Niemiła osoba...\!<br>Hehe...\! Tak jak MOLLY...\quake[0]
 
 message_339:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aub...\! I can't believe that worked.
+    text: \aub...\! Nie wierzę, że to zadziałało.
 
 message_340:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelWell, whaddya know?<br>Looks like I'm pretty good at this CHARM thing, too!
+    text: \kelNo, kto by pomyślał?<br>Wygląda na to, że ja też mam niezły UROK!
 
 message_382:
-    text: \n<HERO>TAG me in! I know what to do!
+    text: \n<HERO>ZACZEP mnie! Wiem, co zrobić!
 
 message_999:
-    text: All CONVEYOR-BOTS will now switch directions for you.
+    text: Wszystkie TAŚMOBOTY będą zmieniać dla ciebie kierunek.
 
 # -----------------------------------------------
 # - SLIME GIRLS: MOLLY ROOM LEFT 1 (239)
 # -----------------------------------------------
 
 message_488:
-    text: \n<GIGANTOS>MOLLY told us to write letters on our back and stand in this order!
+    text: \n<GIGANTOS>MOLLY kazała nam napisać na swoich tyłach litery i stać w tej kolejności!
 
 message_489:
-    text: \n<GIGANTOS>At least, I think it was this order...
+    text: \n<GIGANTOS>Znaczy się, chyba taka była kolejność...
 
 message_490:
-    text: \n<GIGANTOS>I'm pretty sure I'm supposed to switch places with the one on your right...
+    text: \n<GIGANTOS>Jestem prawie pewien, że powinienem zamienić się miejscem z tym po twojej prawej...
 
 message_491:
-    text: \n<GIGANTOS>And when I say "your right", I mean you, as in the person standing in front of me... not some hypothetical observer watching us from behind a screen.
+    text: \n<GIGANTOS>A mówiąc "twojej prawej", mam na myśli ciebie, stojącego przede mną... nie jakiegoś potencjalnego podglądacza, obserwującego nas zza ekranu.
 
 message_492:
-    text: \n<GIGANTOS>This must be for one of MOLLY's crazy puzzles again...
+    text: \n<GIGANTOS>To musi być jakaś kolejna szalona zagadka MOLLY...
 
 message_493:
-    text: \n<GIGANTOS>That girl loves to play games too much. If she would just focus, she could probably do so much good for the world!
+    text: \n<GIGANTOS>Za bardzo lubi się bawić. Gdyby tylko się skupiła, mogłaby zrobić tyle dobrego dla świata!
 
 message_494:
-    text: \n<GIGANTOS>It's a good thing I checked before writing this "M", or else I would have almost written another "B"...
+    text: \n<GIGANTOS>Dobrze, że jeszcze raz spojrzałem przed napisaniem tego "M", inaczej prawie napisałbym kolejne "B"...
 
 message_495:
-    text: \n<GIGANTOS>That would have been pretty bad, huh?
+    text: \n<GIGANTOS>Byłoby kiepsko, co?
 
 # -----------------------------------------------
 # - SLIME GIRLS LAIR: MEDUSA (231, 250)
@@ -2509,257 +2509,257 @@ message_495:
 #FLOATIE MmmPHRIES 1
 
 message_57:
-    text: \n<GIGANTOS>Of course I will! I thought you'd never ask!
+    text: \n<GIGANTOS>Oczywiście, że tak! Już myślałem, że nigdy nie zapytasz!
 
 message_58:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelHey, GIGANTOS! Do you wanna to join your friend GIGANTOS at the waterfall?
+    text: \kelHej GIGANTOSIE! Czy chciałbyś dołączyć do swoich przyjaciół GIGANTOSÓW w wodospadzie?
 
 message_610:
-    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
+    text: \n<GIGANTOSOWY MOST>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
 
 message_611:
-    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
+    text: \n<GIGANTOSOWY MOST>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
 
 message_612:
-    text: \n<GIGANTOS BRIDGE\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
+    text: \n<GIGANTOSOWY MOST\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
 
 message_613:
-    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
+    text: \n<GIGANTOSOWY MOST>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
 
 #FLOATIE MmmPHRIES 2
 
 message_614:
-    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]\i[13]
+    text: \n<GIGANTOSOWY MOST>\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]\i[13]
 
 message_615:
-    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]
+    text: \n<GIGANTOSOWY MOST>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]
 
 message_616:
-    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]
+    text: \n<GIGANTOSOWY MOST>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]
 
 message_617:
-    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
+    text: \n<GIGANTOSOWY MOST>\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
 
 message_618:
-    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
+    text: \n<GIGANTOSOWY MOST>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
 
 message_619:
-    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
+    text: \n<GIGANTOSOWY MOST>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
 
 message_620:
-    text: \n<GIGANTOS BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
+    text: \n<GIGANTOSOWY MOST>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
 
 # -----------------------------------------------
-# - RECYCULTIST: RANDOM DIALOGUE (341)
+# - RECYKULTYSTA: RANDOM DIALOGUE (341)
 # -----------------------------------------------
 
 message_250:
-    text: \n<RECYCULTIST>The bin is my savior, I shall not waste.
+    text: \n<RECYKULTYSTA>Kosz jest wybawcą moim, nic nie pójdzie na marne.
 
 message_251:
-    text: \n<RECYCULTIST>He picks up trash in green pastures.<br>He leads me beside clean waters.
+    text: \n<RECYKULTYSTA>Na niwach zielonych zbiera śmieć.<br>Nad wody klarowne prowadzi mnie.
 
 message_252:
-    text: \n<RECYCULTIST>He recycles my soul.<br>He leads me toward the path of cleanliness.
+    text: \n<RECYKULTYSTA>Przetwarza mą duszę.<br>Wiedzie mnie po ścieżkach czystości.
 
 message_253:
-    text: \n<RECYCULTIST>May the biodegradable fork deliver our sins unto it so that we may be cleansed.
+    text: \n<RECYKULTYSTA>Niech biodegradowalny widelec powierzy mu nasze grzechy, abyśmy mogli zostać oczyszczeni.
 
 message_254:
-    text: \n<RECYCULTIST>May we one day be recycled unto it so that we may be delivered into the trashless world.
+    text: \n<RECYKULTYSTA>Niech pewnego dnia niemy do niego przetworzeni, byśmy mogli przenieść się do świata bez śmieci.
 
 message_255:
-    text: \n<RECYCULTIST>Oh, great trash bin in the sky, please cleanse us of our trash!
+    text: \n<RECYKULTYSTA>O, koszu święty w niebiosach, oczyść nas z naszych śmieci!
 
 message_256:
-    text: \n<RECYCULTIST>May the spirit of the rubber glove work through me,<br>so that I may be closer to the trash bin in the sky and the trashless world.
+    text: \n<RECYKULTYSTA>Niech przemówi przeze mnie duch gumowej rękawiczki, bym był bliżej kosza w niebiosach i świata bez śmieci.
 
 message_257:
-    text: \n<RECYCULTIST>For holy bin so loved the world that he gave his one and only clean biodegradable fork, that whoever believes in it shall not litter, but have a trashless life...
+    text: \n<RECYKULTYSTA>Albowiem kosz święty tak umiłował świat, że dał swój jedyny, czysty widelec biodegradowalny, aby kto w niego uwierzy, nie zaśmiecał, lecz miał życie bez śmieci...
 
 message_258:
-    text: \n<RECYCULTIST>Brothers and sisters, we must all accept that we are trash.
+    text: \n<RECYKULTYSTA>Bracia i siostry, musimy zaakceptować fakt, iż jesteśmy śmiećmi.
 
 message_259:
-    text: \n<RECYCULTIST>Although we may be trash, as long as we remain biodegradable we may yet be saved.
+    text: \n<RECYKULTYSTA>Być może jesteśmy śmiećmi, lecz dopóki będziemy biodegradowalni, czeka nas zbawienie.
 
 # -----------------------------------------------
-# - RECYCULTIST: END PRAYER (341)
+# - RECYKULTYSTA: END PRAYER (341)
 # -----------------------------------------------
 
 message_260:
-    text: \n<RECYCULTIST>In the biodegradable fork's name...\!<br>Reduce, reuse, and recycle.
+    text: \n<RECYKULTYSTA>W imię biodegradowalnego widelca...\!<br>Unikajmy plastiku, używajmy powtórnie i utylizujmy.
 
 # -----------------------------------------------
-# - RECYCULTIST: DEFEATED (341)
+# - RECYKULTYSTA: DEFEATED (341)
 # -----------------------------------------------
 
 message_261:
-    text: \n<RECYCULTIST>Forgive me trash bin...\! for I have littered...
+    text: \n<RECYKULTYSTA>Koszu, przebacz mi...\! albowiem zaśmieciłem...
 
 message_262:
-    text: \n<RECYCULTIST>I've been beaten by trash!\! Forgive me, holy bin! I am unclean and unworthy of the trashless world!
+    text: \n<RECYKULTYSTA>Śmieci mnie pokonały!\! Przebacz mi, koszu święty! Jestem nieczysty i niegodny świata bez śmieci!
 
 message_263:
-    text: \n<RECYCULTIST>Oh, no! I left my hand sanitizer at home!
+    text: \n<RECYKULTYSTA>O nie! Zostawiłem dezynfekator w domu!
 
 message_264:
-    text: \n<RECYCULTIST>I know that he's our leader and all, but building a giant trash tower seems kinda sacreligious, don't you think?
+    text: \n<RECYKULTYSTA>Wiem, że to nasz wódz i w ogóle, ale budowanie ogromnej góry ze śmieci to jak świętokradztwo, nie sądzisz?
 
 message_265:
-    text: \n<RECYCULTIST>Sniff... Sniff...\! Ewww...\!<br>I'm kinda dirty. I need to go home and shower.
+    text: \n<RECYKULTYSTA>Niuch... Niuch...\! Fuuu...\!<br>Trochę się ubrudziłem. Muszę iść do domu i wziąć prysznic.
 
 message_266:
-    text: \n<RECYCULTIST>Yo...\! You probably don't care but...<br>I don't actually believe this stuff.
+    text: \n<RECYKULTYSTA>Siema...\! Pewnie będziesz mieć to gdzieć, ale...<br>tak naprawdę w to nie wierzę.
 
 message_267:
-    text: \n<RECYCULTIST>My girlfriend dragged me along...\! She can get kind of carried away about this recycling stuff...
+    text: \n<RECYKULTYSTA>Moja dziewczyna mnie w to wciągnęła...\! Ma małego bzika na punkcie tego całego recyklingu...
 
 message_268:
-    text: \n<RECYCULTIST>Dang... I lost...
+    text: \n<RECYKULTYSTA>Kuźwa... Przegrałem...
 
 message_269:
-    text: \n<RECYCULTIST>Hey, don't judge me, okay!?<br>I'm just doing this for college credit...
+    text: \n<RECYKULTYSTA>Ej, nie patrz tak na mnie, dobra!?<br>Robię to tylko po to, żeby zdać studia...
 
 # -----------------------------------------------
-# - RECYCULTIST: MISC (341)
+# - RECYKULTYSTA: MISC (341)
 # -----------------------------------------------
 
 #Group of RECYCULTISTS
 
 message_281:
-    text: \n<RECYCULTIST>Gaze upon the size of our army and tremble!\! Without loyal followers of your own, you will never be able to defeat us!
+    text: \n<RECYKULTYSTA>Drżyj na widok rozmiaru naszej armii!\! Bez swoich własnych wiernych stronników, nigdy nie będziesz w stanie nas pokonać!
 
 message_247:
-    text: \n<RECYCULTIST>Even if you are...\! quite charming.
+    text: \n<RECYKULTYSTA>Nie pomoże ci tu...\! twój niezły urok.
 
 message_248:
-    text: \n<RECYCULTIST>Return when your numbers exceed ours!\! We will have our showdown then.
+    text: \n<RECYKULTYSTA>Wróć, kiedy będzie was więcej niż nas!\! Wtedy stoczymy pojedynek.
 
 message_282:
-    text: \n<RECYCULTIST>Uh-oh...\! it looks like you outnumber us now.
+    text: \n<RECYKULTYSTA>O-o...\! macie przewagę liczebną.
 
 message_283:
-    text: \n<RECYCULTIST>It would seem we have no choice but to surrender...\! Alright, let's go.\! Anyone up for some barbecue tonight?
+    text: \n<RECYKULTYSTA>Wygląda na to, że pozostała nam jedynie poddana...\! Dobra, zmywamy się.\! Ma ktoś ochotę na grilla wieczorem?
 
 message_284:
-    text: \n<CONVERTED? RECYCULTIST>So, I guess, uh...\! we should get going too.
+    text: \n<NAWRÓCONY? RECYKULTYSTA>Więc, chyba, ech...\! też powinniśmy się zbierać.
 
 #Block guy
 
 message_285:
-    text: \n<RECYCULTIST>I spent eight hours constructing this unbreakable block.\! I'd like to see you try and get past it!
+    text: \n<RECYKULTYSTA>Spędziłem osiem godzin na budowie tej niezniszczalnej blokady.\! Tylko spróbujcie się przez nią przedostać!
 
 message_286:
-    text: \n<RECYCULTIST>Oh...
+    text: \n<RECYKULTYSTA>Och...
 
 #HERO charm
 
 message_287:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: This place doesn't suit you...\! Why don't we take care of this mess before it gets out of hand?\her
+      text: Nie pasujesz do tego miejsca...\! Czemu nie posprzątasz, zanim sytuacja nie wymknie się spod kontroli?\her
 
 message_288:
-    text: \n<RECYCULTIST>Yeah, you're probably right.
+    text: \n<RECYKULTYSTA>Ta, może masz rację.
 
 message_289:
-    text: \n<RECYCULTIST>I'd love to come with you, but there doesn't seem to be any room left for me...
+    text: \n<RECYKULTYSTA>Bardzo chciałbym z tobą iść, ale chyba nie ma tam już dla mnie miejsca...
 
 message_290:
-    text: \n<RECYCULTIST>A filthy plastic wielder demands my allegiance?\! Never!\!<br>...\! But...\! Perhaps if you were someone more charming.
+    text: \n<RECYKULTYSTA>Obrzydliwy, plastikowy władca rząda mojej czci?\! Przenigdy!\!<br>...\! Ale...\! Może gdybyś był odrobinę bardziej czarujący.
 
 message_291:
-    text: \n<RECYCULTIST>I should reflect on my life...
+    text: \n<RECYKULTYSTA>Powinienem zastanowić się nad swoim życiem...
 
 # -----------------------------------------------
-# - RECYCULTIST: BILLY CHALLENGED (341)
+# - RECYKULTYSTA: BILLY CHALLENGED (341)
 # -----------------------------------------------
 
 message_270:
-    text: \n<RECYCLEPATH>Hello...\! Welcome to the top of the tower of rubble.
+    text: \n<RECYKLOPATA>Cześć...\! Witajcie na szczycie gruzowej wieży.
 
 message_271:
-    text: \n<RECYCLEPATH>It is I...
+    text: \n<RECYKLOPATA>Oto ja...
 
 message_272:
-    text: \n<RECYCLEPATH>The RECYCLEPATH...
+    text: \n<RECYKLOPATA>RECYKLOPATA...
 
 message_273:
-    text: \n<RECYCLEPATH>The only one chosen to speak in the holy bin's name!
+    text: \n<RECYKLOPATA>Jedyny wybraniec mogący przemawiać w imieniu kosza świętego!
 
 message_274:
-    text: \n<RECYCLEPATH>I had a dream last night.
+    text: \n<RECYKLOPATA>Miałem sen.
 
 message_275:
-    text: \n<RECYCLEPATH>The spirit of the rubber glove told me that this world is no longer fit for us.\! We must build, as the holy bin in the sky commands us...
+    text: \n<RECYKLOPATA>Duch gumowej rękawiczki powiedział mi, że nie pasujemy już do tego świata.\! Musimy budować, jak każe kosz święty na niebie...
 
 message_276:
-    text: \n<RECYCLEPATH>To reach the trashless world, where Mmmans and biodegradable materials may coexist in harmony!
+    text: \n<RECYKLOPATA>By dotrzeć do świata bez śmieci, gdzie ludzie i tworzywa biodegradowalne mogą współistnieć w harmonii!
 
 message_277:
-    text: \n<RECYCLEPATH>You kids have reached a long way up this tower...\! but I'm afraid this is where your journey ends.
+    text: \n<RECYKLOPATA>Wy dzieciaki przebyliście długą drogę, by dotrzeć na szczyt tej wieży...\! ale obawiam się, że tu wasza podróż dobiega końca.
 
 message_278:
-    text: \n<RECYCLEPATH>After all, you are nothing but trash...\!<br>grubby, senseless plastic wielders!
+    text: \n<RECYKLOPATA>Mimo wszystko jesteście jedynie śmieciami...\!<br>niechlujnymi, niedorzecznymi posiadaczami plastiku!
 
 message_279:
-    text: \n<RECYCLEPATH>May the grace of the biodegradable fork work through me!
+    text: \n<RECYKLOPATA>Niech przemówi przeze mnie łaska biodegradowalnego widelca!
 
 message_280:
-    text: \n<RECYCLEPATH>Prepare to be \com[2]recycled!
+    text: \n<RECYKLOPATA>Przygotujcie się na \com[2]zostanie zutilizowanym!
 
 # -----------------------------------------------
-# - RECYCULTIST: BILLY RECYCLED (341)
+# - RECYKULTYSTA: BILLY RECYCLED (341)
 # -----------------------------------------------
 
 message_300:
-    text: \n<RECYCLEPATH>No...\! How is this possible?\! But...\! You are all just trash...
+    text: \n<RECYKLOPATA>Nie...\! Jak to możliwe?\! Ale...\! Jesteście zwykłymi śmieciami...
 
 message_301:
-    text: \n<RECYCLEPATH>We are destined to reach the trashless world...\! Has the holy bin forsaken us?
+    text: \n<RECYKLOPATA>Naszym przeznaczeniem jest dotarcie do świata bez śmieci...\! Czy kosz święty nas opuścił?
 
 message_302:
-    text: \n<RECYCLEPATH>No...\! I must have misinterpreted its message.\! The holy bin makes no mistakes, after all.
+    text: \n<RECYKLOPATA>Nie...\! Źle zinterpretowałem jego wiadomość.\! Przecież kosz święty się nie myli.
 
 message_303:
-    text: \n<RECYCLEPATH>It is I who must have been wrong...
+    text: \n<RECYKLOPATA>To ja musiałem się mylić...
 
 message_304:
-    text: \n<RECYCLEPATH>Wait...\! I understand now!
+    text: \n<RECYKLOPATA>Moment...\! Teraz rozumiem!
 
 message_305:
-    text: \n<RECYCLEPATH>The holy bin must be telling me that there is no trashless world!\! We can only make the most of the world that we live in...
+    text: \n<RECYKLOPATA>Kosz święty musi chcieć mi przekazać, że świat bez śmieci nie istnieje!\! Możemy jedynie w pełni wykorzystać świat, w którym żyjemy...
 
 message_306:
-    text: \n<RECYCLEPATH>Yes...\! Come brothers and sisters!\! The trashless world is not up in the sky, but on the ground that we stand on.
+    text: \n<RECYKLOPATA>Tak...\! Chodźcie, bracia i siostry!\! Świat bez śmieci nie jest w niebie, lecz na ziemi, po której stąpamy.
 
 message_307:
-    text: \n<RECYCLEPATH>We must make this our trashless world together!
+    text: \n<RECYKLOPATA>Musimy wspólnie uczynić go naszym światem bez śmieci!
 
 # -----------------------------------------------
-# - RECYCULTIST: CLEANED TRASH (341)
+# - RECYKULTYSTA: CLEANED TRASH (341)
 # -----------------------------------------------
 
 message_320:
-    text: \n<RECYCLEPATH>Let us pray...
+    text: \n<RECYKLOPATA>Módlmy się...
 
 message_321:
-    text: \n<RECYCULTIST>Holy bin, thou art in heaven, cleansed of filth and decay.
+    text: \n<RECYKULTYSTA>Koszu święty, któryś jest w niebie, święć się sterylność twoja.
 
 message_322:
-    text: \n<RECYCULTIST>Thy cleanliness come, thy will be done, on earth as it is in the trashless world.
+    text: \n<RECYKULTYSTA>Przyjdź czystość twoja, bądź wola twoja, jako na ziemi tak i w bez śmieci świecie.
 
 message_323:
-    text: \n<RECYCULTIST>Give us this day, our daily glove, and forgive us for our tresspasses, as we clean trash made by those who trespass us.
+    text: \n<RECYKULTYSTA>Rękawiczki naszej powszedniej daj nam dzisiaj i odpuść nam nasze winy, jako i my zbieramy śmieci po naszych winowajcach.
 
 message_324:
-    text: \n<RECYCULTIST>Lead us not into temptation, and deliver us from the littering ones.
+    text: \n<RECYKULTYSTA>I nie wódź nas na pokuszenie, ale zbaw nas od niechlujów.
 
 message_325:
-    text: \n<RECYCULTIST>In the biodegradable fork's name...
+    text: \n<RECYKULTYSTA>W imię widelca biodegradowalnego...
 
 message_326:
-    text: \n<RECYCULTIST>Reduce, reuse, and recycle.
+    text: \n<RECYKULTYSTA>Unikajmy plastiku, używajmy powtórnie i utylizujmy.

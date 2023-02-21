@@ -2,113 +2,148 @@
 # Dreamworld NPC dialogue
 # =========================================================================================
 
+
 # ==============FROZEN FOREST====================================
+
+
 
 
                         #====NIGHT 1-2 and Night 2====
 
+
 #FISHING BEAR
 #Location: Frozen Lake
 message_0:
-      text: \n<FISHERBEAR>Just waiting for the next big catch!
+      text: \n<MISIOŁÓW>Po prostu czekam na grubą rybę!
+
 
 #SNOW CONE JASH
 #FROZEN Lake
 #DREAMWORLD Shop yaml
+
 
                         #====NIGHT 3 and 4====
 #FISHING BEAR
 #Location: Frozen Lake
 #Same as NIGHT 1-2.
 
+
 #SNOW CONE JASH
 #Location: Frozen Lake
 #Same as NIGHT 1-2.
 
+
 #SNOWGLOBE 1
 #Location: Frozen Forest
 message_1:
-      text: You look into the SNOWGLOBE.\! You see a car stuck in the snow.\! Some kids are drawing on the fog on the backseat windows.
+      text: Spoglądasz na MROZIKULĘ.\! Widzisz samochód, który utknął w śniegu.\! Jakieś dzieciaki rysują po oszronionej tylnej szybie.
+
 
 #SNOWGLOBE 2
 #Location: Frozen Forest
 message_2:
-      text: You look into the SNOWGLOBE.\! You see a small house at the top of a snow-covered hill.\! It looks warm inside.
+      text: Spoglądasz na MROZIKULĘ.\! Zauważasz malutki domek na szczycie śnieżnego wzgórza..\! Wygląda na ciepły w środku.
+
 
 #SNOWGLOBE 3
 #Location: Frozen Forest
 message_3:
-      text: You look into the SNOWGLOBE.\! You see some kids sledding down a steep hill.\! They look like they're having fun.
+      text: Spoglądasz na MROZIKULĘ.\! Widzisz, jak jakaś grupka dzieci zjeżdza po stromym wzgórzu.\! Najwidoczniej mają wielką frajdę.
+
 
 #MOUNTAIN
 message_10:
-      text: You find yourself at the foot of a mountain.
+      text: Znajdujesz się u podnóża góry.
+
 
 message_11:
-      text: You find yourself back where you started.
+      text: Znajdujesz się z powrotem na samym początku.
+
 
 #====
 
+
 #FISHING
 
+
 message_20:
-      text: You hooked up a SPROUT MOLE!<br>\!And then threw it back into the lake.
+      text: Wyłowiłeś KIEŁKUNA!<br>\!I wrzuciłeś go z powrotem do rzeki.
+
 
 message_21:
-      text: You hooked up an old boot...<br>\!And then threw it back into the lake.
+      text: Wyłowiłeś starego buta...<br>\!I wrzuciłeś go z powrotem do rzeki.
+
 
 message_23:
-      text: You hooked up a crab!<br>\!And then threw it back into the lake.
+      text: Wyłowiłeś kraba!<br>\!I wrzuciłeś go z powrotem do rzeki.
+
 
 message_24:
-      text: You hooked up an octopus!<br>\!And then threw it back into the lake.
+      text: Wyłowiłeś ośmiornicę!<br>\!I wrzuciłeś ją z powrotem do rzeki.
+
 
 message_25:
-      text: You hooked up nuclear waste...<br>\!And then threw it back into the lake.
+      text: Wyłowiłeś odpady nuklearne...<br>\!I wrzuciłeś je z powrotem do rzeki.
+
 
 message_26:
-      text: You hooked up a vending machine!
+      text: Wyłowiłeś automat!
+
 
 message_27:
-      text: You hooked up an \"O\".<br>\!And then threw it back into the lake.
+      text: Wyłowiłeś \"O\".<br>\!I wrzuciłeś je z powrotem do rzeki.
+
 
 message_29:
-      text: You hooked up an orange.<br>\!And then threw it back into the lake.
+      text: Wyłowiłeś pomarańczę.<br>\!I wrzuciłeś ją z powrotem do rzeki.
+
 
 message_30:
-      text: You hooked up a MESSAGE IN A BOTTLE!
+      text: Wyłowiłeś WIADOMOŚĆ W BUTELCE!
+
 
 message_31:
-      text: \n<MESSAGE IN A BOTTLE>\"When the Moon hits your eye like a big pizza pie, that's _____.\"
+      text: \n<WIADOMOŚĆ W BUTELCE>\"Ore ore szaba daba da _____.\"
+
 
 #Show Choices OMORI, AUBREY, KEL, HERO
 
+
 message_32:
-      text: You hooked up a plastic fish...<br>\!And then threw it back into the lake.
+      text: Wyłowiłeś plastikową rybę...<br>\!I wrzuciłeś ją z powrotem do rzeki.
+
 
 message_33:
-      text: You hooked up a real fish!<br>\!And then threw it back into the lake.
+      text: Wyłowiłeś prawdziwą rybę!<br>\!I wrzuciłeś ją z powrotem do rzeki.
+
 
 message_34:
-      text: You hooked up \c[3]TOFU\c[0]!
+      text: Wyłowiłeś \c[3]TOFU\c[0]!
+
 
 message_35:
-      text: You hooked up \c[3]LIFE JAM\c[0]!
+      text: Wyłowiłeś \c[3]DŻEMO ŻYCIA\c[0]!
+
 
 message_36:
-      text: No luck this time...
+      text: Nie poszczęściło ci się...
+
 
 message_40:
       text: OMORI
 
+
 message_41:
       text: AUBREY
+
 
 message_42:
       text: KEL
 
+
 message_43:
       text: HERO
 
+
 message_44:
-      text: You threw the bottle back into the lake.
+      text: Wrzuciłeś butelkę z powrotem do rzeki.

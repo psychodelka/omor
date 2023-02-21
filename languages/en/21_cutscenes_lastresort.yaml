@@ -495,7 +495,7 @@ message_134:
 message_100:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: O!\! A tu twoja kawa.\! Przygotowana z ziaren prosto z POMARAŃCZOWEJ OAZY.\her
+      text: O!\! A tu pańska kawa.\! Przygotowana z ziaren prosto z POMARAŃCZOWEJ OAZY.\her
  
 #ADD JAWHAWHAW
  
@@ -558,7 +558,7 @@ message_110:
       text: Hola hola, HERO. Nie tak szybko!\!<br>Dalej masz parę rzeczy do roboty.\n<PAN SZCZĘKOPAD>
  
 message_111:
-      text: Miałeś się dzisiaj zajmować VIP’ami, którzy zjawią się na zbiórce!\n<PAN SZCZĘKOPAD>
+      text: Miałeś się dzisiaj zajmować VIP-ami, którzy zjawią się na zbiórce!\n<PAN SZCZĘKOPAD>
  
 message_112:
       faceset: MainCharacters_DreamWorld

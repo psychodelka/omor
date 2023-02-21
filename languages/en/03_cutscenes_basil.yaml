@@ -328,7 +328,7 @@ message_92:
 message_93:
     faceset: MainCharacters_DreamWorld
     faceindex: 16
-    text: \kel A może wraz ze wspinaczką odkryjemy nową planetę....\!
+    text: \kel A może wraz ze wspinaczką odkryjemy nową planetę...\!
  
 message_94:
     faceset: MainCharacters_DreamWorld
@@ -355,7 +355,7 @@ message_98:
 message_99:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \her R-racja....\!Może potem, KEL.
+    text: \her R-racja...\!Może potem, KEL.
  
 message_100:
     faceset: MainCharacters_DreamWorld

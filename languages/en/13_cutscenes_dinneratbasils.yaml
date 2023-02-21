@@ -304,7 +304,7 @@ message_106:
 message_107:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: Przeglądając ten album, wciąż można przypomnieć sobie te dobre czasy....\! Może kiedyś...\! wszystko wróci do poprzedniego stanu...\bas
+      text: Przeglądając ten album, wciąż można przypomnieć sobie te dobre czasy...\! Może kiedyś...\! wszystko wróci do poprzedniego stanu...\bas
  
 message_108:
       text: \sinv[1]\Com[2]\{\n[8]!\! BASIL!!\! KOLACJA GOTOWA!!\kel

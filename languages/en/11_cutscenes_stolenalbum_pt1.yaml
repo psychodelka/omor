@@ -354,7 +354,7 @@ message_92:
 message_93:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: Chodż, \n[8]. Pójdźmy do tej \c[11]GALERII\c[0]...<br>Myślę, że to tyle.\kel
+      text: Chodź, \n[8]. Pójdźmy do tej \c[11]GALERII\c[0]...<br>Myślę, że to tyle.\kel
  
 message_94:
       text: \ang\sinv[1]\{FUUU\{AAAAAA\{AAAAAAAA!!!
