@@ -235,7 +235,7 @@ message_37:
 message_38:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>I...\| Nie pozwolę, żebyś mnie zostawił, \n[8]...
+      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>I...\| nie pozwolę, żebyś mnie zostawił, \n[8]...
  
 message_39:
       faceset: MainCharacter_Basil
@@ -316,7 +316,7 @@ message_54:
  
 message_55:
    text: >
-    \>NIEZNAJOMY: \<\fn<OMORI_GAME>Jeśli nie możemy razem stawić temu czoła...\! przynajmniej bądź przy<br>\<\fn<OMORI_GAME>mnie.
+    \>NIEZNAJOMY: \<\fn<OMORI_GAME>Jeżeli nie damy rady wspólnie stawić temu czoła...<br>\<\fn<OMORI_GAME>przynajmniej bądź przy mnie.
  
 message_56:
    text: >

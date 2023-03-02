@@ -31,7 +31,7 @@ message_20:
 #*OMORI looks up*
  
 message_21:
-      text: \bas\fn<OMORI_GAME> Proszę, nie...\| zostaw mnie w spokoju...\| błagam...
+      text: \bas\fn<OMORI_GAME>Proszę, nie...\| zostaw mnie w spokoju...\| błagam...
  
 #*Camera pans to hole*
 #*Then back to party*
@@ -107,7 +107,7 @@ message_62:
       text: \n<BAZGROŁ>Ktoś już to wcześniej zrobił.\!<br>To byłeś ty?\! Czy ja?\! A może ten chłopiec w ogrodniczkach?
  
 message_63:
-      text: \n<BAZGROŁ>Gdybyś się zgubił, dokąd byś poszedł?\!<br>Gdzieś w znajome miejsce.\! Gdzieś w bezpieczne, pełne dobrych wspomnień miejsce.\!<br>Gdyby tylko takie istniało.
+      text: \n<BAZGROŁ>Gdybyś się zgubił, dokąd byś poszedł?\!<br>Gdzieś w znajome miejsce.\! Gdzieś w bezpieczne, pełne dobrych wspomnień miejsce.<br>Gdyby tylko takie istniało.
  
 message_64:
       text: \n<BAZGROŁ>Niczego tu nie ma.\! Nic nie zostało.

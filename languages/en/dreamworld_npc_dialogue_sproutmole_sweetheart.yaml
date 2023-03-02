@@ -22,7 +22,7 @@ message_1:
 #Location: Sproutmole Village
  
 message_221:
-      text: \n<KWADRAKIEŁKUN>Święta to mój ulubiony czas w roku, dlaczego każdego dnia nie obchodzimy Gwiazdki?
+      text: \n<KWADRAKIEŁKUN>Święta to mój ulubiony czas w roku, dlaczego nie możemy obchodzić Gwiazdki każdego dnia?
  
  
 message_2:
@@ -65,7 +65,7 @@ message_12:
       text: \n<SZEF KIEŁKUCHNI>Ponieważ \c[3]TOFU\c[0] ma wysoką zawartość soi, odradza się spożywanie go w przypadku posiadania kamieni nerkowych!
  
 message_13:
-      text: \n<SZEF KIEŁKUCHNI>Najlepszym sposobem na wzbogacenie smaku \c[3]TOFU\c[0] jest glazurowanie go, aż do uzyskania złocistego koloru, a następnie dodanie marynaty.\! Gdy już wchłonie wszystkie smaki, sos stanie się syropem, który będzie lepił się do patelni!
+      text: \n<SZEF KIEŁKUCHNI>Najlepszym sposobem na wzbogacenie smaku \c[3]TOFU\c[0] jest glazurowanie go, aż do uzyskania złocistego koloru, a następnie dodanie marynaty.<br>Gdy już wchłonie wszystkie smaki, sos stanie się syropem, który będzie lepił się do patelni!
  
 message_14:
       text: \n<SZEF KIEŁKUCHNI>Jeśli pragniesz zgłębić więcej wiedzy o cudownym i znamienitym \c[3]TOFU\c[0], nie krępuj się porozmawiać ze mną ponownie.\! Cho-cho!

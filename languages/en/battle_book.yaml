@@ -33,10 +33,10 @@ message_4:
     text: Czego chciałbyś dowiedzieć się o STATYSTYKACH?
 
 message_5:
-    text: SERC
+    text: SERCA
 
 message_6:
-    text: SERC pokazują ilość obrażeń, które zdołasz przyjąć przed STOSTOWANIEM.\! STOSTOWANI przyjaciele nie mogą już walczyć!
+    text: SERCA pokazują ilość obrażeń, które zdołasz przyjąć przed STOSTOWANIEM.\! STOSTOWANI przyjaciele nie mogą już walczyć!
 
 message_7:
     text: SOK
@@ -91,7 +91,7 @@ message_21:
     text: EMOCJE
 
 message_22:
-    text: EMOCJE mogą zadecydować o efektywności ataku.\! SZCZĘŚCIE działa na ZŁOŚĆ...\! ZŁOŚĆ działa na SMUTEK...\! a SMUTEK działa na SZCZĘŚCIE!<br>EMOCJE mogą też wpływać na statystyki przyjaciół i wrogów.\! Zapoznaj się z wizualizacją w SCHEMATEM EMOCJI w WAŻNYCH.
+    text: EMOCJE mogą zadecydować o efektywności ataku.\! SZCZĘŚCIE działa na ZŁOŚĆ...\! ZŁOŚĆ działa na SMUTEK...\! a SMUTEK działa na SZCZĘŚCIE!<br>EMOCJE mogą też wpływać na statystyki przyjaciół i wrogów.\! Zapoznaj się z wizualizacją w SCHEMACIE EMOCJI w WAŻNYCH.
 
 message_300:
     text: Ponadto, EMOCJE pokonanych wrogów mogą dawać bonusy.\! Pokonanie SZCZĘŚLIWEGO wroga daje szansę na więcej przedmiotów i MAŁŻY, a ŹLI wrogowie dają więcej PD.<br>Niestety SMUTNI wrogowie nie dają bonusów, ale za to są łatwiejsi do pokonania.
@@ -340,7 +340,7 @@ message_71:
     text: POZNAWANIE ZDOLNOŚCI
 
 message_72:
-    text: \c[1]ZDOLNOŚCI\c[0] mogą być poznawane przez wzbijanie się na wyższy POZIOM, wykonywanie pobocznych zadań lub znajdywanie szczególnych przedmiotów.\! <br>Niektóre \c[1]ZDOLNOŚCI\c[0], takie jak \c[1]PICHCENIE\c[0] HERO mogą być używane poza walką.
+    text: \c[1]ZDOLNOŚCI\c[0] mogą być poznawane przez wzbijanie się na wyższy POZIOM, wykonywanie pobocznych zadań lub znajdywanie szczególnych przedmiotów.<br>Niektóre \c[1]ZDOLNOŚCI\c[0], takie jak \c[1]PICHCENIE\c[0] HERO mogą być używane poza walką.
 
 message_73:
     text: ZAMIANA ZDOLNOŚCI

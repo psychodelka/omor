@@ -31,7 +31,7 @@ message_5:
 #MEDUZA turns to MOLLY.
  
 message_6:
-      text: Niestety, to częsty błąd.\!<br>Ludzie mają skłonności do strachu przed tym, czego nie potrafią zrozumieć.\n<MEDUZA>
+      text: Niestety to częsty błąd.\!<br>Ludzie mają skłonności do strachu przed tym, czego nie potrafią zrozumieć.\n<MEDUZA>
  
 message_7:
       text: Poza tym...\! Chyba wiem, czemu ludzie uważają nas za wiedźmy...\n<MEDUZA>
@@ -55,18 +55,18 @@ message_11:
 #SWEETHEART turns to SLIME GIRLS.
  
 message_12:
-      text: \com[2]Hmf! Jakby wasza trójka wieśniaczek była warta mojej zapłaty!\swh
+      text: \com[2]Hmf! Jakby wasza trójka wieśniaczek była warta mojej zapłaty!\n<SŁODZIUTKA>
  
 message_13:
-      text: Wszystko, czego chciałam, to żebyście stworzyły mi perfekcyjnego wybranka...\!<br>ale zawiodłyście mnie na trzy różne sposoby!\swh
+      text: Wszystko, czego chciałam, to żebyście stworzyły mi perfekcyjnego wybranka...\!<br>ale zawiodłyście mnie na trzy różne sposoby!\n<SŁODZIUTKA>
  
 #SWEETHEART turns to elevator.
  
 message_14:
-      text: Jeśli tak bardzo chcecie dostać swoje nic nie warte MAŁŻE...\!<br>niech te dzieciaki zapłacą za mnie!\swh
+      text: Jeśli tak bardzo chcecie dostać swoje nic nie warte MAŁŻE...\!<br>niech te dzieciaki zapłacą za mnie!\n<SŁODZIUTKA>
  
 message_15:
-      text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\swh
+      text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\n<SŁODZIUTKA>
  
 #SWEETHEART walks into elevator. Elevator doors close.
  
@@ -126,15 +126,15 @@ message_27:
 message_28:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: H-hę?\! W-więc, em...\! tak...\! co do tego...\!<br>zastanawia mnie...\! Ile ona wam wisi?\kel
+      text: H-hę?\! W-więc, em...\! tak...\! co do tego...\!<br>zastanawia mnie...\! ile ona wam wisi?\kel
  
 message_29:
-      text: Cóż Zobaczmy!\n<MOLLY>
+      text: Cóż... Zobaczmy!\n<MOLLY>
  
 #MOLLY turns around. MEDUZA and MARINA join to discuss.
  
 message_30:
-      text: \}Jest opłata wstępna... opłata za konsultacje... opłata za montaż, opłata za kontrolę... opłata za obsługę... koszty materiałów... ubezpieczenie... opłata za zbycie... wysyłka oraz odbiór... napiwek... opłata za unieważnienie... odszkodowanie... opłata za spóźnioną zapłatę...\n<MOLLY>
+      text: \}Jest opłata wstępna... opłata za konsultacje... opłata za montaż, opłata za kontrolę... opłata za obsługę... koszty materiałów... ubezpieczenie... opłata za zbycie... wysyłka oraz odbiór... napiwek...<br>\}opłata za unieważnienie... odszkodowanie... opłata za spóźnioną zapłatę...\n<MOLLY>
  
 #MOLLY turns around.
  
@@ -172,7 +172,7 @@ message_37:
 #Lights go off. When returned SLIME GIRLS are in their battle sprites.
  
 message_39:
-      text: Macie pecha, dzieciaki...\! Weszliście w złego wieloryba.\n<MARINA>
+      text: Macie pecha, dzieciaki...\! Weszłyście w złego wieloryba.\n<MARINA>
  
 message_40:
       text: Ktoś musi za to wszystko zapłacić.\n<MARINA>
@@ -181,7 +181,7 @@ message_40:
  
  
 message_42:
-      text: W trudnych sytuacjach trzeba się poświęcać.\n<MARINA>
+      text: Trudne sytuacje wymagają poświęceń.\n<MARINA>
  
 message_43:
       text: Zgadzacie się, siostry?\n<MARINA>
@@ -214,7 +214,7 @@ message_48:
 message_49:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: H-hej!\! Puszczaj!\kel
+      text: E-ej!\! Łapska precz!\kel
  
 #SLIME GIRLS float in air, lifting KEL up.
  
@@ -249,7 +249,7 @@ message_53:
 #SLIME GIRLS float back down.
  
 message_54:
-      text: Och, uspokój się, MARINA... \sinv[1]Fufufu~!\sinv[0]\! <br>Tylko cię uszczypnął!\n<MOLLY>
+      text: Och, uspokój się, MARINA... \sinv[1]Fufufu~!\sinv[0]\! <br>Tylko cię skubnął!\n<MOLLY>
  
 message_55:
       text: \quake[1]\{ZAPŁACISZ ZA TO, GÓWNIARZU!!!\n<MARINA>
@@ -345,7 +345,7 @@ message_98:
       text: Już dobrze.\! A ty, MEDUZA?\n<MARINA>
  
 message_99:
-      text: Cóż, ja...\! Nie spodziewałam się, że tak szybko zgłodnieje.\! Jeśli pamięć mnie nie myli, czy nie twoja kolej, żeby go nakarmić, MARINA?\n<MEDUZA>
+      text: Cóż, ja...\! Nie spodziewałam się, że tak szybko zgłodnieje.\! Jeśli pamięć mnie nie myli, czy nie twoja kolej, żeby go nakarmić, MARINO?\n<MEDUZA>
  
 #Screen shakes.
 #MARINA is nervous.

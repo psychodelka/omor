@@ -1,28 +1,33 @@
-
-
 # =========================================================================================
 # MINI-GAME: Pizza Delivery
 # =========================================================================================
 
+
 #Placeholder intro
 
 
+
+
 message_10:
-      text: A job posting for \c[11]GINO'S PIZZA\c[0].\!<br>You already did this job today.
+      text: Oferta pracy w \c[11]PIZZERII U GINA\c[0].\!<br>Pracowałeś już tu dzisiaj.
+
 
 message_11:
-      text: You took the 'HELP WANTED' poster.\! Maybe you can ask about the job at the counter.
+      text: Wziąłeś plakat z napisem 'POTRZEBNA POMOC'.\! Może zapytasz o pracę przy ladzie.
+
 
 message_0:
-      text: \n<PIZZA MAN>So...\! I see you are peeking at that HELP WANTED poster that I put there.\! Are you interested in a job?
+      text: \n<GOŚĆ OD PIZZY>Więc...\! Widziałem, jak zerkasz na plakat o POMOCY w pizzerii, który rozwiesiłem.\! Chciałbyś u nas pracować?
+
 
 #[Nod/Shake]
 #[Nod]
 message_1:
-      text: \n<PIZZA MAN>\sinv[1]Coooooool...\sinv[0]\! Let me help get you started.
+      text: \n<GOŚĆ OD PIZZY>\sinv[1]Fajowo...\sinv[0]\! Zaraz ci wszystko wyjaśnię.
 #[Shake]
 message_2:
-      text: \n<PIZZA MAN>Awww, okay...\!<br>If you're ever in need of some pizza money, just let me know!
+      text: \n<GOŚĆ OD PIZZY>O, okej...\!<br>Jeśli kiedyś będziesz potrzebować kasy na pizzę, po prostu daj mi znać!
+
 
 #Rule Explanation
 #Quest Finish
@@ -30,148 +35,191 @@ message_2:
 message_40:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelHey, \n[8]! How'd you do on your job?\! While you were working, I decided to sit on a bench and talk to strangers!\!<br>Man, that was fun...\! Well... I'm ready to go when you are!
+      text: \kelHej, \n[8]! Jak ci poszło?\! Kiedy pracowałeś, usiadłem sobie na ławce i gadałem z nieznajomymi!\!<br>Było fajnie...\! No dobra... Jak chcesz, to możemy już spadać!
+
 
 # Door Knock Greeting
 message_3:
-      text: \com[2]\{\{\sinv[1]PIZZA DELIVERY!!
+      text: \com[2]\{\{\sinv[1]DOSTAWA PIZZY!!
+
 
 # Randomized NPC Dialogue Success
 message_4:
-      text: \n<CUSTOMER?>Hey!\! Wow, you guys came sooner than I thought!\! Thank you, delivery boy!
+      text: \n<KLIENT?>Hej!\! Wow, przyszliście szybciej, niż sądziłem!\! Dziękuję!
+
 
 message_5:
-      text: \n<CUSTOMER?>What took you so long!?\! \c[11]GINO'S PIZZA\c[0] is really slipping these days...
+      text: \n<KLIENT?>Co tak długo!?\! \c[11]PIZZERIA U GINA\c[0] schodzi na psy...
+
 
 message_6:
-      text: \n<CUSTOMER?>Pizza's here?\! Great. Just leave it on the floor.\!<br>I'll come and get it.
+      text: \n<KLIENT?>To pizza?\! Świetnie. Zostaw ją przed drzwiami.\!<br>Zaraz przyjdę i ją wezmę.
+
 
 message_7:
-      text: \n<CUSTOMER?>\Com[2]Delicious, delicious \c[3]PIZZA\c[0]!\! I'm coming for you, baby!
+      text: \n<KLIENT?>\Com[2]Pyszna, pyszniuteńka \c[3]PIZZO\c[0]!\! Idę po ciebie, moja droga!
+
 
 message_8:
-      text: \n<CUSTOMER?>\}T-Thanks...
+      text: \n<KLIENT?>\}Dz-dzięki...
+
 
 # Randomized NPC Dialogue Fail
 message_20:
-      text: \n<CUSTOMER?>Uh... Yeah...\! Sorry, you have the wrong house.\!<br>We didn't order any \c[3]PIZZA\c[0]...
+      text: \n<KLIENT?>Ach... Taa...\! Przepraszam, ale to pomyłka.\!<br>Nie zamawialiśmy żadnej \c[3]PIZZY\c[0]...
+
 
 message_21:
-      text: \n<CUSTOMER?>Free \c[3]PIZZA\c[0]!?\! Aww... You shouldn't have!
+      text: \n<KLIENT?>\c[3]PIZZA\c[0] za darmo!?\! Oj... Nie trzeba było!
+
 
 message_22:
-      text: \n<CUSTOMER?>Who are you?\! We didn't order no dang \c[3]PIZZA\c[0]!\! Get the heck out of here!
+      text: \n<KLIENT?>A ty to kto?\! Nie zamawiałem żadnej głupiej \c[3]PIZZY\c[0]!\! Wynoś się stąd, do jasnej anielki!
+
 
 message_23:
-      text: \n<CUSTOMER?>How dare you bring \c[3]PIZZA\c[0] to my strictly-vegan household!\! You should be ashamed!
+      text: \n<KLIENT?>Jak śmiesz przynosić \c[3]PIZZĘ\c[0] mojej wegańskiej rodzinie!\! Powinieneś się wstydzić!
+
 
 message_24:
-      text: \n<CUSTOMER?>You are disturbing my quality time with myself.\! Leave at once!
+      text: \n<KLIENT?>Przeszkadzasz mi w spędzaniu czasu samemu ze sobą.\! Idź sobie!
+
 
 # Continue looking after failing
 message_25:
-      text: That didn't go so well...\! You should find the right house.
+      text: Nie wyszło najlepiej...\! Powinieneś poszukać właściwego domu.
+
 
 # After checking the house again
 message_26:
-      text: You've already bothered this person.
+      text: Już dość naprzykrzyłeś się tej osobie.
+
 
 # Too many fails
 message_35:
-      text: The stranger snatched the \c[3]PIZZA\c[0].
+      text: Nieznajomy wziął \c[3]PIZZĘ\c[0].
+
 
 # Minigame Complete
 message_36:
-      text: That's all of them...\! It's time to head back to \c[11]GINO'S PIZZA\c[0]!
+      text: To już wszystkie...\! Czas wracać do \c[11]PIZZERII U GINA\c[0]!
+
 
 message_37:
-      text: \n<PIZZA MAN>Hey, newbie!\! You're just the guy I wanted to see!\!<br>According to some recent feedback, it seems that your customer satisfaction rating is \v[823]/10.
+      text: \n<GOŚĆ OD PIZZY>Hej, nowy!\! Właśnie chciałem się z tobą spotkać!\!<br>Według najnowszych opinii gości, wskaźnik satysfakcji twoich klientów wynosi \v[823]/10.
+
 
 # Move On GOOD
 message_38:
-      text: Against all odds, you have successfully delivered the \c[3]PIZZA\c[0].\!<br>It's time to move on to the next order.
+      text: Pomimo przeciwności losu, udało ci się dostarczyć \c[3]PIZZĘ\c[0].\!<br>Czas na kolejne zamówienie.
+
 
 # Move On BAD
 message_39:
-      text: You have failed to deliver the \c[3]PIZZA\c[0].\!<br>It's time to move on to the next order...
+      text: Nie udało ci się dostarczyć \c[3]PIZZY\c[0].\!<br>Czas na kolejne zamówienie...
+
 
 # Initialized
 message_41:
-      text: You got \c[4]PIZZA NOTES\c[0].
+      text: Otrzymałeś \c[4]NOTATKI PIZZERMANA\c[0].
+
 
 # Time runs out
 message_42:
-      text: You didn't deliver all of the \c[3]PIZZA\c[0] on time.
+      text: Nie dostarczyłeś wszystkich \c[3]PIZZ\c[0] na czas.
+
 
 # Trying to leave the area
 message_43:
-      text: You can't leave without delivering the \c[3]PIZZA\c[0] first.
+      text: Nie możesz odjechać, nie dostarczając \c[3]PIZZY\c[0].
+
 
 message_44:
-      text: \n<PIZZA MAN>And since you've been such a good sport, here's another freebie!
+      text: \n<GOŚĆ OD PIZZY>I skoro tak bardzo mi pomogłeś, mam dla ciebie mały gratis!
+
 
 message_45:
-      text: \n<PIZZA MAN>It's one of my all-time favorite tunes.
+      text: \n<GOŚĆ OD PIZZY>To jeden z moich ulubionych kawałków.
+
 
 message_46:
-      text: \n<PIZZA MAN>You can play it at the JUKEBOX right down yonder!
+      text: \n<GOŚĆ OD PIZZY>Możesz go odtworzyć tam, w SZAFIE GRAJĄCEJ!
+
 
 message_15:
-      text: VIEW NOTE
+      text: ZOBACZ NOTATKI
+
 
 message_16:
-      text: QUIT JOB
+      text: ZREZYGNUJ Z PRACY
+
 
 message_17:
-      text: NEVERMIND
+      text: NIEWAŻNE
+
 
 message_19:
-      text: What would you like to do?
+      text: Co chciałbyś zrobić?
+
 
 # Expression of disappointment from quitting
 message_18:
-      text: Well...\! that can't be good for business.
+      text: Cóż...\! to nie najlepiej dla nas.
 #===
+
 
 #Job Description
 
+
 message_50:
-      text: \n<PIZZA MAN>So do you want to hear the good news or the bad news?
+      text: \n<GOŚĆ OD PIZZY>Chcesz najpierw usłyszeć dobre czy złe wieści?
 #GOOD NEWS / #BAD NEWS
 
+
 message_51:
-      text: \n<PIZZA MAN>Ah, I'll just start with the good news.<br>\!So the good news is...\! we got three different \c[3]PIZZA\c[0] orders today!\!
+      text: \n<GOŚĆ OD PIZZY>Ach, po prostu zacznę od tych dobrych.<br>\! Więc, dobre wieści są takie, że...\! otrzymaliśmy dzisiaj trzy różne zamówienia na \c[3]PIZZĘ\c[0]!\!
+
 
 message_60:
-      text: \n<PIZZA MAN>The bad news is...\! our delivery boy suddenly called in sick yet again...
+      text: \n<GOŚĆ OD PIZZY>Złe wieści są takie, że...\! nasz dostawca znowu nagle się rozchorował...
+
 
 message_52:
-      text: \n<PIZZA MAN>These customers are all our regulars, so we stopped recording their addresses a long time ago.
+      text: \n<GOŚĆ OD PIZZY>To stali klienci, więc już dawno temu przestaliśmy pytać ich o adres.
+
 
 message_61:
-      text: \n<PIZZA MAN>I can't remember where they live off the top of my head, but I do remember what their houses look like!
+      text: \n<GOŚĆ OD PIZZY>Nie mogę sobie przypomnieć, gdzie dokładnie mieszkają, ale pamiętam, jak wyglądały ich domy!
+
 
 message_53:
-      text: \n<PIZZA MAN>Here! Just take these notes and you'll be fine!
+      text: \n<GOŚĆ OD PIZZY>Masz! Weź tylko te notatki i jakoś sobie poradzisz!
+
 
 #*Screen goes black*
 #wait: 20
 #*Pizza bell SFX*
 #wait: 20
 
+
 message_54:
-      text: \n<PIZZA MAN>Don't be shy!\! Wear your uniform loud and proud!
+      text: \n<GOŚĆ OD PIZZY>Nie wstydź się!\! Służbowe ubrania noś z dumą i honorem!
+
 
 #wait: 20 frames
 
+
 message_55:
-      text: \n<PIZZA MAN>Now remember, you have three \c[3]PIZZAS\c[0] to deliver.\! When you're done, just bike your way back to the shop.\! I'm counting on you!
+      text: \n<GOŚĆ OD PIZZY>Zapamiętaj. Masz do dostarczenia trzy \c[3]PIZZE\c[0].\! Kiedy skończysz, przyjedź tutaj z powrotem.\! Liczę na ciebie!
+
 
 #wait: 20 frames
 #*Screen returns. You are in the pizza mini-game now.#
 
+
 message_100:
-      text: PIZZA MAN gave you his \c[4]PIZZA NOTES\c[0].
+      text: GOŚĆ OD PIZZY dał ci swoje \c[4]NOTATKI\c[0].
+
 
 message_101:
-      text: \n<PIZZA MAN>I'll go grab your uniform!
+      text: \n<GOŚĆ OD PIZZY>Pójdę po ubrania służbowe!

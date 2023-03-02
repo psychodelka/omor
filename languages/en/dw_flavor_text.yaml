@@ -1,1503 +1,2033 @@
 
+
 # =========================================================================================
 # ALL MIRROR
 # =========================================================================================
 
+
 message_0:
-      text: A floating mirror.\!<br>Your friends smile warmly behind you.
+      text: Lewitujące lustro.\!<br>Twoi przyjaciele uśmiechają się ciepło za tobą.
+
 
 message_1:
-      text: A floating mirror.
+      text: Lewitujące lustro.
+
+
 
 
 # =========================================================================================
 # CATTAIL FIELD ENTRANCE (118)
 # =========================================================================================
 
+
 #Butt Certificate Flag
 
+
 message_50:
-      text: \n[2]'s \c[4]BUTT CERTIFICATE\c[0].\!<br>\sinv[1]So majestic...\| So beautiful...
+      text: \c[4]CERTYFIKAT 2 DYNIEK\c[0] AUBREY.\!<br>\sinv[1]Taki majestatyczny...\| Taki piękny...
+
 
 #============================
 
+
 #White Space - Map 87:
 
+
 #NEUTRAL ROUTE ONLY
+
 
 #Day 1 - Lightbulb:
 #[Open Slide]
 message_51:
-      text: A black light bulb looms overhead.\! You don't want to touch it.
+      text: Czarna żarówka wisi nad twoją głową.\! Nie chcesz jej dotykać.
 #[Close Slide]
+
 
 #Day 2 - Lightbulb:
 #[Open Slide]
 message_52:
-      text: A black light bulb looms overhead.\! You feel as if you must protect it.
+      text: Czarna żarówka wisi nad twoją głową.\! Czujesz, że musisz jej strzec.
 #[Close Slide]
+
 
 #Day 3 - Lightbulb:
 #[Open Slide]
 message_53:
-      text: A black light bulb looms overhead.\! You must protect it.
+      text: Czarna żarówka wisi nad twoją głową.\! Musisz jej chronić.
 #[Close Slide]
 
+
 #============================
+
 
 #North Coast - Map 90:
 
+
 #Sand Castle:
 message_60:
-      text: A sand castle.
+      text: Zamek z piasku.
+
 
 #Pail and Shovel:
 message_61:
-      text: A pail and shovel.
+      text: Wiaderko i łopatka.
+
 
 #============================
 
+
 #Map 92:
+
 
 #Jungle Gym:
 #message_70:
 #      text: A jungle gym.
 
+
 #Puzzle:
 message_71:
-      text: A very difficult puzzle.\! All the pieces are blank.
+      text: Bardzo trudne puzzle.\! Wszystkie elementy są puste.
+
 
 #Puzzle:
 message_72:
-      text: A bunch of small toy cars.
+      text: Kilka zabawkowych samochodzików.
+
 
 #Cards:
 message_73:
-      text: Cards are scattered across the floor.
+      text: Karty są rozsypane po ziemi.
+
 
 #Egg:
 message_74:
-      text: Egg.
+      text: Jajko.
+
 
 #Yoyo:
 message_75:
-      text: A yo-yo.
+      text: Jo-jo.
+
 
 #Banana:
 message_76:
-      text: Eternal banana.
+      text: Wieczny banan.
+
 
 message_77:
-      text: A park bench.
+      text: Ławka.
+
 
 message_78:
-      text: Building blocks.
+      text: Klocki.
+
 
 message_79:
-      text: Umbrella.
+      text: Parasolka.
+
 
 #============================
+
 
 #Path to Basil - Map 95:
 
+
 #Watering Pail
 message_84:
-      text: A watering can.
+      text: Konewka.
+
 
 message_85:
-      text: Would you like to water the plants?
+      text: Chciałbyś podlać rośliny?
+
 
 #Sunflower:
 message_86:
-      text: Sunflowers.
+      text: Słoneczniki.
+
 
 #Lily of the Valley:
 message_87:
-      text: Lily-of-the-valley.
+      text: Konwalie.
+
 
 #Roses:
 message_88:
-      text: Roses.
+      text: Róże.
+
 
 #Gladiolus:
 message_89:
-      text: Gladiolus.
+      text: Mieczyk.
+
 
 #Cactus:
 message_90:
-      text: A cactus.\! Sturdy and resilient.
+      text: Kaktus.\! Krzepki i wytrzymały.
+
 
 #White Tulip:
 message_91:
-      text: White tulips.
+      text: Białe tulipany.
+
 
 message_92:
-      text: A flower.
+      text: Kwiat.
+
 
 message_93:
-      text: A flower?
+      text: Kwiat?
+
 
 #============================
+
 
 #Old Shoe Entrance - Map 97:
 
+
 #Flowers:
 message_100:
-      text: A bunch of potted plants and flowers.\!<br>BASIL loves taking care of things.
+      text: Kolekcja roślin doniczkowych i kwiatów.\!<br>BASIL jest znany ze swojej troskliwości.
+
 
 #Bone:
 message_101:
-      text: Big bone.
+      text: Duża kość.
+
 
 message_102:
-      text: Small bone.
+      text: Mała kość.
+
 
 message_103:
-      text: Nourishment.
+      text: Pokarm.
+
 
 message_104:
-      text: Shelter.
+      text: Schronienie.
+
 
 #============================
+
 
 #Old Shoe Interior - Map 98:
 
+
 #Bed:
 message_110:
-      text: A comfortable-looking bed.
+      text: Wygodnie wyglądające łóżko.
+
 
 #Fireplace:
 message_111:
-      text: A fireplace.\! The fire is warm.
+      text: Kominek.\! Ogień przyjemnie grzeje.
+
 
 #Photo:
 message_112:
-      text: A photo of a stranger.
+      text: Zdjęcie nieznajomego.
+
 
 message_113:
-      text: A bunch of books.\! Mostly about plant care.
+      text: Zbiór książek.\! Większość o pielęgnacji roślin.
+
 
 #============================
+
 
 #Train Station - Map 105:
 
+
 #Streetlamp:
 message_115:
-      text: A street lamp.
+      text: Latarnia uliczna.
+
 
 #Lemonade Cups:
 message_116:
-      text: Some cups of lemonade.
+      text: Kubki z lemoniadą.
+
 
 #============================
+
 
 #Train Station - Map 106:
 
+
 #Construction Stuff:
 message_120:
-      text: Construction stuff.
+      text: Materiały budowlane.
+
 
 #============================
+
 
 #Train Station - Map 107:
 
+
 message_125:
-      text: Strange artifacts from different lands.
+      text: Dziwaczne przedmioty z różnych krain.
+
 
 message_126:
-      text: Small candies.\! Not for sale.
+      text: Cukierki.\! Nie na sprzedaż.
+
 
 message_127:
-      text: DINO TIPS...<br>\"This is a fine example of potential treasure.\!<br>Dig here with your \c[4]SPOON\c[0] to unlock endless possibilities!\"
+      text: DINORADY...<br>\"To wyśmienity przykład jak możliwie zdobyć skarb.\!<br>Kopnij swoją \c[4]ŁYŻKĄ\c[0], aby odblokować nieskończone możliwości!\"
+
 
 message_128:
-      text: DINO EXHIBIT...<br>\"These are the remains of our ancestors.\"
+      text: DINOWYSTAWA...<br>\"To pozostałości po naszych przodkach.\"
+
 
 message_129:
-      text: DINO FACT...<br>\"Line starts here!\"
+      text: DINOFAKT...<br>\"Tu zaczyna się kolejka!\"
+
 
 message_130:
-      text: DINO DISCLAIMER...<br>\"Artifacts displayed are only for show and do not in any way reflect what can be actually found in DINO'S DIG!\"
+      text: DINOSTRZEŻENIE...<br>\"Przedmioty na wystawie są jedynie na pokaz i nie odzwierciedlają realnych wykopalisk z DINOKOPU!\"
+
 
 message_131:
-      text: An example of potential treasure.
+      text: Przykład potencjalnego znaleziska.
+
 
 #============================
+
 
 #Rain Town - Map 111:
 
+
 message_135:
-      text: Some pots.\! Some empty, some not.
+      text: Kilka doniczek.\! Niektóre puste, niektóre nie.
+
 
 message_136:
-      text: A plant nursery full of VEGGIE KIDS!
+      text: Szkółka leśna pełna ŚWIEŻAKÓW!
+
 
 #============================
+
 
 #Map 112:
 
+
 message_140:
-      text: A fire pit.
+      text: Palenisko.
+
 
 message_141:
-      text: A lantern.
+      text: Latarnia.
+
 
 message_142:
-      text: Big bread.
+      text: Kawał chleba.
+
 
 message_143:
-      text: Big donut.
+      text: Spory pączek.
+
 
 message_144:
-      text: A bookcase.\!<br>There's a photo hanging out from one of the books...
+      text: Regał.\!<br>Z jednej z książek wystaje fotografia...
 #[Show SW Postcard Slide]
 message_145:
-      text: ...\! You slipped the photo back in the book.
+      text: ...\! Wsunąłeś zdjęcie z powrotem do książki.
+
 
 message_146:
-      text: An orange bed.
+      text: Pomarańczowe łóżko.
+
 
 message_147:
-      text: An orange table.
+      text: Pomarańczowy stół.
+
 
 message_148:
-      text: An orange lantern.
+      text: Pomarańczowa latarnia.
+
 
 message_149:
-      text: An orange.
+      text: Pomarańcza.
+
 
 message_150:
-      text: Some oranges.
+      text: Kilka pomarańczy.
+
 
 message_151:
-      text: An ordinary houseplant.\! Nothing special about it.
+      text: Zwykła roślina pokojowa.\! Nic specjalnego.
+
 
 message_152:
-      text: A small TV.
+      text: Telewizorek.
+
 
 message_153:
-      text: A photo of an orange-like creature.
+      text: Fotografia pomarańczopodobnej istoty.
+
 
 message_154:
-      text: An orange-like bed.
+      text: Pomarańczopodobne łóżko.
+
 
 message_155:
-      text: A bed.\! It smells like stale bread.
+      text: Łóżko.\! Pachnie czerstwym chlebem.
+
 
 message_156:
-      text: A glass of juice that is orange.
+      text: Pomarańczowa szklanka soku.
+
 
 message_157:
-      text: A surprisingly normal bed.
+      text: Zaskakująco normalne łóżko.
+
 
 message_158:
-      text: A bed.\! It smells like a farm.
+      text: Łóżko.\! Pachnie gospodarstwem.
+
 
 message_159:
-      text: Mumbo-jumbo.
+      text: Bełkot.
+
 
 message_177:
-      text: Pamphlets for popular tourist destinations.\! Among them is an advertisement for a place called the \c[11]LAST RESORT\c[0].
+      text: Broszury z popularnymi miejscami turystycznymi.\! Wśród nich jest reklama miejsca o nazwie \c[11]OSTATNIA PRZYSTAŃ\c[0].
+
 
 message_178:
-      text: \"Come down to the \c[11]LAST RESORT\c[0], grand opening in scenic \c[11]DEEP WELL\c[0]!\! Enjoy this luxury getaway, located just a few miles away from the city.\"
+      text: \"Przypłyń do \c[11]OSTATNIEJ PRZYSTANI\c[0], wielkie otwarcie w malowniczej \c[11]GŁĘBOKIEJ STUDNI\c[0]!\! Ciesz się luksusowym wypoczynkiem, położonym tylko kilka kilometrów od miasta.\"
+
 
 message_188:
-      text: \"Bask in the finest amenities the world has to offer at our private retreat and leave truly transformed!\"
+      text: \"Rozkoszuj się najlepszymi udogodnieniami, które oferuje nasze prywatne zacisze i wyjedź zupełnie odmieniony!\"
+
 
 message_179:
-      text: Normal-sized fruit.
+      text: Owoc normalnej wielkości.
+
 
 #============================
+
 
 #Map 114:
 
+
 message_160:
-      text: A breadstone.
+      text: Nakromek.
+
 
 message_161:
-      text: A big breadstone.
+      text: Duży nakromek.
+
 
 #============================
+
 
 #Map 115:
 
+
 message_165:
-      text: A stuffed toy.
+      text: Pluszak.
+
 
 message_166:
-      text: A big bed.
+      text: Duże łóżko.
+
 
 message_167:
-      text: A small bed.
+      text: Małe łóżko.
+
 
 message_168:
-      text: Puzzle pieces.
+      text: Puzzle.
+
 
 #============================
+
 
 #Map 119:
 
+
 message_175:
-      text: A beat-up, old car.
+      text: Stary poobijany samochód.
+
 
 message_176:
-      text: An old armchair.
+      text: Stary fotel.
+
 
 #============================
+
 
 #Map 120:
 
+
 message_180:
-      text: Remnants of a strange civilization can be seen on the walls.
+      text: Na ścianach dostrzec można pozostałości po obcej cywilizacji.
+
 
 #============================
+
 
 #Map 123:
 
+
 message_181:
-      text: An old TV.\! It doesn't seem to be working.
+      text: Stary telewizor.\! Wygląda na to, że nie działa.
+
 
 message_182:
-      text: An old cardboard box.
+      text: Stary karton.
+
 
 message_183:
-      text: Some old cardboard boxes.
+      text: Parę starych kartonów.
+
 
 message_184:
-      text: An old wardrobe.
+      text: Stara szafa.
+
 
 message_185:
-      text: An old grandfather clock.\!<br>On closer inspection, it doesn't seem to be working.
+      text: Stary zegar stojący.\!<br>Po głębszym zbadaniu wydaje się, że nie działa.
+
 
 message_186:
-      text: An old tire.
+      text: Stara opona.
+
 
 message_187:
-      text: Some old tires.
+      text: Parę starych opon.
+
 
 #============================
 
+
 #Map 124:
 
+
 message_194:
-      text: Horse water.
+      text: Poidło.
+
 
 message_195:
-      text: A transportation station.\!<br>It doesn't seem to be in service.
+      text: Przystanek komunikacyjny.\!<br>Nie jest w użytku.
+
 
 message_196:
-      text: A station for PLUTO'S SPACELINE.\!<br>Do you want to wait here for PLUTO?
+      text: Przystanek LINII KOSMICZNEJ PLUTONA.\!<br>Poczekać tu na PLUTONA?
+
 
 message_197:
-      text: An old TV.\! You can hear someone typing on a computer inside.
+      text: Stary telewizor.\! Słychać, w środku ktoś stuka na klawiaturze.
+
 
 message_198:
-      text: A statue made in the likeness of an obnoxious-looking person.
+      text: Posąg stworzony na podobieństwo wstrętnej osoby.
+
+
 
 
 #Changes to this after entering SW castle
 
+
 message_199:
-      text: A painting of an obnoxious-looking person.
+      text: Portret wstrętnie wyglądającej osoby.
+
 
 message_200:
-      text: A very obnoxious-sounding song is playing from this boombox.
+      text: Z magnetofonu wybrzmiewa bardzo wstrętna piosenka.
+
 
 message_201:
-      text: A bookcase full of books about an obnoxious-looking person.
+      text: Biblioteczka wypełniona książkami na temat wstrętnej osoby.
+
 
 message_202:
-      text: A table full of merchandise of an obnoxious-looking person.
+      text: Stół pełen gadżetów z wstrętną osobą.
+
 
 message_203:
-      text: A monitor displaying a bunch of strange symbols.
+      text: Monitor wyświetlający zbiór dziwnych symboli.
+
 
 message_204:
-      text: An empty cup.
+      text: Pusta szklanka.
+
 
 message_205:
-      text: A happy family.
+      text: Szczęśliwa rodzina.
+
 
 message_206:
-      text: A bookcase.
+      text: Regał.
+
 
 message_207:
-      text: An extra-wide bed... perfect for a family of three.
+      text: Bardzo szerokie łóżko... idealne dla trzyosobowej rodziny.
+
 
 message_208:
-      text: A bookcase filled with DVDs.\! This family records everything.
+      text: Regał wypełniony płytami DVD.\! Ta rodzina nagrywa wszystko.
+
 
 #============================
+
 
 #Map 125:
 
+
 message_210:
-      text: \"MOST HORSE - 2ND PLACE\"
+      text: \"NAJKOŃSZY - 2. MIEJSCE\"
+
 
 message_211:
-      text: \"TINIEST CENTAUR - 1ST PLACE\"
+      text: \"NAJDROBNIEJSZY CENTAUR - 1. MIEJSCE\"
+
 
 message_212:
-      text: \"SMALLEST CENTAUR - 1ST PLACE\"
+      text: \"NAJMNIEJSZY CENTAUR - 1. MIEJSCE\"
+
 
 message_213:
-      text: \"LITTLEST CENTAUR - 1ST PLACE\"
+      text: \"NAJMACIUPSZY CENTAUR - 1. MIEJSCE\"
+
 
 message_214:
-      text: \"MOST HORSE - 1ST PLACE\"
+      text: \"NAJKOŃSZY - 1. MIEJSCE\"
+
 
 message_450:
-      text: \"MINIEST CENTAUR - 1ST PLACE\"
+      text: \"NAJMINIATUROWY CENTAUR - 1. MIEJSCE\"
+
 
 message_451:
-      text: \"SHORTEST CENTAUR - 1ST PLACE\"
+      text: \"NAJKRÓTSZY CENTAUR - 1. MIEJSCE\"
+
 
 message_452:
-      text: \"MOST PETITE CENTAUR - 1ST PLACE\"
+      text: \"NAJTYĆSZY CENTAUR - 1. MIEJSCE\"
+
 
 message_453:
-      text: \"MOST CONDENSED CENTAUR - 1ST PLACE\"
+      text: \"NAJBARDZIEJ ZWARTY CENTAUR - 1. MIEJSCE\"
+
 
 message_454:
-      text: \"TEENSIEST CENTAUR - 1ST PLACE\"
+      text: \"NAJLILIPUĆSZY CENTAUR - 1. MIEJSCE\"
+
 
 message_455:
-      text: \"MOST MODEST CENTAUR - 1ST PLACE\"
+      text: \"NAJSKROMNIEJSZY CENTAUR - 1. MIEJSCE\"
+
 
 message_456:
-      text: \"SHRIMPIEST CENTAUR - 1ST PLACE\"
+      text: \"NAJNIŻSZY CENTAUR - 1. MIEJSCE\"
+
 
 message_457:
-      text: \"MOST PINT-SIZED CENTAUR - 1ST PLACE\"
+      text: \"NAJDROBNIUSIEŃKI CENTAUR - 1. MIEJSCE\"
+
 
 message_458:
-      text: \"MOST HUMAN - HONORABLE MENTION\"
+      text: \"NAJCZŁOWIECZY - WYRÓŻNIENIE\"
+
 
 message_459:
-      text: \"ITTIEST-BITTIEST CENTAUR - 1ST PLACE\"
+      text: \"NAJMALUSI CENTAUR - 1. MIEJSCE\"
+
+
 
 
 #============================
+
 
 #Map 126:
 
+
 message_220:
-      text: A vanity.
+      text: Toaletka.
+
 
 message_221:
-      text: A telescope.
+      text: Teleskop.
+
 
 message_222:
-      text: A boombox.\! There's no cassette tape inside.
+      text: Magnetofon.\! Miejsce na kasetę jest puste.
+
 
 message_223:
-      text: A table lamp.
+      text: Lampka.
+
 
 message_224:
-      text: A nice view.
+      text: Niezły widok.
+
 
 message_225:
-      text: Cardboard boxes are littered across the house.
+      text: Pudła zaśmiecają cały dom.
+
 
 message_226:
-      text: A bookcase full of knowledge from all across the universe!
+      text: Biblioteczka pełna wiedzy pochodzącej z całego wszechświata!
+
 
 message_227:
-      text: A mark of anger and sadness...
+      text: Ślad złości i smutku...
+
 
 #============================
+
 
 #Map 128:
 
+
 message_230:
-      text: A storage container.
+      text: Kontener.
+
 
 #============================
+
 
 #Map 130:
 
+
 message_231:
-      text: A cool basketball hoop.
+      text: Czadowy kosz do koszykówki.
+
 
 message_232:
-      text: A cup of cool soda.
+      text: Szklanka czadowego picia.
+
 
 message_233:
-      text: Some cool energy drinks.
+      text: Kilka czadowych energetyków.
+
 
 message_234:
-      text: A cool duffel bag.
+      text: Czadowa torba.
+
+
 
 
 #============================
+
 
 #Map 131:
 
+
 message_235:
-      text: A \c[3]SNO-CONE\c[0] machine.\!<br>It looks like it accepts \c[4]SNO-CONE TICKETS\c[0].
+      text: Maszyna do \c[3]ZMROŻKÓW\c[0].\!<br>Przyjmuje \c[4]KUPONY NA ZMROŻKA\c[0].
+
 
 message_236:
-      text: \"I AM SORRY. WE ARE OUT OF SYRUP.\"
+      text: \"BARDZO NAM PRZYKRO. SKOŃCZYŁ SIĘ SYROP.\"
+
 
 message_237:
-      text: A \c[3]SNO-CONE\c[0] machine.\!<br>Would you like to use a \c[4]SNO-CONE TICKET\c[0]?
+      text: Maszyna do \c[3]ZMROŻKÓW\c[0].\!<br>Chciałbyś wykorzystać \c[4]KUPON NA ZMROŻKA\c[0]?
+
 
 message_238:
-      text: The \c[3]SNO-CONE\c[0] machine dispensed a \c[3]SNO-CONE\c[0].
+      text: Maszyna do \c[3]ZMROŻKÓW\c[0] wydała \c[3]ZMROŻKA\c[0].
+
+
 
 
 #============================
+
 
 #Map 132:
 
+
 message_240:
-      text: A refrigerator.\! But why?
+      text: Lodówka.\! Ale po co?
+
 
 message_241:
-      text: A cold bed on the floor.
+      text: Zimne łóżko na podłodze.
+
 
 message_242:
-      text: Cold soup.\! But why?
+      text: Zimna zupa.\! Ale po co?
+
 
 message_243:
-      text: Some fishing rods.\! They look like they're used often.
+      text: Wędki.\! Wyglądają na często używane.
+
 
 message_244:
-      text: A cooler full of ice.\! But why?
+      text: Lodówka turystyczna pełna lodu.\! Ale po co?
+
 
 message_245:
-      text: A cold lantern.
+      text: Zimna latarnia.
+
 
 message_246:
-      text: A hole in the ice, for convenient fishing!
+      text: Przerębel upraszcza wędkowanie!
+
+
 
 
 #============================
+
 
 #Map 149:
 
+
 message_250:
-      text: A poster reminding you to recycle.
+      text: Plakat zachęcający do segregowania śmieci.
+
 
 #============================
 
+
 message_251:
-      text: A glowing plant.\! It's cold to the touch.
+      text: Świecąca roślina.\! W dotyku jest zimna.
+
 
 message_252:
-      text: An uninteresting book.
+      text: Nudna książka.
+
 
 #Map 182:
 
+
 message_253:
-      text: A painting of CAPT. SPACEBOY.\!<br>\c[3]FRUIT JUICE\c[0] has been splashed all over it.
+      text: Portret KAPITANA KOSMIKA.\!<br>\c[3]SOK  OWOCOWY\c[0] ubrudził znaczną jego część.
+
 
 #============================
 
+
 #Map 184:
 
+
 message_254:
-      text: A strange device.
+      text: Dziwne urządzenie.
+
 
 message_255:
-      text: A wardrobe full of strange devices.
+      text: Szafa wypełniona dziwnymi urządzeniami.
+
 
 message_256:
-      text: Unopened presents are littered across the floor.
+      text: Nieotwarte prezenty rozrzucone są po podłodze.
+
 
 message_257:
-      text: A giant SWEETHEART statue.
+      text: Ogromny posąg SŁODZIUTKIEJ.
 #[SW statue face changes to evil one]
 #HEY, EYES UP HERE!!!! ← This message is in XX_MELON
 #[SW statue face changes back to default]
 
+
 message_258:
-      text: An elaborate flower arrangement.\!<br>It comes off a bit pompous.
+      text: Wymyślna aranżacja kwiatowa.\!<br>Wygląda trochę patetycznie.
+
 
 message_259:
-      text: An elaborate floor lamp.
+      text: Wyszukana lampa stojąca.
+
 
 message_260:
-      text: A pink porcelain tea set.
+      text: Różowy porcelanowy serwis do herbaty.
+
 
 message_261:
-      text: One perfect strawberry.
+      text: Idealna truskawka.
+
 
 message_262:
-      text: A birdhouse.
+      text: Karmnik.
+
 
 message_263:
-      text: A SWEETHEART statue.\! You can hear her laugh even now.
+      text: Posąg SŁODZIUTKIEJ.\! Nawet teraz słyszysz jej śmiech.
       #[Play Oohoho SFX softly]
 
+
 message_264:
-      text: A long article describing one of the art pieces on display here.\!<br>This one is about “Sweetheart Devouring a Burrito”.
+      text: Długi artykuł opisujący jedno z dzieł sztuki na tutejszej wystawie.\!<br>Jest na temat “Słodziutkiej pochłaniającej burrito”.
+
 
 message_265:
-      text: A long article describing one of the art pieces on display here.\!<br>This one is about “Sweet Time.”
+      text: Długi artykuł opisujący jedno z dzieł sztuki na tutejszej wystawie.\!<br>Jest o “Słodkiej wiosny”.
+
 
 message_266:
-      text: A long article describing one of the art pieces on display here.\!<br>This one is about “Birth of Sweetheart.”
+      text: Długi artykuł opisujący jedno z dzieł sztuki na tutejszej wystawie.\!<br>Ten jest na temat “Narodzin Słodziutkiej”.
+
 
 message_267:
-      text: A long article describing one of the art pieces on display here.\!<br>This one is about “The Scream of Sweetheart.”
+      text: Długi artykuł opisujący jedno z dzieł sztuki na tutejszej wystawie.\!<br>Jest na temat “Krzyku Słodziutkiej”.
+
 
 message_268:
-      text: A long article describing one of the art pieces on display here.\!<br>This one is about “Mona Sweetheart.”
+      text: Długi artykuł opisujący jedno z dzieł sztuki na tutejszej wystawie.\!<br>Ten jest na temat “Mony Słodzi”.
+
 
 message_269:
-      text: A long article describing one of the art pieces on display here.\!<br>This one is about “The Creation of Sweetheart.”
+      text: Długi artykuł opisujący jedno z dzieł sztuki na tutejszej wystawie.\!<br>Jest o “Stworzeniu Słodziutkiej”.
+
 
 message_270:
-      text: A long article describing one of the art pieces on display here.\!<br>This one is about “Sweetheart's Crossing of the Delaware.”
+      text: Długi artykuł opisujący jedno z dzieł sztuki na tutejszej wystawie.\!<br>Ten jest o “Słodziutkiej przekraczającej Delaware”.
+
 
 message_271:
-      text: A long article describing one of the art pieces on display here.\!<br>This one is about “Sweetheart with a Pearl Earring.”
+      text: Długi artykuł opisujący jedno z dzieł sztuki na tutejszej wystawie.\!<br>Jest o “Słodziutkiej z perłą.”
+
 
 message_272:
-      text: A long article describing one of the art pieces on display here.\!<br>This one is about “Sweetheart's Afternoon.”
+      text: Długi artykuł opisujący jedno z dzieł sztuki na tutejszej wystawie.\!<br>Jest na temat “Niedzielnego popołudnia ze Słodziutką”.
+
 
 message_273:
-      text: A long article describing one of the art pieces on display here.\!<br>This one is about “The Sweetheart Night.”
+      text: Długi artykuł opisujący jedno z dzieł sztuki na tutejszej wystawie.\!<br>Ten jest o “Słodziutkiej Nocy”.
+
 
 message_274:
-      text: \"SwEEeTHEArT u R my QUEEN!\! i LOVE and APPRECIATE everyhting that u do more than ANHYTHING... \!pls respond\"
+      text: \"SłoDzJUdkA tysi mOM KRULOWOM!\! KocHaM cB i DoCEnjAm naD WSZYSKO... \!pls odpowiedz\"
+
 
 message_275:
-      text: \"i hav lvoed u since te first momenjti i laied my aeyes lon u!!!!\! PLASE BE MINE FEOVER!!!!!\! okay?\"
+      text: \"kochalem će od kjedy cje uiżalem!!!!\! PROSE BOMDŹ MOM NA ZAWRZE!!!!!\! ok?\"
+
 
 message_276:
-      text: A huge collection of books... but nothing too interesting.
+      text: Spora kolekcja książek... lecz nic nadzwyczajnego.
+
 
 message_277:
-      text: \"dear sweatheart i luv u so much...\! let us have kids and spend the rest of our lives 2geter.\! i woud like that very much.\! Thank You.\"
+      text: \"droga słodziudka kocham cb niezmiernie...\! miejmy razem dzieci i zestarzejmy się we 2-oje.\! chciabym tego bardzo.\! Dziękuję.\"
+
 
 message_278:
-      text: \"lovely SWEETHAERt you are my LOVE.\! plaese visit my home.\!<br>it is READY for u.\"
+      text: \"kochana SŁODZIUTKa dla ciebie bije moje SERCE.\! prozse odwiedź mój dom.\!<br>jest GOTOWY na cb.\"
+
 
 message_279:
-      text: SWEETHEART's throne.
+      text: Tron SŁODZIUTKIEJ.
+
 
 message_280:
-      text: A movie is playing on the big screen.
+      text: Na dużym ekranie wyświetlany jest film.
+
 
 message_281:
-      text: Part of this bookcase is empty.\! Do you want to look through to the other side?
+      text: Część tego regału jest pusta.\! Chcesz przejrzeć drugą stronę?
+
 
 message_282:
-      text: SWEETHEART's favorite tea set.
+      text: Ulubiony serwis do herbaty SŁODZIUTKIEJ.
+
 
 message_283:
-      text: A kiddie pool.
+      text: Basenik dla dzieci.
+
 
 message_284:
-      text: Empty bottles.
+      text: Puste butelki.
+
 
 message_285:
-      text: \c[3]FRUIT JUICE\c[0].\! It's not for kids.
+      text: \c[3]SOK OWOCOWY\c[0].\! Nie dla dzieci.
+
 
 message_286:
-      text: A hat rack.
+      text: Stojak na kapelusze.
+
 
 message_287:
-      text: A crate.
+      text: Skrzynka.
+
 
 message_288:
-      text: Stocks are up.
+      text: Akcje rosną.
+
 
 message_289:
-      text: Stocks are down.
+      text: Akcje spadają.
+
 
 message_290:
-      text: A locker.
+      text: Szafka.
+
 
 message_291:
-      text: Pool, or billiards.
+      text: Karambol, inaczej bilard.
+
 
 message_292:
-      text: A shelf full of various types of \c[3]FRUIT JUICE\c[0].
+      text: Półka wypełniona różnymi rodzajami \c[3]SOKU OWOCOWEGO\c[0].
+
 
 message_293:
-      text: A trash can.
+      text: Kosz na śmieci.
+
 
 message_294:
-      text: A pool table.
+      text: Stół do bilardu.
+
 
 message_295:
-      text: An “O”.
+      text: “O”.
+
 
 message_296:
-      text: A feast ready to be served!
+      text: Uczta gotowa do podania!
+
 
 message_297:
-      text: A barrel.
+      text: Beczka.
+
 
 message_298:
-      text: A feeding area.
+      text: Strefa karmienia.
+
 
 message_299:
-      text: A bucket of milk.
+      text: Wiadro mleka.
+
 
 message_300:
-      text: A strange machine.
+      text: Dziwna maszyna.
+
 
 message_301:
-      text: Some questionable equipment.
+      text: Jakieś podejrzane urządzenia.
+
 
 message_302:
-      text: A giant bottle full of liquid.
+      text: Gigantyczna butelka wypełniona cieczą.
+
 
 message_303:
-      text: Big tube.
+      text: Duża rura.
+
 
 message_304:
-      text: A broken test tube.
+      text: Zniszczona probówka.
+
 
 message_305:
-      text: An odd growth.
+      text: Dziwna narośl.
+
 
 message_306:
-      text: Some trash.
+      text: Śmieci.
+
 
 message_307:
-      text: Some crates.
+      text: Jakieś skrzynki.
+
 
 message_308:
-      text: A statue of MARINA.
+      text: Posąg MARINY.
+
 
 message_309:
-      text: A statue of MEDUSA.
+      text: Posąg MEDUZY.
+
 
 message_310:
-      text: A statue of MOLLY.
+      text: Posąg MOLLY.
+
 
 message_311:
-      text: Some small test tubes.
+      text: Kilka małych probówek.
+
 
 message_312:
-      text: A shelf lined with baking supplies.
+      text: Półka pełna składników do gotowania.
+
 
 message_313:
-      text: Bags of flour.
+      text: Worki mąki.
+
 
 message_314:
-      text: A family portrait.
+      text: Portret rodzinny.
+
 
 message_315:
-      text: Empty cans.
+      text: Puste puszki.
+
 
 message_316:
-      text: A simple futon.\! The sheets are cheap, lumpy, and have many holes in them.
+      text: Zwyczajny materac.\! Pościel jest tania, pognieciona i ma wiele dziur.
+
 
 message_317:
-      text: A simple futon.\! The sheets are useable, but not very comfortable.
+      text: Zwyczajny materac.\! Pościel jest zdatna do użycia, ale niezbyt wygodna.
+
 
 message_318:
-      text: A simple futon.\! The sheets are soft, but quite thin.
+      text: Zwyczajny materac.\! Pościel jest miękka, ale całkiem cienka.
+
 
 message_319:
-      text: A simple futon.\! The sheets are soft.\! They are good sheets.
+      text: Zwyczajny materac.\! Pościel jest miękka.\! To dobra pościel.
+
 
 message_320:
-      text: A simple futon.\! The sheets are soft and fluffy.\! They are better than your average sheets.
+      text: Zwyczajny materac.\! Pościel jest miękka i puszysta.\! To ponadprzeciętna pościel.
+
 
 message_321:
-      text: A simple futon.\! The sheets are soft and silky and have a self-heating option.\! They are pretty amazing.\! You wish you had these sheets.
+      text: Zwyczajny materac.\! Pościel jest miękka oraz jedwabna i ma opcję samoogrzewania.\! Jest niesamowita.\! Chciałbyś taką mieć.
+
 
 message_322:
-      text: A simple futon.\! The sheets are made of the finest materials, and have a self-heating and cooling option.\! They are the best sheets in the world.
+      text: Zwyczajny materac.\! Pościel wykonana jest z najlepszych materiałów i ma opcję regulacji temperatury.\! To najlepsza pościel na świecie.
+
 
 #Cactus:
 
+
 message_350:
-      text: \n<STRANGER>Home is not here.
+      text: \n<NIEZNAJOMY>Tu nie ma domu.
+
 
 message_352:
-      text: \n<STRANGER>Here is not home.
+      text: \n<NIEZNAJOMY>To miejsce to nie dom.
+
 
 message_353:
-      text: \n<STRANGER>Home is not where here is.
+      text: \n<NIEZNAJOMY>Dom nie jest tam, gdzie to miejsce.
+
 
 message_354:
-      text: \n<STRANGER>Here is not where the home is.
+      text: \n<NIEZNAJOMY>Nie tutaj jest miejsce, w którym jest dom.
+
 
 message_355:
-      text: \n<STRANGER>Here is not home, but where is home?
+      text: \n<NIEZNAJOMY>Tu nie ma domu, lecz gdzie on jest?
+
 
 message_356:
-      text: \n<STRANGER>Home is not here, but where is here?
+      text: \n<NIEZNAJOMY>Domu tu nie ma, ale gdzie jest to miejsce?
+
 
 message_357:
-      text: \n<STRANGER>Where is home?
+      text: \n<NIEZNAJOMY>Gdzie jest dom?
+
+
 
 
 #Sign:
 message_365:
-      text: \”Do not talk to the plants. They will confuse you.\”
+      text: \”Nie rozmawiaj z roślinami. Zdezorientują cię.\”
+
 
 #Lighthouse binoculars:
 message_366:
-      text: A pair of binoculars.\! Do you want to check out the view?
+      text: Lornetka.\! Chcesz przez nią spojrzeć?
+
 
 message_367:
-      text: Something stares at you from the other side of the screen.
+      text: Coś patrzy na ciebie z drugiej strony ekranu.
+
 
 message_368:
-      text: Shattered pottery.
+      text: Rozbita ceramika.
+
 
 message_369:
-      text: An unmade bed.\! It hasn't been used in years.
+      text: Niepościelone łóżko.\! Nie było używane od lat.
+
 
 message_370:
-      text: An old fireplace.\! The inside is completely black.
+      text: Stary kominek.\! Wnętrze jest całkowicie czarne.
+
 
 message_371:
-      text: A broken lamp.
+      text: Zepsuta lampa.
+
 
 message_372:
-      text: A dirty wardrobe.\! It's empty inside.
+      text: Brudna szafa.\! Jest pusta w środku.
+
 
 message_373:
-      text: A coat rack.
+      text: Wieszak.
+
 
 message_374:
-      text: An ordinary houseplant.\! Its leaves are hard and brittle.
+      text: Zwyczajna roślina doniczkowa.\! Jej liście są twarde i kruche.
+
 
 message_375:
-      text: Empty cans.
+      text: Puste puszki.
+
 
 message_376:
-      text: A chair facing the wall.
+      text: Krzesło skierowane w stronę ściany.
+
 
 message_377:
-      text: A stool on its side.
+      text: Przewrócony stołek.
+
 
 message_378:
-      text: There is no light here.
+      text: Nie ma tu światła.
+
 
 message_379:
-      text: You found \c[4]DEAD BATTERIES\c[0].
+      text: Znajdujesz \c[4]ZUŻYTE BATERIE\c[0].
+
 
 message_380:
-      text: A small drawer.
+      text: Mała szuflada.
+
 
 #Memories
 message_400:
-      text: A single plastic flamingo.\! It seems to enjoy the rain.
+      text: Pojedynczy plastikowy flaming.\! Wydaje się, że cieszy się deszczem.
+
 
 message_401:
-      text: A white, classy mailbox.
+      text: Biała, klasyczna skrzynka pocztowa.
+
 
 message_402:
-      text: The symbol of \c[11]FARAWAY TOWN\c[0] overlooks the lake.
+      text: Symbol \c[11]DALEKOSTĄDU\c[0] wznosi się nad jeziorem.
+
 
 message_403:
-      text: MARI's picnic basket.\!<br>Today it's full of peanut butter and jelly sandwiches.
+      text: Koszyk MARI.\!<br>Dzisiaj jest pełen kanapek z masłem orzechowym i dżemem.
+
 
 message_404:
-      text: AUBREY's stuffed toy.\! She brings this with her everywhere.
+      text: Pluszak AUBREY.\! Wszędzie go ze sobą zabiera.
+
 
 #SW ROOM
 
+
 message_420:
-      text: Poetry.\! By SWEETHEART.
+      text: Poezja.\! Autorstwa SŁODZIUTKIEJ.
+
 
 message_421:
-      text: \“Ah.\| A day.\| And a day it was.\| Such a lovely day.\”
+      text: \“Ach.\| Ten dzień.\| Cóż to był za dzień.\| Taki piękny dzień.\”
+
 
 message_422:
-      text: You found a \c[13]BODY PILLOW\c[0].
+      text: Znajdujesz \c[13]OGROMNĄ PODUSZKĘ\c[0].
+
+
 
 
 #RED liquid
 
+
 message_423:
-      text: This is not fruit punch.
+      text: To nie jest owocowy poncz.
+
 
 message_424:
-      text: This is not strawberry syrup.
+      text: To nie jest syrop truskawkowy.
+
 
 message_425:
-      text: This is not \c[3]WATERMELON JUICE\c[0].
+      text: To nie jest \c[3]SOK ARBUZOWY\c[0].
 
-#SPROUT MOLE
+
+#KIEŁKUN
+
 
 message_426:
-      text: \sinv[1]Swish... Swish... Swish...\sinv[0]
+      text: \sinv[1]Szur... Szur... Szur...\sinv[0]
+
 
 message_427:
-      text: Dirty laundry.
+      text: Brudne pranie.
+
 
 #SIGNS
 
+
 message_500:
-      text: \"This is the end of the highway.\"
+      text: \"Koniec autostrady.\"
+
 
 message_501:
-      text: \"THE ROYAL BATH\"
+      text: \"ŁAZIENKA KRÓLEWSKA\"
+
 
 message_502:
-      text: \"A SPECIAL HELL FOR YOU\"
+      text: \"WYJĄTKOWE PIEKŁO DLA CIEBIE\"
+
+
 
 
 message_503:
-      text: \"CAUTION - POOL UNDER CONSTRUCTION\"
+      text: \"UWAGA - BASEN W BUDOWIE\"
+
 
 message_504:
-      text: \"CAUTION - POOL HAUNTED\"
+      text: \"UWAGA - NAWIEDZONY BASEN\"
+
 
 #LAST RESORT
 
+
 message_505:
-      text: Bills, bills, bills...
+      text: Kasa, kasa, kasa...
+
 
 message_506:
-      text: You found a \c[3]FISH TACO\c[0].
+      text: Znajdujesz \c[3]RYBNE TACO\c[0].
+
 
 message_507:
-      text: Grain juice.\! It's not for kids.
+      text: Sok ze zboża.\! Nie dla dzieci.
+
 
 message_508:
-      text: A smoke stick.
+      text: Dymiący paluszek.
+
 
 message_509:
-      text: Expensive books for show.
+      text: Drogie książki na pokaz.
+
 
 message_510:
-      text: A very expensive and controversial art piece.
+      text: Bardzo drogie i kontrowersyjne dzieło sztuki.
+
 
 message_511:
-      text: It is not alive.
+      text: Nie żyje.
+
 
 message_512:
-      text: A \c[4]B.E.D.\c[0]\!<br>Otherwise known as a \c[4]BETTER EXHAUSTION DESTROYER\c[0].
+      text: \c[4]Ł.O.Ż.E.\c[0]\!<br>Inaczej znane jako \c[4]ŁATANY ODNAWIACZ ŻYCIOWEJ ENERGII\c[0].
+
 
 message_513:
-      text: This elevator will not open.
+      text: Winda się nie otwiera.
 
 
-#DEAD SPROUT MOLE
+
+
+#DEAD KIEŁKUN
+
 
 message_520:
-      text: \n<SPROUT MOLE>...
+      text: \n<KIEŁKUN>...
+
 
 message_521:
-      text: \n<SPROUT MOLE>...\! \}\quake[1]Turn...\| back...
+      text: \n<KIEŁKUN>...\! \}\quake[1]Za...\| wróć...
+
 
 #INFOMERCIALS
 
+
 message_530:
-      text: \n<INFOMERCIAL>\}NOW, YOU CAN GROW A WHOLE COLLECTION OF FUN...\| BUNNIES, BEES, BEARS...\| I LOVE MY NEW PET! I CAN TAKE IT ANYWHERE...\| SHARE WHILE YOU PLAY...\| SQUEEZE, SQUEEZE, SQUEEZE...\| IF THEY LIKE IT, I LOVE IT...
+      text: \n<REKLAMA>\}TERAZ MOŻESZ WYHODOWAĆ CAŁĄ KOLEKCJĘ FRAJDY...\| KRÓLICZKI, PSZCZÓŁKI, MISIE...\| KOCHAM MOJEGO NOWEGO PUPILA! MOGĘ ZABRAĆ GO WSZĘDZIE...\| DZIEL SIĘ W TRAKCIE ZABAWY...\| ŚCISKAJ, ŚCISKAJ, ŚCISKAJ...\| SKORO IM SIĘ PODOBA, TO MI TEŻ...
+
 
 message_531:
-      text: \n<INFOMERCIAL>\}TOTAL COMFORT...\| KEEPS YOU WARM...\| I CAN EVEN USE BOTH HANDS...\| IT'S RIGHT AT YOUR FINGERTIPS...\| CONTAINS HIGH DENSITY FOAM...\| WHAT A GREAT IDEA...\| CALL AND ORDER FOR ONLY 3000 CLAMS...
+      text: \n<REKLAMA>\}CAŁKOWITY KOMFORT...\| ZAPEWNIA CIEPŁO...\| MOGĘ NAWET UŻYĆ OBU RĄK...\| JEST NA WYCIĄGNIĘCIE RĘKI...\| ZAWIERA ZWARTĄ PIANKĘ...\| CO ZA WSPANIAŁY POMYSŁ...\| ZADZWOŃ I ZAMÓW ZA JEDYNE 3000 MAŁŻY...
+
 
 message_532:
-      text: \n<INFOMERCIAL>\}THIS IS ALL NATURAL...\| SIMPLY APPLY AS DIRECTED...\| CHECK OUT THESE BEFORE AND AFTER PHOTOS...\| THAT FEELS GREAT ON MY ABS...\| STOP USING PRODUCTS THAT DON'T WORK...\| I LOVE MY NEW LIFE...
+      text: \n<REKLAMA>\}Z SAMYCH NATURALNYCH SKŁADNIKÓW...\| WYSTARCZY ZASTOSOWAĆ ZGODNIE Z INSTRUKCJĄ...\| ZOBACZ ZDJĘCIA PRZED I PO...\| MOJE MIĘŚNIE SĄ WNIEBOWZIĘTE...\| PRZESTAŃ KORZYSTAĆ Z PRODUKTÓW, KTÓRE NIE DZIAŁAJĄ...\| KOCHAM MOJE NOWE ŻYCIE...
+
 
 message_533:
-      text: \n<INFOMERCIAL>\}STOP! THERE'S A BETTER WAY...\| FINALLY, A SAFE AND EFFECTIVE SOLUTION...\| IT JUST MAKES SENSE...\| IT EVEN COMES WITH A MATCHING CASE...\| YOU CAN HARDLY CALL THIS WORK...\| PICK UP THAT PHONE NOW...
+      text: \n<REKLAMA>\}STOP! JEST LEPSZE WYJŚCIE...\| WRESZCIE BEZPIECZNE I EFEKTYWNE ROZWIĄZANIE...\| TO PO PROSTU MA SENS...\| W ZESTAWIE PASUJĄCE ETUI...\| CIĘŻKO TO NAZWAĆ PRACĄ...\| JUŻ TERAZ ODBIERZ TEN TELEFON...
+
 
 message_534:
-      text: A sticky phone.
+      text: Lepki telefon.
+
 
 #BALLROOM INSTRUMENTS
 
+
 message_540:
-      text: That's the sound a drum makes.
+      text: Dźwięk, który wydaje bęben.
+
 
 message_541:
-      text: That's the sound a tuba makes.
+      text: To dźwięk, który wydaje tuba.
+
 
 message_542:
-      text: That's the sound a trumpet makes.
+      text: Dźwięk, który wydaje trąbka.
+
 
 message_543:
-      text: A music machine.
+      text: Gramofon.
+
 
 #===
 
+
 message_550:
-      text: Do you want to play slots?
+      text: Czy chcesz zagrać na automacie?
+
+
 
 
 message_552:
-      text: A colorful roulette.
+      text: Kolorowa ruletka.
+
 
 #---
+
 
 message_551:
-      text: The faceless doll examines your features.
+      text: Lalka bez twarzy uważnie ci się przygląda.
+
 
 #---
+
 
 message_553:
-      text: This machine is currently in use.
+      text: Maszyna obecnie jest w użyciu.
+
 
 #---
 
+
 message_554:
-      text: A telescope...<br>\!But the lens is covered with tape.
+      text: Teleskop...<br>\!Ale obiektyw zaklejony jest taśmą.
+
 
 message_555:
-      text: A vanity...<br>\!But the mirror makes you look especially unflattering.
+      text: Toaletka...<br>\!Ale lustro sprawia, że wyglądasz wyjątkowo nieatrakcyjnie.
+
 
 message_556:
-      text: A bunch of books...<br>\!But all the pages are glued shut.
+      text: Kilka książek...<br>\!Ale wszystkie strony są sklejone.
+
 
 message_557:
-      text: Cardboard boxes...<br>\!For no other reason than to take up space.
+      text: Pudełka...<br>\!Mają jedynie zajmować miejsce.
+
 
 message_58:
-      text: A beautiful painting of the stars...<br>\!But it reeks of melting plastic.
+      text: Piękny obraz przedstawiający gwiazdy...<br>\!Ale śmierdzi topiącym się plastikiem.
+
 
 message_59:
-      text: A large vanity for SWEETHEART's pulchritudinous face.
+      text: Spora toaletka dla urodziwej twarzy SŁODZIUTKIEJ.
+
 
 message_590:
-      text: SWEETHEART's private getaway.
+      text: Osobiste miejsce wypoczynku SŁODZIUTKIEJ.
+
 
 # JAWSUM portraits
 
+
 message_560:
-      text: \"LORD JAWSUM\"<br>\"189X-192X\"
+      text: \"LORD SZCZĘKOPAD\"<br>\"189X-192X\"
+
 
 message_561:
-      text: \"SIR JAWSUM\"<br>\"192X-195X\"
+      text: \"RYCERZ SZCZĘKOPAD\"<br>\"192X-195X\"
+
 
 message_562:
-      text: \"PROFESSOR JAWSUM\"<br>\"195X-197X\"
+      text: \"PROFESOR SZCZĘKOPAD\"<br>\"195X-197X\"
+
 
 message_563:
-      text: \"DOCTOR JAWSUM\"<br>\"197X-198X\"
+      text: \"DOKTOR SZCZĘKOPAD\"<br>\"197X-198X\"
+
 
 message_564:
-      text: \"MR. JAWSUM"<br>\"198X-\"
+      text: \"PAN SZCZĘKOPAD"<br>\"198X-\"
+
 
 message_565:
       text: \"HERO"<br>\"199X-\"
 
+
 message_580:
-      text: MR. JAWSUM's favorite mug.
+      text: Ulubiony kubek PANA SZCZĘKOPADA.
+
 
 message_582:
-      text: \"MR. JAWSUM"<br>\"198X-199X"
+      text: \"PAN SZCZĘKOPAD"<br>\"198X-199X"
+
 
 #---
 #LOCKER ROOMS
 
+
 message_558:
-      text: A cabinet.
+      text: Szafka.
+
 
 message_559:
-      text: You found \c[3]BOTTLED WATER\c[0].
+      text: Znajdujesz \c[3]WODĘ BUTELKOWANĄ\c[0].
+
 
 message_566:
-      text: You found \c[3]ROTTEN MILK\c[0].
+      text: Znajdujesz \c[3]ZSIADŁE MLEKO\c[0].
+
 
 message_567:
-      text: You found \c[3]FRUIT JUICE?\c[0].
+      text: Znajdujesz \c[3]SOK OWOCOWY?\c[0].
+
 
 message_568:
-      text: You found a \c[5]POETRY BOOK\c[0].
+      text: Znajdujesz \c[5]ZBIÓR WIERSZY\c[0].
+
 
 message_569:
-      text: A locker.
+      text: Szafka.
+
 
 message_670:
-      text: A fireplace.\! The fire is wet.
+      text: Kominek.\! Ogień jest mokry.
+
 
 #---
+
 
 message_581:
-      text: A cool bike.
+      text: Fajny rower.
+
+
 
 
 #---
+
 
 #snowflakes
 
+
 #+1 EXP
 message_570:
-      text: You feel a little better than before.
+      text: Czujesz się troszkę lepiej niż wcześniej.
+
 
 #+1 CLAM
 message_571:
-      text: You feel a little richer than before.
+      text: Czujesz się troszkę bogatszy niż wcześniej.
+
 
 #+1 JUICE
 message_572:
-      text: You feel a little bubblier than before.
+      text: Czujesz się troszkę radośniejszy niż wcześniej.
+
 
 #+1 HEART
 message_573:
-      text: You feel a little healthier than before.
+      text: Czujesz się troszkę zdrowszy niż wcześniej.
+
 
 message_666:
-      text: BASIL's \c[4]PHOTO ALBUM\c[0].
+      text: \c[4]ALBUM\c[0] BASILA.
+
 
 message_667:
-      text: Do you want to board the train?
+      text: Czy chcesz wsiąść do pociągu?
+
 
 message_668:
-      text: Baggage.
+      text: Bagaż.
+
 
 message_669:
-      text: The train is moving.
+      text: Pociąg rusza.
+
+
+
 
 
 
 #---
 
+
 message_680:
-      text: \"GALLIPOT'S GASTROPOD\"\!<br>\"TODAY'S SPECIALS - ORANGE JUICE, PEACH SODA, and MILK\"
+      text: \"BRZUCHONÓG SŁOJA\"\!<br>\"DZISIEJSZE SPECJAŁY - SOK POMARAŃCZOWY, BRZOSKWINIADA i MLEKO\"
+
 
 message_681:
-      text: \"TODAY'S MENU...\! FRESH BREAD\"\!<br>\"TOMORROW'S MENU...\! FRESH BREAD\"
+      text: \"DZISIEJSZE MENU...\! ŚWIEŻY CHLEB\"\!<br>\"JUTRZEJSZE MENU...\! ŚWIEŻY CHLEB\"
+
 
 message_193:
-      text: Baking stuff.
+      text: Artykuły do pieczenia.
+
 
 message_209:
-      text: Sweet roll.
+      text: Słodka bułka.
+
 
 message_682:
-      text: A pink slide.\! Smells like bubble gum.
+      text: Różowa zjeżdżalnia.\! Pachnie jak guma turbo.
+
 
 message_683:
-      text: A yellow swing set.\! Smells like bananas.
+      text: Żółte huśtawki.\! Pachną jak banany.
+
 
 #--- arrow cave
 
+
 message_685:
-      text: \n<FROWNY FACE>\"You should have listened.\"
+      text: \n<SMUTECZEK>\"Mogłeś posłuchać.\"
+
 
 message_686:
-      text: \n<SMILEY FACE>\"You did it!\! Good for you!\"
+      text: \n<UŚMIESZEK>\"Udało ci się!\! Brawo!\"
+
 
 message_687:
-      text: \n<FROWNY FACE>\"Sorry. Couldn't resist.\"
+      text: \n<SMUTECZEK>\"Wybacz. Nie mogłem się powstrzymać.\"
+
 
 #--- treasure Map
 
+
 message_690:
-      text: You got a \c[4]TREASURE MAP\c[0]!
+      text: Zdobywasz \c[4]MAPĘ SKARBÓW\c[0]!
+
 
 #clams
 message_691:
-      text: You found 1 CLAM!
+      text: Znajdujesz 1 MAŁŻĘ!
+
 
 message_700:
-      text: An oddly-placed tetherball.
+      text: Dziwnie umieszczona piłka na sznurku.
+
 
 #--- treasure Map
 
 
 
+
+
+
 #Orange Oasis
+
 
 message_800:
-      text: Sure is a big banana.
+      text: Co za duży banan.
+
 
 message_801:
-      text: Sure is a big apple.
+      text: Co za duże jabłko.
+
 
 message_802:
-      text: Sure are some big grapes.
+      text: Co za spore winogrona.
+
 
 #Orange Oasis
 
+
 message_805:
-      text: Blueprints for a two-story house.
+      text: Plany dwupiętrowego domu.
+
 
 message_806:
-      text: Blueprints for a two-hundred-story skyscraper.
+      text: Plany dwustupiętrowego drapacza chmur.
+
 
 message_807:
-      text: Stolen furniture and miscellaneous knick-knacks.
+      text: Skradzione meble i rozmaite bibeloty.
+
+
 
 
 message_808:
-      text: A golden hero sandwich.
+      text: Złota kanapka herosa.
+
 
 message_809:
       text: O.
 
+
 message_810:
-      text: Ghost party!
+      text: Straszna imprezka!
+
 
 message_811:
-      text: Paper cups full of \c[3]LEMONADE\c[0].
+      text: Papierowe kubeczki pełne \c[3]LEMONIADY\c[0].
 
-#SPROUT MOLE COLONY
+
+#KIEŁKUN COLONY
+
 
 message_820:
-      text: Strange cabinet.
+      text: Dziwna szafka.
+
 
 message_821:
-      text: Strange table lamp.
+      text: Dziwna lampka nocna.
+
 
 message_823:
-      text: Strange floor lamp.
+      text: Dziwna lampa podłogowa.
+
 
 message_824:
-      text: Strange table set.
+      text: Dziwna zastawa stołowa.
+
 
 message_825:
-      text: Very big sofa chair.
+      text: Bardzo duży fotel.
+
 
 message_826:
-      text: Very big TV.
+      text: Bardzo duży telewizor.
+
 
 message_830:
-      text: Full of fish, but only the bones.
+      text: Pełno ryb, Dale tylko ości.
+
 
 message_831:
-      text: FISHBOY's futon.\! Smells like seaweed and vinegar.
+      text: Materac RYBNIAKA.\! Pachnie glonami i octem.
+
 
 message_832:
-      text: Books about the many uses of fish, fish sauce, fish oil, and fish glue.\! There are also quite a few cook books.
+      text: Książki o tym co można zrobić z ryb, rybików, rybaków i robaków.\! Jest też trochę książek kucharskich.
+
 
 message_833:
-      text: Little sea plants.
+      text: Małe roślinki wodne.
+
 
 message_834:
-      text: Colorful potions and flasks of all shapes and sizes.
+      text: Kolorowe eliksiry i probówki w wszelkich kształtach i wymiarach
+
 
 message_835:
-      text: Pages of research, written in a language you cannot read.
+      text: Sterty badań napisane w języku, którego nie potrafisz odczytać.
+
 
 message_836:
-      text: A dubious concoction, probably best left untouched.
+      text: Podejrzana mikstura, najlepiej jej nie ruszać.
+
 
 message_837:
-      text: Plants used for research.
+      text: Rośliny wykorzystywane do badań.
+
 
 message_838:
-      text: A microscope.
+      text: Mikroskop.
+
 
 message_839:
-      text: Books filled with knowledge in a language you cannot read.
+      text: Książki wypełnione wiedzą w języku, którego nie potrafisz odczytać.
+
 
 message_840:
-      text: PEANUT's bed.
+      text: Łóżko FISTASI.
+
 
 message_841:
-      text: JELLY's bed.
+      text: Łóżko ŻELUSI.
+
 
 message_842:
-      text: PALMIE's bed.
+      text: Łóżko USZKI.
+
 
 message_843:
-      text: Old paintings and knick-knacks.
+      text: Stare obrazy i bibeloty.
+
 
 message_844:
-      text: A bread-themed fridge full of bread.
+      text: Chlebowa lodówka wypełniona bochenkami chleba.
+
 
 message_845:
-      text: PALMIE's bookcase.
+      text: Regalik USZKI.
+
 
 message_846:
-      text: JELLY's bookcase.
+      text: Regalik ŻELCI.
+
 
 message_847:
-      text: PEANUT's bookcase.
+      text: Regalik FISTASI.
+
 
 message_848:
-      text: Toast.
+      text: Tost.
+
 
 message_849:
-      text: Mystery soup.
+      text: Tajemnicza zupa.
+
 
 #CASINO
 
+
 message_850:
-      text: Games for lucky and unlucky people.
+      text: Gry dla farciarzy i pechowców.
+
 
 message_851:
-      text: A vanity...<br>\!But the mirror makes you look especially flattering!
+      text: Toaletka...<br>\!Ale lustro sprawia, że wyglądasz wyjątkowo atrakcyjnie!!
+
 
 message_852:
-      text: \"EMPLOYEE OF THE MONTH\"\!<br>Wow...
+      text: \"PRACOWNIK MIESIĄCA\"\!<br>Wow...
+
 
 #Molly
 
+
 message_855:
-      text: Waste.
+      text: Odpady.
+
 
 message_856:
-      text: Nuclear waste.
+      text: Odpady nuklearne.
+
 
 message_857:
-      text: Tools for... research.
+      text: Narzędzia do... eksperymentów.
+
+
 
 
 #Sculptor
 
+
 message_860:
-      text: Various sculpting supplies.
+      text: Przeróżne narzędzia rzeźbiarskie.
+
+
 
 
 #Yellow Sub
 
+
 message_900:
-      text: \"ENJOY THE BEST \c[3]CHEESEBURGERS\c[0] IN TOWN...\!<br>\c[3]FRIES\c[0], \c[3]TASTY SODA\c[0], \c[3]LIFE JAM\c[0], YOU NAME IT...\!<br>OR BETTER YET...\! MAKE IT A \c[4]COMBO MEAL\c[0]!\"
+      text: \"POSMAKUJ NAJLEPSZYCH \c[3]CHEESEBURGERÓW\c[0] W MIEŚCIE...\!<br>\c[3]FRYTKI\c[0], \c[3]ORANŻADA MNIAM\c[0], \c[3]DŻEMO ŻYCIA\c[0], DO WYBORU, DO KOLORU...\!<br>ALBO JESZCZE LEPIEJ...\!OD RAZU KUP CAŁY \c[4]ZESTAW\c[0]!\"
+
 
 message_901:
-      text: Advertisements.
+      text: Reklamy.
+
 
 message_902:
-      text: \"ANNUAL \c[11]DEEP WELL\c[0] SHOW CHOIR COMPETITION -<br>1ST PLACE AWARDED TO THE PITSTOP PIROUETTES\"
+      text: \"COROCZNY KONKURS CHÓRALNY W \c[11]GŁĘBOKIEJ STUDNI\c[0] -<br>PIERWSZE MIEJSCE ZDOBYWA POGROMCZYNI PÓŁOBROTÓW\"
+
 
 message_903:
-      text: Shelves full of flowers.\! Smells like springtime.
+      text: Półki pełne kwiatów.\!Pachną wiosną.
+
+
 
 
 #SW Gallery
 
+
 message_910:
-      text: From top to bottom...
+      text: Z góry na dół...
+
 
 message_911:
-      text: \"A SUNDAY WITH SWEETHEART\"
+      text: \"NIEDZIELNE POPOŁUDNIE ZE SŁODZIUTKĄ\"
+
 
 message_912:
-      text: \"SWEETHEART NIGHT\"
+      text: \"SŁODZIUTKA NOC\"
+
 
 message_913:
-      text: \"MONA SWEETHEART\"
+      text: \"MONA SŁODZIA\"
+
 
 message_914:
-      text: \"SCREAMHEART\"
+      text: \"KRZYK SŁODZIUTKIEJ\"
+
 
 message_915:
-      text: \"THE CREATION OF SWEETHEART\"
+      text: \"STWORZENIE SLODZIUTKIEJ\"
+
 
 message_916:
-      text: \"SWEETHEARTNICA\"
+      text: \"SŁODZIARTNICA\"
+
 
 message_917:
-      text: \"THE BIRTH OF SWEETHEART\"
+      text: \"NARODZINY SLODZIUTKIEJ\"
+
 
 message_918:
-      text: \"SWEETHEART WITH THE HEART EARRING\"
+      text: \"SŁODZIUTKA Z PERŁĄ\"
+
 
 message_919:
-      text: \"SWEETHEART CROSSING THE DELAWARE\"
+      text: \"SŁODZIUTKA PRZEKRACZAJĄCA DELAWARE\"
+
 
 message_920:
-      text: \"SWEETHEART EATING A BURRITO\"
+      text: \"SŁODZIUTKA POCHŁANIAJĄCA BURRITO\"
+
 
 message_921:
-      text: \"THE SWING (SWEETTIME)\"
+      text: \"HUŚTAWKA (WIOSNA)\"
+
 
 #======== ORANGE JOE'S Cliff ======
 
+
 message_922:
-      text: An orange pool.
+      text: Pomarańczowy basen.
+
 
 #======== Train Baggage ======
+
 
 message_923:
-      text: A case full of little bones.
+      text: Torba pełna małych kości.
+
 
 message_924:
-      text: A case full of crystals.
+      text: Torba pełna kryształów.
+
 
 message_925:
-      text: A case full of crosses.
+      text: Torba pełna krzyży.
+
 
 message_926:
-      text: A case full of spider webs.
+      text: Torba pełna pajęczyn.
+
 
 message_927:
-      text: A bag full of berries.
+      text: Torba pełna jagód.
+
 
 message_928:
-      text: A bag full of dirt.
+      text: Torba pełna błota.
+
 
 #======== Train Baggage ======
 
+
 message_930:
-      text: A bed for \c[3]DONUTS\c[0].
+      text: Łóżko dla \c[3]PĄCZKA\c[0].
+
 
 #LAST RESORT Concierge
 
+
 message_931:
-      text: AUBREY's planner.\! A tightly-packed color-coded schedule for the next few weeks is written neatly in color pencils and crayon.
+      text: Terminarz AUBREY.\! Zwięzły, pogrupowany kolorami harmonogram na następne kilka tygodni, zapisany starannie kredkami i cienkopisami.
+
 
 #ORANGES
 
+
 message_932:
-      text: Oranges with notes written on them.
+      text: Pomarańcze z zapisanymi na nich notkami .
+
 
 message_933:
-      text: \"To my dear brother ORAGNE JOE.\! I hope this message finds its way to you.\! Please come home.\"
+      text: \"Do mojego drogiego brata, POMARAŃCZOWEGO JASIA.\! Mam nadzieję, że ta wiadomość do ciebie dotrze.\! Proszę wróć do domu.\"
+
 
 message_934:
-      text: An orange-like fruit.
+      text: Pomarańczopodobny owoc .
+
 
 message_935:
-      text: Glasses of juice that are orange and orange-like.
+      text: Szklanki soku pomarańczowego i pomarańczopodobnego.
+
 
 #tire SWING
 
+
 message_936:
-      text: Just a tire swing.
+      text: To tylko huśtawka z opony.
+
 
 #PANTRY
 message_937:
-      text: Big jars of honey.
+      text: Duże słoiki miodu.
+
 
 message_938:
-      text: Holy kitchen.
+      text: Święta kuchnia.
+
 
 #Quarters
 
+
 message_939:
-      text: A bed for SPROUT MOLES.\! Smells like dirty laundry.
+      text: Łóżko dla KIEŁKUNÓW.\! Pachnie jak brudne pranie.
+
 
 #LAST RESORT OUTSIDE
 
+
 message_940:
-      text: Fancy vacation tables.
+      text: Eleganckie stoliczki.
+
 
 #MARINA office
 
+
 message_941:
-      text: Plans for a successful experiment.
+      text: Plany udanego eksperymentu.
+
 
 message_942:
-      text: A box filled with goo.
+      text: Pudło wypełnione mazią
+
 
 message_943:
-      text: A table covered in goo.
+      text: Stół pokryty mazią
+
 
 message_944:
-      text: A broken computer.
+      text: Zepsuty komputer
+
 
 message_945:
-      text: Plans for a failed experiment.
+      text: Plany nieudanego eksperymentu
+
 
 message_946:
-      text: Remnants of an old office.
+      text: Pozostałości po starym biurze.
+
+
 
 
 #poKE
 
+
 message_950:
-      text: Do you want to poke the glass?
+      text: Chcesz stuknąć w szkło?
+
 
 message_951:
-      text: Do you want to poke the big TOAST?
+      text: Czy chcesz stuknąć dużego TOSTA?
+
 
 #orange Oasis
 
+
 message_952:
-      text: Holy cow.
+      text: Rany Julek.
+
 
 #girls bathroom
 
+
 message_953:
-      text: \n<PINK MIRROR>I am the mirror on the wall,\| and I dub thee...\|<br>the cutest one of them all!
+      text: \n<RÓŻOWE LUSTRO>Ja lustereczko,\| mówię przecie...\|<br>żeś najsłodszy jest na świecie!

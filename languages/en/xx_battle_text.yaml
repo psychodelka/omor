@@ -1513,7 +1513,7 @@ message_291:
 # Encouragement
 message_292:
    text: >
-    \>???: \<Musisz brnąć dalej.\!<br>Nie poddawaj się.\! Nieważne, jak bardzo niemożliwe by się to wydawało...
+    \>???: \<Musisz brnąć dalej.\!<br>Nie możesz się teraz poddać.<br>Nieważne, jak bardzo niemożliwe by się to wydawało...
 
 # \n[8] gains PERSIST
 message_293:

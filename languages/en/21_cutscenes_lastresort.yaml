@@ -667,7 +667,7 @@ message_133:
 #Trigger: Defeat Pluto.
  
 message_150:
-      text: Uff... Uff...\! Naprawdę daliście czadu.\! <br>Uff... \! Jestem z was... taki dumny.\n<PLUTON>
+      text: Uff... Uff...\! Naprawdę daliście czadu.\! <br>Uff...\! Jestem z was... taki dumny.\n<PLUTON>
  
 message_151:
       text: Ale...\! Mimo wszystko... mam zadanie do wykonania.<br>I je wypełnię.\n<PLUTON>
@@ -693,7 +693,7 @@ message_155:
       text: Ech...\! Wyluzuj, PLUTONIE.<br>\!Już dzisiaj straciłem jednego wzorowego pracownika.\!<br>A nie chcę tracić drugiego!\n<PAN SZCZĘKOPAD>
  
 message_156:
-      text: Ale szefie, nie jestem w stanie ich pokonać!<br>Po prostu potrzebuję trochę więcej czasu.\n<PLUTON>
+      text: Ale szefie, jestem w stanie ich pokonać!<br>Po prostu potrzebuję trochę więcej czasu.\n<PLUTON>
  
 message_157:
       text: Na spokojnie, PLUTON.<br>Wykonałeś kawał dobrej roboty.\n<PAN SZCZĘKOPAD>
@@ -726,7 +726,7 @@ message_162:
 message_163:
       faceset: MainCharacters_DreamWorld
       faceindex: 43
-      text: PANIE SZCZĘKOPADZIE...\! Zanim wyruszymy...\!<br>I chciałbym panu powiedzieć, że...\her
+      text: PANIE SZCZĘKOPADZIE...\! Zanim wyruszymy...\!<br>Chciałbym panu powiedzieć, że...\her
  
 message_164:
       faceset: MainCharacters_DreamWorld

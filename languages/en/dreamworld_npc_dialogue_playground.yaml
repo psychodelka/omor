@@ -55,7 +55,7 @@ message_10:
 #Happy
 #Location: Forest Playground
 message_11:
-      text: \n<SZCZĘŚLIWCIA>\SINV[1]Hop! \!\}I-\{Hop! \!\}I-\{Hop! \!\}I-\{Hop!\SINV[0]
+      text: \n<SZCZĘŚLIWCIA>\SINV[1]Hop! \!\}I \{hop! \!\}I \{hop! \!\}I \{hop!\SINV[0]
 #After Cutscene: Lost Ball
  
 #epilgoue
@@ -198,7 +198,7 @@ message_76:
 message_77:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aubSkoro już się podjęłam... \!To dam z siebie wszystko!
+      text: \aubSkoro już się tego podjęłam... \!To dam z siebie wszystko!
  
 message_78:
       text: \ber\QUAKE[1]\Com[2]\{BU\{\Com[2]UUU\{UUUU\{\Com[2]UUMMMMMMMMMMMMMM!!!\QUAKE[0]
@@ -377,7 +377,7 @@ message_113:
 message_114:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelAle BERLY... To ja! \!Twój stary kumpel, KEL! \!<br>Ja i ty znamy się od dawna!<br>\!Pomyśl o wszystkich dobrych chwilach, które razem przeżyliśmy...
+      text: \kelAle BERLY... To ja! \!Twój stary kumpel, KEL! \!<br>Ja i ty znamy się od dawna!<br>\!Pomyśl o wszystkich dobrych chwilach,<br>które razem przeżyliśmy...
 message_115:
       text: \ber\Com[2]Hej, odpuść sobie! Nie bez powodu zrobili ze mnie szefową ochrony! \!Chcieli kogoś stanowczego... \!Kogoś, kto mógłby podjąć trudne decyzje! \!Osobę z tęgą głową!
 message_116:

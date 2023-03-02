@@ -145,7 +145,7 @@ message_23:
       text: Słyszysz mamrot ze środka pudełka.
  
 message_24:
-      text: \fn<OMORI_GAME>To był tylko wypadek. To był tylko wypadek. To był tylko wypadek. <br>To był tylko wypadek. To był tylko wypadek. To był tylko wypadek. To był tylko wypadek. <br>To był tylko wypadek. \quake[1]To był tylko wypadek.\quake[0]
+      text: \fn<OMORI_GAME>To był tylko wypadek. To był tylko wypadek.<br>To był tylko wypadek. To był tylko wypadek.<br>To był tylko wypadek. To był tylko wypadek.<br>\<\fn<OMORI_GAME>To był tylko wypadek. To był tylko wypadek.<br>\quake[1]To był tylko wypadek.\quake[0]
  
 message_25:
       text: Znalazłeś zeszyt.\! To samo zdanie jest powielone wiele razy.
@@ -329,19 +329,19 @@ message_115:
 # ========================================================================================
  
 message_130:
-      text: \n<OMOLI>\}Głodny...
+      text: \n<KIEŁKORI>\}Głodny...
  
 message_131:
-      text: \n<OMOLI>\}Poratuj... Kierowniku...
+      text: \n<KIEŁKORI>\}Poratuj... Kierowniku...
  
 message_132:
-      text: Chcesz dać DWADZIEŚCIA DOLARÓW OMOLIEMU?
+      text: Chcesz dać DWADZIEŚCIA DOLARÓW KIEŁKORIEMU?
  
 message_133:
       text: Nie masz DWUDZIESTU DOLARÓW.
  
 message_134:
-      text: \n<OMOLI>\}Dzienks...
+      text: \n<KIEŁKORI>\}Dzienks...
  
 message_135:
       text: \n<DUŻA KIESZEŃ>Będę tańczyć!

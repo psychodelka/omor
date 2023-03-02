@@ -550,7 +550,7 @@ message_181:
 message_185:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marPrzez cały ten czas POMARAŃCZOWY JAŚ nie zaprzestał poszukiwań swojego zagubionego brata.\. Jego determinacja tak inspiruje...\. Kto wie?\. Jego brat może być bliżej, niż nam się wydaje...\.\^
+      text: \marPrzez cały ten czas POMARAŃCZOWY JAŚ nie zaprzestał poszukiwań swojego zagubionego brata.\. Jego determinacja tak inspiruje...\. Kto wie?\. Jego brat może być bliżej,<br>niż nam się wydaje...\.\^
 
 message_186:
       faceset: MainCharacter_Mari
@@ -764,7 +764,7 @@ message_261:
 message_260:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marPESSI zaczeka się w tej kolejce...\. Może powinniśmy powiedzieć mu, że już się skończyło?\.\^
+      text: \marPESSI zaczeka się w tej kolejce...\. Może powinniśmy powiedzieć mu, że ślub już się skończył?\.\^
 
 # =========================================================================================
 
@@ -834,7 +834,7 @@ message_274:
 message_275:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marMyślicie, że BASIL jakimś cudem się tutaj przypałętał?\. Jestem pewna, że przywitałby się, gdyby mnie zauważył.\. Poczęstowałabym go masą JABŁEK W KARMELU, nawet jeśli nie lubi słodyczy!\.\^
+      text: \marMyślicie, że BASIL jakimś cudem się tutaj przypałętał?\. Jestem pewna, że przywitałby się, gdyby mnie zauważył.\. Poczęstowałabym go masą JABŁEK W KARMELU,<br>nawet jeśli nie lubi słodyczy!\.\^
 
 #Rain town
 message_276:
@@ -883,7 +883,7 @@ message_282:
 message_283:
         faceset: MainCharacter_Mari
         faceindex: 0
-        text: \marHej! Możecie wykorzystać tu znalezione przez was \c[4]BILETY NA SPEKTAKL\c[0].\. Ale lepiej najpierw rozejrzeć się, czy nie ma tu BASILA.<br><br>Czy KIEŁKUNY mogą coś wiedzieć?\. Kto pyta, nie błądzi!\.\^
+        text: \marHej! Możecie wykorzystać tu znalezione przez was \c[4]BILETY NA SPEKTAKL\c[0].\. Ale lepiej najpierw rozejrzeć się, czy nie ma tu BASILA.<br>Czy KIEŁKUNY mogą coś wiedzieć?\. Kto pyta, nie błądzi!\.\^
 
 #Underground Dungeon
 message_284:

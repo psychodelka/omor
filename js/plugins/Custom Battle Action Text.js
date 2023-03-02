@@ -197,7 +197,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
     case 'ATTACK': // ATTACK
       if (target.name() === $gameActors.actor(8).name()) {
         text = user.name() + ' cię atakuje!\r\n';
-      } else if (target._doesUseAlternateForms2()) {
+      } else if (user._doesUseAlternateForms2()) {
         text = user.name() + ' atakują ' + target._altName() + '!\r\n';
       } else {
         text = user.name() + ' atakuje ' + target._altName() + '!\r\n';
@@ -2408,7 +2408,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       break;
 
     case 'EXPAND NOTHING':  // PLUTO NOTHING
-      text = user.name() + 'onieśmiela cię swoimi mięśniami.';
+      text = user.name() + ' onieśmiela cię swoimi mięśniami.';
       break;
 
     //RIGHT ARM//
@@ -3960,7 +3960,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
 //=============================================================================
 // * Display Custom Action Text
 //=============================================================================
-const MAX_CHAR_IN_LINE = 36;
+const MAX_CHAR_IN_LINE = 35;
 
 Window_BattleLog.prototype.displayCustomActionText = function (subject, target, item) {
   // Make Custom Action Text
@@ -4000,6 +4000,10 @@ Window_BattleLog.prototype.displayCustomActionText = function (subject, target, 
 Window_BattleLog.prototype.displayHpDamage = function(target) {
   let text = this.makeHpDamageText(target);
 
+  if (target._doesUseAlternateForms2()) {
+    text = text.replace('otrzymuje', 'otrzymują');
+  }
+
   if (target.result().hpAffected) {
       if (target.result().hpDamage > 0 && !target.result().drain) {
           this.push('performDamage', target);
@@ -4018,6 +4022,19 @@ Window_BattleLog.prototype.displayHpDamage = function(target) {
       }
       text = this.changeDamageForm(text, target);
       this.push('addText', text);
+  }
+};
+
+Window_BattleLog.prototype.displayMpDamage = function(target) {
+  if (target._doesUseAlternateForms2()) {
+    text = text.replace('traci', 'tracą');
+  }
+
+  if (target.isAlive() && target.result().mpDamage !== 0) {
+      if (target.result().mpDamage < 0) {
+          this.push('performRecovery', target);
+      }
+      this.push('addText', this.makeMpDamageText(target));
   }
 };
 

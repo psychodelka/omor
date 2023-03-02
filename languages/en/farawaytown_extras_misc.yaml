@@ -614,7 +614,7 @@ message_610:
 message_612:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelWiesz...\! Kiedy MARI odeszła...\! HERO...\! Wszystko przestało obchodzić HERO.<br><br>Nie chciał wychodzić z łóżka do szkoły, nawet po jedzenie.\! Przestał o siebie dbać, przestał piec i gotować...
+      text: \kelWiesz...\! Kiedy MARI odeszła...\! HERO...\! Wszystko przestało go obchodzić.<br><br>Nie chciał wychodzić z łóżka do szkoły, nawet po jedzenie.\! Przestał o siebie dbać, przestał piec i gotować...
  
 message_613:
       faceset: MainCharacters_Faraway

@@ -3,7 +3,7 @@
 # =========================================================================================
  
 message_0:
-    text: \n<GIGANTOS>Właśnie przygotowuję otwarcie najnowszej, odjazdowej atrakcji, ale jestem jeszcze w trakcie.\! Śmiało wpadnijcie później...\! Najlepiej jutro!
+    text: \n<GIGANTOS>Właśnie przygotowuję otwarcie najnowszej, odjazdowej atrakcji, ale jestem jeszcze w trakcie budowy.\! Śmiało wpadnijcie później...\! Najlepiej jutro!
  
 #BYSIO
  
@@ -20,7 +20,7 @@ message_4:
     text: \n<BYSIO>A więc macie ochotę stawić czoło PĘDZIWROGOM?
  
 message_5:
-    text: \n<BYSIO>\sinv[1]Superowo!\sinv[0]No to przygotujmy dla was stanowisko.
+    text: \n<BYSIO>\sinv[1]Superowo!\sinv[0] No to przygotujmy dla was stanowisko.
  
 message_12:
     text: \n<BYSIO>Ojoj...\! No dobra. Może następnym razem!
@@ -42,7 +42,7 @@ message_7:
     text: \n<BYSIO>Podejdźcie do teleportu po prawej.\! Wasza pierwsza walka od razu się zacznie.
  
 message_8:
-    text: \n<BYSIO>Ach, i pamiętajcie, aby dbać o swoje zdrowie!\! MARI była taka życzliwa i zostawiła wam swój koszyk...\! na waszym miejscu zrobiłbym zapas \c[3]PRZEKĄSEK\c[0] i \c[5]ZABAWEK\c[0] ze skrzynki pocztowej, póki nie zaczęliście.
+    text: \n<BYSIO>Ach, i pamiętajcie, aby dbać o swoje zdrowie!\! MARI była taka życzliwa i zostawiła wam swój koszyk...\! na waszym miejscu kupiłbym zapas \c[3]PRZEKĄSEK\c[0] i \c[5]ZABAWEK\c[0] ze skrzynki,<br>póki nie zaczęliście.
  
 message_9:
     text: \n<BYSIO>Powodzenia!\! \com[2]Jazda z nimi!

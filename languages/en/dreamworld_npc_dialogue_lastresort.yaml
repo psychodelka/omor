@@ -326,7 +326,7 @@ message_96:
 #ALI GATOR
 #Location: Forest Playground
 message_60:
-      text: \n<ALI GATOR>\SINV[1]Hop! \!\}I-\{Hop! \!\}I-\{Hop! \!\}I-\{Hop!\SINV[0]
+      text: \n<ALI GATOR>\SINV[1]Hop! \!\}I \{hop! \!\}I \{hop! \!\}I \{hop!\SINV[0]
  
 #ALI GATOR
 #Location: Mustard Submersible
@@ -373,7 +373,7 @@ message_68:
 #ALI GATOR
 #Location: OSTATNIA PRZYSTAŃ
 message_69:
-      text: \n<ALI GATOR> Jak tam, szefie?\! Chce pan darmową \c[5]RECEPTURKĘ\c[0]?\!<br>Niech się szef nie martwi.\! Na mój koszt!
+      text: \n<ALI GATOR>Jak tam, szefie?\! Chce pan darmową \c[5]RECEPTURKĘ\c[0]?\!<br>Niech się szef nie martwi.\! Na mój koszt!
  
 message_70:
       text: \n<ALI GATOR>Hej, nie chciałby pan jeszcze jednej \c[5]RECEPTURKI\c[0]?\!<br>Proszę brać, śmiało!\! Dla pana wszystko, szefie.

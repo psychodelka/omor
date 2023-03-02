@@ -1,462 +1,588 @@
 
+
 # =========================================================================================
 # Pet Rock Battles
 # =========================================================================================
+
+
 
 
 # =========================================================================================
 #KEL- PLUTO
 # =========================================================================================
 
+
 #before fight
+
 
 message_0:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelWhoa! Hold on a sec, \n[8]!\! <br>Is that a \c[13]PET ROCK\c[0] you just bought?
+      text: \kelHola, hola! Czekaj, \n[8]!\!<br>Czy ty właśnie kupiłeś \c[13]GŁAZIKA\c[0]?
+
 
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelWow!\! I don't believe it...\! This is really strange since we haven't played since we were kids...\! but it just so happens that I have mine, too!
+      text: \kelJa cię!\! Nie wierzę własnym oczom...\! Jakoś tak dziwnie, tym bardziej że ostatni raz bawiliśmy się za dzieciaka...\! ale patrz, akurat mam swojego pod ręką!
+
 
 #KEL takes something out of his pocket.
+
 
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelRight here!
+      text: \kelO tu!
+
 
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelSuch a weird coincidence, huh?
+      text: \kelPrzypadek? Nie sądzę.
+
 
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelHey, I have an idea!\! Why don't we battle with our \c[13]PET ROCKS\c[0]?\! You still remember how to play, right?
+      text: \kelEj, mam pomysł!\! Może zawalczymy naszymi \c[13]GŁAZIKAMI\c[0]?\! Pamiętasz, jak się gra, mam rację?
 #yes
+
 
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelAwesome!\! I thought you would...
+      text: \kelBomba!\! Już myślałem, że...
+
 
 message_6:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \kel\sinv[1]Awww, yeahhhhh...\!\sinv[0] I'm pumped!
+      text: \kel\sinv[1]Ooo taaaaaaaaaaaa...\!\sinv[0] To się rozumie!
+
 
 message_7:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \kel\com[2]\sinv[1]\{\{NOW, LET'S CLASH!!
+      text: \kel\com[2]\sinv[1]\{\{A TERAZ PORA NA STARCIE!!
+
 
 #no
+
 
 message_8:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelHaha...\! Don't worry.\! Even if you don't, it's really easy to catch on...\! You'll get it in no time!
+      text: \kelHaha...\! Nie szkodzi.\! To nie jest trudna gra, więc szybko to ogarniesz...\! Nauczę cię!
+
+
 
 
 #after victory
 message_9:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelOh shoot, I lost...\! I guess I'm pretty rusty...\! <br>Well, that's okay.
+      text: \kelO cholibka, przegrałem...\! To przez to, że wyszedłem już z wprawy...\! <br>No cóż, bywa.
+
 
 message_10:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelYou were always the one who was good at video games anyway!\! I guess you're the same old \n[8] after all!
+      text: \kelPoza tym, to ty zawsze wymiatałeś w gry wideo!\! Wygląda na to, że stary dobry \n[8] nic a nic się nie zmienił!
+
+
 
 
 #after loss
 
+
 message_12:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelHeh, heh...\! I guess you're pretty rusty, huh?\! <br>Well, that's okay.\! I'm sure you'll get the hang of it.
+      text: \kelHe, he...\! Dawno się nie grało, co nie?\! <br>Nie szkodzi.\! Szybko to załapiesz.
+
 
 message_13:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelI know it's been a while, so let me give you a refresher.\! \c[13]PET ROCKS\c[0] is a game where you and your pets team up and battle, or CLASH!
+      text: \kelParę lat minęło, więc pomogę ci odświeżyć pamięć.\! W \c[13]GŁAZIKACH\c[0] chodzi o to, by stworzyć drużynę z twoimi kamyczkami, a następnie stanąć do walki, bądź STARCIA!
+
 
 message_14:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelIf you wear your \c[13]PET ROCK\c[0] as a CHARM...\! you can find other players with \c[13]PET ROCKS\c[0] and challenge them!
+      text: \kelJeśli używasz swojego \c[13]GŁAZIKA\c[0] jako GADŻETU...\! możesz poszukać innych koksów z \c[13]GŁAZIKAMI\c[0], by się z nimi zmierzyć!
+
 
 message_15:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelFrom what I hear...\! the reigning champ lives somewhere around here...\! but no one knows what they look like.
+      text: \kelZ tego co wiem...\! aktualny mistrzu podziewa się na tym terenie...\! ale nikt nie wie, jak on wygląda.
+
 
 message_16:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelKinda mysterious, huh?\! Who knows?\! <br>Maybe we'll get to meet them one day!
+      text: \kelTrochę tajemniczo, co nie?\! Kto wie?\! <br>Może pewnego dnia się z nim spotkamy!
+
+
 
 
 # =========================================================================================
 #TOMATOGIRL
 # =========================================================================================
 
+
 #Intro
 
+
 message_20:
-      text: \n<COLORFUL GIRL>Oh!\! I see you have a \c[13]PET ROCK\c[0]!\! Did you want to CLASH?
+      text: \n<KOLOROWA>O!\! Zdaje mi się, że masz \c[13]GŁAZIKA\c[0]!\! Masz ochotę na STARCIE?
+
 
 #yes
 message_21:
-      text: \n<COLORFUL GIRL>Okay!\! I've been training my TOMATOGIRL since I was a kid!\!<br>I won't lose to you!
+      text: \n<KOLOROWA>Dobrze!\! Ćwiczyłam z moją POMIDORANNĄ od lat!\!<br>Nie macie z nami szans!
+
 
 #player win
 message_22:
-      text: \n<COLORFUL GIRL>Aww... Darn...\! It's okay, TOMATOGIRL. It's not your fault...\! You tried your best!
+      text: \n<KOLOROWA>Oj... Kurka...\! Nic się nie stało, POMIDORANNO. To nie twoja wina...\! Dałaś z siebie wszystko!
+
 
 #player loses
 message_23:
-      text: \n<COLORFUL GIRL>Yay!\! We did it!\! I knew you could win, TOMATOGIRL!
+      text: \n<KOLOROWA>Tak!\! Udało nam się!\! Wiedziałam, że im pokażesz, POMIDORANNO!
+
 
 message_150:
-      text: \n<COLORFUL GIRL>No problem! Let me know if you want to CLASH sometime!
+      text: \n<KOLOROWA>Nie szkodzi! Daj znać, jakby kiedyś naszła cię ochota na rundkę!
+
+
 
 
 # =========================================================================================
       #MUNCHER KING
 # =========================================================================================
 
+
 #Intro
 #Reference Farawaytown_dialogue_tucker: messages 16,17,18,20,21
 
+
 #reward
 message_140:
-      text: \n<CREEPY GUY>I bequeath this hat to you which I see you look upon with awe...\! Now, begone!
+      text: \n<OBLECH>Powierzam wam tą czapkę, którą godnie podziwiacie...\! A teraz znikać mi stąd!
+
 
 # =========================================================================================
 #ROSE LAD
 # =========================================================================================
 
+
 #Intro
 message_35:
-      text: \n<PRETTY BOY>Hey, is that a \c[13]PET ROCK\c[0]?\! I have one too!\!<br>Did you want to CLASH?
+      text: \n<PIĘKNIŚ>Ej, czy to nie \c[13]GŁAZIK\c[0]?\! Też mam takiego!\!<br>Masz ochotę na STARCIE?
 #yes
 message_36:
-      text: \n<PRETTY BOY>Yay, sounds fun! Let's both do our best!\! Go, ROSE LAD! I believe in you!
+      text: \n<PIĘKNIŚ>No i super! Dajmy z siebie wszystko!\! Dawaj, RÓŻYCZKO! Wierzę w ciebie!
 #player win
 message_37:
-      text: \n<PRETTY BOY>ROSE LAD, are you okay?\! There, there... You take a good rest now.
+      text: \n<PIĘKNIŚ>Wszystko dobrze, RÓŻYCZKO?\! Już, już... Odsapnij sobie.
+
 
 message_38:
-      text: \n<PRETTY BOY>Haha... That was fun!\! Thanks for challenging me.\! I guess I need to train ROSE LAD a little bit more...
+      text: \n<PIĘKNIŚ>Haha... Nieźle!\! Dziękuję za pojedynek.\! Chyba będę musiał nadrobić zaległości z RÓŻYCZKĄ...
 #player loses
 message_39:
-      text: \n<PRETTY BOY>Hey, what do ya know!\! That was a good battle, but maybe you need a little more practice...\! We did it, ROSE LAD!\! You're the best!
+      text: \n<PIĘKNIŚ>No widzisz!\! To była dobra walka, ale chyba musicie nadrobić zaległości...\! Udało nam się, RÓŻYCZKO!\! Jesteś niesamowita!
+
 
 message_40:
-      text: \n<PRETTY BOY>Awww... But it's so fun to CLASH...\! Maybe next time!
+      text: \n<PIĘKNIŚ>Oooch... A tak dobrze się bawię przy STARCIACH...\! Może kiedy indziej!
+
 
 # =========================================================================================
       #SAUCY K
 # =========================================================================================
 
+
 #Intro
 message_42:
-      text: \n<ANGEL>Whoa, there! You got a \c[13]PET ROCK\c[0]?\! You have to challenge me to a CLASH!\! No one can defeat my SAUCY-K!<br>He's the best \c[13]PET ROCK\c[0] ever and I'll prove it!
+      text: \n<ANGEL>Ej, młody! Masz \c[13]GŁAZIKA\c[0]?\! Musimy się zmierzyć!\! Nie masz szans z moim MŁODYM SOSIKIEM!<br>Jest najlepszym \c[13]GŁAZIKIEM\c[0] na świecie i zaraz się o tym przekonacie!
 #yes
 message_43:
-      text: \n<ANGEL>You're biting way more than you can chew!\! Come on, SAUCY-K!\! Let's show them who's the stronger one here!
+      text: \n<ANGEL>Tylko nie przelicz się ze swoimi umiejętnościami!\! No dawaj, MŁODY SOSIKU!\! Pokażemy im, kto tu rządzi!
 #no
 message_44:
-      text: \n<ANGEL>Wow... Fine!\! Be a chicken!
+      text: \n<ANGEL>A... Czyli tak się bawisz!\! Ciota!
 #player win
 message_45:
-      text: \n<ANGEL>\com[2]\{\sinv[1]SAUCY-K!!\! NOOO\{OOO\{OOO\{OOO!!
+      text: \n<ANGEL>\com[2]\{\sinv[1]MŁODY SOSIKU!!\! NIEEE\{EEE\{EEE\{EEE!!
+
 
 message_46:
-      text: \n<ANGEL>Sniff...\! You bully!
+      text: \n<ANGEL>Chlip...\! Ty świnio!
+
 
 #player loses
 message_47:
-      text: \n<ANGEL>What did I tell you!\! SAUCY-K is the best!\! <br>You're light years away from defeating us!
+      text: \n<ANGEL>A nie mówiłem?!\! MŁODY SOSIK jest najlepszy!\! <br>Przy nim twój GŁAZIK jest ziarenkiem piasku!
+
 
 # =========================================================================================
       #BUNNY
 # =========================================================================================
 
+
 #Intro
 message_50:
-      text: \n<RAI>Whoa, you have a \c[13]PET ROCK\c[0] too?\! I just got into \c[13]PET ROCKS\c[0] not too long ago...
+      text: \n<RAI>Ja cię, też masz \c[13]GŁAZIKA\c[0]?\! Tak się składa, że niedawno wkręciłem się w \c[13]GŁAZIKI\c[0]...
+
 
 message_51:
-      text: \n<RAI>Mine is still in its beginning stages, but I'm sure it'll be powerful someday!\! Do you want to CLASH?
+      text: \n<RAI>Mój dalej jest zielony, lecz jak to mawiają, trening czyni mistrza!\! Masz ochotę na STARCIE?
+
 
 #yes
 message_52:
-      text: \n<RAI>Sweet!\! Come on, BUNNY!\! Let's work together!
+      text: \n<RAI>Wyśmienicie!\! Dawaj, KRÓLISIU!\! Dajmy czadu!
 #player win
 message_53:
-      text: \n<RAI>Darn...\! Your \c[13]PET ROCK\c[0] is pretty strong.\! I guess me and BUNNY still have a way to go before we catch up to you.
+      text: \n<RAI>Kurka...\! Twój \c[13]GŁAZIK\c[0] to nie byle gruz.\! Coś czuję, że przed nami długa droga do zwycięstwa, KRÓLISIU.
 #player loses
 message_54:
-      text: \n<RAI>Whoa, we won!\! I really didn't expect that... but a win's a win! Haha!
+      text: \n<RAI>Łoo, wygraliśmy!\! Naprawdę się tego nie spodziewałem... a jednak! Haha!
+
 
 message_200:
-      text: \n<RAI>Awww...\! But me and BUNNY need to practice...
+      text: \n<RAI>Ochhh...\! A chciałem poćwiczyć z KRÓLISIEM...
+
 
 # =========================================================================================
       #PAPA CHIP
 # =========================================================================================
 
+
 #Intro
 message_55:
-      text: \n<A TWIN>\sinv[1]Ah... I see that you have a \c[13]PET ROCK\c[0], too.
+      text: \n<BLIŹNIACZKA>\sinv[1]Ach... Widzę, że również masz \c[13]GŁAZIKA\c[0].
+
 
 message_56:
-      text: \n<THE OTHER TWIN>\sinv[1]Would you...\! perhaps...\! like to...\! CLASH?
+      text: \n<BLIŹNIAK>\sinv[1]Czy masz...\! ochotę...\! na...\! STARCIE?
 #yes
 message_57:
-      text: \n<A TWIN>Hmm...\! Hmm...\! Confident, are we?\! You won't win so easily...
+      text: \n<BLIŹNIACZKA>Hmm...\! Hmm...\! Stanowczo, tak?\! Nie będzie tak łatwo...
+
 
 message_58:
-      text: \n<THE OTHER TWIN>PAPA CHIP!\! Let us show them our power!
+      text: \n<BLIŹNIAK>PAPO CHRUPCIU!\! Pokaż im, na co cię stać!
+
 
 #player win
 message_59:
-      text: \n<THE OTHER TWIN>Defeat?
+      text: \n<BLIŹNIAK>Przegrana?
+
 
 message_60:
-      text: \n<A TWIN>Hmm...\! Yes...\! It seems that we have lost this round...
+      text: \n<BLIŹNIACZKA>Hmm...\! Tak...\! Wygląda na to, że przegraliśmy tę rundę...
+
 
 message_61:
-      text: \n<THE OTHER TWIN>Unfortunate...
+      text: \n<BLIŹNIAK>Fatalnie...
+
+
 
 
 #player loses
 
+
 message_65:
-      text: \n<THE OTHER TWIN>Victory?
+      text: \n<BLIŹNIAK>Zwycięstwo?
+
 
 message_66:
-      text: \n<A TWIN>Hmm...\! Yes...\! It seems that we have won...
+      text: \n<BLIŹNIACZKA>Hmm...\! Tak...\! Wygląda na to, że zwyciężyliśmy tę rundę...
+
 
 message_67:
-      text: \n<THE OTHER TWIN>Excellent.
+      text: \n<BLIŹNIAK>Fantastycznie.
+
 
 # If defeated at least 4 pet rock challengers
 #Leave hobbeez
 
+
 message_71:
-      text: \n<SHOPKEEP>Hey, \n[8]!\! I've heard that you've been CLASHING with \c[13]PET ROCKS\c[0] all around town!
+      text: \n<KASJER>Ej, \n[8]!\! Doszły mnie słuchy, że toczysz STARCIA \c[13]GŁAZIKAMI\c[0] z całą okolicą!
+
 
 message_72:
-      text: \n<SHOPKEEP>If you want a real challenge, I know that some folks in the \c[11]FARAWAY PLAZA\c[0] are veterans at \c[13]PET ROCKS\c[0]...\! four of them, to be precise!
+      text: \n<KASJER>Jeśli masz ochotę na prawdziwe STARCIE, paru moich znajomych z terenu \c[11]GALERII DALEKOSTĄDZKIEJ\c[0] jest weteranami w grę w \c[13]GŁAZIKI\c[0]...\! czterech gostków, dokładniej mówiąc!
+
 
 message_75:
-      text: \n<SHOPKEEP>They don't normally challenge newbies... but for you, I'm sure they'll make an exception!
+      text: \n<KASJER>Zwykle nie zadzierają z świeżakami... ale jestem pewien, że zrobią dla was wyjątek!
+
 
 message_73:
-      text: \n<SHOPKEEP>You should try to talk to some shop staff and frequent customers in the area...\! They'll be sure to test your strength to the limit!
+      text: \n<KASJER>Zagadajcie do pracowników bądź stałych klientów...\! Ostrzegam, że nie dają forów!
+
 
 # =========================================================================================
       #OCOTAKO
 # =========================================================================================
 
+
 #Intro
 message_85:
-      text: \n<CUTE GIRL>O-Oh!\! H-Hello, there...
+      text: \n<UROCZA DZIEWCZYNKA>O-o!\! H-hejka...
+
 
 message_86:
-      text: \n<CUTE GIRL>Hmmm... I see...\! You're carrying a \c[13]PET ROCK\c[0], so that means you want to CLASH!
+      text: \n<UROCZA DZIEWCZYNKA>Hmmm... A więc tak...\! Masz przy sobie \c[13]GŁAZIKA\c[0], czyli musisz chcieć stoczyć ze mną STARCIE!
+
 
 message_87:
-      text: \n<CUTE GIRL>...
+      text: \n<UROCZA DZIEWCZYNKA>...
+
 
 message_88:
-      text: \n<CUTE GIRL>I'll have you know us veterans are a bit tougher than your normal players.\! Do you still want to challenge me?
+      text: \n<UROCZA DZIEWCZYNKA>Ostrzegam, że my, weterani, jesteśmy troszkę mocniejsi od zwykłych graczy.\! Dalej chcesz ze mną zawalczyć?
 #yes
 message_89:
-      text: \n<CUTE GIRL>O-Okay!\! Come on, OCOTACO!\! Let's show them what it means to be a veteran!
+      text: \n<UROCZA DZIEWCZYNKA>O-oki!\! Chodź, OŚMIOTAKO!\! Pokażmy im, co sobą reprezentujemy!
+
 
 #No
 message_93:
-      text: \n<CUTE GIRL>That's understandable.\! I'll be here if you ever feel like you're ready.
+      text: \n<UROCZA DZIEWCZYNKA>Rozumiem.\! W razie co, będę czekać, póki nie będziesz gotów.
+
 
 #player win
 message_90:
-      text: \n<CUTE GIRL>W-We...\! lost?\! Wow...\! I'm really shocked...
+      text: \n<UROCZA DZIEWCZYNKA>M-my...\! przegraliśmy?\! Wow...\! Jestem pod wrażeniem...
+
 
 message_91:
-      text: \n<CUTE GIRL>I guess SHOPKEEP was right to send you to us.\! You seem to have a lot of potential.\! I'm sure you'll go far!
+      text: \n<UROCZA DZIEWCZYNKA>Widocznie KASJER się co do ciebie nie mylił.\! Masz naprawdę wielki talent.\! Wystarczy go doszlifować!
+
 
 #player loses
 message_92:
-      text: \n<CUTE GIRL>Good effort!\! You fought well, but I've been CLASHING alongside OCOTACO for years!\! Just keep practicing... You'll get better, I promise!
+      text: \n<UROCZA DZIEWCZYNKA>Dobra robota!\! Super ci szło, ale mimo wszystko trenowałam z OŚMIOTAKĄ przez lata!\! Nie zwalniaj tempa, a z czasem będziesz coraz lepszy, jestem przekonana!
+
+
 
 
 # =========================================================================================
       #LIL' G
 # =========================================================================================
 
+
 #Intro
 message_94:
-      text: \n<GLASSES MAN>Oh hey, that's a \c[13]PET ROCK\c[0] you have there!
+      text: \n<OKULARNIK>O, witam pana z \c[13]GŁAZIKIEM\c[0]!
+
 
 message_95:
-      text: \n<GLASSES MAN>If you're here...\! Then that must mean you know about the veterans of \c[11]FARAWAY PLAZA\c[0].
+      text: \n<OKULARNIK>Skoro tu jesteś...\! Musisz wiedzieć o weteranach z \c[11]GALERII DALEKOSTĄDZKIEJ\c[0].
+
 
 message_96:
-      text: \n<GLASSES MAN>And if SHOPKEEP sent you, that means you must be pretty good...\! Heh, heh...
+      text: \n<OKULARNIK>A jeśli usłyszałeś o nich od KASJERA, musisz być grubą rybą...\! He, he...
+
 
 message_97:
-      text: \n<GLASSES MAN>Well, here I am!\! Surprised?\! My real title is GINO, CLASHER OF JASH!\! Would you like to challenge me to a CLASH?
+      text: \n<OKULARNIK>Jeden z weteranów właśnie stoi przed tobą!\! Zaskoczony?\! Tak naprawdę jestem GINO, POGROMCA JÓZKÓW!\! Miałbyś ochotę stoczyć ze mną STARCIE?
+
 
 #yes
 message_98:
-      text: \n<GLASSES MAN>In that case...\! I, GINO, one of the four veterans of \c[11]FARAWAY PLAZA\c[0] will show you what it means to be a real pro!\!<br>Let's get ‘em, LIL' G!!
+      text: \n<OKULARNIK>W takim razie...\! Ja, GINO, jeden z czterech weteranów \c[11]GALERII DALEKOSTĄDZKIEJ\c[0], pokażę ci, jak walczy prawdziwy mistrz!\!<br>Bierzmy ich, MAŁY G!!
+
 
 #player win
 message_99:
-      text: \n<GLASSES MAN>\com[2]\{LIL' G!\! LIL' G!\! SPEAK TO ME!!
+      text: \n<OKULARNIK>\com[2]\{MAŁY G!\! MAŁY G!\! ODEZWIJ SIĘ!!
+
 
 message_100:
-      text: \n<GLASSES MAN>...
+      text: \n<OKULARNIK>...
+
 
 message_101:
-      text: \n<GLASSES MAN>Oh wait...\! You can't do that, can you?
+      text: \n<OKULARNIK>Och, czekaj...\! Nie potrafisz, co nie?
+
 
 message_102:
-      text: \n<GLASSES MAN>Well, that was a real doozy.\! Congrats on your end though, challenger!\! You and your \c[13]PET ROCK\c[0] did great!
+      text: \n<OKULARNIK>To była jazda bez trzymanki.\! Mimo wszystko gratuluję wygranej, śmiałku!\! Ty i twój \c[13]GŁAZIK\c[0] daliście czadu!
+
+
 
 
 message_103:
-      text: \n<GLASSES MAN>Maybe some of the other veterans would give you a bit more of a fight!
+      text: \n<OKULARNIK>Może inni weterani zafundują ci prawdziwe wyzwanie!
+
+
 
 
 #player loses
 message_104:
-      text: \n<GLASSES MAN>Yes! We did it, LIL' G!\! Heh... Well, you can't win them all.\! You tried... and that's what matters!
+      text: \n<OKULARNIK>Tak! Mamy to, MAŁY G!\! Heh... Nawet najlepszym zdarza się porażka.\! Najważniejsze jest to, że podeszłeś do walki!
+
 
 message_300:
-      text: \n<GLASSES MAN>\com[2]B-B-B-B-But why!?
+      text: \n<OKULARNIK>\com[2]A-a-a-a-ale czemu!?
+
 
 # =========================================================================================
       #P'terry
 # =========================================================================================
 
+
 #Intro
 message_105:
-      text: \n<FIX-IT GUY>Heh...\! I see you're showing off your \c[13]PET ROCK\c[0] there!\! I don't normally whip out my \c[13]PET ROCK\c[0] during work hours...\! but you must be really good if SHOPKEEP sent you.
+      text: \n<SPEC>Heh...\! Chyba korci cię twój \c[13]GŁAZIK\c[0]!\! Zwykle staram się trzymać mojego \c[13]GŁAZIKA\c[0] w kieszeni podczas pracy...\! ale przecież nie bez powodu KASJER cię tu przysłał.
+
 
 message_106:
-      text: \n<FIX-IT GUY>Are you ready for a \sinv[1]real\sinv[0] challenge?
+      text: \n<SPEC>Jesteś gotów na \sinv[1]prawdziwe\sinv[0] wyzwanie?
+
 
 #yes
 message_107:
-      text: \n<FIX-IT GUY>As one of the four veterans of \c[11]FARAWAY PLAZA\c[0], I have a reputation to uphold!\! If you're asking for a CLASH, I won't be going down so easily!
+      text: \n<SPEC>Jako jeden z czterech weteranów \c[11]GALERII DALEKOSTĄDZKIEJ\c[0], mam obowiązek trzymać poziom!\! Skoro masz ochotę na STARCIE, nie poddam się tak szybko!
+
 
 #player win
 message_108:
-      text: \n<FIX-IT GUY>\com[2]No way! This must be some sort of mistake...\! P'TERRY...\! How could we lose?\! \sinv[1]Sigh...\sinv[0]\! Whatever...\!<br>Back to work it is...
+      text: \n<SPEC>\com[2]Bez jaj! Nie, to musi być pomyłka...\! P'TER...\! Jakim prawem przegraliśmy?\! \sinv[1]Ech...\sinv[0]\! No cóż...\!<br>Chyba pora wrócić do pracy...
 #player loses
 message_109:
-      text: \n<FIX-IT GUY>Nice try, kid.\! That was pretty fun, but P'TERRY is the superior CLASHER!\! Better luck next time!
+      text: \n<SPEC>Nie jest źle, młody.\! Miło było, ale P’TER to bestia wśród GŁAZIKÓW!\! Powodzenia następnym razem!
+
 
 message_110:
-      text: \n<FIX-IT GUY>Ha! That's what I thought!
+      text: \n<SPEC>Ha! Tak myślałem!
+
 
 # =========================================================================================
       #Cool S
 # =========================================================================================
 
+
 #Intro
 message_115:
-      text: \n<SHOPKEEP>Ahh... \n[8]...\! You've come!\! I've heard from the other veterans that you've already defeated them...
+      text: \n<KASJER>Achh... \n[8]...\! Zjawiłeś się!\! Doszły mnie słuchy, że pokonałeś już innych weteranów...
+
 
 message_132:
-      text: \n<SHOPKEEP>Yes, that's right...\! I said...\! other veterans!
+      text: \n<KASJER>Tak, zgadza się...\! Powiedziałem...\! innych weteranów!
+
 
 message_116:
-      text: \n<SHOPKEEP>It's about time I've finally revealed myself!\!<br>I am SHOPKEEP, the strongest veteran of \c[11]FARAWAY PLAZA\c[0]!
+      text: \n<KASJER>W końcu mogę pokazać moją prawdziwą twarz!\!<br>Oto ja, KASJER, najsilniejszy weteran w \c[11]GALERII DALEKOSTĄDZKIEJ\c[0]!
+
 
 #yes
 message_117:
-      text: \n<SHOPKEEP>It's really impressive, \n[8]...\! In this short amount of time, you've managed to beat the best in our area...\! except me...
+      text: \n<KASJER>Zniewalające, \n[8]...\! W tak krótkim czasie udało ci się pokonać najsilniejszych z okolicy...\! z wyjątkiem mnie...
+
 
 message_118:
-      text: \n<SHOPKEEP>\n[8]...\! I must attest to your strength myself!\! You are going to have to fight me, right here and right now!
+      text: \n<KASJER>\n[8]...\! Chyba osobiście muszę ci pokazać, co potrafię!\! Musimy zawalczyć, tu i teraz!
+
 
 message_133:
-      text: \n<SHOPKEEP>Heh... I thought you'd say that...
+      text: \n<KASJER>Heh... Wiedziałem, że tak powiesz...
+
 
 message_121:
-      text: \n<SHOPKEEP>\com[2]\sinv[1]\{\{LET US CLASH!!
+      text: \n<KASJER>\com[2]\sinv[1]\{\{A WIĘC STOCZMY STARCIE!!
+
 
 #player win
 message_122:
-      text: \n<SHOPKEEP>Amazing...\! You're really amazing, \n[8]...
+      text: \n<KASJER>Niesamowite...\! Niesamowity z ciebie gość, \n[8]...
+
 
 message_123:
-      text: \n<SHOPKEEP>You may be even better than...\! No...\! <br>Nevermind...\! I may have already said too much.
+      text: \n<KASJER>Pewnie jestes lepszy nawet od...\! Nie...\! <br>Nie ważne...\! Nie powinienem ujawniać takich rzeczy.
+
 
 message_124:
-      text: \n<SHOPKEEP>As a prize for your victory, take this.
+      text: \n<KASJER>Trzymaj to w nagrodę.
+
 
 message_125:
-      text: \n<SHOPKEEP>Also...\! There is one veteran in \c[11]FARAWAY PLAZA\c[0] who is stronger than even me...
+      text: \n<KASJER>Ach, no tak. Słuchaj...\! Jest jeszcze jeden weteran \c[11]GALERII DALEKOSTĄDZKIEJ\c[0], który jest jeszcze mocniejszy ode mnie...
+
 
 message_126:
-      text: \n<SHOPKEEP>Some say that she may even be the strongest CLASHER in the entire world...\! but...\! she is elusive and keeps her identity a mystery...
+      text: \n<KASJER>Niektórzy twierdzą, że nie ma na świecie lepszego gracza od niej...\! ale...\! jest tajemniczą osobą i woli się sobą nie obwieszczać...
+
 
 message_127:
-      text: \n<SHOPKEEP>Though...\! I'm sure if you found her now she would be able to sense your strength as I have.
+      text: \n<KASJER>Ale...\! Jakbyś ją znalazł, wyczułaby twój potencjał, zupełnie jak ja.
+
 
 message_128:
-      text: \n<SHOPKEEP>If you choose to seek her out, you may regret it...\! but I won't be the one to stop you.
+      text: \n<KASJER>Być może będziesz żałował, że ją odnalazłeś...\! ale nie będę cię powstrzymywał.
+
 
 message_129:
-      text: \n<SHOPKEEP>Just be wary...\! She truly is a force to be reckoned with...\! ...\! You have been warned.
+      text: \n<KASJER>Ale wiedz jedno...\! Tylko najlepsi z najlepszych mają odwagę z nią zadzierać...\! ...\! Ostrzegam.
+
 
 #player loses
 
+
 message_130:
-      text: \n<SHOPKEEP>That was truly a splendid battle, \n[8]!\! You and JASH fought with all your strength, but alas, I remain victorious!
+      text: \n<KASJER>Czuję w was tę moc, \n[8]!\! Jestem przekonany, że daliście z siebie sto dwa procent. Mimo to, zwycięzcą zostaje ja!
+
 
 message_131:
-      text: \n<SHOPKEEP>Still, I must congratulate you.\! You have done well to come this far!\! I think it's about time you and JASH had a good long rest!
+      text: \n<KASJER>Przede wszystkim, gratulacje.\! Daleko zaszliście, a do wygranej niewiele zabrakło!\! Ty i twój JUZEK zasłużyliście na porządny odpoczynek!
+
+
 
 
 # =========================================================================================
       #One-Winged Jash
 # =========================================================================================
 
+
 #Intro
 message_135:
-      text: OTHERMART LADY glares at your \c[13]PET ROCK\c[0].
+      text: PANI Z ZAKUPOWA wpatruje się w twojego \c[13]GŁAZIKA\c[0].
+
 
 message_136:
-      text: \n<OTHERMART LADY>...
+      text: \n<PANI Z ZAKUPOWA>...
+
 
 message_160:
-      text: \n<OTHERMART LADY>\com[2]\{\{HA! HA! HA! HA! HA! HA! HA!
+      text: \n<PANI Z ZAKUPOWA>\com[2]\{\{HA! HA! HA! HA! HA! HA! HA!
 #player win
 message_137:
-      text: \n<OTHERMART LADY>OK.\! YOU WIN.
+      text: \n<PANI Z ZAKUPOWA>OKEJ.\! WYGRYWASZ.
+
 
 message_143:
-      text: \n<OTHERMART LADY>TAKE THIS.
+      text: \n<PANI Z ZAKUPOWA>BIERZ.
 #player loses
 message_138:
-      text: \n<OTHERMART LADY>...
+      text: \n<PANI Z ZAKUPOWA>...
+
 
 message_141:
-      text: \n<OTHERMART LADY>GOOD JOB.
+      text: \n<PANI Z ZAKUPOWA>DOBRA ROBOTA.
+
 
 message_142:
-      text: You got a \c[13]\"YOU ROCK\" CAP\c[0]!
+      text: Zdobyłeś CZAPKĘ \c[13]\"WYGNIATASZ\"\c[0]!
+
 
 #additional pet rock dialogue

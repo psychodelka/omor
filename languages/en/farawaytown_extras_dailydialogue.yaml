@@ -422,7 +422,7 @@ message_370:
 #Location: Hardware store looking at flowers
 
 message_380:
-      text: \n<CHARLIE> ...
+      text: \n<CHARLIE>...
 
 #========================== THE MAVERICK================================
 
@@ -561,7 +561,7 @@ message_440:
 #Location: Graveyard
 
 message_450:
-      text: \n<CARETAKER> This lot is quiet, isn't it? You can't hear the hustle and bustle of the streets here at all. Heh... The only things here are wandering spirits... and me, of course!
+      text: \n<CARETAKER>This lot is quiet, isn't it? You can't hear the hustle and bustle of the streets here at all. Heh... The only things here are wandering spirits... and me, of course!
 
 message_451:
       text: \n<CARETAKER>What's with that look? I ain't dead yet!
