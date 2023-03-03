@@ -838,7 +838,7 @@ message_147:
 message_148:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kel\sinv[1]Zrelaksuj się... AUBREY, damy sobie radę!\sinv[0]
+    text: \kel\sinv[1]Spokojnie... AUBREY, damy sobie radę!\sinv[0]
  
 message_149:
     faceset: MainCharacters_DreamWorld
@@ -853,7 +853,7 @@ message_150:
 message_151:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelPani z ekranu powiedziała, że ustawiła bombę na swoją siostrę, prawda?\! A tak naprawdę nie pozwoliłaby, żeby coś ją wybuchło!
+    text: \kelBabka z ekranu powiedziała, że podłożyła bombę na swoją siostrę, co nie?\! Ale tak na serio przecież jej nie wysadzi!
  
 message_152:
     faceset: MainCharacters_DreamWorld
@@ -935,7 +935,7 @@ message_163:
 message_164:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marAwwww... Nie smuć się, BASIL!\! Jesteśmy tu dla ciebie!
+    text: \marOj... Nie smuć się, BASIL!\! Jesteśmy tu dla ciebie!
  
 message_165:
     faceset: MainCharacters_DreamWorld
@@ -1134,7 +1134,7 @@ message_200:
 message_201:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \marAwww...\! Jest dobrze, HERO...\! Poradzimy sobie małymi kroczkami...
+    text: \marOj...\! Jest dobrze, HERO...\! Poradzimy sobie małymi kroczkami...
  
 message_202:
     faceset: MainCharacters_DreamWorld

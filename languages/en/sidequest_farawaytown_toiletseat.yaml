@@ -5,13 +5,13 @@
 
 #Examine toilet seat
 message_0:
-      text: The toilet seat is up.\! Move it down?
+      text: Deska sedesowa jest w górze.\! Opuścić ją?
 
 #yes/no
 
 #if yes
 message_1:
-      text: You moved the toilet seat down.
+      text: Opuściłeś deskę.
 
 message_2:
-      text: ...\! You threw up.
+      text: ...\! Zwymiotowałeś.

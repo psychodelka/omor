@@ -5,22 +5,22 @@
 #Slot Machines Text
 
 message_0:
-      text: \fs[46]BET UP TO 3 LINES! SPIN! SPIN! SPIN!
+      text: \fs[46]OBSTAW AŻ 3 RZĘDY! KRĘĆ! KRĘĆ! KRĘĆ!
 
 message_1:
-      text: \fs[46]WOW!! AMAZING LUCK!!\!\fs[24]<br>Do you want to play again?
+      text: \fs[46]ŁAŁ!! WSPANIAŁE SZCZĘŚCIE!!\!\fs[24]<br>Zagrać ponownie?
 
 message_2:
-      text: You wasted some CLAMS.\! That's too bad...<br>\!Do you want to play again?
+      text: Straciłeś trochę MAŁŻY.\! Niedobrze...<br>\!Czy chcesz zagrać ponownie?
 
 message_4:
-      text: You can't carry any more CLAMS.
+      text: Nie utrzymasz już więcej MAŁŻY.
 
 message_5:
-      text: BET
+      text: ZAKŁAD
 
 message_6:
-      text: SPIN
+      text: ZAKRĘĆ
 
 message_7:
-      text: EXIT
+      text: WYJDŹ

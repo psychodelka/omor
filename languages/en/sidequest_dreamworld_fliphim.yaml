@@ -3,24 +3,24 @@
 # Flip him
 # ========================================================================================
 
-#Talk to Crossant
+#Talk to ROBALIK
 
 message_0:
-      text: A CROSSANT is upside down and struggling to flip over.\!<br>Flip him?
+      text: ROBALIK ma problemy z wstaniem na nogi.\!<br>Pomóc mu?
 
 #[Yes/No]
 
 #[Yes]
 
 message_1:
-      text: You flipped the CROSSANT over.
+      text: Przekręciłeś ROBALIKA.
 
 message_2:
-      text: \n<CROSSANT>\}Thanks.
+      text: \n<ROBALIK>\}Dzięki.
 
-#CROSSANT walks away
+#ROBALIK walks away
 
 #[No]
 
 message_3:
-      text: You left the CROSSANT to his suffering.
+      text: Zostawiłeś ROBALIKA na pastwę jego cierpień.

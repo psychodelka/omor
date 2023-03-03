@@ -15,10 +15,10 @@ message_0:
 #FIGHTING 1/2 HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_1:
-      text: \n<GIGANTOS>W górę, ja!
+      text: \n<GIGANTOS>Dalej, ja!
  
 message_2:
-      text: \n<GIGANTOS>Nie, ty w górę!
+      text: \n<GIGANTOS>Nie, dalej ty!
  
 #FLOATING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
@@ -70,7 +70,7 @@ message_11:
       text: \n<GIGANTOS>Jasne! Kocham tworzyć mosty!
  
 message_12:
-      text: \n<GIGANTOS>Spoko! Jeśli to jest to, co robią wszyscy inni...
+      text: \n<GIGANTOS>Spoko! Skoro wszyscy, to ja też...
  
 message_13:
       text: \n<GIGANTOS>Rany... Dyżur na moście, znowu?\!<br>Kiedy dostanę coś do zjedzenia?
@@ -105,16 +105,16 @@ message_20:
       text: \n<GIGANTOS>Pewien mądry wieloryb powiedział kiedyś... “Ta, w porządku!”
  
 message_27:
-      text: \n<GIGANTOS>My, GIGANTOS, z sektora MEDUZY szczycimy się tym, że jesteśmy najlepsi z najlepszych!
+      text: \n<GIGANTOS>My GIGANTOS, z sektora MEDUZY, szczycimy się tym, że jesteśmy najlepsi z najlepszych!
  
 message_23:
-      text: \n<GIGANTOS>MEDUZA traktuje nas dobrze i karmi nas regularnie...\!<br>Nie można powiedzieć tego samego o MARINIE lub MOLLY!
+      text: \n<GIGANTOS>MEDUZA traktuje nas dobrze i karmi nas regularnie...\!<br>Nie można powiedzieć tego samego o MARINIE czy MOLLY!
  
 message_24:
-      text: \n<GIGANTOS>GIGANTOS z sektora MARINY znika, więc ciągle prosi MEDUZĘ o więcej... \!<br>Eee...\! Mam nadzieję, że nie będę następny...
+      text: \n<GIGANTOS>MARINA często prosi MEDUZĘ o nową dostawę, bo GIGANTOS z jej sektora ciągle gdzieś znika... \!<br>Eee...\! Mam nadzieję, że nie będę następny...
  
 message_25:
-      text: \n<GIGANTOS>Widać, że MEDUZA jest wściekła, kiedy kręci się tam i z powrotem.\! Nigdy na ciebie nie nakrzyczy, ale...\! To trochę przerażające.
+      text: \n<GIGANTOS>Kiedy MEDUZA kręci się tam i z powrotem, to znak, że jest wściekła.\! Nigdy na nikogo nie krzyczy, ale...\! to trochę przerażające.
  
 message_26:
       text: \n<GIGANTOS>Patrz, jak chodzisz!\! Niektóre z rozlanych płynów nie powinny wchodzić w kontakt z ludzką skórą!
@@ -149,7 +149,7 @@ message_33:
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herUważaj na siebie, dobrze? <br>Jeśli zrobi się zbyt niebezpiecznie, dam ci wsparcie.
+      text: \herUważaj na siebie, dobrze? <br>Zawołaj mnie, jeśli zrobi się zbyt niebezpiecznie.
  
  
 #==
@@ -160,10 +160,10 @@ message_40:
       text: \n<GIGANTOS>Czytam książkę o klimatyzacji!\!<br>Jest bardzo pouczająca!
  
 message_41:
-      text: \n<GIGANTOS>Próbuję się zrelaksować...\! ale nie mogę przestać myśleć o tej interesującej książce o klimatyzacji, którą wtedy czytałem...
+      text: \n<GIGANTOS>Próbuję się zrelaksować...\! ale nie mogę przestać myśleć o tej interesującej książce o klimatyzacji, którą czytałem ostatnio...
  
 message_42:
-      text: \n<GIGANTOS>Wiesz za czym tak szaleję?\! Za klimatyzacją.\!<br>Czyż nie jest najwspanialsza?
+      text: \n<GIGANTOS>Wiesz za czym szaleję?\! Za klimatyzacją.\!<br>Czyż nie jest najwspanialsza?
  
  
 #Humphrey PUZZLE HINT Guy
@@ -173,13 +173,13 @@ message_45:
  
 #HARD PUZZLE HINT
 message_46:
-      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\!<br>\”Swych wrogów licz...\! A kolejność do zwycięstwa doprowadzi.\"
+      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\!<br>\"Swych wrogów licz...\! A kolejność do zwycięstwa doprowadzi.\"
  
 message_110:
       text: \n<MĄDRY GIGANTOS>\com[2]Co?! Wciąż nie możesz tego rozgryźć?\!<br>Ech... W porządku.\! Może to?
  
 message_111:
-      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\! \”Swych wrogów licz, by drogę poznać...\! Następnie, podczas swej podróży obserwuj wodospady.\"
+      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\! \"Swych wrogów licz, by drogę poznać...\! Następnie, podczas swej podróży obserwuj wodospady.\"
  
  
 #EASY PUZZLE HINT

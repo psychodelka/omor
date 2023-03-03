@@ -32,9 +32,9 @@ message_5:
 
 #knocking sfx
 message_6:
-      text: \n<???>\{\{\com[2]\quake[1]NOT NOW, DAD! I'M BUSY!!
+      text: \n<???>\{\{\com[2]\quake[1]NIE TERAZ, TATO! NIE MAM CZASU!!
 
 #General locked door message
 
 message_10:
-      text: Knock Knock... <br>There is no response.
+      text: Puk, puk... <br>Żadnej odpowiedzi.

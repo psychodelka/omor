@@ -8,12 +8,12 @@
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubWhat are you doing here, CHARLIE?\!<br>I didn't know you liked flowers...
+      text: \aubCo ty tu robisz, CHARLIE?\!<br>Nie wiedziałam, że lubisz kwiaty...
 
 message_2:
-      text: \cha...
+      text: \n<CHARLIE>...
 
 message_3:
-      text: CHARLIE gave you a \c[4]FLOWER CLIP\c[0].
+      text: CHARLIE daje ci \c[4]SPINKĘ Z KWIATKIEM\c[0].
 
 #CHARLIE walks O.S.
