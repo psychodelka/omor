@@ -6,29 +6,29 @@
 message_1:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelWow, Miss. You sure are tall...
+    text: \kelWow, ale panienka jest wysoka...
 
 message_2:
-    text: \n<PO>Thank you, little one!\!<br>It's more of a hassle most of the time... <br>but I do get a better view of the stars.
+    text: \n<PO>Dziękuję, malutki!\!<br>Ale przeważnie mi to dokucza... <br>chociaż mam lepszy widok na gwiazdy.
 
 message_3:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kel\Com[2]What! Being tall isn't a hassle!\!<br>Everything is better when you're tall.
+    text: \kel\Com[2]Co! Komu dokuczałoby bycie wysokim?!\!<br>Wysocy to dopiero mają życie.
 
 message_4:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelOne day, I'm going to be as tall as you!
+    text: \kelKiedyś będę wysoki jak pani!
 
 message_5:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aubYeah sure, \n[3]. Keep dreaming...
+    text: \aubTa, pewnie, \n[3]. Możesz sobie pomarzyć...
 
 # =========================================================================================
 # PO - DEFAULT
 # =========================================================================================
 
 message_6:
-    text: \n<PO>Watching the stars at night makes everything else in the world seem so small.
+    text: \n<PO>Oglądanie gwiazd nocą sprawia, że wszystko inne na świecie wydaje się takie małe.

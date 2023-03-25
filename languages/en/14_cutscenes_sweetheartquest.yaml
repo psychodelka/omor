@@ -356,7 +356,7 @@ message_124:
 message_125:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Przeczekajmy to... Jestem pewien, że KIEŁKUNI zaraz przywrócą prąd!\her
+      text: Przeczekajmy to... Jestem pewien, że KIEŁKUNY zaraz przywrócą prąd!\her
  
 #Camera pans to area side of stage..
 #KIEŁKUN runs in.
@@ -437,7 +437,7 @@ message_156:
       text: \n<KIEŁKUN>Czemu to nie działa!? Mam tego dość!
  
 message_157:
-      text: \n<KIEŁKUN>Po prostu kontynuujcie!\! Odrobina potu niczego wam nie zrobi!
+      text: \n<KIEŁKUN>Biegnijcie, biegnijcie!\! Odrobina potu niczego wam nie zrobi!
  
 message_158:
       text: Ten kabel nie jest podłączony do prądu.\! Podłączyć go?
@@ -445,7 +445,7 @@ message_158:
 #YES/NO
  
 message_159:
-      text: \n<KIEŁKUN ZARZĄDCA>\Com[2]A nie mówiłem, kiełkuni? Ciężka praca się opłaca!<br>\!Przebierajcie nóżkami!
+      text: \n<KIEŁKUN ZARZĄDCA>\Com[2]A nie mówiłem, kiełkuny? Ciężka praca się opłaca!<br>\!Przebierajcie nóżkami!
  
 message_160:
       text: \n<KIEŁKUN>Ech... ech... uff... uff...

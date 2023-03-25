@@ -483,7 +483,7 @@ message_106:
 message_107:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: AUBREY...\! Włóżmy zdjęcia MARI z powrotem do \c[4]ALBUMU ZE ZDJĘCIAMI\c[0].\!<br>Wszystkie...\! Mają tu swoje miejsce.\her
+      text: AUBREY...\! Włóżmy zdjęcia MARI z powrotem do \c[4]ALBUMU ZE ZDJĘCIAMI\c[0].\!<br>Wszystkie...\! mają tu swoje miejsce.\her
  
 #HERO takes photos down from AUBREY's wall.
  
@@ -578,7 +578,7 @@ message_141:
 message_142:
       faceset: MainCharacters_Faraway
       faceindex: 5
-      text: N-nie, nie trzeba... Dzięki..\aub
+      text: N-nie, nie trzeba... Dzięki.\aub
  
 #HERO walks toward entrance.
  

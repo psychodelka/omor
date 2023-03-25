@@ -74,7 +74,7 @@ message_26:
 message_27:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelNie ma problemu, POLLY... Każdy z nas kiedyś przeżywał to samo.\!<br>Ostatnie dni nauczyły nas, że... przyjaciela nie wolno zostawiać w potrzebie!
+      text: \kelNie ma problemu, POLLY... Każdy z nas to kiedyś przeżywał.\!<br>Ostatnie dni nauczyły nas, że... przyjaciela nie wolno zostawiać w potrzebie!
  
 #AUBREY goes to the door.
  
@@ -203,7 +203,7 @@ message_75:
 message_76:
       faceset: MainCharacter_Basil_dark
       faceindex: 30
-      text: Haha... \!Miło z wami posiedzieć, tak jak kiedyś.\!<br>Ostatnio miałem na głowie mnóstwo nauki.<br>Szczerze mówiąc, nawet nie mam już czasu na nowe znajomości.\her
+      text: Haha... \!Miło z wami posiedzieć tak jak kiedyś.\!<br>Ostatnio miałem na głowie mnóstwo nauki.<br>Szczerze, nawet nie mam już czasu na nowe znajomości.\her
  
 message_77:
       faceset: MainCharacter_Basil
@@ -243,7 +243,7 @@ message_83:
 message_84:
       faceset: MainCharacter_Basil_dark
       faceindex: 28
-      text: Pasowałoby się z nim pożegnać...\her
+      text: Wypadałoby się z nim pożegnać...\her
  
 message_85:
       faceset: MainCharacter_Basil

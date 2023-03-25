@@ -3,58 +3,76 @@
 # ========================================================================================
 #Talk to Family Mole 1
 
+
 message_1:
-      text: \n<BROTHER MOLE>Hey, you there!\! You creatures seem like well-seasoned travelers...\! Could you help me out?\! My brother lives in the \c[11]SPROUT MOLE COLONY\c[0] in \c[11]OTHERWORLD\c[0].
+      text: \n<BRAT KIEŁKUN>Ej, wy tam!\! Wyglądacie na doświadczonych podróżników...\! Czy moglibyście mi pomóc?\! Mój brat mieszka w \c[11]KOLONII KIEŁKUNÓW\c[0] w \c[11]PLANETOWIE INNYM\c[0].
+
 
 message_2:
-      text: \n<BROTHER MOLE>I want to send him a \c[4]CARE PACKAGE\c[0], but...\! I'm afraid of getting lost.\! Would you be able to deliver this for me?
+      text: \n<BRAT KIEŁKUN>Chcę mu wysłać \c[4]SZLACHETNĄ PACZKĘ\c[0], ale...\! boję się, że się zgubię.\! Czy moglibyście dostarczyć ją za mnie?
+
 
 #[Nod/Shake]
 #[Nod]
 message_3:
-      text: \n<BROTHER MOLE>Thank you, strange creatures!\!<br>I'm sure he'll appreciate it.\! Here you go.
+      text: \n<BRAT KIEŁKUN>Dziękuję, dziwne stworzenia!\!<br>Na pewno będzie wam wdzięczny.\! Proszę.
+
 
 message_4:
-      text: You got a \c[4]CARE PACKAGE\c[0].
+      text: Zdobyłeś \c[4]SZLACHETNĄ PACZKĘ\c[0].
+
 
 message_16:
-      text: \n<BROTHER MOLE>Make sure it gets to him safely!
+      text: \n<BRAT KIEŁKUN>Upewnijcie się, że bezpiecznie do niego dotrze!
+
 
 #[Shake]
 message_5:
-      text: \n<BROTHER MOLE>Oh, I see...\! Okay then...
+      text: \n<BRAT KIEŁKUN>Och, rozumiem...\! W porządku...
+
 
 #Talk to Sprout Mole 1
 
+
 message_6:
-      text: \n<BROTHER MOLE>Huh?\! What's that?\! You have a package for me?
+      text: \n<BRAT KIEŁKUN>Hę?\! Co to?\! Macie dla mnie paczkę?
+
 
 message_7:
-      text: You gave the \c[4]CARE PACKAGE\c[0] to BROTHER MOLE.
+      text: Dałeś BRATU KIEŁKUNOWI \c[4]SZLACHETNĄ PACZKĘ\c[0].
+
 
 message_8:
-      text: \n<BROTHER MOLE>...\! Hey, this is from my brother!\!<br>Wow, there's 99 \c[3]TOFU\c[0] in here! This is the best gift ever!\!<br>Sniff... He knows me so well...
+      text: \n<BRAT KIEŁKUN>...\! Hej, to od mojego brata!\!<br>Wow, w środku jest 99 sztuk \c[3]TOFU\c[0]! To najlepszy prezent w moim życiu!\!<br>Chlip... Tak dobrze mnie zna...
+
 
 message_9:
-      text: \n<BROTHER MOLE>Thanks for the delivery!\!<br>You know, I was saving this for a rainy day...\! but now that I have my \c[4]CARE PACKAGE\c[0], I won't need it anymore.
+      text: \n<BRAT KIEŁKUN>Dzięki, że mi ją dostarczyliście!\!<br>Wiecie, trzymałem to na deszczową godzinę...\! ale skoro mam moją \c[4]SZLACHETNĄ PACZKĘ\c[0], nie będę już tego potrzebować.
+
 
 message_10:
-      text: You got \c[3]LIFE JAM\c[0].
+      text: Zdobyłeś \c[3]DŻEMO ŻYCIA\c[0].
+
 
 message_11:
-      text: \n<BROTHER MOLE>Mmm...\! Slurp...\! \c[3]TOFU\c[0]...\! So...\! good...
+      text: \n<BRAT KIEŁKUN>Mmm...\! Siorb...\! \c[3]TOFU\c[0]...\! Takie...\! dobre...
+
 
 #Quest complete
 
+
 #After quest dialogue:
+
 
 #Talk to Family Mole 1
 message_12:
-      text: \n<BROTHER MOLE>Did you deliver the package?<br>\!There's a year's worth of \c[3]TOFU\c[0] in there!\!<br>I'm sure he'll love it.\! Man, I miss that guy...
+      text: \n<BRAT KIEŁKUN>Czy dostarczyliście paczkę?<br>\!W środku był roczny zapas \c[3]TOFU\c[0]!\!<br>Na pewno mu się spodoba.\! Jejku, tęsknię za nim...
+
 
 #Talk to Sprout Mole 1
 message_13:
-      text: \n<BROTHER MOLE>Mmm...\! Slurp...\! \c[3]TOFU\c[0]...\! So good...
+      text: \n<BRAT KIEŁKUN>Mmm...\! Siorb...\! \c[3]TOFU\c[0]...\! Takie dobre...
+
 
 message_15:
-      text: \n<BROTHER MOLE>I'm all out of \c[3]TOFU\c[0].
+      text: \n<BRAT KIEŁKUN>Skończyło mi się \c[3]TOFU\c[0].

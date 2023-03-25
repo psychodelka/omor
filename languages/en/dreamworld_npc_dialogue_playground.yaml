@@ -389,7 +389,7 @@ message_117:
 message_118:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelHa, już wiem! \! \sinv[1]Ej, BERLY...\!\sinv[0] Nasz dobry przyjaciel, OMORI, chce się u was zatrudnić!\! Przecież wiesz, że szef nigdy nie gardzi nową parą rąk do pracy!
+      text: \kelHa, już wiem!\! \sinv[1]Ej, BERLY...\!\sinv[0] Nasz dobry przyjaciel, OMORI, chce się u was zatrudnić!\! Przecież wiesz, że szef nigdy nie gardzi nową parą rąk do pracy!
 message_119:
       text: \berHmmm... \!To prawda.\! Jednak...
 message_120:

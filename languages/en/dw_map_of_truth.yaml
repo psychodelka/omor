@@ -2,171 +2,228 @@
 # ** TEMPLATE DIALOGUE
 # =========================================================================================
 
+
 message_0:
-    text: \whoYou have come again to seek the truth.
+    text: \whoPowróciłeś, aby szukać prawdy.
+
 
 message_27:
-    text: \whoEach time, your adventures may be disparate.\! But as your journey nears its end...\! it will always lead you back here.
+    text: \whoNie ma dwóch tych samych podróży.\! Ale każda z nich...\! koniec końców zawsze doprowadzi cię tutaj.
+
 
 message_1:
-    text: \whoThe truth.\! The truth is always the same.
+    text: \whoPrawda.\! Ona nigdy się nie zmienia.
+
 
 message_2:
-    text: \whoThe path to the truth was once here, but it has been removed.
+    text: \whoKiedyś znajdowała się tu droga do prawdy, ale się jej pozbyto.
+
 
 message_3:
-    text: \whoIt was moved to a lighthouse in a pier.
+    text: \whoPrzeniesiono ją do latarni morskiej na molo.
+
 
 message_4:
-    text: \whoThen, to a library banished deep underground.\! And after that, to an old barn on a distant planet.
+    text: \whoPotem do biblioteki głęboko w podziemiach.\! A jeszcze później do starej stodoły na odległej planecie.
+
 
 message_5:
-    text: \whoAnd...\! this time...\! it will be in the heart of a vast forest.
+    text: \whoTym razem...\! znajdzie się w sercu niezmiernego lasu.
+
 
 message_6:
-    text: \whoNo matter how many times the path is concealed, the flower boy will always find it.\! And your dear sister MARI...\! she will always guide you to it.
+    text: \whoNieważne, ile razy droga ta zostanie ukryta, chłopiec w wianku zawsze ją odnajdzie.\! A twoja kochana siostra, MARI...\! zawsze cię do niej zaprowadzi.
+
 
 message_7:
-    text: \whoEven as hollow shells, they will continue to evolve.\! And each time, they will grow wings...\! and fly too close to the sun.
+    text: \whoNawet jako puste kokony wciąż będą się przepoczwarzać.\! A za każdym razem, gdy wyrosną im skrzydła...\! będą podlatywać zbyt blisko słońca.
+
 
 message_8:
-    text: \whoIt is their nature.\! They are the only ones who know...\! and one has carried it with her to her grave.
+    text: \whoTak działa natura.\! Oni jedni wiedzą o tym...\! a ona jedyna zabrała to ze sobą aż do grobu.
+
 
 message_9:
-    text: \whoDeath may be no danger here, but the memories of them do not fade so easily.\! Many times, your friends have met with an unfortunate fate.
+    text: \whoŚmierć może nie jest tu przeszkodą, ale pamięć o niej nie zanika tak łatwo.\! Twoich przyjaciół nieraz spotkał nieprzychylny los.
+
 
 message_10:
-    text: \whoAlthough they are revived time and again, the most haunting stay in this world...\! even if only their bones remain.
+    text: \whoWprawdzie odradzają się raz po raz, lecz największe koszmary pozostaną na tym świecie...\! nawet, jeśli pozostanie po nich tylko nazwisko.
+
 
 message_11:
-    text: \whoThe long lost ones sink here...\! to the bottom of the \c[11]DEEP WELL\c[0]...\! and become nothing.
+    text: \whoZ dawna zagubieni toną tutaj...\! na dnie \c[11]GŁĘBOKIEJ STUDNI\c[0]...\! i gasną.
+
 
 message_12:
-    text: \whoYou have forsaken them, yet they still yearn for your care.\! Their souls know nothing but how to scream for help.\! Do you take pity on them?
+    text: \whoPorzuciłeś ich, jednak oni wciąż tęsknią za twoją troską.\! Ich dusze nie znają nic poza wołaniem o pomoc.\! Czy ci ich nie szkoda?
+
 
 message_13:
-    text: \whoYour dear sister MARI with a bad knee...\! You could not bear for her to die again, so she was given the safety of a picnic blanket.
+    text: \whoTwoja kochana siostra, utykająca MARI...\! Nie zniósłbyś jej ponownej straty, dlatego bezpieczeństwem okrywa ją koc.
+
 
 message_14:
-    text: \whoYet it is her nature to leave and to protect.\! And when she does, she will leave you again and be born anew...\! with the undying soul that you have cursed her with.
+    text: \whoPamiętaj, że zawsze powróci, aby cię chronić.\! A jeśli odejdzie, narodzi się na nowo...\! przez nieśmiertelną duszę, na którą ją skazałeś.
+
 
 message_15:
-    text: \whoThe souls assigned to your friends...\! They are fragile and must be protected.\! And so they must remain asleep.
+    text: \whoDusze należące do twoich przyjaciół...\! są delikatne i wymagają ochrony.\! Dlatego muszą pozostać uśpione.
+
 
 message_16:
-    text: \whoYet...\! The path to the truth is closer to your most precious room than ever before.\! Will you be able to bury it this time?
+    text: \whoJednakże...\! droga do prawdy jest bliżej twojego cennego pokoiku, niż myślisz.\! Czy będziesz w stanie ponownie ją zataić?
+
 
 #TRUE
 message_17:
-    text: \whoPerhaps it is too late for you.
+    text: \whoMoże jest już na to za późno.
+
 
 #NEUTRAL
 message_18:
-    text: \whoPerhaps there is still hope for you.
+    text: \whoMoże masz jeszcze szansę.
+
 
 message_19:
-    text: \whoYou know of the KEYS to the other realm.\! They are different each time...\! but they will unlock the same door.
+    text: \whoZNAKI wiodą do innego wymiaru.\! Za każdym razem są inne...\! choć prowadzą do tych samych drzwi.
+
 
 message_20:
-    text: \whoThe end of this journey will lead to suffering...\! but if you do not face this, you cannot continue.
+    text: \whoKoniec tej podróży przyniesie ci cierpienie...\! ale musisz je przetrwać, żeby iść dalej.
+
 
 message_21:
-    text: \whoThis form, though it has not shown its true self, is evil.\!<br>You will not see that unless you fight it.
+    text: \whoTa postać, pomimo że nie ukazała jeszcze swojego prawdziwego oblicza, jest zła.\!<br>Nie dostrzeżesz go, jeśli z nią nie zawalczysz.
+
 
 message_22:
-    text: \whoWhen your intentions become hazy, they will transpire into this world like a thick fog.\! You will know when it happens.\! It has already happened before.
+    text: \whoKiedy twoje zamiary przestaną być jasne, uwięzi cię w tym świecie niczym gęsta mgła.\! Będziesz wiedział, kiedy to nadejdzie.\! Już raz się to zdarzyło.
+
 
 message_23:
-    text: \whoAt that time...\! return to where the truth was reborn...\! to the heart of the forest.
+    text: \whoWtedy...\! powróć do miejsca narodzin prawdy...\! do serca lasu.
+
 
 message_24:
-    text: \whoAnd like each time before it...\! attempt to rewrite your fate.
+    text: \whoI tak jak poprzednio...\! spróbuj zmienić pisany ci los.
+
 
 message_25:
-    text: \whoWill you be doomed to repeat this cycle over and over?\!<br>Or will you break it?
+    text: \whoCzy dalej będziesz tkwić w tym błędnym kole?\!<br>Czy wyłamiesz się z niego?
+
 
 message_26:
-    text: \whoExplore this world while you can, DREAMER.\! Until there is nothing left.
+    text: \whoOdkrywaj świat, póki możesz, MARZYCIELU.\! Dopóki nie zostanie z niego nic.
+
+
 
 
 #----
 
+
 #BLACK Space
 
+
 message_30:
-    text: \n<STRANGER>You are here again, DREAMER.\! To what do we owe the occasion?\! Are you running out of time?
+    text: \n<NIEZNAJOMY>Znów tu jesteś, MARZYCIELU.\! A z jakiejże to okazji?\! Kończy ci się czas?
+
 
 message_31:
-    text: \n<STRANGER>The truth is difficult for you.\! In the past, it has caused you to stray to your destructive form.<br><br>Your current form subdues that...\! and although it is also evil...\! it may still be the better of the two.
+    text: \n<NIEZNAJOMY>Trudno jest ci zaakceptować prawdę.\! Właśnie przez nią w przeszłości zbłądziłeś, przyjmując niszczycielską postać.<br><br>Teraz tłumisz te zachowania...\! i chociaż wciąż nie jesteś dobry...\! jesteś lepszy niż wtedy.
+
 
 message_32:
-    text: \n<STRANGER>This place has changed a great deal since you were last here.\! Will you be able to find your way back, or will you finally lose yourself?
+    text: \n<NIEZNAJOMY>Od kiedy byłeś tu ostatnio, to miejsce zmieniło się nie do poznania.\! Odnajdziesz drogę powrotną, czy nareszcie zupełnie się zatracisz?
+
 
 message_33:
-    text: \n<STRANGER>Without KEYS of our own, we are forced to wander endlessly here.\! These doors will not open for us.\! We are not as fortunate as you.
+    text: \n<NIEZNAJOMY>Bez KLUCZY jesteśmy zmuszeni błąkać się tu wiecznie.\! Te drzwi nie otworzą się przed nami.\! Nie mamy tyle szczęścia co ty.
+
 
 message_34:
-    text: \n<STRANGER>Something was taken from here a long time ago...\! Where did you hide it?\! Only you know where it is now.
+    text: \n<NIEZNAJOMY>Dawno temu coś stąd zabrano...\! Gdzie to ukryłeś?\! Tylko ty możesz to wiedzieć.
+
 
 message_35:
-    text: \n<STRANGER>Why must you take that cursed form?\! It is indeed strong and can protect you...\! but if you rely on it too often...\! what you will sacrifice can never be reclaimed.
+    text: \n<NIEZNAJOMY>Czemu przybrałeś tę przeklętą postać?\! Owszem, jest ona silna i może cię obronić...\! ale jeśli będziesz polegać na niej zbyt często...\! nigdy nie odzyskasz tego, co poświęciłeś.
+
 
 message_36:
-    text: \n<STRANGER>Has the flower boy lost his way?\! Here to save him again?\! How fortunate for him...
+    text: \n<NIEZNAJOMY>Czy chłopiec w wianku się zagubił?\! Znów chcesz go ocalić?\! Dobrze dla niego...
+
 
 message_37:
-    text: \n<STRANGER>Redemption is hidden among one of these doors...\! but it will never open for you in that form.\! You will have to find another way in.
+    text: \n<NIEZNAJOMY>Odkupienie skrywa się za jednymi z drzwi...\! lecz w tej postaci żadne z nich nie stanie przed tobą otworem.\! Musisz znaleźć inny sposób, by dostać się do środka.
+
 
 message_38:
-    text: \n<STRANGER>Behind these doors lie rooms made of scattered fragments, forever changing.<br><br>If you are lost, you need not worry.\! The red hands will guide you...\! and...\! the form you've taken...\! it cannot die here.
+    text: \n<NIEZNAJOMY>Za tymi drzwiami znajdują się pokoje z rozproszonych odłamków, wiecznie zmienne.<br><br>Nie martw się, jeśli się zgubisz.\! Niech krwawe dłonie cię poprowadzą...\! a...\! postać, którą przybrałeś...\! nie zginie tutaj.
+
 
 message_39:
-    text: \n<STRANGER>You have hidden yourself away again.\! Hopes, dreams, aspirations...\! do they mean nothing to you?
+    text: \n<NIEZNAJOMY>Znowu się ukryłeś.\! Nadzieje, marzenia, ambicje...\! się dla ciebie nie liczą?
+
 
 message_40:
-    text: \n<STRANGER>You may not be in control now...\! but do not lose hope, DREAMER.\! There are some who still believe in you.
+    text: \n<NIEZNAJOMY>Może nie masz teraz władzy nad sobą...\! ale nie trać nadziei, MARZYCIELU.\! Niektórzy wciąż w ciebie wierzą.
+
 
 message_41:
-    text: \n<STRANGER>With great power comes great burden...\! for yourself...\! and for the people closest to you.\! Who are you protecting?\! And... is it worth it?
+    text: \n<NIEZNAJOMY>Z wielką mocą wiąże się też wielka udręka...\! dla ciebie...\! i dla twoich najbliższych.\! Kogo chcesz chronić?\! I... czy jest to tego warte?
+
 
 message_42:
-    text: \n<STRANGER>I deeply wish that your friend's soul is born uncorrupted.\! We know too well what fate will befall him otherwise.
+    text: \n<NIEZNAJOMY>Mam nadzieję, że dusza twojego przyjaciela nie jest spaczona.\! Obydwoje zbyt dobrze wiemy, jaki los spotka go w przeciwnym wypadku.
+
 
 message_43:
-    text: \n<STRANGER>Please have mercy, DREAMER.\! The souls born here may never materialize, but their screams still echo through the ground.
+    text: \n<NIEZNAJOMY>Zlituj się, MARZYCIELU.\! Zrodzone tu dusze mogą nigdy się nie urzeczywistnić, jednak wciąż słychać ich krzyk odbijający się echem przez ziemię.
+
 
 message_44:
-    text: \n<STRANGER>The flower boy who is closest to the truth...\! whose eyes glow an eerie red.\! I have seen what you've done to him before...\! and pray that you don't find him again.
+    text: \n<NIEZNAJOMY>Chłopiec w wianku, który najbliższy jest prawdzie...\! którego oczy płoną straszliwą czerwienią.\! Wiem, co mu wcześniej zrobiłeś...\! i módl się, żebyś już nigdy go nie odnalazł.
+
 
 message_45:
     text: \who
 
+
 message_46:
     text: \who
+
 
 message_47:
     text: \who
 
+
 message_48:
     text: \who
+
 
 message_49:
     text: \who
 
+
 message_50:
     text: \who
 
+
 message_51:
-    text: You cannot open this door.
+    text: Nie możesz otworzyć tych drzwi.
+
 
 message_52:
-    text: The door is locked.
+    text: Drzwi są zamknięte.
+
 
 message_53:
-    text: You got a KEY.
+    text: Otrzymałeś KLUCZ.
+
 
 message_54:
-    text: Unlock this door?
+    text: Otworzyć drzwi?
+
 
 message_55:
-    text: You don't have the right KEY to unlock this.
+    text: Nie masz odpowiedniego KLUCZA, aby to otworzyć.

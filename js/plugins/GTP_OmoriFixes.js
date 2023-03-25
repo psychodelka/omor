@@ -2632,12 +2632,8 @@ Gamefall.OmoriFixes = Gamefall.OmoriFixes || {};
         let text = '';
         if (you != null) {
             text = `Twój ${stat} nie może ${hl}`;
-        } else if (target._doesUseAlternateForms()) {
-            text = `${stat} ${target._altName()} nie może ${hl}`;
-        } else if (target._doesUseAlternateForms2()) {
-            text = `${stat} ${target._altName()} nie mogą ${hl}`;
         } else {
-            text = `${stat} ${target._altName()} nie może ${hl}`;
+            text = `${stat} ${target._altName2()} nie może ${hl}`;
         }
 
         if(text.length > MAX_CHAR_IN_LINE) {

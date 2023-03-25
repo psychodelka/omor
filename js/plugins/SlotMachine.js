@@ -162,6 +162,7 @@ function Window_ReplayCommand() {
             super.start();
             helpMessage = LanguageManager.getMessageData("slot_machine_minigame.message_0").text;
             winMessage = LanguageManager.getMessageData("slot_machine_minigame.message_1").text;
+            window.__winMessage__ = 5;
             lostMessage = LanguageManager.getMessageData("slot_machine_minigame.message_2").text;
             replayMessage = "";
             coinFullMessage = LanguageManager.getMessageData("slot_machine_minigame.message_4").text;

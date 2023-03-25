@@ -1393,7 +1393,7 @@ message_551:
 
 
 message_553:
-      text: Maszyna obecnie jest w użyciu.
+      text: Automat jest obecnie w użyciu.
 
 
 #---
@@ -1618,15 +1618,15 @@ message_700:
 
 
 message_800:
-      text: Co za duży banan.
+      text: Jaki duży banan.
 
 
 message_801:
-      text: Co za duże jabłko.
+      text: Jakie duże jabłko.
 
 
 message_802:
-      text: Co za spore winogrona.
+      text: Jakie duże winogrona.
 
 
 #Orange Oasis
@@ -1730,11 +1730,11 @@ message_839:
 
 
 message_840:
-      text: Łóżko FISTASI.
+      text: Łóżko ORZESZKI.
 
 
 message_841:
-      text: Łóżko ŻELUSI.
+      text: Łóżko DŻEMKI.
 
 
 message_842:
@@ -1754,11 +1754,11 @@ message_845:
 
 
 message_846:
-      text: Regalik ŻELCI.
+      text: Regalik DŻEMKI.
 
 
 message_847:
-      text: Regalik FISTASI.
+      text: Regalik ORZESZKI.
 
 
 message_848:
@@ -1814,7 +1814,7 @@ message_860:
 
 
 message_900:
-      text: \"POSMAKUJ NAJLEPSZYCH \c[3]CHEESEBURGERÓW\c[0] W MIEŚCIE...\!<br>\c[3]FRYTKI\c[0], \c[3]ORANŻADA MNIAM\c[0], \c[3]DŻEMO ŻYCIA\c[0], DO WYBORU, DO KOLORU...\!<br>ALBO JESZCZE LEPIEJ...\!OD RAZU KUP CAŁY \c[4]ZESTAW\c[0]!\"
+      text: \"POSMAKUJ NAJLEPSZYCH \c[3]CHEESEBURGERÓW\c[0] W MIEŚCIE...\!<br>\c[3]FRYTKI\c[0], \c[3]ORANŻADA MNIAM\c[0], \c[3]DŻEMO ŻYCIA\c[0], DO WYBORU, DO KOLORU...\!<br>ALBO JESZCZE LEPIEJ...\! OD RAZU KUP CAŁY \c[4]ZESTAW\c[0]!\"
 
 
 message_901:
@@ -1826,7 +1826,7 @@ message_902:
 
 
 message_903:
-      text: Półki pełne kwiatów.\!Pachną wiosną.
+      text: Półki pełne kwiatów.\! Pachną wiosną.
 
 
 
@@ -1934,15 +1934,15 @@ message_931:
 
 
 message_932:
-      text: Pomarańcze z zapisanymi na nich notkami .
+      text: Pomarańcze z zapisanymi na nich notkami.
 
 
 message_933:
-      text: \"Do mojego drogiego brata, POMARAŃCZOWEGO JASIA.\! Mam nadzieję, że ta wiadomość do ciebie dotrze.\! Proszę wróć do domu.\"
+      text: \"Mój drogi bracie, POMARAŃCZOWY JASIU.\! Mam nadzieję, że ta wiadomość do ciebie dotrze.\! Proszę, wróć do domu.\"
 
 
 message_934:
-      text: Pomarańczopodobny owoc .
+      text: Pomarańczopodobny owoc.
 
 
 message_935:
@@ -1987,19 +1987,19 @@ message_941:
 
 
 message_942:
-      text: Pudło wypełnione mazią
+      text: Pudło wypełnione mazią.
 
 
 message_943:
-      text: Stół pokryty mazią
+      text: Stół pokryty mazią.
 
 
 message_944:
-      text: Zepsuty komputer
+      text: Zepsuty komputer.
 
 
 message_945:
-      text: Plany nieudanego eksperymentu
+      text: Plany nieudanego eksperymentu.
 
 
 message_946:
@@ -2016,7 +2016,7 @@ message_950:
 
 
 message_951:
-      text: Czy chcesz stuknąć dużego TOSTA?
+      text: Czy chcesz tyknąć dużego TOSTA?
 
 
 #orange Oasis
@@ -2030,4 +2030,4 @@ message_952:
 
 
 message_953:
-      text: \n<RÓŻOWE LUSTRO>Ja lustereczko,\| mówię przecie...\|<br>żeś najsłodszy jest na świecie!
+      text: \n<RÓŻOWE LUSTRO>Lustereczko,\| mówię przecie...\|<br>żeś najsłodsza jest na świecie!

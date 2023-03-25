@@ -64,28 +64,11 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
     } else {
       finalString = `${tname} nie może stać się ${em}`;
     }
-    if (finalString.length >= 40) {
-      let voinIndex = 0;
-      for (let i = 40; i >= 0; i--) {
-        if (finalString[i] === " ") {
-          voinIndex = i;
-          break;
-        }
-      }
-      finalString = [finalString.slice(0, voinIndex).trim(), "\r\n", finalString.slice(voinIndex).trimLeft()].join('')
-    }
     return finalString;
   }
 
   function parseNoStateChange(tname, stat, hl, target) {
-    let noStateChangeText; // TARGET NAME - STAT - HIGHER/LOWER
-    if (target._doesUseAlternateForms()) {
-      noStateChangeText = `${stat} ${target._altName()} nie może ${hl}`;
-    } else if (target._doesUseAlternateForms2()) {
-      noStateChangeText = `${stat} ${target._altName()} nie mogą ${hl}`;
-    } else {
-      noStateChangeText = `${stat} ${target._altName()} nie może ${hl}`;
-    }
+    let noStateChangeText = `${stat} ${target._altName2()} nie może ${hl}`;
     return noStateChangeText
   }
 
@@ -1479,7 +1462,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       break;
 
     case 'LIVING BREAD NOTHING': //LIVING BREAD ATTACK
-      text = user.name() + ' powoli zbliża się do' + target._altName() + '!';
+      text = user.name() + ' powoli zbliża się do ' + target._altName() + '!';
       break;
 
     case 'LIVING BREAD BITE': //LIVING BREAD BITE
@@ -2771,7 +2754,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
 
     //SWEETSERC//
     case 'SH ATTACK': //SWEET SERC ATTACK
-      text = user.name() + ' strzela ' + target._altName() + '.\r\n';
+      text = user.name() + ' strzela ' + target._altName() + ' z liścia.\r\n';
       text += hpDamageText;
       break;
 
@@ -2892,8 +2875,8 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       break;
 
     case 'TENTACLE GOOP': //ABBI TENTACLE GOOP
-      text = target.name() + ' jest w ciemnej mazi!\r\n';
-      text += target.name() + ' słabnie...\r\n';
+      text = 'Czarna maź pokrywa ' + target._altName()+ '!\r\n';
+      text += target.name() + ' czuje się gorzej...\r\n';
       text += target.name() + ' słabnie.\r\n';
       text += target.name() + ' opuszcza gardę.\r\n';
       text += target.name() + ' zwalnia.';
@@ -3007,7 +2990,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       break;
 
     case 'PERFECT STEAL BREATH': //PERFECT SERC STEAL BREATH
-      text = user.name() + ' zabiera dech w piersi ' + target._altName() + '.\r\n';
+      text = user.name() + ' zapiera dech w piersiach ' + target._altName() + '.\r\n';
       text += mpDamageText + "\r\n";
       if (user.result().mpDamage < 0) { text += `${user.name()} odzyskuje ${Math.abs(user.result().mpDamage)} SOKU...\r\n` }
       break;
@@ -3992,7 +3975,7 @@ Window_BattleLog.prototype.displayCustomActionText = function (subject, target, 
       }
     });
     // Add Wait
-    this.push('wait', 15);
+    this.push('wait', 20);
   }
   if (!!item.isRepeatingSkill) { this._multiHitFlag = true; }
 }
@@ -4017,7 +4000,7 @@ Window_BattleLog.prototype.displayHpDamage = function(target) {
 
         this.push('addText', textArray[0]);
         this.push('addText', textArray[1]);
-        this.push('wait', 10);
+        this.push('wait', 20);
         return;
       }
       text = this.changeDamageForm(text, target);
@@ -4026,6 +4009,8 @@ Window_BattleLog.prototype.displayHpDamage = function(target) {
 };
 
 Window_BattleLog.prototype.displayMpDamage = function(target) {
+  let text = this.makeMpDamageText(target);
+
   if (target._doesUseAlternateForms2()) {
     text = text.replace('traci', 'tracą');
   }
@@ -4034,7 +4019,7 @@ Window_BattleLog.prototype.displayMpDamage = function(target) {
       if (target.result().mpDamage < 0) {
           this.push('performRecovery', target);
       }
-      this.push('addText', this.makeMpDamageText(target));
+      this.push('addText', text);
   }
 };
 

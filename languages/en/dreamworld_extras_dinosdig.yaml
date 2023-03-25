@@ -82,7 +82,7 @@ message_16:
 #message_10-16
  
 message_17:
-      text: \n<DINO>A teraz czas na małe DINO ostrzeżenie...\! Skarby to nie jedyna rzecz, którą znajdziecie w \c[11]PIRAMIDZIE ŻYWIENIOWEJ\c[0].
+      text: \n<DINO>A teraz czas na małe DINOSTRZEŻENIE...\! Skarby to nie jedyna rzecz, którą znajdziecie w \c[11]PIRAMIDZIE ŻYWIENIOWEJ\c[0].
  
 message_18:
       text: \n<DINO>Przez czas waszego pobytu możecie spotkać kłopotliwe stworzenia, chcące walczyć...\! Nie jesteśmy odpowiedzialni za bezpieczeństwo, ani wasze, ani waszej własności, kumacie?

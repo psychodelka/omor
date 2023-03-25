@@ -64,12 +64,12 @@ message_18:
 message_19:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubDalej, OMORI! \! Uda ci się!
+      text: \aubDalej, OMORI!\! Uda ci się!
  
 message_30:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubDalej, OMORI \! Dasz radę!
+      text: \aubDalej, OMORI\! Dasz radę!
  
  
 #- WĄŻ money

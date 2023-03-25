@@ -332,7 +332,7 @@ message_105:
 message_110:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marCześć! Znaleźliście wszystko z \c[4]DZIWNEJ LISTY\c[0], o co prosiła TELELALA.\. Zanieście je jej.\. Jestem przekonana, że szykuje coś wspaniałego...\. i dziwnego.\.\^
+      text: \marHej! Znaleźliście wszystko z \c[4]DZIWNEJ LISTY\c[0] TELELALI.\. Dostarczcie jej to.\. Jestem przekonana, że szykuje coś wspaniałego...\. i dziwnego.\.\^
 
 message_111:
       faceset: MainCharacter_Mari
@@ -568,7 +568,7 @@ message_186:
 message_190:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marŚWIECZYNKA zgubiła swojego \c[4]PLUSZOWEGO MISIA\c[0] i nigdzie nie może go znaleźć.\. Ech...\. Kto teraz będzie wysłuchiwał jej żali?\.\^
+      text: \marŚWIECZYNKA zgubiła swojego \c[4]PLUSZOWEGO MISIA\c[0] i nigdzie nie może go znaleźć.\. Ech...\. Kto teraz będzie wysłuchiwał jej żalów?\.\^
 
 #After getting \c[4]TEDDY BEAR\c[0]:
 
@@ -699,7 +699,7 @@ message_240:
 message_241:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marFISTASIA i ŻELUSIA chcą dać USZCE prezent w podzięce za opiekę nad nimi.\. Czy w \c[11]POMARAŃCZOWEJ OAZIE\c[0] nie znajdziecie miejsca, w którym byłoby coś ciekawego?\.\^
+      text: \marORZESZKA i DŻEMKA chcą dać USZCE prezent w podzięce za opiekę nad nimi.\. Czy w \c[11]POMARAŃCZOWEJ OAZIE\c[0] nie znajdziecie miejsca, w którym byłoby coś ciekawego?\.\^
 
 
 # =========================================================================================
@@ -883,7 +883,7 @@ message_282:
 message_283:
         faceset: MainCharacter_Mari
         faceindex: 0
-        text: \marHej! Możecie wykorzystać tu znalezione przez was \c[4]BILETY NA SPEKTAKL\c[0].\. Ale lepiej najpierw rozejrzeć się, czy nie ma tu BASILA.<br>Czy KIEŁKUNY mogą coś wiedzieć?\. Kto pyta, nie błądzi!\.\^
+        text: \marHej! Możecie tu wykorzystać znalezione przez was \c[4]BILETY NA SPEKTAKL\c[0].\. Ale lepiej najpierw rozejrzeć się, czy nie ma tu BASILA.<br>Czy KIEŁKUNY mogą coś wiedzieć?\. Kto pyta, nie błądzi!\.\^
 
 #Underground Dungeon
 message_284:

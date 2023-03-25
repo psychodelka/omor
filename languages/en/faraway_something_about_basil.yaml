@@ -55,12 +55,12 @@ message_30:
 message_9:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubGdy już dotarliśmy do jego pokoju, próbowałam z nim porozmawiać...\!<br>powiedział mi wtedy, że musi wyjść do łazienki.
+      text: \aubGdy już dotarliśmy do jego pokoju, próbowałam z nim porozmawiać...\! powiedział mi wtedy, że musi wyjść do łazienki.
  
 message_50:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubWtedy zauważyłam, że na biblioteczce leżał jego stary \c[4]ALBUM ZE ZDJĘCIAMI\c[0].\! Chciałam tylko rzucić okiem na fotki, no bo...\! no...\! Chyba po prostu chciałam raz jeszcze zobaczyć uśmiech na naszych twarzach.
+      text: \aubWtedy zauważyłam, że na biblioteczce leżał jego stary \c[4]ALBUM ZE ZDJĘCIAMI\c[0].\! Chciałam tylko rzucić okiem na fotki, no bo...\! no...<br>Chyba po prostu chciałam raz jeszcze zobaczyć uśmiech na naszych twarzach.
  
 message_10:
       faceset: MainCharacters_Faraway
@@ -230,7 +230,7 @@ message_42:
 message_43:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kel\{\{\sinv[1]O, NO PEWNIE! WCHODZĘ W TO!!
+      text: \kel\{\sinv[1]O, NO PEWNIE! WCHODZĘ W TO!!
  
 message_44:
       faceset: MainCharacters_Faraway

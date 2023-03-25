@@ -184,7 +184,7 @@ message_28:
 #Location: OSTATNIA PRZYSTAŃ - Casino
 #ALI GATOR is on his tiny phone.
 message_29:
-      text: \n<ALI GATOR>\}Nie... \!Serio?... \!Znowu\!<br>Nie przejmuj się tym... \! Nie będzie z tym problemu...
+      text: \n<ALI GATOR>\}Nie... \!Serio?... \!Znowu...\!<br>Nie przejmuj się...\! Żaden problem...
  
 #ALI GATOR
 #Location: OSTATNIA PRZYSTAŃ- Bathroom (Looking at Mirror)
@@ -257,7 +257,7 @@ message_32:
 #OWCA
 #Location: POMARAŃCZOWA OAZA
 message_33:
-      text: \n<OWCA>Na nasz miesiąc miodowy chcieliśmy pojechać do \c[11]OSTATNIEJ PRZYSTANI\c[0]...<br>ale nie było tam tak, jak sobie wyobrażaliśmy, dlatego przyjechaliśmy tutaj, do \c[11]POMARAŃCZOWEJ OAZY\c[0]!
+      text: \n<OWCA>Na nasz miesiąc miodowy chcieliśmy pojechać do \c[11]OSTATNIEJ PRZYSTANI\c[0]...<br>ale nie było tam tak, jak sobie wyobrażaliśmy,<br>dlatego przyjechaliśmy tutaj, do \c[11]POMARAŃCZOWEJ OAZY\c[0]!
  
 message_34:
       text: \n<OWCA>Nie wiem, czego się spodziewałam...\! Jest yyyyy...\!<br>Jest dość pomarańczowa.
@@ -265,7 +265,7 @@ message_34:
 #WILK
 #Location: POMARAŃCZOWA OAZA
 message_35:
-      text: \n<WILK>Uch... Uch... \! Ale tu gorąco.\! Czy w ogóle znajdziemy tu jakiś hotel?
+      text: \n<WILK>Uch... Uch...\! Ale tu gorąco.\! Czy w ogóle znajdziemy tu jakiś hotel?
  
 #ELEONORA
 #Location: MUSTARD SUBMERSIBLE

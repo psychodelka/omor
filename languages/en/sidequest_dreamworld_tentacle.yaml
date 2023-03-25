@@ -1,69 +1,94 @@
 
+
 # =========================================================================================
 # Tentacle
 # ========================================================================================
 
+
 #Cutscene: ABBI's Tentacles
+
 
 #ABBIs Tentacles sink into the ground. ABBI's head is peeking from above the strange
 
 
+
+
 message_0:
-      text: \fn<OMORI_GAME>\n<ABBI>Please...\| No more...\! I am...\| sorry...\Quake[0]
+      text: \fn<OMORI_GAME>\n<ABBI>Proszę...\| Miej litość...\! ABBI...\| przeprasza...\Quake[0]
+
+
 
 
 message_3:
-      text: \fn<OMORI_GAME>\n<ABBI>I am eight small pools...\| red tentacles...\|<br>across \c[11]HEADSPACE\c[0]...\Quake[0]
+      text: \fn<OMORI_GAME>\n<ABBI>Osiem kałuż...\| czerwone macki...\|<br>wokół \c[11]GŁĘBI\c[0]...\Quake[0]
+
 
 message_4:
-      text: \fn<OMORI_GAME>\n<ABBI>I am bring...\| offerings there...\Quake[0]
+      text: \fn<OMORI_GAME>\n<ABBI>ABBI daruje...\| ofiarę...\Quake[0]
+
+
 
 
 message_5:
-      text: \fn<OMORI_GAME>\n<ABBI>Please...\| please...\| please...\| Forgive me...\| My best friend...\SINV[0]\Quake[0]
+      text: \fn<OMORI_GAME>\n<ABBI>Proszę...\| proszę...\| proszę...\| Wybacz ABBI...\| Najlepszy przyjacielu...\SINV[0]\Quake[0]
+
 
 #[Nod/Shake]
 #[Nod]
 
+
 message_6:
-      text: \fn<OMORI_GAME>\n<ABBI>Thank you...\| DREAMER...
+      text: \fn<OMORI_GAME>\n<ABBI>Dziękuję...\| MARZYCIELU...
+
 
 message_7:
-      text: \fn<OMORI_GAME>\n<ABBI>I am...\| a gift for you...\| DREAMER.
+      text: \fn<OMORI_GAME>\n<ABBI>ABBI...\| prezent dla ciebie...\| MARZYCIELU.
+
 
 message_8:
-      text: ABBI gave you a \c[13]BASEBALL BAT\c[0].
+      text: ABBI podarowała ci \c[13]KIJ BEJSBOLOWY\c[0].
+
 
 message_9:
-      text: ABBI gave you a \c[13]HEADBAND\c[0].
+      text: ABBI podarowała ci \c[13]BANDANĘ\c[0].
+
 
 message_10:
-      text: ABBI gave you a \c[13]COUGH MASK\c[0].
+      text: ABBI podarowała ci \c[13]MASECZKĘ\c[0].
+
 
 message_11:
-      text: ABBI gave you a \c[13]RED KNIFE\c[0].
+      text: ABBI podarowała ci \c[13]KRWAWY NÓŻ\c[0].
+
 
 message_12:
-      text: ABBI gave you a \c[13]BASKETBALL\c[0].
+      text: ABBI podarowała ci \c[13]PIŁKĘ DO KOSZYKÓWKI\c[0].
+
 
 message_13:
-      text: ABBI gave you \c[13]OL' RELIABLE\c[0].
+      text: ABBI podarowałą ci \c[13]STARĄ NIEZAWODNĄ\c[0].
+
 
 message_14:
-      text: ABBI gave you a \c[13]CHEF'S HAT\c[0].
+      text: ABBI podarowała ci \c[13]CZAPKĘ KUCHARSKĄ\c[0].
+
 
 message_15:
-      text: ABBI gave you a \c[13]PRETTY BOW\c[0].
+      text: ABBI podarowała ci \c[13]UROCZĄ KOKARDKĘ\c[0].
+
 
 message_16:
-      text: An empty puddle.
+      text: Pusta kałuża.
+
 
 message_17:
-      text: You got \c[13]ABBI'S EYE\c[0].
+      text: Podniosłeś \c[13]OKO ABBI\c[0].
+
 
 #[Shake]
 #ABBI suddenly disappears
 #Tentacle pools in dreamworld disappear
 
+
 message_18:
-      text: \fn<OMORI_GAME>\n<ABBI>The truth...\| I am used to know it... \|<br>But... \| I am... \| cannot remember...
+      text: \fn<OMORI_GAME>\n<ABBI>Prawda...\| ABBI znała... \|<br>Ale... \| ABBI... \| nie pamięta...

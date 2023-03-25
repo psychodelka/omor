@@ -5,10 +5,10 @@
 #Slot Machines Text
 
 message_0:
-      text: \fs[46]OBSTAW AŻ 3 RZĘDY! KRĘĆ! KRĘĆ! KRĘĆ!
+      text: \fs[36]OBSTAW AŻ 3 RZĘDY! KRĘĆ! KRĘĆ! KRĘĆ!
 
 message_1:
-      text: \fs[46]ŁAŁ!! WSPANIAŁE SZCZĘŚCIE!!\!\fs[24]<br>Zagrać ponownie?
+      text: \fs[36]ŁAŁ!! WSPANIAŁE SZCZĘŚCIE!!\!\fs[24]<br>Zagrać ponownie?
 
 message_2:
       text: Straciłeś trochę MAŁŻY.\! Niedobrze...<br>\!Czy chcesz zagrać ponownie?

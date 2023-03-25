@@ -10,7 +10,7 @@ message_750:
 message_751:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubTak, tak, jasne, proszę PANA KIEŁKUNA!\!<br>Są tutaj!
+    text: \aubTak, tak, jasne, proszę PANIE KIEŁKUNIE!\!<br>Są tutaj!
 
 message_752:
     text: AUBREY sięgnęła do twojej KIESZENI i wyciągnęła z niej \c[4]BILETY NA SPEKTAKL\c[0].
@@ -718,7 +718,7 @@ message_852:
 #'MAXIMUS'
 
 message_244:
-    text: \n<RYCERZ MAKSYM>Stać, impostorzy!<br>Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!\!<br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br>Wiecie... jestem lepszy niż ci słabi, niedoświadczeni HAROLDZI i MARCJE!<br><br>Jam jest RYCERZ MAKSYM... a mój wspaniały rodowód przyniesie mi zwycięstwo i chwałę dla rodziny!
+    text: \n<RYCERZ MAKSYM>Stać, impostorzy!<br>Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!\!<br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br>Wiecie... jestem lepszy niż ci słabi, niedoświadczeni HAROLDZI i MARCJE!<br><br>Jam jest RYCERZ MAKSYM... i z moim wspaniałym rodowodem, przyniosę zwycięstwo i chwałę mojej rodzinie!
 
 message_245:
     text: \n<RYCERZ MAKSYM II>Stać, impostorzy! Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!<br><br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br>\!Wiecie... jestem synem legendarnego wojownika,<br>RYCERZA MAKSYMA...<br>Może udało wam się pokonać mojego ojca, ale jestem od niego silniejszy!\! Dzięki mojemu wspaniałemu rodowodowi oraz ojcu po mojej stronie, osiągnę zwycięstwo!
@@ -792,13 +792,13 @@ message_536:
     text: \n<KIEŁKUN KAMERDYNDER>Kochany bracie...\! \com[2]Działasz mi na łodyżki!\!<br>Lecz wiem jak to rozwikłać!
 
 message_537:
-    text: \n<KIEŁKUN KAMERDYNDERS>\{\{TOWARZYSZE KIEŁKUNI!!
+    text: \n<KIEŁKUNY KAMERDYNERZY>\{\{TOWARZYSZE KIEŁKUNI!!
 
 message_660:
-    text: \n<KIEŁKUN KAMERDYNDERS>\{\{DZIWNE STWORZENIA!!
+    text: \n<KIEŁKUNY KAMERDYNERZY>\{\{DZIWNE STWORZENIA!!
 
 message_538:
-    text: \n<KIEŁKUN KAMERDYNDERS>Jak myślicie, który z nas byłby lepszym kandydatem dla SŁODZIUTKIEJ!?
+    text: \n<KIEŁKUNY KAMERDYNERZY>Jak myślicie, który z nas byłby lepszym kandydatem dla SŁODZIUTKIEJ!?
 
 message_539:
     text: \n<KIEŁKUN KAMERDYNDER>Ha! Co ci mówiłem!?\!<br>W tej chwili idę poprosić SŁODZIUTKĄ o rękę!
@@ -961,12 +961,12 @@ message_573:
 message_574:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \n<HERO>Ha...\! Ci KIEŁKUNI wpakowali się w kłopoty...\! Jestem ciekaw, czy możemy im jakoś pomóc.
+    text: \n<HERO>Ha...\! Te KIEŁKUNY wpakowały się w kłopoty...\! Jestem ciekaw, czy możemy im jakoś pomóc.
 
 message_575:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\com[2]Hej, koleżki! Potrzebujecie pomocnej dłoni?\!<br>Profesjonalni pomagacze, do waszych usług!
+    text: \kel\com[2]Hej, koleżkowie! Potrzebujecie pomocnej dłoni?\!<br>Profesjonalni pomagacze, do waszych usług!
 
 message_576:
     text: \n<KIEŁKUN WIRTUOZ>Och, dzięki bogu! Pojawili się profesjonaliści!
@@ -1853,7 +1853,7 @@ message_103:
     text: \n<MYTOGATOR>No weź! Stać cię!<br>\!Nie możesz zadzwonić do rodziców?
 
 message_104:
-    text: \n<MYTOGATOR>Ooo, co za szkoda...\! Bez kręcenia nie ma wygranej.
+    text: \n<MYTOGATOR>Ooo, jaka szkoda...\! Bez kręcenia nie ma wygranej.
 
 message_105:
     text: \n<MYTOGATOR>Ooo, no proszę...\! Nie bądź taki skąpy.
@@ -1862,7 +1862,7 @@ message_106:
     text: \n<MYTOGATOR>O innej porze, aligatorze...
 
 message_107:
-    text: \n<MYTOGATOR>Hola, hola, hola! Gdzie się wybieracie, koleżki?
+    text: \n<MYTOGATOR>Hola, hola, hola! Gdzie się wybieracie, koleżkowie?
 
 message_108:
     text: \n<MYTOGATOR>Wracajcie tu ładnie...<br>Ta droga jest płatna, rozumiecie?\!<br>\com[2]Wyskakujcie z MAŁŻY albo się zmywajcie!
@@ -2086,7 +2086,7 @@ message_236:
     text: \n<GIGANTOS>Ej, patrzcie na to, ludzie.
 
 message_237:
-    text: \n<GIGANTOS>Czy wiedziałeś, że my, GIGANTOSY, jesteśmy wyjątkowo silne, by wstrzymać prąd wodospadu?\! Spójrz!
+    text: \n<GIGANTOS>Czy wiedziałeś, że my, GIGANTOS, jesteśmy wyjątkowo silnym, by wstrzymać prąd wodospadu?\! Spójrz!
 
 message_238:
     text: \n<GIGANTOS>Fujka!\! No może oprócz tego gościa...<br>\!No cóż! Tak działa naturalna selekcja.

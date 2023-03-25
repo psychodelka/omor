@@ -1,32 +1,32 @@
 
 # =========================================================================================
-# Flower puzzle
+# PUZZLE Z KWIATKIEM
 # ========================================================================================
 #Copy from Demo
 
 
 message_0:
-    text: \daiI want to give flowers to someone, but he's only interested in puzzles...\! If only I could find a \c[4]FLOWER PUZZLE\c[0] or something...\! Maybe then he would notice me...
+    text: \n<MARGARETA>Chcę dać komuś kwiaty, ale obchodzą go tylko puzzle...\! Gdybym tylko znalazła gdzieś \c[4]PUZZLE Z KWIATKIEM\c[0] czy coś podobnego...\! Może wtedy by mnie zauważył...
 
 message_1:
-    text: \daiIs that a \c[4]FLOWER PUZZLE\c[0]?\! For me?\! ...\!<br>\}Maybe NEB will finally notice me now!
+    text: \n<MARGARETA>\c[4]PUZZLE Z KWIATKIEM\c[0]?\! Dla mnie?\! ...\!<br>\}Może NEB w końcu mnie zauważy!
 
 message_2:
-    text: \dai...
+    text: \n<MARGARETA>...
 
 message_3:
-    text: \dai\Com[2]Oh no, I said his name! Please pretend you didn't hear that...
+    text: \n<MARGARETA>\Com[2]O nie, powiedziałam jego imię! Proszę, udajcie, że tego nie słyszeliście...
 
 message_4:
-    text: \daiThank you for the \c[4]FLOWER PUZZLE\c[0]!\! Here's a gift in return...\!<br>I picked a bunch of them earlier!\! Aren't they pretty?
+    text: \n<MARGARETA>Dziękuję za \c[4]PUZZLE Z KWIATKIEM\c[0]!\! To ode mnie w podzięce...\!<br>Zebrałam wcześniej bukiet!\! Ładna, racja?
 
 message_5:
-    text: You got a \c[13]DAISY\c[0] from DAISY!
+    text: Dostałeś \c[13]MARGARETKĘ\c[0] od MARGARETY!
 
 message_6:
-    text: \daiI-I wonder when should I give this to him...
+    text: \n<MARGARETA>Z-zastanawiam się, kiedy mu je dać...
 
 # =========================================================================================
 
 message_7:
-    text: You see something shiny among the debris...
+    text: Coś świecącego wyłania się spod gruzów...

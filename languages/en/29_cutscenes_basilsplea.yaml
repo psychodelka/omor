@@ -44,7 +44,7 @@ message_4:
 message_5:
       faceset: MainCharacter_Basil_Dark
       faceindex: 20
-      text: Jest z tobą od...\! Tamtego dnia, w którym MARI umarła.\bas
+      text: To coś jest z tobą od...\! tamtego dnia, w którym MARI umarła.\bas
  
 message_6:
       faceset: MainCharacter_Basil_Dark
@@ -54,7 +54,7 @@ message_6:
 message_7:
       faceset: MainCharacter_Basil_Dark
       faceindex: 17
-      text: Ty...\! Nie mogłeś tego zrobić.\bas
+      text: Ty...\! nie mogłeś tego zrobić.\bas
  
 message_8:
       faceset: MainCharacter_Basil_Dark
@@ -358,7 +358,7 @@ message_81:
       text: Dużo przeżyłeś przez te parę dni.\!<br>Musisz być zmęczony...\mar
  
 message_82:
-      text: Wszyscy popełniamy błędy...\!<br>Od dawna z tym zwlekasz.\mar
+      text: Wszyscy popełniamy błędy...\!<br>Od tego uciekasz od bardzo dawna.\mar
  
 message_83:
       text: Czasami trudno się przyznać, ale w końcu wybaczysz to sobie, tak?\mar
@@ -462,14 +462,14 @@ message_164:
 message_165:
       faceset: MainCharacter_Basil_dark
       faceindex: 46
-      text: Spróbuj...\!<br>\fn<OMORI_GAME>Wszystko będzie dobrze.\! Tak myślę...\her
+      text: Śmiało...\!<br>\fn<OMORI_GAME>Wszystko będzie dobrze.\! Tak myślę...\her
  
 #2nd talk
  
 message_151:
       faceset: MainCharacter_Basil_dark
       faceindex: 46
-      text: Spróbuj...\! Wszystko będzie dobrze.\! Tak myśle...\her
+      text: Śmiało...\! Wszystko będzie dobrze.\! Tak myśle...\her
  
 #KEL does not turn to you
 message_166:
@@ -480,7 +480,7 @@ message_166:
 message_171:
       faceset: MainCharacter_Basil_dark
       faceindex: 45
-      text: \n[8]...\! Co się dzieje?\kel
+      text: \n[8]...\! Czemu ciągle nas to spotyka?\kel
  
 #AUBREY does not turn to you
 message_167:
@@ -496,7 +496,7 @@ message_169:
  
 #POLLY does not turn to you
 message_190:
-      text: \n<POLLY>Czemu...\! Czemu nie mogę pomóc?
+      text: \n<POLLY>Czemu...\! Czemu nie potrafię nic zrobić?
  
 # =========================================================================================
 # Cutscene: In Front of Basil's Door

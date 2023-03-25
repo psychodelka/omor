@@ -3,20 +3,30 @@
 # =========================================================================================
 
 
+
+
 message_200:
       text: \n<HAROLD>\com[2]\{\{\quake[1]STAĆ, WIĘŹNIOWIE!!
+
+
 
 
 message_201:
       text: \n<HAROLD>Poważnie myśleliście, że tak łatwo będzie się wydostać!?
 
 
+
+
 message_202:
       text: \n<HAROLD>Pora wracać do \c[11]LOCHÓW\C[0], dzieciaki!
 
 
+
+
 #message_203: Delete line
 #      text: \n<KEL>Yes, we are?
+
+
 
 
 message_204:
@@ -25,10 +35,14 @@ message_204:
       text: \n<AUBREY>Kurka... Było tak blisko!
 
 
+
+
 message_205:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
       text: \n<KEL>\}Ch-cholera... I co teraz?
+
+
 
 
 message_206:
@@ -37,14 +51,20 @@ message_206:
       text: \n<HERO>Myśl, HERO, myśl!\! Dawaj... Jak się stąd wydostać?\!<br>...\! Och, wiem!
 
 
+
+
 message_207:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
       text: \n<HERO>...\! Ekhem...\! Muszę się sprzeciwić, waćpanie, gdyż zakrawa mi to na omylenie nas z kimś innym! No, no, zgadza się.
 
 
+
+
 #KEL ? MARK THEN EXCLAMATION POINT
 #EVERYONE TURN AND PUTS ON SPROUT MOLE MASKS
+
+
 
 
 message_208:
@@ -53,18 +73,26 @@ message_208:
       text: \n<KEL>\com[2]Ejże, ej. Nie oceniaj książki po okładce!\!<br>Jesteśmy KIEŁKUNAMI z krwi i kości.
 
 
+
+
 message_209:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
       text: \n<AUBREY>O tak, tak, jak najbardziej! Jeszcze jak!\! Jestem też wielbicielką \c[3]TOFU\c[0] i SŁODZIUTKIEJ!\! Mmm... Przepyszna SŁODZIU... Znaczy, pyszne \c[3]TOFU\c[0].
 
 
+
+
 message_210:
-      text: \n<HAROLD>Och! Moje oczy musiały mnie zawieść. Moje kondolencje, bracia.<br>\!Czasem ciężko zobaczyć coś przez ten hełm.
+      text: \n<HAROLD>Och! Moje oczy musiały mnie zawieść. Wybaczcie mi, bracia.<br>\!Czasem ciężko zobaczyć coś przez ten hełm.
+
+
 
 
 message_211:
       text: \n<HAROLD>A więc dalej w drogę.\! Ja kontynuuję swój patrol.\! Wy również, moi drodzy, kierujcie się w stronę waszego celu. Chyba nie chcecie, by jej wysokość SŁODZIUTKA zauważyła...
+
+
 
 
 message_212:
@@ -73,10 +101,14 @@ message_212:
       text: \n<HERO>Ech... Chyba dobrze jak na spontaniczny plan?
 
 
+
+
 message_213:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
       text: \n<AUBREY>Poszło jak z płatka, HERO!\! Dzięki tym \c[4]KIEŁKUNOWYM MASKOM\c[0] wydostaniemy się stąd migiem!
+
+
 
 
 message_214:
@@ -85,10 +117,14 @@ message_214:
       text: \n<KEL>Serio musimy je nosić, HERO?\!<br>Trochę zaczyna mnie drapać...
 
 
+
+
 message_215:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
       text: \n<HERO>Tak, KEL... Musimy je nosić, póki się stąd nie wydostaniemy.\! Dawaj... Chodźmy.
+
+
 
 
 # =========================================================================================
@@ -96,23 +132,35 @@ message_215:
 # =========================================================================================
 
 
+
+
 message_0:
       text: \n<KIEŁKUN OD LISTY GOŚCI>Mój boże! Nie ma czasu na zatwierdzenie wejścia wszystkich tych gości bez grama kultury!\! A to dowód na to, że sława naszej kochanej SŁODZIUTKIEJ jest niepodważalna...
+
+
 
 
 #guest mole puts up chart
 
 
+
+
 message_1:
-      text: \n<KIEŁKUN OD LISTY GOŚCI>Wy tutaj! Sługi z nieprzyzwoitymi facjatami!\! Nadchodzące główne wydarzenie wymaga przepisowego stroju. Jest dla nas niesamowicie istotne, aby widownia była ubrana po myśli SŁODZIUTKIEJ.\! Tutaj macie prostą instrukcję. Zrozumie ją KIEŁKUN i nie tylko!
+      text: \n<KIEŁKUN OD LISTY GOŚCI>Wy tutaj! Sługi z nieprzyzwoitymi facjatami!\! Nadchodzące główne wydarzenie wymaga przepisowego stroju. Jest dla nas niesamowicie istotne,<br>aby widownia była ubrana po myśli SŁODZIUTKIEJ.\! Tutaj macie prostą instrukcję. Zrozumie ją KIEŁKUN i nie tylko!
+
+
 
 
 message_2:
       text: \n<KIEŁKUN OD LISTY GOŚCI>Słucham?\! Potrzebujecie z czymś pomocy?
 
 
+
+
 message_3:
       text: \n<KIEŁKUN OD LISTY GOŚCI>Ładnie poproście grupkę gości, by za wami podążali i przyprowadźcie ich do mnie!\! Nie sprawi wam to problemu, racja?
+
+
 
 
 #pan up
@@ -120,52 +168,78 @@ message_4:
       text: \n<KIEŁKUN OD LISTY GOŚCI>\com[2]Co wy wyprawiacie!? Ten KIEŁKUN jest gościem pierwszej klasy!
 
 
+
+
 message_5:
       text: Jak miały być ubrane KIEŁKUNY?
+
+
 
 
 message_6:
       text: Ile KIEŁKUNÓW zostało?
 
 
+
+
 message_7:
       text: \n<KIEŁKUN OD LISTY GOŚCI>Nawet stąd widzę \v[1001] niewłaściwie ubranych gości!
+
+
 
 
 message_8:
       text: \n<KIEŁKUN OD LISTY GOŚCI>Nawet stąd widzę 1 niewłaściwie ubranego gościa!
 
 
+
+
 message_10:
       text: \n<KIEŁKUN OD LISTY GOŚCI>Cudownie! Wiedziałem, że macie do tego głowę!\!<br>W końcu możemy pozbyć się tych nieróżowych gości!
+
+
 
 
 message_11:
       text: \n<KIEŁKUN OD LISTY GOŚCI>I załatwione!\!<br>Ci nieróżowi goście już nigdy nie ujrzą słońca!
 
 
+
+
 message_12:
       text: \n<KIEŁKUN OD LISTY GOŚCI>\Com[2]\{STRAŻ!!\!\}<br>Przetransportować tych KIEŁKUNÓW do \c[11]LOCHU\C[0]!
 
 
+
+
 message_20:
-      text: \n<RÓŻOWY KIEŁKUN>To niewyobrażalne, żeby kazali mi tyle czekać! Jestem szanownym gościem!
+      text: \n<RÓŻOWY KIEŁKUN>To niewyobrażalne, żeby kazali mi tyle czekać! Jestem szanowanym gościem!
+
+
 
 
 message_21:
-      text: \n<RÓŻOWY? KIEŁKUN>To niewyobrażalne, żeby kazali mi tyle czekać! Jestem szanownym gościem!
+      text: \n<RÓŻOWY? KIEŁKUN>To niewyobrażalne, żeby kazali mi tyle czekać! Jestem szanowanym gościem!
+
+
 
 
 message_22:
       text: \n<RÓŻOWY? KIEŁKUN>\v[1001]
 
 
+
+
 message_23:
       text: Może ktoś bardziej kulturalny przemówiłby im do rozumu...
 
 
+
+
 message_30:
     text: Chcesz, by ten KIEŁKUN podążał za tobą?
+
+
 
 
 # Dreamworld NPC Dialogue: Sweetheart's Castle -> bAKE cAKE
@@ -173,8 +247,12 @@ message_40:
       text: \n<HAROLD>\sinv[1]Nie wiem, o czym oni mówią...\!<br>Miłość SŁODZIUTKIEJ jest na wagę złota!
 
 
+
+
 message_41:
       text: \n<HAROLD>\sinv[2]Tup! Tup! Tup!
+
+
 
 
 message_42:
@@ -183,74 +261,110 @@ message_42:
       text: Witaj, szanowny gościu! Prosiłbym cię o podążanie za nami, gdyż twoja osobistość jest nam niezwykle potrzebna...\her
 
 
+
+
 # =========================================================================================
 # =========================================================================================
 message_60:
-      text: \n<GŁÓWNY SZEF KIEŁKUCHNI>Uch... Moi drodzy podopieczni...\!<br>Niestety mój kręgosłup już wysiada!\! W tej niefortunnej chwili muszę ogłosić, iż przechodzę na emeryturę.
+      text: \n<SZEF KIEŁKUCHNI>Uch... Moi drodzy podopieczni...\!<br>Niestety mój kręgosłup już wysiada!\! W tej niefortunnej chwili muszę ogłosić, iż przechodzę na emeryturę.
+
+
 
 
 message_61:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ale czekaj, szefie! Jak mamy przygotować bajeczne ciasto na tę wyjątkową okazję bez ciebie!?
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Ale czekaj, szefie! Jak mamy przygotować bajeczne ciasto na tę wyjątkową okazję bez ciebie!?
+
+
 
 
 message_62:
-      text: \n<SZEF KIEŁKUCHNI>Moi asystenci, jeden z was musi się wspiąć o szczebel wyżej.\! Ciasto musi być dzisiaj gotowe! Jesteśmy na krawędzi!
+      text: \n<KIEŁKUCHARZ>Moi asystenci, jeden z was musi się wspiąć o szczebel wyżej.\! Ciasto musi być dzisiaj gotowe! Jesteśmy na krawędzi!
+
+
 
 
 message_63:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ach, jasne! Rozumiem, szefie!\! Jako najzdolniejszy z nas wszystkich, podejmę się dowodzenia tym zadaniem!\!<br>Nie zawiodę cię! Masz moje słowo...
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Ach, jasne! Rozumiem, szefie!\! Jako najzdolniejszy z nas wszystkich, podejmę się dowodzenia tym zadaniem!\!<br>Nie zawiodę cię! Masz moje słowo...
+
+
 
 
 # =========------------------
 message_70:
-     text: \n<INNY ASYSTENT SZEFA KIEŁKUCHNI>Hmm... Właściwie to...\! Chyba nie wezmę udziału...
+     text: \n<INNY ZASTĘPCA SZEFA KIEŁKUCHNI>Hmm... Właściwie to...\! Chyba nie wezmę udziału...
+
+
 
 
 message_71:
-      text: \n<INNY ASYSTENT SZEFA KIEŁKUCHNI>No, jakoś brzuch mnie rozbolał...
+      text: \n<INNY ZASTĘPCA SZEFA KIEŁKUCHNI>No, jakoś brzuch mnie rozbolał...
+
+
 
 
 message_74:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ba! Nie potrzebuję waszej pomocy, nieudacznicy!\! Upiekę najlepsze ciasto na świecie, jeszcze zobaczycie!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Ba! Nie potrzebuję waszej pomocy, nieudacznicy!\! Upiekę najlepsze ciasto na świecie, jeszcze zobaczycie!
+
+
 
 
 message_72:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ej, wy tutaj!\! Mianuję was ASYSTENTAMI SZEFA KIEŁKUCHNI.\!<br>Widzimy się w kuchni, pronto!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Ej, wy tutaj!\! Mianuję was ZASTĘPCAMI SZEFA KIEŁKUCHNI.\!<br>Widzimy się w kuchni, pronto!
+
+
 
 
 # =========------------------
+
+
 
 
 message_73:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Co tak długo!?\! Zajmijcie się tym, dobra?\! Nie ruszę się stąd, póki nie upiekę najlepszego ciasta we wszechświecie!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Co tak długo!?\! Zajmijcie się tym, dobra?\! Nie ruszę się stąd, póki nie upiekę najlepszego ciasta we wszechświecie!
+
+
 
 
 # =========------------------
 
 
+
+
 message_80:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>\com[2]Gdzie wy się wybieracie!? Wracać tu!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>\com[2]Gdzie wy się wybieracie!? Wracać tu!
+
+
 
 
 message_81:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Powodzenia...\! Przyda wam się.
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Powodzenia...\! Przyda wam się.
+
+
 
 
 # =========------------------
 message_82:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Gotowi, żeby już zacząć?\! Po prostu słuchajcie moich instrukcji i będzie perfekcyjnie.\! Znam przepis GŁÓWNEGO SZEFA KIEŁKUCHNI na pamięć!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Gotowi, żeby już zacząć?\! Po prostu słuchajcie moich instrukcji i będzie perfekcyjnie.\! Znam przepis SZEFA KIEŁKUCHNI na pamięć!
+
+
 
 
 message_83:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ej, nie ma co się denerwować!\! Zaufajcie mi, wiem co robię!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Ej, nie ma co się denerwować!\! Zaufajcie mi, wiem co robię!
+
+
 
 
 message_84:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Krok pierwszy, nastawcie piekarnik na 75 STOPNI!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Krok pierwszy, nastawcie piekarnik na 75 STOPNI!
+
+
 
 
 message_100:
       text: Na jaką temperaturę chcesz nastawić piekarnik?
+
+
 
 
 # =========------------------
@@ -258,12 +372,18 @@ message_101:
       text: 75 STOPNI
 
 
+
+
 message_102:
       text: 190 STOPNI
 
 
+
+
 message_103:
       text: 350 STOPNI
+
+
 
 
 message_120:
@@ -271,59 +391,87 @@ message_120:
 # =========------------------
 
 
+
+
 message_104:
       text: Nastawiłeś piekarnik.\! Nagrzewa się.
 
 
+
+
 message_105:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Cudownie!\! Następnie musicie wymieszać dwa główne składniki w misce...\! MĘKĘ i PIŁECZKI DO PING PONGA!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Cudownie!\! Następnie musicie wymieszać dwa główne składniki w misce...\! MĘKĘ i PIŁECZKI DO PING PONGA!
+
+
 
 
 message_106:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Nieźle wam idzie!\! Potem trzeba dodać SÓL i SER!\!<br>Dokładnie, mieszajcie póki nie będzie rzadkie!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Nieźle wam idzie!\! Potem trzeba dodać SÓL i SER!\!<br>Dokładnie, mieszajcie póki nie będzie rzadkie!
 # =========------------------
 message_107:
       text: Czy chcesz wziąć CUKIER?
+
+
 
 
 message_108:
       text: Czy chcesz wziąć MĄKĘ?
 
 
+
+
 message_109:
       text: Czy chcesz wziąć ZIEMIĘ OGRODOWĄ?
+
+
 
 
 message_110:
       text: Czy chcesz wziąć TRUSKAWKI?
 
 
+
+
 message_111:
       text: Czy chcesz wziąć SZYSZKI?
+
+
 
 
 message_112:
       text: Czy chcesz wziąć SOK OWOCOWY?
 
 
+
+
 message_113:
       text: Czy chcesz wziąć MASŁO?
+
+
 
 
 message_114:
       text: Czy chcesz wziąć OGÓRKI?
 
 
+
+
 message_115:
       text: Czy chcesz wziąć RYBĘ?
+
+
 
 
 message_116:
       text: Czy chcesz wziąć JAJKA?
 
 
+
+
 message_117:
       text: Czy chcesz wziąć STAREGO BUTA?
+
+
 
 
 message_118:
@@ -331,161 +479,233 @@ message_118:
 # =========------------------
 
 
+
+
 message_122:
       text: Niesiesz za dużo składników.
 
 
+
+
 message_123:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Teraz gotujemy!\! Na koniec pokrójcie SOS na kawałki!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Teraz gotujemy!\! Na koniec pokrójcie SOS na kawałki!
+
+
 
 
 message_124:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Wspaniale!\! Teraz zmiksujcie wszystko razem i włóżcie do mikrofali!\! To takie proste!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Wspaniale!\! Teraz zmiksujcie wszystko razem i włóżcie do mikrofali!\! To takie proste!
+
+
 
 
 # =========------------------
+
+
 
 
 message_125:
       text: Wziąć CIASTO?
 
 
+
+
 message_126:
       text: Wkładasz CIASTO do piekarnika.
 
 
+
+
 # =========------------------
+
+
 
 
 message_127:
       text: Upiekłeś CIASTO.\! Wow! Wygląda bardzo dobrze!
 
 
+
+
 message_128:
       text: Upiekłeś CIASTO.\! Wygląda w miarę dobrze.
+
+
 
 
 message_129:
       text: Upiekłeś CIASTO.\! Nie wygląda zbyt dobrze...
 
 
+
+
 message_130:
       text: Upiekłeś CIASTO.\! ...\! Czego ty do niego, kurde, dodałeś!?
 
 
+
+
 # =========------------------
 message_131:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ach! Wszystko gotowe?\! Dobra robota, jestem pod wrażeniem!\!<br>Skosztujmy tego potwora!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Ach! Wszystko gotowe?\! Dobra robota, jestem pod wrażeniem!\!<br>Skosztujmy tego potwora!
+
+
 
 
 message_132:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>\com[2]\{FANTASTYCZNIE! DOKŁADNIE TAK, JAK TO SOBIE WYOBRAŻAŁEM!!\!\}<br>Kopara opadnie reszcie ASYSTENTÓW!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>\com[2]\{FANTASTYCZNIE! DOKŁADNIE TAK, JAK TO SOBIE WYOBRAŻAŁEM!!\!\}<br>Kopara opadnie reszcie ASYSTENTÓW!
+
+
 
 
 message_133:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Hmm... To ciasto jest dobre, lecz nie na tyle, by zaskoczyć resztę...
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Hmm... To ciasto jest dobre, lecz nie na tyle, by zaskoczyć resztę...
+
+
 
 
 message_134:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Wow, to jest naprawdę obrzydliwe!\! Chyba pora wrócić do przedszkola!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Wow, to jest naprawdę obrzydliwe!\! Chyba pora wrócić do przedszkola!
+
+
 
 
 message_135:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Dobry Boże... Z której strony to niby jest ciasto!? Wygląda jak zupa!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Dobry Boże... Z której strony to niby jest ciasto!? Wygląda jak zupa!
+
+
 
 
 message_136:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>\com[2]...\!\quake[1]\{\{AWEKJRLKJFLKASNFAWIJGAWEFJAWEKFJAKFAASJFKA!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>\com[2]...\!\quake[1]\{\{AWEKJRLKJFLKASNFAWIJGAWEFJAWEKFJAKFAASJFKA!
 # =========------------------
+
+
 
 
 message_137:
       text: Jesteś pewien, że chcesz to zrobić?
 
 
+
+
 message_138:
       text: Musisz wziąć wszystkie potrzebne składniki.
+
+
 
 
 message_140:
       text: Wziąć MIESZANKĘ?
 
 
+
+
 message_141:
       text: Wziąć TACĘ?
+
+
 
 
 message_142:
       text: Nie potrzebujesz tego.
 
 
+
+
 message_143:
       text: Potrzebujesz więcej składników.
 
 
+
+
 # =========------------------
 message_144:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>\com[2]Co wy wyprawiacie!?\! Wracać tu i robić to ciasto!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>\com[2]Co wy wyprawiacie!?\! Wracać tu i robić to ciasto!
+
+
 
 
 message_500:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>\com[2]\{\{EJ! NIE KRADNIEMY!!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>\com[2]\{\{EJ! NIE KRADNIEMY!!
 # =========------------------
 message_145:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>W końcu się go pozbyliśmy...\! Ten typ był kulą u nogi.\!<br>No to co, możecie zacząć robić ciasto?
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>W końcu się go pozbyliśmy...\! Ten typ był kulą u nogi.\!<br>No to co, możecie zacząć robić ciasto?
+
+
 
 
 message_146:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Super! A więc najpierw musicie nastawić piekarnik na 350 STOPNI.
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Super! A więc najpierw musicie nastawić piekarnik na 350 STOPNI.
+
+
 
 
 message_147:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Pamiętajcie, 350 STOPNI!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Pamiętajcie, 350 STOPNI!
+
+
 
 
 message_148:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Ejże, co robicie!? To nie to o co prosiłem!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Ejże, co robicie!? To nie to o co prosiłem!
+
+
 
 
 message_149:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Uważajcie następnym razem!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Uważajcie następnym razem!
 # =========------------------
 message_150:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Elegancko! Teraz wymieszajcie MĄKĘ z JAJKAMI.
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Elegancko! Teraz wymieszajcie MĄKĘ z JAJKAMI.
+
+
 
 
 message_151:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Następnie CUKIER i MASŁO.\!<br>Ubijajcie, dopóki nie będzie puszyste!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Następnie CUKIER i MASŁO.\!<br>Ubijajcie, dopóki nie będzie puszyste!
 # =========------------------
 message_152:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Na koniec wisienka na torcie...\!<br>A dokładniej TRUSKAWKI!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Na koniec wisienka na torcie...\!<br>A dokładniej TRUSKAWKI!
+
+
 
 
 message_153:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Gotowe?\! Wyśmienicie!\! Teraz wsadźcie wszystko do FORMY NA CIASTO i upieczcie w piekarniku!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Gotowe?\! Wyśmienicie!\! Teraz wsadźcie wszystko do FORMY NA CIASTO i upieczcie w piekarniku!
 # =========------------------
 message_154:
       text: Nie masz CIASTA, które mógłbyś włożyć do piekarnika.
 # =========------------------
 message_155:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>I właśnie tak się robi ciasto!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>I właśnie tak się robi ciasto!
+
+
 
 
 message_156:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Mmm... Tak! Pychota!\!<br>W końcu - ciasto, z którego nasz stary GŁÓWNY SZEF KUCHNI byłby dumny.
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Mmm... Tak! Pychota!\!<br>W końcu - ciasto, z którego nasz stary GŁÓWNY SZEF KUCHNI byłby dumny.
+
+
 
 
 message_157:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Na zawsze zostanie w naszej pamięci...
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Na zawsze zostanie w naszej pamięci...
+
+
 
 
 message_158:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Możecie już iść, sługi! Poczujcie wolność!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Możecie już iść, sługi! Poczujcie wolność!
+
+
 
 
 # =========------------------
 message_159:
       text: Zawsze możesz spróbować jeszcze raz.
+
+
 
 
 message_160:
@@ -495,34 +715,48 @@ message_161:
       text: Odłożyć \v[1001]?
 # =========------------------
 message_162:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Z takiego ciasta nasz stary GŁÓWNY SZEF KIEŁKUCHNI byłby dumny.\! Na zawsze pozostanie w naszej pamięci...
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Z takiego ciasta nasz stary SZEF KIEŁKUCHNI byłby dumny.\! Na zawsze pozostanie w naszej pamięci...
+
+
 
 
 message_163:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Możecie już iść, sługi! Poczujcie wolność!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Możecie już iść, sługi! Poczujcie wolność!
 # =========------------------
 message_164:
-      text: \n<GŁÓWNY SZEF KIEŁKUCHNI>...
+      text: \n<SZEF KIEŁKUCHNI>...
+
+
 
 
 message_165:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Kim jesteś?
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Kim jesteś?
+
+
 
 
 message_166:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Kim ja jestem!?
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Kim ja jestem!?
+
+
 
 
 message_167:
       text: Cała paleta składników do wyboru.\! Jedne bardziej, drugie mniej apetyczne.
 
 
+
+
 message_168:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Nasz stary GŁÓWNY SZEF KIEŁKUCHNI na zawsze pozostanie w naszej pamięci...
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Nasz stary SZEF KIEŁKUCHNI na zawsze pozostanie w naszej pamięci...
+
+
 
 
 message_169:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>To ciasto jest niesamowite!\! Stary GŁÓWNY SZEF KIEŁKUCHNI byłby dumny.\! Na zawsze pozostanie w naszej pamięci...
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>To ciasto jest niesamowite!\! Stary SZEF KIEŁKUCHNI byłby dumny.\! Na zawsze pozostanie w naszej pamięci...
+
+
 
 
 # =========================================================================================
@@ -530,19 +764,29 @@ message_169:
 # =========================================================================================
 
 
+
+
 message_300:
       text: HOL
+
+
 
 
 message_301:
       text: KOMNATY
 
 
+
+
 #Bandito Mole Chance
+
+
 
 
 message_310:
       text: \n<KIEŁKUN BANDYTA>\}To jest napad.
+
+
 
 
 # =========================================================================================
@@ -550,23 +794,35 @@ message_310:
 # =========================================================================================
 
 
+
+
 message_320:
       text: \n<JUZEK PRZEMYTNIK>Wysłali mnie do lochu za przemyt...\!<br>ale ciągle to za mną chodzi.
+
+
 
 
 message_321:
       text: \n<JUZEK PRZEMYTNIK>Skoro już się z wami tym podzieliłem, może skusilibyście się na jakiś gadżecik, przyjaciele?\! Do wyboru, do koloru.
 
 
+
+
 message_322:
       text: \n<JUZEK PRZEMYTNIK>Mam parę rzeczy na sprzedaż, przyjaciele.
+
+
 
 
 #Kitchen Fireplace
 
 
+
+
 message_350:
       text: W kominku jest schowany przycisk w kształcie serca.\!<br>Chcesz go nacisnąć?
+
+
 
 
 message_351:
@@ -575,8 +831,14 @@ message_351:
       text: Hmm...\! Zastanawiam się, co to robi...\her
 
 
+
+
 message_352:
       text: W kominku jest schowany przycisk w kształcie serca...\! ale już jest wciśnięty.
+
+
+
+
 
 
 
@@ -584,20 +846,30 @@ message_352:
 #SW Foyer
 
 
+
+
 message_359:
       text: \n<ŚWIECOKRÓLIK>\sinv[1]Piu?
+
+
 
 
 message_355:
       text: \n<HAROLD>Wracać na swoje miejsca, świeżaki!\!<br>Nie ma co się rozczulać nad próżniakami!
 
 
+
+
 message_356:
       text: \n<MARCJA>Bierzemy naszą robotę na poważnie!\! Ochroniarz drogiej SŁODZIUTKIEJ akceptuje tylko najlepszych z najlepszych!
 
 
+
+
 message_357:
       text: \n<LUCJUSZ>Całe życie poświęciłem na naukę sztuk walki.\! Jeśli odpowiednio się postaracie...\! może pewnego dnia będziecie tak dobrzy jak LUCJUSZ!
+
+
 
 
 message_358:
@@ -606,43 +878,67 @@ message_358:
 
 
 
+
+
+
+
 #SW AFTER WEDDING
+
+
 
 
 message_370:
       text: \n<KREMÓWKA>Widziałam cię w ostatnim odcinku \"SZANSY NA SERCE SŁODZIUTKIEJ\"!
 
 
+
+
 message_371:
       text: \n<KREMÓWKA>To był odcinek warty drogiej SŁODZIUTKIEJ...\! ale mogli sobie odpuścić końcówkę.
+
+
 
 
 message_372:
       text: \n<KREMÓWKA>SŁODZIUTKA zaraz zapomni o swojej popołudniowej herbatce...
 
 
+
+
 message_373:
       text: \n<KIEŁKUN WIRTUOZ>Ach! Rozpoznaję was.\! Musicie być tymi opłaconymi aktorami \"SZANSY NA SERCE SŁODZIUTKIEJ\"!
+
+
 
 
 message_374:
       text: \n<KIEŁKUN WIRTUOZ>Wasz występ był fantastyczny.\! Tak realistyczny, że aż w to uwierzyłem.
 
 
+
+
 message_375:
       text: \n<HAROLD>A co sądzicie o tym finale?\! Założę się, że żaden z was się nie spodziewał takiego zwrotu akcji.
+
+
 
 
 message_376:
       text: \n<MARCJA>Bierzemy naszą robotę na poważnie!\! Ochroniarz drogiej SŁODZIUTKIEJ akceptuje tylko najlepszych z najlepszych!
 
 
+
+
 message_377:
       text: \n<LUCJUSZ>Całe życie poświęciłem na naukę sztuk walki.\! Młode KIEŁKUNY ćwiczą dniami i nocami, by być jak LUCJUSZ!
 
 
+
+
 message_378:
       text: \n<TERESA>Hej, widzieliście gdzieś w okolicy RYCERZA MAKSYMA?\!<br>Ten typek wisi mi parę MAŁŻY...
+
+
 
 
 # =========================================================================================
@@ -650,108 +946,162 @@ message_378:
 # =========================================================================================
 
 
+
+
 message_400:
       text: \n<RÓŻOWY? KIEŁKUN>Oczywiście! Tutejsza obsługa spisuje się na medal!
+
+
 
 
 message_401:
       text: \n<RÓŻOWY? KIEŁKUN>Za kogo ty się masz!?\! Chcę rozmawiać z kierownikiem!
 
 
+
+
 message_402:
       text: \n<RÓŻOWY? KIEŁKUN>Dobrze.
+
+
 
 
 message_403:
       text: \n<RÓŻOWY? KIEŁKUN>Nie.
 
 
+
+
 message_404:
       text: \n<RÓŻOWY? KIEŁKUN>\}\"Tutaj 'WIELKIECHŁOPY' do 'ALFA-3'...\! to już koniec.\! Przerwać misję.\"\! \quake[1]Bzzt...\quake[0]
+
+
 
 
 message_405:
       text: \n<RÓŻOWY? KIEŁKUN>Przykro mi, ale nie jestem kiełkiem, którego szukasz.
 
 
+
+
 message_406:
       text: \n<RÓŻOWY? KIEŁKUN>D-dobrze...\! ale musicie mi wytłumaczyć o co biega!
+
+
 
 
 message_407:
       text: \n<RÓŻOWY? KIEŁKUN>Fuu... Kim ty jesteś?\! Nigdy więcej mi się tu nie pokazuj.
 
 
+
+
 message_408:
-      text: \n<RÓŻOWY? KIEŁKUN>Mam ustać w innej kolejce?
+      text: \n<RÓŻOWY? KIEŁKUN>Mam stanąć w innej kolejce?
+
+
 
 
 message_409:
       text: \n<RÓŻOWY? KIEŁKUN>Może pójdę z wami...\! A może nie.
 
 
+
+
 message_410:
       text: \n<RÓŻOWY? KIEŁKUN>Prawa tego miejsca są okrutne...
+
+
 
 
 message_411:
       text: \n<RÓŻOWY? KIEŁKUN>To przez to, że mam na sobie mój ulubiony kolor, niebieski!?\! W życiu się stąd nie ruszę!
 
 
+
+
 message_412:
       text: \n<RÓŻOWY? KIEŁKUN>Jestem potrzebna?\! Oczywiście, że jestem.
+
+
 
 
 message_413:
       text: \n<RÓŻOWY? KIEŁKUN>Pfft...\! a jak nie, to co?
 
 
+
+
 message_414:
       text: \n<RÓŻOWY? KIEŁKUN>Kurka... Wiedziałem, że ten krawat będzie zły!
+
+
 
 
 message_415:
       text: \n<RÓŻOWY? KIEŁKUN>Przeszedłem tysiąc kilometrów, by tu dotrzeć.\! Nie poddam się tak prędko!
 
 
+
+
 message_416:
       text: \n<RÓŻOWY? KIEŁKUN>Ja? Muszą zrobić wyjątek.\! Pokażę im trochę inteligencji!
+
+
 
 
 message_417:
       text: \n<RÓŻOWY? KIEŁKUN>Nie! Może to \sinv[1]wy\sinv[0] powinniście wyjść!
 
 
+
+
 message_418:
       text: \n<RÓŻOWY? KIEŁKUN>W końcu będę w centrum uwagi?
+
+
 
 
 message_419:
       text: \n<RÓŻOWY? KIEŁKUN>Nie ma mowy. Jestem tu najważniejszą osobą!
 
 
+
+
 message_420:
       text: \n<RÓŻOWY? KIEŁKUN>\sinv[1]ŁAAAAAAAAAACH!\sinv[0] Czemu muszę iść!?
+
+
 
 
 message_421:
       text: \n<RÓŻOWY? KIEŁKUN>Ta? Chcielibyście!
 
 
+
+
 message_422:
       text: \n<RÓŻOWY? KIEŁKUN>Och...\! Ja tylko chciałem zobaczyć się z moim synem.
+
+
 
 
 message_423:
       text: \n<RÓŻOWY? KIEŁKUN>Możesz troszkę głośniej? Nie słyszę cię!
 
 
+
+
 message_424:
       text: \n<RÓŻOWY? KIEŁKUN>Ojej... Już, jasne! Wyglądasz na \sinv[1]przystojnego\sinv[0], wyrachowanego mężczyznę!
 
 
+
+
 message_425:
       text: \n<RÓŻOWY? KIEŁKUN>Łapska precz!\! Na bank macie jakieś bakterie!
+
+
 
 
 # =========================================================================================
@@ -759,64 +1109,96 @@ message_425:
 # =========================================================================================
 
 
+
+
 message_450:
       text: Odłożyć CUKIER?
+
+
 
 
 message_451:
       text: Odłożyć MĄKĘ?
 
 
+
+
 message_452:
       text: Odłożyć ?
+
+
 
 
 message_453:
       text: Odłożyć TRUSKAWKI?
 
 
+
+
 message_454:
       text: Odłożyć SZYSZKI?
+
+
 
 
 message_455:
       text: Odłożyć SOK OWOCOWY?
 
 
+
+
 message_456:
       text: Odłożyć MASŁO?
+
+
 
 
 message_457:
       text: Odłożyć OGÓRKI?
 
 
+
+
 message_458:
       text: Odłożyć RYBĘ?
+
+
 
 
 message_459:
       text: Odłożyć JAJKA?
 
 
+
+
 message_460:
       text: Odłożyć STAREGO BUTA?
+
+
 
 
 message_461:
       text: Odłożyć CAŁEGO KURCZAKA?
 
 
+
+
 #====
 #trying to pick up something after cooking game
 
 
+
+
 message_462:
-      text: \n<ASYSTENT SZEFA KIEŁKUCHNI>Hej! Nie dotykaj!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Hej! Nie dotykaj!
 #====
 
 
+
+
 #AFTER DEFEATING MAXIMUS III
+
+
 
 
 message_501:
@@ -825,10 +1207,14 @@ message_501:
       text: \herEj, jakoś tu ciszej, czy mi się wydaje?
 
 
+
+
 message_502:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
       text: \kelNie było tu wcześniej tłumu KIEŁKUNÓW przy wejściu?\! Nigdzie ich nie widać!
+
+
 
 
 message_503:

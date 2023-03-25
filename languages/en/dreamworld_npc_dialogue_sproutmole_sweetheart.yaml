@@ -35,40 +35,40 @@ message_2:
 #Location: Sprout Mole Village
 #(TOFU TRIVIA copy)
 message_3:
-      text: \n<SZEF KIEŁKUCHNI>Ach tak, witam!\! Musieliście tu przybyć, aby na własne oczy ujrzeć to wybitne dzieło kulinarne od czasów krojonego chleba...\! \Com[2]\c[3]TOFU\c[0]!
+      text: \n<KIEŁKUCHARZ>Ach tak, witam!\! Musieliście tu przybyć, aby na własne oczy ujrzeć to wybitne dzieło kulinarne od czasów krojonego chleba...\! \Com[2]\c[3]TOFU\c[0]!
  
 message_4:
-      text: \n<SZEF KIEŁKUCHNI>C'est magnifique!\!<br>Oto ciekawostka o \c[3]TOFU\c[0] na dziś.
+      text: \n<KIEŁKUCHARZ>C'est magnifique!\!<br>Oto ciekawostka o \c[3]TOFU\c[0] na dziś.
  
 message_5:
-      text: \n<SZEF KIEŁKUCHNI>\Com[2]Jak śmiesz sprzeciwiać się majestatowi \c[3]TOFU\c[0]!?\!<br>Wynocha.\! Budzisz we mnie odrazę!
+      text: \n<KIEŁKUCHARZ>\Com[2]Jak śmiesz sprzeciwiać się majestatowi \c[3]TOFU\c[0]!?\!<br>Wynocha.\! Budzisz we mnie odrazę!
  
 message_6:
-      text: \n<SZEF KIEŁKUCHNI>Potrzeba siedmiu tysięcy osiemset siedemdziesięciu czterech kostek \c[3]TOFU\c[0] ustawionych wzdłuż linii, aby ich długość wynosiła dokładnie jeden kilometr!
+      text: \n<KIEŁKUCHARZ>Potrzeba siedmiu tysięcy osiemset siedemdziesięciu czterech kostek \c[3]TOFU\c[0] ustawionych wzdłuż linii, aby ich długość wynosiła dokładnie jeden kilometr!
  
 message_7:
-      text: \n<SZEF KIEŁKUCHNI>Istnieją cztery rodzaje \c[3]TOFU\c[0]...\!<br>twarde, ekstra twarde, miękkie i puszyste!
+      text: \n<KIEŁKUCHARZ>Istnieją cztery rodzaje \c[3]TOFU\c[0]...\!<br>twarde, ekstra twarde, miękkie i puszyste!
  
 message_8:
-      text: \n<SZEF KIEŁKUCHNI>Twarde \c[3]TOFU\c[0] można usmażyć, ugotować, pokroić w kostkę oraz przygotować na każdy możliwy sposób.\! Jest to możliwe dzięki konsystencji, która potrafi wchłonąć smak i nadal zachować swój kształt!
+      text: \n<KIEŁKUCHARZ>Twarde \c[3]TOFU\c[0] można usmażyć, ugotować, pokroić w kostkę oraz przygotować na każdy możliwy sposób.\! Jest to możliwe dzięki konsystencji, która potrafi wchłonąć smak i nadal zachować swój kształt!
  
 message_9:
-      text: \n<SZEF KIEŁKUCHNI>Miękkie \c[3]TOFU\c[0] najlepiej przygotować na surowo lub odsączyć.\! Nadaje się wyśmienicie do deserów, koktajli, dipów i sosów!
+      text: \n<KIEŁKUCHARZ>Miękkie \c[3]TOFU\c[0] najlepiej przygotować na surowo lub odsączyć.\! Nadaje się wyśmienicie do deserów, koktajli, dipów i sosów!
  
 message_10:
-      text: \n<SZEF KIEŁKUCHNI>Puszyste \c[3]TOFU\c[0] ma kremową konsystencję i można je użyć do wypieków, sosów, koktajli oraz deserów!
+      text: \n<KIEŁKUCHARZ>Puszyste \c[3]TOFU\c[0] ma kremową konsystencję i można je użyć do wypieków, sosów, koktajli oraz deserów!
  
 message_11:
-      text: \n<SZEF KIEŁKUCHNI>Wędzone \c[3]TOFU\c[0] jest świetnym zamiennikiem dla mięsa!
+      text: \n<KIEŁKUCHARZ>Wędzone \c[3]TOFU\c[0] jest świetnym zamiennikiem dla mięsa!
  
 message_12:
-      text: \n<SZEF KIEŁKUCHNI>Ponieważ \c[3]TOFU\c[0] ma wysoką zawartość soi, odradza się spożywanie go w przypadku posiadania kamieni nerkowych!
+      text: \n<KIEŁKUCHARZ>Ponieważ \c[3]TOFU\c[0] ma wysoką zawartość soi, odradza się spożywanie go w przypadku posiadania kamieni nerkowych!
  
 message_13:
-      text: \n<SZEF KIEŁKUCHNI>Najlepszym sposobem na wzbogacenie smaku \c[3]TOFU\c[0] jest glazurowanie go, aż do uzyskania złocistego koloru, a następnie dodanie marynaty.<br>Gdy już wchłonie wszystkie smaki, sos stanie się syropem, który będzie lepił się do patelni!
+      text: \n<KIEŁKUCHARZ>Najlepszym sposobem na wzbogacenie smaku \c[3]TOFU\c[0] jest glazurowanie go, aż do uzyskania złocistego koloru, a następnie dodanie marynaty.<br>Gdy już wchłonie wszystkie smaki, sos stanie się syropem, który będzie lepił się do patelni!
  
 message_14:
-      text: \n<SZEF KIEŁKUCHNI>Jeśli pragniesz zgłębić więcej wiedzy o cudownym i znamienitym \c[3]TOFU\c[0], nie krępuj się porozmawiać ze mną ponownie.\! Cho-cho!
+      text: \n<KIEŁKUCHARZ>Jeśli pragniesz zgłębić więcej wiedzy o cudownym i znamienitym \c[3]TOFU\c[0], nie krępuj się porozmawiać ze mną ponownie.\! Cho-cho!
  
 #DOUBLE MOLE
 #Location: Sprout Mole Village
@@ -162,7 +162,7 @@ message_42:
 #SUE CHEF MOLE 1 & SUE CHEF MOLE 2
 #Location: Sprout Mole Village
 message_43:
-      text: \n<ZASTĘPCA SZEFA KUCHNI>Jak śmiesz wypowiadać takie bluźnierstwo!\! To oczywiste, że \c[3]TOFU\c[0] smakuje lepiej, gdy jest podawane na ciepło!
+      text: \n<ZASTĘPCA SZEFA KUCHNI>Jak śmiesz tak bluźnić!\! To oczywiste, że \c[3]TOFU\c[0] smakuje lepiej, gdy jest podawane na ciepło!
  
 message_44:
       text: \n<ZASTĘPCA SZEFA KUCHNI>Czyś ty oszalał?\! Każdy KIEŁKUN o zdrowych zmysłach wie, że \c[3]TOFU\c[0] smakuje dużo lepiej na zimno!
@@ -183,21 +183,21 @@ message_47:
       text: \herNo nie wiem...\! Na l-letnio?
  
 message_48:
-      text: \n<ZASTĘPCA SZEFA KUCHNI>...
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>...
  
 message_49:
-      text: \n<ZASTĘPCA SZEFA KUCHNI>\sinv[1]Fuuuuuuuuuuuuuujjjj...
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>\sinv[1]Fuuuuuuuuuuuuuujjjj...
  
 message_50:
-      text: \n<ZASTĘPCA SZEFA KUCHNI>Letnie \c[3]TOFU\c[0]?\! To najgorszy pomysł, jaki kiedykolwiek słyszałem.\!<br>Nawet zimne \c[3]TOFU\c[0] jest lepsze od tego...
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Letnie \c[3]TOFU\c[0]?\! To najgorszy pomysł, jaki kiedykolwiek słyszałem.\!<br>Nawet zimne \c[3]TOFU\c[0] jest lepsze od tego...
  
 message_51:
-      text: \n<ZASTĘPCA SZEFA KUCHNI>Letnie \c[3]TOFU\c[0]?\! Zaraz puszczę pawia.\!<br>Nawet ciepłe \c[3]TOFU\c[0] jest lepsze od tego...
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Letnie \c[3]TOFU\c[0]?\! Zaraz puszczę pawia.\!<br>Nawet ciepłe \c[3]TOFU\c[0] jest lepsze od tego...
  
 #SUE CHEF MOLE 3
 #Location: Sprout Mole Village
 message_60:
-      text: \n<ZASTĘPCA SZEFA KUCHNI>Nie mam bladego pojęcia, co wyprawiam!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Nie mam bladego pojęcia, co wyprawiam!
  
 #SUMMER MOLE
 #Location: Sprout Mole Village -Seasonal Gifts Quest
@@ -219,7 +219,7 @@ message_61:
 #Location: Sprout Mole Village
  
 message_62:
-      text: Ten KIEŁKUN jest przyklejony na kropelkę do ściany.
+      text: Ten KIEŁKUN jest przyklejony do ściany Kropelką.
  
 #WINTER MOLE
 #Location: Sprout Mole Village -Seasonal Gifts Quest
@@ -550,7 +550,7 @@ message_106:
       text: \n<KIEŁKUN>SŁODZIUTKA jest jedyną osobą, która mnie rozumie...
  
 message_107:
-      text: \n<KIEŁKUN>SŁODZIUTKA jest idealna pod każdym względem.\!<br>Zrobiłbym dla niej \quake[1]wszystko\quake[0]...
+      text: \n<KIEŁKUNKA>SŁODZIUTKA jest idealna pod każdym względem.\!<br>Zrobiłabym dla niej \quake[1]wszystko\quake[0]...
  
 message_108:
       text: \n<KIEŁKUN>Kocham SŁODZIUTKĄ tak bardzo, że nawet nie pamiętam, co robiłem, zanim ją poznałem.\! Serio... Mówię poważnie!

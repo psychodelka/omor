@@ -2,243 +2,314 @@
 # Cutscene: Sweetheart's Last Resort
 # =========================================================================================
 
+
 #Trigger: Enter proximity of Sweetheart.
+
 
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: Hey...\! Isn't that...\! SWEETHEART?\aub
+      text: Hej...\! Czy to nie...\! SŁODZIUTKA?\aub
+
 
 #KEL jumps.
+
 
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \{HEY, SWEETHEART!! REMEMBER US!?\!\} <br>We're the kids who almost ruined your wedding!\kel
+      text: \{HEJ, SŁODZIUTKA!! PAMIĘTASZ NAS!?\!\} <br>Jesteśmy tymi dzieciakami, które prawie zepsuły ci wesele!\kel
+
 
 #SWEETHEART looks at party.
 #SWEETHEART is surprised, then frustrated.
 
+
 message_2:
-      text: \Com[2]What? You four again!?\! Why do you keep showing up?\swh
+      text: \Com[2]Co? Znowu wy!?\! Czemu zawsze mi bruździcie?\n<SŁODZIUTKA>
+
 
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: So...\! how's married life treating ya?\kel
+      text: No to...\! jak się żyje jako mężatka?\kel
+
 
 message_4:
-      text: Ha!\! Married life is a joke!\! I ended relations with that pitiful excuse of a CAPTAIN a long time ago!\swh
+      text: Ha!\! Życie małżeńskie to żart!\! Już dawno skończyłam związek z tym żałosnym KAPITANKIEM!\n<SŁODZIUTKA>
+
 
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 29
-      text: But...\! your wedding was literally yesterday.\kel
+      text: Ale...\! twój ślub był dosłownie wczoraj.\kel
+
 
 #AUBREY is worried.
+
 
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Oh, no...\! Does that mean that you and SPACE HUSBAND are...\aub
+      text: O nie...\! Czy to oznacza, że ty i KOSMOMĄŻ jesteście...\aub
+
 
 message_7:
-      text: Hmph!\! He's SPACE EX-HUSBAND now for all I care!\swh
+      text: Pf!\! Jest teraz KOSMO-EX-MĘŻEM, mam go w nosie!\n<SŁODZIUTKA>
+
 
 message_8:
       faceset: MainCharacters_DreamWorld
       faceindex: 27
-      text: \}Ouch... That poor guy...\kel
+      text: \}Auć... Biedaczyna...\kel
+
 
 #SWEETHEART looks away.
 
+
 message_9:
-      text: Alas! My journey has gone full circle.\!<br>It is more obvious to me now than ever that my perfect suitor does not exist!\swh
+      text: No widzicie! Moje życie zmieniło się o 360 stopni.\!<br>Dzięki temu zdałam sobie sprawę, że niepisana jest mi druga połówka!\n<SŁODZIUTKA>
+
 
 message_10:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Don't say that, SWEETHEART! <br>I'm sure your soulmate is out there somewhere!\her
+      text: Nie mów tak, SŁODZIUTKA! <br>Jestem pewien, że prędzej czy później znajdziesz swoją bratnią duszę!\her
+
 
 #SWEETHEART turns to HERO.
 
+
 message_11:
-      text: \sinv[1]Oh, my sweet HERO! \!How I've longed for your voice!\swh
+      text: \sinv[1]Och, mój herosie! \!Jak ja za tobą tęskniłam!\n<SŁODZIUTKA>
+
 
 message_12:
-      text: But no... I must refrain.\! I've already decided my path.\! <br>Searching for a suitor is much too old-fashioned for me...\swh
+      text: Lecz niestety... muszę zaprzeczyć.\! Już zadecydowałam o swojej przyszłości.\! <br>Szukanie drugiej połówki nie jest na moje nerwy...\n<SŁODZIUTKA>
+
 
 message_13:
-      text: \sinv[1]So I've decided that I will simply just make one!\swh
+      text: \sinv[1]Więc stwierdziłam, że po prostu sama ją sobie zrobię!\n<SŁODZIUTKA>
+
 
 message_14:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: W-What?\! M-Make a suitor?\! Is that even possible!?\her
+      text: S-słucham?\! Z-zrobisz drugą połówkę?\! Czy to w ogóle możliwe!?\her
+
 
 message_15:
-      text: By regular-people means no!\! But a wealthy person, such as myself, does not abide by such rules!\swh
+      text: Sposobami pospólstwa? Absolutnie nie!\! Lecz tak wyrafinowanej osoby jak ja nie krępują zasady dotyczące zwykłych śmiertelników!\n<SŁODZIUTKA>
+
 
 message_16:
-      text: I'm going some place only filthy rich people, like myself, can afford...\! To a family of sea witches that specialize in clients with...\! special demands.\swh
+      text: Idę do miejsca, do którego tylko tak wykwintne i zamożne osoby jak ja mogą wstąpić...\! Do rodziny czarownic morskich, które specjalizują się w...\! sprawach wyjątkowych.\n<SŁODZIUTKA>
+
 
 message_17:
-      text: Toodle-loo, peasants!\! I'm late for my appointment!\swh
+      text: Akysz, plebejusze!\! Spóźnię się na moje spotkanie!\n<SŁODZIUTKA>
+
 
 #SWEETHEART leaves O.S.
+
 
 message_18:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: So...\! should we follow her...\! or what?\kel
+      text: To...\! idziemy za nią...\! czy jak?\kel
+
 
 message_19:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: I feel like every time SWEETHEART shows up, something bad happens.\aub
+      text: Mam wrażenie, że SŁODZIUTKA stale przyciąga nieszczęście.\aub
+
 
 message_20:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Yeah...\! When it comes to disaster...\!<br>she's in a league of her own.\her
+      text: Racja...\! Problem...\!<br> to jej drugie imię.\her
+
 
 # =========================================================================================
 # Cutscene: Humphrey
 # =========================================================================================
 
+
 #Trigger: Enter Humphrey's Cave.
+
+
 
 
 #[Trigger: Enter proximity of Humphrey]
 
+
 #Humphrey speaking:
 message_42:
-      text: Whale hello there friends!\! The name is HUMPHREY.\! What brings you here to my humble little cave?\who
+      text: Wi-elo, moi drodzy przyjaciele!\! Zwę się GIGANTOS.\! Co was sprowadza do mojej małej, przytulnej norki?\who
+
 
 message_43:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Oh, hello HUMPHREY! We're just looking for someone.\! Sorry if we're bothering you.\aub
+      text: Och, witaj, GIGANTOSIE! My tylko kogoś szukamy.\! Przepraszamy za kłopot.\aub
+
 
 message_44:
-      text: Oh no, not at all, children! I do love visitors.\n<HUMPHREY>
+      text: A skądże, jaki kłopot, drogie dzieci? Uwielbiam gości.\n<GIGANTOS>
+
 
 message_45:
-      text: In fact, you are the second group to visit me today!\!<br>The first was just a girl... A very loud girl with a big, red bow.\n<HUMPHREY>
+      text: Szczerze mówiąc, jesteście dzisiaj drugą turą!\!<br>Pierwsza była dziewczyna... Głośna dziewczyna z ogromną, czerwoną kokardą.\n<GIGANTOS>
+
 
 message_46:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: Doesn't that sound like someone we know?\kel
+      text: Nic wam to nie mówi?\kel
+
 
 #HERO is surprised and begins to look around frantically.
+
 
 message_47:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: Huh? Is SWEETHEART here?\! Where is she?\her
+      text: Hę? SŁODZIUTKA tu jest?\! Gdzie?\her
+
 
 message_48:
-      text: Hmm...\! Where is she? Where is she?\!<br>It's on the tip of my tongue...\! ...\! \quake[1]Nyak, nyak!\quake[0]\!<br>That's a joke, it is!\! She is...\! inside me, you see?\n<HUMPHREY>
+      text: Hmm...\! Gdzie? Gdzie?\!<br>Mam to na końcu języka...\! ...\! \quake[1]Niom, niom!\quake[0]\!<br>Żarcik astronaucik, dzieci drogie!\! Ona jest...\! we mnie, ma się rozumieć.\n<GIGANTOS>
+
 
 message_49:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: S-She's... inside you?\aub
+      text: J-jest... w tobie?\aub
+
 
 message_50:
-      text: Why, yes!\! She is visiting my guests, for I am also home to a family of sea witches!\n<HUMPHREY>
+      text: Owszem!\! Przyszła w gości, gdyż jestem domem dla rodziny czarownic morskich!\n<GIGANTOS>
+
 
 message_51:
-      text: We spend our time together, chatting and chuckling.\!<br>It is so fun to hear about their daily antics.\! Sometimes <br>they are even so kind as to bring me my meals!\n<HUMPHREY>
+      text: Dobrze się znamy, zdarzy mi się czasem wpaść do nich na herbatkę.\!<br>Przyjemnie się słucha o ich wybrykach.\! Czasem są tak życzliwe, że mnie karmią!\n<GIGANTOS>
+
 
 message_52:
-      text: It's much easier for them, you see, for they are closer to my <br>belly than I.\! In fact, I'm sure they'd love even more visitors!\!\n<HUMPHREY>
+      text: Łatwiej im, gdyż mają dużo bliżej do mojego brzuszka niż ja sam.\! Jestem pewien, że nie pogardzą wizytą nowych przybyszy!\!\n<GIGANTOS>
+
 
 message_55:
-      text: Here!\! Let me lower the bridge for you.\n<HUMPHREY>
-#HUMPHREY's mouth opens.
+      text: Właśnie tu!\! Pozwólcie, że opuszczę dla was most.\n<GIGANTOS>
+#GIGANTOS's mouth opens.
+
 
 message_53:
-      text: \quake[1]Mle\{hh\{hhhh...\quake[0]\n<HUMPHREY>
+      text: \quake[1]Mle\{eee\{eech...\quake[0]\n<GIGANTOS>
 
-#HUMPHREY's tongue creates pathway.
-#HUMPHREY burps.
+
+#GIGANTOS's tongue creates pathway.
+#GIGANTOS burps.
+
 
 message_54:
-      text: My apologies...\!<br>The first guest seems to be causing some indigestion.\n<HUMPHREY>
+      text: Najmocniej przepraszam...\!<br>Pierwszy przybysz najwidoczniej przyprawia mnie o mdłości.\n<GIGANTOS>
+
 
 # =========================================================================================
 # Cutscene: Where do we start?
 # =========================================================================================
 
+
 #Trigger: Enter Humphrey.
+
 
 message_70:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Whoa, HUMPHREY's belly is huge!\kel
+      text: Łoo, GIGANTOS ma naprawdę wielgaśny bebech!\kel
+
 
 message_71:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: It sure looks easy to get lost in here...\aub
+      text: Chyba łatwo będzie się tu zagubić...\aub
+
 
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: I bet if I yell, it'd make an \sinv[1]ECHO\{OOOO!\kel
+      text: Założę się, że jak krzyknę, będzie \sinv[1]ECHO\{OOOO!\kel
 
-#HUMPHREY appears as a lump in front of party.
+
+#GIGANTOS appears as a lump in front of party.
+
 
 message_73:
-      text: \sinv[1]ECH\{OOO\{OOOO...\}echo...\}echo...\}echo...!\n<HUMPHREY>
+      text: \sinv[1]ECH\{OOO\{OOOO...\}echo...\}echo...\}echo...!\n<GIGANTOS>
+
 
 message_74:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \Com[2]Ahhh!\! Where'd you come from?\kel
+      text: \Com[2]Arghhh!\! Skąd się tu wziąłeś?\kel
+
+
 
 
 message_75:
-      text: Whalecome to my lair.\! Are you surprised to see me?<br>\!I am always here.\! I am inside me, and all around you!\n<HUMPHREY>
+      text: Wi-elo! Witajcie w moim leżu.\! Zdziwieni moją obecnością?<br>\!Zawsze tu jestem.\! Jestem w sobie wzdłuż i wszerz, wokół was!\n<GIGANTOS>
 
-#HUMPHREY lumps appear all around.
+
+#GIGANTOS lumps appear all around.
+
 
 message_76:
-      text: I'm everywhere!\n<HUMPHREY>
+      text: Jestem wszędzie!\n<GIGANTOS>
 
-#HUMPHREY lumps disappear and one HUMPHREY lump appears in front KEL.
+
+#GIGANTOS lumps disappear and one GIGANTOS lump appears in front KEL.
+
 
 message_77:
-      text: Or I am just here!\n<HUMPHREY>
+      text: Albo tylko tutaj!\n<GIGANTOS>
+
 
 message_78:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Wow, that's so cool, HUMPHREY! <br>\!I wish I could do that.\kel
+      text: Kurka, niesamowite, GIGANTOSIE! <br>\!Też chciałbym tak umieć.\kel
+
 
 message_79:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: It's kind of gross if you ask me.\aub
+      text: To troszkę obrzydliwe moim skromnym zdaniem.\aub
 
-#HUMPHREY appears in front of AUBREY.
+
+#GIGANTOS appears in front of AUBREY.
+
 
 message_80:
-      text: Wow...\! So rude...\n<HUMPHREY>
+      text: Łał...\! Co za wredota...\n<GIGANTOS>
+
 
 #HERO walks toward the center of the map and looks around.
+
 
 message_81:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Hmm...\! There are many ways to go...\!<br>Where should we even start?\her
+      text: Hmm...\! Mamy przed sobą wiele dróg...\!<br>Którędy powinniśmy iść najpierw?\her
 
-#HUMPHREY appears in front of HERO.
+
+#GIGANTOS appears in front of HERO.
+
 
 message_82:
-      text: Left...\! Right...\! Up...\! Around...\! <br>Does it matter?\! It's all forward isn't it?\! <br>Just pick one! It's easy!\n<HUMPHREY>
+      text: W lewo...\! W prawo...\! W górę...\! W kółko...\! <br>A czy to ma jakiekolwiek znaczenie?\! Alleluja i do przodu!\! <br>Wybierz jedną ścieżkę! Tak ciężko?!\n<GIGANTOS>
+
 
 message_83:
-      text: \n<HUMPHREY>\{\sinv[1]YOOOOO-HOOOOOOOOOO~!!
+      text: \n<GIGANTOS>\{\sinv[1]HOPSA SAAAAAAAAAAAA~!!

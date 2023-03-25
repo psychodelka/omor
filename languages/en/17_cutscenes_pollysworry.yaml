@@ -18,7 +18,7 @@ message_1:
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: MAMA, każe mi kupić kilka rzeczy w \c[11]GALERII\c[0] zanim HERO wróci, ale... \! myślę, że zabawniej będzie jeśli pójdziemy razem!\kel
+      text: MAMA każe mi kupić kilka rzeczy w \c[11]GALERII\c[0], zanim wróci HERO, ale...\! myślę, że zabawniej będzie, jeśli pójdziemy razem!\kel
  
 message_3:
       faceset: MainCharacters_Faraway
@@ -40,25 +40,25 @@ message_4:
 #Trigger: Enter GINO's Pizza.
  
 message_20:
-      text: \c[11]PIZZA U GINA\c[0] jest bombastyczna!\! Ta jedna obrzydliwa, brzydka, tłusto wyglądająca serowa pizza... Ją właśnie lubię! \kim
+      text: \c[11]PIZZA U GINA\c[0] jest bombastyczna!\! Ta jedna obrzydliwa, brzydka, tłusto wyglądająca serowa pizza... to ją właśnie lubię!\kim
  
 message_21:
-      text: \Com[2]\A więc JEDZMY!!\kim
+      text: \Com[2]\{CZAS NA WYŻERĘ!!\kim
  
 message_22:
       text: A więc...\! Mlask...\! Mlask...\! Mlask...\! Nadal idziemy dziś do naszej tajnej kryjówki, tak?\ang
  
 message_23:
-      text: Wezmę moją wędkę! \! Mlask...\!Zrobiłem ją sam...\! Mlask, wczoraj, z fajnego patyka i skakanki .\!<br>Myślisz, że będzie działać, CHARLIE?\ang
+      text: Wezmę moją wędkę!\! Mlask...\! Zrobiłem ją sam...\! Mlask, wczoraj, z fajnego patyka i skakanki.\!<br>Myślisz, że będzie działać, CHARLIE?\ang
  
 message_24:
       text: ...\cha
  
 message_25:
-      text: Heh.\! Czyli idziemy do naszej tajnej kryjówki?\! Mlask... \! <br>Perfekcyjne miejsce na randkę!\! Mlask...\! Pewnie wezmę jedną z moich panienek.\mav
+      text: Heh.\! Czyli idziemy do naszej tajnej kryjówki?\! Mlask...\! <br>Perfekcyjne miejsce na randkę!\! Mlask...\! Pewnie wezmę jedną z moich panienek.\n<WIELKI MAVERICK>
  
 message_26:
-      text: Pływanie...\! Mlask, mlask, mlask...\! Brzmi... \! <br>Mlask, mlask, mlasku, mlasku, mlask, mlask ,mlask...\! <br>Fajowo.\van
+      text: Pływanie...\! Mlask, mlask, mlask...\! Brzmi...\! <br>Mlask, mlask, mlasku, mlasku, mlask, mlask, mlask...\! <br>Fajowo.\van
  
 message_27:
       text: Hm!\! Mlask...\! Kiedy wy wszyscy będziecie się dziecinnie wygłupiać, <br>ja będę zajęta rzucaniem kaczek!\kim
@@ -67,22 +67,22 @@ message_28:
       text: Szukałam perfekcyjnych...\! Mlask...\! kamieni calutki tydzień!\kim
  
 message_29:
-      text: Heh.\! Mlask...\! Możesz próbować, ile chcesz, KIM, ale nigdy nie pobijesz rekordu AUBREY!\mav
+      text: Heh.\! Mlask...\! Możesz próbować, ile chcesz, KIM, ale nigdy nie pobijesz rekordu AUBREY!\n<WIELKI MAVERICK>
  
 message_30:
       text: Zamknij się, MIKHAEL!\! Jakby jakieś dziewczyny naprawdę...\! Mlask...\! poszłyby z tobą nad jezioro bez jakiejkolwiek zapłaty!\kim
  
 message_31:
-      text: Powiedziałem ci, byś mnie nazywała WIELKIM MAVERI- <br>\{\Com[2]\quake[1]ACHH!!\! \Com[2]Uhrysem sie h jesyk!!!\mav
+      text: Powiedziałem ci, byś mnie nazywała WIELKIM MAVERI- <br>\{\Com[2]\quake[1]AAA!!\! \Com[2]Uhrysem sie h jesyk!!!\n<WIELKI MAVERICK>
  
 message_32:
       text: \{\sinv[2]BAHAHAHAHAHAHAHA!!\!\}<br>Jaki przegryw!\kim
  
 message_33:
-      text: \quake[1]\{ACHHHHH!! MISTRZU, CZY JESTEŚ RANNY!?\ang
+      text: \quake[1]\{AAACH!! MISTRZU, CZY JESTEŚ RANNY!?\ang
  
 message_34:
-      text: \quake[1]\{ZAHACIS SA HO, KIM!\mav
+      text: \quake[1]\{ZAHACIS SA HO, KIM!\n<WIELKI MAVERICK>
  
 #SWITCH TO BAHAHAHA
 message_35:

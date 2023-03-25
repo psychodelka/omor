@@ -13,11 +13,11 @@ message_10:
 
 
 message_11:
-      text: Wziąłeś plakat z napisem 'POTRZEBNA POMOC'.\! Może zapytasz o pracę przy ladzie.
+      text: Wziąłeś plakat z napisem "\POTRZEBNA POMOC"\.\! Może zapytasz o pracę przy ladzie.
 
 
 message_0:
-      text: \n<GOŚĆ OD PIZZY>Więc...\! Widziałem, jak zerkasz na plakat o POMOCY w pizzerii, który rozwiesiłem.\! Chciałbyś u nas pracować?
+      text: \n<GOŚĆ OD PIZZY>Więc...\! widziałem, jak zerkasz na plakat o POMOCY w pizzerii, który rozwiesiłem.\! Chciałbyś u nas pracować?
 
 
 #[Nod/Shake]
@@ -177,7 +177,7 @@ message_50:
 
 
 message_51:
-      text: \n<GOŚĆ OD PIZZY>Ach, po prostu zacznę od tych dobrych.<br>\! Więc, dobre wieści są takie, że...\! otrzymaliśmy dzisiaj trzy różne zamówienia na \c[3]PIZZĘ\c[0]!\!
+      text: \n<GOŚĆ OD PIZZY>Ach, po prostu zacznę od tych dobrych.<br>\!Więc dobre wieści są takie, że...\! otrzymaliśmy dzisiaj trzy różne zamówienia na \c[3]PIZZĘ\c[0]!\!
 
 
 message_60:

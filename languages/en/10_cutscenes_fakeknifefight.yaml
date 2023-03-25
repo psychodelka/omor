@@ -228,19 +228,19 @@ message_72:
 message_73:
       faceset: MainCharacters_Faraway
       faceindex: 6
-      text: Ugh...\! Jeszcze się policzymy...\aub
+      text: Ech...\! Jeszcze się policzymy...\aub
  
 #AUBREY and HOOLIGANS run away.
  
 message_74:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Wow, mało brakowało i byłoby po nas.\!<br>Dobrze, że miałeś ze sobą ten nó-\kel
+      text: Wow, mało brakowało i byłoby po nas.\!<br>Dobrze, że miałeś ze sobą ten nó...\kel
  
 message_75:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \Com[2]C-chwila!\! Oddaj mi to!\kel
+      text: \Com[2]Ch-chwila!\! Oddaj mi to!\kel
  
 message_76:
       text: KEL zabrał twój \c[13]NÓŻ DO MIĘSA\c[0].
@@ -296,7 +296,7 @@ message_103:
 message_104:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \{\sinv[1]HUUU-RRAAA!\! SZCZĘŚLIWE<br>ZJEDNOCZENIE!!\kel\}
+      text: \{\sinv[1]HUUURRAAA!\! <br>\sinv[1]SZCZĘŚLIWE ZJEDNOCZENIE!!\kel\}
  
 message_105:
       faceset: MainCharacters_Faraway

@@ -33,7 +33,7 @@ message_123:
  
  
 message_124:
-      text: Pospolita roślina domowa.\! Nic specjalnego.
+      text: Zwykła roślinka.\! Nic specjalnego.
  
  
 message_125:
@@ -118,7 +118,7 @@ message_144:
 #parents room
  
 message_145:
-      text: Budzik... dla odpowiedzialnych ludzi.\!<br>Nastawiony o 5 minut przed czasem.
+      text: Budzik... dla odpowiedzialnych ludzi.\!<br>Nastawiony na 5 minut przed czasem.
  
 message_146:
       text: Drzewko bonsai TATY.\! Bardzo urosło, odkąd ostatni raz je widziałem.
@@ -157,7 +157,7 @@ message_157:
       text: Ciepły kominek.\!<br>Nad nim są moje zdjęcia z dzieciństwa.\! Nie lubię się uśmiechać...\! nawet do zdjęć.
  
 message_158:
-      text: Telefon stacjonarny MAMY.\! Kiedyś był pokoju MAMY i TATY, ale się to zmieniło.
+      text: Telefon stacjonarny MAMY.\! Kiedyś był w pokoju MAMY i TATY, ale się to zmieniło.
  
 message_159:
       text: \sinv[1]\}Miaaaaaaaauu...\n<MRUSIA>
@@ -232,7 +232,7 @@ message_191:
       text: Wanna.\! Nie mam o niej zdania.
  
 message_192:
-      text: Małe roślinki.\! Powinny sprawiać, że łazienka lepiej pachnie.\! Mam wątpliwości co to tego, czy działają.
+      text: Małe roślinki.\! Powinny sprawiać, że łazienka ładniej pachnie.\! Mam wątpliwości co do tego, czy działają.
  
 message_193:
       text: Kartonowe pudła porozrzucane po kątach.
@@ -241,7 +241,7 @@ message_194:
       text: Pusty wieszak.
  
 message_230:
-      text: Lampka.\! MAMA kupiła ją na promocji..\! Pamiętam to, bo zabrała mnie wtedy na zakupy...\! I to w niedzielę...
+      text: Lampka.\! MAMA kupiła ją na promocji.\! Pamiętam to, bo zabrała mnie wtedy na zakupy...\! i to w niedzielę...
  
 message_201:
       text: Rośliny ozdabiające korytarz.\! MAMA musiała je przestawić, bo MRUSIA próbowała je zjeść.
@@ -344,10 +344,10 @@ message_198:
       text: Symbol \c[11]DALEKOSTĄDU\c[0] góruje nad jeziorem.
  
 message_199:
-      text: Koszyk piknikowy MARI.\!<br>Dziś jest pełen kanapek z masłem orzechowym i dżemem.
+      text: Koszyk MARI.\!<br>Dziś jest pełen kanapek z masłem orzechowym i dżemem.
  
 message_200:
-      text: Klocki LEGO rozrzucone na trawie.\!<br>Nieskończone możliwości!
+      text: Zabawki rozrzucone po trawie.\!<br>Nieskończone możliwości!
  
 message_231:
       text: Nasze buty.\! Nie wolno nam w nich wchodzić na koc...
@@ -386,7 +386,7 @@ message_242:
       text: Plażowa torba HERO.\! Pasuje do torby MARI!
  
 message_243:
-      text: Saszetka AUBREY.\! Idealnie na niej leży!
+      text: Worek AUBREY.\! Idealnie na niej leży!
  
 message_244:
       text: Plecak KELA.\! Jest dla niego o wiele za duży!
@@ -483,10 +483,10 @@ message_62:
 #Patient
  
 message_16:
-      text: Pacjent nie oddycha.
+      text: Nie oddycha.
  
 message_40:
-      text: Ten pacjent oddycha w normie.
+      text: Oddycha w normie.
  
 #Television
  

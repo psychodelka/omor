@@ -30,6 +30,12 @@
     Game_Enemy.prototype._altName = function() {
         return this.enemy().meta.AltName || this.enemy().name
     }
+    Game_Enemy.prototype._altName2 = function() {
+        return this.enemy().meta.AltName2 || this.actor().meta.AltName || this.enemy().name
+    }
+    Game_Enemy.prototype._altName2 = function() {
+        return this.enemy().meta.AltName2 || this.actor().meta.AltName || this.enemy().name
+    }
 }
 {
     Game_Actor.prototype.showAddedStates = function() {

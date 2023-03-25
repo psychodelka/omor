@@ -150,7 +150,7 @@ message_43:
       text: \herAwww... Nie teraz, MARI... Haha...
  
 message_44:
-      text: \kel\sinv[1]\{JUU-HUUUU!!!\!\}\sinv[0]<br>Nie ma nic lepszego od zimnego, soczystego arbuza w upalny dzień!
+      text: \kel\sinv[1]\{JUU-HUUUU!!!\!\}\sinv[0]<br>Nie ma nic lepszego od zimnego,<br>soczystego arbuza w upalny dzień!
  
 message_45:
       text: \kel\com[2]Mlask! Mlask! Mlask! Mlask! Mlask! Mlask!
@@ -178,7 +178,7 @@ message_51:
       text: \aubFuj! To obrzydliwe!\! Przestań pluć na mnie pestkami, KEL!
  
 message_52:
-      text: \kelHaha, teraz masz masz je wszędzie!
+      text: \kelHaha, teraz masz je wszędzie!
  
 message_53:
       text: \aubW takim razie...\! Co powiesz na to!?
@@ -187,7 +187,7 @@ message_54:
       text: \aub...\! \sinv[2]P-P-P-P-\{P-PFFFUUUU\{UUUUHL\{UUU!!!
  
 message_55:
-      text: \kelFuj, przestań, AUBREY...<br>Bo jeszcze czymś mnie \quake[1]zarazisz!!\quake[0]
+      text: \kelFuj, przestań, AUBREY...<br>Bo jeszcze mnie czymś \quake[1]zarazisz!!\quake[0]
  
 #-------TALK TO BASIL------------
  
@@ -259,7 +259,7 @@ message_85:
       text: \marPewnego dnia będziesz tak sławnym kucharzem, jak Magda Gessler!
  
 message_86:
-      text: \herHę?\!Chwila!\! Naprawdę tak myślisz!?
+      text: \herHę?\! Chwila!\! Naprawdę tak myślisz!?
  
 message_87:
       text: \marOczywiście! Wierzę w ciebie, HERO!
@@ -279,7 +279,7 @@ message_91:
       text: \basCh-chwilka...\! Coś mi nie gra z tym zdjęciem...
  
 message_92:
-      text: \basChlip, chlip...
+      text: \basNiuch, niuch...
  
 message_93:
       text: \basHEKTOR!\! Jak mogłeś!?
@@ -577,7 +577,7 @@ message_202:
       text: \sinv[1]Jeszcze raz, jeszcze raz,\! niech żyje, żyje nam!\!<br>Niech żyje naaaaaam!\n<WSZYSCY>
  
 message_203:
-      text: \kel\sinv[1]\{ŁUUUUU-HUUUUUU!!\!\}\sinv[0]<br>Zdmuchnij świeczki, BASIL!
+      text: \kel\sinv[1]\{ŁUUUUUHUUUUUU!!\!\}\sinv[0]<br>Zdmuchnij świeczki, BASIL!
  
 message_204:
       text: \aubPomyśl życzenie...

@@ -5,7 +5,7 @@
 #He always says this first. The rest, he says based on how many times you entered any map in the lost forest.
  
 message_0:
-    text: \n<MROCZNY KOSARZ>Witaj w \c[11]ZAGINIONYM LESIE\c[0], gdzie znajdziesz rzeczy, o których zapomnieniu zapomniałeś...\! Bądź zostały zapomniane celowo.
+    text: \n<MROCZNY KOSARZ>Witaj w \c[11]ZAGINIONYM LESIE\c[0], gdzie znajdują się rzeczy, o których zapomnieniu zapomniano...\! Bądź zostały zapomniane celowo.
  
 #He always says this stuff, left as is so the player could know how hot or cold they are:
  
@@ -60,11 +60,11 @@ message_12:
  
 #MAP 2
 message_13:
-    text: \n<MROCZNY KOSARZ>Czasem, gdy staramy się zataić prawdę, tworzymy inną rzeczywistość i zapominamy, dokąd zmierzamy.\!<br>A ty, odnalazłeś już swoją drogę, czy może dalej się gubisz?
+    text: \n<MROCZNY KOSARZ>Czasem, gdy staramy się zataić prawdę, tworzymy inną rzeczywistość i zapominamy, dokąd zmierzamy.\!<br>A ty, odnalazłeś już swoją drogę,<br>czy może dalej się gubisz?
  
 #MAP 5
 message_18:
-    text: \n<MROCZNY KOSARZ>Zapomnisz, prędzej czy później, lub usiłujesz zapomnieć.\! Mrok ukazuje się, czy jesteś tego świadomy, czy nie.\! Skryj opustoszałe za kłamstwem i obserwuj, jak wychodzi ono na jaw.
+    text: \n<MROCZNY KOSARZ>Zapomnisz, prędzej czy później, lub usiłujesz zapomnieć.\! Mrok ukazuje się, czy jesteś tego świadomy, czy nie.\! Skryj opustoszałe za kłamstwem i obserwuj,<br>jak wychodzi ono na jaw.
  
 #Once you complete the forest, his page 2 is always:
 message_19:
@@ -118,13 +118,13 @@ message_35:
     text: \n<MROCZNY KOSARZ>Potęga MARZYCIELA była jego największym wrogiem.\!<br>Znajomość tej potęgi... lub jej brak byłby dla MARZYCIELA największym z darów.
  
 message_36:
-    text: \n<MROCZNY KOSARZ>Odciąć się od niebezpieczeństw wynikających z jego własnych mocy i osiągnąć błogi stan czystej ignorancji...\! Tylko to pozwoliłoby ocalić MARZYCIELA przed postradaniem zmysłów przez ów hałas.
+    text: \n<MROCZNY KOSARZ>Odcięcie się od niebezpieczeństw wynikających z jego własnych mocy i osiągnięcie błogi stan niczym nie skażonej ignorancji...<br>Tylko to pozwoliłoby ocalić MARZYCIELA przed postradaniem zmysłów przez ów hałas.
  
 message_37:
     text: \n<MROCZNY KOSARZ>A więc...\! MARZYCIEL przybrał nowe imię...\!<br>i zdecydował się o sobie zapomnieć.
  
 message_38:
-    text: \n<MROCZNY KOSARZ>Od tamtej pory żyje wśród nas...<br>\!niczym zwykły mieszkaniec tego świata...\!<br>błądząc bez żadnych rozterek i bez świadomości swych minionych czynów.
+    text: \n<MROCZNY KOSARZ>Od tamtej pory żyje wśród nas...<br>\!niczym zwykły mieszkaniec tego świata...\!<br>błądząc bez żadnych rozterek,<br>bez świadomości swych dawnych czynów.
  
 #leave
  
@@ -148,7 +148,7 @@ message_42:
     text: \n<MROCZNY KOSARZ>Każda rzecz, która zaczęła tu swój żywot, kiedyś będzie musiała zmierzyć się z końcem.\! Mimo że MARZYCIEL wygrał z bezlitością, mrok wciąż rośnie w siłę.
  
 message_43:
-    text: \n<MROCZNY KOSARZ>Żaden opatrunek nie jest w stanie stłumić bólu wiekuistej rany...\! a kiedyś nadejdzie chwila, gdy rana ta zacznie krwawić. Może MARZYCIEL zapomniał o zagrożeniu, lecz zagrożenie nie zapomniało o nim.
+    text: \n<MROCZNY KOSARZ>Żaden opatrunek nie jest w stanie stłumić bólu wiekuistej rany...\! a kiedyś nadejdzie chwila, gdy rana ta zacznie krwawić. Może MARZYCIEL zapomniał o zagrożeniu,<br>lecz zagrożenie nie zapomniało o nim.
  
 message_44:
     text: \n<MROCZNY KOSARZ>Koniec tego świata jest nieunikniony.\! Tylko MARZYCIEL jest w stanie go uwolnić.

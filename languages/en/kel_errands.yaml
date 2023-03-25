@@ -1,99 +1,126 @@
 #==================================================================
 
+
 #KEL ERRANDS
+
 
 #==================================================================
 #PIZZA
 #==================================================================
 
+
 message_0:
-      text: \n<PIZZA MAN>Hello and welcome to \c[11]GINO'S PIZZA\c[0]!\!<br>What can I get for you?
+      text: \n<PIZZERMAN>Witam uprzejmie w \c[11]PIZZERII U GINA\c[0]!\!<br>W czym mogę pomóc?
+
 
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelHiya! I'm here to pick up an order!
+      text: \kelSiemano! Przyszedłem odebrać zamówienie!
+
 
 message_2:
-      text: \n<PIZZA MAN>I see!\! What would you like?\!<br>Oh... I know...\! Would you like...\! pizza?\! Nom nom...
+      text: \n<PIZZERMAN>Rozumiem!\! Czego sobie życzysz?\!<br>Och... No przecież...\! Masz ochotę na...\! pizzę?\! Mniam, mniam...
+
 
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelI think my mom phoned in an order for a \c[3]HERO SANDWICH\c[0] this morning!\! I'm just here to pick it up.
+      text: \kelZ tego co pamiętam, moja mama złożyła dzisiaj rano zamówienie na \c[3]KANAPKĘ HEROSA\c[0]!\! Chciałem ją tylko odebrać.
+
 
 message_4:
-      text: \n<PIZZA MAN>Oh...\! I see...\! You're the family that keeps ordering sandwiches...\! instead of pizza...
+      text: \n<PIZZERMAN>O...\! No tak...\! To wasza rodzina zawsze zamawia od nas kanapki...\! zamiast pizzy...
+
 
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelBut...\! it's...\! on the menu, isn't it?
+      text: \kelPrzecież...\! jest...\! w menu, prawda?
+
 
 message_6:
-      text: \n<PIZZA MAN>Hmm...\! yeah...\! you're right...\! I guess so...
+      text: \n<PIZZERMAN>Hmm...\! taa...\! masz rację...\! Na to wychodzi...
+
 
 message_7:
-      text: \n<PIZZA MAN>Okay! I'll go get it!
+      text: \n<PIZZERMAN>W porządku! Już po nią lecę!
+
 
 #KEL turns to PLAYER.
+
 
 message_8:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelYou know...\! I don't know if I ever told you this, but that's why my brother's nickname is HERO...
+      text: \kelWiesz...\! Nie wiem, czy kiedykolwiek ci mówiłem, ale to stąd wzięła się ksywka HERO...
+
 
 message_9:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: \kelYou'd think it's because of some really cool reason like he saved a puppy when he was a kid or something...\! but no...\!<br>He just really likes sandwiches!
+      text: \kelPewnie myślałeś, że to z jakiegoś naprawdę epickiego powodu, że jak był mały, to uratował psa czy coś w tym stylu...\! ale nie...\!<br>Po prostu bardzo lubi kanapki!
+
 
 message_10:
-      text: \n<PIZZA MAN>Okay, here is your \c[3]HERO SANDWICH\c[0].\! Please enjoy!
+      text: \n<PIZZERMAN>Proszę, oto twoja \c[3]KANAPKA HEROSA\c[0].\! Smacznego!
+
 
 #KEL turns to PIZZA MAN.
+
 
 message_11:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelCool, thanks!
+      text: \kelEkstra, dzięki!
+
 
 #KEL turns to PLAYER.
+
 
 message_12:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelAlright, we're good to go now, \n[8]!\!<br>I'm ready when you are!
+      text: \kelWporzo, możemy iść, \n[8]!\!<br>Daj znać, kiedy będziesz gotowy!
+
 
 #==================================================================
 #BAKERY
 #==================================================================
 
+
 message_20:
-      text: \n<MR. BAKER>Welcome to our family bakery! What would you like?
+      text: \n<PAN PIEKARZ>Witamy w naszej rodzinnej piekarni! Czego sobie życzysz?
+
 
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelHiya! I'm here to pick up an order!
+      text: \kelSiemka! Przyszedłem odebrać zamówienie!
+
 
 message_22:
-      text: \n<MR. BAKER>Hmm...\! Ah, yes!\! Your mother said you'd be coming... though I expected you to be here a bit earlier.\! I'll go grab your order!
+      text: \n<PAN PIEKARZ>Hmm...\! W rzeczy samej!\! Twoja matka mówiła, że przyjdziesz... choć spodziewałem się, że będziesz tu nieco wcześniej.\! Pójdę odebrać twoje zamówienie!
+
 
 #MR. BAKER walks into door and then walks back out.
+
 
 message_23:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelDid you know? This bakery belongs to MIKHAEL's family.\!<br>I guess you can't really tell, because he wears that horrible yellow wig all the time...
+      text: \kelWiedziałeś, że ta piekarnia należy do rodziny MIKHAELA?\!<br>Pewnie nigdy nie przeszło ci to przez myśl, w końcu przez cały czas nosi tą okropną żółtą perukę...
+
 
 message_24:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelSeems like he's making a pretty big effort to stand out and be different!
+      text: \kelWidocznie bardzo chce się wyróżnić!
+
 
 message_25:
-      text: \n<MR. BAKER>Here's your order, sir!\! We hope to see you soon!\!<br>Please enjoy your baked goods.
+      text: \n<PAN PIEKARZ>Oto pańskie zamówienie!\! Mamy nadzieję, że jeszcze nas odwiedzicie!\!<br>Proszę delektować się naszymi wypiekami.
+
 
 #message 11
 #message 12

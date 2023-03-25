@@ -3,39 +3,39 @@
 # Sidequest: Fix Arcade Machine
 # =========================================================================================
 
-#Talk to Gino without arcade piece
+#Talk to Gino without FRAGMENT AUTOMATU
 
 message_1:
-      text: \n<GLASSES MAN>Sigh...\! Dangit...\! I'm trying to fix this old arcade machine, <br>but I'm missing a rare and important piece...
+      text: \n<OKULARNIK>Ech...\! Kurczaczki...\! Staram się naprawić ten stary automat, <br>ale zagubiła mi się gdzieś rzadka ważna część...
 
 message_2:
-      text: \n<GLASSES MAN>It looks like it was just bitten off right here.\! I wonder where it could be...
+      text: \n<OKULARNIK>Wygląda, jakby ktoś po prostu ją odgryzł.\! Ciekawe, gdzie się podziała...
 
-#Talk to Gino with arcade piece
+#Talk to Gino with FRAGMENT AUTOMATU
 
 message_4:
-      text: \n<GLASSES MAN>\com[2]Hey!\! That's the missing \c[4]ARCADE PIECE\c[0] I've been looking for!\! C-Could I maybe take it off your hands?
+      text: \n<OKULARNIK>\com[2]Ej!\! To brakujący \c[4]FRAGMENT AUTOMATU\c[0], którego szukałem!\! Cz-czy mógłbym go od ciebie zabrać?
 
 #[Nod/Shake]
 #[Nod]
 
 message_8:
-      text: You gave the \c[4]ARCADE PIECE\c[0] to GLASSES MAN.
+      text: Dałeś \c[4]FRAGMENT AUTOMATU\c[0] OKULARNIKOWI.
 
 message_5:
-      text: \n<GLASSES MAN>Alright, cool!\! Now let's see here...
+      text: \n<OKULARNIK>Świetnie, wspaniale!\! Spróbujmy...
 #[Arcade Machine boots up]
 message_6:
-      text: \n<GLASSES MAN>There you go...\! Good as new!
+      text: \n<OKULARNIK>No i już...\! Jak nowy!
 #[Shake]
 message_7:
-      text: \n<GLASSES MAN>\com[2]B-B-B-But why!?
+      text: \n<OKULARNIK>\com[2]D-d-d-dlaczego to!?
 
 message_9:
-      text: \n<GLASSES MAN>Here! Take this \c[4]CD\c[0] as thanks!
+      text: \n<OKULARNIK>Proszę! Weź w podzięce tę \c[4]PŁYTĘ\c[0]!
 
 message_10:
-      text: \n<GLASSES MAN>I bought it at \c[11]HOBBEEZ\c[0] last week, but forgot I already had a copy at home...
+      text: \n<OKULARNIK>Kupiłem ją w zeszłym tygodniu w \c[11]BZZAJAWCE\c[0], ale zapomniałem, że mam już taką w domu...
 
 message_11:
-      text: \n<GLASSES MAN>Now, if you'll excuse me...\! <br>I must...\! err...\! make sure this game works correctly...
+      text: \n<OKULARNIK>Wybaczcie, ale...\! <br>muszę...\! yyy...\! upewnić się, że gra działa...

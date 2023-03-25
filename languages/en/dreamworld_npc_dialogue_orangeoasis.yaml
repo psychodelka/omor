@@ -34,10 +34,10 @@ message_3:
 #Jelly: Dream world P&J Quest
 #After Peanut and Jelly quest: (USZKA's House)
 message_4:
-      text: \n<ŻELUSIA>Hehe...\! PANNA USZKA będzie taka zdziwiona, kiedy dam jej tę \c[4]DZIĘKCZYNNĄ SKAMIELINĘ\c[0]!\! Co nie, FISTASIU?
+      text: \n<DŻEMKA>Hehe...\! PANNA USZKA będzie taka zdziwiona, kiedy dam jej tę \c[4]DZIĘKCZYNNĄ SKAMIELINĘ\c[0]!\! Co nie, ORZESZKO?
  
 message_5:
-      text: \n<FISTASIA>Mhmm!
+      text: \n<ORZESZKA>Mhmm!
  
 #CZŁOWIEK W OGNIU
 #Location: Orange Oasis
@@ -89,7 +89,7 @@ message_22:
       text: \n<USZKA>Ostatnio jest tu dość pusto. Martwię się, że dzieci, które pozostały, zaczną się czuć samotnie...
  
 message_23:
-      text: \n<USZKA>Prezenty ŻELUSI i FISTASI są zawsze najdziwniejsze...\! Ciekawe co przygotowały tym razem?
+      text: \n<USZKA>Prezenty DŻEMKI i ORZESZKI są zawsze najdziwniejsze...\! Ciekawe co przygotowały tym razem?
  
  
                         #====NIGHT 3====
@@ -139,7 +139,7 @@ message_58:
  
  
 message_57:
-      text: \n<KONOENESNER TOFU>Hej! Nie masz 10 kawałków\c[3]TOFU\c[0]...
+      text: \n<KONOENESNER TOFU>Hej! Nie masz 10 kawałków \c[3]TOFU\c[0]...
  
 message_60:
       text: \n<PRAWDZIWY KUN>Pachniecie jak ojciec!\! Ojciec żyje?\!<br>Nie widziałem go, odkąd przez przypadek wrzucili go do krypty przywoływania!

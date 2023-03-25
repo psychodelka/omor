@@ -2,168 +2,221 @@
 # B.E.D. Trade Quest
 # ========================================================================================
 
+
 #B.E.D. Trade Quest 1
 
+
 message_0:
-    text: \mayBlast!\! Where in the world is my good-for-nothing son?
+    text: \n<BURMISTRZ KIEŁKUN>Wspaniale!\! Gdzie się podział mój syn obibok?
+
 
 message_1:
-    text: \mayLast night I asked him to analyze the effects of my latest invention, the \c[4]B.E.D.\c[0], and I'm longing to hear the results!
+    text: \n<BURMISTRZ KIEŁKUN>Ostatniej nocy poprosiłem go, aby przeanalizował efekty mojego najnowszego wynalazku, \c[4]Ł.O.Ż.A.\c[0], i pragnę poznać wyniki!
+
 
 message_2:
-    text: \mayI hope he's not doing what I think he's doing...
+    text: \n<BURMISTRZ KIEŁKUN>Mam nadzieję, że nie robi tego, o czym myślę...
+
 
 message_3:
-    text: A SPROUT MOLE sleeping on a \c[4]B.E.D.\c[0].\!<br>If only you had something that could wake him up...
+    text: KIEŁKUN śpi na \c[4]Ł.O.Ż.U.\c[0].\!<br>Gdybyś tylko miał coś, czym mógłbyś go obudzić...
+
 
 #B.E.D. Trade Quest 2
 
+
 message_10:
-    text: \n<SPORT MOLE>Huff... huff, huff...
+    text: \n<KIEŁKATLETA>Uff... uff... uff...
+
 
 message_11:
-    text: \n<SPORT MOLE>All this training's made me so hungry!\!<br>I really wish I had some \c[3]TOFU\c[0] right now...
+    text: \n<KIEŁKATLETA>Przez ten cały trening jestem strasznie głodny!\!<br>Szkoda, że nie mam przy sobie żadnego \c[3]TOFU\c[0]...
+
 
 message_12:
-    text: Give a \c[3]TOFU\c[0] to the very sweaty SPORT MOLE?
+    text: Dać \c[3]TOFU\c[0] bardzo spoconemu KIEŁKATLECIE?
+
 
 message_13:
-    text: \n<SPORT MOLE>Wow, thank you for the \c[3]TOFU\c[0]! I really needed that.\!<br>In return, here's my most prized possession.<br>Please take good care of it!
+    text: \n<KIEŁKATLETA>Wow, dzięki ci za to \c[3]TOFU\c[0]! Bardzo go potrzebowałem.\!<br>W zamian daję ci najcenniejszą rzecz, jaką posiadam.<br>Dbaj o nią!
+
 
 #Bandito mole
 
+
 message_20:
-    text: \who\}Psst... hey, kids!\! I couldn't help but overhear...\! that guy PESSI dropped something valuable, right?\! Something... precious, perhaps?\! <br>I might be able to help you with that...
+    text: \who\}Psst... ej, dzieciaki!\! Przez przypadek usłyszałem to i owo...\! ten gościu PESSI zgubił coś kosztownego, co nie?\! Coś... drogocennego?\!<br>Może jestem w stanie wam jakoś pomóc...
+
 
 message_21:
     faceset: MainCharacters_DreamWorld
     faceindex: 10 #needs appropriate faceset
-    text: \aubHmm, this guy seems awfully shady...\!<br>What's the catch,\! \com[2]SHADY MOLE!?
+    text: \aubHmm, ten gość wygląda na strasznie podejrzanego...\!<br>Gdzie jest haczyk,\! \com[2]PODEJRZANY KIEŁKUNIE!?
+
 
 message_22:
-    text: \n<SHADY MOLE>\}A-Ahem!\! As you may already know,\! we SPROUT MOLES are very intelligent and high-functioning creatures.
+    text: \n<PODEJRZANY KIEŁKUN>\}E-ekhem!\! Jak już mogliście zauważyć,\! my, KIEŁKUNY jesteśmy bardzo inteligentnymi i wysokofunkcjonującymi stworzeniami.
+
 
 message_23:
-    text: \n<SHADY MOLE>\}The smartest of us all, the MAYOR, is creating a device that will help SPROUT MOLES do their work at a much higher capacity than what was previously possible.
+    text: \n<PODEJRZANY KIEŁKUN>\}Najmądrzejszy z nas, BURMISTRZ, tworzy urządzenie, które pomoże KIEŁKUNOM wykonywać swoją pracę z dużo większą wydajnością niż kiedykolwiek.
+
 
 message_24:
-    text: \n<SHADY MOLE>\}A fabled device of legend that, when complete, will entirely revolutionize the modern world!\! He calls it...\! The \c[4]B.E.D.\c[0]!
+    text: \n<PODEJRZANY KIEŁKUN>\}Wyjątkowe urządzenie, które, jak głoszą legendy, gdy zostanie ukończone, całkowicie zrewolucjonizuje współczesny świat!\! Nazywa się...\! \c[4]Ł.O.Ż.E.\c[0]!
+
 
 message_25:
     faceset: MainCharacters_DreamWorld
     faceindex: 11 #needs appropriate faceset
-    text: \aubThe \c[4]B.E.D.\c[0]?\! What do you want that for?
+    text: \aub\c[4]Ł.O.Ż.E.\c[0]?\! Na co ci to?
+
 
 message_26:
-    text: \n<SHADY MOLE>\}\Com[2]Hey, no questions!\! Get me a \c[4]B.E.D.\c[0] first and then we'll talk.
+    text: \n<PODEJRZANY KIEŁKUN>\}\Com[2]Hej, żadnych pytań!\! Zdobądźcie mi \c[4]Ł.O.Ż.E.\c[0] i wtedy pogadamy.
+
 
 message_27:
     faceset: MainCharacters_DreamWorld
     faceindex: 17 #needs appropriate faceset
-    text: \kelA \c[4]B.E.D.\c[0], huh?\! That seems simple enough!
+    text: \kel\c[4]Ł.O.Ż.E\c[0], hę?\! Bułka z masłem!
+
 
 message_28:
     faceset: MainCharacters_DreamWorld
     faceindex: 4 #needs appropriate faceset
-    text: \aubWait, KEL! I don't know...\! He seems awfully...\! Untrustworthy...
+    text: \aubCzekaj, KEL! Sama nie wiem...\! On wydaje mi się strasznie...\! podejrzany...
+
 
 message_29:
     faceset: MainCharacters_DreamWorld
     faceindex: 39
-    text: \herMaybe we should just give him a \c[4]B.E.D.\c[0] and see what happens.
+    text: \herMoże po prostu dajmy mu te \c[4]Ł.O.Ż.E.\c[0] i zobaczmy, co się stanie.
+
 
 message_30:
     faceset: MainCharacters_DreamWorld
     faceindex: 8
-    text: \aubIf you think so, HERO...\!<br>but something about him really rubs me the wrong way...
+    text: \aubJeśli tak sądzisz, HERO...\!<br>ale mimo wszystko coś mi w nim nie pasuje...
+
+
 
 
 #B.E.D. Trade Quest 3
 
+
 message_40:
-    text: \sle\Com[2]EEEEE\{EEEEE\{EEEEEEK!!
+    text: \n<KIEŁŚPIOCH>\Com[2]IIIII\{IIII\{IIIII!!
+
 
 message_41:
-    text: \sleWho are you!?
+    text: \n<KIEŁŚPIOCH>Kim jesteście!?
+
 
 message_42:
-    text: \sle\Com[2]Oh no, I'm late!\! Could it be that I...\! No...
+    text: \n<KIEŁŚPIOCH>\Com[2]O nie, spóźniłem się!\! Czy to możliwe że...\! Nie...
+
 
 message_43:
-    text: \sleI must have overslept!\! ...\!<br>But...\! SPROUT MOLES don't oversleep!
+    text: \n<KIEŁŚPIOCH>Musiałem zaspać!\! ...\!<br>Ale...\! KIEŁKUNY nigdy by nie zaspały!
+
 
 message_44:
-    text: \sleThis \c[4]B.E.D.\c[0]...\! It's...\! \quake[1]powerful.\quake[0]\! Maybe even\. \quake[1]too powerful.\quake[0]
+    text: \n<KIEŁŚPIOCH>To \c[4]Ł.O.Ż.E.\c[0]...\! jest...\! \quake[1]potężne.\quake[0]\! Może nawet\. \quake[1]zbyt potężne.\quake[0]
+
 
 message_45:
-    text: \sleI'd better tell Dad about this!
+    text: \n<KIEŁŚPIOCH>IPowinienem powiedzieć o tym tacie!
+
 
 #B.E.D. Trade Quest 4
 
+
 message_50:
-    text: \sle\Com[2]Dad! Dad! I'm here!
+    text: \n<KIEŁŚPIOCH>\Com[2]Tato! Tato! Jestem!
+
 
 message_51:
-    text: \mayBy the gods, son! Where have you been?
+    text: \n<BURMISTRZ KIEŁKUN>Bogowie, synu! Gdzie ty byłeś?
+
 
 message_52:
-    text: \sleI...\! I'm afraid I have some terrible news...
+    text: \n<KIEŁŚPIOCH>Ja...\! Obawiam się, że mam okropne wieści...
+
 
 message_53:
-    text: \mayWhat is it, son?\! You know you can tell me anything!
+    text: \n<BURMISTRZ KIEŁKUN>O co chodzi, synu?\! Wiesz, że możesz powiedzieć mi wszystko!
+
 
 message_54:
-    text: \sleLast night, while I was testing the \c[4]B.E.D.\c[0]...\!<br>I...\! I...\! I...\! I \quake[1]overslept...\quake[0]
+    text: \n<KIEŁŚPIOCH>Zeszłej nocy, kiedy testowałem \c[4]Ł.O.Ż.E.\c[0]...\!<br>Ja...\! Ja...\! Ja...\! Ja \quake[1]zaspałem...\quake[0]
+
 
 message_55:
-    text: \mayNo, it can't be!\! If what you've said is true, then...
+    text: \n<BURMISTRZ KIEŁKUN>Nie, to niemożliwe!\! Jeśli to, co mówisz, jest prawdą, to znaczy, że...
+
 
 message_56:
-    text: \mayAll my research...\! This invention...\! The \c[4]B.E.D.\c[0]...\!<br>It's all...\! \quake[1]too powerful.\quake[0]
+    text: \n<BURMISTRZ KIEŁKUN>Wszystkie moje badania...\! Ten wynalazek...\! \c[4]Ł.O.Ż.E.\c[0]...\!<br>Jest...\! \quake[1]zbyt potężne.\quake[0]
+
 
 message_57:
-    text: \mayYou see, my theory was that a \c[4]B.E.D.\c[0] would help SPROUT MOLES gain a good night's rest and thus gain productivity throughout the day, but...
+    text: \n<BURMISTRZ KIEŁKUN>Cóż, moja teoria zakładała, że \c[4]Ł.O.Ż.E.\c[0] pomogłoby KIEŁKUNOM dobrze spać i w ten sposób zwiększyć ich produktywność za dnia, ale...
+
 
 message_58:
-    text: \mayWhat good is it if the very same invention causes SPROUT MOLES to lose productivity instead?
+    text: \n<BURMISTRZ KIEŁKUN>Co z tego, gdy ten sam wynalazek powoduje jej utratę?
+
 
 message_59:
-    text: \mayThe \c[4]B.E.D.\c[0] has the potential for greatness, but the current risk is too high!
+    text: \n<BURMISTRZ KIEŁKUN>\c[4]Ł.O.Ż.E.\c[0] ma spory potencjał, ale obecne ryzyko jest zbyt wysokie!
+
 
 message_60:
-    text: \may\Com[2]By the gods, what have I done?!
+    text: \n<BURMISTRZ KIEŁKUN>\Com[2]O bogowie, co ja zrobiłem?!
+
 
 message_61:
-    text: \mayI cannot unleash this dangerous technology upon the world, lest our humble village might never wake up again!
+    text: \n<BURMISTRZ KIEŁKUN>Nie mogę pozwolić, aby ten wynalazek ujrzał światło dziennie, inaczej nasza skromna wioska mogłaby się już nigdy nie obudzić!
+
 
 message_62:
-    text: \may\Com[2]Hey, you there!\! Child!\! Take this \c[4]B.E.D.\c[0] away from us.\!<br>We have no need for such power!
+    text: \n<BURMISTRZ KIEŁKUN>\Com[2]Hej, wy tam!\! Dzieci!\! Zabierzcie te \c[4]Ł.O.Ż.E.\c[0] daleko od nas.\!<br>Nie potrzebujemy tak potężnego przedmiotu!
+
 
 message_63:
-    text: \mayNow begone and speak not of what you saw here today!
+    text: \n<BURMISTRZ KIEŁKUN>Teraz znikajcie i ani słowa nikomu o tym, co dzisiaj tu ujrzeliście!
+
 
 message_64:
-    text: \n<SPORT MOLE>Oh, well.\!<br>If you ever want to spare some \c[3]TOFU\c[0], I'll be happy to have some...
+    text: \n<KIEŁKATLETA>Oj, no cóż.\!<br>Jeśli chcielibyście dać mi kiedyś trochę \c[3]TOFU\c[0], to chętnie je przyjmę...
+
 
 message_65:
-    text: You got a \c[4]B.E.D.\c[0]!
+    text: Zdobyłeś \c[4]Ł.O.Ż.E.\c[0]!
+
 
 message_66:
-    text: \n<SHADY MOLE>\}\Com[2]D-Do my eyes deceive me?
+    text: \n<PODEJRZANY KIEŁKUN>\}\Com[2]Cz-czy ja dobrze widzę?
+
 
 message_67:
-    text: \n<SHADY MOLE>\}I don't believe it...\! It's... a \c[4]B.E.D.\c[0]!\! A real, genuine, bonafide \c[4]B.E.D.\c[0]!\!<br>I'm gonna use it right this second!
+    text: \n<PODEJRZANY KIEŁKUN>\}Nie wierzę...\! To... \c[4]Ł.O.Ż.E.\c[0]!\! Prawdziwe, oryginalne \c[4]Ł.O.Ż.E.\c[0]!\!<br>Przetestuję je!
+
 
 message_68:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aubHey, what are you doing?\!<br>We helped you, so you should help us!
+    text: \aubEj, co ty robisz?\!<br>Pomogliśmy ci, więc ty teraz pomóż nam!
+
 
 message_69:
-    text: \n<SHADY MOLE>\}\Com[2]Whoa, whoa, whoa!\}\!<br>What's with all the attitude?\!<br>It may not seem like it, but I'm a mole of my word.
+    text: \n<PODEJRZANY KIEŁKUN>\}\Com[2]Hola, hola, hola!\}\!<br>Co tak agresywnie?\!<br>Może nie wyglądam na takiego, ale jestem kiełkunem honoru.
+
 
 message_70:
-    text: Use \c[4]BIG AIRHORN\c[0] on the SLEEPY MOLE?
+    text: Użyć \c[4]DUŻEJ TRĄBKI\c[0] na KIEŁŚPIOCHU?
+
 
 message_71:
-    text: \sleBut...\! I liked the \c[4]B.E.D.\c[0]...
+    text: \n<KIEŁŚPIOCH>Ale...\! Podobało mi się to \c[4]Ł.O.Ż.E.\c[0]...

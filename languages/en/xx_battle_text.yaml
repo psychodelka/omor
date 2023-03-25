@@ -939,7 +939,7 @@ message_172:
 
 message_173:
    text: >
-    \>ANGEL: \<Niuch...\! Wy...\!<br>Zapłacicie za to...
+    \>ANGEL: \<Chlip...\! Wy...\!<br>Zapłacicie za to...
 
 # After Victory:
 
@@ -1433,7 +1433,7 @@ message_278:
 # Before Swallow (Generic 2)
 message_279:
    text: >
-    \>GIGANTOS: \<\sinv[1]Niewiedza jest cnotą, lecz racz czasem zważać.\| Jak długo musimy to jeszcze powtarzać? 
+    \>GIGANTOS: \<\sinv[1]Niewiedza jest cnotą, lecz musisz zważać.\| Jak długo musimy to jeszcze powtarzać?
 
 #Before GIGANTOS Abort
 message_323:
@@ -1750,7 +1750,7 @@ message_402:
 
 message_403:
    text: >
-    \>ALI GATOR: \<Dobra, koleżki... Nie przejdziecie dalej.
+    \>ALI GATOR: \<Dobra, koleżkowie... Nie przejdziecie dalej.
 
 message_404:
    text: >
