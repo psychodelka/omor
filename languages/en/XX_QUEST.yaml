@@ -271,7 +271,7 @@ message_85:
 message_86:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marMoże HEKTOR założył już rodzinę, ale \c[13]HEKTOR JR\c[0] cieszy się, że może tu być.\. Nie zgub go tym razem, KEL.\.\^
+      text: \marMoże HEKTOR założył już rodzinę, ale \c[13]HEKTOR MŁODSZY\c[0] cieszy się, że może tu być.\. Nie zgub go tym razem, KEL.\.\^
 
 
 # =========================================================================================
@@ -938,7 +938,7 @@ message_287:
 message_400:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marOMORI...\. Ty... zgodziłeś się zabić króliki na prośbę LIŚCIKA?\. Wiesz, AUBREY będzie przykro.\.\^
+      text: \marOMORI...\. Ty... zgodziłeś się zabić króliki na prośbę LISTKA?\. Wiesz, AUBREY będzie przykro.\.\^
 
 #Quest Complete:
 
@@ -987,7 +987,7 @@ message_408:
 message_404:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marFARMER KUBA musi mieć ciężkie życie z uciążliwymi KAŁAMAGIKAMI.\. Pomóżcie mu pozbyć się tych paskudnych stworzeń!\.\^
+      text: \marHODOWCA JIM musi mieć ciężkie życie z uciążliwymi KAŁAMAGIKAMI.\. Pomóżcie mu pozbyć się tych paskudnych stworzeń!\.\^
 
 #Quest Complete:
 

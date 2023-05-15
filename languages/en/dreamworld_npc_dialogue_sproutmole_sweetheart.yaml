@@ -35,7 +35,7 @@ message_2:
 #Location: Sprout Mole Village
 #(TOFU TRIVIA copy)
 message_3:
-      text: \n<KIEŁKUCHARZ>Ach tak, witam!\! Musieliście tu przybyć, aby na własne oczy ujrzeć to wybitne dzieło kulinarne od czasów krojonego chleba...\! \Com[2]\c[3]TOFU\c[0]!
+      text: \n<KIEŁKUCHARZ>Ach tak, witam!\! Musieliście tu przybyć, aby na własne oczy ujrzeć to najwybitniejsze dzieło kulinarne od czasów krojonego chleba...\! \Com[2]\c[3]TOFU\c[0]!
  
 message_4:
       text: \n<KIEŁKUCHARZ>C'est magnifique!\!<br>Oto ciekawostka o \c[3]TOFU\c[0] na dziś.
@@ -50,7 +50,7 @@ message_7:
       text: \n<KIEŁKUCHARZ>Istnieją cztery rodzaje \c[3]TOFU\c[0]...\!<br>twarde, ekstra twarde, miękkie i puszyste!
  
 message_8:
-      text: \n<KIEŁKUCHARZ>Twarde \c[3]TOFU\c[0] można usmażyć, ugotować, pokroić w kostkę oraz przygotować na każdy możliwy sposób.\! Jest to możliwe dzięki konsystencji, która potrafi wchłonąć smak i nadal zachować swój kształt!
+      text: \n<KIEŁKUCHARZ>Twarde \c[3]TOFU\c[0] można usmażyć, ugotować, pokroić w kostkę oraz przygotować na każdy możliwy sposób.<br><br>Jest to możliwe dzięki konsystencji, która potrafi wchłonąć smak i nadal zachować swój kształt!
  
 message_9:
       text: \n<KIEŁKUCHARZ>Miękkie \c[3]TOFU\c[0] najlepiej przygotować na surowo lub odsączyć.\! Nadaje się wyśmienicie do deserów, koktajli, dipów i sosów!
@@ -65,7 +65,7 @@ message_12:
       text: \n<KIEŁKUCHARZ>Ponieważ \c[3]TOFU\c[0] ma wysoką zawartość soi, odradza się spożywanie go w przypadku posiadania kamieni nerkowych!
  
 message_13:
-      text: \n<KIEŁKUCHARZ>Najlepszym sposobem na wzbogacenie smaku \c[3]TOFU\c[0] jest glazurowanie go, aż do uzyskania złocistego koloru, a następnie dodanie marynaty.<br>Gdy już wchłonie wszystkie smaki, sos stanie się syropem, który będzie lepił się do patelni!
+      text: \n<KIEŁKUCHARZ>Najlepszym sposobem na wzbogacenie smaku \c[3]TOFU\c[0] jest glazurowanie go aż do uzyskania złocistego koloru, a następnie dodanie marynaty.<br>Gdy wchłonie ono wszystkie smaki, sos stanie się syropem, który będzie lepił się do patelni!
  
 message_14:
       text: \n<KIEŁKUCHARZ>Jeśli pragniesz zgłębić więcej wiedzy o cudownym i znamienitym \c[3]TOFU\c[0], nie krępuj się porozmawiać ze mną ponownie.\! Cho-cho!
@@ -289,7 +289,7 @@ message_80:
 #GUARD MOLE
 #Location: Sweetheart's Castle
 message_81:
-      text: \n<OCHRONIARZ KIEŁKUN>Odkąd SŁODZIUTKA odeszła, moje życie nie ma sensu.
+      text: \n<KIEŁKUN STRAŻNIK>Odkąd SŁODZIUTKA odeszła, moje życie nie ma sensu.
  
 #MAID MOLE
 #Location: Sweetheart's Castle
@@ -440,7 +440,7 @@ message_85:
 #GUARD MOLE
 #Location: LAST RESORT
 message_86:
-      text: \n<OCHRONIARZ KIEŁKUN>Jestem tu, bo powiedziano mi, że mają dla mnie ofertę pracy...
+      text: \n<KIEŁKUN STRAŻNIK>Jestem tu, bo powiedziano mi, że mają dla mnie ofertę pracy...
 #After Mr.Jawsum leaves Last Resort
 #Location: Sweetheart's Castle
  

@@ -11,7 +11,7 @@ message_1:
       text: Pamiętasz mnie?\! Tu twój kumpel, KEL!\who
  
 message_2:
-      text: Więc ja...\! ech...\! Zauważyłem ten znak z napisem "\NA SPRZEDAŻ"\ przed twoim domem...\! i jakby...\! yyy...\! mama mi mówiła, że za niedługo się przeprowadzacie.\kel
+      text: Więc ja...\! ech...\! Zauważyłem ten znak z napisem \\NA SPRZEDAŻ\" przed twoim domem...\! i jakby...\! yyy...\! mama mi mówiła, że za niedługo się przeprowadzacie.\kel
  
 message_3:
       text: Więc tak sobie pomyślałem...\! że te kilka dni zanim wyjedziesz, moglibyśmy spędzić wspólnie... czy coś...\! No wiesz, tak jak kiedyś.\kel
@@ -56,7 +56,7 @@ message_11:
 message_12:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Err...\! Z-znaczy...\kel
+      text: Yyy...\! Z-znaczy...\kel
  
 #KEL puts his hand behind his head.
  
@@ -217,7 +217,7 @@ message_75:
 message_76:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \Com[2]20 $!?\! Zdzierstwo!\kel
+      text: \Com[2]20 $?!\! Zdzierstwo!\kel
  
 message_77:
       faceset: MainCharacters_Faraway

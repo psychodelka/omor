@@ -1,85 +1,108 @@
 
+
 # =========================================================================================
 # FARAWAY TOWN Object Flavor Text
 # =========================================================================================
 
+
 # Gino's Dinner
+
 
 #Dining tables:
 message_1:
-      text: This table feels sticky.
+      text: Stół jest lepki.
+
+
 
 
 # Consumable items
 
+
 # Donut
 message_100:
-      text: The \c[3]DONUT\c[0] had a soft fluffy texture and was very sugary.
+      text: \c[3]PĄCZEK\c[0] był puszysty i bardzo słodki.
+
 
 # Candy
 message_101:
-      text: The \c[3]CANDY\c[0] had a chewy texture and fruity flavor.
+      text: \c[3]CUKSY\c[0] ciągnęły się i miały owocowy smak.
+
 
 # Salad
 message_102:
-      text: The \c[3]SALAD\c[0] tasted like grass.
+      text: \c[3]SAŁATKA\c[0] smakowała jak trawa.
+
 
 # Bread
 message_103:
-      text: The \c[3]BREAD\c[0] was fragrant and crispy... and kind of addicting?
+      text: \c[3]CHLEB\c[0] był aromatyczny i chrupiący... i trochę uzależniający?
+
 
 # Chocolate
 message_104:
-      text: The \c[3]CHOCOLATE\c[0] was a bit creamy and a bit nutty. It melted in your mouth.
+      text: \c[3]CZEKOLADA\c[0] była kremowa, z nutką orzecha. Roztopiła się w twoich ustach.
+
 
 # Pizza Slice
 message_105:
-      text: The \c[3]PIZZA SLICE\c[0] was hot and covered in cheese. You wish you had more...
+      text: \c[3]KAWAŁEK PIZZY\c[0] był gorący i pokryty serem. Chciałbyś zjeść jeszcze jeden...
+
 
 # Hero Sandwich
 message_106:
-      text: The \c[3]HERO SANDWICH\c[0] boasted the perfect mix of meats and veggies. Wow...
+      text: \c[3]KANAPKA HEROSA\c[0] olśniła idealnym połączeniem mięsa i zieleniny. Wow...
+
 
 # Caramel Apple
 message_107:
-      text: The \c[3]CARAMEL APPLE\c[0] was sticky and sweet, yet crunchy and sour.
+      text: \c[3]JABŁKO W KARMELU\c[0] było klejące i słodkie, a jednocześnie chrupiące i kwaśne.
+
 
 # Whole Pizza
 message_108:
-      text: The \c[3]WHOLE PIZZA\c[0] was hot and covered in cheese. This was the perfect amount.
+      text: \c[3]PIZZA\c[0] była gorąca i pokryta serem. Porcja idealna.
+
 
 # Pie
 message_109:
-      text: The \c[3]PIE\c[0]'s buttery crust perfectly complemented the fruity filling.
+      text: Chrupiąca kruszonka \c[3]CIASTA\c[0] idealnie dopełniła owocowe nadzienie.
+
 
 # Big Bag of Candy
 #message_110:
 #      text: There was so much \c[3]CANDY\c[0], it barely fit in your mouth.
 
+
 # Slice of Cake
 message_111:
-      text: The \c[3]SLICE OF CAKE\c[0] was small and humble, but rich.
+      text: \c[3]KAWAŁEK TORTU\c[0] był dość mały, ale pożywny.
+
 
 # Hamburger
 message_112:
-      text: The \c[3]HAMBURGER\c[0]'s ingredients blended together flawlessly. All it was missing was cheese.
+      text: Wszystkie składniki \c[3]HAMBURGERA\c[0] wymieszały się z sobą idealnie. Brakowało tylko sera.
+
 
 # Tasty Soda
 message_113:
-      text: The \c[3]TASTY SODA\c[0] had a fizzy and nostalgic taste that flooded your mouth.
+      text: Nostalgiczno-bąbelkowy smak \c[3]ORANŻADY MNIAM\c[0] zalał twoje podniebienie.
+
 
 # Orange Joe
 message_114:
-      text: The \c[3]ORANGE JUICE\c[0] and \c[3]COFFEE\c[0] combination created a questionable flavor.
+      text: Smak mieszanki \c[3]SOKU POMARAŃCZOWEGO\c[0] i \c[3]KAWY\c[0] był podejrzany.
+
 
 # Apple Juice
 message_115:
-      text: The \c[3]APPLE JUICE\c[0] was truly made from the ripest of apples.
+      text: \c[3]SOK JABŁKOWY\c[0] naprawdę został wyciśnięty z najdojrzalszych jabłek.
+
 
 # Orange Juice
 message_116:
-      text: The \c[3]ORANGE JUICE\c[0] was truly made from the freshest of oranges.
+      text: \c[3]SOK POMARAŃCZOWY\c[0] naprawdę został wyciśnięty z najświeższych pomarańczy.
+
 
 # Coffee
 message_117:
-      text: The \c[3]COFFEE\c[0] was hot and bitter, as expected. You don't know why people drink this.
+      text: \c[3]KAWA\c[0] była gorąca i gorzka jak zawsze. Nie wiesz, dlaczego ludzie ją piją.

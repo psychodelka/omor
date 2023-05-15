@@ -24,7 +24,7 @@ message_3:
 #BERLY turns to the pole.
  
 message_4:
-      text: \{\Com[2]PATRZCIE NA TEN SŁUP!!\}\!<br>\Com[2]Dacie wiarę!?\ber
+      text: \{\Com[2]PATRZCIE NA TEN SŁUP!!\}\!<br>\Com[2]Dacie wiarę?!\ber
  
 #Camera centers on POLE
  
@@ -132,13 +132,13 @@ message_26:
 # =========================================================================================
  
 message_100:
-      text: Jesteście gotowi, by znaleźć moją \c[4]ZAGINIONĄ PIŁKĘ\c[0]!?\!<br>\}To nie tak, że potrzebuję waszej pomocy...\ber
+      text: Jesteście gotowi, by znaleźć moją \c[4]ZAGINIONĄ PIŁKĘ\c[0]?!\!<br>\}To nie tak, że potrzebuję waszej pomocy...\ber
  
 message_38:
       text: No wreszcie!\! Chodźmy już.\! Zaraz umrę z nudów!\ber
  
 message_101:
-      text: \com[2]Co? Jak to nie!?\! Zaraz zasnę tu z nudów!\ber
+      text: \com[2]Co? Jak to nie?!\! Zaraz zasnę tu z nudów!\ber
  
 message_102:
       text: Słup z wiszącą linką.

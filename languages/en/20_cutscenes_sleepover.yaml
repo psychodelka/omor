@@ -99,17 +99,17 @@ message_21:
 message_22:
       faceset: MainCharacter_Basil_dark
       faceindex: 31
-      text: Emm...\! Masz rację.\! Wszystko powinno być dobrze.\! <br>Mieszamy tuż obok, więc to nie tak daleko! \her
+      text: Eee...\! masz rację.\! Wszystko powinno być dobrze.\! <br>Mieszkamy tuż obok, to tylko kawałek! \her
  
 message_23:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: Dokąd idziesz, \n[8]?\!<br>Nie wiesz, że to niemiłe zostawiać gości samych?\kel
+      text: Dokąd idziesz, \n[8]?\!<br>Nie wiesz, że to niemiłe zostawiać gości samemu?\kel
  
 message_24:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: Zobaczmy co HERO robi przy fortepianie!\kel
+      text: Zobaczmy, co HERO robi przy fortepianie!\kel
  
 message_25:
       text: Nie chcesz samemu wychodzić w nocy.
@@ -144,7 +144,7 @@ message_42:
 message_60:
       faceset: MainCharacter_Basil
       faceindex: 15
-      text: Nie oceniaj mnie zbyt pochopnie\! Długo już nie ćwiczyłem.\her
+      text: Nie oceniaj mnie zbyt pochopnie.\! Dawno już nie ćwiczyłem.\her
  
 #HERO plays an immaculate piece.
  
@@ -156,7 +156,7 @@ message_61:
 message_62:
       faceset: MainCharacter_Basil
       faceindex: 14
-      text: Haha, chyba dalej potrafię.\her
+      text: Haha, nie wyszedłem z wprawy.\her
  
 #HERO turns to PLAYER.
  
@@ -197,7 +197,7 @@ message_68:
 message_69:
       faceset: MainCharacter_Basil
       faceindex: 13
-      text: To gdzie będziemy spać, \n[8]?\! Zgaduję, że gdzieś w Twoim pokoju, co nie?\! Pamiętam, że kiedyś nienawidziłeś spać samemu.\her
+      text: To gdzie będziemy spać, \n[8]?\! Zgaduję, że gdzieś w twoim pokoju, co nie?\! Pamiętam, że kiedyś nienawidziłeś spać samemu.\her
  
 message_70:
       faceset: MainCharacter_Basil_dark
@@ -233,10 +233,10 @@ message_91:
 message_92:
       faceset: MainCharacter_Basil_dark
       faceindex: 11
-      text: Swoją drogą, HERO... \n[8], razem ze mą, kupił ci prezent!\kel
+      text: Swoją drogą, HERO... \n[8] razem ze mą kupił ci prezent!\kel
  
 message_110:
-      text: KEL oddał HERO jego \c[4]PREZENT\c[0]!
+      text: KEL dał HERO jego \c[4]PREZENT\c[0]!
  
 message_93:
       faceset: MainCharacter_Basil_dark

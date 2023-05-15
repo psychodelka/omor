@@ -13,12 +13,12 @@ message_1:
     text: \n<MROCZNY KOSARZ>Podejrzewam, że wszyscy mamy swoje sekrety...\! Bez względu na to, jak daleko i głęboko je skryjemy, zawsze znajdą sposób, aby wyleźć na powierzchnię...
  
 message_2:
-    text: \n<MROCZNY KOSARZ>Chcesz zesłać na siebie zgubę? A może już udało ci się tego dokonać?\! Tak czy siak, to miejsce jest dla ciebie idealne.\! Może przybyłeś tutaj, aby... dokończyć to, co dokończyć trzeba.
+    text: \n<MROCZNY KOSARZ>Chcesz zesłać na siebie zgubę? A może już udało ci się tego dokonać?\! Tak czy siak to miejsce jest dla ciebie idealne.<br><br>Może przybyłeś tutaj, aby... dokończyć to, co dokończyć trzeba.
  
 #Alternate
  
 message_3:
-    text: \n<MROCZNY KOSARZ>Mamy tendencję do robienia tego, co nam wygodne... wychodząc na przekór własnym słowom, że rzekomo robimy rzeczy produktywne.\! Nigdy niczego nie pożądałem.\! Raczej jestem tym "potrzebującym".
+    text: \n<MROCZNY KOSARZ>Mamy tendencję do robienia tego, co jest dla nas wygodne... wychodząc na przekór własnym słowom, że rzekomo robimy rzeczy produktywne.\! Nigdy niczego nie pożądałem.<br>Raczej jestem tym "potrzebującym".
  
 message_4:
     text: \n<MROCZNY KOSARZ>Radzę ci poszukać wyjścia, zanim twoje “potrzeby” głośniej dadzą o sobie znać.
@@ -60,11 +60,11 @@ message_12:
  
 #MAP 2
 message_13:
-    text: \n<MROCZNY KOSARZ>Czasem, gdy staramy się zataić prawdę, tworzymy inną rzeczywistość i zapominamy, dokąd zmierzamy.\!<br>A ty, odnalazłeś już swoją drogę,<br>czy może dalej się gubisz?
+    text: \n<MROCZNY KOSARZ>Czasem, gdy staramy się zataić prawdę, tworzymy inną rzeczywistość i zapominamy, dokąd zmierzamy.<br><br>A ty, odnalazłeś już swoją drogę, czy może dalej się gubisz?
  
 #MAP 5
 message_18:
-    text: \n<MROCZNY KOSARZ>Zapomnisz, prędzej czy później, lub usiłujesz zapomnieć.\! Mrok ukazuje się, czy jesteś tego świadomy, czy nie.\! Skryj opustoszałe za kłamstwem i obserwuj,<br>jak wychodzi ono na jaw.
+    text: \n<MROCZNY KOSARZ>Zapomnisz, prędzej czy później, lub usiłujesz zapomnieć.\! Mrok ukazuje się, czy jesteś tego świadomy, czy nie.<br><br>Skryj opustoszałe za kłamstwem i obserwuj, jak wychodzi ono na jaw.
  
 #Once you complete the forest, his page 2 is always:
 message_19:
@@ -118,7 +118,7 @@ message_35:
     text: \n<MROCZNY KOSARZ>Potęga MARZYCIELA była jego największym wrogiem.\!<br>Znajomość tej potęgi... lub jej brak byłby dla MARZYCIELA największym z darów.
  
 message_36:
-    text: \n<MROCZNY KOSARZ>Odcięcie się od niebezpieczeństw wynikających z jego własnych mocy i osiągnięcie błogi stan niczym nie skażonej ignorancji...<br>Tylko to pozwoliłoby ocalić MARZYCIELA przed postradaniem zmysłów przez ów hałas.
+    text: \n<MROCZNY KOSARZ>Odcięcie się od niebezpieczeństw wynikających z jego własnych mocy i osiągnięcie błogiego stanu niczym nieskażonej ignorancji...<br>Tylko to pozwoliłoby ocalić MARZYCIELA przed postradaniem zmysłów przez ów hałas.
  
 message_37:
     text: \n<MROCZNY KOSARZ>A więc...\! MARZYCIEL przybrał nowe imię...\!<br>i zdecydował się o sobie zapomnieć.

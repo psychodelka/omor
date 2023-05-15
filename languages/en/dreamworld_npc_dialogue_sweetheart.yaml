@@ -146,7 +146,7 @@ message_0:
 
 
 message_1:
-      text: \n<KIEŁKUN OD LISTY GOŚCI>Wy tutaj! Sługi z nieprzyzwoitymi facjatami!\! Nadchodzące główne wydarzenie wymaga przepisowego stroju. Jest dla nas niesamowicie istotne,<br>aby widownia była ubrana po myśli SŁODZIUTKIEJ.\! Tutaj macie prostą instrukcję. Zrozumie ją KIEŁKUN i nie tylko!
+      text: \n<KIEŁKUN OD LISTY GOŚCI>Wy tutaj! Sługi z nieprzyzwoitymi facjatami!\! Nadchodzące główne wydarzenie wymaga przepisowego stroju.<br><br>Jest dla nas niesamowicie istotne, aby widownia była ubrana po myśli SŁODZIUTKIEJ.\! Tutaj macie prostą instrukcję. Zrozumie ją KIEŁKUN i nie tylko!
 
 
 
@@ -171,7 +171,7 @@ message_4:
 
 
 message_5:
-      text: Jak miały być ubrane KIEŁKUNY?
+      text: Jakie są zasady ubioru?
 
 
 
@@ -433,7 +433,7 @@ message_110:
 
 
 message_111:
-      text: Czy chcesz wziąć SZYSZKI?
+      text: Czy chcesz wziąć TRUSKI?
 
 
 
@@ -488,7 +488,7 @@ message_122:
 
 
 message_123:
-      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Teraz gotujemy!\! Na koniec pokrójcie SOS na kawałki!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Teraz to można grillować!\! Na koniec pokrójcie SOS na kawałki!
 
 
 
@@ -553,7 +553,7 @@ message_131:
 
 
 message_132:
-      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>\com[2]\{FANTASTYCZNIE! DOKŁADNIE TAK, JAK TO SOBIE WYOBRAŻAŁEM!!\!\}<br>Kopara opadnie reszcie ASYSTENTÓW!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>\com[2]\{FANTASTYCZNIE! DOKŁADNIE TAK, JAK TO SOBIE WYOBRAŻAŁEM!!\}<br>Kopara opadnie reszcie ASYSTENTÓW!
 
 
 
@@ -797,7 +797,7 @@ message_310:
 
 
 message_320:
-      text: \n<JUZEK PRZEMYTNIK>Wysłali mnie do lochu za przemyt...\!<br>ale ciągle to za mną chodzi.
+      text: \n<JUZEK PRZEMYTNIK>Wysłali mnie do lochu za przemyt...\!<br>trudno jest pozbyć się starych nawyków.
 
 
 
@@ -861,7 +861,7 @@ message_355:
 
 
 message_356:
-      text: \n<MARCJA>Bierzemy naszą robotę na poważnie!\! Ochroniarz drogiej SŁODZIUTKIEJ akceptuje tylko najlepszych z najlepszych!
+      text: \n<MARCJA>Bierzemy naszą robotę na poważnie!\! Gwardia koronna SŁODZIUTKIEJ przyjmuje do siebie tylko najlepszych z najlepszych!
 
 
 
@@ -924,7 +924,7 @@ message_375:
 
 
 message_376:
-      text: \n<MARCJA>Bierzemy naszą robotę na poważnie!\! Ochroniarz drogiej SŁODZIUTKIEJ akceptuje tylko najlepszych z najlepszych!
+      text: \n<MARCJA>Bierzemy naszą robotę na poważnie!\! Gwardia koronna SŁODZIUTKIEJ przyjmuje do siebie tylko najlepszych z najlepszych!
 
 
 
@@ -1136,7 +1136,7 @@ message_453:
 
 
 message_454:
-      text: Odłożyć SZYSZKI?
+      text: Odłożyć TRUSKI?
 
 
 

@@ -67,7 +67,7 @@ message_8:
       text: \n<PAN PIEKARZ>Świetny wybór! Już pakuję!
 #Insufficient Funds
 message_9:
-      text: \n<PAN PIEKARZ>Nie masz wystarczająco pieniędzy na nasze pyszne wypieki !
+      text: \n<PAN PIEKARZ>Nie masz wystarczająco pieniędzy na nasze pyszne wypieki!
 #item buying prompt
 message_80:
       text: \n<PAN PIEKARZ>Dobrze! To będzie <SHOPTOTAL> $.\.\^
@@ -229,7 +229,7 @@ message_42:
       text: \n<KASJER>Pewnie, ziomek. Ile byś chciał?\.\^
 #item selling ok
 message_43:
-      text: \n<KASJER>BZZAJAWKA to nie tylko sklep dla hobbystów... Lombard też!\!<br>Kupię wszystko, co macie!\! Co chcecie sprzedać?
+      text: \n<KASJER>BZZAJAWKA to nie tylko sklep dla hobbystów... i lombard też!\!<br>Kupię wszystko, co macie!\! Co chcecie sprzedać?
 #item selling prompt
 message_44:
       text: \n<KASJER>Czy może być <SHOPTOTAL> $?\.\^

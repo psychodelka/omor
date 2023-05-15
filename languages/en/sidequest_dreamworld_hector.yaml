@@ -1,82 +1,100 @@
 
+
 # =========================================================================================
 # Pet Rock
 # ========================================================================================
 
-#Cutscene: KEL loses HECTOR in Otherworld Ladder II
+
+#Cutscene: KEL loses HEKTOR in Otherworld Ladder II
+
 
 message_0:
     faceset: MainCharacters_DreamWorld
     faceindex: 20
-    text: \kelW-wait... Hold up, guys!\! ...\! Shoot...\!<br>Where is he?\! I just had him!
+    text: \kelCz-czekajcie... ludziska!\! ...\! Kurka...\!<br>Gdzie on się podział?\! Jeszcze przed chwilą go miałem!
+
 
 message_1:
     faceset: MainCharacters_DreamWorld
     faceindex: 39
-    text: \herWhere is who?
+    text: \herGdzie jest... kto?
+
 
 message_2:
     faceset: MainCharacters_DreamWorld
     faceindex: 29
-    text: \kel\c[13]HECTOR\c[0], my pet rock!\! I swear I just had him in my POCKET.
+    text: \kel\c[13]HEKTOR\c[0], mój głazik!\! Przysięgam, że przed chwilą był w mojej KIESZENI.
+
 
 message_3:
     faceset: MainCharacters_DreamWorld
     faceindex: 33
-    text: \kel\sinv[1]\Com[2]NOO\{OOOO\{OOOOOOO\{OOOOOOO!!!
+    text: \kel\sinv[1]\Com[2]NIEE\{EEEE\{EEEEEEE\{EEEEEEE!!!
+
 
 message_4:
     faceset: MainCharacters_DreamWorld
     faceindex: 33
-    text: \kel\{\Com[2]\sinv[1]\c[13]HECTOOOO\{OOOOOO\{OOOOOOR\c[0]!!!
+    text: \kel\{\Com[2]\sinv[1]\c[13]HEKTOOOO\{OOOOOO\{OOOOOOR\c[0]!!!
+
 
 message_5:
     faceset: MainCharacters_DreamWorld
     faceindex: 21
-    text: \kelHe must have fallen out of my POCKET when I wasn't<br>paying attention...
+    text: \kelMusiał mi wypaść z kieszeni, kiedy nie patrzyłem...
+
 
 message_6:
     faceset: MainCharacters_DreamWorld
     faceindex: 23
-    text: \kelI'm sorry, \c[13]HECTOR\c[0]... I should have been more careful...
+    text: \kelPrzepraszam, \c[13]HEKTORZE\c[0]... Powinienem być bardziej ostrożny...
+
 
 message_7:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aubWhat's the big deal? It's just a rock, right?
+    text: \aubCzemu tak się przejmujesz? To nie jakiś zwykły kamień?
+
 
 message_8:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: \kelDon't you dare say that!\!<br>He's not just a rock...
+    text: \kelNie waż się tak mówić!\!<br>On nie jest zwyczajnym kamieniem... On jest...
+
 
 message_9:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: \kel\Com[2]\{HE'S FAMILY!!!
+    text: \kel\Com[2]\{CZĘŚCIĄ RODZINY!!!
+
 
 message_10:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herDon't worry! I'm sure he'll turn up soon, KEL.
+    text: \herNie martw się, KEL! Jestem pewien, że za niedługo wróci.
+
 
 message_11:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \her\}Probably...
+    text: \her\}Prawdopodobnie...
+
 
 message_12:
     faceset: MainCharacters_DreamWorld
     faceindex: 22
-    text: \kelI sure hope so...
+    text: \kelMam nadzieję, że tak...
+
 
 message_13:
     faceset: MainCharacters_DreamWorld
     faceindex: 23
-    text: \kelWait for me, \c[13]HECTOR\c[0]!\!<br>I'll find you...\! I promise!
+    text: \kelCzekaj na mnie, \c[13]HEKTORZE\c[0]!\!<br>Odnajdę cię...\! Obiecuję!
+
 
 message_15:
-    text: \n<HEATHER>We'll always be proud of you, son.
+    text: \n<HELENA>Zawsze będziemy z ciebie dumni, synu.
+
 
 message_16:
-    text: \n<HEATHER JR.>Follow your dreams, brother!
+    text: \n<HELENA MŁODSZA>Podążaj za marzeniami, braciszku!

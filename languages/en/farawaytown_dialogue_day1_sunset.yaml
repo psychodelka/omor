@@ -125,12 +125,12 @@ message_46:
 #After a few seconds,THE MAVERICK slowly walks into the screen from off CAMERA
  
 message_47:
-      text: \n<WIELKI MAVERICK>Uff...\! uff...\! uff...\! uff...\!Czekaj...\!<br>Ja...\! uff...\! Domagam się rewanżu...
+      text: \n<WIELKI MAVERICK>Uff...\! uff...\! uff...\! uff...\! Czekaj...\!<br>Ja...\! uff...\! żądam rewanżu...
  
 message_48:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelNie wiem czy to dobry pomysł, MIKHAEL...\!<br>No bo... Już jest trochę późno, co nie?
+      text: \kelNie wiem czy to dobry pomysł, MIKHAEL...\!<br>No bo... już jest trochę późno, co nie?
  
 message_49:
       text: \n<WIELKI MAVERICK>Uff...\! uff...\! uff...\! uff...\! uff...\! uff...\! uff...\! uff...

@@ -1,91 +1,123 @@
 
+
 # =========================================================================================
 # RECYCLE
 # ========================================================================================
 
+
 #COPY FROM DEMO
 
+
 message_1:
-    text: A RECYCLING MACHINE.\!<br>Would you like to insert something?
+    text: RECYKLARKA.\!<br>Czy chciałbyś coś wrzucić?
+
 
 message_2:
-    text: The RECYCLING MACHINE dispensed [X] CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+    text: RECYKLARKA wydała [X] MAŁŻY.\!<br>Dziękujemy za pomoc w dbaniu o czystość naszego środowiska.
+
 
 message_3:
-    text: You don't have anything that is recyclable.
+    text: Nie masz nic, co mógłbyś oddać do recyklingu.
+
 
 message_4:
-    text: You put a [X] into the RECYCLING MACHINE.
+    text: Wrzuciłeś [X] do RECYKLARKI.
+
 
 message_20:
-    text: CAN
+    text: PUSZKĘ
+
 
 message_21:
-    text: GLASS BOTTLE
+    text: SZKLANĄ BUTELKĘ
+
 
 message_22:
-    text: CARDBOARD
+    text: KARTON
+
 
 message_23:
-    text: DEAD BATTERIES
+    text: ZUŻYTE BATERIE
+
 
 message_24:
-    text: COMPUTER PARTS
+    text: CZĘŚĆ KOMPUTERA
+
 
 message_25:
-    text: A RECYCLING MACHINE.\!<br>What would you like to recycle?
+    text: RECYKLARKA.\!<br>Co chciałbyś oddać do recyklingu?
+
 
 #can
 
+
 message_5:
-    text: You put a \c[5]CAN\c[0] into the RECYCLING MACHINE.
+    text: Wrzuciłeś \c[5]PUSZKĘ\c[0] do RECYKLARKI.
+
 
 message_6:
-    text: The RECYCLING MACHINE dispensed 5 CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+    text: RECYKLARKA wydała 5 MAŁŻY.\!<br>Dziękujemy za pomoc w dbaniu o czystość naszego środowiska.
+
 
 message_15:
-    text: You don't have a \c[5]CAN\c[0] to recycle.
+    text: Nie masz \c[5]PUSZKI\c[0], którą mógłbyś oddać do recyklingu.
+
 
 #glass bottle
 
+
 message_7:
-    text: You put a \c[5]GLASS BOTTLE\c[0] into the RECYCLING MACHINE.
+    text: Wrzuciłeś \c[5]SZKLANĄ BUTELKĘ\c[0] do RECYKLARKI.
+
 
 message_8:
-    text: The RECYCLING MACHINE dispensed 10 CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+    text: RECYKLARKA wydała 10 MAŁŻY.\!<br>Dziękujemy za pomoc w dbaniu o czystość naszego środowiska.
+
 
 message_16:
-    text: You don't have a \c[5]GLASS BOTTLE\c[0] to recycle.
+    text: Nie masz \c[5]SZKLANEJ BUTELKI\c[0], którą mógłbyś oddać do recyklingu.
+
 
 #cardboard
 
+
 message_9:
-    text: You put \c[5]CARDBOARD\c[0] into the RECYCLING MACHINE.
+    text: Wrzuciłeś \c[5]KARTON\c[0] do RECYKLARKI.
+
 
 message_10:
-    text: The RECYCLING MACHINE dispensed 15 CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+    text: RECYKLARKA wydała 15 MAŁŻY.\!<br>Dziękujemy za pomoc w dbaniu o czystość naszego środowiska.
+
 
 message_17:
-    text: You don't have \c[5]CARDBOARD\c[0] to recycle.
+    text: Nie masz \c[5]KARTONU\c[0], który mógłbyś oddać do recyklingu.
+
 
 #dead batteries
 
+
 message_11:
-    text: You put \c[5]DEAD BATTERIES\c[0] into the RECYCLING MACHINE.
+    text: Wrzuciłeś \c[5]ZUŻYTE BATERIE\c[0] do RECYKLARKI.
+
 
 message_12:
-    text: The RECYCLING MACHINE dispensed 20 CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+    text: RECYKLARKA wydała 20 MAŁŻY.\!<br>Dziękujemy za pomoc w dbaniu o czystość naszego środowiska.
+
 
 message_18:
-    text: You don't have \c[5]DEAD BATTERIES\c[0] to recycle.
+    text: Nie masz \c[5]ZUŻYTYCH BATERII\c[0], które mógłbyś oddać do recyklingu.
+
 
 #computer parts
 
+
 message_13:
-    text: You put \c[5]COMPUTER PARTS\c[0] into the RECYCLING MACHINE.
+    text: Wrzuciłeś \c[5]CZĘŚCI KOMPUTERA\c[0] do RECYKLARKI.
+
 
 message_14:
-    text: The RECYCLING MACHINE dispensed 25 CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+    text: RECYKLARKA wydała 25 MAŁŻY.\!<br>Dziękujemy za pomoc w dbaniu o czystość naszego środowiska.
+
 
 message_19:
-    text: You don't have \c[5]COMPUTER PARTS\c[0] to recycle.
+    text: Nie masz \c[5]CZĘŚCI KOMPUTERA\c[0], które mógłbyś oddać do recyklingu.

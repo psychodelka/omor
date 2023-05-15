@@ -1,116 +1,154 @@
 
+
 # =========================================================================================
 # Crow Friends
 # ========================================================================================
 
+
 message_1:
-    text: \n<MR. SCARECROW>Ah, a stranger.\!<br>Thank you for having the time to talk with me...
+    text: \n<PAN STRACHOWRON>Ach, nieznajomy.\!<br>Dziękuję za zdecydowanie się ze mną pogawędzić...
+
 
 message_2:
-    text: \n<MR. SCARECROW>I apologize, but I'm afraid I must burden you with a task I cannot complete with my own capabilities.
+    text: \n<PAN STRACHOWRON>Przepraszam, lecz obawiam się, że muszę obarczyć was zadaniem, którego nie jestem w stanie sam wypełnić.
 #original line was about being "in a rut", which means something else entirely
 message_3:
-    text: \n<MR. SCARECROW>Quite recently and suddenly, a rogue planet burst across the sky at an alarmingly fast pace.\! My three dearest friends panicked and flew off in separate directions...
+    text: \n<PAN STRACHOWRON>Niedawno i całkiem nagle pewna planeta... nie, pewien chuligan przeleciał przez niebo z niedorzeczną prędkością.\! Trójka moich ukochanych przyjaciół przeraziła się i odleciała w zupełnie różnych kierunkach...
+
 
 message_4:
-    text: \n<MR. SCARECROW>My three friends are crows, you see, and are not the most friendly nor welcoming of creatures.
+    text: \n<PAN STRACHOWRON>Trójką tą są wrony i, jak pewnie wiecie, nie słyną one ze swojej sympatii.
+
 
 message_5:
-    text: \n<MR. SCARECROW>I'm a bit wary to ask such an immense favor from a complete stranger, but there aren't many who pass through these fields.
+    text: \n<PAN STRACHOWRON>Mam pewne wątpliwości co do proszenia o taką przysługę przypadkowego przechodnia, ale nie ma ich tu zbyt wiele.
+
 
 message_6:
-    text: \n<MR. SCARECROW>If I may ask...\!<br>Would you be willing to help me find my dear friends?
+    text: \n<PAN STRACHOWRON>Jeśli mogę spytać...\!<br>czy możecie mi pomóc ze znalezieniem moich drogich przyjaciół?
+
 
 message_7:
-    text: \n<MR. SCARECROW>Oh, thank you, stranger!\!<br>Words cannot begin to express what this means to me.
+    text: \n<PAN STRACHOWRON>Och, stokrotne dzięki, przechodniu!\!<br>Słowa nie mogłyby wyrazić mojej wdzięczności.
+
 
 message_8:
-    text: \n<MR. SCARECROW>Now I shall await their return patiently.\! For as you can see... \! Without them,\! I am just a stick in the mud.
+    text: \n<PAN STRACHOWRON>Teraz pozostaje cierpliwie czekać na ich powrót.\! Ponieważ jak widać... \! ruszają się\! jak wrony w smole.
+
 
 message_9:
-    text: \n<MR. SCARECROW>I see...\! That's very understandable.\! I'm afraid this request is too much to ask from a complete stranger.
+    text: \n<PAN STRACHOWRON>Dobrze...\! Jak najbardziej zrozumiałe.\! Zgaduję, że to zadanie nie jest stworzone dla przypadkowego przechodnia.
+
 
 # Talking to Crow WITHOUT Hero as Leader
 
+
 message_10:
-    text: \n<CROW>...
+    text: \n<WRONA>...
+
 
 message_11:
-    text: The CROW doesn't want to talk to you.\!<br>Perhaps if you were someone more...\! charming?
+    text: WRONA nie chce z tobą rozmawiać.\!<br>Może gdyby był to kto bardziej...\! czarujący?
+
 
 message_12:
-    text: The CROW doesn't want to talk to you.\!<br>Perhaps if you were someone more...\! handsome?
+    text: WRONA nie chce z tobą rozmawiać.\!<br>Może gdyby był to kto bardziej...\! przystojny?
+
 
 message_13:
-    text: The CROW doesn't want to talk to you.\!<br>Perhaps if you were someone more...\! eloquent?
+    text: WRONA nie chce z tobą rozmawiać.\!<br>Może gdyby był to kto bardziej...\! wygadany?
+
+
 
 
 # Talking to Crow 1 with Hero as Leader
 
+
 message_14:
     faceset: MainCharacters_DreamWorld
     faceindex: 36
-    text: \herHey there, little guy.\!<br>Your friend MR. SCARECROW really misses you, you know?\!<br>I can help you find him if you'd like.
+    text: \herHej, mała.\!<br>Twój przyjaciel, PAN STRACHOWRON, bardzo za tobą tęskni, wiesz?\!<br>Jeśli chcesz, mogę pomóc ci go znaleźć.
+
 
 message_15:
-    text: \n<CROW>Caw, caw!\!<br>(Please do, if it's not too much of a bother. I miss him, too!)
+    text: \n<WRONA>Kra, kra!\!<br>(Tak, proszę, jeśli ci to nie przeszkadza. Też bardzo za nim tęsknię!)
 # Crows caw, not squawk
 # Talking to Crow 2 with Hero as Leader
+
 
 message_16:
     faceset: MainCharacters_DreamWorld
     faceindex: 36
-    text: \herHey, buddy.\!<br>You want me to take you back to your friend, MR. SCARECROW?
+    text: \herHejka, koleżko.\!<br>Chcesz, abym zabrał cię do twojego przyjaciela, PANA STRACHOWRONA?
+
 
 message_17:
-    text: \n<CROW>Caw!!!!\! (Yes! Yes! Yes! Where is my friend? Take me to him!!)
+    text: \n<WRONA>Kraaa!!!!\! (Tak! Tak! Tak! Gdzie jest mój przyjaciel?! Zabierz mnie do niego!!)
+
 
 # Talking to Crow 3 with Hero as Leader
+
 
 message_18:
     faceset: MainCharacters_DreamWorld
     faceindex: 36
-    text: \herGreetings, my feathered friend.\!<br>Would you like to return to MR. SCARECROW?\!<br>He can't wait to be with you again.
+    text: \herWitam, pierzasty przyjacielu.\!<br>Chciałbyś wrócić do PANA STRACHOWRONA?\!<br>Nie może doczekać się, aby znowu cię spotkać.
 message_19:
-    text: \n<CROW>Caw caw.\! (Ah, yes. That would be immensely desirable.)
+    text: \n<WRONA>Kra, kra.\! (Ach, tak. To byłoby niezwykle pomocne.)
+
 
 # Talking to MR. SCARECROW before finding his friends
+
 
 message_20:
-      text: \n<MR. SCARECROW>My friends...\! Where could they have flown off to?\!<br>I hope they're all doing well...
+      text: \n<PAN STRACHOWRON>Przyjaciele...\! Gdzież mogli odlecieć?\!<br>Mam nadzieję, że wszystko u nich dobrze...
+
 
 # Talking to MR. SCARECROW before finding his friends
 
+
 message_21:
-    text: \n<MR. SCARECROW>Oh, thank you, stranger!\!<br>Words still cannot express what this means to me.
+    text: \n<PAN STRACHOWRON>Och, dzięki wam, przechodnie!\!<br>Słowa wciąż nie są w stanie ukazać, ile do dla mnie znaczy.
+
 
 message_22:
-    text: The CROW left your party to be with his friend.
+    text: WRONA opuściła drużynę, aby dołączyć do przyjaciela.
+
 
 message_23:
-    text: \n<MR. SCARECROW>Now I shall wait for the others to return.\!<br>For as you can see...\! Without them,\! I am just a stick in the mud.
+    text: \n<PAN STRACHOWRON>Teraz należy czekać na resztę.\!<br>Ponieważ jak widać...\! ruszają się\! jak wrony w smole.
+
 
 # Talking to MR. SCARECROW after finding his friends
 
+
 message_24:
-    text: \n<MR. SCARECROW>My friends! They all have returned!
+    text: \n<PAN STRACHOWRON>Przyjaciele! Wszyscy wrócili!
+
 
 message_25:
-    text: \n<MR. SCARECROW>I cannot thank you enough for your help.\!<br>Now it is time for me to take my leave.
+    text: \n<PAN STRACHOWRON>Nie mogę wystarczająco podziękować za waszą pomoc.\!<br>Nadszedł czas, abym odszedł.
+
 
 message_26:
-    text: \n<MR. SCARECROW>Goodbye, kind stranger.\! I hope we will meet again one day.
+    text: \n<PAN STRACHOWRON>Żegnajcie, mili przechodnie.\! Mam nadzieję, że kiedyś się jeszcze spotkamy.
+
 
 message_29:
-    text: You got a \c[13]5-LEAF CLOVER\c[0].
+    text: Otrzymałeś \c[13]5-LISTNĄ KONICZYNĘ\c[0].
+
 
 # Talking to Crows before Quest is Accepted
 
 
+
+
 message_27:
-    text: A lonely CROW picks at the dirt.<br>\!It doesn't seem to notice you.
+    text: Samotna WRONA grzebie w ziemi.<br>\! Najwidoczniej cię nie widzi.
+
 
 # Talking to Crows at MR. SCARECROW before Quest is Fully Completed
 
+
 message_28:
-    text: The CROW seems content.
+    text: WRONA wydaje się zadowolona.

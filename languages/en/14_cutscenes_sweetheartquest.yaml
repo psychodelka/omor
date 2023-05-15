@@ -120,7 +120,7 @@ message_31:
       text: O tak, o tak!\! W końcu, nasza cudowna królewna, SŁODZIUTKA, nareszcie się nam objawi!\n<KIEŁKUN>
  
 message_32:
-      text: Ojej, ojej!\! Ledwie jestem w stanie utrzymać moje podekscytowanie.\!<br>To będzie najbardziej zaskakujący występ, jaki kiedykolwiek zobaczymy!\n<KIEŁKUN>
+      text: Ojej, ojej!\! Ledwie jestem w stanie utrzymać moje podekscytowanie.<br><br>To będzie najbardziej zaskakujący występ, jaki kiedykolwiek zobaczymy!\n<KIEŁKUN>
  
 message_33:
       text: Rety, rety!!\! Musimy się spieszyć!\!<br>Tu są nasze cztery \c[4]BILETY NA SPEKTAKL\c[0] w pierwszym rzędzie!<br>Niedługo rozpocznie się wspaniały występ, nie możemy go przegapić!\n<KIEŁKUN>
@@ -153,7 +153,7 @@ message_35:
 message_36:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Hej, popatrz! Tamtym KIEŁKUNOM właśnie wypadły jakieś bilety!\kel
+      text: Hej, popatrzcie! Tamtym KIEŁKUNOM właśnie wypadły jakieś bilety!\kel
  
 #AUBREY jumps.
  

@@ -1,78 +1,105 @@
 
+
 # =========================================================================================
 # Sidequest: Forgot Meat
 # =========================================================================================
 
+
 #Talk to Kels dad
 
+
 message_1:
-      text: \n<KEL'S DAD>\Com[2]Aww, doggarnit!\! KEL, your old man is such a fool!\!<br>We're at a beautiful picnic, but I forgot the most important ingredient...\! \c[4]MEAT\c[0]!
+      text: \n<TATA KELA>\Com[2]A niech to!\! KEL, twój staruszek jest taki głupi!\!<br>Jesteśmy teraz na pięknym pikniku, ale zapomniałem przynieść najważniejszego elementu...\! \c[4]MIĘSA\c[0]!
+
 
 message_2:
-      text: \n<KEL'S DAD>Could you spare some time and buy me some of the good ol' cheap stuff at the \c[11]OTHERMART\c[0]?
+      text: \n<TATA KELA>Czy mógłbyś poświęcić trochę czasu i kupić mi trochę dobrego, taniego towaru w \c[11]ZAKUPOWIE INNYM\c[0]?
+
 
 message_3:
-      text: \n<KEL'S DAD>Here's some cash...\! Just talk to the MEAT MAN in the back. He'll hook you right up!
+      text: \n<TATA KELA>Trzymaj trochę forsy...\! Po prostu zagadaj do rzeźniczki z tyłu sklepu. Będzie wiedziała, co robić!
+
 
 message_4:
-      text: You got $20.00.
+      text: Zdobyłeś 20 $.
+
 
 #Buy Meat / Talk to OTHERMART LADY:
 
+
 message_5:
-      text: \n<OTHERMART LADY>HELLO!\! 你是要 meat 吗? 是 $18.00!
+      text: \n<PANI Z ZAKUPOWA>WITAM!\! 你是要 mięso 吗? 是 18 $!
+
 
 #[yes / no]
 
+
 #if yes
 
+
 message_6:
-      text: \n<OTHERMART LADY>OK!\! \}\}谢谢, 孩子!
+      text: \n<PANI Z ZAKUPOWA>OKEJ!\! \}\}谢谢, 孩子!
+
 
 message_7:
-      text: You got \c[4]MEAT\c[0].
+      text: Zdobyłeś \c[4]MIĘSO\c[0].
+
 
 #Talk to Kels dad
 
+
 message_20:
-      text: You gave \c[4]MEAT\c[0] to KEL'S DAD.
+      text: Dałeś \c[4]MIĘSO\c[0] TACIE KELA.
+
 
 message_8:
-      text: \n<KEL'S DAD>Thanks, champ! This is just what I was looking for!\!<br>It'll make for some tasty \c[3]HAMBURGERS\c[0]...
+      text: \n<TATA KELA>Dzięki, młody! To właśnie to, czego szukałem!\!<br>Zrobię z niego smaczne \c[3]HAMBURGERY\c[0]...
+
 
 message_9:
-      text: \n<KEL'S DAD>You all should drop by later in the evening.\!<br>You'll definitely want to try some of this deliciousness!
+      text: \n<TATA KELA>Powinniście przyjść gdzieś pod wieczór.\!<br>Na pewno będziecie chcieli spróbować tych pyszności!
+
 
 message_10:
-      text: \n<KEL'S DAD>But for now, go on and enjoy yourselves.\!<br>The weather is great today!
+      text: \n<TATA KELA>Ale jak na razie idźcie i bawcie się dobrze.\!<br>Mamy dzisiaj śliczną pogodę!
+
 
 #Talk to Kel's Dad during Sunset
 
+
 message_11:
-      text: \n<KEL'S DAD>Hey, champs!\! Here's one burger for each of you, as promised!
+      text: \n<TATA KELA>Hej, mistrzowie!\! Oto wasze burgery, tak jak wam obiecałem!
+
 
 message_12:
-      text: You got 4 \c[3]HAMBURGERS\c[0].\! Wow...
+      text: Zdobyłeś 4 \c[3]HAMBURGERY\c[0].\! Wow...
+
 
 message_13:
-      text: \n<KEL'S DAD>It's been a long time since I've seen all of you hanging out.\! <br>Reminds me of when you were all still children, haha...
+      text: \n<TATA KELA>Dawno nie widziałem, żebyście się spotykali.\! <br>Przypomniały mi się czasy, gdy byliście dziećmi, haha...
+
 
 message_14:
-      text: \n<KEL'S DAD>\n[8]!\!<br>Good luck with moving away tomorrow!
+      text: \n<TATA KELA>\n[8]!\!<br>Powodzenia z jutrzejszą wyprowadzką!
+
 
 message_15:
-      text: \n<KEL'S DAD>Remember to visit every now and then... <br>\!I know KEL is going to be lonely without you!
+      text: \n<TATA KELA>Pamiętaj, żeby nas od czasu do czasu odwiedzać... <br>\!KEL będzie czuł się samotnie bez ciebie!
+
 
 message_16:
       faceset: MainCharacters_Faraway
       faceindex: 19 #insert number here
-      text: \kelAwww, Dad...\! Stop it... You're embarrassing me...
+      text: \kelOj, tato...\! Przestań... wstyd mi robisz...
+
 
 message_17:
-      text: \n<KEL'S DAD>\{\Com[2]\SINV[2]GAH\{AHAHA\{HAHAHA!!\}\SINV[0]
+      text: \n<TATA KELA>\{\Com[2]\SINV[2]GAH\{AHAHA\{HAHAHA!!\}\SINV[0]
+
 
 message_18:
-      text: \n<KEL'S DAD>Here's a lesson from your old man.\! As you get older, it's going to get harder and harder to make friends...
+      text: \n<TATA KELA>Oto lekcja od twojego staruszka.\! Im jesteś starszy, tym trudniej nawiązywać nowe znajomości...
+
 
 message_19:
-      text: \n<KEL'S DAD>So if you think you have a good one...\! it's important to cherish them.\! Friends can be for life, you hear me!
+      text: \n<TATA KELA>Więc jeśli uważasz, że jakaś osoba jest dla ciebie ważna...\! pamiętaj, aby o nią dbać.\! Przyjaciele mogą być na całe życie, rozumiesz!

@@ -1,151 +1,197 @@
 
+
 # =========================================================================================
 # Seasonal gifts
 # ========================================================================================
 
-#Talk to Summer MOLE
+
+#Talk to KIEŁKUN LECIARZ
 message_0:
-      text: \n<SUMMER MOLE>Ahh, summer...\! the sand...\! the sun...\! the beach...\! the waves...\!<br>not to mention... summer vacation!
+      text: \n<KIEŁKUN LECIARZ>Aaach, lato...\! piasek...\! słońce...\! plaża...\! fale...\!<br>nie wspomnieć jeszcze o... wakacjach!
+
 
 message_1:
-      text: \n<SUMMER MOLE>Finally, some time for rest and relaxation...<br>That's what life is all about!
+      text: \n<KIEŁKUN LECIARZ>Nareszcie czas na odpoczynek i relaks...<br>Oto chodzi w życiu!
+
 
 message_2:
-      text: \n<SUMMER MOLE>Summer is the best season! Don't you agree?
+      text: \n<KIEŁKUN LECIARZ>Lato to najlepsza pora roku! Zgadzasz się ze mną?
+
 
 # [Nod/Shake]
 #[Nod]
 message_3:
-      text: \n<SUMMER MOLE>Right on, brother! Summer is the best! So thrilled you agree!\! Here's a gift from me... Use it well!
+      text: \n<KIEŁKUN LECIARZ>Dokładnie, bracie! Lato jest najlepsze! Cieszę się, że się zgadzasz!\! Oto prezent ode mnie... dobrze go wykorzystaj!
+
 
 message_4:
-      text: You got \c[13]SUNSCREEN\c[0].
+      text: Zdobyłeś \c[13]KREM Z FILTREM\c[0].
+
 
 #[Shake]
 message_5:
-      text: \n<SUMMER MOLE>Oh, boo!
+      text: \n<KIEŁKUN LECIARZ>Buuu!
 
-#Talk to Spring MOLE
+
+#Talk to KIEŁKUN WIOŚNIARZ
 message_6:
-      text: \n<SPRING MOLE>Ahh, spring...\! Spring brings us beauty!\! Spring brings us joy!\! Spring brings us life!\! Spring brings us a rejuvenating spirit to start things anew!
+      text: \n<KIEŁKUN WIOŚNIARZ>Aaach, wiosna...\! Wiosna przynosi nam piękno!\! Wiosna przynosi nam radość!\! Wiosna przynosi nam życie!\! Wiosna przynosi nam chęci do zaczęcia wszystkiego od nowa!
+
 
 message_7:
-      text: \n<SPRING MOLE>Spring is the best season! Don't you agree?
+      text: \n<KIEŁKUN WIOŚNIARZ>Wiosna to najlepsza pora roku! Zgadzasz się ze mną?
+
 
 # [Nod/Shake]
 #[Nod]
 message_8:
-      text: \n<SPRING MOLE>Yes, yes! Spring is the best! I am glad you agree!\!<br>Here is a gift from me... Please enjoy it!
+      text: \n<KIEŁKUN WIOŚNIARZ>Tak, tak! Wiosna jest najlepsza! Cieszę się, że się zgadzasz!\!<br>Oto prezent ode mnie... Trzymaj!
+
 
 message_9:
-      text: You got a \c[13]WATERING PAIL\c[0].
+      text: Zdobyłeś \c[13]KONEWKĘ\c[0].
+
 
 #[Shake]
 message_10:
-      text: \n<SPRING MOLE>Oh, poo on you!
+      text: \n<KIEŁKUN WIOŚNIARZ>O, spadaj!
 
 
-#Talk to Fall MOLE
+
+
+#Talk to KIEŁKUN JESIENIARZ
 message_11:
-      text: \n<FALL MOLE>Fall...\! autumn leaves...\! comfy clothes...\! the smell of cinnamon...\! the perfect time to cuddle up with a book...\! and with holidays right around the corner...\! You just gotta love fall!
+      text: \n<KIEŁKUN JESIENIARZ>Jesień...\! jesienne liście...\! przytulne ubrania...\! zapach cynamonu...\! idealny czas na przeczytanie jakiejś książki...\! i święta tuż za rogiem...\! Nie da się nie kochać jesieni!
+
 
 message_12:
-      text: \n<FALL MOLE>Fall is the best season! Don't you agree?
+      text: \n<KIEŁKUN JESIENIARZ>Jesień to najlepsza pora roku! Zgadzasz się ze mną?
+
 
 # [Nod/Shake]
 #[Nod]
 message_13:
-      text: \n<FALL MOLE>I concur! Fall is the best season! I'm delighted that you agree!\! Here is a gift from me... I hope you find a good use for it!
+      text: \n<KIEŁKUN JESIENIARZ>Popieram! Jesień to najlepsza pora roku! Cieszę się, że się zgadzasz!\! Oto prezent ode mnie... Mam nadzieję, że znajdziesz dla niego jakieś zastosowanie!
+
 
 message_14:
-      text: You got a \c[13]RAKE\c[0].
+      text: Zdobyłeś \c[13]GRABIE\c[0].
+
 
 #[Shake]
 message_15:
-      text: \n<FALL MOLE>Well, we can agree to disagree then.
+      text: \n<KIEŁKUN JESIENIARZ>Cóż, możemy się zgodzić, że się nie zgadzamy.
 
-#Talk to WINTER MOLE
+
+#Talk to KIEŁKUN ZIMIARZ
 message_16:
-      text: \n<WINTER MOLE>Ahh, winter.\! It may be snowing outside, but winter is time for friends and family!
+      text: \n<KIEŁKUN ZIMIARZ>Aaach, zima.\! Na zewnątrz może i pada śnieg, ale zima to czas dla przyjaciół i rodziny!
+
 
 message_17:
-      text: \n<WINTER MOLE>Cuddling next to a warm fire...\! Sharing stories...\! Sipping on hot cocoa...\! and most importantly... taking a breather after a long year!
+      text: \n<KIEŁKUN ZIMIARZ>Siedzenie przy ciepłym kominku...\! Dzielenie się historiami...\! Picie kakałka...\! i najważniejsze... odetchnięcie po długim roku!
+
 
 message_18:
-      text: \n<WINTER MOLE>Winter is the best season! Don't you agree?
+      text: \n<KIEŁKUN ZIMIARZ>Zima to najlepsza pora roku! Zgadzasz się ze mną?
+
 
 # [Nod/Shake]
 #[Nod]
 message_19:
-      text: \n<WINTER MOLE>Indeed! Winter is the best season! Your agreement brings me great joy!\! Please have this gift.\! Winter is the season of giving, after all!
+      text: \n<KIEŁKUN ZIMIARZ>Dokładnie! Zima to najlepsza pora roku! To, że się ze mną zgadzasz, sprawia mi radość!\! Proszę, weźcie ten prezent.\! W końcu zima to sezon obdarowywania się!
+
 
 message_20:
-      text: You got a \c[13]SCARF\c[0].
+      text: Zdobyłeś \c[13]SZALIK\c[0].
+
 
 #[Shake]
 message_21:
-      text: \n<WINTER MOLE>Oh...\! This does not bring me joy...
+      text: \n<KIEŁKUN ZIMIARZ>Och...\! To nie sprawia mi radości...
+
 
 #If Player has already chosen another favorite season:
 
+
 message_22:
-      text: \n<SUMMER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Spring! You will receive no gifts from me!
+      text: \n<KIEŁKUN LECIARZ>...\! Pfft!\! Widzę, że wolisz wiosnę! Nic ode mnie nie dostaniesz!
+
 
 message_23:
-      text: \n<SUMMER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Fall! You will receive no gifts from me!
+      text: \n<KIEŁKUN LECIARZ>...\! Pfft!\! Widzę, że wolisz jesień! Nic ode mnie nie dostaniesz!
+
 
 message_24:
-      text: \n<SUMMER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Winter! You will receive no gifts from me!
+      text: \n<KIEŁKUN LECIARZ>...\! Pfft!\! Widzę, że wolisz zimę! Nic ode mnie nie dostaniesz!
+
 
 message_25:
-      text: \n<SPRING MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Summer! You will receive no gifts from me!
+      text: \n<KIEŁKUN WIOŚNIARZ>...\! Pfft!\! Widzę, że wolisz lato! Nic ode mnie nie dostaniesz!
+
 
 message_26:
-      text: \n<SPRING MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Fall! You will receive no gifts from me!
+      text: \n<KIEŁKUN WIOŚNIARZ>...\! Pfft!\! Widzę, że wolisz jesień! Nic ode mnie nie dostaniesz!
+
 
 message_27:
-      text: \n<SPRING MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Winter! You will receive no gifts from me!
+      text: \n<KIEŁKUN WIOŚNIARZ>...\! Pfft!\! Widzę, że wolisz zimę! Nic ode mnie nie dostaniesz!
+
 
 message_28:
-      text: \n<FALL MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Spring! You will receive no gifts from me!
+      text: \n<KIEŁKUN JESIENIARZ>...\! Pfft!\! Widzę, że wolisz wiosnę! Nic ode mnie nie dostaniesz!
+
 
 message_29:
-      text: \n<FALL MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Summer! You will receive no gifts from me!
+      text: \n<KIEŁKUN JESIENIARZ>...\! Pfft!\! Widzę, że wolisz lato! Nic ode mnie nie dostaniesz!
+
 
 message_30:
-      text: \n<FALL MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Winter! You will receive no gifts from me!
+      text: \n<KIEŁKUN JESIENIARZ>...\! Pfft!\! Widzę, że wolisz zimę! Nic ode mnie nie dostaniesz!
+
 
 message_31:
-      text: \n<WINTER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Spring! You will receive no gifts from me!
+      text: \n<KIEŁKUN ZIMIARZ>...\! Pfft!\! Widzę, że wolisz wiosnę! Nic ode mnie nie dostaniesz!
+
 
 message_32:
-      text: \n<WINTER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Summer! You will receive no gifts from me!
+      text: \n<KIEŁKUN ZIMIARZ>...\! Pfft!\! Widzę, że wolisz lato! Nic ode mnie nie dostaniesz!
+
 
 message_33:
-      text: \n<WINTER MOLE>...\! Hmph!\! I see that you have tossed your favor in the way of Fall! You will receive no gifts from me!
+      text: \n<KIEŁKUN ZIMIARZ>...\! Pfft!\! Widzę, że wolisz jesień! Nic ode mnie nie dostaniesz!
+
 
 #If Player talks to their chosen favorite season:
 
+
 message_34:
-      text: \n<SUMMER MOLE>Ahh, summer...\! the sand...\! the sun...\! the beach...\! the waves...\!<br>not to mention... summer vacation!!
+      text: \n<KIEŁKUN LECIARZ>Aaach, lato...\! piasek...\! słońce...\! plaża...\! fale...\!<br>nie wspomnieć jeszcze o... wakacjach!
+
 
 message_35:
-      text: \n<SUMMER MOLE>Finally, some time for rest and relaxation...<br>That's what life is all about!\!<br>Summer is the best season!
+      text: \n<KIEŁKUN LECIARZ>Nareszcie, czas na odpoczynek i relaks...<br>Oto chodzi w życiu!\!<br>Lato jest najlepszą porą roku!
+
 
 message_36:
-      text: \n<SPRING MOLE>Ahh, spring...\! Spring brings us beauty!\! Spring brings us joy!\! Spring us brings life!
+      text: \n<KIEŁKUN WIOŚNIARZ>Aaach, wiosna...\! Wiosna przynosi nam piękno!\! Wiosna przynosi nam radość!\! Wiosna przynosi nam życie!
+
 
 message_37:
-      text: \n<SPRING MOLE>Spring brings us a rejuvenating spirit to start things anew!\! Spring is the best season!
+      text: \n<KIEŁKUN WIOŚNIARZ>Wiosna przynosi nam chęci do zaczęcia wszystkiego od nowa!\! Wiosna jest najlepszą porą roku!
+
 
 message_38:
-      text: \n<FALL MOLE>Fall...\! autumn leaves...\! comfy clothes...\! the smell of cinnamon...\! the perfect time to cuddle up with a book...\! and with holidays just around the corner...
+      text: \n<KIEŁKUN JESIENIARZ>Jesień...\! jesienne liście...\! przytulne ubrania...\! zapach cynamonu...\! idealny czas na przeczytanie jakiejś książki...\! i ze świętami tuż za rogiem...
+
 
 message_39:
-      text: \n<FALL MOLE>You just gotta love fall!\! Fall is the best season!
+      text: \n<KIEŁKUN JESIENIARZ>Nie da się nie kochać jesieni!\! Jesień jest najlepszą porą roku!
+
 
 message_40:
-      text: \n<WINTER MOLE>Ahh, winter.\! It may be snowing outside, but winter is time for friends and family!
+      text: \n<KIEŁKUN ZIMIARZ>Aaach, zima.\!  Może i na zewnątrz pada śnieg, ale zima to czas dla przyjaciół i rodziny!
+
 
 message_41:
-      text: \n<WINTER MOLE>Cuddling next to a warm fire...\! Sharing stories...\! Sipping on hot cocoa...\! and most importantly... taking a breather after a long year!\! Winter is the best season!
+      text: \n<KIEŁKUN ZIMIARZ>Siedzenie przy ciepłym kominku...\! Dzielenie się historiami...\! Picie kakałka...\! i najważniejsze... odetchnięcie po długim roku!\! Zima jest najlepszą porą roku!

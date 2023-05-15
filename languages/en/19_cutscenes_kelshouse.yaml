@@ -131,7 +131,7 @@ message_45:
 message_46:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: Przeprowadzka wiele uczy o życiu, no i to swego rodzaju nowy początek!\! Smutno mi, że musimy się rozstawać, ale wszystko będzie super tak długo, jak zostaniemy w kontakcie.\her
+      text: Przeprowadzka wiele uczy o życiu, no i to swego rodzaju nowy początek!<br><br>Smutno mi, że musimy się rozstawać, ale wszystko będzie super, dopóki zostaniemy w kontakcie.\her
  
 message_47:
       faceset: MainCharacters_Faraway
@@ -141,7 +141,7 @@ message_47:
 message_48:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: No, praktycznie wszystko robiliśmy razem.\!<br>Chodziliśmy do parku, nad rzekę, na plażę...\! Ale mówiąc szczerze, najbardziej tęsknię za spędzaniem czasu w twoim domu, \n[8]!\her
+      text: No, praktycznie wszystko robiliśmy razem.\!<br>Chodziliśmy do parku, nad jezioro, na plażę...<br><br>Ale szczerze mówiąc, najbardziej tęsknię za spędzaniem czasu w twoim domu, \n[8]!\her
  
 message_49:
       faceset: MainCharacters_Faraway

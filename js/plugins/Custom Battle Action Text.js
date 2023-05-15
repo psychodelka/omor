@@ -3943,7 +3943,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
 //=============================================================================
 // * Display Custom Action Text
 //=============================================================================
-const MAX_CHAR_IN_LINE = 35;
+const MAX_CHAR_IN_LINE = 34;
 
 Window_BattleLog.prototype.displayCustomActionText = function (subject, target, item) {
   // Make Custom Action Text

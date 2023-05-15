@@ -1,244 +1,327 @@
 
+
 # =========================================================================================
 # Sidequest: Fix Pipe
 # =========================================================================================
 
+
 #Fix Pipe 1: Find in hardware store
 
+
 message_1:
-      text: \n<GRUFF GUY>Hey, stranger! How's your day been?\!<br>My day's been going just great!
+      text: \n<PAN ZRZĘDA>Hej, nieznajomy! Jak ci mija dzień?\!<br>Mój leci wspaniale!
+
 
 message_2:
-      text: \n<GRUFF GUY>Wanna know why?\! Because today is the day that I'm finally going to be fixing the leak in my house!
+      text: \n<PAN ZRZĘDA>Pytasz dlaczego?\! Bo dziś nadszedł ten dzień, w którym w końcu naprawię przeciek w moim domu!
+
 
 message_3:
-      text: \n<GRUFF GUY>My problems began a couple of weeks ago...\! I found a really stubborn leak in the corner of my living room...\!<br>How it got there, I don't know...
+      text: \n<PAN ZRZĘDA>Moje problemy zaczęły się kilka tygodni temu...\! Znalazłem bardzo uporczywy przeciek w rogu mojego salonu...\!<br>Nie mam pojęcia, jak się tam znalazł...
+
 
 message_4:
-      text: \n<GRUFF GUY>It wasn't very noticeable at first, but the leak has been slowly getting worse and worse every day.
+      text: \n<PAN ZRZĘDA>Na początku nie był zbytnio zauważalny, ale z dnia na dzień stawał się coraz większy.
+
 
 message_5:
-      text: \n<GRUFF GUY>To tell you the truth, I've already gotten used to hearing the sound of dripping water and the feeling of a damp carpet!
+      text: \n<PAN ZRZĘDA>Szczerze mówiąc, przyzwyczaiłem się już do słuchania dźwięku kapiącej wody i wilgotnego dywanu!
+
 
 message_6:
-      text: \n<GRUFF GUY>But you know what?\! Today is the day everything changes...\! Yes!\! I'm finally here at \c[11]FIX-IT!\c[0]\! My tools are ready...\!<br>and I'm...\! I'm going to fix it!
+      text: \n<PAN ZRZĘDA>Ale wiesz co?\! Dzisiaj wszystko się zmieni...\! Tak!\! W końcu jestem u \c[11]SPECA!\c[0]\! Moje narzędzia są gotowe...\!<br>a ja...\! w końcu to naprawię!
+
 
 message_7:
-      text: \n<GRUFF GUY>Phew...\! Sorry for ranting to you like that.\!<br>This leak might have been driving me mad without me knowing...
+      text: \n<PAN ZRZĘDA>Uff...\! Przepraszam za takie wyżalanie się.\!<br>Ten przeciek doprowadzał mnie już do szaleństwa...
+
 
 message_8:
-      text: \n<GRUFF GUY>My house is right next to the \c[11]CHURCH\c[0] southwest of here. \!<br>If you want to come by and watch this momentous occasion, please be my guest!
+      text: \n<PAN ZRZĘDA>Mój dom jest obok \c[11]KOŚCIOŁA\c[0] na południowy zachód stąd. \!<br>Jeśli chcesz przyjść i obejrzeć to doniosłe wydarzenie, jesteś mile widziany!
+
 
 # EXAMINE VANCES HOUSE DOOR AFTER TALKING TO HIM IN HARDWARE STORE
 
+
 message_9:
-      text: \n<GRUFF GUY>Hey, kids!\! You're here just in time to watch me fix this pipe once and for all!\! Come in, come in!
+      text: \n<PAN ZRZĘDA>Hej, dzieciaki!\! Jesteście tu w samą porę, by zobaczyć, jak naprawiam tę rurę raz na zawsze.!\! Wchodźcie, wchodźcie!
+
 
 #Go in Vance's Dad's HOUSE
 
+
 # Cutscene: Is it fixed? 1
 
+
 message_10:
-      text: \n<GRUFF GUY>Just a few more last-minute adjustments, and I can finally put this baby to rest...
+      text: \n<PAN ZRZĘDA>Jeszcze tylko ostatnie poprawki i wreszcie będę mógł dać temu maleństwu odpocząć...
+
 
 #Fixing Noise
 
+
 message_11:
-      text: \n<GRUFF GUY>\SINV[1]Ahhh...\! the sweet sound of silence at last...\SINV[0]
+      text: \n<PAN ZRZĘDA>\SINV[1]Aaach...\! słodki dźwięk ciszy...\SINV[0]
+
 
 #Water Spout
 
+
 message_12:
-      text: \n<GRUFF GUY>\sinv[1]Grumble, grumble...
+      text: \n<PAN ZRZĘDA>\sinv[1]Mamrot, mamrot...
+
 
 message_13:
-      text: \n<GRUFF GUY>Rats...\! I guess I'll try again tomorrow...
+      text: \n<PAN ZRZĘDA>Cholera...\! Spróbuję znowu jutro...
+
 
 #============================================
 #Fix Pipe 2
 #============================================
 
+
 #Talk to Vances dad at hardware store
 
+
 message_14:
-      text: \n<GRUFF GUY>\sinv[1]Grumble... Grumble...
+      text: \n<PAN ZRZĘDA>\sinv[1]Mamrot... Mamrot...
+
 
 message_15:
-      text: \n<GRUFF GUY>Hey, kids... How's your day been?\!<br>My day's been going okay...
+      text: \n<PAN ZRZĘDA>Hej, dzieciaki... jak wam minął dzień?\!<br>Mój minął w porządku...
+
 
 message_16:
-      text: \n<GRUFF GUY>This stubborn leak is making my life hell.\! I was tweaking around with it more last night, but it's just gotten worse!\! Maybe it's time to call a professional...
+      text: \n<PAN ZRZĘDA>Ten uparty przeciek zamienia moje życie w istne piekło.\! Trochę przy nim grzebałem zeszłej nocy, ale to tylko pogorszyło sprawę!\! Może nadszedł czas, aby zadzwonić po profesjonalistę...
+
 
 message_17:
-      text: \n<GRUFF GUY>Urgh...\! No...\! What am I saying!?\! My pride won't let me do that!\! I have to fix it myself!
+      text: \n<PAN ZRZĘDA>Uch...\! Nie...\! Co ja gadam?!\! Moja duma mi na to nie pozwoli!\! Muszę zrobić to samemu!
+
 
 message_18:
-      text: \n<GRUFF GUY>\Com[2]I'm coming back for you, you stupid leak!
+      text: \n<PAN ZRZĘDA>\Com[2]Jeszcze cię dorwę, ty głupi przecieku!
+
 
 message_19:
-      text: \n<GRUFF GUY>\Com[2]\quake[1]GYAAA\{AAAA\{AAAAA\{AAAAAAA!!!
+      text: \n<PAN ZRZĘDA>\Com[2]\quake[1]GHAAA\{AAAA\{AAAAA\{AAAAAAA!!!
+
 
 #Vance's dad runs out the DOOR
 
+
 #Examine Vance's House Door after talking to him in Hardware STORE
 
+
 message_20:
-      text: \n<GRUFF GUY>Hey, it's you guys again!\!<br>You here for moral support or what?
+      text: \n<PAN ZRZĘDA>Hej, to znowu wy!\!<br>Jesteście tu jako wsparcie moralne, czy co?
+
 
 message_21:
-      text: \n<GRUFF GUY>Heh, heh...\! I really appreciate it.
+      text: \n<PAN ZRZĘDA>Hehe...\! Doceniam to.
+
 
 message_22:
-      text: \n<GRUFF GUY>Come on in!\! I'm almost done fixing this dang leak!
+      text: \n<PAN ZRZĘDA>Wchodźcie!\! Już prawie naprawiłem ten przeklęty przeciek!
+
 
 #Cutscene: Is it fixed? 2
 
+
 #Fixing noises
 
+
 message_23:
-      text: \n<GRUFF GUY>\Com[2]\SINV[2]GYAHA\{HAHA\{HAHA\{HAHA!!!\SINV[0]
+      text: \n<PAN ZRZĘDA>\Com[2]\SINV[2]GHAHA\{HAHA\{HAHA\{HAHA!!!\SINV[0]
+
 
 message_24:
-      text: \n<GRUFF GUY>And good riddance!
+      text: \n<PAN ZRZĘDA>No, idźcie już sobie!
+
 
 message_26:
-      text: \n<GRUFF GUY>...
+      text: \n<PAN ZRZĘDA>...
 #Water Spout
+
 
 #Vance's dad begins shaking
 
+
 message_25:
-      text: \n<GRUFF GUY>\quake[1]AAAAAA\{AAARR\{RRRGHH\{HHHHH\{HHH!!!\quake[0]
+      text: \n<PAN ZRZĘDA>\quake[1]AAAAAA\{AAARR\{RRRGHH\{HHHHH\{HHH!!!\quake[0]
+
 
 #Vance's Dad runs through the wall
+
 
 #============================================
 #Fix Pipe 3
 #============================================
 
+
 #Talk to Vance's dad (Hardware)
 
+
 message_30:
-      text: \n<GRUFF GUY>\sinv[1]Grumble... Grumble...
+      text: \n<PAN ZRZĘDA>\sinv[1]Mamrot... Mamrot...
+
 
 message_31:
-      text: \n<GRUFF GUY>Sigh...
+      text: \n<PAN ZRZĘDA>Ech...
+
 
 message_32:
-      text: \n<GRUFF GUY>Hey, it's you kids again...
+      text: \n<PAN ZRZĘDA>Hej, to znowu wy...
+
 
 message_33:
-      text: \n<GRUFF GUY>How's your day been?\! My day's been horrible...
+      text: \n<PAN ZRZĘDA>Jak wam minął dzień?\! Mój minął okropnie...
+
 
 message_34:
-      text: \n<GRUFF GUY>Guess what?\! The pipe is broken again...
+      text: \n<PAN ZRZĘDA>Zgadnijcie co?\! Rura znowu się popsuła...
+
 
 message_35:
-      text: \n<GRUFF GUY>And somehow...\! I've done irreversible damage to my house...
+      text: \n<PAN ZRZĘDA>I jakimś cudem...\! wyrządziłem nieodwracalne szkody mojemu domu...
+
 
 message_36:
-      text: \n<GRUFF GUY>How did I know this was going to happen?
+      text: \n<PAN ZRZĘDA>Skąd miałem wiedzieć, że tak to się skończy?
+
 
 message_37:
-      text: \n<GRUFF GUY>Sigh...\! I'm such a failure...
+      text: \n<PAN ZRZĘDA>Ech...\! Jestem taką porażką...
+
 
 message_38:
-      text: \n<GRUFF GUY>\}I just...\! Sniff...\! I just want to make them proud...
+      text: \n<PAN ZRZĘDA>\}Po prostu...\! Chlip...\! Chciałem, żeby byli ze mnie dumni...
+
 
 message_39:
-      text: \n<GRUFF GUY>...
+      text: \n<PAN ZRZĘDA>...
+
 
 message_40:
-      text: \n<GRUFF GUY>\Com[2]Urf!\! I gotta pull myself together!\!<br>This is just one measly pipe! I can get through this!
+      text: \n<PAN ZRZĘDA>\Com[2]Uff!\! Muszę wziąć się w garść!\!<br>To tylko jedna głupia rura! Przebrnę przez to!
+
 
 message_41:
-      text: \n<GRUFF GUY>I got my new tools ready and I'm going to try one more time!
+      text: \n<PAN ZRZĘDA>Przygotowałem moje nowe narzędzia i zamierzam spróbować jeszcze raz!
+
 
 message_42:
-      text: \n<GRUFF GUY>I just gotta keep my head up!\!<br>\Com[2]Yes! I can do this!
+      text: \n<PAN ZRZĘDA>Muszę myśleć pozytywnie!\!<br>\Com[2]Tak! Dam sobie radę!
+
 
 message_43:
-      text: \n<GRUFF GUY>I'm coming for you, leak...\!<br>I'm going to get rid of you once and for all!
+      text: \n<PAN ZRZĘDA>Nadchodzę, przecieku...\!<br>Pozbędę się ciebie raz na zawsze!
+
 
 #Examine Vance's House Door after talking to him in Hardware Store:
 
+
 message_44:
-      text: \n<GRUFF GUY>Huff...\! Huff...\! Huff...\! Huff...
+      text: \n<PAN ZRZĘDA>Uff...\! Uff...\! Uff...\! Uff...
+
 
 message_45:
-      text: \n<GRUFF GUY>H-Hey...\! It's you guys again...
+      text: \n<PAN ZRZĘDA>H-hej...\! To znowu wy...
+
 
 message_46:
-      text: \n<GRUFF GUY>Did you all come because you were worried about me?
+      text: \n<PAN ZRZĘDA>Przyszliście, bo się o mnie martwiliście?
+
 
 message_47:
-      text: \n<GRUFF GUY>Sniff...\! That's so thoughtful of you...
+      text: \n<PAN ZRZĘDA>Chlip...\! To bardzo miłe z waszej strony...
+
 
 message_48:
-      text: \n<GRUFF GUY>Come in!\! I think I really have it this time!\!<br>I can feel it in my soul!
+      text: \n<PAN ZRZĘDA>Wchodzcie!\! Myślę, że tym razem mi się uda!\!<br>Czuję to w głębi duszy!
+
 
 #Cutscene: It's Finally Fixed
 
+
 #Fixing Noises
 
+
 message_50:
-      text: \n<GRUFF GUY>It's gotta be fixed now!\! It's just gotta!
+      text: \n<PAN ZRZĘDA>Teraz musi się udać!\! Po prostu musi!
+
 
 message_51:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \n<AUBREY>...\! Here...\! I got this...
+      text: \n<AUBREY>...\! Proszę...\! Wzięłam to ze sobą...
 #Aubrey goes to the Pipe
+
 
 #Fixed Noise
 
+
 message_52:
-      text: \n<GRUFF GUY>Oh?
+      text: \n<PAN ZRZĘDA>O?
+
 
 message_53:
-      text: \n<GRUFF GUY>I can't believe it...\! It's fixed!\! It's really fixed!\!<br>\Com[2]I'm so happy, I could cry!
+      text: \n<PAN ZRZĘDA>Nie wierzę...\! Naprawione!\! Naprawdę naprawione!\!<br>\Com[2]Tak bardzo się cieszę, zaraz się popłaczę!
+
 
 message_54:
-      text: \n<GRUFF GUY>You're amazing!\! Beyond amazing!\! Phenomenal even!\!<br>How can I ever repay you!?
+      text: \n<PAN ZRZĘDA>Jesteś niesamowita!\! Nawet lepiej!\! Fenomenalna!\!<br>Jak mógłbym ci się odwdzięczyć?!
+
 
 message_55:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \n<AUBREY>It's...\! uh...\! It's nothing...\! Don't worry about it.
+      text: \n<AUBREY>To...\! eee...\! Nic takiego...\! Nie przejmuj się.
+
 
 message_56:
-      text: \n<GRUFF GUY>Sniff... \!Everyone...\!<br>Thanks for being here for me through this hard time...
+      text: \n<PAN ZRZĘDA>Chlip... \!Wy wszyscy...\!<br>Dziękuję, że byliście tu dla mnie w tych trudnych momentach...
+
 
 message_64:
-      text: \n<GRUFF GUY>In return, please take this \c[4]CD\c[0].\! I found it in a hole in the wall!
+      text: \n<PAN ZRZĘDA>W zamian weźcie tę \c[4]PŁYTĘ\c[0].\! Znalazłem ją w dziurze w ścianie!
+
 
 message_57:
-      text: \n<GRUFF GUY>You know, I have a son and daughter just about your age.\!<br>Their names are VANCE and KIM!
+      text: \n<PAN ZRZĘDA>Wiecie, mam syna i córkę gdzieś w waszym wieku.\!<br>Mają na imię VANCE i KIM!
+
 
 message_58:
-      text: \n<GRUFF GUY>Their mother and I separated when KIM was just a baby...
+      text: \n<PAN ZRZĘDA>Ich matka i ja rozstaliśmy się, gdy KIM była jeszcze niemowlakiem...
+
 
 message_59:
-      text: \n<GRUFF GUY>I don't see them as often as I'd like, so I make sure to spoil them with \c[3]CANDY\c[0] when I do! Heh heh...
+      text: \n<PAN ZRZĘDA>Nie widuję ich tak często jakbym chciał, więc rozpieszczam ich masą \c[3]CUKIERKÓW\c[0], gdy mnie odwiedzają! Hehe...
+
 
 message_60:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \n<AUBREY>Oh, you're KIM and VANCE'S dad?
+      text: \n<AUBREY>O, jesteś tatą KIM I VANCA?
+
 
 message_61:
-      text: \n<GRUFF GUY>I sure am, and proud of it!\! Even if they're always getting into trouble... at least they take care of each other!
+      text: \n<PAN ZRZĘDA>Pewnie, że tak i jestem z tego dumny!\! Nawet jeśli ciągle wpakowują się w kłopoty... przynajmniej dbają o siebie!
+
 
 message_62:
       faceset: MainCharacters_Faraway
       faceindex: 1
-      text: \n<AUBREY>Haha...\! Yeah...\! that's good...
+      text: \n<AUBREY>Haha...\! Taa...\! masz rację...
+
 
 message_65:
-      text: \n<GRUFF GUY>Anyway, I think it's about time that I enjoy some drip-free rest and relaxation!
+      text: \n<PAN ZRZĘDA>W każdym razie, myślę, że nadszedł czas, aby cieszyć się wolnym od kapania spokojem i relaksem!
+
 
 message_66:
-      text: \n<GRUFF GUY>Thanks again, guys.\! You're always welcome here!
+      text: \n<PAN ZRZĘDA>Dzięki jeszcze raz, ludziska.\! Zawsze jesteście tutaj mile widziani!
+
 
 message_67:
-      text: \n<GRUFF GUY>Me and the kids are going to our neighbor's housewarming party tonight!\! Gotta love free food!
+      text: \n<PAN ZRZĘDA>Ja i dzieci idziemy dzisiaj na parapetówkę do naszych sąsiadów!\! Uwielbiam darmowe jedzenie!

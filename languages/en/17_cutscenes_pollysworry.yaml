@@ -49,7 +49,7 @@ message_22:
       text: A więc...\! Mlask...\! Mlask...\! Mlask...\! Nadal idziemy dziś do naszej tajnej kryjówki, tak?\ang
  
 message_23:
-      text: Wezmę moją wędkę!\! Mlask...\! Zrobiłem ją sam...\! Mlask, wczoraj, z fajnego patyka i skakanki.\!<br>Myślisz, że będzie działać, CHARLIE?\ang
+      text: Wezmę moją wędkę!\! Mlask...\! Zrobiłem ją sam...\! Mlask... wczoraj, z fajnego patyka i skakanki.\!<br>Myślisz, że będzie działać, CHARLIE?\ang
  
 message_24:
       text: ...\cha
@@ -73,13 +73,13 @@ message_30:
       text: Zamknij się, MIKHAEL!\! Jakby jakieś dziewczyny naprawdę...\! Mlask...\! poszłyby z tobą nad jezioro bez jakiejkolwiek zapłaty!\kim
  
 message_31:
-      text: Powiedziałem ci, byś mnie nazywała WIELKIM MAVERI- <br>\{\Com[2]\quake[1]AAA!!\! \Com[2]Uhrysem sie h jesyk!!!\n<WIELKI MAVERICK>
+      text: Powiedziałem ci, byś mnie nazywała WIELKIM MAVERI...<br>\{\Com[2]\quake[1]AAA!!\! \Com[2]Uhrysem sie h jesyk!!!\n<WIELKI MAVERICK>
  
 message_32:
       text: \{\sinv[2]BAHAHAHAHAHAHAHA!!\!\}<br>Jaki przegryw!\kim
  
 message_33:
-      text: \quake[1]\{AAACH!! MISTRZU, CZY JESTEŚ RANNY!?\ang
+      text: \quake[1]\{AAA!! MISTRZU, CZY JESTEŚ RANNY!?\ang
  
 message_34:
       text: \quake[1]\{ZAHACIS SA HO, KIM!\n<WIELKI MAVERICK>
@@ -133,27 +133,27 @@ message_64:
 message_80:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Zanim wejdziemy...\! Muszę zaznaczyć, że moja mama będzie na nas trochę wkurzona, że tak przeciągneliśmy z zakupami.\kel
+      text: Zanim wejdziemy...\! powiem ci, że moja mama będzie na nas trochę wkurzona, bo ślimaczyłem się z zakupami.\kel
  
 message_81:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: Powinienem przynieść koło południa, <br>ale poniosło mnie z robieniem innych rzeczy i...\! <br>Echhh, wiesz jak to już jest.\kel
+      text: Miałem przyjść koło południa, <br>ale poniosło mnie z robieniem innych rzeczy i...\! <br>eeech, wiesz jak to już jest.\kel
  
 message_82:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Ale, myślałem nad rozwiązaniem!\kel
+      text: Ale myślałem nad rozwiązaniem!\kel
  
 message_83:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Więc...\! Tak sobie myślę...\! Najpierw ty powinieneś wejść.\!<br>Wtedy zobaczy cię pierwszego i się ucieszy.\! <br>I najważniejsze...\! Zapomni na mnie nakrzyczeć!\kel
+      text: Więc...\! tak sobie myślałem...\! najpierw ty powinieneś wejść.\!<br>Wtedy zobaczy cię pierwszego i się ucieszy.\! <br>I najważniejsze...\! zapomni na mnie nakrzyczeć!\kel
  
 message_84:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Widzisz? Oboje będziemy wygrani! Heh, heh!\!<br>Kumasz?\! Chodźmy!\kel
+      text: Widzisz? Oboje będziemy wygrani! He he!\!<br>Kumasz?\! Chodźmy!\kel
  
 # =========================================================================================
 # Cutscene: Dropping off Stuff at Kel's
@@ -224,7 +224,7 @@ message_121:
 message_122:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Mama nie pozwala mi puszczać muzyki za głośno, mówi, że jest to groźne dla SALLY .\kel
+      text: Mama nie pozwala mi puszczać muzyki za głośno, mówi, że to niebezpieczne dla SALLY.\kel
  
 #KEL has an idea.
  
@@ -266,7 +266,7 @@ message_140:
       text: Hej, KEL... Hej, \n[8]...\! P-przepraszam za najście.\n<POLLY>
  
 message_141:
-      text: Czy wiecie może, gdzie jest BASIL?\!<br>Myślałam, że może być z tobą.\n<POLLY>
+      text: Czy wiecie może, gdzie jest BASIL?\!<br>Myślałam, że może być z wami.\n<POLLY>
  
 message_142:
       faceset: MainCharacters_Faraway
@@ -285,7 +285,7 @@ message_145:
       text: Oczywiście, POLLY!\! Będziemy go wypatrywać.\kel
  
 message_146:
-      text: Dzięki\! Wiedziałam, że mogę na was liczyć!\n<POLLY>
+      text: Dzięki.\! Wiedziałam, że mogę na was liczyć!\n<POLLY>
  
 #POLLY walks O.S. through front door.
  

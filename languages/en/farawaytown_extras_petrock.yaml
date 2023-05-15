@@ -52,7 +52,7 @@ message_4:
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelBomba!\! Już myślałem, że...
+      text: \kelBomba!\! Tak myślałem...
 
 
 message_6:
@@ -319,7 +319,7 @@ message_71:
 
 
 message_72:
-      text: \n<KASJER>Jeśli masz ochotę na prawdziwe STARCIE, paru moich znajomych z terenu \c[11]GALERII DALEKOSTĄDZKIEJ\c[0] jest weteranami w grę w \c[13]GŁAZIKI\c[0]...\! czterech gostków, dokładniej mówiąc!
+      text: \n<KASJER>Jeśli masz ochotę na prawdziwe STARCIE, paru moich znajomych z terenu \c[11]GALERII DALEKOSTĄDZKIEJ\c[0] jest weteranami w grę w \c[13]GŁAZIKI\c[0]...<br>czterech gostków, dokładniej mówiąc!
 
 
 message_75:
@@ -400,7 +400,7 @@ message_97:
 
 #yes
 message_98:
-      text: \n<OKULARNIK>W takim razie...\! Ja, GINO, jeden z czterech weteranów \c[11]GALERII DALEKOSTĄDZKIEJ\c[0], pokażę ci, jak walczy prawdziwy mistrz!\!<br>Bierzmy ich, MAŁY G!!
+      text: \n<OKULARNIK>W takim razie...\! ja, GINO, jeden z czterech weteranów \c[11]GALERII DALEKOSTĄDZKIEJ\c[0], pokażę ci, jak walczy prawdziwy mistrz!<br>Bierzmy ich, MAŁY G!!
 
 
 #player win
@@ -509,7 +509,7 @@ message_122:
 
 
 message_123:
-      text: \n<KASJER>Pewnie jestes lepszy nawet od...\! Nie...\! <br>Nie ważne...\! Nie powinienem ujawniać takich rzeczy.
+      text: \n<KASJER>Pewnie jesteś lepszy nawet od...\! Nie...\! <br>Nieważne...\! Nie powinienem ujawniać takich rzeczy.
 
 
 message_124:

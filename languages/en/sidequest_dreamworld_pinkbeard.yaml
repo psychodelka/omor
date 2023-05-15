@@ -1,175 +1,228 @@
 
+
 # =========================================================================================
 # Bring boy Home
 # ========================================================================================
 
+
 #Talk to Pinkbeard
 
+
 message_0:
-      text: \n<PINKBEARD>\Com[2]Bah! Where has that boy run off to now?\!<br>I warned him that that SWEETHEART girl would bring nothing but trouble!
+      text: \n<RÓŻOBRODY>\Com[2]Ach! Gdzie on znowu polazł?\!<br>Mówiłem mu, że z tą cała SŁODZIUTKĄ są same kłopoty!
+
 
 message_1:
-      text: \n<PINKBEARD>Have you seen my son?\! His name is CAPT. SPACEBOY, but I'm not sure what he goes by nowadays...\! There's always something going on with that birdbrain...
+      text: \n<RÓŻOBRODY>Widzieliście może gdzieś mojego syna?\! Nazywa się KAPITAN KOSMIK, ale sam już nie jestem pewien, czy jeszcze tej nazwy...\! Z tym ptasim móżdżkiem zawsze się coś dzieje...
+
+
 
 
 message_100:
-      text: \n<SPACE PIRATE CHIEF>Huff...\! Huff...\! Huff...
+      text: \n<PRZYWÓDCA KOSMOPIRATÓW>Uff...\! Uff...\! Uff...
+
 
 message_101:
-      text: \n<PINKBEARD>SPACE PIRATE CHIEF! My most trusted advisor!\!<br>Well?\! Did you find him?
+      text: \n<RÓŻOBRODY>PRZYWÓDCO KOSMOPIRATÓW! Mój zaufany doradco!\!<br>I?\! Znalazłeś go?
+
 
 message_102:
-      text: \n<SPACE PIRATE CHIEF>It's lookin a little grim, CAPTAIN...\! He may be gone for good this time...\! but...\! I did find these.
+      text: \n<PRZYWÓDCA KOSMOPIRATÓW>Nieciekawie to wygląda, KAPITANIE...\! Możliwe, że tym razem znikł na dobre...\! ale...\! znalazłem to.
+
 
 message_103:
-      text: \n<PINKBEARD>Huh? What's this?
+      text: \n<RÓŻOBRODY>Hę? Co to?
+
 
 message_104:
-      text: \n<PINKBEARD>\com[2]\c[4]BATTERIES\c[0]?\! I asked you to find my son...\!<br>\quake[1]and you brought me \c[4]BATTERIES\c[0]?!\quake[0]
+      text: \n<RÓŻOBRODY>\com[2]\c[4]BATERIE\c[0]?\! Prosiłem, abyś znalazł mojego syna...\!<br>\quake[1]a ty przynosisz mi jakieś \c[4]BATERIE\c[0]?!\quake[0]
+
 
 message_105:
-      text: \n<PINKBEARD>This won't help me find CAPT. SPACEBOY!
+      text: \n<RÓŻOBRODY>To nie pomoże w poszukiwaniu KAPITANA KOSMIKA!
+
 
 message_106:
-      text: \n<PINKBEARD>Hmm...\! Or will it?
+      text: \n<RÓŻOBRODY>Hmm...\! A może jednak?
+
 
 message_107:
-      text: \n<SPACE PIRATE CHIEF>Huff...\! Sorry, CAPTAIN.\! I'll keep lookin'!<br>\!\}Even if he is a pain in the butt sometimes...
+      text: \n<PRZYWÓDCA KOSMOPIRATÓW>Uff...\! Wybacz, KAPITANIE.\! Będę szukać dalej!<br>\!\}Nawet, jeśli czasami potrafi być niezłym wrzodem na tyłku...
+
 
 message_108:
-      text: You got \c[4]BATTERIES\c[0]!
+      text: Zdobyłeś \c[4]BATERIE\c[0]!
+
 
 #Talk to Space ex-husband
 
+
 message_2:
-      text: \spxhAh, what a surprise.\! It is you all.\!<br>Hello.\! What a pleasant evening this is.
+      text: \n<KOSMO-EX-MĄŻ>Ach, co za niespodzianka.\! To wy.\!<br>Witam.\! Cóż za przyjemny wieczór.
+
 
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 28 #replace
-      text: \kelErr...\! Hey...\! It's...\! uh...\! CAPT. SPACE EX-HUSBAND now, right?\!<br>You don't...\! look so hot...
+      text: \kelEee...\! Hej...\! to...\! yyy...\! KAPITAN KOSMO-EX-MĄŻ, co nie?\!<br>Nie wyglądasz, jakby...\! było ci za ciepło...
+
 
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 4 #replace
-      text: \aubYeah...\! It's so chilly up here...\! Are you...\! like...\! okay?
+      text: \aubTak...\! Jest tu dosyć chłodno...\! Czy wszystko...\! z tobą...\! w porządku?
+
 
 message_5:
-      text: \spxhOh, me?\! Worry not, children.\!<br>My heart is frozen.\! I am pure.\! I am cold, like ice.\!<br>I feel nothing.\! I will never feel anything ever again.
+      text: \n<KOSMO-EX-MĄŻ>Ja?\! Nie martwcie się o mnie, dzieci.\!<br>Moje serce jest zamarznięte.\! Jestem czysty.\! Jestem zimny jak lód.\!<br>Czuję nicość.\! I tak już zostanie.
+
 
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 40 #replace
-      text: \herOh, no...\! He's even worse than last time...
+      text: \herO nie...\! Jest jeszcze gorzej niż ostatnio...
+
 
 message_7:
       faceset: MainCharacters_DreamWorld
       faceindex: 4 #replace
-      text: \aubCAPT. SPACEBOY...\! Come on... Let's bring you back home.
+      text: \aubKAPITANIE KOSMIKU...\! Chodź... Zaprowadzimy cię do domu.
+
 
 message_8:
-      text: \spxhCAPT. SPACEBOY?\! Who's that?\!<br>I am nothing.\! I am pure.\! I am cold, like ice.
+      text: \n<KOSMO-EX-MĄŻ>KAPITAN KOSMIK?\! Kto to?\!<br>Jestem niczym.\! Jestem czysty.\! Jestem zimny jak lód.
+
 
 message_9:
       faceset: MainCharacters_DreamWorld
       faceindex: 5 #replace
-      text: \aubSigh... He's never going to listen to us at this rate...\!<br>What do we do?
+      text: \aubEch... W takim stanie nigdy nas nie posłucha...\!<br>Co mamy zrobić?
+
 
 message_10:
       faceset: MainCharacters_DreamWorld
       faceindex: 17 #replace
-      text: \kelIsn't it obvious!?\!<br>We have to beat the snow out of him... just like last time!\!<br>Come on, guys! We can do this!
+      text: \kelCzy to nie oczywiste!?\!<br>Musimy mu pokazać, gdzie raki zimują... tak jak ostatnio!\!<br>Dalej, ludziska! Damy radę!
+
 
 message_11:
       faceset: MainCharacters_DreamWorld
       faceindex: 5 #replace
-      text: \aub\Com[2]W-What!? Are you sure?\! There must be another way...
+      text: \aub\Com[2]C-co?! Jesteś pewien?\! Musi być jakaś inna opcja...
+
 
 message_12:
-      text: \spxhAhh...\! This cold...\! I can relate to it so well...\!<br>It...\! It is slowly taking over my soul...<br>\!I am becoming one...\! with the ice...
+      text: \n<KOSMO-EX-MĄŻ>Aaach...\! To zimno...\! Dobrze je znam...\!<br>Powoli pochłania moją duszę...<br>\!Staję się jednością...\! z lodem...
+
 
 message_13:
       faceset: MainCharacters_DreamWorld
       faceindex: 40 #replace
-      text: \herHmm...\! Normally I wouldn't agree with KEL's methods, but <br>at this rate he's going to freeze all alone up here!\!<br>Sometimes you need a little tough love...
+      text: \herHmm...\! Normalnie nie popieram metod KELA, ale w tym tempie KAPITAN KOSMIK zamarznie!\!<br>Każdemu czasem przyda się mały kopniak...
+
 
 message_14:
       faceset: MainCharacters_DreamWorld
       faceindex: 18 #replace
-      text: \kel\Com[2]That's what I like to hear!\!<br>Don't worry, CAPT. SPACEBOY! We'll save you!
+      text: \kel\Com[2]To właśnie chciałem usłyszeć!\!<br>Nie martw się, KAPITANIE KOSMIKU! Uratujemy cię!
+
 
 # Defeat Space Ex-HUSBAND
 
+
 message_15:
-      text: \spxhSniff...\! Sniff...\! \sinv[1]Ohoooooo...
+      text: \n<KOSMO-EX-MĄŻ>Chlip...\! Chlip...\! \sinv[1]Łeeeeee...
+
 
 message_16:
       faceset: MainCharacters_DreamWorld
       faceindex: 4 #replace
-      text: \aubCAPT. SPACEBOY... How are you feeling?
+      text: \aubKAPITANIE KOSMIKU... Jak się czujesz?
+
 
 message_17:
       faceset: MainCharacters_DreamWorld
       faceindex: 39 #replace
-      text: \herHey...\! I hope I'm not the first one to tell you this, but...\!<br>Maybe it's about time you let go of SWEETHEART and started to enjoy the finer things in life!
+      text: \herHej...\! Pewnie nie jestem pierwszym, który ci to mówi, ale...\!<br>Może już nadszedł czas, żeby zapomnieć o SŁODZIUTKIEJ i zacząć cieszyć się lepszymi rzeczami w życiu!
+
 
 message_18:
       faceset: MainCharacters_DreamWorld
       faceindex: 19 #replace
-      text: \kelYeah!\! You got better things to worry about...\! like your crew!\! You're a SPACE PIRATE, for heaven's sake!
+      text: \kelRacja!\! Masz lepsze rzeczy do zmartwień...\! takie jak twoja załoga!\! Jesteś KOSMOPIRATEM, do jasnej anielki!
+
 
 message_19:
-      text: \spxhMy...\! crew?\! Ah...\! yes...\! my crew.\!<br>I nearly forgot...\! How horrible of me...\!<br>They must be so worried...\! I should go back to them...
+      text: \n<KOSMO-EX-MĄŻ>Moja...\! załoga?\! Ach...\! tak...\! moja załoga.\!<br>Prawie zapomniałem...\! Co ze mnie za kapitan...\!<br>Muszą się o mnie martwić...\! Powinienem do nich wrócić...
+
 
 message_20:
-      text: \spxhHere, take this...\! I...\! sniff...\! won't be needing it anymore...
+      text: \n<KOSMO-EX-MĄŻ>Proszę, weźcie to...\! Ja...\! chlip...\! nie będę już tego potrzebować...
+
 
 message_21:
-      text: You got a \c[13]WEDDING RING\c[0].
+      text: Zdobyłeś \c[13]PIERŚCIONEK ZARĘCZYNOWY\c[0].
+
 
 message_22:
-      text: \spxhI'll be off now.\!<br>Don't worry about me... I'll find my way home...\!<br>Sniff...\! I know the way back.
+      text: \n<KOSMO-EX-MĄŻ>Już czas na mnie.\!<br>Nie martwcie się... Znajdę drogę do domu...\!<br>Chlip...\! Znam drogę z powrotem.
+
 
 #CUTSCENE: FATHER AND son
 
+
 message_23:
-      text: \n<PINKBEARD>\Com[2]Son!\! There you are!\!<br>Where have you been, boy!?<br>I've been looking everywhere for you!
+      text: \n<RÓŻOBRODY>\Com[2]Synu!\! Wróciłeś!\!<br>Gdzieś ty się podziewał, chłopcze?!<br>Wszędzie cię szukałem!
+
 
 message_24:
-      text: \spxhOh...\! Hi, Dad...
+      text: \n<KOSMO-EX-MĄŻ>O...\! Cześć, tato...
+
 
 message_25:
-      text: \n<PINKBEARD>\Com[2]What did I tell you about that SWEETHEART girl?\!<br>I always said that you were too good for her...\!<br>You should learn to listen to your old man for once!
+      text: \n<RÓŻOBRODY>\Com[2]Co ja ci mówiłem o tej SŁODZIUTKIEJ?\!<br>Zawsze mówiłem, że nie zasługuje na ciebie...\!<br>Powinieneś w końcu nauczyć się słuchać ojca!
+
 
 message_26:
-      text: \spxh...\! Sniff...\! I'm feeling tired...\! Can I just go to bed?
+      text: \n<KOSMO-EX-MĄŻ>...\! Chlip...\! Jestem zmęczony...\! Czy mógłbym iść się położyć?
+
 
 message_27:
-      text: \n<PINKBEARD>\Com[2]Bah!\! Enough with this nonsense!\!<br>Don't waste your feelings on someone like that, boy!\!<br>You will know true love when it happens.
+      text: \n<RÓŻOBRODY>\Com[2]Ha!\! Dość z tymi bzdurami!\!<br>Nie marnuj swoich uczuć na kogoś takiego, chłopcze!\!<br>Jeszcze znajdziesz tą jedyną.
+
 
 message_28:
-      text: \n<PINKBEARD>For now, you still have your crew... and you still have me!
+      text: \n<RÓŻOBRODY>A na razie wciąż masz swoją załogę... i mnie!
+
 
 message_29:
-      text: \n<PINKBEARD>You have to promise me that you'll never change your name again, you hear me?\! It's CAPT. SPACEBOY from now... until forever!
+      text: \n<RÓŻOBRODY>Obiecałeś mi, że już nigdy nie zmienisz swojego przydomka, słyszałeś?\! I odtąd brzmi on KAPITAN KOSMIK... na zawsze!
+
 
 message_30:
-      text: \capOkay...\! Sniff...\! Sorry, Dad...
+      text: \n<KAPITAN KOSMIK>Dobrze...\! Chlip...\! Przepraszam, tato...
+
 
 #Quest complete
 
 
+
+
 message_32:
-      text: A plastic fish mounted on the wall.
+      text: Plastikowa ryba zawieszona na ścianie.
+
 
 message_33:
-      text: Hmm...\! It needs \c[4]BATTERIES\c[3].
+      text: Hmm...\! Potrzebuje \c[4]BATERII\c[3].
+
 
 message_34:
-      text: You inserted \c[4]BATTERIES\c[0] into the plastic fish.
+      text: Włożyłeś \c[4]BATERIE\c[0] do plastikowej ryby.
+
 
 message_35:
-      text: This trap door is sealed shut.
+      text: Klapa jest szczelnie zamknięta.
+
 
 message_36:
-      text: You must let the plastic fish finish its song.
+      text: Musisz pozwolić plastikowej rybie dokończyć piosenkę.

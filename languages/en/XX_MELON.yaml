@@ -601,12 +601,12 @@ message_194:
 message_507:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: Co to, kuźwa, jest!?\!<br>Jest... trochę lepkie...\! i wali zgniłym jabłkiem. \kel
+      text: Co to, kuźwa, jest?!\!<br>Jest... trochę lepkie...\! i wali zgniłym jabłkiem. \kel
 
 message_508:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: W dalszej części kupki ciągnie się las.<br>\!No dalej, AUBREY! Rozwal to w drobny mak!\kel
+      text: Za tą kupką kupki ciągnie się las.<br>\!No dalej, AUBREY! Rozwal ją w drobny mak!\kel
 
 message_509:
       faceset: MainCharacters_DreamWorld
@@ -721,10 +721,10 @@ message_244:
     text: \n<RYCERZ MAKSYM>Stać, impostorzy!<br>Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!\!<br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br>Wiecie... jestem lepszy niż ci słabi, niedoświadczeni HAROLDZI i MARCJE!<br><br>Jam jest RYCERZ MAKSYM... i z moim wspaniałym rodowodem, przyniosę zwycięstwo i chwałę mojej rodzinie!
 
 message_245:
-    text: \n<RYCERZ MAKSYM II>Stać, impostorzy! Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!<br><br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br>\!Wiecie... jestem synem legendarnego wojownika,<br>RYCERZA MAKSYMA...<br>Może udało wam się pokonać mojego ojca, ale jestem od niego silniejszy!\! Dzięki mojemu wspaniałemu rodowodowi oraz ojcu po mojej stronie, osiągnę zwycięstwo!
+    text: \n<RYCERZ MAKSYM II>Stać, impostorzy! Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!<br><br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br><br><br>Wiecie... jestem synem legendarnego wojownika,<br>RYCERZA MAKSYMA...<br>Może udało wam się pokonać mojego ojca, ale jestem od niego silniejszy!\! Dzięki mojemu wspaniałemu rodowodowi oraz ojcu po mojej stronie, osiągnę zwycięstwo!
 
 message_246:
-    text: \n<RYCERZ MAKSYM III>Stać, impostorzy! Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!<br><br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br>\!Wiecie... jestem synem legendarnego wojownika,<br>RYCERZA MAKSYMA II oraz wnuczkiem RYCERZA MAKSYMA...<br>Może udało wam się pokonać mojego ojca i dziadka, lecz to jedynie podsyciło mój gniew i żądzę zemsty!<br><br>Dzięki mojemu wspaniałemu rodowodowi oraz ojcu i dziadku po mojej stronie, osiągnę zwycięstwo i pomszczę moich przodków!
+    text: \n<RYCERZ MAKSYM III>Stać, impostorzy! Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!<br><br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br><br><br>Wiecie... jestem synem legendarnego wojownika,<br>RYCERZA MAKSYMA II oraz wnuczkiem RYCERZA MAKSYMA...<br>Może udało wam się pokonać mojego ojca i dziadka, lecz to jedynie podsyciło mój gniew i żądzę zemsty!<br><br>Dzięki mojemu wspaniałemu rodowodowi oraz ojcu i dziadku po mojej stronie, osiągnę zwycięstwo i pomszczę moich przodków!
 
 
 # -----------------------------------------------
@@ -732,7 +732,7 @@ message_246:
 # -----------------------------------------------
 
 message_522:
-    text: Posąg wykonany jest z skrystalizowanych łez wrogów SŁODZIUTKIEJ.
+    text: Posąg wykonany jest z zkrystalizowanych łez wrogów SŁODZIUTKIEJ.
 
 message_391:
     text: Stałeś się sztuką.
@@ -887,7 +887,7 @@ message_560:
 message_561:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelCóż, panienko...\! Wygląda mi to na... potrzebę destrukcji...\! a tak się zdaje, że AUBREY jest specjalistką od zniszczeń!
+    text: \kelCóż, panienko...\! Wygląda mi to na... to, że wymagana jest destrukcja...\! a tak się zdaje, że AUBREY jest specjalistką od zniszczeń!
 
 message_903:
     text: \n<KREMÓWKA>AUBREY?\! To bardzo dziwne imię jak na KIEŁKUNA...\! Z drugiej strony SŁODZIUTKIEJ kończą się już imiona.
@@ -1075,7 +1075,7 @@ message_799:
 message_594:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\sinv[1]Łuhu! W końcu wydostaliśmy się z zamku SŁODZIUTKIEJ!\!\sinv[0]<br>Ciekawe o co chodzi z tym wielkim wydarzeniem, na który wszyscy się szykują...
+    text: \kel\sinv[1]Łuhu! W końcu wydostaliśmy się z zamku SŁODZIUTKIEJ!\!\sinv[0]<br>Ciekawe o co chodzi z tym wielkim wydarzeniem, na które wszyscy się szykują...
 
 message_595:
     faceset: MainCharacters_DreamWorld
@@ -1119,7 +1119,7 @@ message_312:
 message_313:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: \kel\com[2]\{\{\sinv[1]HA-JAAAAA!!
+    text: \kel\com[2]\{\{\sinv[1]HAJAAAAA!!
 
 message_314:
     faceset: MainCharacters_DreamWorld
@@ -1129,7 +1129,7 @@ message_314:
 message_315:
     faceset: MainCharacters_DreamWorld
     faceindex: 14
-    text: \aubOj, głupiutki KEL!\! Takim ciosem niczego nie powalisz!
+    text: \aubOj, głupiutki KEL!\! Takim rzutem niczego nie powalisz!
 
 message_316:
     faceset: MainCharacters_DreamWorld
@@ -1212,7 +1212,7 @@ message_6:
     text: \n<BRAJAN DYSTYNGOWANY>Chcesz znać hasło, eee?\!<br>\com[2]Nie tak prędko, koleżko.\!<br>Muszę przyznać... Jesteś okropnie wysoki jak na KIEŁKUNA...
 
 message_7:
-    text: \n<BRAJAN DYSTYNGOWANY>\com[2]Skąd mam mieć pewność, że jesteście jednymi z nas, zaawansowanie inteligentnych i majestatycznych stworzeń?\! Myślicie, że kiedykolwiek podałbym hasło potencjalnemu szpiegowi? \!Ha!\! Nie rozśmieszajcie mnie!
+    text: \n<BRAJAN DYSTYNGOWANY>\com[2]Skąd mam mieć pewność, że jesteście jednymi z nas, zaawansowanie inteligentnych i majestatycznych stworzeń?<br>Myślicie, że kiedykolwiek podałbym hasło potencjalnemu szpiegowi? \!Ha!\! Nie rozśmieszajcie mnie!
 
 message_8:
     text: \n<BRAJAN DYSTYNGOWANY>Skoro jesteś taki pewien swojej KIEŁKUŃSKIEJ natury, czemu jej nie udowodnisz?\! Podam ci hasło... jeśli zgadniesz, o czym teraz myślę!
@@ -1288,7 +1288,7 @@ message_403:
     text: \n<HELENA FATALNA>Aby otworzyć tajemny korytarz, należy podać posągowi SŁODZIUTKIEJ cztery hasła.<br><br>Oczywiście jako iż jestem członkinią wybranej elity, leży na mnie odpowiedzialność za drugie z czterech!
 
 message_21:
-    text: \n<HELENA FATALNA>Ale, ech!\! Mam strzec tego super tajnego hasła i w ogóle, no nie? Ale, jakby, to coś o jedzeniu, więc teraz tylko ciągle o nim myślę...<br>Jestem taka głodna, że az zaczęłam żuć trawę, żeby powstrzymać apetyt! Uwierzylibyście!? Naprawdę powinni zacząć karmić tutejsze straże!
+    text: \n<HELENA FATALNA>Ale, ech!\! Mam strzec tego super tajnego hasła i w ogóle, no nie? Ale, jakby, to coś o jedzeniu, więc teraz tylko ciągle o nim myślę...<br>Jestem taka głodna, że aż zaczęłam żuć trawę, żeby powstrzymać apetyt! Uwierzylibyście!? Naprawdę powinni zacząć karmić tutejsze straże!
 
 message_22:
     text: \n<HELENA FATALNA>I co to w ogóle ma być za hasło, "PĄCZUŚ"?\! Tak jak ten niebieski dziwoląg zawsze mówił na SŁODZIUTKĄ czy coś?<br>\com[2]Dajcie spokój!\! Żaden sekret! Każdy by to zgadnął!<br>Zawsze się tu przechadzali i zachowywali jak taka typowa parka, ciągle rzucali do siebie słodkimi słówkami...<br>Mówili coś w stylu:\ "Czemu jeszcze mi się nie oświadczyłeś?" albo "Wybacz. Kumple nie akceptują mojego związku..." cały czas... Ech! Nie wytrzymam!
@@ -1395,7 +1395,7 @@ message_50:
     text: \n<IMPONUJĄCY POSĄG>\Com[2]\quake[1]\{\{ŹLE!!!
 
 message_404:
-    text: \n<IMPONUJĄCY POSĄG>\Com[2]\quake[1]\{\{DOBRZE!!!!
+    text: \n<IMPONUJĄCY POSĄG>\Com[2]\quake[1]\{\{NIECH WAM BĘDZIE!!!!
 
 message_411:
     text: \n<IMPONUJĄCY POSĄG>Hmf...\. ...\. ...
@@ -1688,27 +1688,27 @@ message_186:
 message_187:
     text: \n<PRAWDZIWY KUN>REPLACE
 
-#'CHAŁKA & BISZKOPT': Pre-Battle - UNUSED
+#'DELICJA & BISZKOPT': Pre-Battle - UNUSED
 
 message_213:
-    text: \n<CHAŁKA>...
+    text: \n<DELICJA>...
 
 message_214:
-    text: \n<CHAŁKA>Jesteś duchem?
+    text: \n<DELICJA>Jesteś duchem?
 
 message_215:
     text: \n<BISZKOPT>Bardzo prawdopodobne.\! Wygląda na to, że część nawiedzonego pieczywa odnalazła drogę powrotną do nas.
 
 message_216:
-    text: \n<CHAŁKA>Może przyszło, by dokonać zemsty?\! Byłoby to bardzo...
+    text: \n<DELICJA>Może przyszło, by dokonać zemsty?\! Byłoby to bardzo...
 
 message_217:
     text: \n<BISZKOPT>...niefortunne.
 
-#'CHAŁKA & BISZKOPT': Post-Battle - UNUSED
+#'DELICJA & BISZKOPT': Post-Battle - UNUSED
 
 message_218:
-    text: \n<CHAŁKA>Och, wcale nie byliście duchami.
+    text: \n<DELICJA>Och, wcale nie byliście duchami.
 
 message_219:
     text: \n<BISZKOPT>To niezręczne.\! To duchowe doświadczenie było zabawne i w ogóle, ale myślę, że nadszedł czas, abyśmy ruszyli dalej.
@@ -1717,26 +1717,26 @@ message_220:
     text: \n<BISZKOPT>Spotkajmy się poniżej, przygotujemy dla was drogę ucieczki.
 
 message_221:
-    text: \n<CHAŁKA>Wybaczcie za kłopoty.
+    text: \n<DELICJA>Wybaczcie za kłopoty.
 
-#'CHAŁKA & BISZKOPT' - UNUSED
+#'DELICJA & BISZKOPT' - UNUSED
 
 message_222:
-    text: \n<CHAŁKA>Naprawdę nie wiem, czemu wzięłam was za duchy.
+    text: \n<DELICJA>Naprawdę nie wiem, czemu wzięłam was za duchy.
 
 message_223:
     text: \n<BISZKOPT>Pieczenie było fajne, ale również spodobała mi się nasza potyczka.
 
-#'CHAŁKA & BISZKOPT': Escape (Doom Entrance: 114) - UNUSED
+#'DELICJA & BISZKOPT': Escape (Doom Entrance: 114) - UNUSED
 
 message_224:
-    text: \n<CHAŁKA>Do zobaczenia.
+    text: \n<DELICJA>Do zobaczenia.
 
 message_225:
     text: \n<BISZKOPT>Albo nie-zobaczenia?
 
 message_226:
-    text: \n<CHAŁKA>W każdym razie...
+    text: \n<DELICJA>W każdym razie...
 
 message_227:
     text: \n<BISZKOPT>Żegnajcie.
@@ -1873,7 +1873,7 @@ message_109:
     text: \n<MYTOGATOR>Więc chcecie, żebym otworzył przejazd, co?\!<br>To byłaby czysta przyjemność!\! Za jedyne 2000 MAŁŻY.\$
 
 message_110:
-    text: \n<MYTOGATOR>Sprytne dzieciaki! \v[1001] MAŁŻY to zdzierstwo!\!<br>\}...\! Heh...\! Jak zabranie dziecku \c[3]CUKSA\c[0]...
+    text: \n<MYTOGATOR>Sprytne dzieciaki! \v[1001] MAŁŻY to prawie jak za darmochę!\!<br>\}...\! Heh...\! Jak zabranie dziecku \c[3]CUKSA\c[0]...
 
 message_111:
     text: \n<MYTOGATOR>Chcecie powiedzieć, że nie macie przy sobie 2000 MAŁŻY?<br>Tak mi przykro...\! Co za pech...
@@ -1917,7 +1917,7 @@ message_123:
     text: \n<MYTOGATOR>Miłego dnia!
 
 message_124:
-    text: \n<MYTOGATOR>Widzę, że próbujecie wspiąć się na furtkę!\!<br>Złaźcie! To własność prywatna!
+    text: \n<MYTOGATOR>Widzę, że próbujecie wspiąć się na bramkę!\!<br>Złaźcie! To własność prywatna!
 
 message_168:
     text: \n<MYTOGATOR>Dobrze, dobrze.\!<br>Proszę... 3000 MAŁŻY jest wasze!

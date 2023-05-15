@@ -1,41 +1,54 @@
 
+
 # =========================================================================================
 # Lost Rare Bear
 # ========================================================================================
 
+
 #Talk to Candlie
 
+
 message_0:
-      text: \n<CANDLIE>Sniff...\! Sniff...\! I can't find my \c[4]TEDDY BEAR\c[0] anywhere...
+      text: \n<ŚWIECZYNKA>Chlip...\! Chlip...\! Nigdzie nie mogę znaleźć mojego \c[4]PLUSZOWEGO MISIA\c[0]...
+
 
 message_1:
-      text: \n<CANDLIE>The last time I had him...\!<br>I'm pretty sure I was wandering through a big pink castle...
+      text: \n<ŚWIECZYNKA>Ostatnio, gdy miałam go przy sobie...\!<br>wydaję mi się, że szłam przez wielki różowy zamek...
+
 
 message_2:
-      text: \n<CANDLIE>If you ever find him, could you return him to me?\!<br>I bet he's really lonely...
+      text: \n<ŚWIECZYNKA>Jeśli go znajdziecie, moglibyście mi go przynieść?\!<br>Pewnie jest bardzo samotny...
+
 
 #Talk to Candlie after getting Rare Bear:
 message_3:
-      text: \n<CANDLIE>Sniff...\! Sniff...
+      text: \n<ŚWIECZYNKA>Chlip...\! Chlip...
+
 
 message_4:
-      text: \n<CANDLIE>Oh, that's my \c[4]TEDDY BEAR\c[0]!
+      text: \n<ŚWIECZYNKA>O, to mój \c[4]PLUSZOWY MIŚ\c[0]!
+
 
 message_5:
-      text: You gave the \c[4]TEDDY BEAR\c[0] to CANDLIE.
+      text: Dałeś ŚWIECZYNCE \c[4]PLUSZOWEGO MISIA\c[0].
+
 
 message_6:
-      text: \n<CANDLIE>I'm so happy to have you back, TEDDY!
+      text: \n<ŚWIECZYNKA>Bardzo się cieszę, że znowu cię mam, MISIU!
+
 
 message_7:
-      text: \n<CANDLIE>Thank you for returning him to me!\! Here's a small gift for you...\! It's not much, but I hope you like it.
+      text: \n<ŚWIECZYNKA>Dziękuję, że mi go przynieśliście!\! Mam dla was mały prezent w zamian...\! To nic szczególnego, ale mam nadzieję, że wam się spodoba.
+
 
 message_8:
-      text: You got a \c[13]RUBBER DUCK\c[0].
+      text: Zdobyłeś \c[13]GUMOWĄ KACZUSZKĘ\c[0].
+
 
 message_9:
-      text: \n<CANDLIE>Come on, TEDDY! What should we play first?\!<br>Oh, I know! Would you like a cup of tea?
+      text: \n<ŚWIECZYNKA>Dalej, MISIU! W co się pobawimy?\!<br>O, wiem! Chciałbyś może filiżankę herbaty?
+
 
 message_10:
-      text: CANDLIE and TEDDY are having a tea party.
+      text: ŚWIECZYNKA i MIŚ mają podwieczorek.
 #CANDLIE and TEDDY have a tea party.

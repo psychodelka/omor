@@ -176,7 +176,7 @@ message_46:
 #ANGEL comes out of the tree and poses.
  
 message_47:
-      text: \{\Com[2]KTO, CO, GDZIE I JAK!?\}<br>Po co to zrobiłaś!?!?\who
+      text: \{\Com[2]KTO, CO, GDZIE I JAK?!\}<br>Po co to zrobiłaś!?!?\who
  
 #ANGEL turns to KEL.
  
@@ -199,7 +199,7 @@ message_51:
 message_52:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: W-wywalczyć!?\! Ale...\! ja nie chcę...\! się bić...\kel
+      text: W-wywalczyć?!\! Ale...\! ja nie chcę...\! się bić...\kel
  
 #ADD FWEFWEFWEFWE
  
@@ -217,7 +217,7 @@ message_53:
 #ADD FWAAAAAAAAAAAAAA
  
 message_70:
-      text: Ale jak to!? Cały mój trud poszedł na marne!\ang
+      text: Ale jak to?! Cały mój trud poszedł na marne!\ang
  
 #CHARLIE looks at ANGEL.
  

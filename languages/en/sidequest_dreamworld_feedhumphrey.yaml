@@ -1,125 +1,164 @@
 
+
 # =========================================================================================
 # Feed Humphrey
 # ========================================================================================
 
+
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 36 #replace
-      text: \herHey, MR. JAWSUM! We've come to say hi!
+      text: \herHej, PANIE SZCZĘKOPADZIE! Przyszliśmy się przywitać!
+
 
 message_1:
-      text: \jawHERO...\! Is it really you?
+      text: \n<PAN SZCZĘKOPAD>HERO...\! Czy to naprawdę ty?
+
 
 message_2:
       faceset: MainCharacters_DreamWorld
       faceindex: 38 #replace
-      text: \herYup, it sure is!\! How's everything going?
+      text: \herTak, to ja!\! Wszystko w porządku?
+
 
 message_3:
-      text: \jawBusiness is doing bad, HERO...\! \quake[1]Real bad.\quake[0]
+      text: \n<PAN SZCZĘKOPAD>Biznes się nie układa, HERO...\! \quake[1]Bardzo się nie układa.\quake[0]
+
 
 message_4:
-      text: \jawThings haven't been the same since you left us.\!<br>All of the investors backed out, construction has come to a halt, and we've been losing customers left and right!
+      text: \n<PAN SZCZĘKOPAD>Nic nie jest takie same od momentu, gdy nas opuściłeś.\!<br>Wszyscy nasi inwestorzy się wycofali, konstrukcja stanęła w miejscu i tracimy klientów na lewo i prawo!
+
 
 message_5:
-      text: \jawAll the signs are pointing to the same thing! <br>\!This ain't the path I'm supposed to be taking in life...
+      text: \n<PAN SZCZĘKOPAD>Wszystkie te rzeczy wskazują na to samo! <br>\!Nie tędy moja droga...
+
 
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 39 #replace
-      text: \herDon't say that, MR. JAWSUM!\!<br>You're the best...\! and only boss I've ever had!
+      text: \herNie mów tak, PANIE SZCZĘKOPADZIE!\!<br>Jesteś najlepszym...\! i jedynym szefem jakiego kiedykolwiek miałem!
+
 
 message_7:
-      text: \jawDon't get me wrong, I ain't putting myself down or nothing.\!<br>This is just me learning a life lesson!
+      text: \n<PAN SZCZĘKOPAD>Nie zrozum mnie źle, nie umniejszam sobie ani nic takiego.\!<br>Po prostu uczę się lekcji życia!
+
 
 message_8:
-      text: \jawI've got all kinds of successful side hustles going on, but...\! <br>The \c[11]LAST RESORT\c[0] was a real passion of mine, you know?
+      text: \n<PAN SZCZĘKOPAD>Na swoim koncie mam wiele udanych spraw, ale...\! <br>\c[11]OSTATNIA PRZYSTAŃ\c[0] była moją prawdziwą pasją, wiesz?
+
 
 message_9:
-      text: \jawYeah...\! I've already made my decision...<br>\!I think it's time for me to call it quits.
+      text: \n<PAN SZCZĘKOPAD>Tak...\! Podjąłem już decyzję...<br>\!Myślę, że to czas bym odszedł.
+
 
 message_10:
       faceset: MainCharacters_DreamWorld
       faceindex: 46 #replace
-      text: \her\Com[2]Wait, MR. JAWSUM!\! You can't give up n-
+      text: \her\Com[2]Czekaj, PANIE SZCZĘKOPADZIE!\! Nie możesz się teraz pod...
+
 
 message_11:
-      text: \jawTake this, HERO...\!<br>This is for everything you've done for me.
+      text: \n<PAN SZCZĘKOPAD>Weź to, HERO...\!<br>Za wszystko, co dla mnie zrobiłeś.
+
 
 message_12:
-      text: You got a \c[4]GIANT CHECK\c[0].
+      text: Zdobyłeś \c[4]WIELKI CZEK\c[0].
+
 
 message_13:
       faceset: MainCharacters_DreamWorld
       faceindex: 47 #replace
-      text: \herO-Oh!\! Okay, then.\! Thank you very much.
+      text: \herO-o!\! W porządku.\! Bardzo dziękuję.
+
 
 message_14:
-      text: \jawThere's also...\! something else.\!<br>HERO,\| I want you...\| to take over the \c[11]LAST RESORT\c[0] for me.
+      text: \n<PAN SZCZĘKOPAD>Jest jeszcze...\! jedna sprawa.\!<br>HERO,\| chcę, abyś...\| przejął \c[11]OSTATNIĄ PRZYSTAŃ\c[0].
+
 
 message_40:
-      text: \n<GATOR GUY>Here's your tie, bossman.
+      text: \n<ALI GATOR>Trzymaj swój krawat, szefie.
+
 
 message_15:
       faceset: MainCharacters_DreamWorld
       faceindex: 46 #replace
-      text: \her\Com[2]W-What?\! Are you sure?\! But I'm only 15 years old!
+      text: \her\Com[2]C-co?\! Jesteś pewien?\! Mam dopiero 15 lat!
+
 
 message_16:
-      text: \jawHERO!\! I've never been more sure of anything in my entire life!\! Don't tell the others, but...\! you were always my favorite.
+      text: \n<PAN SZCZĘKOPAD>HERO!\! Nigdy nie byłem niczego bardziej pewien w moim życiu!\! Nie mów innym, ale...\! zawsze byłeś moim ulubieńcem.
+
 
 message_17:
       faceset: MainCharacters_DreamWorld
       faceindex: 46 #replace
-      text: \herMR. JAWSUM...
+      text: \herPANIE SZCZĘKOPADZIE...
+
 
 message_18:
-      text: \jawHeh...\! and with that, everything is settled.\!<br>There's only...\! one thing left to do now.
+      text: \n<PAN SZCZĘKOPAD>Heh...\! wszystko załatwione.\!<br>Została jeszcze tylko...\! jedna rzecz.
+
 
 message_19:
-      text: \jaw\{\sinv[1]\Com[2]IT'S TIME FOR A VACATION, BABY!!\sinv[0]
+      text: \n<PAN SZCZĘKOPAD>\{\sinv[1]\Com[2]CZAS NA URLOPIK!!\sinv[0]
+
 
 message_20:
-      text: \jawOl' JAWSUM is gonna have the time of his life!\!<br>I'll see you around! Don't you miss me now!
+      text: \n<PAN SZCZĘKOPAD>Stary SZCZĘKOPAD będzie się bawić jak nigdy dotąd!\!<br>Do zobaczenia! Nie tęsknijcie za mną!
+
 
 message_28:
-      text: \jaw\Com[2]\Sinv[2]\{\{JAWHAW\{HAWHAW\{HAWHAW!!\Sinv[0]
+      text: \n<PAN SZCZĘKOPAD>\Com[2]\Sinv[2]\{\{DŻAHA\{HAHA\{HAHA!!\Sinv[0]
+
+
 
 
 #Talk to Humphrey
 
+
 message_21:
-      text: \hum\sinv[1]Ahhhhhhhhh...\! That was such a good nap.\!<br>My tummy ache is all gone.\! But I'm \quake[1]still...\| so...\| hungry...
+      text: \n<GIGANTOS>\sinv[1]Aaaaach...\! Co za drzemka.\!<br>W końcu brzusio już nie boli.\! Ale wciąż \quake[1]jestem...\| strasznie...\| głodny...
+
 
 message_22:
-      text: \hum\sinv[1]Whale, whale, whale!\sinv[0]\! I smell something absolutely scrumptious!\! Is that a \c[4]GIANT CHECK\c[0] you have there?\!<br>Could I...\! perhaps...\! have a nibble?
+      text: \n<GIGANTOS>\sinv[1]Płocie, płocie, płocie!\sinv[0]\! Wyczuwam coś absolutnie smakowitego!\! Czy to \c[4]WIELKI CZEK\c[0]?\!<br>Mógłbym...\! może...\! go troszkę skubnąć?
+
 
 #[Nod/Shake]
 #[Nod]
 message_23:
-      text: You gave HERO's \c[4]GIANT CHECK\c[0] to HUMPHREY.
+      text: Dałeś \c[4]WIELKI CZEK\c[0] GIGANTOSOWI.
+
 
 message_24:
-      text: \hum\sinv[1]\{DEEEEEE...\{\Com[2]LICIOUS!!\sinv[0]\}
+      text: \n<GIGANTOS>\sinv[1]\{PRZEEEEE...\{\Com[2]PYCHOTA!!\sinv[0]\}
+
 
 #HUMPHREY opens his mouth and burps
 
+
 message_25:
-      text: \hum\sinv[1]Now that is what I call gourmet!\sinv[0]
+      text: \n<GIGANTOS>\sinv[1]To się dopiero nazywa smakołyk!\sinv[0]
+
 
 #HUMPHREYS stomach gurgles
 
+
 message_26:
-      text: \humAh... There you go!\! Now that I'm all filled up, <br>everything should be back to normal in here...
+      text: \n<GIGANTOS>A... Proszę bardzo!\! Skoro znów jestem pełen, wszystko w środku powinno wrócić do normy...
+
 
 #note: Humphrey becomes re-accessible as a map
 
+
 #[Shake]
 
+
 message_27:
-      text: \humOh...\! But it looks so tasty...
+      text: \n<GIGANTOS>Oj...\! Ale wygląda tak smakowicie...
+
+
 
 
 message_29:
-      text: \humWell...\! almost...\! \quake[1]Nyak, nyak...\quake[0]
+      text: \n<GIGANTOS>Cóż...\! prawie...\! \quake[1]Mniam, mniam...\quake[0]

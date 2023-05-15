@@ -1,67 +1,90 @@
 
+
 # =========================================================================================
 # Sidequest: Medication
 # =========================================================================================
 
+
 message_1:
-      text: \n<YELLOW BUN GRANNY>Cough...\! cough...\! Excuse me...\! Sorry to impose, but you look like some trustworthy people.\! Do you think you can help me?
+      text: \n<BABCIA W BLOND KOKU>Ekhe...\! ekhu...\! Przepraszam...\! Mam nadzieję, że wam nie przeszkadzam, ale wyglądacie na godnych zaufania młodzieńców..\! Czy nie chcielibyście mi pomóc?
+
 
 message_2:
-      text: \n<YELLOW BUN GRANNY>I need to pick up this week's medication at the \c[11]PHARMACY\c[0], but I'm feeling a bit weak at the moment.\! I usually send my daughter CHARLENE, but she's not here right now.
+      text: \n<BABCIA W BLOND KOKU>Muszę odebrać z \c[11]APTEKI\c[0] lekarstwo na ten tydzień, ale troszkę słabiej się czuję.\! Zazwyczaj proszę o to moją córcię CHARLENE, ale nie ma jej tutaj.
+
 
 message_3:
-      text: \n<YELLOW BUN GRANNY>Would you be so kind as to pick it up for me?
+      text: \n<BABCIA W BLOND KOKU>Czy bylibyście tak mili i odebrali je dla mnie?
+
 
 #yes/no
 
+
 #if yes
 
+
 message_6:
-      text: You got a \c[4]PRESCRIPTION\c[0] and \c[4]ID CARD\c[0].
+      text: Otrzymałeś \c[4]RECEPTĘ\c[0] i \c[4]DOWÓD OSOBISTY\c[0].
+
 
 message_8:
-      text: \n<YELLOW BUN GRANNY>Thank you, children.\! Just talk to the man at the \c[11]PHARMACY\c[0].\! He'll understand.
+      text: \n<BABCIA W BLOND KOKU>Dziękuję wam, dzieciaczki.\! Po prostu porozmawiajcie z panem w \c[11]APTECE\c[0].\! On będzie wiedział, o co chodzi.
 
-#Talk to PHARMACIST
+
+#Talk to APTEKARZ
+
 
 message_9:
-      text: \n<PHARMACIST>Hmm...\! Hello!\! How can I help you?
+      text: \n<APTEKARZ>Hmm...\! Witam!\! W czym mogę wam pomóc?
+
 
 message_10:
-      text: You gave the \c[4]PRESCRIPTION\c[0] and \c[4]ID CARD\c[0] to the pharmacist.
+      text: Dałeś aptekarzowi \c[4]RECEPTĘ\c[0] i \c[4]DOWÓD OSOBISTY\c[0].
+
 
 message_11:
-      text: \n<PHARMACIST>Ah, you're here to pick up some medication!
+      text: \n<APTEKARZ>Aaa, przyszliście odebrać lekarstwa!
+
 
 message_12:
-      text: \n<PHARMACIST>...\! Oh, I know who this is for! I'll bring it right out.
+      text: \n<APTEKARZ>...\! Wiem dla kogo! Już wam je daję.
+
 
 message_13:
-      text: You got \c[4]GRANNY'S MEDICINE\c[0].
+      text: Otrzymałeś \c[4]LEKARSTWO BABCI\c[0].
+
 
 message_14:
-      text: You got \c[4]ID CARD\c[0].
+      text: Otrzymałeś \c[4]DOWÓD OSOBISTY\c[0].
+
 
 message_15:
-      text: \n<PHARMACIST>You're picking up her medicine in place of her daughter today?
+      text: \n<APTEKARZ>Dzisiaj to wy odbieracie dla niej leki zamiast jej córki?
+
 
 message_16:
-      text: \n<PHARMACIST>I'm not actually supposed to give out medication like this...\! but I usually make an exception for her since she doesn't have a way to come here herself.
+      text: \n<APTEKARZ>Nie powinienem tak dawać tych leków...\! ale dla niej zazwyczaj robię wyjątek, odkąd nie ma sił przychodzić tu sama.
+
 
 message_17:
-      text: \n<PHARMACIST>Thanks for helping her out.\! You kids have a nice day!
+      text: \n<APTEKARZ>Dziękuję, że jej pomogliście.\! Miłego dnia, dzieciaki!
+
 
 message_18:
-      text: \n<PHARMACIST>If you ever need \c[5]BANDAGES\c[0] or \c[5]FIRST AID KITS\c[0], I've got you covered here.
+      text: \n<APTEKARZ>Jeśli kiedyś potrzebowalibyście \c[5]BANDAŻY\c[0] lub \c[5]APTECZEK\c[0], wiecie do kogo się zgłosić.
+
 
 message_20:
-      text: \n<YELLOW BUN GRANNY>Oh, you came back!
+      text: \n<BABCIA W BLOND KOKU>O, już wróciliście!
+
 
 message_21:
-      text: You gave \c[4]GRANNY'S MEDICINE\c[0] and \c[4]ID CARD\c[0] to YELLOW BUN GRANNY.
+      text: Dałeś BABCI W BLOND KOKU jej \c[4]LEKARSTWO\c[0] i \c[4]DOWÓD OSOBISTY\c[0].
+
 
 message_22:
-      text: \n<YELLOW BUN GRANNY>Cough...\! cough...\! Excuse me...\!<br>Thank you so much.\! You have been a big help!\!<br>It's nice to see the youth helping us old folks.
+      text: \n<BABCIA W BLOND KOKU>Ekhu...\! ekhe...\! Przepraszam...\!<br>Tak bardzo wam dziękuję.\! Naprawdę mi pomogliście!\!<br>To bardzo miły widok, jak młodzi ludzie pomagają starszym.
+
 
 message_23:
-      text: \n<YELLOW BUN GRANNY>You are all welcome to my home any time.
+      text: \n<BABCIA W BLOND KOKU>Zawsze będziecie mile widziani w moim domu.

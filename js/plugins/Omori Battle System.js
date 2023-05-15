@@ -324,7 +324,11 @@ BattleManager.displayDropItems = function() {
     $gameMessage.newPage();
     items.forEach(function(item) {
       // $gameMessage.add(TextManager.obtainItem.format(item.name));
-      this._logWindow.push('addText', TextManager.obtainItem.format(item.name));
+      if (item.meta.AlternativeForm != null) {
+        this._logWindow.push('addText', TextManager.obtainItem.format(item.meta.AlternativeForm));
+      } else  {
+        this._logWindow.push('addText', TextManager.obtainItem.format(item.name));
+      }
       this._logWindow.push('wait');
     }, this);
     this._logWindow.push('waitForInput')

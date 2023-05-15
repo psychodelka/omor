@@ -14,7 +14,7 @@ message_0:
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: \herO-oł...\! Chyba nie jesteśmy tu sami!
+      text: \herO-o...\! Chyba nie jesteśmy tu sami!
  
 #One bread walks forward
  
@@ -264,37 +264,37 @@ message_229:
       text:  \herNa pewno nie jesteśmy już TOSTAMI!\! Pospieszmy się i spróbujmy się stąd wydostać!
  
  
-#Walk to the top of the staircase and Biscuit and CHAŁKA will challenge you.
+#Walk to the top of the staircase and Biscuit and DELICJA will challenge you.
 #Their dialogue was edited in dreamworld_extras_doomtomb.yaml. (message 63 - 110)
 #You can win or lose to them and it'll produce the same result except for a few lines of text.
 #Note: Maybe ingredients on the table should be gone after you defeat them.
  
-#After you fight them, Biscuit and CHAŁKA leave using the portal above them.
+#After you fight them, Biscuit and DELICJA leave using the portal above them.
  
 #When party uses portal, they pop out of the sand in toast graveyard one by one like zombies.  Then they align into party formation.
  
 #-----------
-#After entering BISZKOPT and CHAŁKA's lair:
+#After entering BISZKOPT and DELICJA's lair:
 message_63:
-      text: \n<CHAŁKA>Urodziliśmy się, by dzień w dzień piec chleb, na wieczność...\! \sinv[1]Świeży chleb...\| Świeży chleb...\| Świeży chleb...\sinv[0]
+      text: \n<DELICJA>Urodziliśmy się, by dzień w dzień piec chleb, na wieczność...\! \sinv[1]Świeży chleb...\| Świeży chleb...\| Świeży chleb...\sinv[0]
  
 message_64:
-      text: \n<CHAŁKA>Takie życie jest ciężkie... i niezbyt opłacalne...<br>ale tylko to nam zostało...\!<br>Musimy być za to wdzięczni, prawda BISZKOPCIE?
+      text: \n<DELICJA>Takie życie jest ciężkie... i niezbyt opłacalne...<br>ale tylko to nam zostało...\!<br>Musimy być za to wdzięczni, prawda BISZKOPCIE?
  
 message_65:
       text: \n<BISZKOPT>\sinv[1]Ohooo...\sinv[0]
  
 message_66:
-      text: \n<CHAŁKA>Prawda, bracie...\! Żyjemy tak od zawsze...\! uwięzieni w niekończącym się kręgu chleba.
+      text: \n<DELICJA>Prawda, bracie...\! Żyjemy tak od zawsze...\! uwięzieni w niekończącym się kręgu chleba.
  
 message_67:
       text: \n<BISZKOPT>\sinv[1]Ohooooooooo...\sinv[0]
  
 message_68:
-      text: \n<CHAŁKA>\sinv[1]Ohooo\{oooooooooo\{oooooooo...\sinv[0]
+      text: \n<DELICJA>\sinv[1]Ohooo\{oooooooooo\{oooooooo...\sinv[0]
  
 message_69:
-      text: \n<BISZKOPT I CHAŁKA>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo...\sinv[0]
+      text: \n<BISZKOPT I DELICJA>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo...\sinv[0]
  
 message_70:
       faceset: MainCharacters_DreamWorld
@@ -302,10 +302,10 @@ message_70:
       text: \kelWięc to stąd dochodziło to wycie!
  
 message_71:
-      text: \n<CHAŁKA>\Com[2]Ach!\! Chleb...\! On przemówił!\!<br>Wiedziałam, że powróci, by nas nawiedzać...
+      text: \n<DELICJA>\Com[2]Ach!\! Chleb...\! On przemówił!\!<br>Wiedziałam, że powróci, by nas nawiedzać...
  
 message_72:
-      text: \n<CHAŁKA>Chodź, BISZKOPCIE!<br>Musimy go zniszczyć, zanim on zniszczy nas!
+      text: \n<DELICJA>Chodź, BISZKOPCIE!<br>Musimy go zniszczyć, zanim on zniszczy nas!
  
 message_73:
       faceset: MainCharacters_DreamWorld
@@ -316,28 +316,28 @@ message_74:
       text: \n<BISZKOPT>\sinv[1]Ohooooooooo!\sinv[0]
  
 message_75:
-      text: \n<CHAŁKA>\sinv[1]Ohooo\{oooooooooo\{oooooooo!!\sinv[0]
+      text: \n<DELICJA>\sinv[1]Ohooo\{oooooooooo\{oooooooo!!\sinv[0]
  
 message_76:
-      text: \n<BISZKOPT I CHAŁKA>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo!!!\sinv[0]
+      text: \n<BISZKOPT I DELICJA>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo!!!\sinv[0]
  
-#After fighting BISZKOPT and CHAŁKA and WINNING:
+#After fighting BISZKOPT and DELICJA and WINNING:
  
 message_78:
-      text: \n<CHAŁKA>Huu...\! Huu...\! Skończył nam się SOK...\!<br>Chyba...\| nastał nasz koniec, BISZKOPCIE...
+      text: \n<DELICJA>Huu...\! Huu...\! Skończył nam się SOK...\!<br>Chyba...\| nastał nasz koniec, BISZKOPCIE...
  
 message_79:
       text: \n<BISZKOPT>\sinv[1]Ohoo...\sinv[0]
  
 #then continue to after win/lose text (message 85+)
  
-#After fighting BISZKOPT and CHAŁKA and LOSING:
+#After fighting BISZKOPT and DELICJA and LOSING:
 #party members are lying on the floor
  
-#biscuit and CHAŁKA look at each other
+#biscuit and DELICJA look at each other
  
 message_80:
-      text: \n<CHAŁKA>\{\sinv[1]HURRA! ZWYCIĘŻYLIŚMY!!
+      text: \n<DELICJA>\{\sinv[1]HURRA! ZWYCIĘŻYLIŚMY!!
  
 message_81:
       text: \n<BISZKOPT>\sinv[1]Ohoo!\sinv[0]
@@ -350,11 +350,11 @@ message_82:
       text: Ej...\! Wszyscy są cali?\her
  
 message_83:
-      text: \n<CHAŁKA>Bracie!\! Żywe chrupy znów powstały!
+      text: \n<DELICJA>Bracie!\! Żywe chrupy znów powstały!
  
-#CHAŁKA looks around
+#DELICJA looks around
 message_84:
-      text: \n<CHAŁKA>Ąle nie mamy już więcej składników...\! Być może nastał nasz koniec, BISZKOPCIE...
+      text: \n<DELICJA>Ąle nie mamy już więcej składników...\! Być może nastał nasz koniec, BISZKOPCIE...
  
 message_85:
       text: \n<BISZKOPT>\sinv[1]Ohooo...\sinv[0]
@@ -367,7 +367,7 @@ message_86:
       text: \kel\Com[2]Chwila!\! Nie jesteśmy chlebem...\! Jesteśmy tylko dziećmi, tak jak wy!
  
 message_87:
-      text: \n<CHAŁKA>Czyli...\! Czyli nie chcecie nas zniszczyć?
+      text: \n<DELICJA>Czyli...\! Czyli nie chcecie nas zniszczyć?
  
 message_88:
       faceset: MainCharacters_DreamWorld
@@ -375,7 +375,7 @@ message_88:
       text: \aubPewnie, że nie!\! Nigdy nie zaatakowalibyśmy pierwsi!
  
 message_89:
-      text: \n<CHAŁKA>Słyszałeś, BISZKOPCIE?\! Jesteśmy uratowani!\! <br>Teraz powróćmy do pieczenia...\!<br>\sinv[1]Świeży chleb...\| Świeży chleb...\| Świeży chleb...\sinv[0]
+      text: \n<DELICJA>Słyszałeś, BISZKOPCIE?\! Jesteśmy uratowani!\! <br>Teraz powróćmy do pieczenia...\!<br>\sinv[1]Świeży chleb...\| Świeży chleb...\| Świeży chleb...\sinv[0]
  
 message_90:
       text: \n<BISZKOPT>\sinv[1]Ohoo...\sinv[0]
@@ -388,7 +388,7 @@ message_91:
       text: \herHej... więc...\! Od jak dawna pieczecie tu chleb?\!<br>Nie chcielibyście wyjść na zewnątrz i pooddychać świeżym powietrzem?
  
 message_92:
-      text: \n<CHAŁKA>\sinv[1]Ohoo...\sinv[0]\! Gdyby to było takie proste...\!<br>Jesteśmy tu uwięzieni od narodzin wszechświata...
+      text: \n<DELICJA>\sinv[1]Ohoo...\sinv[0]\! Gdyby to było takie proste...\!<br>Jesteśmy tu uwięzieni od narodzin wszechświata...
  
 message_93:
       faceset: MainCharacters_DreamWorld
@@ -396,49 +396,49 @@ message_93:
       text: \aubWow... To naprawdę długo.\! Myślę, że zasłużyliście na przerwę!
  
 message_94:
-      text: \n<CHAŁKA>\Com[2]Co? Toż to niedorzeczne!\! Czym jest cel naszych istnień, jeśli nie pieczeniem chleba?
+      text: \n<DELICJA>\Com[2]Co? Toż to niedorzeczne!\! Czym jest cel naszych istnień, jeśli nie pieczeniem chleba?
  
 message_95:
       text: \n<BISZKOPT>\sinv[1]Ohoo?\sinv[0]
  
 message_96:
-      text: \n<CHAŁKA>Co byśmy ze sobą zrobili... gdybyśmy opuścili kuchnię?\! Tylko taki żywot znamy...
+      text: \n<DELICJA>Co byśmy ze sobą zrobili... gdybyśmy opuścili kuchnię?\! Tylko taki żywot znamy...
  
 #pause
  
 message_97:
-      text: \n<CHAŁKA>Jednakże...\! Żywa ciekawość zżera mnie od środka...
+      text: \n<DELICJA>Jednakże...\! Żywa ciekawość zżera mnie od środka...
  
 message_98:
-      text: \n<CHAŁKA>Ten portal na ziemi pomógłby nam opuścić  to miejsce.
+      text: \n<DELICJA>Ten portal na ziemi pomógłby nam opuścić  to miejsce.
  
 message_99:
-      text: \n<CHAŁKA>Używaliśmy go wiele razy, by przywołać chleb, jednak nigdy nie widzieliśmy, co kryje się po jego drugiej stronie...
+      text: \n<DELICJA>Używaliśmy go wiele razy, by przywołać chleb, jednak nigdy nie widzieliśmy, co kryje się po jego drugiej stronie...
  
 message_100:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
       text: \kelNo, a my tak!\! I uwierzcie mi na słowo... Na zewnątrz czeka na was wielki świat!\! Myślę, że to odpowiednia chwila na odkrywanie nowych możliwości!
  
-#[CHAŁKA and BISZKOPT face each other]
+#[DELICJA and BISZKOPT face each other]
  
 message_101:
-      text: \n<CHAŁKA>Hmm...\! Kuszące...
+      text: \n<DELICJA>Hmm...\! Kuszące...
  
 #face each other
  
 message_102:
-      text: \n<CHAŁKA>Cóż? Co o tym myślisz, BISZKOPCIE?
+      text: \n<DELICJA>Cóż? Co o tym myślisz, BISZKOPCIE?
  
 message_103:
       text: \n<BISZKOPT>\sinv[1]Ohoo...
  
 message_104:
-      text: \n<CHAŁKA>\}Mhmm...\| Słucham...\| Mhmm...\| Tak...\| Ale...\| Ach...\| Masz rację...
+      text: \n<DELICJA>\}Mhmm...\| Słucham...\| Mhmm...\| Tak...\| Ale...\| Ach...\| Masz rację...
  
 #face party
 message_105:
-      text: \n<CHAŁKA>Dobrze, zmieniliśmy zdanie...\!<br>Chcemy się wydostać...\! To miejsce to koszmar!
+      text: \n<DELICJA>Dobrze, zmieniliśmy zdanie...\!<br>Chcemy się wydostać...\! To miejsce to koszmar!
  
 message_106:
       text: \n<BISZKOPT>\sinv[1]Ohoo!\sinv[0]
@@ -446,20 +446,20 @@ message_106:
 #face each other
  
 message_107:
-      text: \n<CHAŁKA>BISZKOPCIE...\! Od zawsze baliśmy się użyć tego portalu...
+      text: \n<DELICJA>BISZKOPCIE...\! Od zawsze baliśmy się użyć tego portalu...
  
 message_108:
-      text: \n<CHAŁKA>Być może teraz jest czas na zmianę...
+      text: \n<DELICJA>Być może teraz jest czas na zmianę...
  
 #walk to portal
  
 message_109:
-      text: \n<CHAŁKA>Ruszajmy, bracie!\!<br>\Com[2]Posmakujmy wolności!
+      text: \n<DELICJA>Ruszajmy, bracie!\!<br>\Com[2]Posmakujmy wolności!
  
 message_110:
-      text: \n<BISZKOPT I CHAŁKA>\sinv[1]OHOOOOO\{OOOOOOOO\{OOOOOOOO\{OOOOOOOO!!\sinv[0]
+      text: \n<BISZKOPT I DELICJA>\sinv[1]OHOOOOO\{OOOOOOOO\{OOOOOOOO\{OOOOOOOO!!\sinv[0]
  
-#[BISZKOPT & CHAŁKA go into the portal]
+#[BISZKOPT & DELICJA go into the portal]
  
 message_500:
       text: Użyłeś \c[3]DŻEMA ŻYCIA\c[0] na AUBREY.

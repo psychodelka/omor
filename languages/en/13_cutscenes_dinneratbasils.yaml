@@ -499,12 +499,12 @@ message_192:
 message_193:
       faceset: MainCharacter_Basil_dark
       faceindex: 11
-      text: W ogóle, HERO wraca jutro ze studiów, więc jestem pewien, że chciałby cię zobaczyć zanim się przeprowadzisz.\kel
+      text: W ogóle HERO wraca jutro ze studiów, więc jestem pewien, że chciałby cię zobaczyć, zanim się przeprowadzisz.\kel
  
 message_194:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: Jeśli to nie problem...\!<br>Będę wpadać po ciebie z rana.\kel
+      text: Jeśli to nie problem...\! wpadnę po ciebie z rana.\kel
  
 message_195:
       faceset: MainCharacter_Basil_dark

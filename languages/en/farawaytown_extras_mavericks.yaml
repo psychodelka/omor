@@ -2,173 +2,230 @@
 # FARAWAY TOWN Mavericks
 # =========================================================================================
 
+
 #Intro: Enter Mavericks House between Day 2 and Day 3
 #Play: fat_church.ogg upon entering
 #once player enters Daphne and Bowens room, change song to goofy_times.ogg
 #there is a cardboard cutout of Daphne and Bowen inside
 
+
 #Examining either cardboard cutout
 message_1:
-      text: You find a note.
+      text: Znalazłeś liścik.
+
 
 message_2:
-       text: \"It seems we have gone missing...\!<br>We couldn't have gotten too far...\!<br>Find us, dear little brother.\"
+       text: \"Wygląda na to, że się zgubiliśmy...\!<br>Nie mogło nas wywiać daleko...\!<br>Znajdź nas, drogi braciszku.\"
+
 
 message_3:
-       text: Signed, <br>DAPHNE and BOWEN (Your loving older siblings)
+       text: Podpisano, <br>DAFNE i BOWEN (Twoje kochane starsze rodzeństwo)
+
 
 #upon exiting, song stays as goofy_times.ogg
 
 
+
+
 #HIDING SPOTS
+
 
 #There are now 2 lumps in the rug of the hallway.
 
+
 message_4:
-       text: You turn over the rug...\! and find two fluffy pillows.
+       text: Zaglądasz pod dywan...\! i znajdujesz dwie puchate poduszki.
+
 
 message_5:
-       text: \"This is the oldest trick in the book...\! <br>I can't believe you would actually fall for this...\"
+       text: \"Ta sztuczka jest stara jak świat...\! <br>Nie wierzę, że naprawde dałeś się nabrać...\"
+
 
 message_6:
-       text: You open the fridge... \! and find a note inside.
+       text: Zaglądasz do lodówki... \! i znajdujesz liścik.
+
 
 message_7:
-       text: \"Ho hum...\! It looks like your trail has gone cold...\"\! <br>\"How unfortunate...\"
+       text: \"Hej ho...\! Wygląda na to, że zgubiłeś trop...\"\! <br>\"Jaka szkoda...\"
+
 
 #EXAMINE CURTAINS WITH SILHOUETTES
 
-message_8:
-       text: You open the curtains...\! and find some more cardboard cutouts.
 
+message_8:
+       text: Zaglądasz za zasłonę...\! i znajdujesz więcej kartonowych wycinków.
 message_9:
-       text: \"Did you think we only bought one cardboard cutout of ourselves?\! That would be much less cost-effective.\"
+       text: \"Myślałeś, że kupiliśmy tylko jedną kartonową kopię nas?\! To by się nie opłacało.\"
+
 
 #Examine curtains with silhouettes:
 #Animation: A cat bolts out (You cannot find it after)
 
+
 #Examine Oven
 
+
 message_10:
-       text: You open the oven...\!<br>The smell of fresh bread fills the air.
+       text: Zaglądasz do piekarnika...\!<br>W powietrzu czuć aromat świeżego chleba.
+
 
 #Examine (General)
 
+
 message_11:
-       text: You opened the cabinet doors...
+       text: Otworzyłeś szafkę...
+
 
 message_12:
-       text: But you did not find anything of interest.
+       text: Ale nie znalazłeś nic przydatnego.
+
 
 message_13:
-       text: You checked under the table...
+       text: Zerknąłeś pod stół...
+
 
 message_14:
-       text: You looked under the bed...
+       text: Zerknąłeś pod łóżko...
+
 
 message_15:
-       text: You checked around the bathtub...
+       text: Zerknąłeś za wannę...
+
 
 message_16:
-       text: You checked behind the clock...
+       text: Zerknąłeś za zegar...
+
 
 message_17:
-       text: You checked behind the painting...
+       text: Zerknąłeś za obraz...
+
 
 message_18:
-       text: You found a hidden safe.\! <br>Probably better to pretend you didn't see anything.
+       text: Znalazłeś tajną skrytkę.\! <br>Lepiej udawaj, że nic nie widziałeś.
+
 
 message_19:
-       text: You checked behind the bookcase...
-
+       text: Zerknąłeś za regał...
 message_20:
-       text: You checked behind the statue...
+       text: Zerknąłeś za posąg...
+
 
 message_21:
-       text: You checked inside the fireplace...
+       text: Zerknąłeś do kominka...
+
 
 message_22:
-       text: You found a hidden switch.\! <br>Probably better to leave it alone.
+       text: Znalazłeś ukryty włącznik.\! Lepiej go nie ruszać.
+
 
 #ONE STATUE
 
+
 message_23:
-       text: You found a secret button.\! <br>Probably better to ignore it.
+       text: Znalazłeś tajny przycisk.\! Lepiej go nie tykać.
+
 
 #Examine under The Mavericks Bed (Correct answer)
 
+
 #Bed begins shaking.
 message_24:
-       text: \n<THE TWINS>\quake[1]\{\Com[2]BOO!!\}
+       text: \n<BLIŹNIAKI>\quake[1]\{\Com[2]BUU!!\}
+
 
 message_25:
-       text: \n<A TWIN>Haha!\! We got you good, didn't we!?
+       text: \n<BLIŹNIACZKA>Haha!\! Nieźle cię wrobiliśmy, co nie?!
+
 
 message_26:
-       text: \n<THE OTHER TWIN>...
+       text: \n<BLIŹNIAK>...
+
 
 message_27:
-       text: \n<A TWIN>Hey, wait a second...\! You're not our darling little brother...
+       text: \n<BLIŹNIACZKA>Ej, chwilka...\! Nie jesteś naszym kochaniutkim młodszym braciszkiem...
+
 
 message_28:
-       text: \n<A TWIN>Hmm...\! Hmm...\! Our little brother is too cool for us now, isn't he, BOWEN?\! He doesn't even have time to play games with his loving older siblings anymore!
+       text: \n<BLIŹNIACZKA>Hmm...\! Hmm...\! Nasz malutki braciszek staje się mężczyzną, racja, BOWEN?\! Już nawet nie ma czasu na zabawy z jego kochanym starszym rodzeństwem!
+
 
 message_29:
-       text: \n<THE OTHER TWIN>Yes, DAPHNE...\! It is very...\! regrettable...
+       text: \n<BLIŹNIAK>Zgadza się, DAFNE...\! To jest wręcz...\! niefortunne...
+
 
 message_30:
-       text: \n<A TWIN>Sigh...\! We barely get any time off work...\! And when we do...\! Little MIKHAEL is never around to play with us anymore!\!<br>It's unfair, isn't it BOWEN?
+       text: \n<BLIŹNIACZKA>Uch...\! Rzadko kiedy mamy wolne od pracy...\! A kiedy już znajdzie się chwila...\! Malutki MIKHAEL nie ma ochoty spędzić z nami ani chwilki czasu!\!<br>To niesprawiedliwe, prawda, BOWEN?
+
 
 message_31:
-       text: \n<THE OTHER TWIN>Life is so cruel...
+       text: \n<BLIŹNIAK>Życie to nie jest bajka...
+
 
 message_32:
-       text: \n<A TWIN>Well, that's fine.\! Now we have some new friends...\! though...\!<br>I'm not exactly sure what they do.\! Entertain us, dear friends!
+       text: \n<BLIŹNIACZKA>No cóż, nie szkodzi.\! Teraz mamy nowych przyjaciół...\! ale...\!<br>nie jestem pewien, czym się zajmują.\! Rozbawcie nas, przyjaciele!
+
 
 message_33:
-       text: \n<THE OTHER TWIN>Yes, entertain us!
+       text: \n<BLIŹNIAK>Tak, rozbawcie nas!
+
 
 #If PET ROCK is activated: CLASH OF Jash
 
+
 #else
 
+
 message_34:
-       text: \n<A TWIN>Ho hum...\! You've got nothing?
+       text: \n<BLIŹNIACZKA>Hej ho...\! Nic nie przygotowaliście?
+
 
 message_35:
-       text: \n<THE OTHER TWIN>That's too bad...
+       text: \n<BLIŹNIAK>Jaka szkoda...
+
 
 message_36:
-       text: \n<A TWIN>Well, this was all very fun, but we get bored quite easily.
+       text: \n<BLIŹNIACZKA>No cóż, to było całkiem zabawne, ale szybko się nam znudziło.
+
 
 message_37:
-       text: \n<A TWIN>Come, brother.\! Let us think of more fun games to play.
+       text: \n<BLIŹNIACZKA>Chodź, bracie.\! Pomyślmy, w jakie inne fajne zabawy moglibyśmy się pobawić.
+
 
 message_38:
-       text: \n<THE OTHER TWIN>Goodbye, new friends.\! This has been...\! pleasant.
+       text: \n<BLIŹNIAK>Do zobaczenia, nowi przyjaciele.\! To był...\! zaszczyt.
+
 
 #DAPHNE and BOWEN walk out of THE MAVERICK'S ROOM into DAPHNE and BOWEN'S ROOM.
 
+
 message_39:
-       text: \n<A TWIN>Our family has owned a bakery for four generations...\! but our dear little brother has sworn off bread since he was only six years old...
+       text: \n<BLIŹNIACZKA>Nasza piekarnia przetrwała już cztery pokolenia...\! lecz nasz drogi młodszy braciszek wyparł się bułki, gdy miał zaledwie 6 lat...
+
 
 message_40:
-       text: \n<A TWIN>Though...\! I am sure he will come around eventually.
+       text: \n<BLIŹNIACZKA>Mimo tego...\! jestem pewna, że prędzej czy później się namyśli.
+
 
 message_41:
-       text: \n<THE OTHER TWIN>Mom and Dad want us to take over the bakery when we get out of school...\! so what's the point of going to school?
+       text: \n<BLIŹNIAK>Mama i tata chcą, byśmy przejęli piekarnie, jak tylko skończymy szkołę...\! więc po co nam szkoła?
+
 
 #Cutouts
 
+
 message_42:
-       text: Cardboard cutouts of a pair of twins.\! There's something stuck on the back.
+       text: Kartonowa pary bliźniaków.\! Coś przyczepiło się z tyłu.
+
 
 #Locked
 
+
 message_43:
-       text: A comically large padlock has mysteriously appeared on the door.
+       text: Niewyobrażalnie wielka kłódka magicznie pojawiła się na drzwiach.
+
 
 #Note
 
+
 message_44:
-       text: There's a note on the back.
+       text: Z tyłu jest liścik.

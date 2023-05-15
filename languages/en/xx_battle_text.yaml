@@ -295,7 +295,7 @@ message_54:
 
 message_55:
    text: >
-    \>RYCZERZ MAKSYM II: \<Nie... Nie pozwolę na to, by mój ojciec zginął na marne!
+    \>RYCZERZ MAKSYM II: \<Nie... Nie pozwolę na to, by śmierć mojego ojca poszła na marne!
 
 # After Defeat
 
@@ -337,7 +337,7 @@ message_62:
 
 message_63:
    text: >
-    \>RYCZERZ MAKSYM III: \<Nie... Nie pozwolę na to, by mój ojciec i jego ojciec zginęli na marne!
+    \>RYCZERZ MAKSYM III: \<Nie... Nie pozwolę na to, by śmierć mojego ojca i jego ojca poszła na marne!
 
 # After Defeat
 
@@ -807,13 +807,13 @@ message_149:
    text: >
     \sinv[1]\{\{JUHU! ŁUUHUU!!\}\}
 
-# ============Enemy:  BISZKOPT & CHAŁKA
+# ============Enemy:  BISZKOPT & DELICJA
 
 # Getting Weaker (75%):
 
 message_150:
    text: >
-    \>CHAŁKA: \<Jesteśmy skazani na wieczne pieczenie chleba...\! prawda, BISZKOPCIE?
+    \>DELICJA: \<Jesteśmy skazani na wieczne pieczenie chleba...\! prawda, BISZKOPCIE?
 
 message_151:
    text: >
@@ -823,7 +823,7 @@ message_151:
 
 message_152:
    text: >
-    \>CHAŁKA: \<Kończą nam się produkty! Co teraz zrobimy, BISZKOPCIE!?
+    \>DELICJA: \<Kończą nam się produkty! Co teraz zrobimy, BISZKOPCIE!?
 
 message_153:
    text: >
@@ -833,7 +833,7 @@ message_153:
 
 message_154:
    text: >
-    \>CHAŁKA: \<Wszystko nam się kończy!\! Prawie nic nam nie zostało...
+    \>DELICJA: \<Wszystko nam się kończy!\! Prawie nic nam nie zostało...
 
 message_155:
    text: >
@@ -843,7 +843,7 @@ message_155:
 
 message_156:
    text: >
-    \>CHAŁKA: \<Zużyliśmy zapasy...\! Co zrobimy bez składników?
+    \>DELICJA: \<Zużyliśmy zapasy...\! Co zrobimy bez składników?
 
 message_157:
    text: >
@@ -853,7 +853,7 @@ message_157:
 
 message_158:
    text: >
-    \>CHAŁKA: \<BISZKOPCIE! To cud!\!<br>Bogowie nas uratowali!
+    \>DELICJA: \<BISZKOPCIE! To cud!\!<br>Bogowie nas uratowali!
 
 message_159:
    text: >
@@ -861,7 +861,7 @@ message_159:
 
 message_160:
    text: >
-    \>CHAŁKA: \<Czas wrócić do... \sinv[1]pieczenia chleba...\! pieczenia chleba...\! pieczenia chleba...\sinv[0]
+    \>DELICJA: \<Czas wrócić do... \sinv[1]pieczenia chleba...\! pieczenia chleba...\! pieczenia chleba...\sinv[0]
 
 message_161:
    text: >
@@ -1370,10 +1370,10 @@ message_266:
    text: >
     \>SŁODZIUTKA: \<To bez sensu, głupcy!\! Nie możecie stłumić mojej pozytywnej energii!
 
-# BISZKOPT and CHAŁKA Return to SAD
+# BISZKOPT and DELICJA Return to SAD
 message_267:
    text: >
-    \>CHAŁKA: \<\sinv[1]<br>Świeży chleb...\! Świeży chleb...\! Dzień w dzień, świeży chleb...
+    \>DELICJA: \<\sinv[1]<br>Świeży chleb...\! Świeży chleb...\! Dzień w dzień, świeży chleb...
 
 message_268:
    text: >
@@ -1774,7 +1774,7 @@ message_408:
 
 message_409:
    text: >
-    \>ALI GATOR: \<Znowu opuszczacie swoje stanowiska? Macie nieźle przekichane, keh heh...
+    \>ALI GATOR: \<Znowu opuszczacie swoje stanowiska? Macie nieźle przekichane, ke he...
 
 message_410:
    text: >
@@ -2361,7 +2361,7 @@ message_802:
 
 message_803:
    text: >
-    \>HERO: \<Ostatnim razem...<br><br><br>\>HERO: \<Popełniliśmy błąd, zostawiając siebie nawzajem, kiedy najbardziej potrzebowaliśmy bliskości.<br>\>HERO: \<Ale teraz...\| przejdziemy przez to wspólnie.
+    \>HERO: \<Ostatnim razem... \!popełniliśmy błąd, zostawiając siebie nawzajem, kiedy najbardziej potrzebowaliśmy bliskości.<br>\>HERO: \<Ale teraz...\| przejdziemy przez to wspólnie.
 
 message_804:
    text: >

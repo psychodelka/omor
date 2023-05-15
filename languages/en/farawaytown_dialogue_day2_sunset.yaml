@@ -14,7 +14,7 @@
 message_0:
       faceset: MainCharacter_Basil
       faceindex: 12
-      text: \n<BASIL>\}Och, \n[8]...\! Stąd...\! nie ma odwrotu...\! tak?
+      text: \n<BASIL>\}O, \n[8]...\! Nie...\! nie mamy wyjścia...\! tak?
  
 message_1:
       faceset: MainCharacters_Faraway
@@ -32,10 +32,10 @@ message_2:
  
 #ADD FWAAAAA
 message_10:
-      text: \n<ANGEL>\Com[2]\sinv[1]\{\{ACHHHHH!! INTRUZI!!
+      text: \n<ANGEL>\Com[2]\sinv[1]\{\{AAAAA!! INTRUZI!!
  
 message_11:
-      text: \n<ANGEL>O... To tylko wy.
+      text: \n<ANGEL>O... to tylko wy.
  
 message_15:
       text: \n<ANGEL>Ej, czekajcie!\! \SINV[2]Hehehe...\!\SINV[0]<br>Właśnie mamy idealną okazję na rewanż!\!<br>\Com[2]Gotowi czy nie, szykujcie się na lanie!

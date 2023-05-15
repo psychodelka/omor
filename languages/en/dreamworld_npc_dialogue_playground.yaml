@@ -352,7 +352,7 @@ message_102:
 #VAN
 #Location: Forest Playground
 message_103:
-      text: \n<VAN>BERLY może wydawać się trochę nieczuła, lecz to tylko pozory. \!Czasami... Potrzeba więcej czasu, aby dojrzeć czyjeś prawdziwe wnętrze.
+      text: \n<VAN>BERLY może wydawać się trochę nieczuła, lecz to tylko pozory. \!Czasami... potrzeba więcej czasu, aby dojrzeć czyjeś prawdziwe wnętrze.
  
 message_104:
       text: \n<VAN>Wiesz chyba, jak to jest, co nie?
@@ -377,7 +377,7 @@ message_113:
 message_114:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelAle BERLY... To ja! \!Twój stary kumpel, KEL! \!<br>Ja i ty znamy się od dawna!<br>\!Pomyśl o wszystkich dobrych chwilach,<br>które razem przeżyliśmy...
+      text: \kelAle BERLY... To ja! \!Twój stary kumpel, KEL! \!<br>Ja i ty znamy się od dawna!<br>Pomyśl o wszystkich dobrych chwilach, które razem przeżyliśmy...
 message_115:
       text: \ber\Com[2]Hej, odpuść sobie! Nie bez powodu zrobili ze mnie szefową ochrony! \!Chcieli kogoś stanowczego... \!Kogoś, kto mógłby podjąć trudne decyzje! \!Osobę z tęgą głową!
 message_116:

@@ -3,7 +3,7 @@
 # =========================================================================================
  
 message_0:
-    text: \n<GIGANTOS>Właśnie przygotowuję otwarcie najnowszej, odjazdowej atrakcji, ale jestem jeszcze w trakcie budowy.\! Śmiało wpadnijcie później...\! Najlepiej jutro!
+    text: \n<GIGANTOS>Właśnie przygotowuję otwarcie najnowszej odjazdowej atrakcji, ale jestem jeszcze w trakcie budowy.\! Śmiało wpadnijcie później...\! najlepiej jutro!
  
 #BYSIO
  
@@ -137,7 +137,7 @@ message_202:
 #earth floats DOWN
  
 message_203:
-      text: \n<PLUTON>Znam się z ZIEMIĄ odkąd pamiętam.\! Zanim jeszcze wciśnięto nas do Układu Słonecznego...\! przemierzaliśmy galaktykę po galaktyce, rozkładając na części pierwsze wszystko, co stanęło nam na drodze.
+      text: \n<PLUTON>Znam się z ZIEMIĄ, odkąd pamiętam.\! Zanim jeszcze wciśnięto nas do Układu Słonecznego...\! przemierzaliśmy galaktykę po galaktyce, rozkładając na części pierwsze wszystko, co stanęło nam na drodze.
  
 message_204:
       text: \n<PLUTON>Ach, kiedyś to było...
@@ -158,7 +158,7 @@ message_209:
       text: \n<PLUTON>Nasza ostatnia walka zbyt szybko się zakończyła...\! a teraz mamy okazję, by ją dokończyć.\! Co wy na to?
  
 message_215:
-      text: \plu\Com[2]\sinv[2]\{GAHA\{HAHA\{HAHAHAHA!!\}
+      text: \plu\Com[2]\sinv[2]\{GUAHA\{HAHA\{HAHAHAHA!!\}
  
 message_210:
       text: \n<PLUTON>Będę u boku ZIEMI, jak za czasów liceum!\! Przygotujcie się, dzieciaki.\! Zwycięstwo nie jest tak łatwe do zdobycia, jak się wydaje!

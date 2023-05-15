@@ -1,1839 +1,2369 @@
 #FARAWAY MAP FLAVOR TEXT
 #============================
 
+
 #PLAYER'S Street - Map 13
 #============================
 
+
 #For Sale Sign:
 message_1:
-      text: A \"FOR SALE\" sign with a big, red \"SOLD\" sticker on it.\!<br>Your house has been sold.\! In three days, you will be moving somewhere else.
+      text: Znak \"NA SPRZEDAŻ\" z dużą, czerwoną nalepką \"SPRZEDANE\".\!<br>Twój dom został sprzedany.\! Za trzy dni przeprowadzisz się gdzie indziej.
+
 
 message_2:
-      text: A \"FOR SALE\" sign with a big, red \"SOLD\" sticker on it.\!<br>Your house has been sold.\! In two days, you will be moving somewhere else.
+      text: Znak \"NA SPRZEDAŻ\" z dużą, czerwoną nalepką \"SPRZEDANE\".\!<br>Twój dom został sprzedany.\! Za dwa dni przeprowadzisz się gdzie indziej.
+
 
 message_3:
-      text: A \"FOR SALE\" sign with a big, red \"SOLD\" sticker on it.\!<br>Your house has been sold.\! Tomorrow, you will be moving somewhere else.\! ...\! You will miss this place.
+      text: Znak \"NA SPRZEDAŻ\" z dużą, czerwoną nalepką \"SPRZEDANE\".\!<br>Twój dom został sprzedany.\! Jutro przeprowadzisz się gdzie indziej.\! ...\! Będziesz tęsknić za tym miejscem.
+
 
 message_4:
-      text: A \"FOR SALE\" sign with a big, red \"SOLD\" sticker on it.\!<br>Your house has been sold.\! Today, you will be moving somewhere else.
+      text: Znak \"NA SPRZEDAŻ\" z dużą, czerwoną nalepką \"SPRZEDANE\".\!<br>Twój dom został sprzedany.\! Dzisiaj przeprowadzisz się gdzie indziej.
+
 
 #Mailbox:
 message_5:
-      text: A classy white mailbox.
+      text: Stylowa biała skrzynka pocztowa.
+
 
 #Trash Cans:
 message_6:
-      text: A row of colorful trash cans.\! The black trash can is for trash, the blue trash can is for recyclables, and the green one is for nature stuff.
+      text: Szereg kolorowych koszy na śmieci.\! Czarny śmietnik jest na zmieszane śmieci, niebieski jest na recykling, a do zielonego wyrzuca się bioodpady.
+
 
 #Basketball Hoop:
 message_7:
-      text: KEL's basketball hoop.\!<br>Seems a little dangerous out in the street like that...
+      text: Kosz do koszykówki KELA.\!<br>Granie przy samej jezdni wydaje się nieco ryzykowne...
+
 
 #Street:
 message_0:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: You shouldn't walk in the street, \n[8]! That's dangerous!\kel
+      text: Nie chodź po ulicy, \n[8]! To niebezpieczne!\kel
+
 
 message_8:
-      text: It's dangerous to walk on the street.
+      text: Chodzenie po ulicy jest niebezpieczne.
+
 
 #Dog House:
 message_9:
-      text: HECTOR's dog house.\!<br>It's a little stuffy, but HECTOR seems to like it.
+      text: Buda HEKTORA.\!<br>Jest tam trochę duszno, ale HEKTOROWI wydaje się to nie przeszkadzać.
+
 
 #Flamingo:
 message_10:
-      text: Plastic flamingos decorate this yard.\!<br>They seem to be in good spirits.
+      text: Plastikowe flamingi zdobią to podwórko.\!<br>Wydają się być w dobrym nastroju.
+
 
 #Birdhouse:
 message_11:
-      text: An empty bird house filled with sticks and dust.
+      text: Pusty domek dla ptaków wypełniony patykami i kurzem.
+
 
 #Statues:
 message_12:
-      text: A statue of a religious figure.<br>\!...\! You feel as if it is judging you.
+      text: Posąg przedstawiający postać religijną.<br>\!...\! Czujesz, jakby cię osądzała.
+
 
 #Road Work:
 message_13:
-      text: There's some construction going on here.\!<br>Sigh...\! Some things just never change.
+      text: Trwa tu jakaś budowa.\!<br>Ech...\! Niektóre rzeczy po prostu nigdy się nie zmieniają.
+
 
 #Fire Hydrant:
 message_14:
-      text: A fire hydrant.
+      text: Hydrant.
+
 
 message_15:
-      text: It's dangerous to leave the crosswalk.
+      text: Niebezpiecznie jest opuszczać przejście dla pieszych.
+
 
 #============================
 
+
 message_16:
-      text: A houseplant.
+      text: Roślina w doniczce.
+
 
 #PLAYER'S House - Map 14
 
+
 #Cardboard Boxes:
 message_20:
-      text: Cardboard boxes are littered across the house.
+      text: Pudła rozrzucone są po całym domu.
+
 
 #House Plant:
 message_21:
-      text: A small, fake houseplant.
+      text: Sztuczna roślinka w doniczce.
+
 
 #House Plant:
 message_22:
-      text: An ordinary houseplant.\! Nothing special about it.
+      text: Zwyczajna roślina w doniczce.\! Nie ma w niej nic specjalnego.
+
 
 #Bookcase - Dining Room:
 message_23:
-      text: MOM's collection of books.
+      text: Zbiór książek MAMY.
+
 
 #Microwave:
 message_24:
-      text: A microwave.
+      text: Mikrofala.
+
 
 #Refrigerator:
 message_25:
-      text: A refrigerator.\! Open it?
+      text: Lodówka.\! Otworzyć ją?
 #[YES/NO]
 #[YES]
 message_26:
-      text: Empty.
+      text: Pusto.
 #NIGHT 1 ONLY
 message_27:
-      text: There is a \c[4]STEAK\c[0] inside.
+      text: W środku jest \c[4]STEK\c[0].
+
 
 #Bathroom Cabinet:
 message_28:
-      text: Some towels and toiletries.
+      text: Kilka ręczników i akcesoriów toaletowych.
+
 
 #Mirror:
 #(Show mirror slides - various)
 
+
 #Bathtub:
 message_29:
-      text: A bathtub.
+      text: Wanna.
+
 
 #NEUTRAL - NIGHT 2:
 message_30:
-      text: Do you want to take a bath?
+      text: Czy chcesz wziąć kąpiel?
+
 
 #Bookcase - Player's Room:
 message_31:
-      text: This bookcase has been cleared out.
+      text: Ten regał na książki jest pusty.
+
 
 #Computer:
 #First time, DAY 1+ -
 message_32:
-      text: An old computer.
+      text: Stary komputer.
 #[YES/NO]
 message_33:
-      text: There is nothing on here except a game called BLACKJACK.\!<br>Do you want to play?
+      text: Nie ma tu nic oprócz gry o nazwie OCZKO.\!<br>Czy chcesz zagrać?
 #[YES/NO]
 #After -
 message_34:
-      text: An old computer.\! Do you want to play BLACKJACK?
+      text: Stary komputer.\! Czy chcesz zagrać w OCZKO?
+
 
 #Phone:
 #NIGHT 1 - Voicemail
 #Other -
 message_35:
-      text: A phone that MOM made you put in your room.\!<br>It's barely used.
+      text: Telefon, który MAMA kazała ci umieścić w swoim pokoju.\!<br>Ledwie go używasz.
+
 
 #Photos:
 message_37:
-      text: Some family photos.
+      text: Kilka zdjęć rodzinnych.
+
 
 #Pots and Pans:
 message_38:
-      text: MOM's cooking pans.\!<br>You can't remember the last time they were used.
+      text: Garnki MAMY.\!<br>Nie pamiętasz, kiedy ostatni raz były używane.
+
 
 #Bookcase - Piano Room:
 message_39:
-      text: A large collection of sheet music books.\! Many of these have never been opened.
+      text: Pokaźna kolekcja nut.\! Wiele z nich nigdy nie było otwartych.
+
 
 #Piano:
 message_40:
-      text: A grand piano.\!<br>The word \"OMORI\" is etched across the center.
+      text: Fortepian.\!<br>Słowo \"OMORI\" jest wygrawerowane na samym środku.
+
 
 #Toilet:
 message_41:
-      text: A toilet.
+      text: Sedes.
 #[YES/NO]
 #Screen fades out. Toilet flush SFX, then fades in.
 
+
 #Mom's Bed:
 message_43:
-      text: MOM's bed.\!<br>The mattress is too hard for you to sleep comfortably.
+      text: Łóżko MAMY.\!<br>Materac jest zbyt twardy, abyś mógł na nim wygodnie zasnąć.
+
 
 #Sketchbook:
 #[Same as WS, but opens up new book]
 
+
 #Fireplace:
 message_44:
-      text: A fireplace. \!There are nails stuck between the bricks.
+      text: Kominek. \!Pomiędzy cegłami są wbite gwoździe.
+
 
 #Grandfather Clock:
 message_45:
-      text: One of two old grandfather clocks.\! They stopped working a long time ago, but MOM likes to keep them around.
+      text: Jeden z dwóch antycznych zegarów.\! Przestały działać już dawno temu, ale MAMA lubi mieć je przy sobie.
+
 
 message_47:
-      text: A wardrobe.
+      text: Szafa.
+
 
 message_48:
-      text: A bunch of books.
+      text: Kilka książek.
+
 
 message_49:
-      text: A toilet.
+      text: Sedes.
+
 
 message_108:
-      text: A very, very comfortable bed.
+      text: Bardzo, bardzo wygodne łóżko.
+
 
 message_127:
-      text: It's a beautiful day outside...\! but inside is better.
+      text: Na zewnątrz piękny dzień ...\! ale w środku jest znacznie lepiej.
+
+
 
 
 #============================
 
+
 #KEL's House - Map 15
+
 
 #Ofrenda / Photos:
 message_50:
-      text: A bunch of family photos.\! KEL sure has a lot of relatives...
+      text: Kilka rodzinnych fotografii.\! KEL ma wielu krewnych...
+
 
 #Figures Bookcase:
 message_51:
-      text: A bookcase full of action figures and toys.\!<br>There are a few new additions since you were last here.
+      text: Regał pełen figurek i innych zabawek.\!<br>Przybyło kilka nowych modeli od czasu, gdy byłeś tu ostatnio.
+
 
 #Red/Green Houseplant:
 message_52:
-      text: An ornate houseplant.\!<br>It adds a nice touch of color to the room.
+      text: Ozdobna roślina doniczkowa.\!<br>Nadaje pokojowi ładny akcent kolorystyczny.
+
 
 #Books in Hallway Bookshelf:
 message_53:
-      text: A bunch of books.\! Most of these are about fishing or golf...
+      text: Kilka książek.\! Większość z nich dotyczy wędkarstwa lub golfa...
+
 
 #Books on Table in Hallway:
 message_54:
-      text: A bunch of new books on the table.\!<br>\"A Great Guide to Good Grilling\"...\! \"Grilling as a Way of Life\"...\! \"How to Perfectly Cook Chicken\"...<br>Hmm...\! It looks like KEL's dad found a new hobby.
+      text: Na stole leży kilka nowiutkich książek.\!<br>\"Wielka księga grillowania\"...\! \"Grillowanie sensem życia\"...\! \"Jak idealnie przyrządzić kurczaka\"...<br>Hmm...\! Wygląda na to, że tata KELA znalazł sobie nowe hobby.
+
 
 #Coffee:
 message_55:
-      text: An unfinished cup of coffee.
+      text: Niedopita filiżanka kawy.
+
 
 #Family Photo:
 #*Family Photo Slide opens*
 message_56:
-      text: KEL and HERO's family photo.\!<br>What a good-looking family...
+      text: Fotografia rodzinna KELA i HERO.\!<br>Cóż za szykowna rodzinka...
+
 
 #Laundry:
 message_57:
-      text: Dirty laundry.
+      text: Brudne pranie.
+
 
 #Basketball:
 message_58:
-      text: A basketball.
+      text: Piłka do kosza.
+
 
 #Vanity:
 message_59:
-      text: A vanity.
+      text: Toaletka.
+
 
 #Toilet:
 message_60:
-      text: A toilet.
+      text: Sedes.
+
 
 #Kel's TV:
 message_61:
-      text: KEL's game console system.\!<br>It looks well-used.
+      text: Konsola do gier KELA.\!<br>Ma widoczne ślady zużycia.
+
 
 #Trophies:
 message_62:
-      text: HERO's side of the room is littered with awards and trophies.
+      text: Po stronie HERO znajduje się pełno nagród i trofeów.
+
 
 message_63:
-      text: \"ANNUAL HOT DOG-EATING CONTEST - FIRST PLACE\".
+      text: \"COROCZNE ZAWODY JEDZENIA HOT DOGÓW - PIERWSZE MIEJSCE\".
+
 
 message_64:
-      text: \"STATE JUNIOR COOKING COMPETITION - FIRST PLACE\".
+      text: \"OGÓLNOKRAJOWY KONKURS KULINARNY DLA JUNIORÓW - PIERWSZE MIEJSCE\".
+
 
 message_65:
-      text: \"STATE SPELLING BEE - FIRST PLACE\".
+      text: \"OGÓLNOKRAJOWE DYKTANDO - PIERWSZE MIEJSCE\".
+
 
 message_66:
-      text: \"STATE MATHEMATICAL OLYMPIAD - FIRST PLACE\".
+      text: \"OGÓLNOKRAJOWA OLIMPIADA MATEMATYCZNA - PIERWSZE MIEJSCE\".
+
 
 message_67:
-      text: \"STATE DEBATE COMPETITION - MOST IMPROVED\".
+      text: \"OGÓLNOKRAJOWE MISTRZOSTWA DEBAT - NAGRODA ZA UZYSKANIE NAJWIĘKSZEGO WYNIKU\".
+
 
 #Kel's Participation
 message_68:
-      text: KEL's only award...\! <br>\"ANNUAL HOT DOG-EATING CONTEST - PARTICIPANT\"
+      text: Jedyne wyróżnienie KELA...\! <br>\"UCZESTNIK COROCZNYCH ZAWODÓW JEDZENIA HOT DOGÓW\"
+
 
 #Alarm Clock:
 message_69:
-      text: An alarm clock... for responsible people.\!<br>It's set to be 5-minutes early.
+      text: Budzik... coś dla odpowiedzialnych osób.\!<br>Jest ustawiony na 5 minut wcześniej.
+
 
 #Hero's Desk:
 message_70:
-      text: HERO's work desk.\!<br>Very tidy... Not an eraser shaving in sight!
+      text: Biurko HERO.\!<br>Bardzo schludne... Żadnych śladów po gumce!
+
 
 #Kel's Desk:
 message_71:
-      text: KEL's work desk.\!<br>Doesn't look like any work gets done here.
+      text: Biurko KELA.\!<br>Wygląda, jakby było używane do wszystkiego z wyjątkiem obowiązków.
+
 
 #Kel's Bed:
 message_72:
-      text: KEL's bed.\! Always a mess.
+      text: Łóżko KELA.\! Jak zwykle bajzel.
+
 
 #Kel's Wardrobe:
 #First time -
 message_73:
-      text: KEL's wardrobe...\!<br>Hey, there's $20.00 in here!\! Take it?
+      text: Szafa KELA...\!<br>Hej, tu jest 20 dolców!\! Wziąć je?
 #[YES/NO]
 #[YES]
 message_74:
-      text: You took the $20.00 from KEL's wardrobe.
+      text: Wziąłeś 20 $ z szafy KELA.
 #[NO]
 message_75:
-      text: You left the $20.00 in KEL's wardrobe.
+      text: Pozostawiłeś 20 $ w szafie KELA.
 #After taking $20 -
 message_76:
-      text: KEL's wardrobe...\! minus $20.00.
+      text: Szafa KELA...\! minus 20 $.
+
 
 #Grandfather clock:
 message_77:
-      text: A grandfather clock.
+      text: Antyczny zegar.
+
 
 #Sally's Cradle:
 message_78:
-      text: SALLY's cradle.\! There's a little plane mobile hanging above it.
+      text: Kołyska SALLY.\! Nad nią wisi mały model samolotu.
+
 
 #Building Blocks:
 message_79:
-      text: Building blocks.\!<br>Probably a hand-me-down from KEL or HERO.
+      text: Klocki do budowania.\!<br>Zapewne należały kiedyś do KELA bądź HERO.
+
 
 #Teddy Bear:
 message_80:
-      text: A stuffed animal.\!<br>Probably a hand-me-down from KEL or HERO.
+      text: Pluszak.\!<br>Zapewne należał kiedyś do KELA bądź HERO.
+
 
 #Bible:
 message_81:
-      text: A holy book.
+      text: Pismo Święte.
+
 
 #Bass:
 message_82:
-      text: A singing bass...\! Turn it on?
+      text: Śpiewająca ryba...\! Włączyć ją?
 #YES/NO
 #BGM stops.
 #Sings fish song.
 #After complete, goes back.
 
+
 #Fireplace:
 message_83:
-      text: KEL and HERO's fireplace.\! There's some award ribbons above the mantle.\! What a talented family...
+      text: Kominek KELA i HERO.\! Na półce wyżej wisi kilka orderów.\! Cóż za utalentowana rodzinka...
+
 
 #Food Bowl:
 message_84:
-      text: HECTOR's food and water bowl.\! There's slobber all over it!
+      text: Miseczki z karmą i wodą HEKTORA.\! Jest na niej pełno śliny!
+
 
 #Broken Teddy Bear:
 message_85:
-      text: A stuffed animal.\! Probably belongs to HECTOR...
+      text: Pluszak.\! Prawdopodobnie należy do HEKTORA...
+
 
 #Dog Bed:
 message_86:
-      text: HECTOR's dog bed.\! He seems to have outgrown it a bit.
+      text: Legowisko HEKTORA.\! Wygląda na to, że trochę je przerósł.
+
 
 #Kel's Fridge:
 message_87:
-      text: KEL's fridge.\!<br>There's a bunch of colorful magnets on it.\!<br>What a fun-loving family...
+      text: Lodówka KELA.\!<br>Znajduje się na niej mnóstwo kolorowych magnesów.\!<br>Cóż za barwna rodzinka...
+
 
 #Salt and Pepper:
 message_88:
-      text: Salt and pepper shakers.
+      text: Solniczka i pieprzniczka.
+
+
 
 
 #Ball:
 message_89:
-      text: HECTOR's favorite toy ball.\! You can tell by how gross it is.
+      text: Ulubiona piłeczka HEKTORA.\! Można to stwierdzić po tym, jak bardzo jest ufajdana.
+
 
 #Bamboo:
 message_90:
-      text: Potted bamboo stalks.\!<br>At least that's what you think they are...
+      text: Łodygi bambusa w doniczce.\!<br>A przynajmniej tak ci się wydaje...
+
 
 #TV Remote:
 message_91:
-      text: A TV remote.\!<br>Best not touch it... These are prone to getting lost.
+      text: Pilot do telewizora.\!<br>Lepiej nie dotykać... Jeszcze przypadkiem go zgubisz.
+
 
 #Shoe Rack:
 message_92:
-      text: A shoe rack.
+      text: Stojak na buty.
+
 
 #Coat Rack:
 message_93:
-      text: A coat rack.
+      text: Wieszak na ubrania.
+
 
 message_94:
-      text: A ball.
+      text: Piłka.
+
 
 #Pots and Pans:
 message_95:
-      text: Pots and pans are scattered throughout the kitchen.
+      text: Garnki i patelnie są rozrzucone po całej kuchni.
+
 
 message_96:
-      text: A toaster.
+      text: Toster.
+
 
 message_97:
-      text: HERO's bed.\! Perfectly-made...\! just like HERO.
+      text: Łóżko HERO.\! Mistrzowsko pościelone...\! tak jak nasz HERO.
+
 
 message_98:
-      text: A nice, big TV.
+      text: Pokaźny telewizor.
+
 
 message_99:
-      text: A mirror.
+      text: Lustro.
+
 
 message_100:
-      text: Some potted plants.
+      text: Kilka roślin w doniczkach.
+
 
 message_101:
-      text: A fancy potted plant.
+      text: Ekstrawagancka roślina w doniczce.
+
 
 message_102:
-      text: A fancy purse.\! Look inside?
+      text: Wykwintna torebka.\! Zajrzeć do środka?
+
 
 message_103:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelWatcha diggin' in my mom's bag for, \n[8]?
+      text: \kelNa kij grzebiesz w torebce mamy, \n[8]?
+
 
 message_104:
-      text: You found \c[5]PEPPER SPRAY\c[0].\! Take it?
+      text: Znalazłeś \c[5]GAZ PIEPRZOWY\c[0].\! Wziąć go?
+
 
 message_105:
-      text: You got \c[5]PEPPER SPRAY\c[0]!
+      text: Otrzymujesz \c[5]GAZ PIEPRZOWY\c[0]!
+
 
 message_106:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelWhoa! My mom had \c[5]PEPPER SPRAY\c[0]?\! That could come in handy if we run into any trouble.\! Good thinking, \n[8]!
+      text: \kelO kurde! Mama miała przy sobie \c[5]GAZ PIEPRZOWY\c[0]?\! To może się przydać, jeśli wpadniemy w jakieś kłopoty.\! Dobry pomysł, \n[8]!
+
 
 message_107:
-      text: A fancy purse.
+      text: Luksusowa torebka.
+
 
 message_109:
-      text: Bye-bye, spider.
+      text: Pa pa, pająku.
 #============================
+
 
 #Cris's House - Map 16
 
+
 #Newspaper and Magazines:
 message_110:
-      text: Newspaper and magazines...\! This guy knows how to relax.
+      text: Gazety i czasopisma...\! Ten gość wie, jak się zrelaksować.
+
 
 #Beer cans:
 message_111:
-      text: Grain juice in a can.
+      text: Sok ze zboża w puszce.
+
 
 #Empty cup:
 message_112:
-      text: An empty cup.\! Still smells like tea.
+      text: Pusta filiżanka.\! Wciąż pachnie herbatą.
+
 
 #Coasters:
 message_113:
-      text: A set of marble coasters.\! Looks really expensive...
+      text: Zestaw marmurowych podkładek pod kubek.\! Wygląda na bardzo drogi...
+
 
 #Pie:
 message_114:
-      text: A white, porcelain tea set.\! Looks really expensive...
+      text: Biały, porcelanowy zestaw do herbaty.\! Wygląda na bardzo drogi...
+
 
 #Fireplace:
 message_115:
-      text: A fireplace.\! Looks like it's used pretty often.
+      text: Kominek.\! Wydaje się być często używany.
+
 
 #Family Photo:
 message_116:
-      text: A bunch of family photos. It looks like this family travels a lot.
+      text: Kilka rodzinnych fotografii. Wygląda na to, że ta rodzina sporo podróżuje.
+
 
 #Family Photo Yearly:
 message_117:
-      text: Photos of a girl, taken throughout her childhood.\!<br>At some point, she dyed her hair blue.\!<br>Hey! It looks like she's the same age as you!
+      text: Zdjęcia uwieczniające dorastanie dziewczynki.\!<br>Na pewnym etapie przefarbowała włosy na niebiesko.\!<br>Ha! Zdaje się, że jest w tym samym wieku co ty!
+
 
 #Boombox:
 #*Plays Rock Music*
 message_118:
-      text: Well, that was unexpected.
+      text: Tego nikt się nie spodziewał.
+
 
 #Vases:
 message_119:
-      text: A porcelain vase.\! Looks really fragile... and expensive...
+      text: Porcelanowy wazon.\! Wygląda na delikatny... i drogi...
+
 
 #Seashell:
 message_120:
-      text: A big seashell.\! If you hold up a seashell to your ear, you can hear the ocean.
+      text: Duża morska muszla.\! Jeśli przyłożysz ją do ucha, usłyszysz dźwięk oceanu.
+
 
 #Bookcases:
 message_121:
-      text: A bunch of books and magazines.
+      text: Kilka książek i czasopism.
+
 
 #Mermaid Tail:
 message_122:
-      text: A custom-made fish tail you can wear over your feet.
+      text: Wykonany na zamówienie rybi ogon, który możesz założyć na stopy.
+
 
 #Fish Bowl:
 message_123:
-      text: A big fish bowl.\! There's at least two goldfish in here.\!<br>They look healthy!
+      text: Wielkie akwarium dla rybek.\! Są tu co najmniej dwie złote rybki.\!<br>Wydają się tryskać zdrowiem!
+
 
 message_124:
-      text: A medium-sized TV.
+      text: Średniej wielkości telewizor.
+
 
 message_125:
-      text: A fridge.
+      text: Lodówka.
+
 
 message_126:
-      text: Award-winning pie.
+      text: Zwycięskie ciasto.
+
 
 #============================
+
 
 #Maverick's House - Map 17
 
+
 #Wine Glass:
 message_140:
-      text: Red juice in a glass.\! It smells kind of like grapes.
+      text: Czerwony sok w kieliszku.\! Pachnie trochę jak winogrona.
+
 
 #Bookshelf:
 message_141:
-      text: A bunch of large, heavy books.\!<br>You can't read the language on most of the covers.
+      text: Kilka dużych, ciężkich ksiąg.\!<br>Nie potrafisz czytać w języku znajdującym się na większości ich okładek.
+
 
 #Bread:
 message_142:
-      text: Old bread left on a platter.
+      text: Czerstwy chleb zostawiony na talerzu.
+
 
 #Bread Kitchen:
 message_143:
-      text: Old bread left on a shelf.
+      text: Czerstwy chleb zostawiony na półce.
+
 
 #Altar:
 message_144:
-      text: A photo of a stranger.
+      text: Zdjęcie nieznajomej osoby.
+
 
 #Bible in living room:
 message_145:
-      text: A holy book.\! There's tabs on almost every page.
+      text: Pismo Święte.\! Na prawie każdej stronie jest zaznaczone karteczkami.
+
 
 #Wigs:
 message_146:
-      text: An assortment of wigs line this table.\!<br>The yellow one is missing...
+      text: Na tym stole leży pokaźna kolekcja peruk.\!<br>Brakuje żółtej peruki...
+
 
 #Mirror:
 message_147:
-      text: A wide-toothed comb in front of a mirror.\!<br>The mirror has sticky notes all over it.<br><br>\"Arch shoulder back fifteen degrees more\"...\!<br>\"Remember to flex all fingers when posing\"...\!<br>\"Show one eye only when provoked\"...<br>...\! Ugh...
+      text: Przed lustrem leży grzebień z szerokimi zębami.\!<br>Lustro ma na sobie pełno samoprzylepnych karteczek.<br><br>\"Wyciągnij ramiona do tyłu o piętnaście stopni więcej\"...\!<br>\"Pamiętaj, aby podczas pozowania zgiąć wszystkie palce u rąk\"...\!<br>\"Pokazuj jedno oko tylko wtedy, gdy ktoś cię sprowokuje\"...<br>...\! Ech...
+
 
 #Game Console:
 message_148:
-      text: A brand new game console system.\!<br>It looks so shiny and sleek!
+      text: Nowiutka konsola do gier.\!<br>Jest taka lśniąca i gładka!
+
 
 #Cactus:
 message_149:
-      text: A cactus.\! Sturdy and resilient.
+      text: Kaktus.\! Solidny, a zarazem prężny.
+
 
 #Scale:
 message_150:
-      text: A scale.\!<br>You can't remember the last time you used one of these.
+      text: Waga.\!<br>Nie pamiętasz, kiedy ostatnio takiej używałeś.
+
 
 #Twin Desks:
 message_151:
-      text: This desk is set up perfectly symmetrical to the one on the other side.
+      text: To biurko jest ustawione w idealnej symetrii do tego po drugiej stronie pokoju.
+
 
 #Bed:
 message_152:
-      text: The wrinkles in this bed are perfectly symmetrical to the one on the other side.
+      text: Fałdy są ułożone w idealnej symetrii do tych po drugiej stronie łóżka.
+
 
 #Bookshelf:
 message_153:
-      text: This bookshelf is the only thing that is not perfectly symmetrical in this room.
+      text: Ten regał to jedyna rzecz, która nie jest idealnie symetryczna w tym pokoju.
+
 
 #Left Trophy:
 message_154:
-      text: \"NATIONAL BAKING CHAMPIONSHIP - FIRST PLACE\"
+      text: \"OGÓLNOKRAJOWE MISTRZOSTWA PIEKARZY - PIERWSZE MIEJSCE\"
+
 
 #Right Trophy:
 message_155:
-      text: This trophy is a replica, made to be perfectly symmetrical to the one on the other side.
+      text: To trofeum jest repliką, wykonaną tak, by była idealnie symetryczna do tej po drugiej stronie pokoju.
+
 
 #Fireplace:
 message_156:
-      text: A fireplace.\! Looks like it's used every now and then.
+      text: Kominek.\! Wydaje się być używany tylko co jakiś czas.
+
 
 #Maverick's Room Chair:
 message_157:
-      text: An oddly-placed rolling chair.\!<br>It looks as though it has been dramatically pushed out of the way.
+      text: Dziwnie umiejscowione krzesło na kółkach.\!<br>Wygląda, jakby zostało dramatycznie zepchnięte z drogi.
+
 
 #============================
+
 
 #Other Street - Map 22
 
+
 #Bonsai Tree:
 message_170:
-      text: A bonsai tree.
+      text: Drzewko bonsai.
+
 
 #Street Lamp:
 message_171:
-      text: A street lamp.
+      text: Latarnia.
+
 
 #============================
 
+
 #Brent's House - Map 23
+
 
 #Books:
 message_180:
-      text: This house is filled to the brim with books on every subject.\! Most of them have bookmarks or sticky tabs in them.
+      text: Ten dom jest wypełniony po brzegi książkami na każdy temat.\! Większość z nich ma zakładki lub przyklejone karteczki.
+
 
 #Red Chair Desk:
 message_181:
-      text: A work desk with some papers on top.\! It looks like someone was in the middle of grading some tests...<br>\!Ouch...\! It doesn't look so good for these students.
+      text: Biurko z kilkoma dokumentami na wierzchu.\! Wygląda na to, że ktoś był w trakcie oceniania testów...<br>\!Ajajaj...\! Ci uczniowie nie będa zadowolewni ze swoich ocen.
+
 
 #Blue Chair Desk:
 message_182:
-      text: A work desk with a bunch of papers on top.\! There are a lot of big words you can't read... and a lot of messy writing you can't read.
+      text: Biurko ze stertą dokumentów na wierzchu.\! Zawierają wiele trudnych wyrazów, których nie rozumiesz... i mnóstwo bazgrołów, których nie da się odczytać.
+
 
 #Slow Cooker:
 message_183:
-      text: A state-of-the-art slow-cooker.\!<br>Perfect for busy or lazy moms...<br>At least that's what you heard on a commercial once.
+      text: Najnowocześniejszy wolnowar.\!<br>Idealny dla zabieganych lub leniwych mam...<br>A przynajmniej tak usłyszałeś kiedyś w reklamie.
+
 
 #Mantle:
 message_184:
-      text: There's some family pictures on the mantle.\! They look a bit dusty.
+      text: Na kominku jest kilka rodzinnych fotografii.\! Są nieco zakurzone.
+
 
 #Wall Art:
 message_185:
-      text: Wall art of a plant.\! Much easier to maintain than a real plant.
+      text: Sztuczne rośliny ścienne.\! Dużo łatwiejsze do pielęgnacji niż prawdziwe.
+
 
 #Microwave:
 message_186:
-      text: A microwave.
+      text: Mikrofala.
+
 
 #Phone:
 message_187:
-      text: A house phone.
+      text: Telefon stacjonarny.
+
 
 #Newspaper:
 message_188:
-      text: A newspaper.
+      text: Gazeta.
+
 
 #Brent's Cabinet:
 message_189:
-      text: Hmm...\!<br>There are some comics hidden between these textbooks.
+      text: Hmm...\!<br>Między tymi książkami kryje się kilka komiksów.
+
 
 #Brent's Coffee Table:
 message_190:
-      text: There's an open book on the table.<br><br><br>\"At this point we shall briefly comment on how the perturbation-theoretic matrix elements between initial and final plane-wave states can be used in bound-state problems. Obviously, we cannot directly apply perturbation theory to compute bound-state energies. However, we can first obtain approximate bound-state energies by solving exactly the...\"<br>...\! You put the book back down.
+      text: Na stole leży otwarta książka.<br><br><br>\"Abstrahując od rzeczy altruistycznych i od metafizycznego pietyzmu, rzecz ma się w swej strukturze niezwykle prosto i obiektywnie, ponieważ ze względu na względy, które bezwzględnie uwzględnić należy, dochodzimy do konkluzji, że jeżeli ktoś kiedyś komuś coś, ewentualnie nikt nikomu nigdy nic, to sprawa się gmatwa i taki osobnik zostaje...\"<br>...\! Odkładasz książkę z powrotem na miejsce.
+
 
 #Library reading nook book:
 message_191:
-      text: This house is filled to the brim with books on every subject.\! This one is about something called \"nanomaterials\".
+      text: Ten dom jest wypełniony po brzegi książkami na każdy temat.\! Ta jest o czymś, co nazywa się \"nanomateriały\".
+
+
+
 
 
 
 #Bonsai Tree:
 message_192:
-      text: A bonsai tree.\! This one has a lot of personality.
+      text: Drzewko bonsai.\! Ma w sobie pewien urok.
+
 
 message_193:
-      text: This house is filled to the brim with books on every subject.\! This one is about something called \"organic chemistry\".
+      text: Ten dom jest wypełniony po brzegi książkami na każdy temat.\! Ta jest o czymś, co nazywa się \"chemia organiczna\".
+
 
 message_194:
-      text: \"LIFETIME SCIENTIFIC ACHIEVEMENT AWARD\".
+      text: \"NAGRODA ZA CAŁOKSZTAŁT OSIĄGNIĘĆ NAUKOWYCH\".
+
 
 message_195:
-      text: A small TV.
+      text: Mały telewizor.
+
 
 message_196:
-      text: A computer desk.
+      text: Biurko komputerowe.
+
 
 message_197:
-      text: This house is filled to the brim with books on every subject.\! This one is about something called \"mathematical sciences\".
+      text: Ten dom jest wypełniony po brzegi książkami na każdy temat.\! Ta jest o czymś, co nazywa się \"nauki matematyczne\".
+
 
 message_198:
-      text: There's an open book on the table.<br><br><br>\"Pruning should be done regularly to maintain the shape of your bonsai.\"<br><br>\"All bonsai grow at different rates, so it is necessary to evaluate each tree's growth rate and adjust your trimming to accomodate.\"
+      text: Na stole leży otwarta książka.<br><br><br>\"Przycinanie powinno być wykonywane regularnie, aby drzewko bonsai utrzymało swój kształt.\"<br><br>\"Wszystkie drzewka bonsai rosną w różnym tempie, dlatego należy ocenić tempo wzrostu każdego drzewa i dostosować odpowiednio częstotliwość jego przycinania.\"
+
 
 message_199:
-      text: A big bowl.
+      text: Duża miska.
+
 
 #Kim's House - Map 24
 
+
 #Potted Plant:
 message_210:
-      text: A potted plant.
+      text: Roślina doniczkowa.
+
 
 #Work Desk:
 message_211:
-      text: A work desk.\! Someone left their planner open...<br>\!The words \"KIM\" and \"VANCE\" were written in for last week.
+      text: Biurko.\! Ktoś zostawił swój otwarty terminarz...<br>\!Słowa \"KIM\" i \"VANCE\" zostały wpisane na ostatni tydzień.
+
 
 #Yoga Mat:
 message_212:
-      text: A yoga mat.\! Yoga is good for you as it strengthens the connection between your body and spirit...\! At least that's what MOM told you once.
+      text: Mata do jogi.\! Joga pomaga we wzmacnianiu więzi między twoim ciałem i duchem...\! Przynajmniej tak powiedziała ci MAMA.
+
 
 #TV:
 message_213:
-      text: There are a bunch of yoga DVD's in the TV stand.
+      text: W szafce pod telewizorem jest kilka płyt DVD z ćwiczeniami jogi.
+
 
 #============================
 
+
 #Joy's House - Map 25
+
 
 #Magazines:
 message_230:
-      text: A bunch of magazines in a language you can't read.
+      text: Kilka czasopism w języku, który jest ci obcy.
+
 
 #Books:
 message_231:
-      text: A bunch of books in a language you can't read.
+      text: Kilka książek w języku, który jest ci obcy.
+
 
 #Offering:
 message_232:
-      text: Perfectly good fruit.
+      text: Idealnie dojrzałe owoce.
+
 
 #Sauce:
 message_233:
-      text: Some bottles of sauce and vinegar.
+      text: Parę butelek z sosami i octem.
+
 
 #TV:
 message_234:
-      text: A table-top TV.
+      text: Telewizor.
+
 
 #Guitar:
 #*Guitar SFX*
 
+
 #Hat:
 message_235:
-      text: This bed has an old hat on it.
+      text: To łóżko ma na sobie stary kapelusz.
+
 
 #Books:
 message_236:
-      text: A bunch of text books.
+      text: Parę książek.
+
 
 #Work Desk:
 message_237:
-      text: A work desk.
+      text: Biurko.
+
 
 message_238:
-      text: A vase.\! There is a lot of dust in it.
+      text: Wazon.\! Jest w nim dużo kurzu.
+
 
 message_239:
-      text: You open the pot.\!<br>...\! Mmm...\! Smells like dumplings.
+      text: Otwierasz garnek.\!<br>...\! Mmm...\! Pachnie pierogami.
+
 
 message_240:
-      text: A set of wooden coasters.
+      text: Zestaw drewnianych podkładek.
+
 
 message_241:
-      text: A rice cooker.
+      text: Ryżowar.
+
 
 message_242:
-      text: A book in a language you cannot read.
+      text: Książka w języku, który jest ci obcy.
+
 
 message_243:
-      text: A stand for sheet music.
+      text: Stojak na nuty.
+
 
 message_244:
-      text: A work desk.\! It's really dusty.
+      text: Biurko.\! Jest bardzo zakurzone.
+
 
 message_245:
-      text: A GUITAR.
+      text: GITARA.
+
 
 #============================
+
 
 #Charlie's House - Map 26
 
+
 #Wheelchair:
 message_250:
-      text: A wheelchair.
+      text: Wózek inwalidzki.
+
 
 #Magazines:
 message_251:
-      text: Newspaper and magazines.\! They seem to have accumulated over a long period of time.
+      text: Gazety i czasopisma.\! Zdaje się, że te gazety były tu zbierane od dawna.
+
 
 #Mail:
 message_252:
-      text: A bunch of mail addressed \"To Ma\".\!<br>The return addresses are from all over the country.
+      text: Sterta listów zaadresowanych \"Do mamy\".\!<br>Adresy zwrotne pochodzą z przeróżnych miejsc w kraju.
+
 
 #Trash Can:
 message_253:
-      text: Full of wrappers.
+      text: Pełen opakowań.
+
 
 #Cigarette:
 message_254:
-      text: An ashtray.
+      text: Popielniczka.
+
 
 #Trash:
 message_255:
-      text: Trash is strewn all across the floor.\!<br>Urf...\! It smells like rotten food in here.
+      text: Śmieci są rozrzucone po całej podłodze.\!<br>Fuj...\! Śmierdzi tu zgniłym jedzeniem.
+
 
 #Figures:
 message_256:
-      text: A bunch of small figurines, kept in surprisingly good condition.
+      text: Kilka małych figurek zachowanych w zaskakująco dobrym stanie.
+
 
 #Bookshelf:
 message_257:
-      text: A bunch of books.\!<br>The entire bottom row is full of school yearbooks.
+      text: Stos książek.\!<br>Cały dolny rząd jest pełen pamiątkowych szkolnych albumów.
+
 
 #Awards:
 message_258:
-      text: A slew of certificates and awards line this wall.\!<br>The oldest one dates back to almost twenty years ago.
+      text: Na tej ścianie widnieją liczne certyfikaty i nagrody.\!<br>Najstarszy z nich pochodzi sprzed prawie dwudziestu lat.
+
 
 #Washing Machine:
 message_259:
-      text: A washing machine and dryer.
+      text: Pralka i suszarka.
+
 
 #Bathtub:
 message_260:
-      text: A bathtub with some strange equipment attached to it.
+      text: Wanna z jakimś dziwnym przymocowanym do niej.
+
 
 #Wheelchair:
 message_261:
-      text: A wheelchair for upstairs.
+      text: Wózek inwalidzki do użytku na piętrze.
+
 
 #Love Letter:
 message_262:
-      text: There's a love letter on this table.\!<br>Hmm...\! Who could it be for?
+      text: Na tym stole leży list miłosny.\!<br>Hmm...\! Ciekawe do kogo jest?
+
 
 #Tea Party:
 message_263:
-      text: A fancy tea party for two.
+      text: Gustowne przyjęcie herbaciane dla dwojga.
+
 
 #Flowers:
 message_264:
-      text: Pretty purple flowers line the windowsill.
+      text: Śliczne fioletowe kwiaty na parapecie.
+
 
 #Bookcase:
 message_265:
-      text: A bunch of books, comics, and magazines.
+      text: Stos książek, komiksów i czasopism.
+
 
 message_266:
-      text: Some soda cans.
+      text: Kilka puszek po napojach gazowanych.
+
 
 message_267:
-      text: A table for one.\! Someone here prefers to eat alone.
+      text: Stolik dla jednej osoby.\! Ktoś tu woli jeść w samotności.
+
 
 message_268:
-      text: Some strange comics.
+      text: Kilka nietypowych komiksów.
+
 
 message_269:
-      text: A newspaper with some writing on it.\!<br>\"Look, Ma! I'm on the news!\"
+      text: Gazeta, na której zostało coś nabazgrane.\!<br>\"Spójrz, mamo! Jestem w wiadomościach!\"
 #============================
+
 
 #Aubrey's Street - Map 31
 
+
 #Picnic Table:
 message_280:
-      text: A brand-new picnic table.
+      text: Nowiutki stół piknikowy.
+
 
 #Flamingo:
 message_281:
-      text: A single plastic flamingo decorates this yard.\!<br>It looks content.
+      text: Pojedynczy plastikowy flaming zdobi to podwórko.\!<br>Wygląda na zadowolonego.
+
 
 #Pink Pinwheel:
 message_282:
-      text: A pinwheel.
+      text: Wiatraczek.
+
 
 #Traffic Signs:
 message_283:
-      text: A bunch of traffic signs and traffic cones are littered in the front yard.
+      text: Mnóstwo porozrzucanych znaków drogowych i pachołków na podwórku.
+
 
 #White Car:
 message_284:
-      text: A white medium-sized car.
+      text: Biały, średniej wielkości samochód.
+
 
 #Red Truck:
 message_285:
-      text: An old red pickup truck.\!<br>It appears to be way past its suggested life expectancy.
+      text: Stara czerwona furgonetka.\!<br>Widać, że minęły już jej lata świetności.
+
 
 #Trash Can:
 message_286:
-      text: A black trash can.
+      text: Czarny kosz na śmieci.
+
 
 message_287:
-      text: A classic white mailbox.
+      text: Klasyczna biała skrzynka pocztowa.
+
 
 message_288:
-      text: A bunch of car parts are littered in the front yard.
+      text: Mnóstwo porozrzucanych części samochodowych na podwórku.
+
+
 
 
 #============================
+
 
 #Vance's House - Map 32
 
+
 #Junk Food:
 message_300:
-      text: An unfinished COMBO MEAL.\! It looks moldy.
+      text: Niedokończony ZESTAW.\! Wygląda na spleśniały.
+
 
 #TV:
 message_301:
-      text: An old, beat-up TV.
+      text: Stary, zużyty telewizor.
+
 
 #Dishes:
 message_302:
-      text: Dirty dishes.
+      text: Brudne naczynia.
+
 
 #Cup:
 message_303:
-      text: A cup filled with dirty water.
+      text: Kubek napełniony brudną wodą.
+
 
 #Bucket:
 message_304:
-      text: A bucket filled with dirty water.
+      text: Wiadro napełnione brudną wodą.
+
 
 #Tools:
 message_305:
-      text: A bunch of tools.
+      text: Zestaw narzędzi.
+
 
 #Mop:
 message_306:
-      text: A wet mop.
+      text: Mokry mop.
+
 
 #Bed:
 message_307:
-      text: This bed is soft.
+      text: To łóżko jest miękkie.
+
 
 #Magazines:
 message_308:
-      text: A bunch of books and comics about dinosaurs.
+      text: Kilka książek i komiksów o dinozaurach.
+
 
 #Vance Desk:
 message_309:
-      text: A messy desk filled with trading cards and \c[3]CANDY\c[0].
+      text: Zagracone biurko pełne kart kolekcjonerskich i \c[3]CUKSÓW\c[0].
+
 
 #Bathroom:
 message_310:
-      text: This bathroom doesn't look to be in the best of shape...
+      text: Ta łazienka nie wygląda najlepiej...
+
 
 #Trash:
 message_311:
-      text: A big bag of trash.
+      text: Duży worek ze śmieciami.
+
 
 message_312:
-      text: You open the pot.\!<br>...\! \sinv[1]Mmmmm... Smells like mac and cheese.
+      text: Otwierasz garnek.\!<br>...\! \sinv[1]Mmmmm... Pachnie makaronem z sosem serowym.
+
 
 #============================
+
 
 #Shaun and Karen's House - Map 33
 
+
 #Bookshelf:
 message_320:
-      text: This bookcase is empty.
+      text: Ten regał na książki jest pusty.
+
 
 #Wallpaper:
 message_321:
-      text: This wallpaper's application has not been finished.
+      text: Tapeta nie została do końca naklejona.
+
+
 
 
 #============================
+
 
 #Sarah's House - Map 34
 
+
 #Coupons:
 message_330:
-      text: A bunch of coupon books.<br>Someone in this family must love their bargains!
+      text: Kilka albumów z kuponami.<br>Ktoś w tej rodzinie musi uwielbiać promocje!
+
 
 #Strawberries:
 message_331:
-      text: A bowl of healthy strawberries.
+      text: Miska zdrowych truskawek.
+
 
 #Fridge:
 message_332:
-      text: \"EAT HEALTHY!\"\! \"NO JUNK FOOD!\" \!No fun.
+      text: \"JEDZ ZDROWO!\"\! \"ŻYJ ZDROWO!\" \! Wolę nie żyć.
+
 
 #Trash:
 message_333:
-      text: A trash can.\!<br>Upon closer inspection, you can see that a perfectly good box of donuts was dumped into the trash.
+      text: Kosz na śmieci.\!<br>Po bliższym przyjrzeniu się zauważasz, że pudełko pączków w idealnym stanie leży na dnie kosza.
+
 
 #Room Memo:
 message_334:
-      text: A bunch of papers.\!<br>Someone has put a lot of work into planning out a health regimen for three people.
+      text: Mnóstwo papierów.\!<br>Ktoś włożył dużo wysiłku w zaplanowanie tyranii zdrowego odżywiania dla trzech osób.
+
 
 message_335:
-      text: A birdcage.\! There's a pretty blue bird in here.\!<br>It looks healthy!\! ...\! But nervous.
+      text: Klatka dla ptaków.\! Jest tu ładny niebieski ptak.\!<br>Wygląda zdrowo!\! ...\! Ale zdaje się być zestresowany.
+
 
 message_336:
-      text: Expired coupons...
+      text: Wygasłe kupony...
+
 
 message_337:
-      text: This cat is laser-focused on watching the bird cage.
+      text: Kot jest skupiony na obserwowaniu klatki dla ptaków.
+
 
 message_338:
-      text: There's an open book on the table.<br><br><br>\"He moved up his hand slowly and gently caressed his face...\! Their eyes met, and in an instant, became filled with the same intense, burning passion.\"<br>...\! Oh.\! Maybe you shouldn't be reading this.
+      text: Na stole leży otwarta książka.<br><br><br>\"Powoli przesunął w górę rękę i delikatnie pieścił jego twarz...\! Ich oczy spotkały się i w jednej chwili wypełniły się tą samą intensywną, gorącą pasją.\"<br>...\! Emmm.\! Może nie powinieneś tego czytać.
+
 
 message_339:
-      text: An unfinished bag of potato chips.
+      text: Niedokończona paczka chipsów.
+
 
 message_348:
-      text: A food and water bowl.
+      text: Miska na jedzenie i wodę.
+
 
 message_349:
-      text: A toilet.\! And more coupons...
+      text: Sedes.\! I więcej kuponów...
+
+
 
 
 #============================
+
 
 #Aubrey's House - Map 35
 
+
 #Trash:
 message_340:
-      text: Trash is strewn across the floor.
+      text: Śmieci rozrzucone po podłodze.
+
 
 #Magazines:
 message_341:
-      text: A bunch of old magazines and comic books.
+      text: Kilka starych czasopism i komiksów.
+
 
 #Cardboard Box:
 message_342:
-      text: A cardboard box.
+      text: Kartonowe pudło.
+
 
 #Bunny:
 message_343:
-      text: \"BUN-BUN\"
+      text: \"KIC-KIC\"
+
 
 #Side Table:
 message_344:
-      text: A side table is being used to cover up a hole in the wall.
+      text: Stolik został wykorzystany do zakrycia dziury.
+
 
 #TV:
 message_345:
-      text: A broken TV.
+      text: Zepsuty telewizor.
 #*Turns on*
 message_346:
-      text: Hmm...\! Looks like it still works.
+      text: Hmm...\! Wygląda na to, że nadal działa.
+
 
 #Bucket:
 message_347:
-      text: A bucket.\! Useful for rainy days.
+      text: Wiadro.\! Przydatne na deszczowe dni.
+
+
 
 
 message_356:
-      text: AUBREY's bed...
+      text: Łóżko AUBREY...
+
 
 message_354:
-      text: An empty corkboard.\!<br>This is where AUBREY kept the photos of MARI...
+      text: Pusta tablica korkowa.\!<br>To tutaj AUBREY trzymała zdjęcia MARI...
+
+
 
 
 message_355:
-      text: A photograph of AUBREY and KIM.
+      text: Zdjęcie AUBREY i KIM.
+
 
 #============================
+
 
 #Church - Map 41:
 
+
 #Piano:
 message_350:
-      text: A grand piano.
+      text: Fortepian.
+
 
 message_351:
-      text: An elegant plant.
+      text: Elegancka roślina.
+
 
 message_352:
-      text: A podium.
+      text: Podest.
+
 
 message_353:
-      text: A ceremonial table.
+      text: Ołtarz.
+
 
 #============================
+
 
 #Cemetary - Map 42:
 
+
 #Flowers:
 message_360:
-      text: Flowers.
+      text: Kwiaty.
+
 
 #Bread:
 message_361:
-      text: Bread.
+      text: Chleb.
+
 
 #headstone:
 message_362:
-      text: A white egret orchid.\!<br>In the language of flowers, it symbolizes the phrase...<br>\!“My thoughts will follow you into your dreams.”
+      text: Biała czapla.\!<br>W języku kwiatów symbolizuje ona zwrot...<br>\!\"Będziesz przy mnie nawet we śnie.\"
+
 
 message_363:
-      text: Puzzle pieces.
+      text: Kawałki układanki.
+
 
 message_364:
-      text: A teddy bear.
+      text: Pluszowy miś.
+
 
 #Cemetery Statue:
 
+
 message_365:
-      text: The symbol of \c[11]FARAWAY TOWN\c[0].\!<br>It's supposed to represent a gateway to a better life.<br><br>You remember learning about it in class when you were in elementary school, but you can't remember all the details.
+      text: Symbol \c[11]DALEKOSTĄDU\c[0].\!<br>Ma przedstawiać bramę do lepszego życia.<br><br>Pamiętasz, że uczyłeś się o tym w klasie, gdy byłeś w szkole podstawowej, ale nie możesz sobie przypomnieć wszystkich szczegółów.
+
 
 message_366:
-      text: \"OUR DEAREST MARI\"\!<br>\"THE SUN SHINED BRIGHTER WHEN SHE WAS HERE.\"
+      text: \"NASZA NAJDROŻSZA MARI\"\!<br>\"SŁOŃCE ŚWIECIŁO JAŚNIEJ, GDY BYŁA WŚRÓD NAS.\"
+
 
 message_367:
-      text: This grave could use some \c[4]FLOWERS\c[0].
+      text: Temu grobowi przydałoby się parę \c[4]KWIATÓW\c[0].
+
 
 message_368:
-      text: Do you want to leave \c[4]FLOWERS\c[0] at this grave?
+      text: Czy chcesz zostawić \c[4]KWIATY\c[0] przy grobie?
 #Yes/No
 #Yes (Screen goes black. Player and and followers are 1 step back. There are flowers at MARI's gtave.)
 
+
 message_369:
-      text: A headstone.
+      text: Nagrobek.
+
 
 message_359:
-      text: It's been a long time since you jumped off this statue and fell into this lake.\! There was water in your head for weeks...\! and sometimes it feels like some of it is still there.
+      text: Minęło sporo czasu, odkąd skoczyłeś z tego posągu i wpadłeś do jeziora.\! Przez tygodnie czułeś wodę w głowie...\! i czasami wydaje ci się, że nadal trochę jej tam zostało.
+
+
 
 
 #============================
+
 
 #Basil's Street - Map 45:
 
+
 #Pail and Shovel:
 message_370:
-      text: A pail and shovel.
+      text: Wiadro i łopata.
+
 
 #Yoyo:
 message_371:
-      text: A yo-yo.
+      text: Jojo.
+
 
 #Toy Cars:
 message_372:
-      text: A bunch of small toy cars.
+      text: Kilka małych resoraków.
+
 
 #Pick-Up Truck:
 message_373:
-      text: A blue pickup truck.
+      text: Niebieska furgonetka.
+
 
 #Paint Buckets:
 message_374:
-      text: Buckets of paint.
+      text: Wiadra z farbą.
+
 
 #Lucas House:
 message_375:
-      text: A doghouse.
+      text: Buda dla psa.
+
 
 #Fertilizer:
 message_376:
-      text: Fertilizer...\! Pee-ew!
+      text: Nawóz...\! Fuuu!
+
 
 #============================
+
 
 #Basil's House - Map 46:
 
+
 #Bookcase - Basil's Room:
 message_390:
-      text: A bunch of books.\!<br>Most of them are about gardening and indoor-plant care.
+      text: Kilka książek.\!<br>Większość z nich dotyczy ogrodnictwa i pielęgnacji roślin domowych.
+
 
 #Family Photos in Hallway:
 message_391:
-      text: Some photos of BASIL and his parents.\!<br>You've never met them before.
+      text: Kilka zdjęć BASILA i jego rodziców.\!<br>Nigdy wcześniej ich nie widziałeś.
+
 
 #Camera:
 message_392:
-      text: BASIL's camera.\! It looks really dusty.
+      text: Aparat BASILA.\! Wygląda na bardzo zakurzony.
+
 
 #Watering Pail:
 message_393:
-      text: A watering pail.
+      text: Konewka.
+
 
 #Wheelchair:
 message_394:
-      text: A wheelchair.
+      text: Wózek inwalidzki.
+
 
 message_398:
-      text: An empty bed.
+      text: Puste łóżko.
+
 
 message_396:
-      text: BASIL's grandma is breathing steadily.
+      text: Babcia BASILA stabilnie oddycha.
+
 
 message_397:
-      text: A comfortable-looking bed.
+      text: Wygodnie wyglądające łóżko.
+
 
 #============================
+
 
 #Jesse's House - Map 47:
 
+
 #Game Boy:
 message_410:
-      text: A portable gaming device.
+      text: Przenośna konsola do gier.
+
 
 #Arcade Machine:
 message_411:
-      text: An arcade machine.\! It doesn't look like it's working.
+      text: Automat do gier.\! Zdaje się, że nie działa.
+
 
 #CPU:
 message_412:
-      text: A glowing computer tower.\! So ahead of its time!
+      text: Świecący komputer stacjonarny.\! Wyprzedza swoje czasy!
+
 
 #Phonograph:
 message_413:
-      text: An old phonograph that can play cassettes.\!<br>So innovative!
+      text: Stary gramofon, który potrafi odtwarzać kasety.\!<br>Jakże nowatorskie!
+
 
 #Walkman:
 message_414:
-      text: The latest walkman model.\! So fancy!
+      text: Najnowszy model walkmana.\! Ale wypasiony!
+
 
 #Table Book:
 message_395:
-      text: There is an open phonebook on the table.\!<br>This person seems to be looking for some odd jobs.
+      text: Na stole leży otwarta książka telefoniczna.\!<br>Ktoś chyba szuka pracy dorywczej.
+
 
 #Game:
 message_415:
-      text: A brand new video game cartridge.
+      text: Nowiusieńki kartridż z grą wideo.
+
 
 #============================
 
+
 #Bebe's House - Map 48:
+
 
 #Drinks:
 message_430:
-      text: Some drinks on the table.\!<br>Seems like they're used mostly for decoration.
+      text: Kilka napojów na stole.\!<br>Wygląda na to, że są używane głównie do dekoracji.
+
 
 #Coffee Machine:
 message_431:
-      text: A coffee machine.\!<br>Would you like to make a cup of \c[5]COFFEE\c[0]?
+      text: Ekspres do kawy.\!<br>Czy chciałbyś zrobić filiżankę \c[5]KAWY\c[0]?
 #[YES/NO]
 #[YES]
 #*Coffee-making noise*
 message_432:
-      text: You got \c[5]COFFEE\c[0]!
+      text: Dostałeś \c[5]KAWĘ\c[0]!
+
 
 #Recycle Trash Can:
 message_433:
-      text: A trash can for recyclables.
+      text: Kosz na odpady nadające się do recyklingu.
+
 
 message_434:
-    text: A bunch of books and magazines.\!<br>Most of them are about interior design and beauty tips.
+    text: Kilka książek i czasopism.\!<br>Większość z nich dotyczy projektowania wnętrz i pielęgnacji urody.
+
 
 message_435:
-    text: Cardboard boxes.
+    text: Kartony.
+
 
 message_436:
-    text: Recyclable bottles.
+    text: Butelki do recyklingu.
+
 
 #============================
 
+
 #Artist's House - Map 49:
+
 
 #Food Bowl:
 message_440:
-      text: LUCAS's food and water bowl.\! There's slobber all over it!
+      text: Miska na jedzenie i wodę dla LUKASA.\! Jest na niej pełno śliny!
+
 
 #Broken Teddy Bear:
 message_441:
-      text: A stuffed animal.\! It's seen better days...
+      text: Pluszowe zwierzę.\! Miewało lepsze dni...
+
 
 #Dog Bed:
 message_442:
-      text: LUCAS's dog bed.\! He seems to have outgrown it a bit.
+      text: Legowisko LUKASA.\! Wygląda na to, że trochę je przerósł.
+
 
 #Ball:
 message_443:
-      text: LUCAS's toy ball.\!<br>Doesn't look like he plays with it very much.
+      text: Piłeczka LUKASA.\!<br>Nie wygląda, jakby się nią bawił.
+
 
 #Canvas:
 message_444:
-      text: An unfinished painting.
+      text: Niedokończony obraz.
+
 
 #Paint:
 message_445:
-      text: Some cheap paints.
+      text: Jakieś tanie farby.
+
 
 #Corner paint:
 message_446:
-      text: Bits of the wallpaper have been picked off.\!<br>Someone here must spend a lot of time in this corner...
+      text: Kawałki tapety zostały zerwane.\!<br>Ktoś musi spędzać dużo czasu w tym kącie...
+
 
 #Trading cards:
 message_447:
-      text: There are some shiny trading cards on the table.
+      text: Na stole leży kilka błyszczących kart kolekcjonerskich.
+
 
 #Trading cards on floor:
 message_448:
-      text: Trading cards are scattered across the floor.
+      text: Karty kolekcjonerskie są rozrzucone po całym pokoju.
+
 
 #Puzzle:
 message_449:
-      text: An unfinished puzzle.
+      text: Nieukończone puzzle.
+
 
 #Figure Case:
 message_450:
-      text: A bunch of small figurines.
+      text: Kilka małych figurek.
+
+
 
 
 message_451:
-      text: A bunch of artbooks.
+      text: Kilka albumów z ilustracjami.
+
 
 message_452:
       text: A
 
+
 #============================
+
 
 #Plaza - Map 55:
 
+
 #Fountain:
 message_460:
-      text: A water fountain.\! You can see \c[4]COINS\c[0] at the bottom.
+      text: Fontanna.\! Na dnie widać \c[4]MONETY\c[0].
+
 
 #Mailbox:
 message_461:
-      text: Just a regular ol' mailbox.
+      text: Zwyczajna skrzynka pocztowa.
+
 
 #Fruit Cart:
 message_462:
-      text: A fruit cart.\! It's mostly full of oranges.
+      text: Wózek wypełniony owocami.\! W większości pomarańczami.
+
 
 #============================
 
+
 #OTHERMART - Map 56:
+
 
 #Grapes:
 message_470:
-      text: Grapes.
+      text: Winogrona.
+
 
 #Lemons:
 message_471:
-      text: Oragnes.\! Oranges but yellow.
+      text: Poramańcza.\! Pomarańcza, ale żółta.
+
 
 #Oranges:
 message_472:
-      text: Oranges.
+      text: Pomarańcze.
+
 
 #Apples:
 message_473:
-      text: Apples.
+      text: Jabłka.
+
 
 #Green Apples:
 message_474:
-      text: Apples, but green.
+      text: Jabłka, ale zielone.
+
 
 #Veggies:
 message_475:
-      text: Vegetables.
+      text: Warzywa.
+
 
 #Bananas:
 message_476:
-      text: Bananas...\! Just a bit underripe.
+      text: Banany...\! Odrobinę niedojrzałe.
+
 
 #Soda:
 message_477:
-      text: Soda.
+      text: Oranżada.
+
 
 #Bottled Soda:
 message_478:
-      text: Fancy soda.
+      text: Luksusowa oranżada.
+
 
 #Shopping Cart:
 #*makes shopping cart noise*
 
+
 #Ice:
 message_479:
-      text: Ice.\! Very cold.
+      text: Lód.\! Mrozi.
+
 
 #Frozen Foods and Drinks:
 message_480:
-      text: Frozen stuff.\! And lots of it.
+      text: Mrożonki.\! Jest ich dużo.
+
 
 #Packaged foods and spices:
 message_481:
-      text: Packaged food and spices.
+      text: Pakowana żywność i przyprawy.
+
 
 #Cereal and Cooking Ingredients:
 message_482:
-      text: Cereal and cooking stuff.
+      text: Płatki i jakieś rzeczy do gotowania.
+
 
 #Meats:
 message_483:
-      text: Raw meat.
+      text: Surowe mięso.
+
 
 #Seafoods:
 message_484:
-      text: Raw sea meat.\! Smells fishy...
+      text: Surowy dorsz.\! Trąci rybą...
+
 
 #Frozen Pizza:
 message_485:
-      text: Chilled meat.
+      text: Schłodzone mięso.
+
 
 #Scale:
 message_486:
-      text: Food scale.
+      text: Waga kuchenna.
+
 
 #Small Pastries:
 message_487:
-      text: Small pastries...\! Smells sweet.
+      text: Małe wypieki...\! Pachną słodziutko.
+
 
 #Bread:
 message_488:
-      text: Bread.\! Smells toasty.
+      text: Chleb.\! Jeszcze ciepły.
+
 
 #Pie:
 message_489:
-      text: Pie.
+      text: Ciasto.
+
 
 message_490:
-      text: A money machine.
+      text: Maszyna do pieniędzy.
+
 
 message_491:
-      text: \"CLOSED ON SUNDAYS\"
+      text: \"NIECZYNNE W NIEDZIELE\"
+
 
 message_592:
-      text: \"FARAWAY CEMETERY\"
+      text: \"CMENTARZ DALEKOSTĄDZKI\"
+
 
 message_593:
-      text: \"TO OTHERMART PHARMACY\"
+      text: \"APTEKA\"
+
 
 message_594:
-      text: \"TO MISS CANDICE'S CANDY SHOP\"
+      text: \"SKLEPIK Z CUKIERKAMI PANI LUKRECJI\"
 #============================
+
 
 #Gino's Pizza - Map 57:
 
+
 #Table:
 message_500:
-      text: All the tables here are sticky.
+      text: Wszystkie stoły są lepkie.
+
 
 #Barrel:
 message_501:
-      text: A wooden barrel.
+      text: Drewniana beczka.
+
 
 #Sign:
 message_502:
-      text: \"KINDLY SEAT YOURSELF\"
+      text: \"PROSZĘ USIĄŚĆ\"
+
 
 #Frozen Drinks:
 message_503:
-      text: Chilled sodas and drinks.
+      text: Schłodzone napoje.
+
 
 message_504:
       text: Mmm...\! Pizza...
+
+
 
 
 #Arcade Machine:
 #Plays SPROUT MOLE EATER
 
 
+
+
 #============================
+
 
 #Hobbeez - Map 58:
 
+
 #DVDs:
 message_510:
-      text: Chock-full of DVDs.
+      text: Pełno płyt DVD.
+
 
 #Comics:
 message_511:
-      text: Chock-full of comics.
+      text: Pełno komiksów.
+
 
 #Gachapon:
 message_512:
-      text: A capsule machine.\!<br>Try your luck?\! It's only $1.00...\$
+      text: Automat z kapsułkami z zabawkami.\!<br>Spróbować szczęścia?\! Za jedynego dolara...\$
+
 
 #Arcade:
 #Plays SBF mini-game
 
+
 #Books:
 message_513:
-      text: A bunch of old magazines and children's books.
+      text: Kilka starych czasopism i książek dla dzieci.
+
 
 #Poster:
 message_514:
-      text: A poster for a new game where you can travel across different worlds.\! Nothing you haven't seen.
+      text: Plakat nowej gry, w której można podróżować po różnych światach.\! Nic, czego byś wczśniej nie widział.
+
 
 #Cards:
 message_515:
-      text: Playing cards are scattered across the table.
+      text: Karty do gry są rozrzucone na stole.
+
 
 #Checkers Board:
 message_516:
-      text: A checker board.
+      text: Szachownica.
+
 
 message_517:
-      text: Small candies.
+      text: Małe cuksy.
+
 
 message_518:
-      text: Advertisements.
+      text: Reklamy.
+
 
 message_519:
-      text: A vending machine.
+      text: Automat z przekąskami.
+
 
 message_520:
-      text: A cardboard cutout of CAPT. SPACEBOY.
+      text: Kartonowy wycinek KAPITANA KOSMIKA.
+
 
 message_521:
-      text: An old video game console system hooked up to a TV.
+      text: Stara konsola do gier podłączona do telewizora.
+
 
 #Poster:
 message_522:
-      text: A poster for a new game where you can run around and fight evil monsters...\! on skateboards.
+      text: Plakat nowej gry, w której można uganiać się i walczyć ze złymi potworami...\! na deskorolkach.
+
 
 #============================
 
+
 #Fixit - Map 59:
+
 
 #Safe:
 message_530:
-      text: A safe and key.
+      text: Sejf z kluczem.
+
 
 #Manual:
 message_531:
-      text: There's an open book on the table.\!<br>It looks like a manual on how to... get... rich... quick?<br>\!...\!\Com[2] Hey, this isn't work-related!
+      text: Na stole leży otwarta książka.\!<br>Jest to poradnik jak się... szybko... wzbogacić?<br>\!...\!\Com[2] Chwila moment, to nie ma żadnego związku z pracą!
+
 
 #Paint:
 message_532:
-      text: Paint.
+      text: Farba.
+
 
 #Wallpaper:
 message_533:
-      text: Wallpaper displays.
+      text: Wystawa tapet.
+
 
 #Tiles:
 message_534:
-      text: Floor and wall tiles.
+      text: Płytki ścienne i podłogowe.
+
 
 #Lamps:
 message_535:
-      text: Lamps.
+      text: Lampy.
+
 
 #Colors:
 message_536:
-      text: Colored paper.
+      text: Kolorowy papier.
+
 
 #Cement:
 message_537:
       text: Cement.
 
+
 #Nails and Nuts and Bolts:
 message_538:
-      text: Nails, nuts, and bolts.
+      text: Gwoździe, nakrętki i śruby.
+
 
 #Toolboxes:
 message_539:
-      text: All kinds of tools.
+      text: Wszystkie rodzaje narzędzi.
+
 
 #Furniture Misc:
 message_540:
-      text: Assorted hardware stuff.
+      text: Różny sprzęt.
+
 
 message_541:
-      text: \"SMILE! YOU'RE ON CAMERA!\"
+      text: \"UŚMIECHNIJ SIĘ! TO SIĘ KAMERUJE!\"
+
 
 #============================
+
 
 #Garden Fixit - Map 60:
 
+
 #Fancy Flower Arrangement:
 message_550:
-      text: An elaborate flower arrangement.\!<br>It comes off as a bit pompous.
+      text: Bogata kompozycja kwiatów.\!<br>Wygląda na trochę przesadnie wystawną.
+
 
 message_551:
-      text: Gardening tools.
+      text: Narzędzia ogrodowe.
+
 
 message_552:
-      text: A wheelbarrow-thingy.
+      text: Taczkopodobne coś.
+
 
 #============================
+
 
 #Candy Store - Map 61:
 
+
 #Giant Lollipop:
 message_560:
-      text: A giant lollipop.\! Seems a bit much.
+      text: Gigantyczny lizak.\! To lekka przesada.
+
 
 #Candy:
 message_561:
-      text: So...\! much...\! \c[3]CANDY\c[0]...
+      text: Cała...\! masa...\! \c[3]CUKSÓW\c[0]...
+
 
 #Cardboard Cutout:
 message_562:
-      text: A cardboard cutout of the shop owner.\! Seems a bit much.
+      text: Kartonowy wycinek właściciela sklepu.\! To lekka przesada.
+
 
 message_563:
-      text: \"WOW!! SWEET GUMBALLS!!\"
+      text: \"ŁAŁ!! GUMY KULKI!!\"
+
 
 message_564:
-      text: \"CHEWY CHEWY TAFFIES!!\"
+      text: \"CIĄGU CIĄGU CIĄGUTKI!!\"
+
 
 message_565:
-      text: \"SENSATIONAL SOUR GUMMIES!!\"
+      text: \"KAPITALNIE KWAŚNE ŻELKI!!\"
+
 
 #============================
+
 
 #Pharmacy - Map 62:
 
+
 #Medicine:
 message_570:
-      text: All kinds of medicine.
+      text: Wszelkie rodzaje leków.
+
 
 #Consultation Sign:
 message_571:
-      text: \"CONSULTATION (FREE)\"
+      text: \"KONSULTACJA (BEZPŁATNA)\"
+
 
 #Medication Sign:
 message_572:
-      text: \"MEDICATION (FEE)\"
+      text: \"LECZENIE (ODPŁATNE)\"
+
+
 
 
 #============================
+
 
 #Park - Map 63:
 
+
 #Basketball Hoop:
 message_580:
-      text: A basketball hoop.
+      text: Obręcz do koszykówki.
+
 
 #Picnic Table:
 message_581:
-      text: A picnic table.
+      text: Stół piknikowy.
+
 
 #Slide:
 message_582:
-      text: A slide.\! Smells like rusty metal.
+      text: Zjeżdżalnia.\! Pachnie zardzewiałym metalem.
+
 
 #Jungle Gym:
 message_583:
-      text: A jungle gym.\! Smells like rusty metal.
+      text: Małpi gaj.\! Pachnie zardzewiałym metalem.
+
 
 #Swings:
 message_584:
-      text: A swingset.\! Smells like rusty metal.
+      text: Huśtawka.\! Pachnie zardzewiałym metalem.
+
 
 #Tetherball:
 message_585:
-      text: A tetherball pole.\! Smells like rusty metal.
+      text: Piłka na uwięzi.\! Pachnie zardzewiałym metalem.
+
 
 #Cat:
 message_586:
-      text: A large metal cat.\!<br>You remember it being a lot bigger.
+      text: Wielki metalowy kot.\!<br>Kiedyś wydawał ci się o wiele większy.
+
 
 #Fruit Cart:
 message_587:
-      text: A fruit cart.\! It's mostly full of apples.
+      text: Wózek wypełniony owocami.\! W większości jabłkami.
+
 
 message_588:
-      text: \"FARAWAY PARK\"<br>\!\"THE FUTURE BELONGS TO THE DREAMERS!\"
+      text: \"PARK DALEKOSTĄDZKI\"<br>\!\"PRZYSZŁOŚĆ NALEŻY DO MARZYCIELI!\"
+
 
 #============================
+
 
 #Secret Lake
 
+
 #Pinwheel Assortment:
 message_600:
-      text: A group of pinwheels blow freely in the wind.
+      text: Zbiór wiatraczków swobodnie powiewanych na wietrze.
+
 
 message_601:
-      text: A picnic basket.
+      text: Kosz piknikowy.
+
 
 #============================
+
 
 #Player's Backyard
 
+
 #Stump:
 message_610:
-      text: A stump.
+      text: Pień.
+
 
 #Stump 2 (After AUBREY changes it):
 message_611:
-      text: A pinwheel on a stump.
+      text: Wiatraczek na pieńku.
+
 
 message_612:
-      text: AUBREY's trash can.
+      text: Kosz na śmieci AUBREY.
+
 
 #============================
+
 
 #Treehouse
 
+
 #Calendar:
 message_620:
-      text: An old calendar.\! It's still stuck on summer from four years ago.
+      text: Stary kalendarz.\! Nadal tkwi w lecie sprzed czterech lat.
+
 
 #TV:
 message_621:
-      text: An old TV.
+      text: Stary telewizor.
+
 
 #Stuffed Toy:
 message_623:
-      text: A stuffed toy of a girl with pink hair.
+      text: Pluszak dziewczyny z różowymi włosami.
+
 
 #Bat:
 message_624:
-      text: A baseball bat.
+      text: Kij bejsbolowy.
+
 
 #Plantegg:
 message_625:
-      text: AUBREY's stuffed toy.
+      text: Pluszak AUBREY.
+
 
 #Playing Cards:
 message_626:
-      text: Playing cards.
+      text: Karty do gry.
+
+
 
 
 #============================
 
+
 #Houses Misc.
+
 
 #Bed:
 message_640:
-      text: This bed is a little on the hard side, but overall, not too bad.\! You would rate it a 7 out of 10.
+      text: To łóżko jest trochę za twarde, ale z grubsza jest niezłe.\! W skali łóżkowej dałbyś mu 7 na 10.
+
 
 #Bed:
 message_641:
-      text: This bed is a little on the soft side, but overall, not too bad.\! You would rate it a 7 out of 10.
+      text: To łóżko jest trochę za twarde, ale z grubsza jest niezłe.\! W skali łóżkowej dałbyś mu 7 na 10.
+
 
 #Bed:
 message_642:
-      text: This bed is the perfect balance of firm and soft, but the sheets seem to be a little lacking in comfort.\!<br>You would rate it a 6 out of 10.
+      text: To łóżko stanowi idealny balans pomiędzy twardością a miękkością, niestety pościel wydaje się trochę pozbawiona komfortu.\!<br>W skali łóżkowej dałbyś mu 6 na 10.
+
 
 #Bed:
 message_643:
-      text: This bed seems decent, but the sheets would gather up too much heat at night for your liking.\!<br>You would rate it a 6 out of 10.
+      text: To łóżko wydaje się przyzwoite, ale prześcieradła będą gromadzić zbyt dużo ciepła w nocy, jak na twoje upodobania.\!<br>W skali łóżkowej dałbyś mu 6 na 10.
+
 
 #Bed:
 message_644:
-      text: This bed is big, but the mattress feels uneven and lumpy.\!<br>You would rate it a 6 out of 10.
+      text: To łóżko jest duże, ale materac jest nierówny i grudkowaty.\!<br>W skali łóżkowej dałbyś mu 6 na 10.
+
 
 #Bed:
 message_645:
-      text: This bed is so big and luxurious! And the sheets feel so cool and refreshing to boot!\! You would rate it a 9 out of 10.
+      text: To łóżko jest duże i bardzo komfortowe! Dodatkowo pościel jest chłodna w dotyku i przyjemnie odświeżająca!\! W skali łóżkowej dałbyś mu 9 na 10.
+
 
 #Bed:
 message_646:
-      text: This bed seems a bit much...\! You would rate it a 5 out of 10 just based off the design.
+      text: To łóżko jest przedobrzone...\! W skali łóżkowej dałbyś mu 5 na 10 tylko ze względu na design.
+
 
 #Bed:
 message_647:
-      text: This bed is dirty...\! You would rate it a 1 out of 10.
+      text: To łóżko jest brudne...\! W skali łóżkowej dałbyś mu 1 na 10.
+
 
 #Bed:
 message_648:
-      text: This bed is quite large and the sheets feel adequate, but it all smells a little musty.\!<br>You would rate it a 5 out of 10.
+      text: To łóżko jest dość duże, a pościel całkiem przyzwoita, ale czuć lekką woń stęchlizny.\!<br>W skali łóżkowej dałbyś mu 5 na 10.
+
 
 #Bed:
 message_649:
-      text: This bed is on the floor.\!<br>You are not sure how to rate this.
+      text: To łóżko jest na podłodze.\!<br>Nie jesteś pewien jak je ocenić.
+
+
 
 
 #Blue Lamp:
 message_650:
-      text: A nice lamp.
+      text: Ładna lampa.
+
 
 #Cream Lamp:
 message_651:
-      text: A basic lamp.
+      text: Zwyczajna lampa.
+
 
 #Pink Heart Lamp:
 message_652:
-      text: A fancy lamp.
+      text: Cudna lampa.
+
 
 #Bookcase:
 message_653:
-      text: A bunch of books, but nothing too interesting.
+      text: Kilka książek, ale cię nie interesują.
+
 
 #Table Lamp:
 message_654:
-      text: A table lamp.
+      text: Lampa stołowa.
+
 
 #Work desk:
 message_655:
-      text: A work desk.
+      text: Biurko.
+
 
 message_656:
-      text: A classical painting.
+      text: Klasyczny obraz.
+
 
 message_657:
-      text: This bed is messy.\! You would rate it a 3 out of 10.
+      text: Nieułożone łóżko.\! W skali łóżkowej dałbyś mu 3 na 10.
+
 
 message_658:
-      text: You open the pot.\!<br>...\! Mmm...\! Smells like jam.
+      text: Otwierasz garnek.\!<br>...\! Mmm...\! Pachnie jak dżem.
+
 
 message_659:
-      text: Dirty dishes.
+      text: Brudne naczynia.
+
 
 message_660:
-      text: This bed is sticky.\! There's taffy stuck on the sheets.\!<br>You would rate it a 2 out of 10.
+      text: To łóżko jest lepkie.\! Do pościeli jest przyklejone toffi.\!<br>W skali łóżkowej dałbyś mu 2 na 10.
+
 
 message_661:
-      text: There is nothing here.
+      text: Nic tutaj nie ma.
+
+
 
 
 #==
+
 
 message_665:
-      text: A big, red stop sign.
+      text: Duży czerwony znak stop.
+
 
 message_666:
-      text: A sliding door to the backyard.
+      text: Drzwi przesuwne prowadzące na podwórko.
+
 
 #==
+
 
 message_1000:
-      text: A pinwheel blows freely in the wind.
+      text: Wiatraczek swobodnie kręci się na wietrze.
+
 
 #==
+
 
 message_680:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Look HERO, we got your favorites...\! some chocolate chip \c[3]COOKIES\c[0] and a big ol' \c[3]HERO SANDWICH\c[0]!\kel
+      text: Spójrz, HERO, mamy to, co lubisz...\! \c[3]CIASTECZKA\c[0] z kawałkami czekolady i wielgachną \c[3]KANAPKĘ HEROSA\c[0]!\kel
+
 
 message_681:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: Aww... How sweet...\! It's... exactly the same as last year...\her
+      text: Ooo... Jak miło...\! To... zupełnie jak rok temu...\her
+
 
 #==
+
 
 message_682:
-      text: Some colorful \c[4]CDs\c[0].\! Maybe you could play them at a JUKEBOX.
+      text: Parę kolorowych \c[4]PŁYT CD\c[0].\! Może mógłbyś odtworzyć je w SZAFIE GRAJĄCEJ?
+
 
 message_683:
-      text: An unfinished plate of breakfast.
+      text: Niedokończone śniadanie.
+
 
 #==
+
+
+
 
 
 
 #CLOSED Signs
 
+
 #GINOS
 message_690:
-      text: \"BUSINESS HOURS... 10AM - 2AM\"<br>\"MUST BE 21 YEARS OLD OR OLDER TO ENTER AFTER 10PM\"
+      text: \"GODZINY PRACY... 10:00 - 2:00\"<br>\"ABY WEJŚĆ PO 22:00, NALEŻY MIEĆ UKOŃCZONE 21 LAT\"
+
 
 #OTHERMART
 message_691:
-      text: \"CLOSED\"<br>\!\"BUSINESS HOURS... 8AM - 10PM EVERYDAY\"
+      text: \"ZAMKNIĘTE\"<br>\!\"GODZINY PRACY... 8:00 - 22:00 CODZIENNIE\"
+
 
 #FIXIT
 message_692:
-      text: \"CLOSED\"<br>\!\"BUSINESS HOURS... 11AM - 8PM EVERYDAY\"
+      text: \"ZAMKNIĘTE\"<br>\!\"GODZINY PRACY... 11:00 - 20:00 CODZIENNIE\"
+
+
 
 
 #TRAIN - ORANGE OASIS. ACCIDENTALLY PLACED HERE
 
+
 message_800:
-      text: \n<CONDUCTOR JASH>\"Ladies and gents...\! We have arrived at our stop.\! Welcome to \c[11]ORANGE OASIS\c[0], where the moon shines brighter.\"
+      text: \n<JUZEK KONDUKTOR>\"Panie i panowie...\! Dotarliśmy na nasz przystanek.\! Witamy w \c[11]POMARAŃCZOWEJ OAZIE\c[0], gdzie księżyc świeci jaśniej.\"
+
 
 message_801:
-      text: \n<CONDUCTOR JASH>\"Please exit the train in an orderly fashion.\! Thank you for your patronage and please ride with us again.\"\! \}\quake[1]Bzzt...
+      text: \n<JUZEK KONDUKTOR>\"Proszę o opuszczenie pociągu w należyty sposób.\! Dziękujemy za cierpliwość i zapraszamy ponownie.\"\! \}\quake[1]Bzzt...
+
 
 #BACKYARD
 
+
 message_1001:
-      text: Toys long forgotten, discolored by weather.
+      text: Dawno zapomniane zabawki odbarwione przez pogodę.
+
 
 #SCOOTER AND BIKE
 
+
 message_1010:
-      text: A sleek silver scooter.
+      text: Lśniąca srebrna hulajnoga.
+
 
 message_1011:
-      text: AUBREY's old blue bike.
+      text: Stary niebieski rower AUBREY.
+
 
 message_1012:
-      text: A blue picnic basket.\! Nothing like MARI's.
+      text: Niebieski koszyk piknikowy.\! Niczym nie przypomina koszyka MARI.
+
 
 message_1013:
-      text: You got a \c[5]BANDAGE\c[0].
+      text: Dostałeś \c[5]PLASTER\c[0].
+
 
 message_1014:
-      text: A drawer.
+      text: Szuflada.
+
 
 message_1015:
-      text: You got a \c[5]FIRST AID KIT\c[0].
+      text: Dostałeś \c[5]APTECZKĘ\c[0].
+
 
 message_1016:
-      text: Lily of the valley.\! They are said to be able to ward off evil spirits and help people see a brighter future.
+      text: Konwalia majowa.\! Legenda głosi, że są one w stanie odpędzić złowrogie duchy oraz pomóc dostrzec bardziej pomyślną przyszłość.

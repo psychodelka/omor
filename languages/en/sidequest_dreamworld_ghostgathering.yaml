@@ -1,239 +1,318 @@
 
+
 # =========================================================================================
 # Ghost Gathering
 # ========================================================================================
 
+
 #Talk to Tophat Ghost
 
+
 message_0:
-      text: \n<TOPHAT GHOST>My goodness, what impeccable timing!\!<br>I seem to have found myself in quite the predicament.
+      text: \n<CYLINDRODUCH>Wielkie nieba, co za wyczucie czasu!\!<br>Widocznie znalazłem się w niezłych kłopotach.
+
 
 message_1:
-      text: \n<TOPHAT GHOST>I've sent letters to a number of acquaintances asking them to attend this elegant feast of mine...\! but as of this moment, not a single invitee has made an appearance!\! Not one!
+      text: \n<CYLINDRODUCH>Wysłałem listy do kilku znajomych z zaproszeniem na moją wytworną ucztę...\! lecz na chwilę obecną jeszcze żaden z nich się nie pojawił!\! Ani jeden!!
+
 
 message_2:
-      text: \n<TOPHAT GHOST>This is preposterous.\! A lesser ghost would be enraged, but my finer senses tell me that they may have simply become lost on the way here.
+      text: \n<CYLINDRODUCH>To jest niedorzeczne.\! Mniej gustowny duch mógłby być wkurzony, jednak mój wyrafinowany instynkt podpowiada mi, że mogli oni po prostu zgubić się po drodze.
+
 
 message_3:
-      text: \n<TOPHAT GHOST>You see...\! when I sent out my invitations...\! I had forgotten to include directions to the venue!
+      text: \n<CYLINDRODUCH>Wiecie...\! kiedy wysłałem moje zaproszenia...\! zapomniałem dołączyć informacje o tym, jak dotrzeć na miejsce!
+
 
 message_4:
-      text: \n<TOPHAT GHOST>Being a true gentleman and host, I refuse to start this party until all of my guests have arrived.
+      text: \n<CYLINDRODUCH>Jako, że jestem szanującym się dżentelmenem i gospodarzem, nie mam zamiaru rozpoczynać tego przyjęcia, dopóki wszyscy goście nie dotrą.
+
 
 message_5:
-      text: \n<TOPHAT GHOST>Would you be so kind as to help my guests find their way here?
+      text: \n<CYLINDRODUCH>Czy moglibyście pomóc moim gościom odnaleźć drogę?
+
 
 #[Nod/Shake]
 #[Nod]
 message_6:
-      text: \n<TOPHAT GHOST>Thank you, good sir!\!<br>Here are some maps with directions to my party, stamped with my own personal TOPHAT seal of approval.
+      text: \n<CYLINDRODUCH>Dziękuję, miły panie!\!<br>Oto kilka map z instrukcjami jak dotrzeć na moje przyjęcie zapieczętowanych moją autorską CYLINDRODUCHOWĄ pieczęcią.
+
 
 message_7:
-      text: \n<TOPHAT GHOST>Please deliver these maps to each of my guests.<br>\!They will then find their way here on their own, surely.
+      text: \n<CYLINDRODUCH>Dostarczcie, proszę, te mapy każdemu z moich gości.<br>\!Z pewnością wtedy sami dotrą na miejsce.
+
 
 message_8:
-      text: You got 6 \c[4]SPOOKY MAPS\c[0].
+      text: Otrzymałeś 6 \c[4]STRASZNYCH MAP\c[0].
 #[Shake]
 message_9:
-      text: \n<TOPHAT GHOST>Hmph... That is a shame.\! Would you really have an old ghost like me enjoy this feast by my lonesome?
+      text: \n<CYLINDRODUCH>Hmf... Jaka szkoda.\! Czy doprawdy chcecie, aby taki stary duch jak ja samotnie cieszył się tą ucztą?
 #Talk to Beard GHOST
 
+
 message_10:
-      text: \n<BEARD GHOST>Hmm...\! Wait, where was I going again?\!<br>Dangit, my memory isn't what it used to be...
+      text: \n<BRODODUCH>Hmm...\! Chwilka, gdzie ja właśnie szedłem?\!<br>Kurcze blade, moja pamięć nie jest taka sama jak kiedyś...
+
 
 message_11:
-      text: You gave a \c[4]SPOOKY MAP\c[0] to BEARD GHOST.
+      text: Dałeś \c[4]STRASZNĄ MAPĘ\c[0] BRODODUCHOWI.
+
 
 message_12:
-      text: \n<BEARD GHOST>Eh? What've you got there?\!<br>A map to ol' TOPHAT's party?\! Hoo, it sure is!
+      text: \n<BRODODUCH>Eee? Co tam masz?\!<br>Mapa do przyjęcia starego CYLINDRODUCHA?\! Hu, w rzeczy samej!
+
 
 message_13:
-      text: \n<BEARD GHOST>I'd better get going before all the food gets cold.\!<br>Here I come, all-you-can-eat buffet!
+      text: \n<BRODODUCH>Muszę się pospieszyć, zanim wszystko wystygnie.\!<br>Szwedzki stole, nadchodzę!
+
 
 #Talk to Glasses GHOST
 
+
 message_14:
-      text: \n<GLASSES GHOST>Here I am, alone as a clam...\! sigh...\! The one time I'm invited to a party and I don't know where it is...
+      text: \n<OKULARODUCH>Oto jestem, sam jak palec...\! ech...\! Ten jedyny raz, gdy ktoś zaprasza mnie na przyjęcie, nie wiem, gdzie się ono odbywa...
+
 
 message_15:
-      text: You gave a \c[4]SPOOKY MAP\c[0] to GLASSES GHOST.
+      text: Dałeś \c[4]STRASZNĄ MAPĘ\c[0] OKULARODUCHOWI.
+
 
 message_16:
-      text: \n<GLASSES GHOST>O-Oh! I don't believe it! Is this a map to TOPHAT's party?\!<br>You're a real lifesaver, you know that?\!<br>I'd better hurry...\! it sounds like it's gonna be a blast!
+      text: \n<OKULARODUCH>O-och! Nie wierzę własnym oczom! Czyż to mapa do przyjęcia CYLINDRODUCHA?\!<br>Ratujecie mi skórę, wiecie?\!<br>Muszę się spieszyć...\! zapowiada się niezła zabawa!
+
+
 
 
 #Talk to Mustache GHOST
 
+
 message_17:
-      text: \n<MUSTACHE GHOST>Don't mind me!\!<br>I'm just a lost floating mustache carrying about his day!
+      text: \n<WĄSODUCH>Nie przejmuj się mną!\!<br>Jestem tylko zagubionym lewitującym wąsem!
+
 
 message_18:
-      text: You gave a \c[4]SPOOKY MAP\c[0] to MUSTACHE GHOST.
+      text: Dałeś \c[4]STRASZNĄ MAPĘ\c[0] WĄSODUCHOWI.
+
 
 message_19:
-      text: \n<MUSTACHE GHOST>Whoa, hold on a second! What do we have here?\!<br>Directions to TOPHAT's party?\!<br>Well, gee... I'd better skedaddle!
+      text: \n<WĄSODUCH>Wow, chwileczkę! Co my tutaj mamy?\!<br>Mapa na przyjęcie CYLINDRODUCHA?\!<br>No cóż... Lepiej będę się zwijać!
+
 
 message_20:
-      text: \n<MUSTACHE GHOST>\Com[2]The party doesn't start until I arrive!\!<br>\quake[1]Hyok, hyok, hyok... snort... hyok, hyok, hyok! \quake[0]
+      text: \n<WĄSODUCH>\Com[2]Przyjęcie się nie zacznie, póki nie dotrę!\!<br>\quake[1]Hy, hy, hy... smark... hy, hy, hy!\quake[0]
+
 
 #Talk to Princess GHOST
 
+
 message_21:
-      text: \n<PRINCESS GHOST>Oh dear, it seems that I've gotten myself lost again...\!<br>Oh... how clumsy of me.
+      text: \n<KSIĘŻNICZKODUCH>Ojej, widocznie znów się zgubiłam...\!<br>Och... Jakaż to ja niezdarna.
+
 
 message_22:
-      text: You gave a \c[4]SPOOKY MAP\c[0] to PRINCESS GHOST.
+      text: Dałeś \c[4]STRASZNĄ MAPĘ\c[0] KSIĘŻNICZKODUCHOWI.
+
 
 message_23:
-      text: \n<PRINCESS GHOST>Oh, my! What is this?\!<br>A map to Sir TOPHAT's party? Why, indeed it is!
+      text: \n<KSIĘŻNICZKODUCH>Ojej! Cóż my tu mamy?\!<br>Mapa na przyjęcie pana CYLINDRODUCHA? Och, w rzeczy samej!
+
 
 message_24:
-      text: \n<PRINCESS GHOST>I must hurry to the party now.<br>Being late is unbefitting a princess!
+      text: \n<KSIĘŻNICZKODUCH>Muszę się spieszyć.<br>Spóźnialstwo nie wypada księżniczce!
+
+
 
 
 #Talk to Propeller GHOST
 
+
 message_25:
-      text: \n<PROPELLER GHOST>Sniff... Sniff... Come on...\!<br>Why'd I have to go and get lost again?
+      text: \n<ŚMIGŁODUCH>Chlip... Chlip... Kurdebele...\!<br>Czemu znowu musiałem się zgubić?
+
 
 message_26:
-      text: You gave a \c[4]SPOOKY MAP\c[0] to PROPELLER GHOST.
+      text: Dałeś \c[4]STRASZNĄ MAPĘ\c[0] ŚMIGŁODUCHOWI.
+
 
 message_27:
-      text: \n<PROPELLER GHOST>Oh... Hi...\! Huh? Is this a map?\! Wait, I can see TOPHAT's seal on it!\! By golly! This must be directions to the party!<br>Thank you so much, kind stranger!
+      text: \n<ŚMIGŁODUCH>O... cześć...\! Hę? Czy to mapa?\! Moment, na niej jest pieczęć CYLINDRODUCHA!\! Wielkie nieba! To z pewnością mapa na przyjęcie!<br>Tak bardzo ci dziękuję, miły nieznajomy!
+
 
 message_28:
-      text: \n<PROPELLER GHOST>I'll talk to you at the party!
+      text: \n<ŚMIGŁODUCH>Porozmawiamy na przyjęciu!
 
-#Talk to SUNHAT GHOST
+
+#Talk to KAPELODUCH
+
 
 message_29:
-      text: \n<SUNHAT GHOST>Huh, this doesn't look right.\!<br>I must have taken a wrong turn somewhere...
+      text: \n<KAPELODUCH>Hę, chyba coś tu nie gra.\!<br>Musiałem gdzieś źle skręcić...
+
 
 message_30:
-      text: You gave a \c[4]SPOOKY MAP\c[0] to SUNHAT GHOST.
+      text: Dałeś \c[4]STRASZNĄ MAPĘ\c[0] KAPELODUCHOWI.
+
 
 message_31:
-      text: \n<SUNHAT GHOST>What's this? A map?\!<br>Oh, my... it even has TOPHAT's seal!\!<br>Now I'll be able to get to the party.
+      text: \n<KAPELODUCH>Co to? Mapa?\!<br>Ojej... nawet ma pieczęć CYLINDRODUCHA!\!<br>Z nią na pewno dotrę na przyjęcie.
+
 
 message_32:
-      text: \n<SUNHAT GHOST>Thank you, children!\!<br>I must go now, I'm already behind schedule as it is.
+      text: \n<KAPELODUCH>Dziękuję wam, młodzianie!\!<br>Muszę już iść, jako że i tak jestem już spóźniony.
+
 
 #Talking to other Ghosts before talking to Tophat GHOST
 
+
 message_33:
-      text: BEARD GHOST looks around aimlessly as if it is lost.
+      text: BRODODUCH rozgląda się bezcelowo, jakby zagubiony.
+
 
 message_34:
-      text: GLASSES GHOST looks around aimlessly as if it is lost.
+      text: OKULARODUCH rozgląda się bezcelowo, jakby zagubiony.
+
 
 message_35:
-      text: MUSTACHE GHOST looks around aimlessly as if it is lost.
+      text: WĄSODUCH rozgląda się bezcelowo, jakby zagubiony.
+
 
 message_36:
-      text: PRINCESS GHOST looks around aimlessly as if it is lost.
+      text: KSIĘŻNICZKODUCH rozgląda się bezcelowo, jakby zagubiony.
+
 
 message_37:
-      text: PROPELLER GHOST looks around aimlessly as if it is lost.
+      text: ŚMIGŁODUCH rozgląda się bezcelowo, jakby zagubiony.
+
 
 message_38:
-      text: SUNHAT GHOST looks around aimlessly as if it is lost.
+      text: KAPELODUCH rozgląda się bezcelowo, jakby zagubiony.
 
-#Talking to TOPHAT GHOST before collecting all the Ghosts
+
+#Talking to CYLINDRODUCH before collecting all the Ghosts
+
 
 message_39:
-      text: \n<TOPHAT GHOST>There are 6 \c[4]SPOOKY MAPS\c[0] with directions to my party.\!<br>Each one is stamped with my own personal TOPHAT seal of approval.
+      text: \n<CYLINDRODUCH>6 \c[4]STRASZNYCH MAP\c[0] posiada instrukcje dotarcia na moje przyjęcie.\!<br>Każda z nich jest zapieczętowana moją autorską pieczęcią CYLINDRODUCHA.
+
 
 message_40:
-      text: \n<TOPHAT GHOST>Please deliver these maps to each of my guests.<br>\!They will then find their way here on their own, surely.
+      text: \n<CYLINDRODUCH>Dostarczcie, proszę, te mapy każdemu z moich gości.<br>\!Wtedy z pewnością sami dotrą na miejsce.
 
-#Talking to TOPHAT GHOST after collecting all ghosts
+
+#Talking to CYLINDRODUCH after collecting all ghosts
+
 
 message_41:
-      text: \n<TOPHAT GHOST>\Com[2]\{HUZZAH! THE FEAST IS SAVED!!
+      text: \n<CYLINDRODUCH>\Com[2]\{HURRA! UCZTA ZOSTAŁA URATOWANA!!
+
 
 message_42:
-      text: \n<TOPHAT GHOST>Now...\!<br>\{\Sinv[1]LET THE FESTIVITIES BEGIN!!\}\Sinv[0]
+      text: \n<CYLINDRODUCH>Teraz...\!<br>\{\Sinv[1]NIECH ZACZNIE SIĘ IMPREZKA!!\}\Sinv[0]
+
 
 #GHOSTS DO A DANCE
 
+
 message_50:
-      text: \n<BEARD GHOST>This party is sensational!\! Here's a little somethin' I picked up on the way here.\! It ain't much, but it's all I got!
+      text: \n<BRODODUCH>To przyjęcie jest rewelacyjne!\! Oto małe co nieco dla was, które znalazłem po drodze.\! Może to niewiele, ale to jedyne, co mam!
+
 
 message_51:
-      text: \n<GLASSES GHOST>Ah...\! This party is everything I imagined it would be.\! Thanks for leading me here and all.\! This is a gift for you!
+      text: \n<OKULARODUCH>Ach...\! To przyjęcie jest dokładnie takie, jak je sobie wyobrażałem.\! Dziękuję za przyprowadzenie mnie tutaj.\! Oto prezent dla was!
+
 
 message_52:
-      text: \n<MUSTACHE GHOST>What an incredible party!\! TOPHAT GHOST sets the bar higher every time!\! I owe you one, friends. Here, take this!
+      text: \n<WĄSODUCH>Jakie wspaniałe przyjęcie!\! CYLINDRODUCH z każdym razem stawia poprzeczkę coraz wyżej!\! Jestem wam dłużny, przyjaciele. Proszę, to dla was!
+
 
 message_53:
-      text: \n<PRINCESS GHOST>What a magnificent celebration!\! It is thanks to all of you that this was possible.\! Please accept this offering from me!
+      text: \n<KSIĘŻNICZKODUCH>Cóż za wystawne przyjęcie!\! To wszystko dzięki wam.\! Proszę, przyjmijcie ten dar ode mnie!
+
 
 message_54:
-      text: \n<PROPELLER GHOST>Gee willikers! I can't believe I'm here!\! And I bet I look super cool with all of you talking to me...\! You just know that I gotta repay you!
+      text: \n<ŚMIGŁODUCH>O kurczaczki! Nie mogę uwierzyć, że tu jestem!\! I na pewno wyglądam ekstra fajnie gadając tu z wami...\! Wiadomo, że muszę się wam jakoś odwdzięczyć!
+
 
 message_55:
-      text: \n<SUNHAT GHOST>Thank you, children!\! Now that I am at this party, it's much easier to enjoy my afterlife!\! You must take this in return for brightening my day!
+      text: \n<KAPELODUCH>Dziękuję, młodzianie!\! Teraz, gdy jestem już na przyjęciu, życie w zaświatach jest o wiele przyjemniejsze!\! Przyjmijcie to w zamian za poprawienie mi dnia!
+
 
 message_56:
-      text: \n<TOPHAT GHOST>My good men! You have my eternal gratitude.\! Do enjoy this gift from me!
+      text: \n<CYLINDRODUCH>Moi dobrzy znajomi! Macie moje wieczne podziękowania.\! Oto prezent dla was!
+
 
 message_57:
-      text: \n<TOPHAT GHOST>Please take some time and enjoy the good company!
+      text: \n<CYLINDRODUCH>Proszę, czujcie się jak w domu i cieszcie się towarzystwem!
+
 
 #==
+
 
 #beard
 message_60:
-      text: You got a \c[3]WAFFLE\c[0].
+      text: Otrzymałeś \c[3]GOFRY\c[0].
+
 
 #glasses
 message_61:
-      text: You got \c[4]DEAD BATTERIES\c[0].
+      text: Otrzymałeś \c[4]ZUŻYTE BATERIE\c[0].
+
 
 #mustache
 message_62:
-      text: You got \c[3]FRUIT JUICE?\c[0]
+      text: Otrzymałeś \c[3]SOK OWOCOWY?\c[0]
+
 
 #princess
 message_63:
-      text: You got a \c[5]PRESENT\c[0].
+      text: Otrzymałeś \c[5]PREZENT\c[0].
+
 
 #propeller
 message_64:
-      text: You got a \c[5]BIG RUBBER BAND\c[0].
+      text: Otrzymałeś \c[5]DUŻĄ RECEPTURKĘ\c[0].
+
 
 #sunhat
 message_65:
-      text: You got \c[3]LIFE JAM\c[0].
+      text: Otrzymałeś \c[3]DŻEMO ŻYCIA\c[0].
+
 
 #tophat
 message_66:
-      text: You got a \c[13]TOPHAT\c[0].
+      text: Otrzymałeś \c[13]CYLINDER\c[0].
+
+
 
 
 #==
 
+
 #beard
 message_70:
-      text: \n<BEARD GHOST>Look at all this food!
+      text: \n<BRODODUCH>Spójrzcie tylko na to jedzenie!
+
 
 #glasses
 message_71:
-      text: \n<GLASSES GHOST>Ah...\! This party is everything I imagined it would be.
+      text: \n<OKULARODUCH>Ach...\! To przyjęcie jest dokładnie takie, jak je sobie wyobrażałem.
+
 
 #mustache
 message_72:
-      text: \n<MUSTACHE GHOST>\quake[1]Hyok, hyok, hyok... snort... hyok, hyok, hyok!\quake[0]
+      text: \n<WĄSODUCH>\quake[1]Hy, hy, hy... smark... hy, hy, hy!\quake[0]
+
 
 #princess
 message_73:
-      text: \n<PRINCESS GHOST>The decorations this year are top-notch!
+      text: \n<KSIĘŻNICZKODUCH>Tegoroczne dekoracje są z najwyższej półki!
+
 
 #propeller
 message_74:
-      text: \n<PROPELLER GHOST>I bet I look super cool right now...
+      text: \n<ŚMIGŁODUCH>Na pewno wyglądam teraz ekstra fajnie...
+
 
 #sunhat
 message_75:
-      text: \n<SUNHAT GHOST>Now that I am at this party, it's much easier to enjoy the afterlife!
+      text: \n<KAPELODUCH>Teraz, gdy jestem już na przyjęciu, życie w zaświatach jest o wiele przyjemniejsze!

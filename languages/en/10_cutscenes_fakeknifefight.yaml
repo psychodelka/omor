@@ -135,7 +135,7 @@ message_37:
 message_38:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Daj spokój BASILOWI!\! Jak mogłaś!?\!<br>Przecież byliśmy przyjaciółmi, już nie pamiętasz?\!<br>Powiedz jej coś, \n[8]!\kel
+      text: Daj spokój BASILOWI!\! Jak mogłaś?!\!<br>Przecież byliśmy przyjaciółmi, już nie pamiętasz?\!<br>Powiedz jej coś, \n[8]!\kel
  
 #AUBREY is surprised.
  
@@ -188,7 +188,7 @@ message_46:
 message_47:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Co z tobą, kuźwa, nie tak, AUBREY!?\kel
+      text: Co z tobą, kuźwa, nie tak, AUBREY?!\kel
  
 message_48:
       faceset: MainCharacters_Faraway

@@ -2,93 +2,129 @@
 # Sidequest: Claus
 # =========================================================================================
 
+
 #Cutscene: Claus Leaves 1   FISH 1
 
+
 message_1:
-      text: \n<ORANGE CAT>\sinv[1]Purr...\! Mreow...
+      text: \n<RUDY KOT>\sinv[1]Mrrr...\! Miau...
+
 
 #Claus walks off in the direction of Basil's street
 
+
 message_2:
-      text: The cat left a gift for you.
+      text: Kot zostawił ci prezent.
+
 
 message_3:
-      text: You got \c[4]TRASH\c[0]...
+      text: Zdobyłeś \c[4]ŚMIECI\c[0]...
+
 
 #Cutscene: Claus Leaves 2   FISH 2
 
+
 message_4:
-      text: \n<ORANGE CAT>\sinv[1]Mreow?\! Mrreeeoooww...
+      text: \n<RUDY KOT>\sinv[1]Miau?\! Miaaaaaaaau...
+
 
 #Claus walks off in the direction of Player's street
 
+
 message_5:
-      text: The cat left a gift for you.
+      text: Kot zostawił ci prezent.
+
 
 message_6:
-      text: You got \c[4]TRASH\c[0]...
+      text: Zdobyłeś \c[4]ŚMIECI\c[0]...
+
+
 
 
 #Cutscene: Claus Leaves 3   FISH 3
 
+
 message_7:
-    text: \n<ORANGE CAT>\sinv[1]Arweow...\! Arweow?\! Mreow...
+    text: \n<RUDY KOT>\sinv[1]Mrau...\! Mrau?\! Mrau...
+
 
 #Claus walks off in the direction of Town Plaza
 
+
 message_8:
-    text: The cat left a gift for you.
+    text: Kot zostawił ci prezent.
+
 
 message_9:
-    text: You got \c[4]BUBBLE WRAP\c[0]!
+    text: Zdobyłeś \c[4]FOLIE BĄBELKOWĄ\c[0]!
+
+
 
 
 #Cutscene: Claus Leaves 4   FISH 4
 
+
 message_10:
-    text: \n<ORANGE CAT>\sinv[1]Mrreeeooooww...\! Purr...\! Purr...\! Purr...
+    text: \n<RUDY KOT>\sinv[1]Mrauuuuuuuu...\! Mrr...\! Mrr...\! Mrr...
+
 
 #Claus walks off in the direction of Trash Fortress
 
+
 message_11:
-    text: The cat left a gift for you.
+    text: Kot zostawił ci prezent.
+
 
 message_12:
-    text: You got a \c[4]SEASHELL\c[0]!
+    text: Zdobyłeś \c[4]MUSZELKĘ\c[0]!
+
+
 
 
 #Cutscene: Claus Leaves 5   FISH 5
 
+
 message_13:
-    text: \n<ORANGE CAT>Mreow!\! Mreoww...\! Mreow!
+    text: \n<RUDY KOT>Mrau!\! Mrau...\! Mrau!
+
 
 #Claus walks off in the direction of Graveyard
 
+
 message_14:
-    text: The cat left a gift for you.
+    text: Kot zostawił ci prezent.
+
 
 message_15:
-    text: You got a \c[4]TRANQUIL CD\c[0]!
+    text: Zdobyłeś \c[4]ŻWAWĄ PŁYTĘ\c[0]!
+
 
 #Cutscene: Claus Leaves 6   FISH 6
 
+
 message_16:
-    text: You recognize the grave the cat is next to.
+    text: Rozpoznajesz grób, przy którym siedzi kot.
+
 
 message_17:
-    text: \n<ORANGE CAT>\sinv[1]Mreow?
+    text: \n<RUDY KOT>\sinv[1]Mrau?
+
 
 message_18:
-    text: The cat left a gift for you.
+    text: Kot zostawił ci prezent.
+
 
 message_19:
-    text: You got an \c[4]ARCADE PIECE\c[0]!
+    text: Zdobyłeś \c[4]FRAGMENT AUTOMATU\c[0]!
+
 
 message_20:
-    text: You get the feeling that it's the last time you will see that cat again.
+    text: Masz wrażenie, że to ostatni raz, kiedy widzisz tego kota.
+
 
 message_21:
-    text: The ORANGE CAT looks hungry.\! Feed it some \c[3]FISH\c[0]?
+    text: RUDY KOT wygląda na głodnego.\! Nakarmić go \c[3]RYBĄ\c[0]?
+
 
 message_22:
-    text: You don't have any \c[3]FISH\c[0] on you.
+    text: Nie masz przy sobie żadnej \c[3]RYBY\c[0].

@@ -454,7 +454,7 @@ message_134:
       text: GIGANTOSIE, proszę, nie jedz nas!<br>Nie chcemy zostać strawieni!\kel
  
 message_135:
-      text: Chyba na to trochę za późno, nie sądzicie?\!<br>Powinniście byli o tym pomyśleć, zanim weszliście do mojej paszczy! \quake[1]Niom, niom!\quake[0]\n<GIGANTOS>
+      text: Chyba na to trochę za późno, nie sądzicie?\!<br>Powinniście byli o tym pomyśleć, zanim weszliście do mojej paszczy! \quake[1]Mniam, mniam!\quake[0]\n<GIGANTOS>
  
 #HERO looks back.
  
@@ -523,7 +523,7 @@ message_184:
       text: \herTak... Nie możemy się teraz poddać!\!<br>Gdzieś musi być wyjście...
  
 message_145:
-      text: \sinv[1]Wybieracie się gdzieś?\. \quake[1]Niom, niom!\quake[0]\n<GIGANTOS>
+      text: \sinv[1]Wybieracie się gdzieś?\. \quake[1]Mniam, mniam!\quake[0]\n<GIGANTOS>
  
 # =========================================================================================
 # Cutscene: Last Blackletter

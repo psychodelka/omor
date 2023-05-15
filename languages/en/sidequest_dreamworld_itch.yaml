@@ -2,41 +2,56 @@
 # Itch
 # ========================================================================================
 
+
 #Talk to Dino 4's Top Half
 
+
 message_1:
-      text: \n<SCOTT>\sinv[1]Howdy-ho, youngins'!\sinv[0]\!<br>Y'all mind doing me a favor?\!<br>I needja to scratch an itch for me...
+      text: \n<SCOTT>\sinv[1]Siemanko, młodzieńcy!\sinv[0]\!<br>Możecie zrobić mi przysługę?\!<br>Jest taki jeden wielki... świąd na moim tyłku...
+
 
 message_2:
-      text: \n<SCOTT>It's on my bottom, so I can't really get to it.\!<br>Ugh...\! It's just \sinv[1]absolutely killing\sinv[0] me!
+      text: \n<SCOTT>Nie żartuję, swędzi mnie tyłek, ale nie mogę tam dosięgnąć.\!<br>Uch...\! \sinv[1]Okrutna tortura!\sinv[0]
+
 
 #Talk to Dino 4's Bottom Half
 
+
 message_3:
-      text: You scratched SCOTT's bottom.
+      text: Podrapałeś tyłek SCOTTA.
+
 
 #Screen shakes
 
+
 message_4:
-      text: \n<SCOTT>\sinv[1]Ahhh...\! Much better...\sinv[0]
+      text: \n<SCOTT>\sinv[1]Aaa...\! Znacznie lepiej...\sinv[0]
+
 
 #Talk to Dino 4's Top Half
 
+
 message_5:
-      text: \n<SCOTT>Hey! You must be the kids who scratched my itch.\!<br>What a \sinv[1]huge relief\sinv[0]...
+      text: \n<SCOTT>Hej, dzieciaki! To chyba wy mnie podrapaliście.\!<br>Co za \sinv[1]ogromna ulga\sinv[0]...
+
 
 message_6:
-      text: \n<SCOTT>Here, take this.\!<br>We actually have too many of these things.\!<br>I'm sure it'll come in handy one way or another!
+      text: \n<SCOTT>Proszę, weźcie to.\!<br>I tak mamy ich zbyt dużo.\!<br>Jestem pewien, że wam się przyda!
+
 
 message_7:
-      text: You got a \c[13]HARD HAT\c[0].
+      text: Dostałeś \c[13]KASK OCHRONNY\c[0].
+
 
 message_10:
-      text: \n<SCOTT>Stay safe, kids!\! I really can't thank you enough!
+      text: \n<SCOTT>Trzymajcie się, dzieciaki!\! Naprawdę nie wiem, jak wam dziękować!
+
 
 #Quest complete
 
+
 #After quest dialogue
 
+
 message_8:
-      text: \n<SCOTT>Hey!\! You're the kids who scratched my itch.\!<br>That was a \sinv[1]huge relief!\sinv[0]
+      text: \n<SCOTT>Hej, dzieciaki!\! To chyba wy podrapaliście mój tyłek.\!<br> To była \sinv[1]ogromna ulga!\sinv[0]

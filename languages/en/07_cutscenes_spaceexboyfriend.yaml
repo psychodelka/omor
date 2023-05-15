@@ -91,7 +91,7 @@ message_15:
 message_16:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: \{KEL!! CO TY WYRABIASZ!?\her\}
+      text: \{KEL!! CO TY WYRABIASZ?!\her\}
  
 message_17:
       faceset: MainCharacters_DreamWorld
@@ -182,7 +182,7 @@ message_40:
       text: \{\{\Com[2]KOSMO-EXIE!!\aub
  
 message_41:
-      text: Ciekawe.\! Wyzywasz mnie na pojedynek?\!<br>\{WIESZ, Z KIM MASZ DO CZYNIENIA!?\n<KOSMO-EX>
+      text: Ciekawe.\! Wyzywasz mnie na pojedynek?\!<br>\{WIESZ, Z KIM MASZ DO CZYNIENIA?!\n<KOSMO-EX>
  
 message_42:
       text: \{JESTEM KAPITANEM KOSMOPIRATÓW!\n<KOSMO-EX>

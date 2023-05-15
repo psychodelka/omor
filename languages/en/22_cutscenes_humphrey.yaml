@@ -128,7 +128,7 @@ message_19:
 message_20:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Racja...\! Problem...\!<br> to jej drugie imię.\her
+      text: Racja...\! Problem...\! to jej drugie imię.\her
 
 
 # =========================================================================================
@@ -179,7 +179,7 @@ message_47:
 
 
 message_48:
-      text: Hmm...\! Gdzie? Gdzie?\!<br>Mam to na końcu języka...\! ...\! \quake[1]Niom, niom!\quake[0]\!<br>Żarcik astronaucik, dzieci drogie!\! Ona jest...\! we mnie, ma się rozumieć.\n<GIGANTOS>
+      text: Hmm...\! Gdzie? Gdzie?\!<br>Mam to na końcu języka...\! ...\! \quake[1]Mniam, mniam!\quake[0]\!<br>Żarcik astronaucik, dzieci drogie!<br>Ona jest...\! we mnie, ma się rozumieć.\n<GIGANTOS>
 
 
 message_49:
@@ -206,7 +206,7 @@ message_55:
 
 
 message_53:
-      text: \quake[1]Mle\{eee\{eech...\quake[0]\n<GIGANTOS>
+      text: \quake[1]Mle\{eee\{eee...\quake[0]\n<GIGANTOS>
 
 
 #GIGANTOS's tongue creates pathway.

@@ -2,67 +2,76 @@
 # Sidequest: Agree with me!
 # =========================================================================================
 
+
 #TRIGGER: Talk to Artist
 #Note: Player must talk to ARTIST 3 times consecutively to complete the quest
 
+
 #          [[[First conversation:]]]
 message_0:
-      text: \artLook at this sketch for me.\!<br>What do you think?\! The drawing looks too stiff, doesn't it?
+      text: \n<ARTYSTKA>Popatrz tylko na ten szkic.\!<br>Co myślisz?\! Wygląda trochę sztywno, co nie?
 #[Nod (Yes) / Shake (No)]
 # [Nod]
 message_1:
-      text: \artThanks, I thought so too.
+      text: \n<ARTYSTKA>Dzięki, też tak myślałam.
 #[Animation: ARTIST Painting]
 #message_20
 message_2:
-      text: \artAh... that looks so much better.
+      text: \n<ARTYSTKA>Tak... wygląda znacznie lepiej.
 # [Shake]
 message_3:
-      text: \artReally?\! Hmm...\! I don't know...\! It looks a little stiff.
+      text: \n<ARTYSTKA>Serio?\! Hmm...\! No nie wiem...\! według mnie wygląda trochę sztywno.
+
 
 #         [[[Second conversation:]]]
 message_4:
-      text: \artHey, can I poke you for a minute?\!<br>I feel like this piece is missing something.\!<br>Maybe the character needs a little more detail?
+      text: \n<ARTYSTKA>Hej, czy mogę zająć ci chwilkę?\!<br>Mam wrażenie, że czegoś tu brakuje.\!<br>Może postać potrzebuje jeszcze paru szczegółów?
+
 
 message_5:
-      text: \art...\! Oh, I know!\!<br>I can add some detail right here, here, here, and here!\!<br>That would work, wouldn't it?
+      text: \n<ARTYSTKA>...\! O, wiem!\!<br>Dodam kilka detali tu, tu, tu i tu!\!<br>To by załatwiło sprawę, co nie?
 #[Nod (Yes) / Shake (No)]
 # [Nod]
 message_6:
-      text: \artOf course... it's so obvious, don't you think?
+      text: \n<ARTYSTKA>Niewątpliwie... to takie oczywiste, prawda?
 #[Animation: ARTIST Painting]
 #message_20
 message_7:
-      text: \artAh, beautiful.\!<br>The extra detail really does make a difference!
+      text: \n<ARTYSTKA>Przepiękny.\!<br>Te dodatkowe szczegóły naprawdę robią różnice!
 # [Shake]
 message_8:
-      text: \artHmm...\! Are you sure?\!<br>I feel like it could really use a little more detail...
+      text: \n<ARTYSTKA>Hmm...\! Jesteś pewien?\!<br>Mam wrażenie, że przydałoby się dodać trochę więcej szczegółów...
+
 
 #          [[[Third conversation:]]]
 message_9:
-      text: \artHey, could I get your opinion for a sec?\!<br>What do you think about the color here?\!<br>Should I make the background red or blue?
+      text: \n<ARTYSTKA>Hej, mogłabym poprosić o twoją opinię?\!<br>Co sądzisz o tych kolorach?\!<br>Tło powinno być czerwone czy niebieskie?
+
 
 message_10:
-      text: \art...\! Wait, don't answer.\!<br>It would definitely look better with a red background, right?
+      text: \n<ARTYSTKA>...\! Czekaj, nie odpowiadaj.\!<br>Czerwone tło na pewno będzie tu lepiej wyglądać, co nie?
 #[Nod (Yes) / Shake (No)]
 # [Nod]
 message_11:
-      text: \artI completely agree!\!<br>Red is undoubtedly the right choice here.\!<br>Red will bring this painting to the next level!
+      text: \n<ARTYSTKA>Zgadzam się w stu procentach!\!<br>Czerwony jest niewątpliwie lepszym wyborem.\!<br>Trochę czerwieni wzniesie ten obraz na nowy poziom!
 #[Animation: ARTIST Painting]
 #message_20
 message_12:
-      text: \artThe piece is finally done!
+      text: \n<ARTYSTKA>Nareszcie, moje dzieło jest skończone!
 #looks at PLAYER
 message_13:
-      text: \artThanks.\! I couldn't have done this without you.
+      text: \n<ARTYSTKA>Wielkie dzięki!\! Bez ciebie nie dałabym rady.
+
 
 # [Shake]
 message_14:
-      text: \artReally?\! I thought red would work really well...
+      text: \n<ARTYSTKA>Serio?\! Myślałam, że czerwień będzie tu dobrze pasować...
+
+
 
 
 message_19:
-      text: \artYes... it's all coming to me now!\!<br>\sinv[1]\{INSPIRATION HAS STRIKETH!!
+      text: \n<ARTYSTKA>Tak... teraz wszystko rozumiem!\!<br>\sinv[1]\{CZUJĘ, JAK INSPIRACJA MI W ŻYŁACH PULSUJE!!
 #VOILA
 message_20:
-      text: \artAnd...\! \{\SINV[1]VO\{IL\{A!!\SINV[0]\}\}
+      text: \n<ARTYSTKA>I...\! \{\SINV[1]VO\{IL\{A!!\SINV[0]\}\}

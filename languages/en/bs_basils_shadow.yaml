@@ -67,11 +67,11 @@ message_4:
 message_5:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Przez cały ten czas czekała, aż ktoś ją ocali.
+      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Przez cały ten czas czekał, aż ktoś go ocali.
 message_6:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Tamtego dnia...\! Gdy ty stałeś się niczym...\! Rozpadłem się w pół...\! Jak myślisz, co bolało bardziej?
+      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Tamtego dnia...\! gdy ty stałeś się niczym...\! rozpadłem się w pół...\! Jak myślisz, co bolało bardziej?
  
 #===========================================================================================
  
@@ -126,7 +126,7 @@ message_14:
 message_15:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Wtedy...\! Chciałem jakoś uratować to, co nam zostało.\!<br>Ale nawet po tym wszystkim...\! zostawiłeś mnie, \n[8]...
+      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Wtedy...\! chciałem jakoś uratować to, co nam zostało.\!<br>Ale nawet po tym wszystkim...\! zostawiłeś mnie, \n[8]...
  
 message_16:
       faceset: MainCharacter_Basil
@@ -136,7 +136,7 @@ message_16:
 message_17:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Nawet widząc cię teraz...\! Tak ciężko jest mi myśleć.\! Czuję ból w sercu, tak bardzo chcę zasłonić twarz i się ukryć.
+      text: \n<NIEZNAJOMY>\fn<OMORI_GAME>Nawet widząc cię teraz...\! tak ciężko jest mi myśleć.\! Czuję ból w sercu, tak bardzo chcę zasłonić twarz i się ukryć.
  
 message_67:
       faceset: MainCharacter_Basil

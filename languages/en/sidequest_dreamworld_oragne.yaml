@@ -1,141 +1,184 @@
 
+
 # =========================================================================================
 # Long Lost Brother
 # ========================================================================================
 
+
 #Talk to Orange Joe:
 
+
 message_0:
-      text: ORANGE JOE is throwing oranges.
+      text: POMARAŃCZOWY JAŚ rzuca pomarańczami.
+
 
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 28 #needs appropriate faceset
-      text: \kelHey...\! uh...\! what are you doing?
+      text: \kelHej...\! yyy...\! Co robisz?
+
 
 message_2:
-      text: \n<ORANGE JOE>My name is ORANGE JOE and I'm throwin' ORANGES!
+      text: \n<POMARAŃCZOWY JAŚ>Nazywam się POMARAŃCZOWY JAŚ i rzucam POMARAŃCZAMI!
+
 
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 18 #needs appropriate faceset
-      text: \kelWhoa! So cool!
+      text: \kelWow! Fajowo!
+
 
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 28 #needs appropriate faceset
-      text: \kelBut why?
+      text: \kelAle po co?
+
 
 message_5:
-      text: \n<ORANGE JOE>Because...\! I'm...\! sniff...\!<br>Looking for my long-lost twin brother...\! ORAGNE JOE...
+      text: \n<POMARAŃCZOWY JAŚ>Ponieważ...\! ja...\! chlip...\!<br>poszukuję mojego od dawna zaginionego brata bliźniaka...\! PORAMAŃCZOWEGO JASIA...
+
 
 message_6:
-      text: \n<ORANGE JOE>We were separated at birth, but in my citrusy heart <br>I know that he is still out there somewhere.
+      text: \n<POMARAŃCZOWY JAŚ>Jesteśmy rozdzieleni od narodzin, ale w mym cytrusowym sercu mam nadzieję, że gdzieś tam na mnie czeka.
+
 
 message_7:
-      text: \n<ORANGE JOE>Each orange is inscribed with a message explaining who I am and how to find me...
+      text: \n<POMARAŃCZOWY JAŚ>Każda z tych pomarańczy trzyma w sobie wiadomość o tym, kim jestem i gdzie mnie znaleźć...
+
 
 message_8:
-      text: \n<ORANGE JOE>I am hoping that by throwing these in all directions <br>one of them will reach him and lead him back to me!
+      text: \n<POMARAŃCZOWY JAŚ>Wierzę, że poprzez rzucanie nimi w każdym kierunku jedna z nich go dosięgnie i przyprowadzi do mnie!
+
 
 message_9:
       faceset: MainCharacters_DreamWorld
       faceindex: 1 #needs appropriate faceset
-      text: \aubAwww...\! That's so sweet.\!<br>I hope you find your brother eventually...
+      text: \aubOooo...\! To takie urocze.\!<br>Mam nadzieję, że w końcu odnajdziesz brata...
+
 
 message_10:
-      text: \n<ORANGE JOE>Thank you, young lady!\! I know I will!\! <br>My body is healthy and full of hope and vigor!
+      text: \n<POMARAŃCZOWY JAŚ>Dziękuję, panienko!\! Wiem, że mi się uda!\! <br>Moje ciało jest zdrowe, pełne nadziei i wigoru!
+
 
 message_11:
-      text: \n<ORANGE JOE>But...\! just in case...\! If you do happen to see my twin, <br>please give him this \c[4]ORANGE CREST\c[0].\! <br>I know it will lead me to him somehow.
+      text: \n<POMARAŃCZOWY JAŚ>Ale...\! w razie czego...\! Jeśli zdarzy wam się go zobaczyć, proszę dajcie mu ten \c[4]HERB POMARAŃCZOWÓW\c[0].\! <br>Jestem pewien, że jakoś mnie do niego zaprowadzi.
+
 
 message_12:
-      text: You got an \c[4]ORANGE CREST\c[0].
+      text: Zdobyłeś \c[4]HERB POMARAŃCZOWÓW\c[0].
+
 
 message_13:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelFear not, my dear friend ORANGE JOE.\! We'll find your brother for sure!
+      text: \kelNie lękaj się, mój drogi POMARAŃCZOWY JASIU.\! Jestem pewien, że znajdziemy twojego brata!
+
 
 #Cutscene: Found at Last!
 
+
 message_14:
-      text: \whoEh?\! Where am I?\! Who are you?
+      text: \whoEch?\! Gdzie ja jestem?\! Kim jesteście?
+
 
 message_15:
       faceset: MainCharacters_DreamWorld
       faceindex: 19 #needs appropriate faceset
-      text: \kelWait a second...\! You look kind of familiar.\!<br>That body shape...\! That citrusy exterior...\! It's undeniable!
+      text: \kelMomencik...\! Wyglądasz znajomo.\!<br>Ten kształt ciała...\! Ta cytrusowa woń...\! To na pewno on!
+
 
 message_16:
       faceset: MainCharacters_DreamWorld
       faceindex: 18 #needs appropriate faceset
-      text: \kelYou must be ORANGE JOE's twin brother...\! ORAGNE JOE!
+      text: \kelMusisz być bratem bliźniakiem POMARAŃCZOWEGO JASIA...\! PORAMAŃCZOWYM JASIEM!
+
 
 message_17:
-      text: \n<ORAGNE JOE>My name...\! is ORAGNE JOE?\! And...\! I have a twin brother?
+      text: \n<PORAMAŃCZOWY JAŚ>Moje imię...\! to PORAMAŃCZOWY JAŚ?\! Mam brata bliźniaka?
+
 
 message_18:
       faceset: MainCharacters_DreamWorld
       faceindex: 18 #needs appropriate faceset
-      text: \kelYeah, and he's been looking for you all this time!\!<br>Here, take this! He told us to give it to you!
+      text: \kelTak, szuka ciebie od wieków!\!<br>Masz, weź to! Kazał nam ci to dać!
+
 
 message_19:
-      text: You gave ORAGNE JOE the \c[4]ORANGE CREST\c[0].
+      text: Dałeś \c[4]HERB POMARAŃCZOWÓW\c[0] PORAMAŃCZOWEMU JASIOWI.
+
 
 message_20:
-      text: \n<ORAGNE JOE>This...\! This crest!\! Could it be?\! <br>Ever since I was young, I have looked everywhere for my true home...
+      text: \n<PORAMAŃCZOWY JAŚ>Ten...\! Ten herb!\! Czy to możliwe?\! <br>Odkąd byłem mały, poszukiwałem mojego prawdziwego domu...
+
 
 message_21:
-      text: \n<ORAGNE JOE>The only thing I've had to my name was this pendant with an orange-shaped crest engraved on it...
+      text: \n<PORAMAŃCZOWY JAŚ>Jedyne co dotąd miałem, to ten wisiorek z wygrawerowanym herbem w kształcie pomarańczy...
+
 
 message_22:
-      text: \n<ORAGNE JOE>The same one that appears on this \c[4]ORANGE CREST\c[0]!
+      text: \n<PORAMAŃCZOWY JAŚ>Dokładnie taki sam jak ten na tym \c[4]HERBIE POMARAŃCZOWÓW\c[0]!
+
 
 message_23:
-      text: \n<ORAGNE JOE>It all makes so much sense now...\! <br>I know who I am!\! I must be...\!<br>ORAGNE JOE!
+      text: \n<PORAMAŃCZOWY JAŚ>Teraz wszystko ma sens...\! <br>Wiem, kim jestem!\! Jestem...\!<br>PORAMAŃCZOWYM JASIEM!
+
 
 #ORANGE JOE walks in.
 
+
 message_24:
-      text: \n<ORANGE JOE>\Com[2]Brother!\! I don't believe my eyes!\! It really is you!
+      text: \n<POMARAŃCZOWY JAŚ>\Com[2]Bracie!\! Nie wierzę!\! To naprawdę ty!
+
 
 message_25:
-      text: \n<ORAGNE JOE>Yes, brother!\! It is me...\! ORAGNE JOE!
+      text: \n<PORAMAŃCZOWY JAŚ>Tak, bracie!\! To ja...\! PORAMAŃCZOWY JAŚ!
+
 
 message_26:
-      text: \n<ORANGE JOE>There is no mistake!\! I can feel it in my citrusy heart.\!<br>Oh how I've missed you, dear brother!
+      text: \n<POMARAŃCZOWY JAŚ>To nie pomyłka!\! Czuję to w moim cytrusowym sercu.\!<br>Och, tak bardzo za tobą tęskniłem, mój drogi bracie!
+
 
 message_27:
-      text: \n<ORAGNE JOE>Yes!\! My body is full of hope and vigor!\!<br>How I've waited for this day!\!<br>We meet at last, dear brother!
+      text: \n<PORAMAŃCZOWY JAŚ>Tak!\! Moje ciało przepełnia nadzieja i wigor!\!<br>Jak ja długo czekałem na ten dzień!\!<br>W końcu się spotkaliśmy, mój kochany bracie!
+
 
 message_28:
-      text: \n<ORANGE JOE>Let us embrace!
+      text: \n<POMARAŃCZOWY JAŚ>Obejmijmy się!
+
 
 #ORANGE JOE AND ORAGNE JOE hug?
 
+
 message_29:
-      text: \n<ORANGE JOE>I must thank you, children...\! I have thought about my dear brother for every day of my life, and now he is finally here!
+      text: \n<PORAMAŃCZOWY JAŚ>Muszę wam podziękować, dzieci...\! Myślałem o moim bracie każdego dnia mojego życia i w końcu tu jest!
+
 
 message_30:
-      text: \n<ORANGE JOE>Please take this as a token of my appreciation.
+      text: \n<POMARAŃCZOWY JAŚ>Proszę weźcie to w ramach mojej wdzięczności.
+
 
 message_31:
-      text: You got \c[3]LIFE JAM\c[0]!
+      text: Zdobyłeś \c[3]DŻEMO ŻYCIA\c[0]!
+
 
 message_32:
-      text: \n<ORAGNE JOE>Yes!\! Thank you for reuniting us...\!<br>I have waited so long to find my one true home!\! <br>Take this!\! It is a gift from me!
+      text: \n<PORAMAŃCZOWY JAŚ>Tak!\! Dziękuję, że nas zjednoczyliście...\!<br>Czekałem tak długo, aby w końcu znaleźć mój prawdziwy dom!\! <br>Weźcie to!\! Prezent ode mnie!
+
 
 message_33:
-      text: You got another \c[3]LIFE JAM\c[0]!
+      text: Zdobyłeś kolejne \c[3]DŻEMO ŻYCIA\c[0]!
+
 
 message_34:
-      text: \n<ORANGE JOE>Come now, dear brother! Let us go home!
+      text: \n<POMARAŃCZOWY JAŚ>Chodźmy, drogi bracie! Chodźmy do domu!
+
 
 message_35:
-      text: \n<ORAGNE JOE>You are too gracious, dear brother!\!<br>In celebration of this meeting, let us walk together!
+      text: \n<PORAMAŃCZOWY JAŚ>Jesteś zbyt łaskawy, kochany bracie!\!<br>Z okazji tego spotkania pójdziemy tam razem!
+
 
 message_36:
-      text: \n<ORANGE JOE and ORAGNE JOE>\sinv[1]Hope and vigor!\! Hope and vigor!\! Hope and vigor!
+      text: \n<POMARAŃCZOWY JAŚ I PORAMAŃCZOWY JAŚ>\sinv[1]Nadzieja i wigor!\! Nadzieja i wigor!\! Nadzieja i wigor!
+
 
 #ORANGE JOE AND ORAGNE JOE walk off

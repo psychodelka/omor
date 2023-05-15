@@ -2,90 +2,119 @@
 # Coffee Machine
 # ========================================================================================
 
+
 message_1:
-    text: \tvg\quake[1]PWW\{\Com[2]WWWAH\{\Com[2]HH\{HH!
+    text: \n<TELELALA>\quake[1]PFU\{\Com[2]UUU\{\Com[2]UU\{UU!
+
 
 message_2:
-    text: \tvgGeez! Give me a warning at least, will ya?\!<br>I don't get visitors very often, y'know!
+    text: \n<TELELALA>Matko! Następnym razem dajcie jakieś ostrzenie, dobra?\!<br>Nieczęsto mam gości.
+
 
 message_3:
-    text: \tvgOh, hey! While you're here, could ya be a real pal and help me get the stuff that's on this list?
+    text: \n<TELELALA>O, hej! Skoro już tutaj jesteście, moglibyście, jako prawdziwi ziomale, przynieść mi wszystko z tej listy?
+
 
 message_4:
-    text: \tvgDid ya get all that?
+    text: \n<TELELALA>Zrozumiano?
+
 
 message_5:
-    text: \tvgEverything ya need to find should be in the \c[11]JUNKYARD\c[0].\!<br>Thanks, buddy! I owe ya one.
+    text: \n<TELELALA>Wszystko, czego szukacie powinno być gdzieś w \c[11]ŚMIECIOGRÓDKU\c[0].\!<br>Dzięki, ziomki! Mam u was dług.
+
 
 message_6:
-    text: \tvgHuh?\! What do ya mean it was too fast for ya to read?
+    text: \n<TELELALA>Hę?\! Jak to nie zdążyliście wszystkiego przeczytać?
+
 
 message_7:
-    text: \tvgUgh... fine.\! <br>Here's a list ya can look at for as long as ya want to.
+    text: \n<TELELALA>Ech... No dobra.\! <br>Trzymajcie listę, na którą możecie patrzeć ile wam się żywnie podoba.
+
 
 message_8:
-    text: \tvgGot it down this time?\! I expect I'll be seeing ya again soon.
+    text: \n<TELELALA>Teraz zapamiętaliście?\! Mam nadzieję, że za niedługo was tu zobaczę.
+
 
 # TVGIRL - DEFAULT
 
+
 message_10:
-    text: TVGIRL is too entranced by her dramas to pay any attention to you.
+    text: TELELALA jest zbyt zafascynowana swoimi dramatami, aby zwrócić na ciebie uwagę.
+
 
 # TVGIRL - QUEST COMPLETE
 
+
 message_20:
-    text: \tvgOh sweet, ya found everything on my list!\!<br>I should ask random people for favors more often.
+    text: \n<TELELALA>Wspaniale, znaleźliście wszystkie rzeczy z listy!\!<br>Powinnam pytać losowe osoby o pomoc częściej.
+
 
 message_21:
-    text: \tvg\sinv[1]Du...\| dudududu...\| Du!\| Du... du!\sinv[0]
+    text: \n<TELELALA>\sinv[1]Du...\| dudududu...\| Du!\| Du... du!\sinv[0]
+
 
 message_22:
-    text: \tvg\sinv[1]Du...\| dudududu... du... du!\| Dudu...\| du...\| dududududu...\sinv[0]
+    text: \n<TELELALA>\sinv[1]Du...\| dudududu... du... du!\| Dudu...\| du...\| dududududu...\sinv[0]
+
 
 message_23:
-    text: \tvgAnd...\! \{\SINV[1]VO\{IL\{A!!\SINV[0]\}\}
+    text: \n<TELELALA>I...\! \{\SINV[1]VO\{IL\{A!!\SINV[0]\}\}
+
 
 message_24:
-    text: \tvg\sinv[1]Ahhh... That hits the spot!\sinv[0]
+    text: \n<TELELALA>\sinv[1]Ach... I o to chodziło!\sinv[0]
+
 
 message_25:
-    text: \tvgMy old COFFEE MACHINE broke like forever ago, but I've been too busy to gather the missing parts.
+    text: \n<TELELALA>Mój stary EKSPRES DO KAWY zepsuł się już wieki temu, ale byłam zbyt zajęta, aby znaleźć potrzebne części.
+
 
 message_26:
-    text: \tvgNow that this new one is all fixed up, I don't have to drink that gross instant coffee crap anymore.
+    text: \n<TELELALA>Teraz, skoro jest już naprawiona, nie muszę już pić tej ohydnej rozpuszczalnej.
 #maybe crap instead of stuff? lol
 message_27:
-    text: \tvgHere's a little somethin' for helping me out.
+    text: \n<TELELALA>Trzymajcie coś za waszą pomoc.
+
 
 message_28:
-    text: You got \c[5]DYNAMITE\c[0].\!<br>This actually looks kind of dangerous...
+    text: Zdobyłeś \c[5]DYNAMIT\c[0].\!<br>Wygląda trochę niebezpiecznie...
+
 
 message_37:
-    text: \tvgNow, if y'all will excuse me, I have some important business to attend to.
+    text: \n<TELELALA>A teraz, jeśli mi wybaczycie, mam kilka ważnych spraw do załatwienia.
+
 
 message_29:
-    text: \n<COFFEE MACHINE>Y-Y-Y-You are now brewing \c[3]COFFEE\c[0]!\!<br>It will be ready after this commercial break!
+    text: \n<EKSPRES DO KAWY>Z-z-zaczęto parzenie \c[3]KAWY\c[0]!\!<br>Będzie gotowa po krótkiej reklamie!
+
 
 message_30:
-    text: \n<COFFEE MACHINE>\Com[2]\{\Sinv[1]C-C-C-CONGRATULATIONS!!\!\Sinv[1]\}<br>Your \c[3]COFFEE\c[0] is ready!
+    text: \n<EKSPRES DO KAWY>\Com[2]\{\Sinv[1]G-G-GRATULACJE!!\!\Sinv[1]\}<br>Twoja \c[3]KAWA\c[0] jest gotowa!
+
 
 message_31:
-    text: \n<COFFEE MACHINE>D-D-D-Do you want your \c[3]COFFEE\c[0] now?
+    text: \n<EKSPRES DO KAWY>Cz-cz-czy chciałbyś otrzymać swoją \c[3]KAWĘ\c[0]?
+
 
 message_32:
-    text: A voice came out of the COFFEE MACHINE.
+    text: Z EKSPRESU DO KAWY wydobywa się głos.
+
 
 message_33:
-    text: \n<COFFEE MACHINE>H-H-H-Here's a \c[3]COFFEE\c[0], on the house...
+    text: \n<EKSPRES DO KAWY>O-o-oto twoja \c[3]KAWA\c[0], na koszt firmy...
+
 
 message_34:
-    text: A brand new COFFEE MACHINE.
+    text: Nowiutki EKSPRES DO KAWY.
+
 
 message_35:
-    text: A broken COFFEE MACHINE.
+    text: Zepsuty EKSPRES DO KAWY.
+
 
 message_36:
-    text: You got some \c[3]COFFEE\c[0].
+    text: Zdobyłeś kapkę \c[3]KAWY\c[0].
+
 
 message_38:
-    text: You got a \c[4]STRANGE LIST\c[0].
+    text: Zdobyłeś \c[4]DZIWNĄ LISTĘ\c[0].

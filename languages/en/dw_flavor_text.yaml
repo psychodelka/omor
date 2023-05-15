@@ -798,7 +798,7 @@ message_252:
 
 
 message_253:
-      text: Portret KAPITANA KOSMIKA.\!<br>\c[3]SOK  OWOCOWY\c[0] ubrudził znaczną jego część.
+      text: Portret KAPITANA KOSMIKA.\!<br>\c[3]SOK OWOCOWY\c[0] ubrudził znaczną jego część.
 
 
 #============================
@@ -1331,7 +1331,7 @@ message_521:
 
 
 message_530:
-      text: \n<REKLAMA>\}TERAZ MOŻESZ WYHODOWAĆ CAŁĄ KOLEKCJĘ FRAJDY...\| KRÓLICZKI, PSZCZÓŁKI, MISIE...\| KOCHAM MOJEGO NOWEGO PUPILA! MOGĘ ZABRAĆ GO WSZĘDZIE...\| DZIEL SIĘ W TRAKCIE ZABAWY...\| ŚCISKAJ, ŚCISKAJ, ŚCISKAJ...\| SKORO IM SIĘ PODOBA, TO MI TEŻ...
+      text: \n<REKLAMA>\}TERAZ MOŻESZ WYHODOWAĆ CAŁĄ KOLEKCJĘ FRAJDY...\| KRÓLICZKI, PSZCZÓŁKI, MISIE...\| KOCHAM MOJEGO NOWEGO PUPILA! MOGĘ ZABRAĆ GO WSZĘDZIE...\| DZIEL SIĘ W TRAKCIE ZABAWY...\| ŚCISKAJ, ŚCISKAJ, ŚCISKAJ...\| WSZYSCY JE KOCHAJĄ...
 
 
 message_531:
@@ -1339,7 +1339,7 @@ message_531:
 
 
 message_532:
-      text: \n<REKLAMA>\}Z SAMYCH NATURALNYCH SKŁADNIKÓW...\| WYSTARCZY ZASTOSOWAĆ ZGODNIE Z INSTRUKCJĄ...\| ZOBACZ ZDJĘCIA PRZED I PO...\| MOJE MIĘŚNIE SĄ WNIEBOWZIĘTE...\| PRZESTAŃ KORZYSTAĆ Z PRODUKTÓW, KTÓRE NIE DZIAŁAJĄ...\| KOCHAM MOJE NOWE ŻYCIE...
+      text: \n<REKLAMA>\}Z SAMYCH NATURALNYCH SKŁADNIKÓW...\| WYSTARCZY ZASTOSOWAĆ ZGODNIE Z INSTRUKCJĄ...\| ZOBACZ ZDJĘCIA PRZED I PO...\| MOJE MIĘŚNIE SĄ WNIEBOWZIĘTE...<br>PRZESTAŃ KORZYSTAĆ Z PRODUKTÓW, KTÓRE NIE DZIAŁAJĄ...\| KOCHAM MOJE NOWE ŻYCIE...
 
 
 message_533:
@@ -1400,15 +1400,15 @@ message_553:
 
 
 message_554:
-      text: Teleskop...<br>\!Ale obiektyw zaklejony jest taśmą.
+      text: Teleskop...<br>\!ale obiektyw zaklejony jest taśmą.
 
 
 message_555:
-      text: Toaletka...<br>\!Ale lustro sprawia, że wyglądasz wyjątkowo nieatrakcyjnie.
+      text: Toaletka...<br>\!ale lustro sprawia, że wyglądasz wyjątkowo nieatrakcyjnie.
 
 
 message_556:
-      text: Kilka książek...<br>\!Ale wszystkie strony są sklejone.
+      text: Kilka książek...<br>\!ale wszystkie strony są sklejone.
 
 
 message_557:
@@ -1416,7 +1416,7 @@ message_557:
 
 
 message_58:
-      text: Piękny obraz przedstawiający gwiazdy...<br>\!Ale śmierdzi topiącym się plastikiem.
+      text: Piękny obraz przedstawiający gwiazdy...<br>\!ale śmierdzi topiącym się plastikiem.
 
 
 message_59:
@@ -1600,7 +1600,7 @@ message_690:
 
 #clams
 message_691:
-      text: Znajdujesz 1 MAŁŻĘ!
+      text: Znajdujesz 1 MAŁŻA!
 
 
 message_700:
@@ -1690,7 +1690,7 @@ message_826:
 
 
 message_830:
-      text: Pełno ryb, Dale tylko ości.
+      text: Pełno ryb, dalej tylko ości.
 
 
 message_831:
@@ -1859,7 +1859,7 @@ message_915:
 
 
 message_916:
-      text: \"SŁODZIARTNICA\"
+      text: \"SŁODZIARNIKA"
 
 
 message_917:

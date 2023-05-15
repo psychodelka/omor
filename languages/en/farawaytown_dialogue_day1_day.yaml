@@ -122,7 +122,7 @@ message_61:
 
 
 message_70:
-      text: \n<DZIWAK>Wszystkie te pojemniki mogą być poddawane recyklingowi i być wykorzystane do produkcji nowych pojemników w kółko, i w kółko...\!<br>Strasznie czarująca idea, nie sądzicie?
+      text: \n<DZIWAK>Wszystkie te pojemniki mogą być poddawane recyklingowi i być wykorzystywane do produkcji nowych pojemników w kółko i w kółko...<br>Strasznie czarująca idea, nie sądzicie?
 
 
 #===============SCHOOL PRINCIPAL=====================
@@ -182,7 +182,7 @@ message_110:
 
 
 message_111:
-      text: \n<PRAWDZIWY POLAK>\Com[2]Przecież bramka była pusta!\!\Com[2]Co to miało być za podanie!?
+      text: \n<PRAWDZIWY POLAK>\Com[2]Przecież bramka była pusta!\!\Com[2] Co to miało być za podanie?!
 
 
 #===============CRIS'S MOM=====================
@@ -280,13 +280,13 @@ message_170:
 message_171:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelO kurcze! Nie spodziewałem się ciebie, KUBA!
+      text: \kelO kurcze! Nie spodziewałem się ciebie tutaj, JAY!
 
 
 message_172:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kel\n[8], to jest KUBA, KUBA, to jest \n[8]. KUBA jest kapitanem drużyny futbolowej w naszej szkole!\! Nie wiedziałem, że też grasz w kosza!
+      text: \kel\n[8], to jest JAY, JAY, to jest \n[8]. JAY jest kapitanem drużyny futbolowej w naszej szkole!\! Nie wiedziałem, że też grasz w kosza!
 message_173:
       text: \n<OSIŁEK>Echh...\! Uff...\! To tylko dla zabicia czasu.\! To zwykłe hobby, nic takiego.
 
@@ -442,7 +442,7 @@ message_253:
 
 
 message_254:
-      text: \SINV[2]CIACH, \{CIACH, CIACH, \{CIACH, CIACH, \{CIACH!!
+      text: \SINV[2]CIACH, \{CIACH, CIACH, \{CIACH, \{CIACH!!
 
 
 #===============LUCAS (DOG) =====================
@@ -528,11 +528,11 @@ message_310:
 
 
 message_311:
-      text: \n<RECYKULTYSTA>Wszyscy naśmieciliśmy, tak więc musimy przyznać, że sami jesteśmy  \c[4]ŚMIECIAMI\c[0]!
+      text: \n<RECYKULTYSTA>Wszyscy naśmieciliśmy, tak więc musimy przyznać, że sami jesteśmy \c[4]ŚMIECIAMI\c[0]!
 
 
 message_312:
-      text: \n<RECYKULTYSTA>\Com[2]\{UNIKAJMY PLASTIKU, UŻYWAJMY PONOWNIE I UTYLIZUJMY!!
+      text: \n<RECYKULTYSTA>\Com[2]\{UNIKAJMY PLASTIKU, UŻYWAJMY<br>\Com[2]\{PONOWNIE I UTYLIZUJMY!!
 
 
 

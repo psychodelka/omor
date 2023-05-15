@@ -170,7 +170,7 @@ message_62:
 message_80:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Ech...\! Jak niby mamy cokolwiek znaleźć w tej kupie śmieci!?\!<br>To jak szukanie igły w stogu siana!\aub
+      text: Ech...\! Jak niby mamy cokolwiek znaleźć w tej kupie śmieci?!\!<br>To jak szukanie igły w stogu siana!\aub
  
 message_81:
       faceset: MainCharacters_DreamWorld
@@ -264,7 +264,7 @@ message_121:
 message_122:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: Co z nią nie tak?\!<br>\{\Sinv[1]\Com[2]RÓŻO, SŁYSZYSZ NAS!?\kel\}\sinv[0]
+      text: Co z nią nie tak?\!<br>\{\Sinv[1]\Com[2]RÓŻO, SŁYSZYSZ NAS?!\kel\}\sinv[0]
  
 message_123:
       faceset: MainCharacters_DreamWorld
@@ -285,7 +285,7 @@ message_140:
 message_141:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Kogo to obchodzi!? Musimy zgarnąć \c[4]SUPER-SKŁADANKĘ\c[0]!\kel
+      text: Kogo to obchodzi?! Musimy zgarnąć \c[4]SUPER-SKŁADANKĘ\c[0]!\kel
  
 #OMORI walks to ROSA.
  
@@ -327,7 +327,7 @@ message_149:
 message_150:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: KOSMOCHŁOPAK z własnej woli wyrzucił \c[4]SUPER-SKŁADANKĘ\c[0]!?\!<br>Ojoj...\! Niedobrze.\her
+      text: KOSMOCHŁOPAK z własnej woli wyrzucił \c[4]SUPER-SKŁADANKĘ\c[0]?!\!<br>Ojoj...\! Niedobrze.\her
  
 message_151:
       faceset: MainCharacters_DreamWorld
@@ -377,7 +377,7 @@ message_159:
 message_170:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \com[2]Ałć! Co do-!\! Za co!?\kel
+      text: \com[2]Auć! Co do...!\! Za co?!\kel
  
 #KEL exclamation then idea
  
