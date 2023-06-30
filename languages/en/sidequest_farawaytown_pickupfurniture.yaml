@@ -1,78 +1,104 @@
 
+
 # =========================================================================================
 # Sidequest: Pick up Furniture
 # =========================================================================================
 
-#Talk to FASHIONABLE MOM
+
+#Talk to MAMA MODNA
 message_1:
-      text: \n<FASHIONABLE MOM>I had my son go to the \c[11]FIX-IT\c[0] to buy a new lamp for my living room, but he's taking his sweet time...
+      text: \n<MAMA MODNA>Prosiłam syna, żeby poszedł do \c[11]SPECA\c[0] kupić nową lampę do salonu, ale na razie idzie mu to jak po grudzie...
+
 
 message_2:
-      text: \n<FASHIONABLE MOM>\Com[2]Bah!\! He's always so slow with these things!\!<br>I wish someone would tell him to hurry up...<br>\!I don't have all day!
+      text: \n<MAMA MODNA>\Com[2]Ba!\! Jak trzeba coś załatwić, to zawsze rusza się jak mucha w smole!\!<br>Ktoś powinien go pospieszyć...<br>\!Nie mam przecież całego dnia!
 
-#Talk to STRANGE MAN / Cutscene: STRANGE MAN Leaves
+
+#Talk to DZIWAK / Cutscene: DZIWAK Leaves
+
 
 message_3:
-      text: \n<STRANGE MAN>Hmm...\! Which \c[4]FLOOR LAMP\c[0] should I get?\!<br>The pink one?\! The blue one?\! The plain one?\! The fancy one?\!<br>...
+      text: \n<DZIWAK>Hmm...\! Którą \c[4]LAMPĘ\c[0] wybrać?\!<br>Różową?\! Niebieską?\! Prostą?\! Elegancką?\!<br>...
+
 
 message_4:
-      text: \n<STRANGE MAN>Why does this even matter?\!<br>It all looks like \c[4]TRASH\c[0] to me anyway...
+      text: \n<DZIWAK>Jakie to ma znaczenie?\!<br>Wszystkie nadają się do \c[4]ŚMIECI\c[0]...
+
 
 message_5:
-      text: \n<STRANGE MAN>Ugh...\! I hate decisions...\! I think I'm gonna throw up...
+      text: \n<DZIWAK>Uch...\! Nienawidzę wyborów...\! Chyba puszczę pawia...
+
 
 message_6:
-      text: \n<STRANGE MAN>\Com[2]Eh!?\! Who are you?\! W-What do you want!?\!<br>Oh...\! Is my mom asking for me?
+      text: \n<DZIWAK>\Com[2]E?!\! Kim jesteście?\! C-co chcecie?!\!<br>O...\! Moja mama o mnie pytała?
+
 
 message_7:
-      text: \n<STRANGE MAN>\Com[2]Tell her to wait!\!<br>I'm the one going out all this way to pick up this \c[4]FLOOR LAMP\c[0] that I don't even care about.
+      text: \n<DZIWAK>\Com[2]Powiedzcie jej, żeby poczekała!\!<br>To nie ona przyszła ten szmat drogi, tylko żeby kupić \c[4]LAMPĘ PODŁOGOWĄ\c[0], którą mam w nosie.
+
 
 message_8:
-      text: \n<STRANGE MAN>Besides...\! she's so picky!\!<br>I don't know why she doesn't just do it herself...
+      text: \n<DZIWAK>Poza tym...\! ona jest taka wybredna!\!<br>Czemu sama tu nie przyjdzie...
+
 
 message_9:
-      text: \n<STRANGE MAN>Grr...\! What a trashy situation...\!<br>These \c[4]FLOOR LAMPS\c[0] are \c[4]TRASH\c[0]!\! \Com[2]You're \c[4]TRASH\c[0]!
+      text: \n<DZIWAK>Grr...\! Ale słaba sytuacja...\!<br>Te \c[4]LAMPY\c[0] to \c[4]ŚMIECI\c[0]!\! \Com[2]Wy też to \c[4]ŚMIECI\c[0]!
+
 
 message_10:
-      text: \n<STRANGE MAN>Heh...\! Yes...\! It all makes sense to me now...\!<br>This world...\! \quake[1]This world is nothing but \c[4]TRASH\c[0]!\quake[0]
+      text: \n<DZIWAK>He...\! Tak...\! Nagle to wszystko ma sens...\!<br>Ten świat...\! \quake[1]Cały ten świat to nic innego jak zbiorowisko \c[4]ŚMIECI\c[0]!\quake[0]
+
 
 message_11:
-      text: \n<STRANGE MAN>Hey, you...\! If my mom wants her lamp so bad, why don't you get it for her!?
+      text: \n<DZIWAK>Ej, wy...\! Jak moja mama tak bardzo chce mieć tą lampę, to czemu nie kupicie jej za mnie?!
+
 
 message_12:
-      text: \n<STRANGE MAN>\Com[2]\{I'VE GOT BETTER THINGS TO DO!!
+      text: \n<DZIWAK>\Com[2]\{MAM LEPSZE RZECZY DO ROBOTY!!
+
 
 message_30:
-      text: You got $50.00 from the STRANGE MAN.
+      text: Otrzymałeś 50 $ od DZIWAKA.
+
 
 message_31:
-      text: This $50.00 is meant for a \c[4]FLOOR LAMP\c[0]...
+      text: Te 50 $ jest przeznaczone na \c[4]LAMPĘ PODŁOGOWĄ\c[0]...
+
 
 message_32:
-      text: \n<FIX-IT GUY>Hmm...\! so you want to buy a \c[4]FLOOR LAMP\c[0]?\! It's going to be $50.00.\! You still want it?
+      text: \n<SPEC>Hmm...\! Więc chcecie kupić \c[4]LAMPĘ PODŁOGOWĄ\c[0]?\! To będzie 50 $.\! Nadal jesteście przekonani?
+
 
 message_33:
-      text: \n<FIX-IT GUY>Thanks for the business, bud.
+      text: \n<SPEC>Interesy z wami to czysta przyjemność, ziomki.
 
-#Talk to FASHIONABLE MOM
+
+#Talk to MAMA MODNA
+
 
 message_13:
-      text: Give FASHIONABLE MOM the \c[4]FLOOR LAMP\c[0]?
+      text: Dać MAMIE MODNEJ \c[4]LAMPĘ PODŁOGOWĄ\c[0]?
+
 
 message_14:
-      text: \n<FASHIONABLE MOM>Oh my, what a nice \c[4]FLOOR LAMP\c[0]!\!<br>Thank you! You have impeccable taste!
+      text: \n<MAMA MODNA>Ojej, ale ładna \c[4]LAMPA\c[0]!\!<br>Stokrotne dzięki! Macie wyśmienity gust!
+
 
 message_15:
-      text: \n<FASHIONABLE MOM>Hmm...\! but where is my son BILLY?\!<br>Did he go on one of his tantrums and run off again?
+      text: \n<MAMA MODNA>Hmm...\! ale gdzie jest mój syn, BILLY?\!<br>Znowu wpadł w furię i gdzieś uciekł?
+
 
 message_16:
-      text: \n<FASHIONABLE MOM>Sigh...\! He's so temperamental...\!<br>I wish he wouldn't make such a big deal out of everything all the time.
+      text: \n<MAMA MODNA>Ech...\! Jest taki wybuchowy...\!<br>Chciałabym, żeby w końcu przestał ciągle robić z igły widły.
+
 
 message_17:
-      text: \n<FASHIONABLE MOM>Anyway, you're very thoughtful for getting this lamp for me.\! Please come over any time!\! I make a mean cup of \c[5]COFFEE\c[0]!
+      text: \n<MAMA MODNA>W każdym razie dziękuję, że zatroszczyliście o tą lampę.\! Wpadajcie do mnie, kiedy tylko chcecie!\! Robię świetną \c[5]KAWĘ\c[0]!
+
 
 message_18:
-      text: You got a \c[4]FLOOR LAMP\c[0]!
+      text: Otrzymałeś \c[4]LAMPĘ PODŁOGOWĄ\c[0]!
+
 
 message_50:
-      text: A coffee machine.
+      text: Ekspres do kawy.

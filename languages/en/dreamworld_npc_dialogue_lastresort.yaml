@@ -69,38 +69,38 @@ message_9:
 message_10:
       text: \n<WILK>Szczerze mówiąc, nie mam nic przeciwko temu miejscu.\!<br>Nie jest źle jak na darmówkę...\! nawet jeśli brodzik za oknem jest nawiedzony.
  
-#ELEONORA
+#ANIA
 #Location: MUSTARD SUBMERSIBLE
 message_11:
-      text: \n<SARA>Cześć, Jestem SARA...\! Ja i moje siostry założyłyśmy tę kawiarnię wspólnie...\! Ale odkąd krucho u nas z MAŁŻAMI, postanowiły zatrudnić się w \c[11]OSTATNIEJ PRZYSTANI\c[0].
+      text: \n<BAŚKA>Cześć, jestem BAŚKA...\! Razem z siostrami wspólnie założyłyśmy tę kawiarnię...\! le odkąd krucho u nas z MAŁŻAMI, postanowiły zatrudnić się w \c[11]OSTATNIEJ PRZYSTANI\c[0].
  
 message_12:
-      text: \n<SARA>Pozostałam tylko ja i ELEONORA...
+      text: \n<BAŚKA>Pozostałam tylko ja i ANIA...
  
 message_13:
-      text: \n<SARA>\sinv[1]Ech...\sinv[0]\! Chciałabym, żeby wróciły tu do mnie.\!<br>Dałabym wszystko, żeby znów usłyszeć ich śpiew!
+      text: \n<BAŚKA>\sinv[1]Ech...\sinv[0]\! Chciałabym, żeby wróciły tu do mnie.\!<br>Dałabym wszystko, żeby znów usłyszeć ich śpiew!
  
-#JULIA
+#ELA
 #Location: OSTATNIA PRZYSTAŃ
 message_14:
-      text: \n<JULIA>Zaczęłam tu pracować, bo zaproponowali mi dobrą pensję, ale nie dostałam jeszcze pierwszej wypłaty!
+      text: \n<ELA>Zaczęłam tu pracować, bo zaproponowali mi dobrą pensję, ale nie dostałam jeszcze pierwszej wypłaty!
  
-#ŁUCJA
+#KAŚKA
 #Location: OSTATNIA PRZYSTAŃ
 message_15:
-      text: \n<ŁUCJA>\}Brakuje mi moich sióstr i \c[11]MUSZTARDYSKAFU\c[0]...
+      text: \n<KAŚKA>\}Brakuje mi moich sióstr i \c[11]MUSZTARDYSKAFU\c[0]...
  
-#PAMELA
+#ZOŚKA
 #Location: OSTATNIA PRZYSTAŃ
 message_16:
-      text: \n<PAMELA>Przepraszam was, ale nie sprzedajemy \c[3]SOKU OWOCOWEGO\c[0] nieletnim.
+      text: \n<ZOŚKA>Przepraszam was, ale nie sprzedajemy \c[3]SOKU OWOCOWEGO\c[0] nieletnim.
  
-#RITA
+#MAGDA
 #Location: OSTATNIA PRZYSTAŃ
 message_17:
-      text: \n<RITA>Razem z siostrami prowadzimy małą kawiarenkę przy autostradzie, na wschód stąd.\! Powinieneś tam kiedyś wpaść.\! Jedzenie jest przepyszne!
+      text: \n<MAGDA>Razem z siostrami prowadzimy małą kawiarenkę przy autostradzie, na wschód stąd.\! Powinieneś tam kiedyś wpaść.\! Jedzenie jest przepyszne!
  
-#SARA
+#BAŚKA
 #Location: MUSTARD SUBMERSIBLE
 #Check SHOP DIALOGUE GUIDE. (Mustard Submersible)
  
@@ -267,37 +267,37 @@ message_34:
 message_35:
       text: \n<WILK>Uch... Uch...\! Ale tu gorąco.\! Czy w ogóle znajdziemy tu jakiś hotel?
  
-#ELEONORA
+#ANIA
 #Location: MUSTARD SUBMERSIBLE
 message_80:
-      text: \n<SARA>Cześć, jestem SARA!\! Ja i moje siostry założyłyśmy tę kawiarnię wspólnie!
+      text: \n<BAŚKA>Cześć, jestem BAŚKA!\! Ja i moje siostry założyłyśmy tę kawiarnię wspólnie!
  
 message_81:
-      text: \n<SARA>ELEONORA zbiera zamówienia, więc zgłoście się do niej, jeśli chcecie kupić przepyszny \c[3]ZESTAW\c[0]!
+      text: \n<BAŚKA>ANIA zbiera zamówienia, więc zgłoście się do niej, jeśli chcecie kupić przepyszny \c[3]ZESTAW\c[0]!
  
 message_82:
-      text: \n<SARA>To śpiewają moje siostry!\!<br>Mają piękne głosy, prawda?
+      text: \n<BAŚKA>To śpiewają moje siostry!\!<br>Mają piękne głosy, prawda?
  
  
-#JULIA
+#ELA
 #Location: Mustard Submersible
 message_85:
-      text: \n<JULIA>Wyjechałam z \c[11]OSTATNIEJ PRZYSTANI\c[0] i wróciłam tutaj!\! Tylko nie mów moim siostrom, że za nimi tęskniłam!\! \SINV[1]Ufufu!\SINV[0]
+      text: \n<ELA>Wyjechałam z \c[11]OSTATNIEJ PRZYSTANI\c[0] i wróciłam tutaj!\! Tylko nie mów moim siostrom, że za nimi tęskniłam!\! \SINV[1]Ufufu!\SINV[0]
  
-#ŁUCJA
+#KAŚKA
 #Location: Mustard Submersible
 message_90:
-      text: \n<ŁUCJA>\}Hej... Cieszę się, że wróciłam...\! Mam nadzieję, że podoba ci się to miejsce!
+      text: \n<KAŚKA>\}Hej... Cieszę się, że wróciłam...\! Mam nadzieję, że podoba ci się to miejsce!
  
-#PAMELA
+#ZOŚKA
 #Location: Mustard Submersible
 message_95:
-      text: \n<PAMELA>Opuściłam \c[11]OSTATNIĄ PRZYSTAŃ\c[0], bo brakowało mi SARY i ELEONORY...\! ale wygląda na to, że wszyscy wrócili tu przede mną.
+      text: \n<ZOŚKA>Opuściłam \c[11]OSTATNIĄ PRZYSTAŃ\c[0], bo brakowało mi SARY i ELEONORY...\! ale wygląda na to, że wszyscy wrócili tu przede mną.
  
 message_96:
-      text: \n<PAMELA>Chyba powinnam się teraz martwić o MAŁŻE, ale...\!<br>Jestem po prostu szczęśliwa, że znów jesteśmy razem.\! Jakoś sobie poradzimy!
+      text: \n<ZOŚKA>Chyba powinnam się teraz martwić o MAŁŻE, ale...\!<br>Jestem po prostu szczęśliwa, że znów jesteśmy razem.\! Jakoś sobie poradzimy!
  
-#SARA
+#BAŚKA
 #Location: Mustard Submersible
 #[Incomplete]
  

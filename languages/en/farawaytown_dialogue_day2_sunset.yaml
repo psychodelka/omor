@@ -152,15 +152,15 @@ message_80:
 message_90:
       text: \n<ONIEŚMIELAJĄCA>Właśnie wróciłam ze studiów.\!<br>Już tęsknię za miastem! Tu po prostu jest za cicho.
  
-#====================DYREKTOR SZKOŁY==============================
+#====================DYREKTORKA==============================
  
 #Location: Hardware Store looking at flowers
  
 message_100:
-      text: \n<DYREKTOR SZKOŁY>Zdarza mi się tu przyjść, by pooglądać kwiaty.\!<br>Chciałem załatwić kilka do swojego domu, ale słyszałem, że niektóre przyciągają mrówki...
+      text: \n<DYREKTORKA>Zdarza mi się tu przyjść, by pooglądać kwiaty.\!<br>Chciałem załatwić kilka do swojego domu, ale słyszałem, że niektóre przyciągają mrówki...
  
 message_101:
-      text: \n<DYREKTOR SZKOŁY>Te szkodniki to moi odwieczni wrogowie...\!<br>Ostatnia rzecz, którą chciałbym ujrzeć, to mrówki bezczelnie pałętające się po moim domu!
+      text: \n<DYREKTORKA>Te szkodniki to moi odwieczni wrogowie...\!<br>Ostatnia rzecz, którą chciałbym ujrzeć, to mrówki bezczelnie pałętające się po moim domu!
  
 #====================STARY BRODACZ==============================
  

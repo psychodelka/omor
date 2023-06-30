@@ -12,7 +12,7 @@ message_200:
 
 
 message_201:
-      text: \n<HAROLD>Poważnie myśleliście, że tak łatwo będzie się wydostać!?
+      text: \n<HAROLD>Poważnie myśleliście, że tak łatwo będzie się stąd wydostać?!
 
 
 
@@ -48,7 +48,7 @@ message_205:
 message_206:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: \n<HERO>Myśl, HERO, myśl!\! Dawaj... Jak się stąd wydostać?\!<br>...\! Och, wiem!
+      text: \n<HERO>Myśl, HERO, myśl!\! Dawaj... co robić?\!<br>...\! O, wiem!
 
 
 

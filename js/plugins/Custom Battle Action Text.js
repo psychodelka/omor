@@ -4023,6 +4023,30 @@ Window_BattleLog.prototype.displayMpDamage = function(target) {
   }
 };
 
+Window_BattleLog.prototype.displayMiss = function(target) {
+  var fmt;
+
+  if (target.result().physical) {
+      fmt = target.isActor() ? TextManager.actorNoHit : TextManager.enemyNoHit;
+      this.push('performMiss', target);
+  } else {
+      fmt = TextManager.actionFailure;
+  }
+
+  let text = fmt.format(target.name());
+
+  if (text.length > MAX_CHAR_IN_LINE) {
+    let textArray = this.sliceLongString(text);
+
+    this.push('addText', textArray[0]);
+    this.push('addText', textArray[1]);
+    this.push('wait', 20);
+    return;
+  }
+
+  this.push('addText', fmt.format(target.name()));
+};
+
 // Function which slices text into 2 parts if it's longer than MAX_CHAR_IN_LINE
 Window_BattleLog.prototype.sliceLongString = function(text) {
   let sliceIndex = 0;

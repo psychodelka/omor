@@ -417,11 +417,11 @@ Window_Base.prototype.isIgnoringLetterEffectEscapeCodes = function() {
 //=============================================================================
 // * Clear Letter Effect Sprites
 //=============================================================================
-Window_Base.prototype.clearLetterEffectSprites = function() {
+Window_Base.prototype.clearLetterEffectSprites = function(index = Infinity) {
   // If Letter Effect Sprites Exist
   if (this._letterEffectSprites) {
     // Go through Letter Effect Sprites
-    for (var i = 0; i < this._letterEffectSprites.length; i++) {
+    for (var i = 0; i < this._letterEffectSprites.length && this._letterEffectSprites[i]._effectData.index <= index; i++) {
       // Remove Child From container
       this._letterEffectContainerSprite.removeChild(this._letterEffectSprites[i]);
     };
@@ -702,6 +702,7 @@ Window_Base.prototype.applyLetterEffectToSprite = function(effect, sprite) {
 //=============================================================================
 // Alias Listing
 //=============================================================================
+_TDS_.TextEffects.Window_Message_newPage = Window_Message.prototype.newPage
 _TDS_.TextEffects.Window_Message_startMessage = Window_Message.prototype.startMessage;
 //=============================================================================
 // * Start Message
@@ -712,4 +713,7 @@ Window_Message.prototype.startMessage = function() {
   // Run Original Function
   _TDS_.TextEffects.Window_Message_startMessage.call(this);
 };
-
+Window_Message.prototype.newPage = function(textState) {
+  this.clearLetterEffectSprites(textState.index);
+  _TDS_.TextEffects.Window_Message_newPage.call(this, textState);
+}

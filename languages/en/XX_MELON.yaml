@@ -555,16 +555,16 @@ message_158:
     text: ŻART O STRACHU NA WRÓBLE
 
 message_159:
-    text: ŻART O ROWERZE
+    text: ŻART O KOSZYKÓWCE
 
 message_160:
-    text: ŻART O PINGWINIE
+    text: ŻART O MROZIE
 
 message_161:
-    text: ŻART O SERZE
+    text: ŻART O POMARAŃCZY
 
 message_162:
-    text: ŻART O MORZU
+    text: ŻART O KIBLU
 
 message_163:
     text: ŻART O BUDOWIE
@@ -639,7 +639,7 @@ message_513:
 message_514:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelNo...\! to klops.\!<br>Chyba powinniśmy znaleźć inny sposób, by obejść to coś.
+      text: \kelNo to...\! klops.\!<br>Chyba powinniśmy znaleźć inny sposób, by obejść to coś.
 
 message_630:
       faceset: MainCharacters_DreamWorld
@@ -653,7 +653,7 @@ message_630:
 message_800:
       faceset: MainCharacters_DreamWorld
       faceindex: 7
-      text: \com[2]Gdzie się wybierasz, OMORI!?\! Proszę, nie zostawiaj mnie tutaj...\aub
+      text: \com[2]Gdzie się wybierasz, OMORI?!\! Proszę, nie zostawiaj mnie tutaj...\aub
 
 message_515:
       faceset: MainCharacters_DreamWorld
@@ -680,7 +680,7 @@ message_381:
 #UCZESTNIK TELETURNIEJU moles
 
 message_395:
-    text: \n<UCZESTNIK TELETURNIEJU>O nie! Co teraz zrobimy!?\!<br>Z \c[11]LOCHÓW\C[0] nie da się wydostać!
+    text: \n<UCZESTNIK TELETURNIEJU>O nie! Co teraz zrobimy?!\!<br>Z \c[11]LOCHÓW\C[0] nie da się wydostać!
 
 #Mole closest to door
 
@@ -721,10 +721,10 @@ message_244:
     text: \n<RYCERZ MAKSYM>Stać, impostorzy!<br>Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!\!<br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br>Wiecie... jestem lepszy niż ci słabi, niedoświadczeni HAROLDZI i MARCJE!<br><br>Jam jest RYCERZ MAKSYM... i z moim wspaniałym rodowodem, przyniosę zwycięstwo i chwałę mojej rodzinie!
 
 message_245:
-    text: \n<RYCERZ MAKSYM II>Stać, impostorzy! Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!<br><br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br><br><br>Wiecie... jestem synem legendarnego wojownika,<br>RYCERZA MAKSYMA...<br>Może udało wam się pokonać mojego ojca, ale jestem od niego silniejszy!\! Dzięki mojemu wspaniałemu rodowodowi oraz ojcu po mojej stronie, osiągnę zwycięstwo!
+    text: \n<RYCERZ MAKSYM II>Stać, impostorzy! Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!<br><br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br><br><br>Wiecie... jestem synem legendarnego wojownika,<br>RYCERZA MAKSYMA...<br><br>Może udało wam się pokonać mojego ojca, ale jestem od niego silniejszy!\! Dzięki mojemu wspaniałemu rodowodowi oraz ojcu po mojej stronie, osiągnę zwycięstwo!
 
 message_246:
-    text: \n<RYCERZ MAKSYM III>Stać, impostorzy! Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!<br><br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br><br><br>Wiecie... jestem synem legendarnego wojownika,<br>RYCERZA MAKSYMA II oraz wnuczkiem RYCERZA MAKSYMA...<br>Może udało wam się pokonać mojego ojca i dziadka, lecz to jedynie podsyciło mój gniew i żądzę zemsty!<br><br>Dzięki mojemu wspaniałemu rodowodowi oraz ojcu i dziadku po mojej stronie, osiągnę zwycięstwo i pomszczę moich przodków!
+    text: \n<RYCERZ MAKSYM III>Stać, impostorzy! Znam wasze prawdziwe oblicze... nie jesteście KIEŁKUNAMI!<br><br>Hmhm! Pewnie zastanawiacie się, skąd to wiem...<br><br><br>Wiecie... jestem synem legendarnego wojownika,<br>RYCERZA MAKSYMA II oraz wnuczkiem RYCERZA MAKSYMA...<br><br>Może udało wam się pokonać mojego ojca i dziadka, lecz to jedynie podsyciło mój gniew i żądzę zemsty!<br><br>Dzięki mojemu wspaniałemu rodowodowi oraz ojcu i dziadku po mojej stronie, osiągnę zwycięstwo i pomszczę moich przodków!
 
 
 # -----------------------------------------------
@@ -887,7 +887,7 @@ message_560:
 message_561:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelCóż, panienko...\! Wygląda mi to na... to, że wymagana jest destrukcja...\! a tak się zdaje, że AUBREY jest specjalistką od zniszczeń!
+    text: \kelCóż, panienko...\! Wygląda na to... że wymagana jest destrukcja...\! a tak się zdaje, że AUBREY jest specjalistką od destrukcji!
 
 message_903:
     text: \n<KREMÓWKA>AUBREY?\! To bardzo dziwne imię jak na KIEŁKUNA...\! Z drugiej strony SŁODZIUTKIEJ kończą się już imiona.
@@ -1097,17 +1097,17 @@ message_309:
 message_310:
     faceset: MainCharacters_DreamWorld
     faceindex: 7
-    text: \aubCzy wszyscy są cali!?\! Co się stało!?
+    text: \aubCzy wszyscy są cali?!\! Co się stało?!
 
 message_650:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: \kelUch...\! Ten krzak SŁODZIUTKIEJ właśnie strzelił w nas laserem!
+    text: \kelUuu...\! Ten krzak SŁODZIUTKIEJ właśnie strzelił w nas laserem!
 
 message_311:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \n<HERO>Hmm...\! Musi być jakiś sposób na pozbycie się tych gości...
+    text: \n<HERO>Hmm...\! Musi być jakiś sposób, by się ich pozbyć...
 
 #Third Cutscene (Throw Platform)
 
@@ -1209,10 +1209,10 @@ message_400:
     text: \n<BRAJAN DYSTYNGOWANY>Aby otworzyć tajemny korytarz, należy podać posągowi SŁODZIUTKIEJ cztery hasła.<br><br>Oczywiście jako iż jestem członkiem wybranej elity, leży na mnie odpowiedzialność za drugie z czterech!
 
 message_6:
-    text: \n<BRAJAN DYSTYNGOWANY>Chcesz znać hasło, eee?\!<br>\com[2]Nie tak prędko, koleżko.\!<br>Muszę przyznać... Jesteś okropnie wysoki jak na KIEŁKUNA...
+    text: \n<BRAJAN DYSTYNGOWANY>Chcesz znać hasło, eee?\!<br>\com[2]Nie tak prędko, koleżko.<br><br>Muszę przyznać... Jesteś okropnie wysoki jak na KIEŁKUNA...
 
 message_7:
-    text: \n<BRAJAN DYSTYNGOWANY>\com[2]Skąd mam mieć pewność, że jesteście jednymi z nas, zaawansowanie inteligentnych i majestatycznych stworzeń?<br>Myślicie, że kiedykolwiek podałbym hasło potencjalnemu szpiegowi? \!Ha!\! Nie rozśmieszajcie mnie!
+    text: \n<BRAJAN DYSTYNGOWANY>\com[2]Skąd mam mieć pewność, że jesteście jednymi z nas, zaawansowanie inteligentnych i majestatycznych stworzeń?<br><br>Myślicie, że kiedykolwiek podałbym hasło potencjalnemu szpiegowi? \!Ha!\! Nie rozśmieszajcie mnie!
 
 message_8:
     text: \n<BRAJAN DYSTYNGOWANY>Skoro jesteś taki pewien swojej KIEŁKUŃSKIEJ natury, czemu jej nie udowodnisz?\! Podam ci hasło... jeśli zgadniesz, o czym teraz myślę!
@@ -1291,10 +1291,10 @@ message_21:
     text: \n<HELENA FATALNA>Ale, ech!\! Mam strzec tego super tajnego hasła i w ogóle, no nie? Ale, jakby, to coś o jedzeniu, więc teraz tylko ciągle o nim myślę...<br>Jestem taka głodna, że aż zaczęłam żuć trawę, żeby powstrzymać apetyt! Uwierzylibyście!? Naprawdę powinni zacząć karmić tutejsze straże!
 
 message_22:
-    text: \n<HELENA FATALNA>I co to w ogóle ma być za hasło, "PĄCZUŚ"?\! Tak jak ten niebieski dziwoląg zawsze mówił na SŁODZIUTKĄ czy coś?<br>\com[2]Dajcie spokój!\! Żaden sekret! Każdy by to zgadnął!<br>Zawsze się tu przechadzali i zachowywali jak taka typowa parka, ciągle rzucali do siebie słodkimi słówkami...<br>Mówili coś w stylu:\ "Czemu jeszcze mi się nie oświadczyłeś?" albo "Wybacz. Kumple nie akceptują mojego związku..." cały czas... Ech! Nie wytrzymam!
+    text: \n<HELENA FATALNA>I co to w ogóle ma być za hasło, "PĄCZUŚ"?\! Tak jak ten niebieski dziwoląg zawsze mówił na SŁODZIUTKĄ czy coś?<br>\com[2]Dajcie spokój!\! Żaden sekret! Każdy by to zgadnął!<br>Zawsze się tu przechadzali i zachowywali jak taka typowa parka, ciągle rzucali do siebie słodkimi słówkami...<br><br>Mówili coś w stylu:\ "Czemu jeszcze mi się nie oświadczyłeś?" albo "Wybacz. Kumple nie akceptują mojego związku...", cały czas... Ech! Nie wytrzymam!
 
 message_23:
-    text: \n<HELENA FATALNA>Ale, pal licho...\! Wciąż tkwię tutaj i strzegę haseł z tymi trzema strażnikami...\! Nie byliby w stanie nie pisnąć słówka, żeby uchronić się przed śmiercią!<br>Hmf! Racja! Litujcie się nade mną ile chcecie! Mam to gdzieś!\! Proszę, jestem uwięziona w tym ciasnym kącie ogrodu, strzegąc jakiegoś słowa "PĄCZUŚ"!\! Rany koguta!
+    text: \n<HELENA FATALNA>Ale pal licho...\! Wciąż tkwię tutaj i strzegę haseł z tymi trzema strażnikami...\! Nie byliby w stanie nie pisnąć słówka, żeby uchronić się przed śmiercią!<br>Hmf! Racja! Litujcie się nade mną, ile chcecie! Mam to gdzieś!\! Proszę, jestem uwięziona w tym ciasnym kącie ogrodu, strzegąc jakiegoś słowa "PĄCZUŚ"!\! Rany koguta!
 
 #PASSWORD STATUE PART 1
 
@@ -1986,7 +1986,7 @@ message_139:
     text: \n<TAKSÓWKARZ>Hej, dzieciaku! Zabrać cię w kozackie miejsce?
 
 message_140:
-    text: \n<TAKSÓWKARZ>Nazywają je \c[11]OSTATNIĄ PRZYSTANIĄ\c[0]!\! To najgorętsze, najmodniejsze miejsce, w jakim kiedykolwiek się znalazłeś, prawdziwy nieoszlifowany diament...\!<br>Musiałeś o nim słyszeć!
+    text: \n<TAKSÓWKARZ>Nazywają je \c[11]OSTATNIĄ PRZYSTANIĄ\c[0]!\! To najgorętsze, najmodniejsze miejsce, w jakim kiedykolwiek mógłbyś się znaleźć, prawdziwy nieoszlifowany diament...\!<br>Musiałeś o nim słyszeć!
 
 message_141:
     text: \n<TAKSÓWKARZ>Zabiorę cię tam za symboliczną opłatą 3000 MAŁŻY!<br>No dalej... Nie wstydź się!\! Nie gryzę...\! aż tak mocno...
@@ -2158,7 +2158,7 @@ message_147:
     text: \n<MOLLY>\com[539]Och, cześć, MARINA...\!<br>\com[539]Znowu przyszłaś mi coś podwędzić?<br><br>\com[539]Nie tym razem.\! \com[539]Dzisiaj przygotowałam dla ciebie coś \com[539]wyjątkowo szczególnego... \sinv[1]Fufufu~
 
 message_149:
-    text: \n<MOLLY>\com[539]Jak wiesz, \com[539]jestem bardzo zapracowaną osobą,\!<br>\com[539]Ale niestety... jesteś moją siostrą.<br><br>\com[539]Udzielę ci wstępu \com[539]do mojego pokoju...\!<br>jeśli \com[539]będziesz w stanie \com[539]rozwiązać moją niespodziankę.
+    text: \n<MOLLY>\com[539]Jak wiesz, \com[539]jestem bardzo zapracowaną osobą,\!<br>\com[539]ale niestety... jesteś moją siostrą.<br><br>\com[539]Udzielę ci wstępu \com[539]do mojego pokoju...\!<br>jeśli \com[539]będziesz w stanie \com[539]rozwiązać moją niespodziankę.
 
 message_150:
     text: \n<MOLLY>\com[539]\com[539]Do zobaczenia później, kochana...\!\com[539] jeśli będziesz jeszcze żywa, \com[539]ma się rozumieć!
@@ -2250,7 +2250,7 @@ message_482:
     text: \n<GIGANTOS OPERATOR>Mhmm...\! Tak...\!<br>Próbowałeś wyłączyć i włączyć?
 
 message_483:
-    text: \n<GIGANTOS OPERATOR>Ciężko cokolwiek tu skończyć, MOLLY ciągle miesza coś przy badaniach...<br><br>Chcicałbym być w oddziale MEDUZY...\!<br>Przydzielają tam samych dobrze zarabiających imprezowiczów...<br>Słyszałem, że mają nawet zjeżdżalnię wodną!
+    text: \n<GIGANTOS OPERATOR>Ciężko cokolwiek tu skończyć, MOLLY ciągle miesza coś przy badaniach...<br><br>Chciałbym być w oddziale MEDUZY...\!<br>Przydzielają tam samych dobrze zarabiających imprezowiczów...<br>Słyszałem, że mają nawet zjeżdżalnię wodną!
 
 message_484:
     text: \n<GIGANTOS OPERATOR>O to mi chodzi...\! Z rejestru kamer wychodzi na to, że ciężko pracuje nad czymś w swoim "warsztacie"...\! Ta, okej...\!<br>Będę miał na to oko.

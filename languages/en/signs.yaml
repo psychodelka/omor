@@ -2,59 +2,79 @@
 # Dreamworld NPC dialogue
 # =========================================================================================
 
+
 #BIRD SIGN NAMES:
-#MR. PARROT: GRAWK!
+#PAN PAPUGA: GRAWK!
 #MRS. CHICKEN: BAWK, BAWK!
-#MR. SEAGULL: CAWWWW!
-#MR. PENGUIN: BRRRRRRR!
-#MRS. FLAMINGO: GRAA! GRAA!
-#MR. BIRD: KER-CRAA...
-#MRS. PARROT: CHEEP!
+#PAN MEWA: KrakaaCAWWWW!
+#PAN PINGWIN: BRRRRRRR!
+#PANI FLAMING: GRAA! GRAA!
+#PAN PTAK: Kra kraKER-CRAA...
+#PANI PAPUGA: ĆwirCHEEP!
+
+
+
+
 
 
 
 
 message_0:
-      text: \n<MR. PARROT>Squak!\! (\i[6]\c[11]PINWHEEL FOREST\c[0])\!<br>Squak, squak!\! (\i[3]\c[11]FOGGY BRIDGE\c[0])
+      text: \n<PAN PAPUGA>Gra!\! (\i[6]\c[11]WIETRZNY ZAGAJNIK\c[0])\!<br>Gra, gra!\! (\i[3]\c[11]MGLISTY MOST\c[0])
+
 
 message_1:
-      text: \n<MR. PARROT>Squak!\! (\i[5]\c[11]TRAIN STATION\c[0])\!<br>Squak, squak!\! (\i[4]\c[11]FOGGY BRIDGE\c[0])
+      text: \n<PAN PAPUGA>Gra!\! (\i[5]\c[11]STACJA KOLEJOWA\c[0])\!<br>Gra, gra!\! (\i[4]\c[11]MGLISTY MOST\c[0])
+
 
 message_2:
-      text: \n<MR. PARROT>Squak!\! (Line starts here.)
+      text: \n<PAN PAPUGA>Gra!\! (Kolejka zaczyna się tutaj.)
+
 
 message_3:
-      text: \n<MRS. PARROT>Cheep!\! (\i[1]\c[11]OTHERWORLD CAMPSITE\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]CATTAIL FIELD\c[0])
+      text: \n<PANI PAPUGA>Ara!\! (\i[1]\c[11]KEMPINGOWO INNE\c[0])\!<br>Ara, ara!\! (\i[4]\c[11]POLA PAŁKOWE\c[0])
+
 
 message_4:
-      text: \n<MRS. PARROT>Cheep!\! (\i[3]\c[11]OTHERWORLD LAKE\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]OTHERWORLD CAMPSITE\c[0])\!<br>Cheep, cheep, cheep!\! (\i[1]\c[11]JUNKYARD\c[0])
+      text: \n<PANI PAPUGA>Ara!\! (\i[3]\c[11]JEZIOROWO INNE\c[0])\!<br>Ara, ara!\! (\i[4]\c[11]KEMPINGOWO INNE\c[0])\!<br>Ara, ara, ara!\! (\i[1]\c[11]ŚMIECIOGRÓDEK\c[0])
+
 
 message_5:
-      text: \n<MRS. PARROT>Cheep!\! (\i[6]\c[11]CATTAIL FIELD\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]OTHERWORLD CAMPSITE\c[0])\!<br>Cheep, cheep, cheep!\! (\i[2]\c[11]FROZEN LAKE\c[0])
+      text: \n<PANI PAPUGA>Ara!\! (\i[6]\c[11]POLA PAŁKOWE\c[0])\!<br>Ara, ara!\! (\i[4]\c[11]KEMPINGOWO INNE\c[0])\!<br>Ara, ara, ara!\! (\i[2]\c[11]MROŹNE JEZIORO\c[0])
+
 
 message_6:
-      text: \n<MR. PENGUIN>Brrrrrrr!\! (Leave this place!)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Opuśćcie to miejsce!)\!<br>Brr... Brrrrr!\! (Podpisano, KXM)
+
 
 message_7:
-      text: \n<MR. PENGUIN>Brrrrrrr!\! (Turn back while you still can...)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Zawróćcie, póki jeszcze możecie...)\!<br>Brr... Brrrrr!\! (Podpisano, KXM)
+
 
 message_8:
-      text: \n<MR. PENGUIN>Brrrrrrr!\! (There is nothing for you here... Begone!)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Nic tu po was... A kysz!)\!<br>Brr... Brrrrr!\! (Podpisano, KXM)
+
 
 message_9:
-      text: \n<MR. PENGUIN>Brrrrrrr!\! (Go away! Leave me to my miserable existence!)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Odejdźcie! Dajcie spokój mi i mojej marnej egzystencji!)\!<br>Brr... Brrrrr!\! (Podpisano, KXM)
+
 
 message_10:
-      text: \n<MR. PENGUIN>Brrrrrrr!\! (It would be foolish to continue.\!<br>How I wish someone had told me the same...)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Jedynie głupiec podążałby dalej.\!<br>Jak bardzo żałuję, że nikt mi tego wcześniej nie powiedział...)\!<br>Brr... Brrrrr!\! (Podpisano, KXM)
+
 
 message_11:
-      text: \n<MR. PENGUIN>Brrrrrrr!\! (All is fair in love and war...\! but it still hurts when you lose...)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (W miłości i na wojnie wszystkie ruchy dozwolone...\! choć nie łagodzi to cierpienia przegranej...)\!<br>Brr... Brrrrr!\! (Podpisano, KXM)
+
 
 message_12:
-      text: \n<MR. PENGUIN>Brrrrrrr!\! (You will gain nothing from coming here, as did I.\! All of this will be for naught.)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Nic stąd nie wyniesiecie, zupełnie jak ja.\! Wszystko to pójdzie na marne.)\!<br>Brr... Brrrrr!\! (Podpisano, KXM)
+
 
 message_36:
-      text: \n<MR. PENGUIN>Brrrrrrr!\! (Don't come looking for me...\! Only the cold can keep me company now.)\!<br>Brr... Brrrrr!\! (Signed, SXH)
+      text: \n<PAN PINGWIN>Brrrrrrr!\! (Nie próbujcie mnie szukać...\! Chłód moim jedynym, zaufanym przyjacielem.)\!<br>Brr... Brrrrr!\! (Podpisano, KXM)
+
+
 
 
 #DIRECTIONS:
@@ -67,77 +87,102 @@ message_36:
 #DOWN LEFT: \i[7]
 #DOWN RIGHT: \i[8]
 
+
 message_13:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL KITCHEN\c[0])\!<br>Graa, graa!\! (\i[1]\c[11]SERVANT'S QUARTERS\c[0])\!<br>Graa, graa, graa!\! (\i[8]\c[11]THE ROYAL BALLROOM\c[0])
+      text: \n<PANI FLAMING>Skrzek!\! (\i[1]\c[11]KRÓLEWSKA KUCHNIA\c[0])\!<br>Skrzek, skrzek!\! (\i[1]\c[11]KWATERY SŁUG\c[0])\!<br>Skrzek, skrzek, skrzek!\! (\i[8]\c[11]SALA KRÓLEWSKA\c[0])
+
 
 message_14:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL CHAMBERS\c[0])\!<br>Graa, graa!\! (\i[7]\c[11]THE ROYAL GALLERY\c[0])\!<br>Graa, graa, graa!\! (\i[7]\c[11]THE ROYAL LIBRARY\c[0])
+      text: \n<PANI FLAMING>Skrzek!\! (\i[1]\c[11]KOMNATY KRÓLEWSKIE\c[0])\!<br>Skrzek, skrzek!\! (\i[7]\c[11]GALERIA KRÓLEWSKA\c[0])\!<br>Skrzek, skrzek, skrzek!\! (\i[7]\c[11]KRÓLEWSKA BIBLIOTEKA\c[0])
+
 
 message_15:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL GALLERY\c[0])\!<br>Graa, graa!\! (This month's feature is...)\!<br>Graa, graa, graa!\! (\"OEUVRES OF SWEETHEART\")
+      text: \n<PANI FLAMING>Skrzek!\! (\i[1]\c[11]GALERIA KRÓLEWSKA\c[0])\!<br>Skrzek, skrzek!\! (W tym miesiącu prezentujemy...)\!<br>Skrzek, skrzek, skrzek!\! (\"SŁODZIUTKA - DZIEŁA ZEBRANE\")
+
 
 message_16:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL LIBRARY\c[0])\!<br>Graa, graa!\! (Reminder... No reading without permission.)
+      text: \n<PANI FLAMING>Skrzek!\! (\i[1]\c[11]KRÓLEWSKA BIBLIOTEKA\c[0])\!<br>Skrzek, skrzek!\! (Przypomnienie... Zakaz czytania bez pozwolenia.)
+
 
 message_17:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL BALLROOM\c[0])\!<br>Graa, graa!\! (Reminder... Karaoke is Fridays ONLY.)
+      text: \n<PANI FLAMING>Skrzek!\! (\i[1]\c[11]SALA KRÓLEWSKA\c[0])\!<br>Skrzek, skrzek!\! (Przypomnienie... Karaoke jest tylko w PIĄTKI.)
+
 
 message_18:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]LIFT TO THE ROYAL CHAMBERS\c[0])\!<br>Graa, graa!\! (Reminder... You are not allowed in here unless you are a beautiful suitor hand-picked by SWEETHEART.)<br>Graa, graa, graa!\! (Or unless you are CASTELLA.)
+      text: \n<PANI FLAMING>Skrzek!\! (\i[1]\c[11]WINDA DO KOMNAT KRÓLEWSKICH\c[0])\!<br>Skrzek, skrzek!\! (Przypomnienie... Brak wstępu, pod warunkiem że jest się jednym z fantastycznych epuzerów wybranych osobiście przez SŁODZIUTKĄ.)<br>Skrzek, skrzek, skrzek!\! (Lub KREMÓWKĄ w samej osobie.)
+
 
 message_19:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL BATH\c[0])\!<br>Graa, graa!\! (Reminder... The pool must be refilled regularly.)
+      text: \n<PANI FLAMING>Skrzek!\! (\i[1]\c[11]AKWEN KRÓLEWSKI\c[0])\!<br>Skrzek, skrzek!\! (Przypomnienie... Woda w basenie wymaga regularnej wymiany.)
+
 
 message_20:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]A special hell for you, my dear...)\!<br>Graa, graa!\! (Signed, SWH)
+      text: \n<PANI FLAMING>Skrzek!\! (\i[1]Masz zarezerwowane miejsce w piekle, mój drogi...)\!<br>Skrzek, skrzek!\! (Podpisano, SŁDZ)
+
 
 message_21:
-      text: \n<MR. SEAGULL>Cawww!\! (\i[1]\c[11]ABANDONED SITE\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\c[11]TOLL ROAD\c[0])
+      text: \n<PAN MEWA>Fiu!\! (\i[1]\c[11]BEZLUDZIE\c[0])\!<br>Fiu, fiuuu!\! (\i[4]\c[11]AUTOSTRADA PŁATNA\c[0])
+
 
 message_22:
-      text: \n<MR. SEAGULL>Cawww!\! (\i[1]\c[11]ABANDONED SITE\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\i[3]\c[11]TOLL ROAD\c[0])
+      text: \n<PAN MEWA>Fiu!\! (\i[1]\c[11]BEZLUDZIE\c[0])\!<br>Fiu, fiuuu!\! (\i[4]\i[3]\c[11]AUTOSTRADA PŁATNA\c[0])
+
 
 message_23:
-      text: \n<MR. SEAGULL>Cawww!\! (\i[1]\c[11]LAST RESORT\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\i[3]\c[11]ENDLESS HIGHWAY\c[0])
+      text: \n<PAN MEWA>Fiu!\! (\i[1]\c[11]OSTATNIA PRZYSTAŃ\c[0])\!<br>Fiu, fiuuu!\! (\i[4]\i[3]\c[11]AUTOSTRADA BEZKRESNA\c[0])
+
 
 message_24:
-      text: \n<MR. SEAGULL>Cawww!\! (\i[4]\i[3]\c[11]ENDLESS HIGHWAY\c[0])
+      text: \n<PAN MEWA>Fiu!\! (\i[4]\i[3]\c[11]AUTOSTRADA BEZKRESNA\c[0])
+
 
 message_25:
-      text: \n<MR. SEAGULL>Cawww!\! (Cawww...tion!)\!<br>Cawww, cawwwww!\! (Pool is haunted!)
+      text: \n<PAN MEWA>Fiu!\! (Fiu...uwaga!)\!<br>Fiu, fiuuu!\! (Ten basen jest nawiedzony!)
+
 
 message_26:
-      text: \n<MR. SEAGULL>Cawww!\! (Cawww...tion!)\!<br>Cawww, cawwwww!\! (Pool is under construction.)
+      text: \n<PAN MEWA>Fiu!\! (Fiu...uwaga!)\!<br>Fiu, fiuuu!\! (Basen jest w trakcie budowy.)
+
 
 message_27:
-      text: \n<MR. SEAGULL>Cawww!\! (This is the end of the highway.)
+      text: \n<PAN MEWA>Fiu!\! (Koniec autostrady.)
+
 
 message_28:
-      text: \n<MR. BIRD?>Ker-craa...\! (Strange growth.)\!<br>Ker-craa... aaa...\! (Will regenerate after being smashed.)
+      text: \n<PAN PTAK?>Ćwiru ćwir...\! (Dziwne coś.)\!<br>Ćwiru ćwir... uuu...\! (Po zniszczeniu wróci do formy pierwotnej.)
+
 
 message_29:
-      text: \n<MR. BIRD?>Ker-craa...\! (Intelligent growth.)\!<br>Ker-craa... aaa...\! (Will conveniently transform into a bridge after being smashed.)
+      text: \n<PAN PTAK?>Ćwiru ćwir...\! (Inteligentne coś.)\!<br>Ćwiru ćwir... uuu...\! (Z łatwością zamieni się w most po zniszczeniu.)
+
 
 message_30:
-      text: \n<MR. BIRD?>Ker-craa...\! (MARINA's 667th experiment.)\!<br>Ker-craa... aaa...\! (Cawww...tion... Do not poke the glass.)
+      text: \n<PAN PTAK?>Ćwiru ćwir...\! (667 eksperyment MARINY.)\!<br>Ćwiru ćwir... uuu...\! (Ćwiru ćwir...rada... Nie dotykać szyby.)
+
 
 message_31:
-      text: \n<MR. BIRD?>Ker-craa...\! (Field work in progress. Do not disturb.)
+      text: \n<PAN PTAK?>Ćwiru ćwir...\! (Badania terenowe. Nie przeszkadzać.)
+
 
 message_32:
-      text: \n<MR. BIRD?>Ker-craa...\! (Lab work in progress. Disturb sparingly.)
+      text: \n<PAN PTAK?>Ćwiru ćwir...\! (Prace laboratoryjne. Przeszkadzać okazjonalnie.)
+
 
 message_33:
-      text: \n<MR. SEAGULL>Cawww!\! (MUSICAL CLAMS in training.)\!<br>Cawww, cawwwww!\! (Please show them your support.)
+      text: \n<PAN MEWA>Fiu!\! (Przyszłe MUZYCZNE MAŁŻE.)\!<br>Fiu, fiuuu!\! (Prośba, okaż im wsparcie.)
+
 
 message_34:
-      text: \"IT'S GAME!\"<br>\!\"MATCH THREE GUYS FOR A PRIZE!\"
+      text: \"GRAMY!\"<br>\!\"DOPASUJ TRZECH GOSTKÓW, A DOSTANIESZ NAGRODĘ!\"
+
 
 message_35:
-      text: \n<BIRD MOLE>Squak?
+      text: \n<KUKUŁKUN>Ćwir?
+
 
 message_37:
-      text: \n<MRS. FLAMINGO>Graa!\! (The humble abode of ROSA!)\!<br>Graa, graa!\! (The \#1 SWEETHEART fan in the world!)
+      text: \n<PANI FLAMING>Skrzek!\! (Skromna przestrzeń RÓŻY!)\!<br>Skrzek, skrzek!\! (Największej fanki SŁODZIUTKIEJ na świecie!)
+
 
 message_100:
-      text: \i[4]\c[11]TRAIN STATION\c[0]<br>\i[3]\c[11]PINWHEEL FOREST<br>\i[2]\c[11]BASIL'S HOUSE\c[0]
+      text: \i[4]\c[11]STACJA KOLEJOWA\c[0]<br>\i[3]\c[11]WIETRZNY ZAGAJNIK<br>\i[2]\c[11]DOM BASILA\c[0]

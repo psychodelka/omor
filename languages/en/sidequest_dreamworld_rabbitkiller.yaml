@@ -43,7 +43,7 @@ message_7:
 
 
 message_8:
-      text: \n<LISTEK>A teraz...\! Dostaniesz nagrodę, jeśli zabijesz jeszcze tyle sztuk \quake[1]króliczków\quake[0]: \v[1001].
+      text: \n<LISTEK>A teraz...\! Dostaniesz nagrodę, jeśli zabijesz jeszcze tyle sztuk \quake[1]króliczków\quake[0]:\ \v[1001].
 
 
 #DEFAULT TEXT:

@@ -179,7 +179,7 @@ message_47:
 
 
 message_48:
-      text: Hmm...\! Gdzie? Gdzie?\!<br>Mam to na końcu języka...\! ...\! \quake[1]Mniam, mniam!\quake[0]\!<br>Żarcik astronaucik, dzieci drogie!<br>Ona jest...\! we mnie, ma się rozumieć.\n<GIGANTOS>
+      text: Hmm...\! Gdzie? Gdzie?\!<br>Mam to na końcu języka...\! ...\! \quake[1]Mniam, mniam!\quake[0]<br>Żarcik astronaucik, dzieci drogie!<br>Ona jest...\! we mnie, ma się rozumieć.\n<GIGANTOS>
 
 
 message_49:
@@ -193,7 +193,7 @@ message_50:
 
 
 message_51:
-      text: Dobrze się znamy, zdarzy mi się czasem wpaść do nich na herbatkę.\!<br>Przyjemnie się słucha o ich wybrykach.\! Czasem są tak życzliwe, że mnie karmią!\n<GIGANTOS>
+      text: Dobrze się znamy, zdarzy mi się czasem wpaść do nich na herbatkę.<br><br>Przyjemnie się słucha o ich wybrykach.\! Czasem są tak życzliwe, że mnie karmią!\n<GIGANTOS>
 
 
 message_52:

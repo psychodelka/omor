@@ -2,93 +2,126 @@
 # Sidequest: Sneaking Out Joy
 # =========================================================================================
 
+
 #Talking to JOY
 
+
 message_1:
-      text: \n<SMALL GIRL>O-Oh, hi, MR. TUTOR...
+      text: \n<MAŁA DZIEWCZYNKA>O-o, cześć, PANIE KOREPETYTORZE...
+
 
 #Talk to Joy / Cutscene: Joy Leaves
 
+
 message_2:
-      text: \n<SMALL GIRL>Ummm...\! Sorry...\! This may seem kind of selfish of me, but...
+      text: \n<MAŁA DZIEWCZYNKA>Eee...\! Przepraszam...\! To może zabrzmieć trochę dziwnie z mojej strony, ale...
+
 
 message_3:
-      text: \n<SMALL GIRL>You see, my dad isn't home today because he's out running errands.\! I've been studying in my room all summer, and I just want one day to play at the park.
+      text: \n<MAŁA DZIEWCZYNKA>Mojego taty nie ma dzisiaj w domu, ponieważ wyjechał, żeby załatwić jakieś sprawy.\! Uczyłam się przez całe wakacje i po prostu chcę mieć dzień wolnego, aby wyjść i pobawić się w parku.
+
 
 message_4:
-      text: \n<SMALL GIRL>Could you please finish my worksheet for today so he doesn't notice?\! I promise I'll be home before it gets dark, so please don't tell him!
+      text: \n<MAŁA DZIEWCZYNKA>Czy mógłbyś dokończyć moje dzisiejsze zadania, żeby się nie zorientował?\! Obiecuję, że wrócę, zanim się ściemni, proszę, nic mu nie mów!
+
 
 # yes /no
+
 
 #if yes
 
 
+
+
 message_5:
-      text: \n<SMALL GIRL>Ahh...\! I thought so-
+      text: \n<MAŁA DZIEWCZYNKA>Aaa...\! Tak myślałam...
+
 
 message_6:
-      text: \n<SMALL GIRL>W-Wait...\! You mean you'll let me go?\!<br>Oh, thank you, mister tutor! You're the best!
+      text: \n<MAŁA DZIEWCZYNKA>Cz-czekaj...\! czyli pozwolisz mi pójść?\!<br>O, dziękuję ci, miły korepetytorze! Jesteś najlepszy!
+
 
 message_8:
-      text: \n<SMALL GIRL>Yay! I'm really going to the park!\! I wonder what I should do first...\! I know!\! I want to play in the sandbox!\!<br>\sinv[1]Hehe... I can't wait!
+      text: \n<MAŁA DZIEWCZYNKA>Jupi! Idę do parku!\! Co powinnam zrobić najpierw...?\! Wiem!\! Pobawię się w piaskownicy!\!<br>\sinv[1]Hehe... Nie mogę się doczekać!
+
 
 message_9:
-      text: \n<SMALL GIRL>Thanks again, mister!\! I'm going to go have some fun!
+      text: \n<MAŁA DZIEWCZYNKA>Dzięki jeszcze raz, panie milusiński!\! Będę się świetnie bawić!
+
 
 #JOY runs out.
 
+
 #if no
 
+
 message_10:
-      text: \n<SMALL GIRL>Ahh...\! I thought so...\! That's okay!\!<br>I should probably be studying harder anyway...
+      text: \n<MAŁA DZIEWCZYNKA>Ach...\! Tak myślałam...\! W porządku!\!<br>I tak powinnam bardziej przyłożyć się do nauki...
+
 
 message_1000:
-      text: \n<SMALL GIRL>Another day of studying...\!<br>Sigh... I wonder what my brother is doing right now...
+      text: \n<MAŁA DZIEWCZYNKA>Kolejny dzień nauki...\!<br>Ech... Ciekawe, co porabia mój brat...
+
 
 #if yes, complete worksheet without prompts from JOY
 #if no, complete worksheet with prompts from Joy
 
+
 message_11:
-      text: JOY's language worksheet.\! Finish it?
+      text: Zeszyt ćwiczeń NADZIEI.\! Wypełnić je?
+
 
 message_12:
-      text: In the sentence, “This glass of lemonade is __freshing”, <br>which prefix is correct?
+      text: Kasia wzięła słowo w:\
+
 
 message_13:
-      text: A) Dis
+      text: A) cudzysłowiu
+
 
 message_14:
-      text: B) Un
+      text: B) cudzysłowie
+
 
 message_15:
-      text: C) Re
+      text: C) cudzysłów
+
 
 message_16:
-      text: What is the correct abbreviation for the word ‘weight'?
+      text: Skrót od doktor to:\
+
 
 message_17:
-      text: A) wgt.
+      text: A) d.r.dr
+
 
 message_18:
-      text: B) wt.
+      text: B) d.r.
+
 
 message_19:
-      text: C) W.
+      text: C) dr.
+
 
 message_20:
-      text: What word means ‘to move forward on the hands and knees'?
+      text: Która forma jest właściwa?
+
 
 message_21:
-      text: A) Slither
+      text: A) gżegżółka
+
 
 message_22:
-      text: B) Crawl
+      text: B) grzegrzółka
+
 
 message_23:
-      text: C) Walk
+      text: C) gżegrzułka
+
 
 message_24:
-      text: You completed JOY's language worksheet.
+      text: Wypełniłeś ćwiczenia NADZIEI.
+
 
 message_25:
-      text: You should complete the worksheet first before you leave.
+      text: Powinieneś wypełnić ćwiczenia, zanim wyjdziesz.

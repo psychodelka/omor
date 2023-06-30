@@ -1,42 +1,55 @@
 
+
 # =========================================================================================
 # Sidequest: Trash Pick-Up
 # =========================================================================================
 
-#Talk to Old Lady
+
+#Talk to STARUSZKA
 message_0:
-      text: \n<OLD LADY>Hello, youngins'!\! I don't know if you've been watchin' where you're steppin', but there's quite a bit of \c[4]TRASH\c[0] around this town.
+      text: \n<STARUSZKA>Witajcie, młodzieńcy!\! Nie wiem, czy ostatnio rozglądaliście się wokół, ale w tym mieście znajduje się dosyć dużo \c[4]ŚMIECI\c[0].
+
 
 message_1:
-      text: \n<OLD LADY>If you happen to find any, can you bring it to me so I can dispose of it properly?
+      text: \n<STARUSZKA>Jeśli natkniecie się na jakieś, to czy moglibyście mi je przynieść, żebym mogła się ich odpowiednio pozbyć?
+
 
 message_2:
-      text: \n<OLD LADY>Come on, youngins'!\!<br>Let's help the world, one step at a time!
+      text: \n<STARUSZKA>No dalej, młodzieńcy!\!<br>Wspólnie pomóżmy naszej planecie!
+
 
 #Give trash
 message_5:
-      text: \n<OLD LADY>Hello, youngins'!\! I see you have some \c[4]TRASH\c[0] with you!\!<br>Thanks, I'll be sure to dispose of this properly!
+      text: \n<STARUSZKA>Witajcie, młodzieńcy!\! Widzę, że macie przy sobie trochę \c[4]ŚMIECI\c[0]!\!<br>Dzięki, zaraz się ich pozbędę!
 
-#Talk to Old Lady after picking up some Trash:
+
+#Talk to STARUSZKA after picking up some Trash:
 message_6:
-      text: \n<OLD LADY>This town seems to be lookin' a little bit cleaner lately...\!<br>I can sleep a little easier thinkin' about that!
+      text: \n<STARUSZKA>To miasto z dnia na dzień wygląda coraz czyściej...\!<br>Z tą myślą przyjemnie mi się zasypia!
 
-#Talk to Old Lady after picking up all Trash:
+
+#Talk to STARUSZKA after picking up all Trash:
+
 
 message_7:
-      text: \n<OLD LADY>\SINV[1]Mmmm...\! Ahh...\! Do you smell that fresh air?
+      text: \n<STARUSZKA>\SINV[1]Mmmm...\! A...\! Czujecie to świeże powietrze?
+
 
 message_8:
-      text: \n<OLD LADY>This town has been much cleaner since you youngins' have started helpin' me pick up the \c[4]TRASH\c[0] around here!\!<br>I really can't thank you enough...
+      text: \n<STARUSZKA>To miasto stało się o wiele czystsze od czasu, gdy wy, młodzieńcy zaczęliście pomagać mi zbierać \c[4]ŚMIECI\c[0]!\!<br>Nie wiem, jak wam się odwdzięczyć...
+
 
 message_9:
-      text: \n<OLD LADY>Oh! That reminds me...\! while I was pickin' up \c[4]TRASH\c[0] yesterday, I happened to stumble upon this!\!<br>Please take this as a token of my gratitude!
+      text: \n<STARUSZKA>O! Przypomniało mi się...\! Gdy zbierałam wczoraj \c[4]ŚMIECI\c[0], znalazłam to!\!<br>Proszę, potraktujcie to jako dowód mojej wdzięczności!
+
 
 message_10:
-      text: You got an \c[4]ETHEREAL CD\c[0]!
+      text: Zdobyłeś \c[4]NIEWYRAŹNĄ PŁYTĘ\c[0]!
+
 
 message_11:
-      text: \n<OLD LADY>\SINV[1]Mmmm...\! Ahh...\! Would you smell that clean air!
+      text: \n<STARUSZKA>\SINV[1]Mmmm...\! Ach...\! Takim powietrzem to aż się chce oddychać!
+
 
 message_12:
-      text: You got \c[4]TRASH\c[0]?
+      text: Zdobyłeś \c[4]ŚMIECI\c[0]?

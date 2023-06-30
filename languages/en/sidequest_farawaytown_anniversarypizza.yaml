@@ -1,79 +1,107 @@
 
 
+
+
 # =========================================================================================
 # Sidequest: Anniversary Pizza
 # =========================================================================================
 
+
 #Talk to Sarahs mom in anniversary day
 
+
 message_1:
-      text: \n<PONYTAIL LADY>Today is the wedding anniversary for my husband and me, but he hasn't mentioned it all day...\! I wonder if he'd forgotten...
+      text: \n<DZIEWCZYNA W KUCYKU>Dzisiaj razem z mężem mamy rocznicę naszego ślubu, ale on jeszcze nic o niej nie wspomniał...\! Może zapomniał...
+
 
 message_2:
-      text: \n<PONYTAIL LADY>Sigh...\! Maybe I've been too tough on him lately.\! He has been gaining some weight recently, and I've been really nagging him about that.
+      text: \n<DZIEWCZYNA W KUCYKU>Ech...\! Chyba ostatnio byłam dla niego zbyt surowa.\! Ostatnimi dniami dużo przybierał na wadze i dosyć często go o to upominałam.
+
 
 message_3:
-      text: \n<PONYTAIL LADY>I've been trying to put him on a diet, but I'm afraid that he's taking it too personally...\! I just want him to take care of himself better!
+      text: \n<DZIEWCZYNA W KUCYKU>Próbowałam przepisać mu jakąś dietę, ale obawiam się, że za bardzo wziął to do siebie...\! Po prostu chcę, żeby o siebie dbał!
+
 
 message_4:
-      text: \n<PONYTAIL LADY>You understand, don't you?
+      text: \n<DZIEWCZYNA W KUCYKU>Rozumiesz mnie, co nie?
+
 
 # [yes / no]
 
+
 # [if yes]
 message_5:
-      text: \n<PONYTAIL LADY>Thanks...\! You know, maybe tonight can be an exception!\!<br>We're celebrating 15 years of our marriage, after all!
+      text: \n<DZIEWCZYNA W KUCYKU>Dzięki...\! Wiecie, może dzisiaj zrobię mu wyjątek!\!<br>W końcu świętujemy 15 lat naszego związku!
+
 
 message_6:
-      text: \n<PONYTAIL LADY>He's always raving about \c[11]GINO'S PIZZA\c[0] and how good it is...\! I'm thinking about buying a \c[3]WHOLE PIZZA\c[0] for us to share as a family.\! What do you think?
+      text: \n<DZIEWCZYNA W KUCYKU>Zawsze gada o \c[11]PIZZY GINA\c[0] i o tym, jaka jest dobra...\! Myślę nad kupieniem mu \c[3]PIZZY\c[0], żebyśmy mogli podzielić się nią jak rodzina.\! Co o tym myślisz?
+
 
 #[yes / no]
 
+
 #if yes a 2nd time
 
+
 message_7:
-      text: \n<PONYTAIL LADY>\com[2]Yes! It's okay to eat oily foods once in a while!\!<br>Everything in moderation!
+      text: \n<DZIEWCZYNA W KUCYKU>\com[2]Tak! Dobrze jest raz na jakiś czas skubnąć sobie coś tłustego!\!<br>Wszystko w umiarze!
+
 
 #SARAH'S MOM walks to PIZZA MAN at Ginos
 
+
 message_8:
-      text: \n<PONYTAIL LADY>I'll have one \c[3]WHOLE PIZZA\c[0], please!
+      text: \n<DZIEWCZYNA W KUCYKU>Poproszę jedną \c[3]PIZZĘ\c[0]!
+
 
 message_20:
-      text: \n<PIZZA MAN>Coming right up!
+      text: \n<PIZZERMAN>Już się robi!
+
 
 message_21:
-      text: \n<PIZZA MAN>Here you go! Please enjoy this delicious \c[3]WHOLE PIZZA\c[0]!\! Mmm...
+      text: \n<PIZZERMAN>Proszę bardzo! Jedna pyszna \c[3]PIZZA\c[0] dla pani!\! Mmm...
+
 
 message_25:
-      text: \n<PONYTAIL LADY>Thank you!
+      text: \n<DZIEWCZYNA W KUCYKU>Dziękuję!
+
 
 message_26:
-      text: \n<PONYTAIL LADY>And thank you for your suggestion!\! I'm sure my husband will love this!
+      text: \n<DZIEWCZYNA W KUCYKU>Dzięki za podpowiedź!\! Jestem pewna, że mój mąż pokocha ten prezent!
+
 
 # [if no choice is picked]
 
+
 message_9:
-      text: \n<PONYTAIL LADY>Oh, I see...
+      text: \n<DZIEWCZYNA W KUCYKU>O, rozumiem...
+
 
 # =========================================================================================
 #Talk to Sarah's Dad after annivery PIZZA
 # =========================================================================================
 
+
 message_10:
-      text: \n<CLUMSY GUY>Phew... It looks like everything worked out somehow...
+      text: \n<NIEZDARA>Uff... Wszystko się jakoś ułożyło...
+
 
 message_11:
-      text: \n<CLUMSY GUY>Sniff... My wife is so thoughtful...\!<br>I'm so lucky to have her.
+      text: \n<NIEZDARA>Chlip... Moja żona jest taka kochana...\!<br>Jestem taki szczęśliwy, że ją mam.
+
 
 message_12:
-      text: \n<CLUMSY GUY>She even got me my favorite thing ever...\!<br>I mean...\! other than her, of course...
+      text: \n<NIEZDARA>Przyniosła mi nawet moją ulubioną rzecz...\!<br>To znaczy...\! poza nią, oczywiście...
+
 
 message_13:
-      text: \n<CLUMSY GUY>\Com[2]It's a \c[3]WHOLE PIZZA\c[0] from \c[11]GINO'S PIZZA\c[0]!
+      text: \n<NIEZDARA>\Com[2]To \c[3]PIZZA\c[0] od \c[11]GINA\c[0]!
+
 
 message_14:
-      text: \n<CLUMSY GUY>You know what?\! I'm so happy with how this day turned out...\! Have a \c[3]PIZZA SLICE\c[0]!
+      text: \n<NIEZDARA>Wiecie co?\! Jestem bardzo zadowolony z tego, jak minął mi ten dzień...\! Weźcie sobie \c[3]KAWAŁEK PIZZY\c[0]!
+
 
 message_15:
-      text: \n<CLUMSY GUY>You really helped me out back there.\!<br>Call me if you ever need help with anything. I owe you one!
+      text: \n<NIEZDARA>Naprawdę mi wtedy pomogliście.\!<br>Zadzwońcie, jeśli będziecie kiedyś czegoś potrzebować. Mam u was dług!

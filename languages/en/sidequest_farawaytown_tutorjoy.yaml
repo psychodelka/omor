@@ -1,146 +1,199 @@
 
+
 # =========================================================================================
 # Sidequest: Tutoring Joy
 # =========================================================================================
 
+
 #Examine and take language Tutor Flyer:
 
+
 message_0:
-      text: There is a job posting on the wall.\! Read it?
+      text: Na ścianie wisi ogłoszenie o pracę.\! Przeczytać?
+
 
 #Yes/No
+
 
 #Yes
 
+
 message_1:
-      text: \"TUTOR HELP WANTED! Looking for a local language<br>tutor for my daughter, JOY! $20.00 a day!\! Please bring this flyer to my house for a quick interview!”
+      text: \"POTRZEBNA POMOC KOREPETYTORA! Poszukuję korepetytora, który udzieli lekcji z języka mojej córce, NADZIEI! 20 $ na dzień!\! Proszę o przyjście do mojego domu na rozmowę kwalifikacyjną z tą ulotką!”
+
 
 message_2:
-      text: Take the \c[4]BLUE FLYER\c[0] off the wall?
+      text: Zdjąć \c[4]NIEBIESKĄ ULOTKĘ\c[0] ze ściany?
+
 
 #Yes/No
+
 
 #Yes
 message_3:
-      text: There is a map to the house on the back.
+      text: Na odwrocie znajduje się mapa prowadząca do domu.
+
+
 #Show map
+
 
 #Examine Joy's House Door
 
+
 message_4:
-      text: \n<THICK EYEBROWS>Hello there!\! What can I do for you?
+      text: \n<BRWIASTY>Witam!\! Co mogę dla was zrobić?
+
 
 message_100:
-      text: You gave THICK EYEBROWS the \c[4]BLUE FLYER\c[0].
+      text: Dałeś \c[4]NIEBIESKĄ ULOTKĘ\c[0] BRWIASTEMU.
+
 
 message_101:
-      text: \n<THICK EYEBROWS>Ah, you must be JOY's new language tutors!
+      text: \n<BRWIASTY>O, wy zapewne jesteście nowymi korepetytorami NADZIEI!
+
 
 message_5:
-      text: \n<THICK EYEBROWS>Hmm...\! An interview is too much trouble!\! <br>You should know 2nd grade language, right?
+      text: \n<BRWIASTY>Hmm...\! Rozmowa o pracę to za dużo zamieszania!\! <br>Ogarniacie materiał z II klasy podstawówki, prawda?
+
 
 message_7:
-      text: \n<THICK EYEBROWS>Hurry and come in!\! My daughter JOY is waiting for you in her room!
+      text: \n<BRWIASTY>Ruchy, wchodźcie!\! Moja córka NADZIEJA czeka na was w swoim pokoju!
+
 
 #Talk to Joy
 
+
 message_8:
-      text: \n<SMALL GIRL>H-Hello... I'm JOY. Pleased to meet you!\!<br>You must be my new tutors.\! Should we start now?
+      text: \n<MAŁA DZIEWCZYNKA>Cz-cześć... Jestem NADZIEJA. Miło mi was poznać!\!<br>Wy pewnie jesteście moimi nowymi korepetytorami.\! Możemy już zacząć?
+
 
 message_9:
-      text: \n<SMALL GIRL>This is the worksheet that I'm stuck on...
+      text: \n<MAŁA DZIEWCZYNKA>To jest karta pracy, na której utknęłam...
+
 
 #Language worksheet
 
+
 message_10:
-      text: \n<SMALL GIRL>This question is giving me a little trouble...
+      text: \n<MAŁA DZIEWCZYNKA>To pytanie sprawia mi trochę kłopotu...
+
 
 message_11:
-      text: My pencil is __ the table.
+      text: Mój ołówek jest ____ stole.
+
 
 message_12:
-      text: A) in
+      text: A) w
+
 
 message_13:
-      text: B) at
+      text: B) przy
+
 
 message_14:
-      text: C) on
+      text: C) na
+
 
 message_15:
-      text: \n<SMALL GIRL>How about this one?
+      text: \n<MAŁA DZIEWCZYNKA>A co z tym?
+
 
 message_16:
-      text: In the phrase, “silently read your book.”, what type of word is “silently”?
+      text: W zdaniu:\ “Czytaj swoją książkę cicho i powoli.”, jaką częścią mowy jest wyraz “cicho”?
+
 
 message_17:
-      text: A) Adjective
+      text: A) przymiotnik
+
 
 message_18:
-      text: B) Adverb
+      text: B) przysłówek
+
 
 message_19:
-      text: C) Preposition
+      text: C) przyimek
+
 
 message_20:
-      text: \n<SMALL GIRL>This one's the hardest one...
+      text: \n<MAŁA DZIEWCZYNKA>Ten przykład jest najtrudniejszy...
+
 
 message_21:
-      text: Which one of these sentences is written correctly?
+      text: Które z tych zdań jest zapisane poprawnie?
+
 
 message_22:
-      text: A) “Eggplants taste better when it is cooked.”
+      text: A) “Bakłażany smakują lepiej, kiedy jest podgrzany.”
+
 
 message_23:
-      text: B) “It is definitely tastiest than tofu.”
+      text: B) “Jest zdecydowanie najsmaczniejsze od tofu.”
+
 
 message_24:
-      text: C) “I think eggplant is the better tasting soft vegetable.”
+      text: C) “Moim zdaniem bakłażan jest lepszym w smaku warzywem.”
+
 
 #Correct choice:
 
+
 message_25:
-      text: \n<SMALL GIRL>Oh, okay!\! I see now...
+      text: \n<MAŁA DZIEWCZYNKA>O, okej!\! Już rozumiem...
+
 
 #Incorrect choice:
 
+
 message_26:
-      text: \n<SMALL GIRL>Wait...\! I thought the right answer was "A"?
+      text: \n<MAŁA DZIEWCZYNKA>Moment...\! Myślałam, że prawidłowa odpowiedź to "A".
+
 
 message_27:
-      text: \n<SMALL GIRL>Hmm...\! But...\! Isn't the right answer "B"?
+      text: \n<MAŁA DZIEWCZYNKA>Hmm...\! Tyle, że...\! to nie jest przypadkiem "B"?
+
 
 message_28:
-      text: \n<SMALL GIRL>Hmm...\! Wait...\! Isn't the correct answer "C"?
+      text: \n<MAŁA DZIEWCZYNKA>Hmm...\! Zaraz...\! Czy czasem "C" nie jest poprawną odpowiedzią?
+
 
 message_29:
-      text: \n<SMALL GIRL>Oh, I get it!\! You must be testing me...
+      text: \n<MAŁA DZIEWCZYNKA>Ooo, kumam!\! Pewnie tylko mnie sprawdzasz...
+
 
 message_30:
-      text: \n<SMALL GIRL>Sorry, I've never had a tutor before so I don't know how this works!
+      text: \n<MAŁA DZIEWCZYNKA>Wybacz, nigdy wcześniej nie miałam korepetytora, więc nie wiem, jak to wygląda!
+
 
 #After Completing Language Worksheet:
 
+
 message_31:
-      text: \n<SMALL GIRL>Thanks!\! I think I understand a little better...\! Hehe...
+      text: \n<MAŁA DZIEWCZYNKA>Dzięki!\! Myślę, że coraz lepiej to rozumiem...\! Hehe...
+
 
 message_32:
-      text: \n<THICK EYEBROWS>Hello! Hello!\! JOY! How are you doing?\! <br>Are these tutors of any help to you at all?
+      text: \n<BRWIASTY>Cześć! Cześć\! NADZIEJO! Jak ci idzie?\! <br>Czy ci korepetytorzy są dla ciebie w ogóle pomocni?
+
 
 message_33:
-      text: \n<THICK EYEBROWS>Ah!\! I see you have already completed your worksheet...
+      text: \n<BRWIASTY>Ach!\! Widzę, że już uzupełniłaś swoją kartę pracy...
+
 
 message_34:
-      text: \n<THICK EYEBROWS>Amazing work!\! You should consider tutoring full-time!\! <br>Here is your payment!
+      text: \n<BRWIASTY>Świetna robota!\! Powinniście pomyśleć nad udzielaniem korepetycji na pełen etat\! <br>Oto twoja zapłata!
+
 
 message_35:
-      text: \n<THICK EYEBROWS>Please come back tomorrow!
+      text: \n<BRWIASTY>Proszę wrócić jutro!
+
 
 message_36:
-      text: \n<THICK EYEBROWS>Hello! Are you here because of the tutoring poster?\! No? Oh...
+      text: \n<BRWIASTY>Witam! Przyszliście tu z powodu plakatu o korepetycjach?\! Nie? O...
+
 
 message_37:
-      text: \n<THICK EYEBROWS>JOY should be in her room right now.\! Thanks for your help!
+      text: \n<BRWIASTY>NADZIEJA powinna być teraz w swoim pokoju.\! Dziękuję za pomoc!
+
 
 message_1000:
-      text: Ugh...\! Language...
+      text: Ech...\! Polska język trudna język...

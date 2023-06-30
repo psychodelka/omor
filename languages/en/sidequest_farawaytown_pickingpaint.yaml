@@ -1,81 +1,108 @@
 
+
 # =========================================================================================
 # Sidequest: Picking Paint
 # =========================================================================================
 
+
 #Talk to Sean or Karen:
 
+
 message_1:
-      text: \n<PIGTAILS LADY>After all this time, we've finally moved in together!\!<br>This is so exciting, isn't it, SEAN?
+      text: \n<PANI W KUCYKACH>W końcu możemy razem zamieszkać!\!<br>To wspaniałe, co nie, SZYMONIE?
+
 
 message_2:
-      text: \n<CHECKERS GUY>Yeah...\! This is the start of the rest of our lives!
+      text: \n<KRACIASTY>Ta...\! To początek całego naszego życia!
+
 
 message_3:
-      text: \n<CHECKERS GUY>Now it's time to make our first important decision...\!<br>What color should we paint our house's walls?
+      text: \n<KRACIASTY>Nadszedł czas na podjęcie pierwszej ważnej decyzji...\!<br>jakiego koloru powinny być ściany naszego domu?
+
 
 message_4:
-      text: \n<PIGTAILS LADY>Hmm...\! I think anything would work!\! I like all of the colors!\!<br>What do you think, SEAN?
+      text: \n<PANI W KUCYKACH>Hmm...\! Myślę, że cokolwiek będzie pasować!\! Podobają mi się wszystkie kolory!\!<br>Co myślisz, SZYMONIE?
+
 
 message_5:
-      text: \n<CHECKERS GUY>I could go any way too...\! Don't worry about me!\!<br>You can choose, KAREN!\! What color would you like?
+      text: \n<KRACIASTY>Wszystko mi jedno...\! Nie martw się mną!\!<br>Wybierz jakiś, KARINA!\! Jaki kolor chcesz?
+
 
 message_6:
-      text: \n<PIGTAILS LADY>Oh, SEAN!\! You're too selfless!\! I don't need to pick a wall color!\! I'll be happy with anything as long as I'm with you!
+      text: \n<PANI W KUCYKACH>O, SZYMON!\! Zawsze myślisz o innych!\! Nie muszę wybierać koloru ścian!\! Wszystko będzie mi się podobać, dopóki jesteśmy razem!
+
 
 message_7:
-      text: \n<CHECKERS GUY>...\! KAREN...\!<br>If we keep doing this, we're going to be stuck here forever...
+      text: \n<KRACIASTY>...\! KARINO...\!<br>Jeśli nie podejmiemy decyzji, to nigdy nie ruszymy z miejsca...
+
 
 message_8:
-      text: \n<PIGTAILS LADY>Hmm...\! You're right...\!<br>What if we just close our eyes and pick a color?
+      text: \n<PANI W KUCYKACH>Hmm...\! Masz racje...\!<br>A może zamkniemy oczy i któryś wybierzmy?
+
 
 message_9:
-      text: \n<CHECKERS GUY>Oh, that works!\!<br>That way, the result will be completely impartial!\!<br>Let's do it!
+      text: \n<KRACIASTY>O, w porządku!\!<br>W ten sposób wynik będzie całkowicie bezstronny!\!<br>Tak zróbmy!
+
 
 message_10:
-      text: \n<PIGTAILS LADY>Okay, sounds good!
+      text: \n<PANI W KUCYKACH>Okej, brzmi nieźle!
+
 
 message_11:
-      text: \n<CHECKERS GUY>Close your eyes, KAREN...
+      text: \n<KRACIASTY>Zamknij oczy, KARINA...
+
 
 message_12:
-      text: \n<PIGTAILS LADY>W-Wait!\! Hold on!\! It's okay!\!<br>You should be the one to do it, SEAN...\! I insist!
+      text: \n<PANI W KUCYKACH>Cz-czekaj!\! Moment!\! W porządku!\!<br>To ty powinieneś to zrobić, SZYMONIE...\! Nalegam!
+
 
 message_13:
-      text: \n<CHECKERS GUY>No, KAREN...\! It should definitely be you!\!<br>What if I pick a color you don't like?
+      text: \n<KRACIASTY>Nie, KARINO...\! To powinnaś być ty!\!<br>Co, jeśli wybiorę kolor, który ci się nie spodoba?
+
 
 message_14:
-      text: \n<CHECKERS GUY>...
+      text: \n<KRACIASTY>...
+
 
 message_15:
-      text: \n<PIGTAILS LADY>Oh...\! We're not getting anything done here, are we?\! Hehe...
+      text: \n<PANI W KUCYKACH>Oj...\! Do niczego w ten sposób nie dojdziemy, co nie?\! Hehe...
+
 
 message_16:
-      text: \n<PIGTAILS LADY>I have an idea!\! Let's get a stranger to help us!
+      text: \n<PANI W KUCYKACH>Mam pomysł!\! Poprośmy tego nieznajomego o pomoc!
+
 
 message_17:
-      text: \n<PIGTAILS LADY>Hey, you!\! Could you help us out for a second?\!<br>Please come here and pick a color sample...\!<br>Just make sure it's completely random!
+      text: \n<PANI W KUCYKACH>Ej, ty!\! Czy mógłbyś nam z czymś pomóc?\!<br>Po prostu podejdź i wybierz jakiś kolor...\!<br>Ale zrób to na ślepo!
+
 
 message_18:
-      text: You closed your eyes.
+      text: Zamknąłeś oczy.
+
 
 message_19:
-      text: You picked up a floral wallpaper sample.
+      text: Wybrałeś próbkę tapety w kwiaty.
+
 
 message_20:
-      text: \n<CHECKERS GUY>Huh?\! What's this wallpaper doing here in the paint section?\!<br>Hmmm...\! It must have gotten misplaced...
+      text: \n<KRACIASTY>Hę?\! Co ta tapeta robi w sekcji z farbami?\!<br>Hmmm...\! Ktoś musiał ją źle odłożyć...
+
 
 message_21:
-      text: \n<CHECKERS GUY>Well...\! It's not really what I was expecting, but I'm kind of digging it...\! What do you think, KAREN?
+      text: \n<KRACIASTY>No cóż...\! To nie coś, czego się spodziewałem, ale pasuje...\! Co o tym myślisz, KARINO?
+
 
 message_22:
-      text: \n<PIGTAILS LADY>A wallpaper seems neat!\!<br>I think this works just fine!\! Let's do it!
+      text: \n<PANI W KUCYKACH>Tapeta brzmi nieźle!\!<br>Wydaje mi się, że będzie pasować!\! Weźmy ją!
+
 
 message_23:
-      text: \n<PIGTAILS LADY>Thank you so much for your help!\!<br>We're both from around the area, but we just moved in together into a brand new house recently...
+      text: \n<PANI W KUCYKACH>Wielkie dzięki za pomoc!\!<br>Mieszkamy niedaleko stąd, ale dopiero niedawno wprowadziliśmy się razem do naszego nowego domu...
+
 
 message_24:
-      text: \n<PIGTAILS LADY>It's the one with the yellow roof on the street near the \c[11]CHURCH\c[0]!
+      text: \n<PANI W KUCYKACH>To ten z żółtym dachem, na tej samej ulicy co \c[11]KOŚCIÓŁ\c[0]!
+
 
 message_25:
-      text: \n<PIGTAILS LADY>We're thinking of having a housewarming party two days from now.\! It would be amazing if you could join!
+      text: \n<PANI W KUCYKACH>Myślimy nad zorganizowaniem parapetówki za dwa dni.\! Byłoby fajnie, gdybyście przyszli!

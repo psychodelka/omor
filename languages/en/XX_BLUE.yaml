@@ -253,10 +253,10 @@ Omori_Save_Load:
 Yin_Blackjack:
   bets: [5 $,25 $,100 $,Wyjdź] # Those are the strings in the bet commands
   jack_commands: [Czekaj, Dobierz] # Those are the commands for blackjack. They will be uppercased.
-  dealer_streak: Kurpier %1 # %1 is streak string
+  dealer_streak: Krupier %1 # %1 is streak string
   player_streak: Gracz %1 # %1 is streak string
   streak_string: " - Wygrane - %1" # %1 is the player/dealer streak value
-  score: "Wynik: Kurpier - %1   Ty - %2" # %1 and %2 are dealer and player scores
+  score: "Wynik: Krupier - %1   Ty - %2" # %1 and %2 are dealer and player scores
   bet: "Zakład: %1 $ x%2 Łącznie - %3 $" # Format numbers references to wagerAmount, playerBonus and currentEarnings
   maincommands: [Nowa Gra, Kontynuuj, Wyjdź] # Blackjack commands. They will be uppercased.
 
@@ -442,4 +442,4 @@ Window_OmoMenuActorSkillEquip:
 
 Window_OmoriShopItemList:
   transactionHeaderFontSize: 20 # OMORI ITEM SHOP LINE 910
-  itemFontSize: 24 # OMORI ITEM SHOP LINE 892
+  itemFontSize: 22 # OMORI ITEM SHOP LINE 892

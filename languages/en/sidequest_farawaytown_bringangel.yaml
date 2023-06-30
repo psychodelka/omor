@@ -2,111 +2,150 @@
 # Sidequest: Bring back Angel
 # =========================================================================================
 
+
 message_0:
-      text: \artHey, have you guys seen my idiot little brother, ANGEL?\!<br>I gave him some money and sent him out on some errands this morning, but he hasn't come back yet.
+      text: \n<ARTYSTKA>Hej, widzieliście może mojego brata debila, ANGELA?\!<br>Dałam mu trochę pieniędzy i kazałam coś załatwić, ale jeszcze nie wrócił.
+
 
 message_1:
-      text: \artKnowing him... He probably just forgot...\!<br>If you find him, could you check up on him?
+      text: \n<ARTYSTKA>Znając go... po prostu o tym zapomniał...\!<br>Jeśli go spotkacie, moglibyście mu przypomnieć?
+
 
 message_2:
-      text: \artTell him...\! his sister...\! is growing impatient...
+      text: \n<ARTYSTKA>Powiedzcie mu...\! że jego siostra...\! się niecierpliwi...
+
 
 #Talk to ANGEL
+
 
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelHey, ANGEL! Your sister is looking for you...\!<br>She said she sent you out on some errands earlier today!
+      text: \kelHej, ANGEL! Siostra cię szuka...\!<br>Powiedziała, że kazała ci załatwić jakąś sprawę!
+
 
 message_4:
-      text: \angHuh...\! Errands?\! What errands?
+      text: \angHę...\! Sprawę?\! Jaką sprawę?
+
 
 message_5:
-      text: \ang\Com[2]Oh, crap!\! I forgot I was supposed to buy some art supplies for her this morning!
+      text: \ang\Com[2]O kurde!\! Zapomniałem, że dzisiaj rano miałem jej kupić przybory!
+
 
 message_6:
-      text: \angUh...\! Uh-oh...\! So that's why I had that money in my pocket...\!<br>...\! Oops...
+      text: \angEee...\! O nie...\! To dlatego miałem pieniądze w kieszeni...\!<br>...\! Ups...
+
 
 message_7:
-      text: \angHey, uh...\! When you were talking to my sister...\!<br>Did...\! Did she look angry?
+      text: \angHej, yyy...\! Gdy z nią rozmawialiście...\!<br>Czy...\! Czy wyglądała na złą?
+
 
 #[yes/no]
 
+
 #[if yes]
 
+
 message_8:
-      text: \angSh-She...\! did?
+      text: \angT-tak?
+
 
 message_9:
-      text: \angHmm...\! Should I bother going back home then?\!<br>Is it even worth it at this point?
+      text: \angHmm...\! W takim razie czy w ogóle powinienem wracać do domu?\!<br>Czy w ogóle mi się opłaca?
+
 
 message_10:
-      text: \ang\Com[2]Gah!\! No, if I keep running away, it'll only make things worse!\!<br>Come on, ANGEL! You have to face your fears head on!
+      text: \ang\Com[2]A!\! Nie, jeśli ciąglę będę uciekał, to tylko pogorszę sprawę!\!<br>Dawaj, ANGEL! Musisz stawić czoła swoim lękom!
+
 
 message_11:
-      text: \ang\{\Com[2]ONWARD, ANGEL!\! \Com[2]YOU CAN DO THIS!!
+      text: \ang\{\Com[2]NAPRZÓD, ANGEL!\! \Com[2]DASZ RADĘ!!
+
 
 #ADD FWWAAAAAAAAA
 
+
 #ANGEL runs O.S. towards TOWN PLAZA.
+
 
 #[if no]
 
+
 message_12:
-      text: \angHeh...\! Is that so...?\! Well, you can never be too sure, can you?
+      text: \angHeh...\! Naprawdę...?\! Cóż, nigdy nie można być zbyt pewnym, co nie?
+
 
 message_13:
-      text: \angI should probably head back now...\! just to be safe...
+      text: \angPowinienem już iść...\! tak dla pewności...
+
 
 message_14:
-      text: \angI'll catch up with you guys later...
+      text: \angPogadamy później...
+
 
 message_15:
-      text: \angI...\! uh...\! I gotta go...
+      text: \angJa...\! eee...\! Muszę iść...
+
 
 #Fwaaaaa
 #ANGEL runs O.S. towards TOWN PLAZA.
+
 
 # =========================================================================================
 # Cutscene: Angel's Punishment
 # =========================================================================================
 
+
 message_20:
-      text: \art\{\{\COM[2]\QUAKE[1]ANGEL, GET BACK HERE!!!!\QUAKE[0]
+      text: \n<ARTYSTKA>\{\{\COM[2]\QUAKE[1]ANGEL, WRACAJ TU!!!!\QUAKE[0]
+
 
 message_21:
-      text: \ang\{\{\COM[2]\QUAKE[1]I'M SORRY, SIS!!!\QUAKE[0]
+      text: \ang\{\{\COM[2]\QUAKE[1]PRZEPRASZAM, SIORA!!!\QUAKE[0]
+
 
 message_22:
-      text: \ang\COM[2]\QUAKE[1]Please...\! I beg you...\!<br>\{\COM[2]NOT THAT!!!\! \COM[2]ANYTHING BUT THAT!!!!\QUAKE[0]
+      text: \ang\COM[2]\QUAKE[1]Proszę...\! błagam...\!<br>\{\COM[2]NIE, PROSZĘ!!!\! \COM[2]WSZYSTKO TYLKO NIE TO!!!!\QUAKE[0]
+
 
 #RIPPING NOISE
 
+
 message_23:
-      text: \ang\COM[2]\QUAKE[1]AHH\{HHHHH\{HHHH\{HHHHH\{HHHHHH!!!!\QUAKE[0]
+      text: \ang\COM[2]\QUAKE[1]AAA\{AAAAA\{AAAA\{AAAAA\{AAAAAA!!!!\QUAKE[0]
+
 
 #TALK TO ARTIST
 
 
+
+
 message_24:
-      text: \artHuff...\! Oh, it's just you guys.\!<br>Thanks for fetching my baby brother...
+      text: \n<ARTYSTKA>Uff...\! O, to tylko wy.\!<br>Dzięki za przyprowadzenie mojego braciszka...
+
 
 message_25:
-      text: \artHe's...\! He's in a better place now...
+      text: \n<ARTYSTKA>Jest...\! Jest teraz w lepszym miejscu...
+
 
 message_26:
-      text: \artJust kidding...\! He's just standing in the corner there in time-out.\! Maybe next time he'll think twice before he uses all my money to buy trading cards!
+      text: \n<ARTYSTKA>Nie no, żartuję...\! Po prostu stoi w kącie.\! Może następnym razem pomyśli dwa razy, zanim kupi karty za moje pieniądze!
+
 
 message_27:
-      text: \art\}Psst...\! Here.\! Take this.
+      text: \n<ARTYSTKA>\}Psst...\! Hej.\! Weźcie to.
+
 
 message_100:
-      text: You got a \c[4]RARE CARD\c[0].
+      text: Zdobyłeś \c[4]RZADKĄ KARTĘ\c[0].
+
 
 #You got a RARE TRADING CARD.
 
+
 message_28:
-      text: \art\}I pretended to rip one of his ultra rare cards earlier just to freak him out a little...\! but that's the real one right there.
+      text: \n<ARTYSTKA>\}Udawałam, że podarłam jedną z jego ultra rzadkich kart, żeby go trochę przestraszyć....\! ale tak naprawdę mam ją tutaj.
+
 
 message_29:
-      text: \art\}Just...\! hold on to it for a few days or so before you give it back to him.\! Heh heh...\! That should teach him a lesson.
+      text: \n<ARTYSTKA>\}Weźcie ją ze sobą na kilka dni, zanim mu ją oddacie.\! He he...\! To powinno dać mu nauczkę.

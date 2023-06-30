@@ -2,238 +2,301 @@
 # Dreamworld NPC dialogue
 # =========================================================================================
 
+
 # ==============PINWHEEL========================================
                         #====NIGHT 1-1====
+
 
 #LEMON JASH
 #Shop dialogue guide
 
-#HOT DIGGITY DOG
+
+#FRANCUSKI PIESEK
 #Location: TRAIN STATION
 message_0:
-      text: \n<HOT DIGGITY DOG>Hot...\! diggity...\! dog!\! It's me!\! A hot diggity dog!
+      text: \n<FRANCUSKI PIESEK>Fran...\! cuski...\! piesek!\! To ja!\! Francuski piesek!
+
 
 #KITE KID
 #REFER TO PERFECT WIND SIDEQUEST
 
+
 #LEAFIE
 #REFER TO RABBITKILLER SIDEQUEST
 
-#SPELLING BEE
+
+#PSZCZELITERA
 #Location: Train station
 message_1:
-      text: \n<SPELLING BEE>H-\!E-\!L-\!L\!-O!\! I\! A-\!M\! T-\!H-\!E\!<br>S-\!P-\!E-\!L-\!L-\!I-\!N-\!G\! B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E!
+      text: \n<PSZCZELITERA>C-\!Z-\!E-\!Ś-\!Ć\! J-\!E-\!S-\!T-\!E-\!M\!<br>P-\!S-\!Z-\!C-\!Z-\!E-\!L-\!I-\!T-\!E-\!E-\!E-\!R-\!Ą!
 
-#Gator Guy 1
+
+#ALI GATOR 1
 #Location: Train Station
 message_2:
-      text: \n<GATOR GUY>Heh heh heh...\!\} heh heh...\!\{ heh... \!\}heh...\{
+      text: \n<ALI GATOR>He he he...\!\} he he...\!\{ he... \!\}he...\{
 
-#Gator Guy 2
+
+#ALI GATOR 2
 #Location: Train Station
 message_3:
-      text: \n<GATOR GUY>Kek kek kek...\!\} kek kek...\!\{ kek... \!\}kek...\{
+      text: \n<ALI GATOR>Ke ke ke...\!\} ke ke...\!\{ ke... \!\}ke...\{
+
 
 message_4:
-      text: \n<GATOR GUY>Over.
+      text: \n<ALI GATOR>Koniec.
+
 
 #GIBS
 #Location: Train Station
 message_5:
-      text: \n<GIBS THE STATIONARY MUSICIAN>Hi, kids!\! I'm GIBS, the STATIONARY MUSICIAN!\!<br>I used to be a TRAVELING MUSICIAN, but I left that life a long time ago.
+      text: \n<STACJONARNY GRAJEK KOCURRO>Hej, dzieciaki!\! Jestem KOCURRO, STACJONARNY GRAJEK!\!<br>Byłem kiedyś PODRÓŻUJĄCYM GRAJKIEM, lecz porzuciłem tą fuchę bardzo dawno temu.
+
 
 message_6:
-      text: \n<GIBS THE STATIONARY MUSICIAN>Would you be able to spare 5 CLAMS? They g'would<br>be a great help, since I am completely stationary.\!<br>I'll show you something \SINV[1]g'wood\SINV[0] if you do!\$
+      text: \n<STACJONARNY GRAJEK KOCURRO>Czy poratowalibyście mnie 5 MAŁŻAMI? Te pień-ążki bardzo przydałyby się waszemu stacjonarnemu kumplowi.\!<br>W podzięce pokażę wam coś \SINV[1]pień-knego\SINV[0]!\$
+
 
 message_7:
-      text: \n<GIBS THE STATIONARY MUSICIAN>Thank you for your donation!\! Now, in return...<br>Let me play you the song of my people.
+      text: \n<STACJONARNY GRAJEK KOCURRO>Dziękuję za darowiznę!\! A teraz...<br>pozwólcie, że zagram moją pieśń ludową.
+
 
 message_8:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubWow, sir!\. That was really amazi-\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|
+      text: \aubŁał, proszę pana!\. To było naprawdę niesa...\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|
+
 
 message_9:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
       text: \aub...
 
+
 message_10:
-      text: You thought the song was pretty \SINV[1]g'wood\SINV[0].
+      text: Ta pieśń była istnie \SINV[1]pień-kna\SINV[0].
+
 
 message_51:
-      text: YES
+      text: TAK
+
 
 message_52:
-      text: You don't have enough CLAMS.
+      text: Nie masz wystarczająco MAŁŻY.
+
+
 
 
 #WISE ROCK
 #Location: East Coast
 message_11:
-      text: \wisHi, I'm the WISE ROCK!\!<br>I give solid advice in exchange for CLAMS!
+      text: \n<MĘDRZYSKAŁA>Witajcie, zwę się MĘDRZYSKAŁĄ!\!<br>Pobłogosławię was niezbitymi radami w zamian za MAŁŻE!
+
 
 message_12:
-      text: \wisWhat kind of advice would you like me to give?\$
+      text: \n<MĘDRZYSKAŁA>Jaką radę chciałbyś usłyszeć?\$
+
 
 message_13:
-      text: \wis... \!Understood!\! Here is your advice.
+      text: \n<MĘDRZYSKAŁA>... \!Rozumie się!\! Oto twoja rada.
+
 
 message_14:
-      text: \wis...\! I hope this helps!
+      text: \n<MĘDRZYSKAŁA>...\! Mam nadzieję, że pomoże!
+
 
 # =========================================================================================
 # BAD ADVICE
 # =========================================================================================
 
+
 message_20:
-      text: \wisAnything is okay as long as you don't get caught!
+      text: \n<MĘDRZYSKAŁA>Nic nie jest złe, póki ktoś cię nie przyłapie!
+
 
 message_21:
-      text: \wis\QUAKE[1]\{Yell \Com[2]\{ALL \Com[2]\{THE \Com[2]TIME!!!!\}\}\}\QUAKE[0]
+      text: \n<MĘDRZYSKAŁA>\QUAKE[1]\{Krzycz \Com[2]\{BEZ \Com[2]KOŃCA!!!!\}\}\}\QUAKE[0]
+
 
 message_22:
-      text: \wisWhen life gives you lemons...\! Start a \c[3]LEMONADE\c[0] stand in front of a \c[11]TRAIN STATION\c[0] and give away complimentary \c[4]TRAIN PASSES\c[0] with each purchase of \c[3]LEMONADE\c[0].
+      text: \n<MĘDRZYSKAŁA>Kiedy życie daje ci cytryny...\! postaw stoisko z \c[3]LEMONIADĄ\c[0] tuż przed \c[11]STACJĄ KOLEJOWĄ\c[0] i rozdawaj \c[4]BILETY\c[0] gratis za każdy kubek \c[3]LEMONIADY\c[0].
+
 
 message_23:
-      text: \wisListen to everyone's advice.
+      text: \n<MĘDRZYSKAŁA>Słuchaj wszystkich rad.
+
 
 message_24:
-      text: \wisDon't be ugly.
+      text: \n<MĘDRZYSKAŁA>Nie bądź brzydki.
+
 
 # =========================================================================================
 # OK ADVICE
 # =========================================================================================
 
+
 message_25:
-      text: \wisNot all advice is good advice.
+      text: \n<MĘDRZYSKAŁA>Nie wszystkie rady są dobre.
+
 
 message_26:
-      text: \wisNever make eye contact while eating a banana.
+      text: \n<MĘDRZYSKAŁA>Nigdy nie nawiązuj kontaktu wzrokowego podczas jedzenia banana.
+
 
 message_27:
-      text: \wisIt is not wise to listen to advice from a rock.
+      text: \n<MĘDRZYSKAŁA>Niemądrze jest słuchać skalich rad.
+
 
 message_28:
-      text: \wisYour problems will catch up to you eventually.
+      text: \n<MĘDRZYSKAŁA>Twoje problemy w końcu cię dopadną.
+
 
 message_29:
-      text: \wisThere are approximately 238,900 miles between the Earth and the Moon.
+      text: \n<MĘDRZYSKAŁA>Odległość między Ziemią a Księżycem wynosi około 384400 kilometrów.
+
 
 # =========================================================================================
 # GOOD ADVICE
 # =========================================================================================
 
+
 message_30:
-      text: \wisFollow your heart, but remember to take your brain with you!
+      text: \n<MĘDRZYSKAŁA>Podążaj za głosem serca, ale nie zapomnij zabrać ze sobą rozumu!
+
 
 message_31:
-      text: \wisDo something today that you'll thank yourself for tomorrow!
+      text: \n<MĘDRZYSKAŁA>Zrób dziś coś, za co jutro sobie podziękujesz!
+
 
 message_32:
-      text: \wisPain doesn't last forever.
+      text: \n<MĘDRZYSKAŁA>Ból nie trwa wiecznie.
+
 
 message_33:
-      text: \wisLife is short, so smile while you still have teeth!
+      text: \n<MĘDRZYSKAŁA>Życie jest krótkie, więc uśmiechaj się, dopóki masz jeszcze zęby!
+
 
 message_34:
-      text: \wisIf opportunity does not knock, you can always build a door!
+      text: \n<MĘDRZYSKAŁA>Kiedy jedne drzwi się zamykają, zawsze możesz wstawić drugie!
+
 
 message_35:
-      text: You don't have enough CLAMS.
+      text: Nie masz wystarczająco MAŁŻY.
+
 
 # =========================================================================================
 # NO ADVICE
 # =========================================================================================
 
+
 message_36:
-      text: \wisFeel free to come back anytime for advice!
+      text: \n<MĘDRZYSKAŁA>Zapraszam z powrotem po następne rady!
+
 
 message_37:
-      text: GOOD ADVICE (30 CLAMS)
+      text: DOBRA RADA (30 MAŁŻY)
+
 
 message_38:
-      text: BAD ADVICE (3 CLAMS)
+      text: ZŁA RADA (3 MAŁŻE)
+
 
 message_39:
-      text: OKAY ADVICE (10 CLAMS)
+      text: RADA NA POZIOMIE (10 MAŁŻ)
+
 
 message_41:
-      text: NO ADVICE
+      text: ŻADNEJ RADY
                         #====NIGHT 1-2====
 
+
 #Lemon Jash: Same as Night 1-1
-#Hot Diggity Dog: Same as Night 1-1
+#FRANCUSKI PIESEK: Same as Night 1-1
 #Kite Kid: Same as Night 1-1
 #LEAFIE: Same as Night 1-1
-#Spelling Bee:
+#PSZCZELITERA:
 message_40:
-      text: \n<SPELLING BEE>H-\!O-\!W\! A-\!R-\!E\! Y-\!O-\!U\! T-\!H-\!I-\!S\! F-\!I-\!N-\!E\! B-\!E-\!E-\!V-\!E-\!N-\!I-\!N-\!G?\!<br>I-\!S-\!N'-\!T \!T-\!H-\!E \!W-\!E-\!A-\!T-\!H-\!E-\!R \!J-\!U-\!S-\!T \!B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!A-\!U-\!T-\!I-\!F-\!U-\!L?
+      text: \n<PSZCZELITERA>C-\!O\! U\! W-\!A-\!S\!, P-\!S-\!Z-\!C-\!Z-\!Y-\!J-\!A-\!C-\!I-\!E-\!L-\!E?\!<br>P-\!S-\!Z-\!C-\!Z-\!E-\!L-\!A-\!S-\!T-\!Y-\!C-\!Z-\!N-\!Ą\! M-\!A-\!M-\!Y\! D-\!Z-\!I-\!Ś\! P-\!O-\!G-\!O-\!D-\!Ę!
 #Wise Rock: Same as Night 1-1
-#Gator Guy 1: Same as Night 1-1
-#Gator Guy 2: Same as Night 1-1
+#ALI GATOR 1: Same as Night 1-1
+#ALI GATOR 2: Same as Night 1-1
 #Gibs: Same as Night 1-1
+
 
                         #====NIGHT 2====
 
+
 #Lemon Jash: Same as Night 1-1
-#Hot Diggity Dog: Same as Night 1-1
+#FRANCUSKI PIESEK: Same as Night 1-1
 #Kite Kid: Dialogue is in dreamworld_extras_blackspace yaml
 #LEAFIE: Same as Night 1-1
-#Spelling Bee:
+#PSZCZELITERA:
 message_50:
-      text: \n<SPELLING BEE>W-\!H-\!Y \!H-\!E-\!L-\!L-\!O \!T-\!H-\!E-\!R-\!E! \!I-\!T'-\!S \!Y-\!O-\!U \!A-\!G-\!A-\!I-\!N!\!<br>H-\!O-\!W \!H-\!A-\!V-\!E \!Y-\!O-\!U \!B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!N?
+      text: \n<PSZCZELITERA>O\!, W-\!I-\!T-\!A-\!M!\! T-\!O\! Z-\!N-\!O-\!W-\!U\! W-\!Y!\!<br>J-\!A-\!K\! S-\!I-\!Ę\! P-\!S-\!Z-\!C-\!Z-\!Y-\!M-\!A-\!C-\!I-\!E?
+
 
 #Wise Rock: Same as Night 1-1
-#Gator Guy 1: N/A
-#Gator Guy 2: N/A
+#ALI GATOR 1: N/A
+#ALI GATOR 2: N/A
 #Gibs: Same as Night 1-1
+
 
                         #====NIGHT 3====
 
+
 #Lemon Jash: Same as Night 1-1
-#Hot Diggity Dog: Same as Night 1-1
+#FRANCUSKI PIESEK: Same as Night 1-1
 #Kite Kid: N/A
 #LEAFIE: Same as Night 1-1
-#Spelling Bee:
+#PSZCZELITERA:
 message_60:
-      text: \n<SPELLING BEE>B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!S!
+      text: \n<PSZCZELITERA>P-\!S-\!Z-\!C-\!Z-\!Ó-\!Ó-\!Ó-\!Ó-\!Ó-\!Ł-\!E-\!C-\!Z-\!K-\!I!
+
 
 #Wise Rock: Same as Night 1-1
-#Gator Guy 1: N/A
-#Gator Guy 2: N/A
+#ALI GATOR 1: N/A
+#ALI GATOR 2: N/A
 #Gibs: Same as Night 1-1
+
+
 
 
 message_61:
-      text: \n<MR. PARROT>\quake[1]Squak.\quake[0] (Line starts here.)
+      text: \n<PAN PAPUGA>\quake[1]Gra.\quake[0] (Tu zaczyna się kolejka.)
                         #====NIGHT 4====
 
+
 #Lemon Jash: Same as Night 1-1
-#Hot Diggity Dog: Same as Night 1-1
+#FRANCUSKI PIESEK: Same as Night 1-1
 #Kite Kid: N/A
 #LEAFIE: Same as Night 1-1
-#Spelling Bee:
+#PSZCZELITERA:
 #message_70:
-#      text: \n<SPELLING BEE>Dialogue goes here
+#      text: \n<PSZCZELITERA>Dialogue goes here
+
 
 #Wise Rock: Same as Night 1-1
-#Gator Guy 1: N/A
-#Gator Guy 2: N/A
+#ALI GATOR 1: N/A
+#ALI GATOR 2: N/A
 #Gibs: Same as Night 1-1
+
 
 #TRAIN Jash
 message_100:
-      text: \n<TRAIN STATION JASH>\com[2]Stop right there!\! You can't pass without a \c[4]TRAIN PASS\c[0]!\! Duh!
+      text: \n<JUZEK KONDUKTOR>\com[2]Ani kroku dalej!\! Nie wejdziecie bez \c[4]BILETU\c[0]!\! Ba!
+
 
 message_101:
-      text: \n<TRAIN STATION JASH>\com[2]Stop right there!\! You can't pass without a-
+      text: \n<JUZEK KONDUKTOR>\com[2]Ani kroku dalej!\! Nie wejdziecie bez...
+
 
 message_102:
-      text: \n<TRAIN STATION JASH>Whoa...\! That's a \c[4]TRAIN PASS\c[0]...\! You must be the last passengers!\! We've been waiting for you for a very long time.
+      text: \n<JUZEK KONDUKTOR>Ua...\! \c[4]BILET\c[0]...\! Wy to ci spóźnialscy pasażerowie!\! Czekaliśmy na was wieki.
+
 
 message_103:
-      text: \n<TRAIN STATION JASH>Well...\! That's an all-clear from me!\! Welcome aboard, patrons!
+      text: \n<JUZEK KONDUKTOR>Dobra...\! Droga wolna!\! Witam na pokładzie, pasażerowie!
+
 
 message_104:
-      text: \n<TRAIN STATION JASH>Welcome aboard, patrons!
+      text: \n<JUZEK KONDUKTOR>Witam na pokładzie, pasażerowie!

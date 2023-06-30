@@ -1,180 +1,239 @@
 
+
 # =========================================================================================
 # STOP THE RAIN
 # ========================================================================================
 
+
 #Talk to Potatogirl
 
+
 message_1:
-      text: \n<VEGGIE KID>\Com[2]Ahhhh!\! It is raining too hard!\!<br>It is making us slightly uncomfortable!
+      text: \n<ŚWIEŻAK>\Com[2]Ajajaj!\! Jaka ulewa!\!<br>Zaraz zrobi mi się niedobrze!
+
 
 message_2:
-      text: \n<VEGGIE KID>There is a mystical valve nearby which controls our rainfall, but only the CHOSEN ONE is able to turn it...
+      text: \n<ŚWIEŻAK>Istnieje mistyczna wajcha, która potrafi kontrolować deszcz, ale tylko WYBRANIEC może jej użyć...
+
 
 message_3:
-      text: \n<VEGGIE KID>If no one helps us, we are doomed to be slightly uncomfortable forever!
+      text: \n<ŚWIEŻAK>Jeśli nikt nic na to nie zaradzi, będziemy skazani na wieczne nudności!
+
 
 #EXTRA VEGGIE KID VILLAGERS:
 
+
 message_4:
-      text: \n<VEGGIE KID>We are slightly uncomfortable!\! Please make it stop!
+      text: \n<ŚWIEŻAK>Troszeczkę nam niedobrze!\! Proszę, niech to się już skończy!
+
 
 message_5:
-      text: \n<VEGGIE KID>I am slightly bothered by the amount of rain.
+      text: \n<ŚWIEŻAK>Troszeczkę przeszkadza mi ta ilość deszczu.
+
 
 message_6:
-      text: \n<VEGGIE KID>If only the rain were slightly lighter...
+      text: \n<ŚWIEŻAK>Gdyby tylko było go troszeczkę mniej...
+
 
 message_7:
-      text: \n<VEGGIE KID>It is raining just a bit too much, don't you think?
+      text: \n<ŚWIEŻAK>Wydaję mi się, że pada trochę za mocno, nie sądzisz?
+
 
 message_8:
-      text: \n<VEGGIE KID>I am uncomfortable.
+      text: \n<ŚWIEŻAK>Niedobrze mi.
+
 
 message_9:
-      text: \n<VEGGIE KID>This rain is slightly untolerable.
+      text: \n<ŚWIEŻAK>Ten deszcz jest troszeczkę nie do zniesienia.
+
 
 message_10:
-      text: \n<VEGGIE KID>I am feeling a small amount of physical discomfort.
+      text: \n<ŚWIEŻAK>Jestem w lekkim stanie fizycznego dyskomfortu.
+
 
 message_11:
-      text: \n<VEGGIE KID>On the scale of comfortable to uncomfortable,\. where 1 is very comfortable and 10 is very uncomfortable,\. I am at a 6.
+      text: \n<ŚWIEŻAK>W skali od przyjemnego do nieprzyjemnego,\. gdzie 1 jest bardzo przyjemne, a 10 skrajnie nieprzyjemne,\. oceniam to na 6.
+
 
 message_12:
-      text: \n<VEGGIE KID>Bleh!
+      text: \n<ŚWIEŻAK>Ble!
+
 
 message_13:
-      text: \n<VEGGIE KID>Ick!
+      text: \n<ŚWIEŻAK>Okropne!
+
 
 message_14:
-      text: \n<VEGGIE KID>Yucky!
+      text: \n<ŚWIEŻAK>Fuj!
+
 
 message_15:
-      text: \n<VEGGIE KID>Ewwie!
+      text: \n<ŚWIEŻAK>Fujka!
+
 
 message_16:
-      text: \n<VEGGIE KID>Bleurgh!
+      text: \n<ŚWIEŻAK>Bleeee!
+
 
 message_17:
-      text: \n<VEGGIE KID>Gross!
+      text: \n<ŚWIEŻAK>Ohyda!
+
 
 #EXAMINE VALVE AS OMORI
 
+
 message_18:
-      text: Would you like to turn the valve slightly to the right or left?
+      text: Chciałbyś przesunąć wajchę troszeczkę w prawo czy w lewo?
+
 
 #[RIGHT/LEFT]
 #[RIGHT]
 message_19:
-      text: RIGHT
+      text: W PRAWO
 #RAIN BECOMES lighter
 #Song changes to Puddles
 
+
 message_20:
-      text: The rain is slightly lighter now.
+      text: Deszcz pada teraz troszeczkę lżej.
+
 
 #[LEFT]
 message_21:
-      text: LEFT
+      text: W LEWO
 #[Screen turns black.]
 
+
 message_45:
-      text: The rainfall intensifies and floods \c[11]RAIN TOWN\c[0].\!<br>\c[11]RAIN TOWN\c[0] and its inhabitants were never heard from again.
+      text: Deszcz się nasila i zalewa \c[11]MŻAWKOWO\c[0].\!<br>Zaginął słuch po mieszkańcach \c[11]MŻAWKOWA\c[0].
+
 
 #[Party teleports to Oasis.]
 
+
 message_46:
-      text: You are the hero of \c[11]RAIN TOWN\c[0]!
+      text: Jesteś bohaterem \c[11]MŻAWKOWA\c[0]!
+
 
 #EXAMINE VALVE AS anyone else
 
+
 #[RIGHT/LEFT]
 message_22:
-      text: It won't budge.
+      text: Ani drgnie.
+
 
 #Talk to Potatogirl after adjusting Valve
 message_23:
-      text: \n<VEGGIE KID>The rain has been adjusted!\! Neat!\!<br>Thank you, CHOSEN ONE!\!<br>We will remember your act of kindness forever.
+      text: \n<ŚWIEŻAK>Kryzys deszczowy został zażegnany!\! Świetnie!\!<br>Dzięki ci, WYBRAŃCU!\!<br>Na zawszę zapamiętamy twój akt dobroci.
+
 
 #TOMATO KID walks up
 message_24:
-      text: \n<VEGGIE KID>What's that, child?\! You want to go with them?\! Are you sure?
+      text: \n<ŚWIEŻAK>Co tam, dzieciaczku?\! Chcesz z nimi pójść?\! Na pewno?
+
 
 #VEGGIE KID (Tomato) turns to VEGGIE KID (Potato).
 
+
 message_25:
-      text: \n<VEGGIE KID>If that is your wish...
+      text: \n<ŚWIEŻAK>Skoro tak sobie życzysz...
+
 
 message_26:
-      text: \n<VEGGIE KID>CHOSEN ONE...\! This child wishes to join you on your quest.\!<br>She is yours now.\! Please take good care of her.
+      text: \n<ŚWIEŻAK>WYBRAŃCU...\! Ten dzieciaczek chce dołączyć do ciebie w twojej podróży.\!<br>Teraz jest twoja.\! Proszę, dobrze się nią zajmij.
+
 
 message_27:
-      text: You got a \c[13]VEGGIE KID\c[0].
+      text: Dostałeś \c[13]ŚWIEŻAKA\c[0].
+
 
 #Potato speaking:
 message_28:
-      text: \n<VEGGIE KID>Go forth, heroes! Your journey awaits you!
+      text: \n<ŚWIEŻAK>Naprzód, herosi! Przygoda czeka!
+
 
 #QUEST complete
 
+
 #After quest dialogue
+
 
 #talk to potatogirl
 message_29:
-      text: \n<VEGGIE KID>Go forth, heroes! Your journey awaits you!
+      text: \n<ŚWIEŻAK>Naprzód, herosi! Przygoda czeka!
+
 
 #extra veggie kid VILLAGERS
 
+
 message_30:
-      text: \n<VEGGIE KID>The rain is at a perfect intensity right now!
+      text: \n<ŚWIEŻAK>To jest idealna ilość deszczu!
+
 
 message_31:
-      text: \n<VEGGIE KID>Ahh...\! so...\! comfortable...
+      text: \n<ŚWIEŻAK>Ach...\! Tak...\! przyjemnie...
+
 
 message_32:
-      text: \n<VEGGIE KID>I am satisfied by the amount of rain.
+      text: \n<ŚWIEŻAK>Zadowala mnie to natężenie opadów.
+
 
 message_33:
-      text: \n<VEGGIE KID>The rain is comfortable now that it's slightly lighter...
+      text: \n<ŚWIEŻAK>Nareszcie deszcz jest przyjemny i troszeczkę delikatniejszy...
+
 
 message_34:
-      text: \n<VEGGIE KID>It is raining the perfect amount, don't you think?
+      text: \n<ŚWIEŻAK>Pada dokładnie tyle, ile powinno, nie sądzisz?
+
 
 message_35:
-      text: \n<VEGGIE KID>I am comfortable.
+      text: \n<ŚWIEŻAK>To takie przyjemne.
+
 
 message_36:
-      text: \n<VEGGIE KID>This rain feels great!
+      text: \n<ŚWIEŻAK>Orzeźwiająco!
+
 
 message_37:
-      text: \n<VEGGIE KID>I am feeling comfortable.
+      text: \n<ŚWIEŻAK>Nie mogło być lepiej.
+
 
 message_38:
-      text: \n<VEGGIE KID>On the scale of comfortable to uncomfortable,\. where 1 is very comfortable and 10 is very uncomfortable,\. I am at a 1.
+      text: \n<ŚWIEŻAK>W skali od przyjemnego do nieprzyjemnego,\. gdzie 1 jest bardzo przyjemne, a 10 skrajnie nieprzyjemne,\. oceniam to na 1.
+
 
 message_39:
-      text: \n<VEGGIE KID>Hurray!
+      text: \n<ŚWIEŻAK>Hurra!
+
 
 message_40:
-      text: \n<VEGGIE KID>Feels good!
+      text: \n<ŚWIEŻAK>Jak dobrze!
+
 
 message_41:
-      text: \n<VEGGIE KID>Yahoo!
+      text: \n<ŚWIEŻAK>Juhu!
+
 
 message_42:
-      text: \n<VEGGIE KID>Huzzah!
+      text: \n<ŚWIEŻAK>Wiwat!
+
 
 message_43:
-      text: \n<VEGGIE KID>Whoopee!
+      text: \n<ŚWIEŻAK>Jupi!
+
 
 message_44:
-      text: \n<VEGGIE KID>Yay!
+      text: \n<ŚWIEŻAK>Jej!
+
 
 message_50:
-      text: The surface of the water is shimmering.
+      text: Tafla wody migocze.
+
 
 message_51:
-      text: Do you want to stare at it intently?
+      text: Czy chcesz uważnie na nią spojrzeć?
+
 
 message_52:
-      text: The surface of the water is emitting a dark energy.
+      text: Tafla wody emanuje złą energią.

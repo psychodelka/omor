@@ -162,10 +162,10 @@ message_42:
 #SUE CHEF MOLE 1 & SUE CHEF MOLE 2
 #Location: Sprout Mole Village
 message_43:
-      text: \n<ZASTĘPCA SZEFA KUCHNI>Jak śmiesz tak bluźnić!\! To oczywiste, że \c[3]TOFU\c[0] smakuje lepiej, gdy jest podawane na ciepło!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Jak śmiesz tak bluźnić!\! To oczywiste, że \c[3]TOFU\c[0] smakuje lepiej, gdy jest podawane na ciepło!
  
 message_44:
-      text: \n<ZASTĘPCA SZEFA KUCHNI>Czyś ty oszalał?\! Każdy KIEŁKUN o zdrowych zmysłach wie, że \c[3]TOFU\c[0] smakuje dużo lepiej na zimno!
+      text: \n<ZASTĘPCA SZEFA KIEŁKUCHNI>Czyś ty oszalał?\! Każdy KIEŁKUN o zdrowych zmysłach wie, że \c[3]TOFU\c[0] smakuje dużo lepiej na zimno!
  
 message_45:
       faceset: MainCharacters_DreamWorld

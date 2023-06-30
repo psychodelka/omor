@@ -1,58 +1,78 @@
 
+
 # =========================================================================================
 # Sidequest: Missing Shears
 # =========================================================================================
 
+
 #Talk to Kim's Mom: Optional
 message_1:
-      text: \n<RED-GLASSES LADY>Let me tell you a story...\! I was walking back from \c[11]FIX-IT\c[0] after making a purchase with my hard-earned money...
+      text: \n<PANI W CZERWONYCH OKULARACH>Opowiem wam, co mi się ostatnio przydarzyło...\! Wracałam ze \c[11]SPECA\c[0] po dokonaniu zakupu za moje ciężko zarobione pieniądze...
+
 
 message_2:
-      text: \n<RED-GLASSES LADY>When I look down...\! and lo and behold...
+      text: \n<PANI W CZERWONYCH OKULARACH>Patrzę w dół...\! a tam...
+
 
 message_3:
-      text: \n<RED-GLASSES LADY>My brand new \c[4]GARDEN SHEARS\c[0] are missing!\! Yes, it's true...\!<br>My new \c[4]GARDEN SHEARS\c[0] tore a hole open in my plastic bag!
+      text: \n<PANI W CZERWONYCH OKULARACH>Mój nowy \c[4]SEKATOR\c[0] zniknął!\! Tak, to prawda...\!<br>Mój nowiutki \c[4]SEKATOR\c[0] wyciął dziurę w mojej torbie!
+
 
 message_4:
-      text: \n<RED-GLASSES LADY>\Com[2]Oh, how silly I felt just then!
+      text: \n<PANI W CZERWONYCH OKULARACH>\Com[2]Och, było mi wtedy tak głupio!
+
 
 message_5:
-      text: \n<RED-GLASSES LADY>Do you think you could help me find them?\!<br>They should be somewhere around here.
+      text: \n<PANI W CZERWONYCH OKULARACH>Myślicie, że moglibyście pomóc mi go znaleźć?\!<br>Powinien gdzieś tu być.
+
 
 #Examine Gardening Shears
 
+
 message_6:
-      text: You found \c[4]GARDEN SHEARS\c[0].
+      text: Znalazłeś \c[4]SEKATOR\c[0].
+
 
 #Talk to Kim's Mom with Gardening SHEARS
 
+
 message_7:
-      text: \n<RED-GLASSES LADY>Ah, thank you, boys!\! I'll be sure to never make such a silly mistake ever again.\! It's rare to see young boys willing to help a stranger these days.
+      text: \n<PANI W CZERWONYCH OKULARACH>Ach, dziękuję wam, chłopcy!\! Dopilnuje, żeby nigdy już nie popełnić tak głupiutkiego błędu.\! W dzisiejszych czasach młodzież rzadko rwie się do pomocy.
+
 
 message_8:
-      text: \n<RED-GLASSES LADY>Please feel free to come to my house any time!\!<br>You will always be welcome.
+      text: \n<PANI W CZERWONYCH OKULARACH>Możecie mnie odwiedzić, kiedykolwiek zechcecie!\!<br>Zawsze będziecie tu mile widziani.
+
 
 #Examine KIM's House Door at Sunset/Cutscene: Get out of here!
 
+
 message_9:
-      text: \n<RED-GLASSES LADY>Oh, hello! Now there's two faces I'll never forget.\! You two are the kids who helped me find my \c[4]GARDEN SHEARS\c[0]!
+      text: \n<PANI W CZERWONYCH OKULARACH>O, witajcie! Te dwie twarze rozpoznam wszędzie.\! To wy pomogliście mi znaleźć mój \c[4]SEKATOR\c[0]!
+
 
 message_10:
-      text: \n<RED-GLASSES LADY>I'm having dinner with my children right now.\!<br>Would you care to join us?
+      text: \n<PANI W CZERWONYCH OKULARACH>Ja i moje dzieci jemy teraz kolację.\!<br>Może zechcielibyście do nas dołączyć?
+
 
 message_11:
-      text: \kim\Com[2]W-What the heck!?\! \Com[2]Is that KEL and \n[8] at the door!?\! \Com[2]Why are you two standing in front of my house!?!?
+      text: \kim\Com[2]C-co jest?!\! \Com[2]KEL i \n[8]?!\! \Com[2]Czemu wasza dwójka stoi przed moim domem?!?!
+
 
 message_12:
-      text: \kim\{\Com[2]GET OUT OF HERE, NERDS!!
+      text: \kim\{\Com[2]WYNOCHA STĄD, KUJONY!!
+
 
 message_13:
-      text: \n<RED-GLASSES LADY>KIM! What has gotten into you, sweetie-pie?
+      text: \n<PANI W CZERWONYCH OKULARACH>KIM! Co w ciebie wstąpiło, rybeńko?
+
 
 message_14:
-      text: \n<RED-GLASSES LADY>Sorry, boys.\!<br>Perhaps you can join us for dinner at another time.
+      text: \n<PANI W CZERWONYCH OKULARACH>Wybaczcie, chłopcy.\!<br>Może przyłączycie się do nas kiedy indziej.
+
 
 #Door slams
 
+
 message_20:
-      text: You gave \c[4]GARDEN SHEARS\c[0] to RED-GLASSES LADY.
+      text: Dałeś \c[4]SEKATOR\c[0] PANI W CZERWONYCH OKULARACH.

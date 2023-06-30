@@ -2,930 +2,1189 @@
 # Dreamworld NPC dialogue
 # =========================================================================================
 
+
 #DW_ManonFire
 #Shamboo
 #Location: Mr Jawsum's Concierge
 message_0:
-      text: \n<SHAMBOO>JAWSUM and I...\! We have many matters to discuss...\! Yes...\! Many, many things...
+      text: \n<SZAMBON>Razem z SZCZĘKOPADEM...\! mamy dużo spraw do obgadania...\! Tak...\! bardzo dużo spraw...
+
 
 message_1:
       text:
 
+
 #Nereene
 #Location: SW Library
 message_2:
-      text: \n<NEREENE>Well! It's been a while since I've seen you four.\! Up to no good again, I presume?
+      text: \n<NARINA>No więc! Trochę minęło, odkąd widziałam waszą czwórkę.\! Mam rozumieć, że znowu coś kombinujecie?
 message_3:
-      text: \n<NEREENE>Have you learned your lesson after venturing out of the tunnels?\! Next time you won't be so lucky!
+      text: \n<NARINA>Nauczyliście się czegoś po wyjściu z korytarzy?\! Następnym razem nie będziecie mieć takiego szczęścia!
+
 
 message_4:
       text:
 
+
 #Guava
 #Location: Train Station
 message_5:
-      text: \n<GUAVA>I don't mind waiting at all!\!<br>Waiting is just a natural part of life.
+      text: \n<GRUSZLA>Zupełnie nie mam nic przeciwko czekaniu!\!<br>Czekanie jest przecież naturalnym elementem życia.
+
 
 message_6:
-      text: \n<GUAVA>I was waiting for the train for so long...\! I can't even remember why I wanted to come here!
-
+      text: \n<GRUSZLA>Czekałam na pociąg tak długo...\! Nawet nie pamiętam, czemu chciałam tu dotrzeć!
 #Mimi
 #Orange Oasis
 
-message_7:
-      text: \n<MIMI>Wow... It's a big apple!
 
+message_7:
+      text: \n<MIMI>Wow... jakie duże jabłko!
 message_8:
       text:
+
 
 #Mira
 #takes places of AUBREY as secretary
 message_9:
-      text: \n<MIRA>Hi! I'm MIRA!\! I'm new here!
+      text: \n<MIRA>Hej! Jestem MIRA!\! Jestem tu nowa!
+
+
 
 
 message_10:
-      text: \n<MIRA>Hi, boss!\! Everything's taken care of for today, so you can go ahead and relax!
+      text: \n<MIRA>Cześć, szefie!\! Na dziś wszystko załatwione, może się pan śmiało zrelaksować!
+
 
 #Silker
 #Location: Last Resort Casino
 
-message_11:
-      text: \n<SILKER>Day in, day out. It's all the same.\!<br>Whatever...\! It's a job, I guess.\! At least... it would be if I ever got paid.
 
+message_11:
+      text: \n<JEDWABIARZ>Dzień w dzień wszystko jest takie samo.\!<br>Kogo to obchodzi..\! Wydaje mi się, że można nazwać to pracą.\! Przynajmniej... można by, gdybym kiedykolwiek dostał wypłatę.
 message_12:
       text:
 #Jussie
 #Location: Last Resort Casino
 message_13:
-      text: \n<JUSSIE>Bro told me to wait here, but I dunno if he's comin' back anytime soon.\! You know anyone named MR. JAWSUM?\!<br>Bro says he gots some business with ‘im...
-
+      text: \n<JULIUSZ>Kumpel powiedział mi, żebym tu czekał, ale nie wiem, czy wróci w najbliższym czasie. Znasz kogoś, kto nazywa się SZCZĘKOPAD?\!<br>Mój ziomek powiedział, że ma z nim coś do załatwienia...
 message_14:
       text:
 #Hayes
 #Location: Last Resort Casino
 
+
 message_15:
-      text: \n<HAYES>Ah...\! It's nice to finally take a break.
+      text: \n<PŁOTOCKI>Ach...\! Fajnie jest wreszcie zrobić sobie przerwę.
+
 
 message_16:
-      text: \n<HAYES>Are you from the city too?\! You look like a couple of city kids.\! The food is good but the sewage is horrible, am I right?
+      text: \n<PŁOTOCKI>Wy też jesteście z miasta?\! Wyglądacie na zgraję mieszczuMNIAM.\! Jedzenie jest dobre, ale ścieki obrzydliwe, czyż nie mam racji?
+
+
 
 
 message_17:
       text:
 
+
 #Turmoil
 #Location: Underwater Highway outside of Mustard Sub
 
+
 message_18:
-      text: \n<TURMOIL>Bah... Must've left my smoke sticks at home again...
+      text: \n<BAŁOSZ>Pfe... Znowu musiałem zostawić swoje fajki w domu...
+
 
 message_19:
       text:
 
+
 #Russell
 #Location: Last Resort Casino
 message_20:
-      text: \n<RUSSELL>Humma humma...\! If I'm counting this right...\! then...\!<br>Humma humma...
+      text: \n<RUSSELL>Chwila moment...\! Jeśli dobrze liczę...\! to...\!<br>Chwila moment...
+
 
 message_21:
       text:
 
+
 #Albacore
 #Location: Underwater Highway Cave
 message_22:
-      text: \n<ALBACORE>Are you here because you didn't want to pay the toll?\! You're the third group I've seen this week!
+      text: \n<TUŃCZYK>Jesteście tu, bo nie chcieliście zapłacić za przejazd?\! To już trzecia grupka w tym tygodniu!
+
 
 message_23:
-      text: \n<ALBACORE>Going all this way is kinda inconvenient, but at least you get to hold onto those sweet, sweet CLAMS.\! You'll want to pay that last toll, though.\! Trust me!
+      text: \n<TUŃCZYK>Przejście tą trasą sprawia dużo zachodu, ale przynajmniej zaoszczędzicie trochę MAŁŻY.\! Ale lepiej zapłaćcie na ostatniej bramce.\! Wierzcie mi!
+
 
 message_24:
       text:
 #James
 #Location: Last Resort Casino
 message_25:
-      text: \n<JAMES>I love watching my hard-earned money go into this machine and never come out.\! Just watching...\! it all...\! disappear...
+      text: \n<JAMES>Kocham patrzeć, jak moje ciężko zarobione pieniądze na zawsze znikają w tej maszynie.\! Po prostu patrzeć...\! jak wszystkie...\! znikają...
+
 
 message_26:
       text:
 
+
 #Honeydew
 #Location: Mr Jawsum's Concierge
 message_27:
-      text: \n<HONEYDEW>Boss called me up for an important meeting, but he's not available right now...\! I dunno...\! Should I wait here or keep working!?
+      text: \n<SPADŹ>Szef umówił się ze mną na ważne spotkanie, ale jest teraz zajęty...\! Nie wiem...\! Mam tu czekać, czy wrócić do pracy?!
+
 
 message_28:
       text:
 #Crusher Blast
 #[UNPLACED]
 
+
 message_29:
-      text: \n<CRUSHER BLAST>Was sent to do handiwork.\! But management bad.\!<br>Predicting fall of empire.
+      text: \n<HUKOZGNIOT>Wysłali, żeby robić robota.\! Ale zarządcy źli.\!<br>Przewidywany upadek mocarstwa.
+
 
 message_30:
-      text: \n<CRUSHER BLAST>Ha. Ha.\! Management changed.\! Just as predicted.
+      text: \n<HUKOZGNIOT>Ha. Ha.\! Zarządcy zastąpieni.\! Tak jak przewidziano.
+
 
 #Cipher
 #Location: Deeper Well Whirlpool
 
+
 message_31:
-      text: \n<CIPHER>The sun shined brighter...\| when she was here...
+      text: \n<CYFERKA>Słońce lśniło jaśniej...\| gdy była wśród nas...
+
 
 message_32:
       text:
 #Gascon
 #Location: Otherworld Campsite
 
+
 message_33:
-      text: \n<GASCON>Aww crap, I forgot my camera at home.\! What's a good camping trip if I can't take any pictures!?
+      text: \n<GASKOŃCZYK>O szlag, zapomniałem wziąć aparatu z domu.\! Co to za kemping, skoro nie mogę cykać zdjęć?!
+
 
 message_34:
       text:
 
+
 #Teacup Spirit
 #Location: SW Library
 message_35:
-      text:  \n<TEACUP SPIRIT>\sinv[1]Oohoooooo... I have a question for youuuuuuu!\sinv[0]\!<br>Do you think ghosts would be considered a gas?
+      text:  \n<FILIDUSZ>\sinv[1]Uuuuuuuuu... mam dla was pytaaanieee!\sinv[0]\!<br>Myślicie, że duchy byłyby uważane za gaz?
+
 
 message_36:
       text:
 
+
 #Canopy
 #Location: Train Station
 
+
 message_37:
-      text: \n<CANOPY>I spy with my little eye...\!<br>A rainbow umbrella thing with lots of legs!
+      text: \n<DASZEK>Dostrzegam moim wścibskim oczkiem...\!<br>tęczowy parasol z mnóstwem nóg!
+
 
 #Breezy
 #[UNPLACED: Orange Oasis Club Sandwich]
 
 
+
+
 message_40:
       text:
+
 
 message_42:
       text:
 #--------------------------------------------------------------------------------------------------
 #DW_NPC_18
 
+
 #Child on Stilts
 #[UNPLACED]
 message_43:
-      text: \n<CHILD ON STILTS>I am stuck and cannot get down.
+      text: \n<DZIECKO NA SZCZUDŁACH>Utknąłem i nie mogę zejść na ziemię.
+
 
 message_44:
-      text: \n<CHILD ON STILTS>I'm fine like this.
+      text: \n<DZIECKO NA SZCZUDŁACH>Tak jest mi dobrze.
+
 
 #--------------------------------------------------------------------------------------------------
 #DW_NPC_19
 
+
 #Barbracoa
 #Location: Last Resort Hallway
 message_45:
-      text: \n<BARBRACOA>\sinv[1]Oh! My sweet sons are all so hard at work...\!\sinv[0]<br>You better not be causing them any trouble...\! or else...
+      text: \n<BARBARACOA>\sinv[1]O! Moi ukochani synowie tak ciężko pracują...\!\sinv[0]<br>Lepiej by dla was było, gdybyście nie sprawiali im żadnych kłopotów...\! Spróbujcie tylko, a...
+
+
 
 
 message_46:
-      text: \n<BARBRACOA>I'll \com[2]smack you all the way to tomorrow!
+      text: \n<BARBARACOA>Skopię wam tyłek tak, \com[2]że was rodzona matka nie pozna!
+
 
 #Decay
 #Location: Deeper Well
 message_47:
-      text: \n<DECAY>Time will always move forward.\! Eventually, the truth will become clear...\! You know this well...\! don't you, DREAMER?
+      text: \n<ROZKŁAD>Czas zawsze będzie płynął do przodu.\! W końcu wszyscy poznają prawdę...\! Dobrze o tym wiesz...\! czyż nie, MARZYCIELU?
+
 
 message_48:
       text:
 
+
 #Dowon
 #SW GALLERY
 message_49:
-      text: \n<DOWON>DOWON thought DOWON understood art...\! But after coming here, DOWON is starting to second-guess himself.
+      text: \n<DOWON>DOWON myślał, że DOWON rozumie sztukę...\! Ale po przyjściu tutaj, DOWON zaczyna w to wątpić.
+
 
 message_50:
       text:
 
+
 #Parsnip
 #[UNPLACED]
 message_51:
-      text: \n<PARSNIP>I am MARINA's eighth experiment...\! probably.\! She made me out of moss and bean sprouts when she was just a teenager.
+      text: \n<PASTERNAK>Jestem ósmym eksperymentem MARINY...\! prawdopodobnie.\! Kiedy była jeszcze nastolatką, zrobiła mnie z mchu i kiełków.
+
 
 message_52:
-      text: \n<PARSNIP>\sinv[1]Nyeeeeeeeehhh...
+      text: \n<PASTERNAK>\sinv[1]Mnieeeeeee...
+
 
 message_352:
-      text: \n<PARSNIP>\sinv[1]Nyaaaaahhhhhh...
+      text: \n<PASTERNAK>\sinv[1]Mniaaaaaaa...
+
 
 #Renbi
 #Location: Last Resort Entrance
 message_53:
-      text: \n<RENBI>Haha... Man, that is one good joke...\! ...\!<br>What a good...\! freakin'...\! joke...
+      text: \n<RENBI>Haha... Jezu, dobry żart...\! ...\!<br>Ale cholernie...\! dobry...\! żart...
+
 
 message_54:
       text:
 
-#Burro
+
+#OSIOŁEK
 #[UNPLACED]
 message_55:
-      text: \n<BURRO>I am MARINA's fifth experiment.\! She made me out of cardboard and \c[3]CANDY\c[0] when she was just a child.
+      text: \n<OSIOŁEK>Jestem piątym eksperymentem MARINY.\! Zrobiła mnie z kartonu i \c[3]CUKSÓW\c[0], kiedy była mała.
+
 
 message_350:
-      text: \n<BURRO>\com[2]Ooh!\! My candies!
+      text: \n<OSIOŁEK>\com[2]O!\! Moje cukierki!
+
 
 message_351:
-      text: \n<BURRO>It feels good to be acknowledged.
+      text: \n<OSIOŁEK>Dobrze jest być szanowanym.
+
 
 #Peeve
 #[UNPLACED]
 message_57:
-      text: \n<PEEVE>I am MARINA's sixth experiment.\! She made me out of balloons and magic when she was just a teenager.
-
+      text: \n<IRYT>Jestem szóstym eksperymentem MARINY.\! Stworzyła mnie z balonów i magii, kiedy była jeszcze nastolatką.
 message_353:
       text:
+
 
 message_354:
       text:
 
+
 #------------------------------------------------------------------------------------------
 #DW_NPC_20
 
-#Gallipot
+
+#SŁOJO
 #[UNPLACED]
 message_56:
-      text: \n<GALLIPOT>Hello, young travelers!\! Please try some of my refreshments.\!<br>I made it all myself!
+      text: \n<SŁOJO>Witajcie, młodzi podróżnicy!\! Z pewnością chcecie się trochę nawodnić.\!<br>Wszystko zrobiłem własnoręcznie!
+
 
 message_58:
-      text: \n<GALLIPOT>Would you like some fresh \c[3]ORANGE JUICE\c[0] for 150 CLAMS?\$
+      text: \n<SŁOJO>Chcielibyście kupić trochę świeżego \c[3]SOKU POMARAŃCZOWEGO\c[0] za 150 MAŁŻY?\$
+
 
 message_59:
-      text: \n<GALLIPOT>Would you like some fresh \c[3]PEACH SODA\c[0] for 130 CLAMS?\$
+      text: \n<SŁOJO>Chcielibyście kupić trochę świeżej \c[3]BRZOSKWINIADY\c[0] za 130 MAŁŻY?\$
+
 
 message_60:
-      text: \n<GALLIPOT>Would you like some fresh \c[3]MILK\c[0] for 150 CLAMS?\$
+      text: \n<SŁOJO>Chcielibyście kupić trochę świeżego \c[3]MLEKA\c[0] za 150 MAŁŻY?\$
+
 
 message_62:
-      text: \n<GALLIPOT>My specialty!\!<br>Stay refreshed, young travelers!
+      text: \n<SŁOJO>Moja specjalność!\!<br>Trzymajcie się zdrowo, młodzi podróżnicy!
+
 
 message_68:
-      text: \n<GALLIPOT>I'm sorry, young travelers.\!<br>I'm afraid you don't have enough CLAMS...
+      text: \n<SŁOJO>Przykro mi, młodzi podróżnicy.\!<br>Obawiam się, że nie macie wystarczająco MAŁŻY...
+
 
 #------------------------------------------------------------------------------------------
 #DW_NPC_24
 
+
 #Nova
 #Location: Train Station
 message_61:
-      text: \n<SPOT>Isn't the air nice here?\! You can smell the clean!
+      text: \n<KROPECZKA>Czyż powietrze nie jest tu czyste?\! Pachnie świeżością!
+
 
 message_103:
-      text: \n<SPOT>Isn't the air sweet here?\! You can smell the sugar!
+      text: \n<KROPECZKA>Czyż powietrze nie jest tu słodkie?\! Pachnie cukrem!
+
+
+
 
 
 
 #Gonzo
 #Location: Underwater Highway
 message_63:
-      text: \n<GONZO>This highway's longer than I thought it would be...\!<br>But now it's gonna be a walk back to the start, too.\!<br>...\! Might as well keep going.
+      text: \n<GAMOŃ>Ta autostrada jest dłuższa, niż myślałem...\!<br>Droga z powrotem będzie tak samo długa.\!<br>...\! Lepiej już pójdę.
+
+
 
 
 #Jogen
 #Last Resort Hotel Room
 message_65:
-      text: \n<JOGEN>I'm the rock-paper-scissors champion!\! If you beat me at rock-paper-scissors, I will give you my entire life savings!
+      text: \n<JOGEN>Jestem mistrzem w papier, kamień, nożyce!\! Jak mnie pokonacie, dam wam całe oszczędności mojego życia!
+
 
 message_81:
-      text: What will you pick?
+      text: Co wybierasz?
+
 
 message_86:
-      text: ROCK
+      text: KAMIEŃ
+
 
 message_88:
-      text: PAPER
+      text: PAPIER
+
 
 message_90:
-      text: SCISSORS
+      text: NOŻYCE
+
 
 message_92:
-      text: NOTHING
+      text: NIC
+
 
 message_94:
-      text: \n<JOGEN>\{\com[2]\sinv[1]REAAADDDDYYYY...\| AAAANNNNND...
+      text: \n<JOGEN>\{\com[2]\sinv[1]GOTOWIIIIII...\| IIIIIIIII...
+
 
 #SCISSORS:
 message_76:
-      text: \n<JOGEN>\com[2]Ha! I win!\! The champion reigns supreme!
+      text: \n<JOGEN>\com[2]Ha! Wygrałem!\! Jak zwykle niezwyciężony!
+
 
 #ROCK:
 message_78:
-      text: \n<JOGEN>What?\! A tie!?\! Next time, I'll emerge victorious!
+      text: \n<JOGEN>Co?\! Remis?!\! Następnym razem z pewnością wygram!
+
+
 
 
 #PAPER:
 message_64:
-      text: \n<JOGEN>...\! Huh...\! So this is defeat.\! You have humbled me, challenger.
+      text: \n<JOGEN>...\! Phi...\! A więc porażka.\! Upokorzyłeś mnie, rywalu.
+
 
 message_66:
-      text: \n<JOGEN>As promised, you may take my entire life savings.
+      text: \n<JOGEN>Jak obiecałem, możecie zabrać wszystkie oszczędności mojego życia.
+
 
 message_70:
-      text: You got 3 CLAMS.
+      text: Zdobywasz 3 MAŁŻE.
+
 
 message_72:
-      text: \n<JOGEN>Please don't spend it all in one place...
+      text: \n<JOGEN>Tylko proszę, nie wydajcie wszystkiego na raz...
+
 
 message_74:
-      text: \n<JOGEN>With my entire life savings wiped out...\! I guess it's back to the drawing board...\! I will become champion again!
+      text: \n<JOGEN>Teraz, kiedy jestem spłukany...\! chyba będę musiał zacząć od nowa...\! Z powrotem zostanę mistrzem!
+
+
 
 
 #backing out
 message_83:
-      text: \n<JOGEN>Backing out from a fight, eh?\! That's not very heroic of you!
+      text: \n<JOGEN>Wycofujesz się z walki, co?\! To niesportowe zaMNIAManie!
+
 
 #Drew
 #Location: Last Resort Casino
 message_67:
-      text: \n<DREW>Hi, I'm new here!\! The work's whatever, but I love the staff.\! SILKER is always crackin' jokes!\! He's such a funny guy.
+      text: \n<SZTACHA>Cześć, jestem tu nowa!\! Pracę mam gdzieś, ale personel jest git.\! JEDWABIARZ zawsze zarzuci dobrym żartem!\! Śmieszny z niego typ.
+
 
 #Morgan
 #Location: Otherworld Campsite
 
+
 message_69:
-      text: \n<MORGAN>That RECYCLING MACHINE just gave me a cool prize recycling some CANS!\! Recycling does pay off!
+      text: \n<MORGAN>Ta RECYKLARKA właśnie wypluła niezłą sumkę za kilka puszek!\! Recykling faktycznie oddaje!
+
 
 #Urchin
 #Location: Underwater Highway
 message_71:
-      text: \n<URCHIN>Please avoid my spikes at all costs. Thank you.
+      text: \n<URWIS>Proszę, za wszelką cenę trzymajcie się z dala od moich kolców. Dziękuję.
 
-#Sully
+
+#PLAM
 #[UNPLACED]
 message_73:
-      text: \n<SULLY>I am MARINA's seventh experiment...\! though the numbers do get muddy at this point.\! She made me out of birds when she was just a teenager.
+      text: \n<PLAM>Jestem siódmym eksperymentem MARINY...\! liczenie robi się już trudne.\! Zrobiła mnie z ptaków, jak była jeszcze nastolatką.
+
 
 message_355:
-      text: \n<SULLY>This makes me rife with anger.
+      text: \n<PLAM>Wypełnia mnie to gniewem.
+
 
 message_356:
-      text: \n<SULLY>This contributes to my abounding happiness.
+      text: \n<PLAM>Jest to dodatkiem do wypełniającego mnie błogostanu.
+
 
 #Yellow
 #[UNPLACED]
 message_75:
-      text: \n<YELLOW>Aww... nuts!\! I'm one \c[4]DINO DOLLAR\c[0] shy from a \c[4]SILVER SPOON\c[0]!
+      text: \n<ŻÓŁTEK>Aj... cholerka!\! Brakuje mi jednego \c[4]DINODOLARA\c[0] do \c[4]SREBRNEJ ŁYŻKI\c[0]!
 
-#Chow
+
+#MNIAM
 #Location: Train Station
 message_77:
-      text: \n<CHOW>I've only seen this train run once, and that was years ago...\! Probably goes somewhere completely different now.
+      text: \n<MNIAM>Kiedyś widziałem, jak ten pociąg jeździł, ale to było lata temu...\! prawdopodobnie zmienili już rozkład jazdy.
+
 
 message_105:
-      text: \n<CHOW>I've never been to this stop before.\! I can't wait to explore \c[11]ORANGE OASIS\c[0]... land of possibilities!
+      text: \n<MNIAM>Nigdy nie byłem na tym przystanku.\! Nie mogę się doczekać zwiedzania \c[11]POMARAŃCZOWEJ OAZY\c[0]... stolicy możliwości!
+
 
 #Sydney
 #[UNPLACED]
 message_79:
-      text: \n<SYDNEY>A hamster with a fanny pack is essentially a small kangaroo.
+      text: \n<SYDNEY>Chomik z nerką jest w gruncie rzeczy małym kangurem.
+
+
 
 
 #Treble
 #Location: Otherworld Campsite
 message_80:
-      text: \n<TREBLE>Ah...\! The view here is spectacular.
+      text: \n<DYSZKANT>Ach...\! Niesamowity widok.
+
 
 #Andy
 #Location: Train Station
 message_82:
-      text: \n<ANDY>When I wait too long, I get antsy!\! \com[2]Gotta move! Gotta move!
+      text: \n<ANDRZEJEK>Nie mogę wytrzymać tego czekania!\! \com[2]Ruchy, kluchy leniwe!
+
+
 
 
 #Fred
 #Location: Train Station
 
+
 message_84:
-      text: \n<FRED>I'm on the way to conduct some important business.\! And then afterwards, I will conduct more important businesses.
+      text: \n<FRED>Idę załatwić ważny interes.\! A potem będę musiał załatwić więcej interesów.
+
 
 #Location 2: Mr. Jawsum's Concierge
 
+
 message_85:
-      text: \n<FRED>I am waiting here in order to conduct some important business.\! And then afterwards, I will conduct more important businesses.
+      text: \n<FRED>Czekam tu, żeby załatwić ważny interes.\! A potem będę musiał załatwić więcej interesów.
+
+
+
 
 
 
 #Whizzy Whitney
 #Location: Train Station
 
+
 message_87:
-      text: \n<WHIZZY WHITNEY>Yeah! I'm pretty fast, but not as fast as a train!\!<br>It's important to know your limits!
+      text: \n<INNOWACYJNA IRENKA>Tak! Jestem całkiem szybka, ale nie tak szybka, jak ten pociąg!\!<br>To bardzo ważne, żeby znać swoje granice!
+
+
+
 
 
 
 #Batzy
-#Location: Sprout Mole Colony
+#Location: KIEŁKUN Colony
 message_89:
-      text: \n<BATZY>My friends used to live in these tunnels, but they all left to look for their missing leader...\! Do you think they'll ever come back here?
+      text: \n<NIETOPER>Moi przyjaciele kiedyś mieszkali w tych tunelach, ale wszyscy zniknęli w poszukiwaniu ich zaginionego przywódcy...\! Myślisz, że jeszcze kiedyś tu wrócą?
+
 
 message_101:
-      text: \n<BATZY>My friends are slowly returning!\! Well...\! at least most of them.
+      text: \n<NIETOPER>Moi przyjaciele powoli wracają!\! Przynajmniej...\! większość z nich.
+
 
 #Ricoli Ravioli
 #[UNPLACED]
 message_91:
-      text: \n<RICOLI RAVIOLI>Welcome to \c[11]ORANGE OASIS\c[0], where the moon shines brighter!\! I'm RICOLI RAVIOLI, a food hobbyist.
+      text: \n<RICOLI RAVIOLI>Witajcie w \c[11]POMARAŃCZOWEJ OAZIE\c[0], gdzie księżyc świeci jaśniej!\! Jestem RICOLI RAVIOLI, pasjonat jedzenia.
+
+
 
 
 #Gluten
 #Sweetheart Gallery
 message_93:
-      text: \n<GLUTEN>These paintings...\! They have awakened something in me.\! I hope it's not permanent.
+      text: \n<GLUTEN>Te obrazy...\! coś we mnie obudziły.\! Oby nie na stałe.
+
+
 
 
 #Artichoke
 #[UNPLACED]
 message_95:
-      text: \n<ARTICHOKE>The treasures on display here are from all over the world!\!<br>I want to travel around the world someday...
+      text: \n<KARCZOCH>Te skarby na wystawie są z różnych zakątków świata!\!<br>Chciałbym kiedyś podróżować po świecie...
+
 
 #Fuchsia
 #[UNPLACED]
 message_96:
-      text: \n<FUCHSIA>I am MARINA's first experiment.\! She made me out of sand and fruit when she was just a baby.
+      text: \n<FUKSJA>Jestem piątym eksperymentem MARINY.\! Zrobiła mnie z piasku i owoców, jak była mała.
+
 
 message_97:
-      text: \n<FUCHSIA>Hehe...\! That tickles...
+      text: \n<FUKSJA>Hehe...\! Łaskocze...
+
 
 message_357:
-      text: FUCHSIA did a cartwheel.
+      text: FUKSJA zrobiła gwiazdę.
+
+
 
 
 #Grunty
 #[UNPLACED]
 message_98:
-      text: \n<GRUNTY>The last time I tried \c[11]DINO'S DIG\c[0], I found lots of amazing treasure!
+      text: \n<STĘKA>Kiedy ostatnio spróbowałam \c[11]DINOKOPU\c[0], znalazłam mnóstwo niesamowitych skarbów!
+
 
 message_99:
-      text: \n<GRUNTY>But this time I tried \c[11]DINO'S DIG\c[0], I just found some \c[3]GRANOLA BARS\c[0]...
+      text: \n<STĘKA>Tym razem spróbowałam \c[11]DINOKOPU\c[0] i znalazłam tylko kilka \c[3]BATONIKÓW ZBOŻOWYCH\c[0]...
+
 
 #Frank
 #Location: Train Station
 message_100:
-      text: \n<FRANK>If this line doesn't move soon...\!<br>The guy next to me is gonna get it.
+      text: \n<FRANEK>Jak ta kolejka zaraz się nie ruszy...\!<br>gościowi przede mną się dostanie.
+
+
 
 
 #Krispy
 #Location: Last Resort Casino
 message_102:
-      text: \n<KRISPY>Next time I decide to take a vacation somewhere random, remind me to check their ratings first.
+      text: \n<KRUSZYNEK>Jeśli następnym razem zdecyduje się na wakacje w jakimś losowym miejscu, przypomnijcie mi, żebym najpierw sprawdził opinie.
+
+
 
 
 #Tuna Can
 #Location: Underwater Highway
 
-message_104:
-      text: \n<TUNA CAN>I'm all out of tuna!
 
-#Zarf
+message_104:
+      text: \n<PUSZKA PO TUŃCZYKU>Skończył mi się tuńczyk!
+
+
+#UCHWYT
 #Location: Otherworld Campsite
 message_106:
-      text: \n<ZARF>So many humans today...\! You guys are always such big fans of space travel.
+      text: \n<UCHWYT>Tyle dzisiaj ludzi...\! Wy, ludzie, macie obsesje na punkcie podróży kosmicznych.
+
 
 #Jorge
 #Location: Last Resort Entrance
 message_107:
-      text: \n<JORGE>Hey! You kids here on vacation or are you one of the staff?\! With all this construction going on, they can at least invest in some uniforms...
+      text: \n<GŻEGOŻ>Hej! Dzieciaki! Jesteście tu na wakacjach czy pracujecie?\! Przy tej całej budowie mogliby chociaż zainwestować w jakieś stroje robocze...
+
 
 #Basket Case
 #Location: Last Resort Entrance
 
+
 message_108:
-      text: \n<BASKET CASE>Today, I accidentally bumped into one of the staff...\! so she called me a nincompoop and headbutted me across the room.
+      text: \n<KŁĘBEK NERWÓW>Dzisiaj przez przypadek wpadłem na jakąś pracownicę...\! nazwała mnie matołem, po czym dostałem od niej z dyńki tak, że przeleciałem przez cały pokój.
+
 
 message_109:
-      text: \n<BASKET CASE>Who knew headbutts could hurt so bad!?\! I sure didn't.
+      text: \n<KŁĘBEK NERWÓW>Kto by pomyślał, że strzał z dyńki boli aż tak bardzo?!\! Na pewno nie ja.
+
 
 message_110:
-      text: \n<BASKET CASE>On the way here, I accidentally stepped on a SPROUT MOLE's foot...\! so she called me a miserable peon and slapped me silly.
+      text: \n<KŁĘBEK NERWÓW>W drodzę tutaj przez przypadek nadepnąłem na stopę KIEŁKUNKI...\! nazwałą mnie żałosnym wieśniakiem i zdzieliła mnie z liścia.
+
 
 message_111:
-      text: \n<BASKET CASE>Sigh...\! I must have hurt her foot really bad...
+      text: \n<KŁĘBEK NERWÓW>Ech...\! Musiałem mocno stanąć jej na stopie... 
+
 
 #Owangee
 #[UNPLACED]
 message_112:
-      text: \n<OWANGEE>This place is bad for my cavities...\!<br>but who needs teeth anyway!?
+      text: \n<LUKIERAŃCZA>To miejsce źle wpływa na moje szkliwo...\!<br>ale po co komu zęby?! 
+
 
 message_113:
       text:
 
+
 #Applefly
 #[UNPLACED]
 message_114:
-      text: \n<APPLEFLY>I am MARINA's fourth experiment.\! She made me out of dirty apples when she was just a child.
+      text: \n<MUCHOJABŁKO>Jestem czwartym eksperymentem MARINY.\! Zrobiła mnie z brudnych jabłek jak była mała.
+
 
 message_115:
-      text: \n<APPLEFLY>Oh?
+      text: \n<MUCHOJABŁKO>E?
+
 
 message_358:
-      text: \n<APPLEFLY>Okay, enough!
+      text: \n<MUCHOJABŁKO>Okej, wystarczy!
+
 
 message_370:
-      text: \n<APPLEFLY>\sinv[1]Bzzzzzz...\| Ooo...\| Yeah...\| Bzzzzzzzzzzzz...\!<br>Mmmmmmmmmmmm...\! Right behind the stem...
+      text: \n<MUCHOJABŁKO>\sinv[1]Bzzzzzz...\| Ooo...\| ta...\| Bzzzzzzzzzzzz...\!<br>Mmmmmmmmmmmm...\! Zaraz za łodygą...
+
 
 #Snug
 #Location: Otherworld Campsite
 message_116:
-      text: \n<SNUG>It's at times like this that I am reminded that our universe is beautiful!
+      text: \n<ZACISZ>W takich chwilach przypominam sobie o pięknie naszego świata!
+
 
 message_117:
       text:
 
+
 #Wily
 #UNPLACED]
 message_118:
-      text: \n<WILY>\c[11]ORANGE OASIS\c[0] is mostly full of senior folks who've been around since who-knows-how-long.
+      text: \n<SZAWEŁ>\c[11]POMARAŃCZOWA OAZA\c[0] roi się od starszych ludzi i emerytów, którzy są tu od nie wiadomo kiedy.
+
 
 message_119:
-      text: \n<WILY>But I have my hopes...\! One day, this place could be a flourishing city!\! There's plenty of land for development!
+      text: \n<SZAWEŁ>Mam nadzieje...\! że pewnego dnia, to miejsce stanie się rozwijającą się metropolią!\! Tyle tu działek pod inwestycje!
+
 
 #Cinder
 #Location: Last Resort Casino
 message_120:
-      text: \n<CINDER>Man... I feel sick.\!<br>Is this whole place spinning or is it just me?
+      text: \n<POPIEL>O jeju... niedobrze mi.\!<br>Cały świat się kręci, czy tylko ja?
+
 
 message_121:
       text:
 
+
 #Dango
 #Location: Train Station
 message_122:
-      text: \n<DANGO>I can't stand talking to this bee guy.\! He's driving me nuts!
+      text: \n<DANGO>Nie mogę wytrzymać gadania z tą pszczołą.\! Zaraz ja będę cięty jak osa!
+
 
 message_123:
       text:
 
+
 #-----------------------------------------------------------------------------------------------------------------------------------------
 #DW_NPC_25
+
 
 #Aliana
 #Location: Cattail Field
 message_124:
-      text: \n<ALIANA>Isn't the sky beautiful?\! It's nice to know there are so many others out there who share the same view.
+      text: \n<ALIANA>Piękne mamy niebo, czyż nie?\! Fajnie wiedzieć, że tyle ludzi na świecie myśli tak samo.
+
 
 #Ghian
 #Loation: Outskirts
 message_125:
-      text: \n<GHIAN>I'm pooped after that rigorous hike!\! I just know I won't be able to feel my legs tomorrow.
+      text: \n<GIAN>Jestem wykończony całą tą wędrówką!\! Na sto procent jutro nie będę czuł nóg.
+
 
 #Chelle
 #Location: Cattail Field
 message_126:
-      text: \n<CHELLE>Shoot...\! I know I left my \c[3]DONUT\c[0] somewhere around here...
+      text: \n<CZEL>Psia kość...\! Zostawiłam gdzieś tutaj \c[3]PĄCZKA\c[0]...
+
+
+
 
 
 
 #Goosey
 #Location: Train Station
 message_128:
-      text: \n<GOOSEY>This long line is the perfect excuse for me to catch up on my beauty sleep!
+      text: \n<GĄSIA>Stanie w tej długiej kolejce to idealny pretekst, żeby uciąć komara!
 
 
 
-#Tiffany Darling
+
+
+
+#PANNA TIFFANY
 #Location: Last Resort Casino
 message_130:
-      text: \n<TIFFANY DARLING>\sinv[2]Nyoh hoh hoh!\sinv[0]\! Another win for me!\!<br>Today's my lucky day!
+      text: \n<PANNA TIFFANY>\sinv[2]Nio ho ho!\sinv[0]\! Znowu wygrałam!\!<br>Dzisiaj dopisuje mi szczęście! 
+
 
 message_134:
-      text: \n<TIFFANY DARLING>\sinv[2]Take these CLAMS! I don't need them!\!<br>I'm rich! I'm rich! And so are you!
+      text: \n<PANNA TIFFANY>\sinv[2]Weźcie sobie te MAŁŻE! Nie potrzebuje ich!\!<br>Jestem bogata! Jestem bogata! Teraz wy też!
+
 
 message_127:
-      text: You got 100 CLAMS!
+      text: Zdobywasz 100 MAŁŻY!
+
 
 message_129:
-      text: You got 500 CLAMS!
+      text: Zdobywasz 500 MAŁŻY!
+
 
 message_139:
-      text: You got 1000 CLAMS!
+      text: Zdobywasz 1000 MAŁŻY!
+
 
 message_141:
-      text: You got 2000 CLAMS!
+      text: Zdobywasz 2000 MAŁŻY!
+
 
 message_131:
-      text: \n<TIFFANY DARLING>\sinv[2]Nyoh hoh hoh!\sinv[0]\! This showing is simply magnifique!
+      text: \n<PANNA TIFFANY>\sinv[2]Nio ho ho!\sinv[0]\! Wprost cudowny pokaz!
 #Jerko
 #Location: Train Station
 message_132:
-      text: \n<JERKO>Can you tell the guy in front of me to hurry up?\!<br>Some of us have lives, you know?
+      text: \n<BUC>Moglibyście powiedzieć temu typowi przede mną, żeby się pospieszył?\!<br>Niektórzy ludzie mają życie prywatne, wiecie?
+
 
 #Location 2: Last Resort
 message_133:
-      text: \n<JERKO>\com[2]What's with this big boss man tellin' everyone to wait?\!<br>Who does he think he is!?\! Some of us have lives, you know?
+      text: \n<BUC>\com[2]Co jest nie tak z tym szefem szefów, który każe wszystkim czekać?\!<br>Za kogo on się uważa?!\! Niektórzy ludzie mają życie prywatne, wiecie?
+
+
+
 
 
 
 #Mott
 
+
 #Location: Train Station
 message_137:
-      text: \n<MOTT>Been seeing some GATOR GUYS around here recently...\!<br>That means the big boss is conducting business again...<br><br>Huh?\! You haven't heard of the big boss?\! Well, you will soon.
+      text: \n<KOMARCEL>Niedawno widziałem tu paru ALI GATORÓW...\!<br>To znaczy, że szef szefów znowu załatwia interesy...<br><br>Co?\! Nie słyszeliście nigdy o szefie szefów?\! To zaraz usłyszycie.
+
 
 #Location: Mr. Jawsum's Concierge
 message_135:
-      text: \n<MOTT>MR. JAWSUM...\! That's a name that'll get everyone's attention around here.
+      text: \n<KOMARCEL>PAN SZCZĘKOPAD...\! To nazwisko zwróci uwagę wszystkich wokół.
+
 
 message_136:
-      text: \n<MOTT>I hear he's the type that won't ever get his hands dirty...\! and I don't blame him for it!\! I'd do the same if I could get anything I wanted with a snap of my fingers!
+      text: \n<KOMARCEL>Mówi się, że nigdy nie macza palców w brudnej robocie...\! ale wcale mnie to nie dziwi!\! Robiłbym dokładnie to samo, gdybym mógł za jednym pstryknięciem palców dostać, czego chce! 
+
+
 
 
 #Miggie
 #Location: Last Resort Casino
 message_138:
-      text: \n<MIGGIE>I traveled all the way here from the city for this?\! I need a vacation from my vacation...
+      text: \n<MONIA>I po to jechałam tu z miasta taką drogę?\! Potrzebuje urlopu od wakacji...
+
+
+
 
 
 
 #Tapioca
 #Location: Underwater Highway
 message_140:
-      text: \n<TAPIOCA>The water here is a bit warmer than it is in the cave up in the mountains.
+      text: \n<TAPIOKA>Woda jest tu trochę cieplejsza niż w jaskini w górach.
+
+
+
 
 
 
 #Brooke
 #Location: Train Station
 message_142:
-      text: \n<BROOKE>I always seem to find myself in precarious situations.\!<br>I wonder if this counts...
+      text: \n<RUCZAJ>Zawsze dziwnym trafem pakuje się w kłopoty.\!<br>Zastanawiam się, czy to też się liczy...
+
 
 #Location 2: Last Resort Casino
 message_143:
-      text: \n<BROOKE>I always seem to find myself in precarious situations.\!<br>I wonder if this counts...
+      text: \n<RUCZAJ>Zawsze dziwnym trafem pakuje się w kłopoty.\!<br>Zastanawiam się, czy to też się liczy...
+
 
 message_144:
       text:
 
+
 #Megaphone
 #Location: Train Station
 message_145:
-      text: \n<MEGAPHONE>A lot of trains used to run through this forest, but there's only one now.
+      text: \n<MEGAFON>Mnóstwo pociągów przejeżdżało kiedyś przez ten las, ale teraz został tylko jeden. 
+
+
 
 
 message_146:
       text:
 
+
 #Cat Pyramid
 #Location: SW Art Gallery
 message_147:
-      text: \n<CAT PYRAMID>What a fantastic show!\! This visit was well worth the trip from \c[11]ORANGE OASIS\c[0]!
+      text: \n<KOTOMIDA>Jakie wspaniałe dzieła!\! Warto było przyjechać tu z  \c[11]POMARAŃCZOWEJ OAZY\c[0]!
+
+
 
 
 #Gasper
 #Location: Train Station
 message_149:
-      text: \n<GASPER>\sinv[1]La... Lala... la... lala... la!\sinv[1]
+      text: \n<ZIAJAK>\sinv[1]La... Lala... la... lala... la!\sinv[1]
+
 
 message_150:
-      text: \n<GASPER>My singing makes the time pass faster for me...\! and slower for everyone else!
+      text: \n<ZIAJAK>Kiedy śpiewam, czas leci mi szybciej...\! a innym wolniej!
+
+
 
 
 #Cowblin
 #Location: Train Station
 message_152:
-      text: \n<COWBLIN>Mom told me to put on a jacket because she thought it was going to get cold...
+      text: \n<KROBLIN>Mama powiedziała mi, żebym ubrał kurtkę bo myślała, że zrobi się zimno...
+
 
 message_153:
-      text: \n<COWBLIN>Sigh...\! It's so hot right now...\! but I don't want to take my jacket off...\! because then I would have to hold it.
+      text: \n<KROBLIN>Uch...\! Jest tak gorąco...\! ale nie chcę zdejmować kurtki...\! bo będe musiał ją wtedy trzymać.
+
 
 message_154:
-      text: \n<COWBLIN>Sigh...\! The weather's even hotter than before...
+      text: \n<KROBLIN>Ech...\! Jest nawet cieplej niż wcześniej...
+
 
 #Square
 #Location: Train Station
 message_155:
-      text: \n<SQUARE>\com[2]Chomp! Chomp! Chomp!
+      text: \n<KWADRAT>\com[2]Chrup! Chrup! Chrup!
+
 
 #Pellet
 #[UNPLACED]
 message_156:
-      text: \n<PELLET>This pond water is so clear!\! It's like I can see a whole 'nother world on the other side!
+      text: \n<GRUDKA>Woda w tym stawie jest taka czysta!\! Jest tak czysta, że można by ujrzeć całkiem inny świat pod jej taflą!
+
 
 message_157:
-      text: \n<PELLET>This pond water is getting kind of murky...\! What happened?\! It was so clear before...
+      text: \n<GRUDKA>Woda w tym stawie robi się jakaś mętna...\! Co się stało?\! Wcześniej była taka czysta...
+
 
 #Loam
 #Location: Otherworld Lake
 message_158:
-      text: \n<LOAM>\sinv[1]LOAMY...\! LOAM LOAM...\! LOAMY LOAM...\! is loamy.
+      text: \n<PIASECZNY>\sinv[1]PIASZCZYSTY...\! PIACH PIACH...\! PIASZCZYSTY PIACH...\! jest piaszczysty.
+
+
+
 
 
 
 #This Guy
 #[UNPLACED]
 message_160:
-      text: \n<THIS GUY>I am MARINA's second experiment...\! She made me out of clay and rocks when she was just a baby.
+      text: \n<TEN TYP>Jestem drugim eksperymentem MARINY...\! Zrobiła mnie z gliny i kamieni, kiedy była mała.
+
 
 #POKE
 message_159:
-      text: \n<THIS GUY>Hmm...\! Poking is cool...\! but I like high-fives better.
+      text: \n<TEN TYP>Hmm...\! Szturchanie jest fajowe...\! ale wolę zbijać piątki.
+
 
 #PET
 message_161:
-      text: \n<THIS GUY>Hmm...\! Petting is cool...\! but I like handshakes better.
+      text: \n<TEN TYP>Hmm...\! Mizianie jest fajowe...\! ale wolę uścisk dłoni.
+
 
 #Red Smile
 #[UNPLACED]
 message_162:
-      text: \n<RED SMILE>
+      text: \n<CZERWONY UŚMIECH>
+
 
 message_163:
       text:
 
+
 #Porinu
 #[UNPLACED]
 message_164:
-      text: \n<PORINU>I am MARINA's third experiment.\! She made me out of a rubber glove when she was just a toddler.
+      text: \n<PORINU>Jestem trzecim eksperymentem MARINY.\! Zrobiła mnie z gumowej rękawiczki, kiedy była jeszcze małym brzdącem.
+
 
 message_165:
-      text: \n<PORINU>\com[2]What!?\! Who's there!?
+      text: \n<PORINU>\com[2]Co?!\! Kto tam?!
+
 
 message_359:
-      text: \n<PORINU>\com[2]Who did that!?\! Show yourselves!
+      text: \n<PORINU>\com[2]Kto to zrobił?!\! Pokaż się, ty huncwocie!
+
 
 #Sereno
 #[UNPLACED]
 message_166:
-      text: \n<SERENO>Legends speak of a pair of twins who guard the \c[11]ORANGE OASIS\c[0] under their watchful eye.\! It is said that they have the power to raise the dead...\! among other things...
+      text: \n<SERENO>Legenda głosi o dwóch bliźniakach strzegących \c[11]POMARAŃCZOWEJ OAZY\c[0] jak oka w głowie.\! Mówi się, że mieli moc wskrzeszania zmarłych...\! między innymi...
+
 
 message_167:
-      text: \n<SERENO>I don't know if there is much truth about these legends, but wouldn't that be interesting?
+      text: \n<SERENO>Nie wiem, czy te legendy mówią prawdę, ale czyż nie byłoby to ciekawe?
+
 
 #Brelle
 #SW GALLERY
 message_168:
-      text: \n<BRELLE>Wow... I am beyond moved by this work...\! The unabashed display of this artist's immense ego is truly breathtaking.
+      text: \n<SOLKA>Wow... To wprowadza mnie w istny zachwyt...\! Wystawa tego artysty o wygórowanym ego po prostu zapiera dech w piersiach.
+
 
 message_169:
       text:
 
+
 #Mooncake
 #Location: Train Station
 message_170:
-      text: \n<MOONCAKE>BLOOKIE gets down easily, but he just needs someone to listen sometimes...\! and that someone is me!
+      text: \n<KSIĘŻYCIASTKO>KLOCUCH często się smuci, więc potrzebuje, kogoś kto by go wysłuchał...\! a tym kimś jestem ja!
+
 
 message_171:
       text:
 
+
 #Blookie
 #Location: Train Station
 message_172:
-      text: \n<BLOOKIE>Everyone here is so different and interesting...\! I wonder what makes me different and interesting...
+      text: \n<KLOCUCH>Tyle tu różnych i ciekawych ludzi...\! Ciekawe, co sprawia, że to ja jestem godny uwagi......
+
 
 message_173:
       text:
 
+
 #Whatever
 #Location: Train Station
 message_174:
-      text: \n<WHATEVER>I am in need of fat stacks of cash.
+      text: \n<COKOLWIEK>Potrzebuje potężnego zastrzyku gotówki.
+
 
 #Location 2: Mr. Jawsum's Concierge
 message_175:
-      text: \n<WHATEVER>I am in need of fat stacks of cash.
+      text: \n<COKOLWIEK>Potrzebuje potężnego zastrzyku gotówki.
+
 
 message_176:
       text:
 
+
 #Babo
 #Location: Frozen Forest
 message_177:
-      text: \n<BABO>BABO like cold time...\! Make BABO grateful for warm time...
+      text: \n<BABO>BABO lubi, kiedy jest zimno...\! BABO wdzięczny, kiedy jest ciepło...
+
+
 
 
 message_178:
       text:
 
+
 #Hoffy
 #Location: Last Resort Casino
 message_179:
-      text: \n<HOFFY>Gotta take a break from the slots...\!<br>My arms are starting to cramp up real bad.
+      text: \n<HOFIK>Muszę zrobić sobie przerwę od jednorękiego bandyty...\!<br>Zaczynam czuć okropny ból w ramionach.
+
 
 message_180:
       text:
 
+
 #Andrew
 #Location: Last Resort Casino
 message_181:
-      text: \n<ANDREW>I'm aimin' for those big wins today!\!<br>Awww, yeah! Thinkin' positive!
+      text: \n<ANDRZEJ>Dzisiaj wygram w toto loto!\!<br>Oooo, tak! Pozytywne afirmacje!
+
 
 message_182:
       text:
 
+
 #Quaspy
 #Location: Outskirts
 message_183:
-      text: \n<QUASPY>During our hike just now, I noticed a face indented into a cliff.\! I wonder what that's all about?
+      text: \n<KŁAPSI>Podczas naszej wędrówki zauważyłem twarz zatopioną w skale.\! Ciekawe, o co nią chodzi?
+
+
 
 
 message_184:
       text:
 
+
 #Citrus
 #Location: Train Station
 message_185:
-      text: \n<CITRUS>Trains aren't really my thing.\! I'm just here for the music!
+      text: \n<CYTRUS>Nie przepadam jakoś bardzo za pociągami.\! Jestem tu dla muzyki!
+
 
 message_186:
       text:
 
+
 #Lulu
 #Location: Last Resort Casino
 message_187:
-      text: \n<LULU>I think I booked the wrong bus...\! This isn't what this place looked like on the advertisement...
+      text: \n<LULU>Chyba wsiadłam do złego autobusu...\! To miejsce w ogóle nie wygląda tak jak na broszurze...
+
 
 message_188:
       text:
 
+
 #Amelia
 #Location: Last Resort Casino
 message_189:
-      text: \n<AMELIA>Gah... How'd I get myself into this dump?\!<br>It's just one thing after another this week...
+      text: \n<AMELIA>Ech... Co ja robię w tej dziurze?\!<br>Cały tydzień dzień w dzień to samo...
+
 
 #SW GALLERY
 message_190:
-      text: \n<AMELIA>Wow, this is quite the showroom...\! Still, it is strange.\! I don't remember this castle being here before.\! Maybe I'm just imagining things...
+      text: \n<AMELIA>Wow, zacna wystawa...\! Ale coś mi tu śmierdzi.\! Nie przypominam sobie, żeby ten zamek tu był.\! Może tylko mi się wydaje... 
+
 
 #-------------------------------------------------------------------------------------------
 #DW_NPC_26
 
+
 #Soy Sauce
 #Location: Last Resort Casino
 message_191:
-      text: \n<SOY SAUCE>Aww, nuts! I lost again!\! I just know this machine is rigged!<br>\!I'd bet my left foot on it!
+      text: \n<SOS SOJOWY>O cholera! Znowu przegrałem!\! Ta maszyna na bank jest ustawiona!<br>\!Dałbym sobie rękę uciąć!
+
 
 #SW GALLERY
 message_192:
-      text: \n<SOY SAUCE>Galleries are all about showing off cool stuff!\! They should be showing me off!\! I'm cool stuff too!
+      text: \n<SOS SOJOWY>Wystawy są po to, żeby eksponować fajne rzeczy!\! To mnie powinni wyeksponować!\! Też jestem fajny!
+
 
 #Tater
 #Location: Train Station
 message_193:
-      text: \n<TATER>Will get up soon.\! Just... give me a bit.
+      text: \n<PYR>Zaraz wstanę.\! Jeszcze... pięć minut.
+
 
 message_194:
       text:
 
+
 #Simple Roach
 #Location: SW Kitchen
 message_195:
-      text: \n<SIMPLE ROACH>\com[2]Ah! I've been spotted!\! Please don't tell anyone I'm here!\!<br>I just like digging in the pantry...\! I mean... who doesn't?
+      text: \n<NORMALKA RALUCH>\com[2]A! Znaleźli mnie!\! Proszę, nie mówcie nikomu, że tu jestem!\!<br>Po prostu lubię czasem pogrzebać w spiżarce...\! W sensie... kto nie lubi?
+
 
 message_196:
       text:
 
+
 #Spaghetti
 #Location: Mr. Jawsum's Concierge
 message_197:
-      text: \n<SPAGHETTI>This guy next to me is up to something fishy... but I can't put my finger on it...
+      text: \n<SPAGHETTI>Ten gość obok mnie coś knuje... ale nie mogę nic z tym zrobić...
+
 
 message_198:
       text:
 
+
 #Wollie
 #Location: Last Resort Casino
 message_199:
-      text: \n<WOLLIE>You win some, you lose some...\!<br>At least, that's what one would expect.\!<br>Not me, though.\! I just lose...\! all the time.
+      text: \n<WEŁĘKA>Raz na wozie, raz pod wozem...\!<br>Przynajmniej tego można byłoby się spodziewać.\!<br>Ale śmiem wątpić.\! Bo ja jestem pod...\! w każdej chwili.
+
+
 
 
 message_200:
       text:
 
+
 #Bafino
 #Location: Last Resort Casino
 message_201:
-      text: \n<BAFINO>Wow! Paying for the VIP experience here was the best decision I have ever made!
+      text: \n<BAFINO>Wow! Zakup przepustki VIP był najlepszą decyzją w moim życiu!
+
 
 message_202:
-      text: \n<BAFINO>I just came back from an exclusive all-you-can-spend buffet, and I even heard there was gonna be a \c[3]TOFU\c[0] fundraiser tonight!\! You can count me in!
+      text: \n<BAFINO>Właśnie wróciłem z ekskluzywnej kolacji w formie szwedzkiego stołu i słyszałem, że dzisiaj odbędzie się zbiórka na \c[3]TOFU\c[0]!\! Też się dorzucę!
+
 
 message_203:
       text:
 
+
 #Scuba
 #Location: Mr. Jawsum's Concierge
 message_204:
-      text: \n<SCUBA>Oh... I'm late for my payments again...\! MR. JAWSUM's going to have my head on a stick!\! Woe is me... Woe is me...
+      text: \n<AKWALUNG>O... Znowu zalegam z długami...\! PAN SZCZĘKOPAD nabije mnie na pal!\! Biada mi... O, biada...
+
 
 message_205:
       text:
 
+
 #Darville
 #Location: Train Station
 message_207:
-      text: \n<DARVILLE>Oh, boy... I'm in trouble now...\!<br>Sigh...\! Why does it always gotta be me!?
+      text: \n<ŚMIŁEK>O kurde... Mam przerąbane...\!<br>Ech...\! Czemu to zawsze muszę być ja?!
+
 
 message_209:
-      text: \n<DARVILLE>...\! This ain't none of your business, kid.\! Be careful who you associate yourself with.\! I'm speakin' from experience here!
+      text: \n<ŚMIŁEK>...\! To nie twoja działka, dzieciaku.\! Uważaj, z kim zadzierasz.\! Wiem to z autopsji!
+
 
 #Location: Mr. Jawsum's Concierge
 message_206:
-      text: \n<DARVILLE>Aww, geez...\! It's just gotta be me who has to tell JAWSUM that another investor is backing out!\! It's not my fault, alright!?\! ...\! But there's no way I'm gonna tell him that.
+      text: \n<ŚMIŁEK>O jeeezu...\! Będę musiał powiedzieć SZCZĘKOPADOWI, że kolejny inwestor się wycofał!\! To nie moja wina, okej?!\! ...\! Nie ma mowy, że mu o tym powiem.
+
 
 #Obaaa
 #Location: Train Station
@@ -933,547 +1192,729 @@ message_208:
       text: \n<OBAAA>\sinv[1]Obbaaaaaaaaaaaaaaaa!\sinv[0]
 
 
+
+
 #Diving Man
 #Location: Underwater Highway
 message_210:
-      text: \n<DIVING MAN>I was expecting to see some sea life...\!<br>but I wasn't expecting this...
+      text: \n<NUREK>Chciałem skosztować trochę morskiego życia...\!<br>ale tego się nie spodziewałem...
+
 
 message_211:
       text:
 #-------------------------------------------------------------------------------------------------------
 #DW_NPC_27
 
+
 #Maestro
 #Location: Junkyard Entrance - Before Junkyard
 message_212:
-      text: \n<MAESTRO>My good men.\! I am looking for some art.\!<br>Fear not...\! for I will know when I have found it!
+      text: \n<MAESTRO>Dobry człowieku.\! Poszukuję sztuki.\!<br>Ale bez obaw...\! będę wiedział, gdy już ją znajdę!
+
 
 #Location: Junkyard Entrance - After Junkyard
 message_213:
-      text: \n<MAESTRO>Alas, I have found art in a most unexpected place!\!<br>The madam will surely be pleased.
+      text: \n<MAESTRO>Jak się okazuje, znalazłem dzieło w najmniej oczekiwanym miejscu!\!<br>Moja pani z pewnością będzie zachwycona.
+
 
 #Location 2: SW Art Gallery
 message_214:
-      text: \n<MAESTRO>Behold!\! Isn't this the finest piece of art you've ever laid your eyes upon?
+      text: \n<MAESTRO>Spójrz!\! Czyż to nie jest najwybitniejsze dzieło sztuki, na którym kiedykolwiek zawiesiłeś wzrok?
+
 
 #Buckaroo
 #[UNPLACED]
 message_400:
-      text: \n<MR. OUTBACK>How d'ya do, buckaroo?\! The name's MR. OUTBACK...\! and I was busier than a moth in a mitten travelin' the world in my youth!
+      text: \n<PAN PUSTKOWI>Jupikajej, kowboju!\! Zwą mnie PANEM PUSTKOWI...\! W młodości dużo podróżowałem po szerokim świecie! 
+
 
 message_401:
-      text: \n<MR. OUTBACK>Nowadays... I'm more reserved.\! I stand on a cliff and give advice to those who are willin' to ask.
+      text: \n<PAN PUSTKOWI>Teraz... usunąłem się w cień.\! Staję na urwisku i daję rady ludziom, którzy zechcą o nie poprosić.
+
 
 message_402:
-      text: \n<MR. OUTBACK>Them folks who've been here long...\! They know more than they're letting on...
+      text: \n<PAN PUSTKOWI>Ci, którzy są tu od lat...\! Wiedzą więcej, niż można byłoby się po nich spodziewać...
+
 
 message_403:
-      text: \n<MR. OUTBACK>We got a third eye, you could say...\! a sixth sense...\! if you get my drift.
+      text: \n<PAN PUSTKOWI>Można rzec, że mamy trzecie oko...\! szósty zmysł...\! kumasz czaczę?
+
 
 message_404:
-      text: \n<MR. OUTBACK>Your three purple-haired friends are full of love and spirit...\! But you, dark-haired kiddo.\! Your aura's all cattywampus!
+      text: \n<PAN PUSTKOWI>Twoi fioletowowłosi przyjaciele są pełni miłości i charyzmy...\! Ale ty, dzieciaku o czarnych włosach...\! czuć od ciebie zniszczenie!
+
 
 message_405:
-      text: \n<MR. OUTBACK>It's all dark and twisted...\! and it ain't mellowin' down any time soon.\! You got a real journey ahead of ya.
+      text: \n<PAN PUSTKOWI>Wszystko jest mroczne i pokręcone...\! i nie wygląda na to, żeby miało się to szybko zmienić.\! Wasza podróż dopiero się zaczyna.
+
 
 message_406:
-      text: \n<MR. OUTBACK>Now that's not to discourage you, boy.\! Everyone's got their own journey...\! and I'd be obliged to help y'all on yours!
+      text: \n<PAN PUSTKOWI>Nie chcę cię zniechęcać, chłopcze.\! Każdy musi nieść swój krzyż...\! zamierzam pomóc ci z twoim!
+
 
 message_407:
-      text: \n<MR. OUTBACK>I can answer a handful of questions...\!<br>so ask away, if you so desire!
+      text: \n<PAN PUSTKOWI>Znam odpowiedzi na tysiące pytań...\!<br>wal śmiało, ile dusza zapragnie!
+
 
 #NOTHING
+
 
 message_408:
-      text: \n<MR. OUTBACK>You don't wanna know nothin' from an old geezer like me?\! Whatever floats your boat...\! But I'll be here...\! rootin'...\!\sinv[1] and tootin'...\sinv[0] for ya!
+      text: \n<PAN PUSTKOWI>Nie chcesz dowiedzieć się niczego od takiego starego pryka jak ja?\! Rób, jak uważasz...\! ale ja będę trzymał za ciebie...\!\sinv[1] kciuki\sinv[0]!
+
 
 #NOTHING
 
+
 message_409:
-      text: WHERE AM I?
+      text: GDZIE JA JESTEM?
+
 
 message_410:
-      text: WHERE IS BASIL?
+      text: GDZIE JEST BASIL?
+
 
 message_411:
-      text: HOW OLD ARE YOU?
+      text: ILE MASZ LAT?
+
 
 message_412:
-      text: ASK NOTHING
+      text: O NIC NIE PYTAJ
+
 
 message_413:
-      text: \n<MR. OUTBACK>\sinv[1]Hoo-wee!\sinv[0]\! That's a good one!\! Now where do I start?\! Hmm...\! Well, this place has been around since the beginning of time, I reckon.
+      text: \n<PAN PUSTKOWI>\sinv[1]Iiihaaa!\sinv[0]\! Dobre pytanie!\! Od czego by tu zacząć?\! Hmm...\! A więc to miejsce istniało od początku wszechświata, tak sądze.
+
 
 message_419:
-      text: \n<MR. OUTBACK>It looks different to everyone...\! but this time around, it's pretty colorful and cutesy for the most part...\! not to mention pretty dang big!<br>That's a powerful imagination you've got there, kiddo.
+      text: \n<PAN PUSTKOWI>Dla każdego wygląda trochę inaczej...\! ale tym razem jest raczej urocze i kolorowe...\! nie wspominając o jego byczo wielkim rozmiarze!<br>Masz bogatą wyobraźnie, dzieciaku.
+
 
 message_414:
-      text: \n<MR. OUTBACK>Well, your friend ain't here is all I can say!\! But I think you know you have a way of knowin' that answer.\! When someone looks for the truth...\! the world will create a set of KEYS.<br>And those KEYS...\! they'll take a different form dependin' on the person's will.\! You know what your KEYS look like, don'tcha?\! Just press \DII[pageup]!
+      text: \n<PAN PUSTKOWI>Cóż, mogę powiedzieć tylko tyle, że twojego przyjaciela tu nie ma!\! Myślę jednak, że wiesz, jak poznać odpowiedź.\! Gdy ktoś poszukuje prawdy...\! los podrzuca ci garść ZNAKÓW.<br>A te ZNAKI...\! przybierają różne formy, zależnie od człowieka.\! Wiesz, jak wyglądają twoje ZNAKI, prawda?\! Po prostu wciśnij \DII[pageup]!
+
 
 message_417:
-      text: \n<MR. OUTBACK>\com[2]Don't you know not to ask old folks that!\! I'd say give or take 33000 years though...\! but it's not like that matters all that much at this point.
+      text: \n<PAN PUSTKOWI>\com[2]Nikt cię nie nauczył szacunku do starszych?!\! Powiedzmy, że minęło około 33000 lat...\! ale na ten moment nie ma to większego znaczenia.
+
 
 message_415:
-      text: \n<MR. OUTBACK>Now y'all better skedaddle!\! It's a long journey ahead, young whippersnappers!
+      text: \n<PAN PUSTKOWI>Zwiewajcie już!\! Jeszcze długa droga przed wami, smarkacze!
+
 
 message_416:
-      text: \n<MR. OUTBACK>I'm rootin'...\!\sinv[1] and tootin'...\sinv[0] for ya!
+      text: \n<PAN PUSTKOWI>Trzymam za was\!\sinv[1]kciuki\sinv[0]!
+
 
 message_418:
-      text: \n<MR. OUTBACK>And that's all she wrote!\! Did you want me to tell you more about somethin' else?
+      text: \n<PAN PUSTKOWI>I to by było na tyle!\! Chcesz się jeszcze czegoś dowiedzieć?
+
 
 message_420:
-      text: MR. OUTBACK has been turned into sand.
+      text: PAN PUSTKOWI obrócił się w piach.
+
 
 message_421:
-      text: A sand sculpture of a peculiar old geezer.
+      text: Piaskowa statua osobliwego starca.
+
 
 message_422:
-      text: \n<???>Howdy!
+      text: \n<???>Siemasz!
+
 
 #rootin and tootin
 #buckaroo
 
 
+
+
 #Fiesta
 #Location: Last Resort Casino
 message_218:
-      text: \n<FIESTA>I'm sick of slots, but there's not much else to do around here...\! I should just go back to the city!
+      text: \n<FIESTA>Mam dość maszyn, ale nie ma tu nic lepszego do roboty...\! Powinnam wrócić do miasta!
+
 
 message_219:
       text:
 
+
 #Touchdown
 #Location: Mr. Jawsum's Concierge
 message_220:
-      text: \n<TOUCHDOWN>I hear JAWSUM has a new bodyguard who's real tough, but there's no way he's gonna be a match for TOUCHDOWN!
+      text: \n<PRZYŁOŻENIEWICZ>Słyszałem, że SZCZĘKOPAD znalazł sobie nowego ochroniarza szerokiego jak szafa, ale nie dorasta PRZYŁOŻENIEWICZOWI do pięt!
+
+
 
 
 message_221:
       text:
 
+
 #Trevor
 #Location: Frozen Forest
 message_222:
-      text: \n<TREVOR>There wasn't any snow where I grew up, but it still makes me miss being a kid again...\! I wonder why that is...
+      text: \n<TREVOR>Tam, gdzie dorastałem, nie było śniegu, ale pomimo to chciałbym z powrotem być dzieckiem...\! Ciekawe dlaczego...
+
 
 message_223:
       text:
 
+
 #Mountain
 #Location: Train Station
 message_224:
-      text: \n<MOUNTAIN>It is a blessing to exist.
+      text: \n<GÓRA>Istnienie jest darem.
+
 
 message_225:
       text:
 
+
 #Cesar
 #Location: Last Resort Casino
 message_226:
-      text: \n<CESAR>This place is amazing!\! I'm having the time of my life!
+      text: \n<CEZARY>To miejsce jest super!\! To najlepszy dzień w moim życiu!
+
 
 #Message in the bottle
 #Location: Otherworld Lake
 message_227:
-      text: A message in a bottle.\! Do you want to read it?
+      text: Wiadomość w butelce.\! Chcesz ją przeczytać?
+
 
 message_228:
-      text: \"When the Moon hits your eye like a big pizza pie, that's...\"
+      text: \"Ore ore, szaba daba da...\"
+
 
 message_229:
-      text: You completed the message and threw the bottle back into the lake.
+      text: Dokończyłeś wiadomość i wrzuciłeś butelkę z powrotem do jeziora.
+
 
 #Lemonade Jash
 #Location: Train Station
 message_230:
-      text: \n<LEMON JASH>I like to consider myself a pretty well-tempered JASH...\!<br>but if there's one thing I can't stand...\! it's line-cutters...
+      text: \n<CYTRUSOWY JUZEK>Uważam się za JUZKA z manierami...\!<br>ale są ludzie, których nie mogę znieść...\! Tacy, co wtryniają się w kolejkę...
+
 
 #Gibs
 #Location: Train Station
 message_231:
-      text: \n<GIBS>Don't have all the \sinv[1]g'woods?\sinv[0]\! Well, that's fine.\! Anything helps.\!<br>This song's one of my favorites.\! Please enjoy it!
+      text: \n<KOCURRO>Nie masz za dużo \sinv[1]pień-ędzy?\sinv[0]\! Spoko.\! Każda kwota się liczy.\!<br>To jest moja ulubiona piosenka.\! Proszę, posłuchajcie!
+
 
 message_232:
-      text: \n<GIBS>Awww...\! Well that's alright.\! It's all \sinv[1]g'wood...\sinv[0]
+      text: \n<KOCURRO>Ooo...\! jak super.\! Jest\sinv[1]pień-knie...\sinv[0]
+
 
 #Gumbo
 #Location: OTHERWORLD
 message_233:
-      text: \n<GUMBO>GUMBO... \!\{\sinv[1]HAPPY!\sinv[0]
+      text: \n<GUMBO>GUMBO... \!\{\sinv[1]SZCZĘŚLIWY!\sinv[0]
+
 
 message_234:
-      text: You are pretty sure this pool is haunted.\!<br>Do you want to go in?
+      text: Jesteś praktycznie przekonany, że ten basen jest nawiedzony.\!<br>Chcesz do niego wejść?
 
-#Sprout Mole
+
+#KIEŁKUN
 #Location: Train STATION
 message_235:
     faceset: MainCharacters_DreamWorld
     faceindex: 31
-    text: \kel\Com[2]\{AHHHHHHHHHH, HELP!!\!\}<br>It's an ugly plant creature!
+    text: \kel\Com[2]\{AAAAAAAAAA, POMOCY!!\!\}<br>Jakiś ohydny roślinny stwór!
+
 
 message_236:
-    text: \n<SPROUT MOLE>Excuse you!\! I am no ugly plant creature!\!<br>I'm a SPROUT MOLE, a very high-functioning and intelligent creature.
+    text: \n<KIEŁKUN>Wypraszam sobie!\! Nie jestem żadnym ohydnym roślinnym stworem!\!<br>Jestem KIEŁKUNEM, sprawną i inteligentną istotą!
+
 
 message_237:
-    text: \n<SPROUT MOLE>What you are referring to is a LOST SPROUT MOLE.\!<br>When SPROUT MOLES become lost, they can often become hostile and attack without warning!
+    text: \n<KIEŁKUN>Masz na myśli ZAGUBIONEGO KIEŁKUNA.\!<br>Kiedy KIEŁKUNY się gubią, mogą stać się agresywne i atakują znienacka!
+
 
 message_238:
-    text: \n<SPROUT MOLE>Hmm...\! Actually...\! Where am I?\!<br>... \!Could it be that I'm... \!lost?
+    text: \n<KIEŁKUN>Hmm...\! Tak właściwie, to...\! gdzie ja jestem?\!<br>... \!Czy ja się... \!zgubiłem?
+
 
 message_239:
-    text: \n<SPROUT MOLE>Urgg...\! Suddenly, I don't feel so good...
+    text: \n<KIEŁKUN>Uch...\! Nie czuje się zbyt dobrze...
+
 
 message_240:
-    text: \n<LOST SPROUT MOLE>...\| ...\| ...
+    text: \n<ZAGUBIONY KIEŁKUN>...\| ...\| ...
+
 
 message_241:
-    text: \n<LOST SPROUT MOLE>\sinv[1]\{\com[2]EEEE\{EEEEEE\{EEEEEEEEEEEEEE!!!
+    text: \n<ZAGUBIONY KIEŁKUN>\sinv[1]\{\com[2]IIII\{IIIIII\{IIIIIIIIIII!!!
+
 
 #Gator Guy Rubber BAND
 
+
 message_245:
-    text: You got a \c[5]RUBBERBAND\c[0].
+    text: Zdobywasz \c[5]RECEPTURKĘ\c[0].
+
 
 message_246:
-    text: \n<GATOR GUY>You finally get on the boss's good side, KEL?\! You're a load of trouble, but I'll be lookin' out for you.
+    text: \n<ALI GATOR>Czy w końcu zyskałeś uznanie szefa, KEL?\! Sprawiasz kłopoty, ale zajmę się tobą.
+
 
 message_247:
-    text: \n<GATOR GUY>Somethin's up with the boss...\! Haven't heard him laugh in a while.\! ...\! I kinda miss it...
+    text: \n<ALI GATOR>Coś jest nie tak z szefem...\! Dawno się nie śmiał.\! ...\! Trochę za tym tęsknie...
+
 
 message_248:
-      text: \n<GATOR GUY>Gonna really miss you, AUBREY.\! Remember what we talked about, okay?\! Don't take things so serious all the time!\! It's okay to laugh a little.
+      text: \n<ALI GATOR>Będę za tobą tęsknił, AUBREY.\! Pamiętaj, o czym gadaliśmy, okej?\! Nie bierz wszystkiego na poważnie!\! Czasem trzeba trochę się pośmiać.
+
 
 message_249:
-      text: This is the end of the highway.
+      text: To koniec autostrady.
+
 
 message_251:
-      text: \n<SHADY MOLE>\com[2]\quake[1]\{\{EEEEEE\{EEEE\{EEEEEEEEK!!
+      text: \n<PODEJRZANY KIEŁKUN>\com[2]\quake[1]\{\{IIII\{IIII\{IIIIIIII!!
+
 
 #TOILET
 
+
 message_252:
-      text: Do you want to go back to \c[11]LAST RESORT\c[0]?
+      text: Chcesz wrócić do \c[11]OSTATNIEJ PRZYSTANI\c[0]?
+
 
 message_253:
-      text: Do you want to go back to \c[11]DEEPER WELL\c[0]?
+      text: Chcesz wrócić do \c[11]GŁĘBSZEJ STUDNI\c[0]?
 
 
-#SPROUT MOLES IN ART Gallery
+
+
+#KIEŁKUNS IN ART Gallery
 message_255:
-      text: \n<MAID MOLE>Let me through! You don't know how long I've been waiting to see SWEETHEART's latest work!
+      text: \n<KIEŁKUNKA POKOJÓWKA>Przepuśćcie mnie! Nie macie najmniejszego pojęcia, ile czekałam, żeby zobaczyć najnowsze prace SŁODZIUTKIEJ!
+
 
 message_256:
-      text: \n<BUTLER MOLE>Please let me in! I promise I'll write you a good review!
+      text: \n<KIEŁKUN KAMERDYNER>Proszę, wpuśćcie mnie! Napisze wam dobrą recenzje!
+
 
 message_257:
-      text: \n<BUTLER MOLE>Get back to your stations, you two!\!<br>You know guests take priority!
+      text: \n<KIEŁKUN KAMERDYNER>Wasza dwójka, wracać, gdzie staliście!\!<br>Goście mają pierwszeństwo!
+
 
 message_258:
-      text: \n<BUTLER MOLE>Thou shall not pass!
+      text: \n<KIEŁKUN KAMERDYNER>Ani kroku dalej!
+
 
 message_259:
-      text: \n<MAID MOLE>Guys, stop it!\! You aren't helping at all!
+      text: \n<KIEŁKUNKA POKOJÓWKA>Ludzie, przestańcie!\! Wszystko utrudniacie!
+
 
 message_260:
-      text: \n<MAID MOLE>Sigh...\! We were supposed to have HAROLDS guarding the entrance to the show...\! but I heard they all got held up at the BALLROOM and LIBRARY...
+      text: \n<KIEŁKUNKA POKOJÓWKA>Ech...\! HAROLDOWIE powinni stać przy wejściu na występ...\! ale słyszałem, że wszyscy zostali wysłani do SALI BALOWEJ i BIBLIOTEKI...
+
 
 message_261:
-      text: \n<MAID MOLE>Whatever's going on must be quite the event if it's even more important than SWEETHEART's latest showcase!
+      text: \n<KIEŁKUNKA POKOJÓWKA>Cokolwiek się tu dzieje, musi być równie ważne, jeśli nie ważniejsze, od ostatniego pokazu SŁODZIUTKIEJ!
+
 
 message_262:
-      text: \n<MAID MOLE>Welcome to \c[11]THE ROYAL GALLERY\c[0]!\!<br>Please enjoy a complimentary \c[3]TOFU\c[0]!
+      text: \n<KIEŁKUNKA POKOJÓWKA>Witajcie w \c[11]KRÓLEWSKIEJ GALERII\c[0]!\!<br>Proszę, zdegustujcie trochę \c[3]TOFU\c[0]!
+
 
 message_263:
-      text: \n<MAID MOLE>Welcome to \c[11]THE ROYAL GALLERY\c[0]!\!<br>This month's feature is \"OEUVRES OF SWEETHEART\"!
+      text: \n<KIEŁKUNKA POKOJÓWKA>Witajcie w \c[11]KRÓLEWSKIEJ GALERII\c[0]!\!<br>Nowością w tym miesiącu jest \"SŁODZIUTKA - DZIEŁA ZEBRANE\"!
+
 
 message_264:
-      text: You got \c[3]TOFU\c[0]!
+      text: Zdobywasz \c[3]TOFU\c[0]!
+
 
 message_265:
-      text: \n<BUTLER MOLE>Hey, man... You okay?\! You got no color in your face!
+      text: \n<KIEŁKUN KAMERDYNER>Hej, gościu... Wszystko okej?\! Wyglądasz blado!
+
 
 message_266:
-      text: \n<BUTLER MOLE>Me and the boys are thinkin' about going to karaoke this week.\! You guys should come join us!
+      text: \n<KIEŁKUN KAMERDYNER>Myśleliśmy z chłopakami o karaoke w tym tygodniu.\! Musicie pójść z nami!
+
 
 message_267:
-      text: \n<BUTLER MOLE>I'm going to sing my heart out at karaoke this week!\! No one can top my cover of \"DON'T STOP SWEETHEART\"!
+      text: \n<KIEŁKUN KAMERDYNER>W tym tygodniu na karaoke zedrę gardło!\! Nikt nie pobije mnie w śpiewaniu \"ALE SŁODKI JAZZ\"!
+
 
 message_268:
-      text: \n<MAID MOLE>I want to go to karaoke too...
+      text: \n<KIEŁKUNKA POKOJÓWKA>Też chce iść na karaoke...
+
 
 message_269:
-      text: \n<MAID MOLE>SWEETHEART can do everything!\! She can paint, sing, dance, and even make movies!\! ...\! I just wish she would notice me...
+      text: \n<KIEŁKUNKA POKOJÓWKA>SŁODZIUTKA potrafi wszystko!\! Maluje, śpiewa, tańczy, a nawet nagrywa filmy!\! ...\! Gdyby tylko zwróciła na mnie uwagę...
+
 
 #LAST RESORT BREAKROOM
 
+
 message_280:
-      text: \n<GATOR GUY>Take it easy.\! We ain't gonna fight ya...\!<br>At least not while we're off the clock.
+      text: \n<ALI GATOR>Wrzuć na luz.\! Nie będziemy się z tobą bić...\!<br>Przynajmniej nie po godzinach pracy.
+
 
 message_281:
-      text: \n<GATOR GUY>We ain't liable if anything goes missing in these lockers.\!<br>Leave your valuables at home, people!
+      text: \n<ALI GATOR>Nie odpowiadamy za rzeczy pozostawione w szafkach.\!<br>Ludzie, zostawiajcie kosztowności w domu!
+
 
 message_282:
-      text: \n<GATOR GUY>I swear...\! The next guy to leave leftover fish in the microwave is gonna hear it from me...
+      text: \n<ALI GATOR>Przysięgam...\! jeśli jeszcze raz ktoś zostawi rybę w mikrofalówce, znajdę go...
+
 
 #LAST RESORT CONSTRUCTION AFTER GETTING HERO
 
 
+
+
 message_286:
-      text: \n<GATOR GUY>So you're all finally deciding to move on, huh?\!<br>Don't forget about us when you make it big!
+      text: \n<ALI GATOR>Więc wreszcie postanowiliście pójść na przód??\!<br>Nie zapomnijcie o nas, kiedy osiągniecie sukces!
+
 
 message_285:
-      text: \n<GATOR GUY>Have a safe journey, fellas.\!<br>Sniff... You kids are growin' up so fast...
+      text: \n<ALI GATOR>Bezpiecznej drogi, przyjaciele!\!<br>Chlip... Dzieciaki tak szybko dorastają...
+
 
 message_287:
-      text: \n<GATOR GUY>You humans are always striving for bigger and better things.\! Don't you run back cryin' when it gets tough!
+      text: \n<ALI GATOR>Wy, ludzie, wiecznie chcecie mieć wszystko, co największe i najlepsze.\! Nie wracajcie z płaczem, gdy was to przerośnie!
+
 
 message_288:
-      text: \n<GATOR GUY>You sure y'all don't wanna stay a bit longer, HERO?\!<br>...\! Well...\! It was worth a shot.
+      text: \n<ALI GATOR>Jesteś pewny, że nie chcesz zostać na chwilę dłużej, HERO?\!<br>...\! Cóż...\! Warto było spróbować.
+
 
 #LAST RESORT CONSTRUCTION AFTER HERO IS BOSS
 
+
 message_290:
-      text: \n<GATOR GUY>Hey, you came back!\!<br>I knew you wouldn't forget about us, boss.
+      text: \n<ALI GATOR>Hej, wrócił pan!\!<br>Wiedziałem, że szef o nas nie zapomni.
+
 
 message_289:
-      text: \n<GATOR GUY>Look at you guys all grown up...\!<br>If I was your mother, I would be proud...
+      text: \n<ALI GATOR>Ale wyrośliście...\!<br>Gdybym był waszą matką, byłbym dumny...
+
 
 message_291:
-      text: \n<GATOR GUY>Well, look who's here!\!<br>I heard you're the new owner of this joint.\!<br>You better take good care of us, boss!
+      text: \n<ALI GATOR>Kogo moje oczy widzą?!\!<br>Słyszałem, że teraz to pan jest właścicielem tej meliny.\!<br>Zajmij się nami dobrze, szefie!
+
 
 message_292:
-      text: \n<GATOR GUY>HERO! I knew you'd come back for us!\!<br>Life been treatin' ya well, big guy?
+      text: \n<ALI GATOR>HERO! Wiedziałem, że do nas wrócisz!\!<br>Nie wpakowałeś się w żadne kłopoty, stary?
+
 
 #MINA AND Family
 
+
 message_300:
-      text: \n<MINA>Hello and welcome!\! Please make yourselves at home!
+      text: \n<MINA>Witam serdecznie!!\! Proszę, rozgośćcie się!
+
 
 #Eats cheesecake
 
+
 message_301:
-      text: \n<RELL>There's just never a dull moment in this house...\!<br>Isn't that right, VICTOR?
+      text: \n<RELL>W tym domu nikt się nie nudzi...\!<br>Co nie, WIKTORZE?
+
 
 message_302:
-      text: \n<VICTOR>\sinv[1]Uwwaaa...?
+      text: \n<WIKTOR>\sinv[1]Uaaa...?
+
 
 message_303:
-      text: \n<JOJO>Mom says if we misbehave, we'll be sent to the \c[11]SHADOWY CHASM\c[0]...\! But whatever!\! I ain't scared of no monsters!
+      text: \n<JOJO>Mama powiedziała, że jak będziemy się źle zaMNIAMywać, to wyśle nas do \c[11]CIENISTEJ OTCHŁANI\c[0]...\! Ale wisi mi to!\! Nie boję się potworów!
+
 
 message_304:
-      text: \n<LUKE>\sinv[1]Zzzzzzzzzzzzzzz...\! Just one more pepperoni... please...
+      text: \n<ŁUKASZ>\sinv[1]Zzzzzzzzzzzzzzz...\! Jeszcze jedną peperoni... poproszę...
+
 
 message_305:
-      text: \n<NOVA>\sinv[2]Bounce! Bounce! Bounce!
+      text: \n<NOVA>\sinv[2]Benc! Benc! Benc!
+
 
 message_306:
-      text: \n<ADONUS>My siblings and I dug up a \sinv[1]huuuuuuuge\sinv[0] tunnel, but it has a secret entrance no one knows about!
+      text: \n<ADONUS>Razem z moim rodzeństwem wykopaliśmy \sinv[1]ogroooomny\sinv[0] tunel, ale ma sekretne wejście, o którym tylko my wiemy!
+
 
 message_307:
-      text: \n<NATHAN>I wanna go find treasures at \c[11]DINO'S DIG\c[0] later, but I better make sure it's okay with Mom first...
+      text: \n<NATAN>Chcę pójść szukać skarbów do \c[11]DINOKOPU\c[0], ale najpierw muszę spytać mamy...
+
 
 #CLUB SANDWICH:
 
+
 #LAST RESORT
 
+
 message_310:
-      text: \n<SPROUT MOLE MIKE>\com[2]Hicc...\! ...\! \sinv[1]SPACE BOYFRIEND this...\! SPACE BOYFRIEND that...\! What about SPROUT MOLE MIKE?
+      text: \n<KIEŁKUN MIKOŁAJ>\com[2]Hik...\! ...\! \sinv[1]KOSMOCHŁOPAK to...\! KOSMOCHŁOPAK tamto...\! Co z KIEŁKUNEM MIKOŁAJEM?
+
 
 message_311:
-      text: \n<GATOR GUY>This atmosphere here is top-notch.\! I bet REUBEN makes some \sinv[1]goooooood \c[3]FRUIT JUICE\c[0]...\sinv[0]
+      text: \n<ALI GATOR>Kocham klimat tego miejsca.\! Założe się, że REUBEN robi \sinv[1]pyyyyszny \c[3]SOK OWOCOWY\c[0]...\sinv[0]
+
 
 message_312:
-      text: \n<GATOR GUY>CLUB SANDWICH is a level above the rest.\!<br>REUBEN and HOAGIE are changin' the game!
+      text: \n<ALI GATOR>Żadna inna knajpa nie dorasta KLUBOWI KANAPKOWEMU do pięt.\!<br>REUBEN i WEKA działają na swoich zasadach!
+
+
 
 
 #PYREFLY FOREST
 
+
 #direction fix
 message_314:
-      text: \n<SIR MAXIMUS IV>In a cruel twist of fate, I lost my entire family in a day... \! Curses...\! If only I was stronger!
+      text: \n<RYCERZ MAKSYM IV>Okrutne zrządzenie losu w jeden dzień stracić rodzinę...\! Klątwy...\! Gdybym tylko był silniejszy!
+
 
 message_315:
-      text: \n<SIR MAXIMUS IV>Sigh...\! REUBEN...\! I'll take one more drink for my sorrows.
+      text: \n<RYCERZ MAKSYM IV>Ech...\! REUBEN...\! Zatopię swoje smutki w kolejnym drinku.
+
 
 message_316:
-      text: \n<REUBEN>Comin' right up, MAX!
+      text: \n<REUBEN>Już idę, MAX!
+
 
 message_317:
-      text: \n<ROSA>Bah! It's you four again!\!<br>Haven't you ruined my life enough times!?
+      text: \n<RÓŻA>A! To znowu wy!\!<br>Nie znudziło się wam rujnowanie mi życia?!
+
 
 message_318:
-      text: \n<ROSA>Thanks to you, SWEETHEART is nowhere to be found!\!<br>I hope you're happy with yourselves!
+      text: \n<RÓŻA>Przez was SŁODZIUTKA się zgubiła!\!<br>Mam nadzieję, że jesteście z siebie dumni!
+
 
 message_319:
-      text: \n<RAREST BEAR>\sinv[1]Awroo?
+      text: \n<NIEDŹWIEDŹ KRZYSZTOF>\sinv[1]Auuuu?
+
 
 message_320:
-      text: \n<SPROUT MOLE>\{\sinv[1]HELP! I DON'T KNOW WHAT TO DO!!
+      text: \n<KIEŁKUN>\{\sinv[1]POMOCY! NIE WIEM, CO ROBIĆ!!
+
 
 #OTHERWORLD
 
+
 #ems intro
 message_321:
-      text: \n<EMS>\}Well hello there, HERO!
+      text: \n<EMI>\}Hejka, HERO!
+
 
 message_322:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herHi, EMS! Are you doing well?
+      text: \herHej, EMI! Jak tam?
+
 
 message_323:
-      text: \n<EMS>\}I'm doing okay...\! HOAGIE sent me to the couch for time-out...
+      text: \n<EMI>\}Wszystko w porządku...\! WEKA kazał mi siedzieć na tej kanapie za karę...
+
 
 message_324:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: \herHuh? You're in time-out?\! What did you do?
+      text: \herHmm? Masz karę?\! Za co?
+
 
 message_325:
-      text: \n<EMS>\}Nothin'...\! I just tried eating the tables over there...
+      text: \n<EMI>\}Nic takiego...\! po prostu próbowałam zjeść te stoły...
+
 
 message_326:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herWhat?\! You tried eating the tables?\! You can do that?
+      text: \herCo?\! Próbowałaś zjeść stoły?\! Ty potrafisz takie rzeczy?
+
 
 #HERO looks at TABLEs
+
 
 message_327:
       faceset: MainCharacters_DreamWorld
       faceindex: 42
-      text: \herOh...\! I see...\! The tables are made out of \c[3]BREAD\c[0]...
+      text: \herAha...\! bo...\! te stoły są zrobione z \c[3]CHLEBA\c[0]...
+
 
 #ems afterwards
 
+
 message_328:
-      text: \n<EMS>\}I will not eat the tables...\! I will not eat the tables...
+      text: \n<EMI>\}Nie będę jadła stołów...\! Nie będę jadła stołów...
+
 
 message_329:
-      text: \n<THE EARTH>...
+      text: \n<ZIEMIA>...
+
 
 message_330:
-      text: \n<SPACE PIRATE>Don't tell anyone I said this, but...\!<br>It's tough bein' a SPACE PIRATE...
+      text: \n<KOSMOPIRAT>Nie mów nikomu, że ci powiedziałem ale...\!<br>bycie KOSMOPIRATEM to nie przelewki...
+
 
 message_331:
-      text: \n<SPACE PIRATE>What's with this show today?\! I've heard some pretty unfunny stuff in my lifetime, but this takes the cake!
+      text: \n<KOSMOPIRAT>Co jest nie tak z tym występem?\! W swoim życiu słyszałem kilka nieśmiesznych żartów, ale to przechodzi ludzkie pojęcie!
+
 
 message_332:
-      text: \n<SPACE PIRATE>Stand-up comedy is hard...
+      text: \n<KOSMOPIRAT>Bycie komikiem jest trudne...
+
 
 message_333:
-      text: \n<SPACE PIRATE>\com[2]\sinv[2]\{\{AHAHAHAHAHAHA!!
+      text: \n<KOSMOPIRAT>\com[2]\sinv[2]\{\{AHAHAHAHAHAHA!!
+
 
 message_334:
-      text: \n<SPACE PIRATE>Hey, you guys hearing this!?\! THE EARTH is a riot!
+      text: \n<KOSMOPIRAT>Hej, słyszeliście?!\! ZIEMIA jest przezabawna!
+
 
 message_335:
-      text: \n<SPACE PIRATE>How long have we been here?\!<br>Do you think the CAPTAIN even realizes we're missing?
+      text: \n<KOSMOPIRAT>Jak długo już tu jesteśmy?\!<br>Myślicie, że KAPITAN zorientował się, że nas nie ma?
+
 
 #ORANGE OASIS
 
+
 #Izzy
 
+
 message_41:
-      text: \n<IZZY>\sinv[1]Loosen up a little... Breathe easy.\!<br>It's time to cool those brain muscles with some tunes.
+      text: \n<LUZ>\sinv[1]Wyluzujcie trochę... uspokójcie oddech.\!<br>Rozluźnijcie swoje mózgi przy muzyce.
+
 
 message_39:
-      text: \n<BREEZY>\sinv[1]Take a load off... Unwind.\! Welcome to chillville...
+      text: \n<BLUES>\sinv[1]Musicie się trochę... rozkręcić.\! Witajcie w strefie relaksu...
+
 
 message_340:
-      text: \n<PAPA CHIP>I'm PAPA CHIP!
+      text: \n<PAPA CHRUPCIO>Jestem PAPA CHRUPCIO!
+
 
 message_341:
-      text: \n<BREAD KID>\quake[1]Hiss...
+      text: \n<CHLEBIAK>\quake[1]Ssss...
+
 
 #Extras
 #Location: Slime Girls Lair
 message_500:
-      text: \n<HUMPHREY>Hey, come on.\! You gotta pick someone!\!<br>Help me out, would you?
+      text: \n<GIGANTOS>Ej, no weź.\! Na kogoś musi wypaść!\!<br>Mógłbyś mi pomóc?
+
+
 
 
 #DEEPER Well/BLACK SPACE
 
 
+
+
 message_601:
-      text: \n<BLANK>Your memories are not free.\! To gain a memory, another must be shrouded.\! And yet...\! All memories will eventually fade.
+      text: \n<LUKA>Wspomnienia nie przychodzą bez konsekwencji.\! Zdobywając wspomnienie, inne odchodzi w niepamięć.\! Aż w końcu...\! wszystko, co pamiętałeś, rozpłynie się w nicość.
+
 
 message_615:
-      text: \n<BLANK>Perhaps you've already noticed...\! the curse of \c[11]DEEPER WELL\c[0].
+      text: \n<LUKA>Pewnie dostrzegasz już...\! klątwę \c[11]GŁĘBSZEJ STUDNI\c[0].
 #-
 
+
 message_602:
-      text: \n<EMPTY>With time, what is important will change.\! You must choose what you will keep and what you will cast away.
+      text: \n<NICOŚĆ>Z czasem zmieni się to, co ważne.\! Musisz zdecydować, czego się pozbędziesz, a co zatrzymasz.
+
 
 message_613:
-      text: A creature mumbles gibberish.
+      text: Stwór mamrocze po jakiemuś.
+
 
 #-
 message_603:
-      text: \n<NULL>Humans are bounded creatures.\! Your limits are what define you.\! What makes you human?
+      text: \n<ZERO>Ludzie to ograniczone istoty.\! Definiują was wasze granice.\! Co czyni was ludźmi?
+
 
 #-
+
 
 message_604:
-      text: \n<AUGHT>When trouble shows itself, there is always the choice to run.\! But one day, you may very well find yourself running alone.
+      text: \n<RZECZ>Kiedy masz kłopoty, zawsze możesz wybrać ucieczkę.\! Kiedyś zauważysz jednak, że biegniesz sam.
+
 
 #-
+
 
 message_607:
-      text: \n<PARVENU>What if it's up to you?\! What if it's only up to you?
+      text: \n<PARWENIUSZ>Co, jeśli to zależy od ciebie?\! Co, jeśli tylko ty trzymasz za ster?
+
 
 message_606:
-      text: \n<PARVENU>Carry on, DREAMER.\! You are the only one who can.
-
+      text: \n<PARWENIUSZ>No dalej, MARZYCIELU.\! Kto, jak nie ty?
 #-
+
 
 message_609:
-      text: \n<ABSENT>The universe is full of questions that you will never answer.\! Yet...\! there are also ones that only you can answer.<br>\!When the truth is revealed, what will you do?
+      text: \n<NIEOBECNY>Świat jest pełen pytań, na które nigdy nie poznasz odpowiedzi.\! Ale...\! istnieją również takie, na które tylko ty znasz odpowiedź.<br>\!Co zrobisz, kiedy prawda wyjdzie na jaw?
+
 
 #-
+
 
 message_610:
-      text: \n<MINUS>It is selfish to dream for so long when there are those who are expecting you.
+      text: \n<WADA>Jak wielkim egoistą trzeba być, żeby śnić, kiedy inni na ciebie liczą?
+
 
 #-
+
+
+
 
 
 
 message_608:
-      text: \n<MUTE>An unhallowed burden has been placed upon you.\! You have the power to change the future.\! What will you do, DREAMER?\! What will you do?
+      text: \n<NIEMY>Ciąży na tobie ogromne brzemię.\! Jesteś w stanie zmienić przyszłość.\! Co uczynisz, MARZYCIELU?\! Co uczynisz?
+
 
 #-
+
 
 message_611:
-      text: \n<HOLLOW>The last time you fell into deep water... \!Were you truly saved?\! Or were you cursed?
+      text: \n<PUSTKA>Czy kiedy ostatnim razem wpadłeś w głębokie wody...\! zostałeś uratowany?\! Czy raczej przeklęty?
+
 
 #-
+
 
 message_612:
-      text: \n<VOID>How far will you go to save a friend?
+      text: \n<OTCHŁAŃ>Jak daleko się posuniesz, by uratować przyjaciela?
+
 
 #-
+
 
 message_614:
-      text: \n<EMPTY>Not everyone has that choice.
+      text: \n<NICOŚĆ>Nie wszyscy mają ten wybór.
+
 
 #-
+
+
 
 
 message_148:
-      text: \n<ROAMIN' COW>\sinv[1]Roamin'... roamin'... roamin'...
+      text: \n<KROWA WĘDROWNA>\sinv[1]Wędruję... wędruję... wędruję...
+
 
 #- Burpmo
 
+
 message_151:
-      text: \n<BURPMO>I'm BURPMO, and I wouldn't be anyone but me!
+      text: \n<BEKON>Jestem BEKON i nie wyobrażam sobie być kimś innym niż sobą!
+
 
 message_313:
-      text: \n<BURPMO>I'm BURPMO, and I wouldn't have it any other way!
+      text: \n<BEKON>Jestem BEKON, inaczej być nie może!
+
 
 #-- Abyss Skeletons
 
 
+
+
 message_444:
-      text: \n<AUBREY?>Sniff...\| Sniff...\| OMORI...
+      text: \n<AUBREY?>Chlip...\| chlip...\| OMORI...

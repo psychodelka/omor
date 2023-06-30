@@ -71,7 +71,7 @@ message_20:
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubHmf...\! Chyba to, co się mówi to prawda...
+      text: \aubHmf...\! To jednak prawda...
  
 message_22:
       faceset: MainCharacters_Faraway
@@ -85,7 +85,7 @@ message_30:
       text: \kimChwila, chwila, to ty!\!<br>Kurczaki...\! Ta impreza nie jest już taka fajna...
  
 message_31:
-      text: \kimHeh heh...\! Żartuję tylko...\! kujonie.
+      text: \kimHe he...\! Żartuję tylko...\! kujonie.
  
 message_32:
       text: \kimA tak w ogóle...\! AUBREY powiedziała mi, że się jutro wyprowadzasz.\! Brzmi trochę słabo, ale na pewno wyjdzie to na dobre...
@@ -108,7 +108,7 @@ message_41:
 #Location: Sean and Karens House
  
 message_50:
-      text: \vanMniam...\! mniam...\! mniam...\! mniam...\! mniam...\! Ooo, tak!\! Darmowe żarełko!
+      text: \vanMniam...\! mniam...\! mniam...\! mniam...\! mniam...\! Ooo tak!\! Darmowe żarełko!
  
 #==============SHORT HAIR GIRL===========================================
 #Location: TOWN PLAZA
@@ -150,7 +150,7 @@ message_100:
 #Location: Brent's House
  
 message_110:
-      text: \n<DYREKTOR SZKOŁY>To miłe, kiedy wszyscy są w domu.\!<br>Mój mąż czasami wraca do domu późno w nocy...<br>Jestem pewna, że BRENT bardzo tęskni za ojcem.
+      text: \n<DYREKTORKA>To miłe, kiedy wszyscy są w domu.\!<br>Mój mąż czasami wraca do domu późno w nocy...<br>Jestem pewna, że BRENT bardzo tęskni za ojcem.
  
  
 #==============HECTOR===========================================

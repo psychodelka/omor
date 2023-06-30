@@ -337,11 +337,14 @@ BattleManager.displayDropItems = function() {
 //=============================================================================
 // * Gain Experience
 //=============================================================================
+
 BattleManager.gainExp = function() {
   var exp = this._rewards.exp;
   $gameParty.allMembers().forEach(function(actor) {
       actor.gainExp(exp);
   });
+
+  const MAX_CHAR_IN_LINE = 34;
   // Clear Game Message
   $gameMessage.clear();
 
@@ -357,8 +360,19 @@ BattleManager.gainExp = function() {
       this._logWindow.push('wait');
       this._logWindow.push('waitForInput');
       data.skills.forEach(function(skill) {
-        this._logWindow.push('addText', TextManager.obtainSkill.format(skill.name));
-        this._logWindow.push('wait');
+        let text = TextManager.obtainSkill.format(skill.name);
+
+        if (text.length > MAX_CHAR_IN_LINE) {
+          let textArray = BattleManager.sliceLongString(text);
+      
+          this._logWindow.push('addText', textArray[0]);
+          this._logWindow.push('addText', textArray[1]);
+          this._logWindow.push('wait', 20);
+        }
+        else {
+          this._logWindow.push('addText', text);
+          this._logWindow.push('wait');
+        } 
       }, this);
       if (data.skills.length > 0) {
         this._logWindow.push('waitForInput')
@@ -375,6 +389,20 @@ BattleManager.gainExp = function() {
     this._logWindow.push('waitForInput')
   };
 };
+
+BattleManager.sliceLongString = function(text) {
+  let sliceIndex = 0;
+
+  for(let j = MAX_CHAR_IN_LINE; j >= 0; j--) {
+    if(text[j] === " ") {
+      sliceIndex = j;
+      break;
+    }
+  }
+
+  return [text.slice(0, sliceIndex).trim(), text.slice(sliceIndex).trimLeft()]
+}
+
 //=============================================================================
 // * Display Start Messages
 //=============================================================================

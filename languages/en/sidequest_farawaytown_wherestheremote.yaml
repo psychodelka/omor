@@ -1,103 +1,139 @@
 
+
 # =========================================================================================
 # Sidequest: Where's the Remote?
 # =========================================================================================
 
+
 #Remote 1
 
+
 message_1:
-      text: \n<ALL-AMERICAN GUY>Heya, fellas!\! How's it hanging?\! I gotta say...\! <br>There's nothing like enjoying a long weekend with<br>my favorite couch and my favorite show on TV.
+      text: \n<PRAWDZIWY POLAK>Witam kolegów!\! Co tam u was?\! Muszę przyznać...\! <br>nie ma nic lepszego od cieszenia się długim weekendem z moją ulubioną kanapą i ulubionym programem.
+
 
 message_2:
-      text: \n<ALL-AMERICAN GUY>There's only one thing that's bothering me right now on this otherwise perfect day...
+      text: \n<PRAWDZIWY POLAK>Jest tylko jedna rzecz, która przeszkadza mi w tym idealnym dniu...
+
 
 message_3:
-      text: \n<ALL-AMERICAN GUY>I can't find my \c[4]TV REMOTE\c[0] anywhere and I'm way too comfortable to leave this couch!
+      text: \n<PRAWDZIWY POLAK>Nigdzie nie mogę znaleźć mojego \c[4]PILOTA\c[0] i jest mi zbyt wygodnie, żeby ruszyć się z kanapy!
+
 
 message_4:
-      text: \n<ALL-AMERICAN GUY>If you see it, could you give it to me?\! Thanks, kiddos.
+      text: \n<PRAWDZIWY POLAK>Jak go znajdziecie, moglibyście mi go przynieść?\! Dzięki, dzieciaki.
+
 
 #Examine Couch
 
+
 message_5:
-      text: You see a \c[4]TV REMOTE\c[0] under the couch.\! Pick it up?
+      text: Widzisz \c[4]PILOTA\c[0] leżącego pod kanapą.\! Chcesz go podnieść?
+
 
 #Talk to Cris's Dad after getting Remote
 
+
 message_6:
-      text: \n<ALL-AMERICAN GUY>Hey, there's my \c[4]TV REMOTE\c[0]!
+      text: \n<PRAWDZIWY POLAK>Hej, to mój \c[4]PILOT\c[0]!
+
 
 message_7:
-      text: You gave the \c[4]TV REMOTE\c[0] to ALL-AMERICAN GUY.
+      text: Dałeś \c[4]PILOTA\c[0] PRAWDZIWEMU POLAKOWI.
+
 
 message_8:
-      text: \n<ALL-AMERICAN GUY>Thanks, kiddos!\! Here, take some \c[3]ORANGE JOE\c[0] on me!
+      text: \n<PRAWDZIWY POLAK>Dzięki, dzieciaki!\! Trzymajcie, weźcie sobie trochę \c[3]POMARAŃCZOWEGO JASIA\c[0] na mój koszt!
+
 
 message_9:
-      text: You got \c[3]ORANGE JOE\c[0]!
+      text: Zdobyłeś \c[3]POMARAŃCZOWEGO JASIA\c[0]!
+
 
 #Remote 2
 
+
 message_10:
-      text: \n<ALL-AMERICAN GUY>Heya, fellas!\! How's it hanging?\! <br>It seems that I lost my \c[4]TV REMOTE\c[0] again!
+      text: \n<PRAWDZIWY POLAK>Witam kolegów!\! Co tam u was?\! <br>Wygląda na to, że znowu zgubiłem mojego \c[4]PILOTA\c[0]!
+
 
 message_11:
-      text: \n<ALL-AMERICAN GUY>I remember getting up to go to the bathroom, <br>but when I came back, it was gone...
+      text: \n<PRAWDZIWY POLAK>Pamiętam, jak wstałem, żeby pójść do łazienki, <br>ale gdy wróciłem, to już go tu nie było...
+
 
 message_12:
-      text: \n<ALL-AMERICAN GUY>Could you look around the house for it?\! <br>It's gotta be around here somewhere!
+      text: \n<PRAWDZIWY POLAK>Czy moglibyście rozejrzeć się po domu?\! <br>Musi gdzieś tu być!
+
 
 #Examine Bathroom Cabinet:
 
+
 message_13:
-      text: You see a \c[4]TV REMOTE\c[0] between the towels.\! Pick it up?
+      text: Widzisz \c[4]PILOTA\c[0] pomiędzy ręcznikami.\! Chcesz go podnieść?
+
 
 message_14:
-      text: \n<ALL-AMERICAN GUY>Thanks again, kiddos!\! I was thinking long and hard about<br>it...\! and I think I accidentally brought it up to the bathroom<br>and forgot to bring it back.
+      text: \n<PRAWDZIWY POLAK>Dzięki jeszcze raz, dzieciaki!\! Długo o tym myślałem...\! i wydaję mi się, że niechcący zabrałem go do łazienki, a potem zapomniałem przynieść go z powrotem.
+
 
 message_15:
-      text: \n<ALL-AMERICAN GUY>You've spared me from getting out of this very comfy<br>couch.\! I can't thank you enough.\! Please, take another can of \c[3]ORANGE JOE!\c[0]\! Y'all deserve it!
+      text: \n<PRAWDZIWY POLAK>Darowaliście mi wstawanie z tej wygodnej kanapy.\! Nie wiem, jak wam podziękować.\! Proszę, weźcie kolejną puszkę \c[3]POMARAŃCZOWEGO JASIA!\c[0]\! Zasłużyliście sobie!
+
 
 #Remote 3
 
+
 message_16:
-      text: \n<ALL-AMERICAN GUY>Heya, fellas!\! How's it hanging?\! I don't know how this keeps happening, but I lost my \c[4]TV REMOTE\c[0] yet again!
+      text: \n<PRAWDZIWY POLAK>Witam kolegów!\! Co tam u was?\! Nie wiem, jak to się dzieje, ale znowu straciłem mojego \c[4]PILOTA\c[0]!
+
 
 message_17:
-      text: \n<ALL-AMERICAN GUY>I swear...\! this time, all I did was fall asleep with it in my hand, and when I woke up, it was gone!\! We must have a ghost in this house or something...
+      text: \n<PRAWDZIWY POLAK>Przysięgam...\! tym razem jedyne, co zrobiłem, to zasnąłem z nim w ręku i jak już się obudziłem, znikł!\! Ten dom musi być nawiedzony, czy coś...
+
 
 message_18:
-      text: \n<ALL-AMERICAN GUY>If you happen to find it, could you give it back here?\!<br>Thanks again, kiddos!
+      text: \n<PRAWDZIWY POLAK>Jeśli go znajdziecie, moglibyście mi go przynieść?\!<br>Dzięki jeszcze raz, dzieciaki!
+
 
 message_19:
-      text: You see a \c[4]TV REMOTE\c[0] in the pie.\! Pick it up?
+      text: W cieście znajduję się \c[4]PILOT\c[0].\! Chcesz go podnieść?
+
 
 message_20:
-      text: \n<ALL-AMERICAN GUY>Hey, there it is!
+      text: \n<PRAWDZIWY POLAK>Hej, znaleźliście go!
+
 
 message_21:
-      text: You gave the \c[4]TV REMOTE\c[0] to ALL-AMERICAN GUY.
+      text: Dałeś \c[4]PILOTA\c[0] PRAWDZIWEMU POLAKOWI.
+
 
 message_22:
-      text: \n<ALL-AMERICAN GUY>Well, you've done it again, kiddos!\! You know what that means...\! Here's another sweet can of \c[3]ORANGE JOE!\c[0]
+      text: \n<PRAWDZIWY POLAK>Cóż, znowu wam się udało, dzieci!\! Wiecie, co to oznacza...\! Kolejna słodka puszka \c[3]POMARAŃCZOWEGO JASIA!\c[0]
+
 
 message_23:
-      text: \n<ALL-AMERICAN GUY>You've been real champs these past few days.\! I can't thank y'all enough!\! If I ever lose my \c[4]TV REMOTE\c[0] again, I'll know who to call!
+      text: \n<PRAWDZIWY POLAK>Byliście prawdziwymi mistrzami przez ostatnie kilka dni.\! Nie wiem, jak wam wystarczająco podziękować!\! Jeśli kiedyś znowu zgubię mojego \c[4]PILOTA\c[0], będę wiedział, do kogo się zwrócić o pomoc!
+
 
 message_30:
-      text: You see a \c[4]TV REMOTE\c[0] under the couch.
+      text: Widzisz \c[4]PILOTA\c[0] leżącego pod kanapą.
+
 
 message_31:
-      text: You see a \c[4]TV REMOTE\c[0] between the towels.
+      text: Widzisz \c[4]PILOTA\c[0] pomiędzy ręcznikami.
+
 
 message_32:
-      text: You see a \c[4]TV REMOTE\c[0] in the pie.
+      text: W cieście znajduję się \c[4]PILOT\c[0].
+
 
 message_33:
-      text: You still have the \c[4]TV REMOTE\c[0].\!<br>You shouldn't leave this house with it.
+      text: Nadal masz przy sobie \c[4]PILOTA\c[0].\!<br>Powinieneś iść go oddać.
+
 
 message_50:
-      text: You got a \c[4]TV REMOTE\c[0].
+      text: Zdobyłeś \c[4]PILOTA\c[0].
+
 
 message_51:
-      text: You got a \c[4]TV REMOTE\c[0].\! How did it even get in here?
+      text: Zdobyłeś \c[4]PILOTA\c[0].\! Jak on w ogóle się tam znalazł?
