@@ -51,7 +51,7 @@ message_105:
       text: \n<PANI Z ZAKUPOWA>DOBRE.
 #item buying cancel
 message_106:
-      text: \n<PANI Z ZAKUPOWA>OK.
+      text: \n<PANI Z ZAKUPOWA>OKEJ.
 
 
 
@@ -160,7 +160,7 @@ message_17:
 
 #Default
 message_18:
-      text: \n<APTEKARZ>Ciekawe co mój syn, BRENT, robi teraz w domu...\!<br>Mam nadzieję, że nie czuje się samotny, kiedy mnie nie ma.
+      text: \n<APTEKARZ>Ciekawe, co mój syn, BRENT, robi teraz w domu...\!<br>Mam nadzieję, że nie czuje się samotny, kiedy mnie nie ma.
 
 
 #item buying prompt
@@ -229,7 +229,7 @@ message_42:
       text: \n<KASJER>Pewnie, ziomek. Ile byś chciał?\.\^
 #item selling ok
 message_43:
-      text: \n<KASJER>BZZAJAWKA to nie tylko sklep dla hobbystów... i lombard też!\!<br>Kupię wszystko, co macie!\! Co chcecie sprzedać?
+      text: \n<KASJER>BZZAJAWKA to nie tylko sklep dla hobbystów... a także lombard!\!<br>Kupię wszystko, co macie!\! Co chcecie sprzedać?
 #item selling prompt
 message_44:
       text: \n<KASJER>Czy może być <SHOPTOTAL> $?\.\^
@@ -253,37 +253,37 @@ message_700:
 #note: [Purchase Item] will be replaced with the item that the player bought, or make the statement more general
 #Intro
 message_22:
-      text: \n<PIZZERMAN>Cześć i czołem, witam w \c[11]PIZZERII U GINA\c[0]!\!<br>Co dla was?
+      text: \n<GOŚĆ OD PIZZY>Cześć i czołem, witam w \c[11]PIZZERII U GINA\c[0]!\!<br>Co dla was?
 #Purchase
 message_23:
-      text: \n<PIZZERMAN>Świetny wybór! Już się robi!
-#Exclamation mark on PIZZERMAN
+      text: \n<GOŚĆ OD PIZZY>Świetny wybór! Już się robi!
+#Exclamation mark on GOŚĆ OD PIZZY
 message_24:
-      text: \n<PIZZERMAN>Mmm... ?Purchase Item?...<br>\! W sensie, ?Purchase Item? raz!
+      text: \n<GOŚĆ OD PIZZY>Mmm... ?Purchase Item?...<br>\! W sensie, ?Purchase Item? raz!
 #Insufficient Funds
 message_25:
-      text: \n<PIZZERMAN>Przepraszam... Gdybym mógł, dałbym to wam!<br>Wróćcie, jak będziecie mieli pieniądze!
+      text: \n<GOŚĆ OD PIZZY>Przepraszam... Gdybym mógł, dałbym to wam!<br>Wróćcie, jak będziecie mieli pieniądze!
 #item buying prompt
 message_50:
-      text: \n<PIZZERMAN>Spoko loko! Wychodzi... <SHOPTOTAL> $.\.\^
+      text: \n<GOŚĆ OD PIZZY>Spoko loko! Wychodzi... <SHOPTOTAL> $.\.\^
 #max item message
 message_51:
-      text: \n<PIZZERMAN>Na pewno udźwignięcie to wszystko?\!<br>Nie wydaje mi się...\.\^
+      text: \n<GOŚĆ OD PIZZY>Na pewno udźwignięcie to wszystko?\!<br>Nie wydaje mi się...\.\^
 #on item list buy ok
 message_52:
-      text: \n<PIZZERMAN>Spoko loko! Ile byście chcieli?\.\^
+      text: \n<GOŚĆ OD PIZZY>Spoko loko! Ile byście chcieli?\.\^
 #item selling ok
 message_53:
-      text: \n<PIZZERMAN>Pewnie... Ile chcecie sprzedać?\.\^
+      text: \n<GOŚĆ OD PIZZY>Pewnie... Ile chcecie sprzedać?\.\^
 #item selling prompt
 message_54:
-      text: \n<PIZZERMAN>Hmm... Myślicie, że tyle się nada?
+      text: \n<GOŚĆ OD PIZZY>Hmm... Myślicie, że tyle się nada?
 #item selling cancel prompt
 message_55:
-      text: \n<PIZZERMAN>Wielkie dzięki!
+      text: \n<GOŚĆ OD PIZZY>Wielkie dzięki!
 #item buying cancel
 message_56:
-      text: \n<PIZZERMAN>Ach... Zmieniliście zdanie?
+      text: \n<GOŚĆ OD PIZZY>Ach... Zmieniliście zdanie?
 
 
             #Hardware Store

@@ -75,7 +75,7 @@ message_33:
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 49
-      text: Ekhem...\! Witam, mości PANIE TAŚMOBOCIE.\! Moi kompani oraz ja żądamy pańskiej pomocy ze zmianą kursu ruchu taśmociągów.\! Czy wraz z waćpana współpracownikami bylibyście w mocy nam pomóc?\her
+      text: Ekhem...\! Witam, mości PANIE TAŚMOBOCIE.\! Moi kompani oraz ja żądamy pańskiej pomocy przy zmianie kursu ruchu taśmociągów.<br>Czy wraz z waćpana współpracownikami bylibyście w mocy nam pomóc?\her
  
 #HERO CHARM ANIMATION
  
@@ -120,7 +120,7 @@ message_52:
 message_53:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Wszyscy, oto chomik EMILKA, ale możecie nazywać ją EMI!\!<br>Jest moją wierną przyjaciółką.\her
+      text: Oto chomik EMILKA, ale możecie nazywać ją EMI!\!<br>Jest moją wierną przyjaciółką.\her
  
 message_54:
       faceset: MainCharacters_DreamWorld

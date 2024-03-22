@@ -656,7 +656,7 @@ Window_OmoriShopTotal.prototype.drawShoppingValues = function() {
   // this.drawCurrencyValue(this.totalPrice(), 'C', 0, 12, this.contents.width - 10)
 
 
-  this.contents.drawText('%1 %2'.format(Yanfly.Util.toGroup(this.totalPrice()), this.worldCurrencyUnit()), 0, 20, this.contents.width - 5, 20, 'right');
+  this.contents.drawText('%1 %2'.format(this.totalPrice(), this.worldCurrencyUnit()), 0, 20, this.contents.width - 5, 20, 'right');
   // Draw Amount
   this.contents.drawText(this._amount, this.contents.width - 55, 0, 50, 20, 'center');
 };

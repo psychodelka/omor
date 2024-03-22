@@ -77,7 +77,7 @@ message_11:
 message_12:
       faceset: MainCharacter_Basil
       faceindex: 34
-      text: Ona...\! Nie chce mi go oddać...\bas
+      text: Ona...\! nie chce mi go oddać...\bas
  
 #KEL turns around.
  
@@ -150,7 +150,7 @@ message_41:
 message_42:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Wiesz może gdzie ona jest?\kel
+      text: Wiesz może, gdzie ona jest?\kel
  
 #CHARLIE turns to face KEL.
  
@@ -176,7 +176,7 @@ message_46:
 #ANGEL comes out of the tree and poses.
  
 message_47:
-      text: \{\Com[2]KTO, CO, GDZIE I JAK?!\}<br>Po co to zrobiłaś!?!?\who
+      text: \{\Com[2]KTO, CO, GDZIE I JAK?!\}<br>Po co to zrobiłaś?!?!\who
  
 #ANGEL turns to KEL.
  
@@ -186,7 +186,7 @@ message_48:
 #ADD FWEFWEFWEFWE
  
 message_49:
-      text: To dla was koniec!\ang
+      text: To wasz koniec!\ang
  
 message_50:
       faceset: MainCharacters_Faraway
@@ -245,7 +245,7 @@ message_75:
       text: Ech...\! Dobra ANGEL, nie rób se jaj.\! <br>Pokonaliśmy was, więc gadaj teraz, gdzie jest AUBREY.\kel
  
 message_76:
-      text: Hmf!\! Obietnica obietnicą.\! Dotrzymam słowa i powiem, ci co wiem.\ang
+      text: Hmf!\! Obietnica obietnicą.\! Dotrzymam słowa i powiem ci, co wiem.\ang
  
 #LOSE CONDITION
  
@@ -281,7 +281,7 @@ message_103:
       text: \kelTo poważna sprawa, ANGEL!\! Taka dla dorosłych!\! A chyba nie chcesz, żeby dorośli się wmieszali w to?
  
 message_104:
-      text: \angEch...\! No weź...\! Dobra, powiem, ci co wiem, ale nie spodoba ci się to. 
+      text: \angEch...\! No weź...\! Dobra, powiem ci, co wiem, ale nie spodoba ci się to. 
  
 #BOTH
  
@@ -296,10 +296,10 @@ message_78:
 message_79:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Jezu, ANGEL!\! Lepiej, żebyś nie gadał głupot albo-\kel
+      text: Jezu, ANGEL!\! Lepiej, żebyś nie gadał głupot albo...\kel
  
 message_80:
-      text: Przecież mówiłem, że powiem, ci to co wiem!\! <br>I prawda jest taka, że... Nic nie wiem!\ang
+      text: Przecież mówiłem, że powiem ci to, co wiem!\! <br>A prawda jest taka, że... Nic nie wiem!\ang
  
 message_81:
       faceset: MainCharacters_Faraway
@@ -330,15 +330,15 @@ message_86:
 message_87:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: Kumam...\! to ten...\!<br>Gdzie może być MIKHAE-, w sensie, WIELKI MAVERICK?\kel
+      text: Kumam...\! to ten...\!<br>Gdzie może być MIKHAE... w sensie, WIELKI MAVERICK?\kel
  
 message_88:
-      text: Powiem ci, co wiem...\! ale...\! Musisz to sobie wywalczyć!\ang
+      text: Powiem ci, co wiem...\! ale...\! musisz to sobie wywalczyć!\ang
  
 message_89:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: Albo... Powiem wszystkim o tym, że-\kel
+      text: Albo... powiem wszystkim o tym, że...\kel
  
 message_90:
       text: \{\{\quake[1]GAH!! \ang
@@ -426,7 +426,7 @@ message_123:
 message_124:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Weź, MIKHAEL...\! Nie rób tego.\! <br>Pytam jeszcze raz-\kel
+      text: Weź, MIKHAEL...\! Nie rób tego.\! <br>Pytam jeszcze raz...\kel
  
 message_125:
       text: \{\Com[2]WALCZ ZE MNĄ, GŁUPCZE!!<br>NIE BĄDŹ TCHÓRZEM!!!\n<WIELKI MAVERICK>
@@ -512,7 +512,7 @@ message_163:
       text: Dobra.\!<br>Tak się składa, że wiem gdzie ona jest i ci powiem...\! <br>pod jednym warunkiem...\n<WIELKI MAVERICK>
  
 message_164:
-      text: Naucz się mówić do mnie poprawnie, \Com[2]WIELKI MAVERI-\n<WIELKI MAVERICK>
+      text: Naucz się mówić do mnie poprawnie, \Com[2]WIELKI MAVERI...\n<WIELKI MAVERICK>
  
 #KEL turns to PLAYER.
  
@@ -529,6 +529,6 @@ message_166:
 message_167:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: Razem z VANCEM uwielbiają słodycze, więc...\! Myślę, że poszli gdzieś po \c[3]CUKSY\c[0].\kel
+      text: Razem z VANCEM uwielbiają słodycze, więc...\! myślę, że poszli gdzieś po \c[3]CUKSY\c[0].\kel
  
 

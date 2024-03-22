@@ -40,7 +40,7 @@ message_10:
 message_11:
       faceset: MainCharacter_Basil_dark
       faceindex: 28
-      text: Tutaj kiedyś stała ta duża kanapa, na której oglądaliśmy telewizję.\! <br>W każdy sobotni poranek przychodziliśmy tutaj oglądać kreskówki.\her
+      text: Tutaj kiedyś stała ta duża kanapa, na której oglądaliśmy telewizję.<br><br>W każdy sobotni poranek przychodziliśmy tutaj oglądać kreskówki.\her
  
 message_12:
       faceset: MainCharacter_Basil_dark
@@ -50,7 +50,7 @@ message_12:
 message_13:
       faceset: MainCharacter_Basil_dark
       faceindex: 31
-      text: Przez to, że gdy jej kot w niego wszedł, rozniósł go po całym domu!\her
+      text: Przez to, że gdy jej kot w nią wszedł, rozniósł go po całym domu!\her
  
 message_14:
       faceset: MainCharacter_Basil_dark
@@ -89,12 +89,12 @@ message_19:
 message_20:
       faceset: MainCharacter_Basil_dark
       faceindex: 29
-      text: Byłoby świetnie, ale...\! Mamie się to nie spodoba. \her
+      text: Byłoby świetnie, ale...\! mamie się to nie spodoba. \her
  
 message_21:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: Da sobie radę!\! I tak jestem już zmęczony wstawaniem w nocy przez to, że SALLY ciągle płacze.\! Będziesz zmywał naczynia z mamą<br>przez tydzień, co nie? Należy ci się! \kel
+      text: Da sobie radę!\! I tak jestem już zmęczony wstawaniem w nocy przez to, że SALLY ciągle płacze.\! Będziesz zmywał naczynia z mamą przez tydzień, co nie? Należy ci się! \kel
  
 message_22:
       faceset: MainCharacter_Basil_dark
@@ -104,7 +104,7 @@ message_22:
 message_23:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: Dokąd idziesz, \n[8]?\!<br>Nie wiesz, że to niemiłe zostawiać gości samemu?\kel
+      text: Dokąd idziesz, \n[8]?\!<br>Nie wiesz, że to niemiłe zostawiać gości samych?\kel
  
 message_24:
       faceset: MainCharacter_Basil_dark
@@ -112,7 +112,7 @@ message_24:
       text: Zobaczmy, co HERO robi przy fortepianie!\kel
  
 message_25:
-      text: Nie chcesz samemu wychodzić w nocy.
+      text: Nie chcesz wychodzić samemu w nocy.
  
 # =========================================================================================
 # Cutscene: Hero on the Piano
@@ -175,19 +175,19 @@ message_64:
 message_65:
       faceset: MainCharacter_Basil_dark
       faceindex: 28
-      text: Była taka piosenką, którą kiedyś graliście razem z MARI...\!<br>Czasami ciągle mi chodzi po głowie, ale nie mogę sobie przypomnieć, jak się nazywała.\her
+      text: Był taki utwór, który kiedyś graliście razem z MARI...\!<br>Czasami ciągle mi chodzi po głowie, ale nie mogę sobie przypomnieć, jak się nazywał.\her
  
 message_66:
       faceset: MainCharacter_Basil_dark
       faceindex: 30
-      text: Graliście ją na okrągło.\!<br>Czasami słyszeliśmy ją nawet z naszego domu!\!<br>Tylko jak się nazywała...\her
+      text: Graliście go na okrągło.\!<br>Czasami słyszeliśmy go nawet z naszego domu!\!<br>Tylko jak się nazywał...\her
  
 #[Trigger: PLAYER attempts to leave the room.]
  
 message_67:
       faceset: MainCharacter_Basil_dark
       faceindex: 13
-      text: \sinv[1]Ziew...\! Kurcze, nagle bardzo zachciało mi się spać.\! <br>Może powinniśmy już iść już spać.\kel\sinv[0]
+      text: \sinv[1]Ziew...\! Kurczę, nagle bardzo zachciało mi się spać.\! <br>Może powinniśmy iść już lulu.\kel\sinv[0]
  
 message_68:
       faceset: MainCharacter_Basil_dark
@@ -233,7 +233,7 @@ message_91:
 message_92:
       faceset: MainCharacter_Basil_dark
       faceindex: 11
-      text: Swoją drogą, HERO... \n[8] razem ze mą kupił ci prezent!\kel
+      text: Swoją drogą, HERO... \n[8] i ja wspólnie kupiliśmy ci prezent!\kel
  
 message_110:
       text: KEL dał HERO jego \c[4]PREZENT\c[0]!
@@ -241,12 +241,12 @@ message_110:
 message_93:
       faceset: MainCharacter_Basil_dark
       faceindex: 13
-      text: To KSIĄŻKA KUCHARSKA PAPY CHRUPCIA “GDZIE CHRUPKÓW SZEŚĆ, TAM BĘDZIE CO ZJEŚĆ”!\! <br>Pamiętasz ją?\kel
+      text: To KSIĄŻKA KUCHARSKA PAPY CHRUPCIA “GDZIE CHRUPCIÓW SZEŚĆ, TAM BĘDZIE CO JEŚĆ”!\! <br>Pamiętasz ją?\kel
  
 message_94:
       faceset: MainCharacter_Basil
       faceindex: 13
-      text: Oczywiście, że tak!<br>\!Kurcze, pamiętam, jak chciałem zostać kucharzem...\!<br>Teraz, to brzmi tak głupio.\her
+      text: Oczywiście, że tak!<br>\!Kurczę, pamiętam, jak chciałem zostać kucharzem...\!<br>Teraz, to brzmi tak głupio.\her
  
 message_95:
       faceset: MainCharacter_Basil_dark
@@ -266,7 +266,7 @@ message_97:
 message_98:
       faceset: MainCharacter_Basil_dark
       faceindex: 31
-      text: Haha...\! To chyba tak nie działa, KEL-\her
+      text: Haha...\! To chyba tak nie działa, KEL...\her
  
 message_99:
       text: ...\| ...\| ...\|<br>\SINV[1]Hhhr...\| Ghrh...\| Ghhgh...\kel
@@ -291,7 +291,7 @@ message_102:
 message_103:
       faceset: MainCharacter_Basil_dark
       faceindex: 29
-      text: Jestem pewien, że musi być ci ciężko samemu, w tym pustym domu...<BR>zwłaszcza bez MARI.\her
+      text: Jestem pewien, że musi być ci ciężko samemu, w tym pustym domu... zwłaszcza bez MARI.\her
  
 message_104:
       faceset: MainCharacter_Basil_dark
@@ -320,7 +320,7 @@ message_107:
 message_108:
       faceset: MainCharacter_Basil_dark
       faceindex: 31
-      text: Eee... w każdym razie!\! Przepraszam za to.\! Już późno. <br>Pewnie też już pójdę spać.\her
+      text: Eee... w każdym razie!\! Przepraszam za to.\! Jest późno. <br>Pewnie też już pójdę się położyć.\her
  
 message_109:
       faceset: MainCharacter_Basil

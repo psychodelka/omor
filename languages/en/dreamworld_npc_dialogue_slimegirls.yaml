@@ -38,7 +38,7 @@ message_5:
 #GAMER HUMPHREY
 #Location:Slime Girls Lair / Humphrey
 message_6:
-      text: \n<GIGANTOS>Porozmawiajmy później, jestem w trakcie rozgrywki
+      text: \n<GIGANTOS>Porozmawiajmy później, jestem w trakcie rozgrywki.
  
 #PAINTING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
@@ -122,7 +122,7 @@ message_26:
 message_29:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: \aubGIGANTOSIE! Czy pomógłbyś nam zrobić most? 
+      text: \aubGIGANTOSIE! Czy pomógłbyś nam zrobić most?
  
 message_30:
       text: Naukowa paplanina.
@@ -169,17 +169,17 @@ message_42:
 #Humphrey PUZZLE HINT Guy
  
 message_45:
-      text: \n<MĄDRY GIGANTOS>\sinv[1]Wielo, rybcie!\!\sinv[0]<br>Czy chcielibyście zakupić GIGANTOSOWĄ WSKAZÓWKĘ za 300 MAŁŻY?\$
+      text: \n<MĄDRY GIGANTOS>\sinv[1]Wi-elo, rybcie!\!\sinv[0]<br>Czy chcielibyście zakupić GIGANTOSOWĄ WSKAZÓWKĘ za 300 MAŁŻY?\$
  
 #HARD PUZZLE HINT
 message_46:
-      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\!<br>\"Swych wrogów licz...\! A kolejność do zwycięstwa doprowadzi.\"
+      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\!<br>\"Swych wrogów licz...\! A kolejność do zwycięstwa doprowadzi\".
  
 message_110:
       text: \n<MĄDRY GIGANTOS>\com[2]Co?! Wciąż nie możesz tego rozgryźć?\!<br>Ech... W porządku.\! Może to?
  
 message_111:
-      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\! \"Swych wrogów licz, by drogę poznać...\! Następnie, podczas swej podróży obserwuj wodospady.\"
+      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\! \"Swych wrogów licz, by drogę poznać...\! Następnie, podczas swej podróży obserwuj wodospady\".
  
  
 #EASY PUZZLE HINT
@@ -206,16 +206,16 @@ message_53:
  
 #WITHOUT PUZZLE ACTIVATION
 message_54:
-      text: \n<MĄDRY GIGANTOS>\sinv[1]Wielo, rybcie!\!\sinv[0] Zagadki nie są mocną stroną każdego.\! Jeśli gdzieś utkniecie, mogę wam trochę pomóc...\! albo nawet bardzo!
+      text: \n<MĄDRY GIGANTOS>\sinv[1]Wi-elo, rybcie!\!\sinv[0] Zagadki nie są mocną stroną każdego.\! Jeśli gdzieś utkniecie, mogę wam trochę pomóc...\! albo nawet bardzo!
  
 message_56:
       text: \n<GIGANTOS>Ach... Oczywiście!\! Obliczenia są o wiele prostsze, kiedy ujmuje się je w ten sposób...
  
 message_57:
-      text: \n<GIGANTOS>Więc jeśli przemnożę wynik...\! Odejmę nieskończoność...\! Potem podzielę przez zero...\! I wykonam działanie pisemne...\! To otrzymam...<br>liczbę urojoną!
+      text: \n<GIGANTOS>Więc jeśli przemnożę wynik...\! odejmę nieskończoność...\! potem podzielę przez zero...\! i wykonam działanie pisemne...\! to otrzymam...<br>liczbę urojoną!
  
 message_58:
-      text: \n<MĄDRY GIGANSTOS>\sinv[1]Wielo, rybcie!\!\sinv[0] Zagadki nie są mocną stroną każdego, ale to już nieistotne.
+      text: \n<MĄDRY GIGANSTOS>\sinv[1]Wi-elo, rybcie!\!\sinv[0] Zagadki nie są mocną stroną każdego, ale to już nieistotne.
  
  
 #WATERFALL HUMPHRIES 2
@@ -377,3 +377,6 @@ message_200:
  
 message_201:
       text: \n<GIGANTOS>Aach... nareszcie! Pomieszczenie bez wodospadu...\! To jasne, białe światło jest idealne dla mojej letniej opalenizny!
+
+
+

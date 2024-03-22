@@ -49,7 +49,7 @@ message_7:
       text: \n<CZŁOWIEK W OGNIU>Powiem ci coś, dziecko.\! Kiedy wiesz, że czeka cię męcząca i trudna przyszłość...\! wszystko, czego ci trzeba to nadzieja!
  
 message_8:
-      text: \n<CZŁOWIEK W OGNIU>Miej nadzieję w sobie, miej nadzieję na przyszłość!\!<br>Tak!\! Kiedy uwierzysz w siebie, nic cię nie powstrzyma!\! A...\! jeśli wszystko legnie w gruzach, wiedz,<br>że przynajmniej ja w ciebie wierzę, dobrze?
+      text: \n<CZŁOWIEK W OGNIU>Miej nadzieję w sobie, miej nadzieję na przyszłość!\!<br>Tak!\! Kiedy uwierzysz w siebie, nic cię nie powstrzyma!<br><br>A...\! jeśli wszystko legnie w gruzach, wiedz, że przynajmniej ja w ciebie wierzę, dobrze?
  
 #Yes/No
 #Yes
@@ -89,7 +89,7 @@ message_22:
       text: \n<USZKA>Ostatnio jest tu dość pusto. Martwię się, że dzieci, które pozostały, zaczną się czuć samotnie...
  
 message_23:
-      text: \n<USZKA>Prezenty DŻEMKI i ORZESZKI są zawsze najdziwniejsze...\! Ciekawe co przygotowały tym razem?
+      text: \n<USZKA>Prezenty DŻEMKI i ORZESZKI są zawsze najdziwniejsze...\! Ciekawe, co przygotowały tym razem?
  
  
                         #====NIGHT 3====

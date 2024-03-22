@@ -101,7 +101,7 @@ message_14:
 message_18:
       faceset: MainCharacters_DreamWorld
       faceindex: 27
-      text: Ach, jeszcze jedno...\! staraj się unikać ALI GATORÓW, jak możesz.\! Nie za bardzo mnie lubią.\kel
+      text: Ach, jeszcze jedno...\! staraj się unikać ALICH GATORÓW, jak możesz.\! Nie za bardzo mnie lubią.\kel
  
  
 message_15:
@@ -150,7 +150,7 @@ message_8:
 message_9:
       faceset: MainCharacters_DreamWorld
       faceindex: 23
-      text: OMORI...\! Zostawiane AUBREY za plecami zrozumiem...\! ale HERO?\! Jak możesz?\kel
+      text: OMORI...\! Zostawienie AUBREY za plecami zrozumiem...\! ale HERO?\! Jak możesz?\kel
  
 message_10:
       faceset: MainCharacters_DreamWorld
@@ -288,7 +288,7 @@ message_52:
 message_53:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: C-czekajcie, a co ze mną!?\kel
+      text: Cz-czekajcie, a co ze mną!?\kel
  
 message_54:
       faceset: MainCharacters_DreamWorld
@@ -350,7 +350,7 @@ message_64:
       text: \com[540]Już go wysyłam.\aub
  
 message_65:
-      text: \}Ty też, AUBREY.\!<br><br>...\! \quake[1]Bzzt.\n<PAN SZCZĘKOPAD>
+      text: \}Ty też, AUBREY.\!<br><br><br>...\! \quake[1]Bzzt.\n<PAN SZCZĘKOPAD>
  
 message_66:
       faceset: MainCharacters_DreamWorld
@@ -597,7 +597,7 @@ message_119:
       text: \quake[1]Jakiś...\! nędzny...\! świstek?\quake[0]\n<PAN SZCZĘKOPAD>
  
 message_120:
-      text: Trochę szacunku do starszych.\! Przygarnąłem pod swoje płetwy bezradnego dziaciaka... którego wyszkoliłem na mistrza!\n<PAN SZCZĘKOPAD>
+      text: Trochę szacunku do starszych.\! Przygarnąłem pod swoje płetwy bezradnego dzieciaka... którego wyszkoliłem na mistrza!\n<PAN SZCZĘKOPAD>
  
 message_121:
       text: Beze mnie byłbyś nikim!\n<PAN SZCZĘKOPAD>
@@ -708,7 +708,7 @@ message_158:
 message_159:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: D-dziękujemy, proszę pana.\! Nie pożałuje pan tej decyzji...\her
+      text: Dź-dziękujemy, proszę pana.\! Nie pożałuje pan tej decyzji...\her
  
 message_160:
       text: Hmf...\! Ta, ta.\n<PAN SZCZĘKOPAD>

@@ -140,7 +140,7 @@ message_35:
 message_36:
       faceset: MainCharacters_Faraway
       faceindex: 31
-      text: \herMinęło tyle czasu, a ja tęsknię bardziej niż kiedykolwiek.\!<br>I...\! Przepraszam, że nie byłem przy tobie.
+      text: \herMinęło tyle czasu, a ja tęsknię bardziej niż kiedykolwiek.\!<br>I...\! przepraszam, że nie byłem przy tobie.
  
 message_42:
       faceset: MainCharacters_Faraway
@@ -270,7 +270,7 @@ message_85:
 message_86:
       faceset: MainCharacters_Faraway
       faceindex: 30
-      text: \herChyba rzeczywiście dorosłeś pod moją nieobecność..\!<br>Szkoda, że twoje oceny dalej nie dorastają do pięt moim...
+      text: \herChyba rzeczywiście dojrzałeś pod moją nieobecność.\!<br>Szkoda, że twoje oceny dalej nie dorastają do pięt moim...
  
 message_87:
       faceset: MainCharacters_Faraway

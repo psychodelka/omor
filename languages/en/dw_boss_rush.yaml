@@ -132,12 +132,12 @@ message_201:
       text: \n<PLUTON>Dzięki mojej wymarzonej stacji transportowej zwiedziłem cały wszechświat...\! Lecz mimo wszystko wszędzie dobrze, ale w domu najlepiej.
  
 message_202:
-      text: \n<PLUTON>Zdarzy mi się zatęsknić do przyjaciół...\! między innymi do ZIEMII.
+      text: \n<PLUTON>Zdarzy mi się zatęsknić do przyjaciół...\! między innymi do ZIEMI.
  
 #earth floats DOWN
  
 message_203:
-      text: \n<PLUTON>Znam się z ZIEMIĄ, odkąd pamiętam.\! Zanim jeszcze wciśnięto nas do Układu Słonecznego...\! przemierzaliśmy galaktykę po galaktyce, rozkładając na części pierwsze wszystko, co stanęło nam na drodze.
+      text: \n<PLUTON>Znam się z ZIEMIĄ, odkąd pamiętam.<br><br><br>Zanim jeszcze wciśnięto nas do Układu Słonecznego...\! przemierzaliśmy galaktykę po galaktyce, rozkładając na części pierwsze wszystko, co stanęło nam na drodze.
  
 message_204:
       text: \n<PLUTON>Ach, kiedyś to było...

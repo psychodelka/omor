@@ -73,10 +73,10 @@ message_613:
     text: \itemget zdobyta.
 
 message_610:
-    text: Zdobycz z RECYKLARKI:\ \c[13]\itemget\c[0].
+    text: RECYKLARKA wypluła z siebie \c[13]\itemget\c[0].
 
 message_611:
-    text: Zdobycz z RECYKLARKI:\ \c[13]\itemget\c[0].
+    text: RECYKLARKA wypluła z siebie \c[13]\itemget\c[0].
 
 # -----------------------------------------------
 # - AUBREY GOLD

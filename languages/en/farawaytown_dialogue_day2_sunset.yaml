@@ -129,7 +129,7 @@ message_55:
 #Location: Artist's house
  
 message_60:
-      text: \n<ARTYSTKA>Mam wenę na malowanie, ale nie mam pojęcia od czego zacząć...\! Coraz ciężej mi o dobre pomysły! A mogłem zostać, nie wiem, pracownikiem zoo czy coś...
+      text: \n<ARTYSTKA>Mam wenę na malowanie, ale nie mam pojęcia, od czego zacząć...\! Coraz ciężej mi o dobre pomysły! A mogłam zostać, nie wiem, pracownikiem zoo, czy coś...
  
 #====================SHORT HAIR GIRL==============================
  
@@ -157,10 +157,10 @@ message_90:
 #Location: Hardware Store looking at flowers
  
 message_100:
-      text: \n<DYREKTORKA>Zdarza mi się tu przyjść, by pooglądać kwiaty.\!<br>Chciałem załatwić kilka do swojego domu, ale słyszałem, że niektóre przyciągają mrówki...
+      text: \n<DYREKTORKA>Zdarza mi się tu przyjść, by pooglądać kwiaty.\!<br>Chciałam załatwić kilka do swojego domu, ale słyszałam, że niektóre przyciągają mrówki...
  
 message_101:
-      text: \n<DYREKTORKA>Te szkodniki to moi odwieczni wrogowie...\!<br>Ostatnia rzecz, którą chciałbym ujrzeć, to mrówki bezczelnie pałętające się po moim domu!
+      text: \n<DYREKTORKA>Te szkodniki to moi odwieczni wrogowie...\!<br>Ostatnia rzecz, którą chciałabym ujrzeć, to mrówki bezczelnie pałętające się po moim domu!
  
 #====================STARY BRODACZ==============================
  

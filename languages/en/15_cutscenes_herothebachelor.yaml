@@ -22,7 +22,7 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: H-ha?\! Kurcze... Ech...\! C-cóż, dziękuję bardzo! <br>N-nie wiem co powiedzieć...\her
+      text: H-ha?\! Kurczę... Ech...\! C-cóż, dziękuję bardzo! <br>N-nie wiem, co powiedzieć...\her
  
 #MUSTACHE MOLE walks up to HERO.
  
@@ -150,7 +150,7 @@ message_47:
       text: \sinv[2]\{\{AAAAAAAACH TAK!!!!\! TO JA!!\n<SŁODZIUTKA>
  
 message_48:
-      text: Witajcie moi głupi wielbiciele!\n<SŁODZIUTKA>
+      text: Witajcie, moi głupi wielbiciele!\n<SŁODZIUTKA>
  
 message_49:
       text: \sinv[1]Kochamy cię, SŁODZIUTKA!<br>Tak, jesteś najlepsza!\n<GŁUPI WIELBICIELE>
@@ -244,7 +244,7 @@ message_67:
 message_68:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: Czekaj, ale przed chwilą powiedzia-\her
+      text: Czekaj, ale przed chwilą powiedzia...\her
  
 message_69:
       text: \sinv[1]\{A, TAK, TAK! NIE PRZESZKADZA MI TO.\!\}<br>Proszę, powtórz swoje imię.\n<SŁODZIUTKA>
@@ -343,7 +343,7 @@ message_85:
 message_86:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: Wow, haha... To takie miłe z twojej strony...\! To znaczy-\her
+      text: Wow, haha... To takie miłe z twojej strony...\! To znaczy...\her
  
 message_87:
       faceset: MainCharacters_DreamWorld
@@ -510,7 +510,7 @@ message_145:
 message_146:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Kurcze... Jak my się stąd wydostaniemy?\her
+      text: Kurczę... Jak my się stąd wydostaniemy?\her
  
 message_147:
       faceset: MainCharacters_DreamWorld

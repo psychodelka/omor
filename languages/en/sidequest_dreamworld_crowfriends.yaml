@@ -13,7 +13,7 @@ message_2:
     text: \n<PAN STRACHOWRON>Przepraszam, lecz obawiam się, że muszę obarczyć was zadaniem, którego nie jestem w stanie sam wypełnić.
 #original line was about being "in a rut", which means something else entirely
 message_3:
-    text: \n<PAN STRACHOWRON>Niedawno i całkiem nagle pewna planeta... nie, pewien chuligan przeleciał przez niebo z niedorzeczną prędkością.\! Trójka moich ukochanych przyjaciół przeraziła się i odleciała w zupełnie różnych kierunkach...
+    text: \n<PAN STRACHOWRON>Niedawno i całkiem nagle pewna planeta... nie, pewien chuligan przeleciał przez niebo z niedorzeczną prędkością.<br><br>Trójka moich ukochanych przyjaciół przeraziła się i odleciała w zupełnie różnych kierunkach...
 
 
 message_4:
@@ -33,7 +33,7 @@ message_7:
 
 
 message_8:
-    text: \n<PAN STRACHOWRON>Teraz pozostaje cierpliwie czekać na ich powrót.\! Ponieważ jak widać... \! ruszają się\! jak wrony w smole.
+    text: \n<PAN STRACHOWRON>Teraz pozostaje cierpliwie czekać na ich powrót.\! Ponieważ jak widać...\! ruszają się...\! jak wrony w smole.
 
 
 message_9:
@@ -48,15 +48,15 @@ message_10:
 
 
 message_11:
-    text: WRONA nie chce z tobą rozmawiać.\!<br>Może gdyby był to kto bardziej...\! czarujący?
+    text: WRONA nie chce z tobą rozmawiać.\!<br>Może gdyby był to ktoś bardziej...\! czarujący?
 
 
 message_12:
-    text: WRONA nie chce z tobą rozmawiać.\!<br>Może gdyby był to kto bardziej...\! przystojny?
+    text: WRONA nie chce z tobą rozmawiać.\!<br>Może gdyby był to ktoś bardziej...\! przystojny?
 
 
 message_13:
-    text: WRONA nie chce z tobą rozmawiać.\!<br>Może gdyby był to kto bardziej...\! wygadany?
+    text: WRONA nie chce z tobą rozmawiać.\!<br>Może gdyby był to ktoś bardziej...\! wygadany?
 
 
 
@@ -67,7 +67,7 @@ message_13:
 message_14:
     faceset: MainCharacters_DreamWorld
     faceindex: 36
-    text: \herHej, mała.\!<br>Twój przyjaciel, PAN STRACHOWRON, bardzo za tobą tęskni, wiesz?\!<br>Jeśli chcesz, mogę pomóc ci go znaleźć.
+    text: \herHej, mała.\!<br>Twój przyjaciel, PAN STRACHOWRON, bardzo za tobą tęskni, wiesz?<br>Jeśli chcesz, mogę pomóc ci go znaleźć.
 
 
 message_15:
@@ -116,7 +116,7 @@ message_22:
 
 
 message_23:
-    text: \n<PAN STRACHOWRON>Teraz należy czekać na resztę.\!<br>Ponieważ jak widać...\! ruszają się\! jak wrony w smole.
+    text: \n<PAN STRACHOWRON>Teraz należy czekać na resztę.\!<br>Ponieważ jak widać...\! ruszają się...\! jak wrony w smole.
 
 
 # Talking to MR. SCARECROW after finding his friends
@@ -144,7 +144,7 @@ message_29:
 
 
 message_27:
-    text: Samotna WRONA grzebie w ziemi.<br>\! Najwidoczniej cię nie widzi.
+    text: Samotna WRONA grzebie w ziemi.<br>\!Najwidoczniej cię nie widzi.
 
 
 # Talking to Crows at MR. SCARECROW before Quest is Fully Completed

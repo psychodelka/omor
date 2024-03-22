@@ -35,7 +35,7 @@ message_5:
 #[Nod/Shake]
 #[Nod]
 message_6:
-      text: \n<CYLINDRODUCH>Dziękuję, miły panie!\!<br>Oto kilka map z instrukcjami jak dotrzeć na moje przyjęcie zapieczętowanych moją autorską CYLINDRODUCHOWĄ pieczęcią.
+      text: \n<CYLINDRODUCH>Dziękuję, miły panie!<br><br><br>Oto kilka map z instrukcjami jak dotrzeć na moje przyjęcie zapieczętowanych mą autorską CYLINDRODUCHOWĄ pieczęcią.
 
 
 message_7:
@@ -51,7 +51,7 @@ message_9:
 
 
 message_10:
-      text: \n<BRODODUCH>Hmm...\! Chwilka, gdzie ja właśnie szedłem?\!<br>Kurcze blade, moja pamięć nie jest taka sama jak kiedyś...
+      text: \n<BRODODUCH>Hmm...\! Chwilka, gdzie ja właśnie szedłem?\!<br>Kurczę blade, moja pamięć nie jest taka sama jak kiedyś...
 
 
 message_11:
@@ -78,7 +78,7 @@ message_15:
 
 
 message_16:
-      text: \n<OKULARODUCH>O-och! Nie wierzę własnym oczom! Czyż to mapa do przyjęcia CYLINDRODUCHA?\!<br>Ratujecie mi skórę, wiecie?\!<br>Muszę się spieszyć...\! zapowiada się niezła zabawa!
+      text: \n<OKULARODUCH>O-och! Nie wierzę własnym oczom! Czyż to mapa do przyjęcia CYLINDRODUCHA?\!<br>Ratujecie mi skórę, wiecie?<br>Muszę się spieszyć...\! zapowiada się niezła zabawa!
 
 
 
@@ -192,7 +192,7 @@ message_38:
 
 
 message_39:
-      text: \n<CYLINDRODUCH>6 \c[4]STRASZNYCH MAP\c[0] posiada instrukcje dotarcia na moje przyjęcie.\!<br>Każda z nich jest zapieczętowana moją autorską pieczęcią CYLINDRODUCHA.
+      text: \n<CYLINDRODUCH>6 \c[4]STRASZNYCH MAP\c[0] posiada instrukcje dotarcia na moje przyjęcie.<br><br>Każda z nich jest zapieczętowana mą autorską pieczęcią CYLINDRODUCHA.
 
 
 message_40:
@@ -222,7 +222,7 @@ message_51:
 
 
 message_52:
-      text: \n<WĄSODUCH>Jakie wspaniałe przyjęcie!\! CYLINDRODUCH z każdym razem stawia poprzeczkę coraz wyżej!\! Jestem wam dłużny, przyjaciele. Proszę, to dla was!
+      text: \n<WĄSODUCH>Jakie wspaniałe przyjęcie!\! CYLINDRODUCH za każdym razem stawia poprzeczkę coraz wyżej!\! Jestem wam dłużny, przyjaciele. Proszę, to dla was!
 
 
 message_53:

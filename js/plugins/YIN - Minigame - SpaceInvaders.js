@@ -557,13 +557,13 @@ Scene_SpaceInvader.prototype.updateTitle = function() {
 
             this._logo = new Sprite();
             this._logo.bitmap = ImageManager.loadPicture("INVADER-Title");
-            this._logo.x = 160 + 12;
+            this._logo.x = 150 + 12;
             this._logo.y = 96 + 64;
             this.addChild(this._logo);
 
             this._pressKey = new Sprite();
             this._pressKey.bitmap = ImageManager.loadPicture("INVADER-Prompt");
-            this._pressKey.x = 160 + 12;
+            this._pressKey.x = 180 + 12;
             this._pressKey.y = 96 + 64;
             this.addChild(this._pressKey);
         }

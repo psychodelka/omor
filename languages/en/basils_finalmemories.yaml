@@ -42,7 +42,7 @@ message_10:
       text: \kelHę?\! Znowu?\! I co tak cię śmieszy?
  
 message_11:
-      text: \kelCzy jest coś czego nam nie mówisz, BASIL?
+      text: \kelCzy jest coś, czego nam nie mówisz, BASIL?
  
 message_12:
       text: \basNie przejmuj się tym.\! Zaraz dowiesz się, o co chodzi.
@@ -256,7 +256,7 @@ message_84:
       text: \herO, to nic takiego...\! Chciałem tylko trochę poćwiczyć.\!<br>Cieszę się, że wam smakowało.
  
 message_85:
-      text: \marPewnego dnia będziesz tak sławnym kucharzem, jak Magda Gessler!
+      text: \marPewnego dnia będziesz tak sławnym kucharzem jak Magda Gessler!
  
 message_86:
       text: \herHę?\! Chwila!\! Naprawdę tak myślisz!?
@@ -297,7 +297,7 @@ message_95:
 #----------Talk to HERO-------------
  
 message_96:
-      text: \herHej, \n[8]...\! Mogę ci zająć chwilkę?\!<br>Uwielbiam gotować i w ogóle, a MARI zawsze mówi mi, że jestem w tym dobry, ale moi rodzice chcą, żebym został lekarzem...
+      text: \herHej, \n[8]...\! Mogę ci zająć chwilkę?<br><br><br>Uwielbiam gotować i w ogóle, a MARI zawsze mówi mi, że jestem w tym dobry, ale moi rodzice chcą, żebym został lekarzem...
  
 message_97:
       text: \herMyślisz, że powinienem zostać kucharzem?
@@ -344,7 +344,7 @@ message_106:
       text: \basTo mogło być takie dobre ujęcie...
  
 message_107:
-      text: \basAle HECTOR postanowił załatwić się w kadrze!
+      text: \basAle HEKTOR postanowił załatwić się w kadrze!
  
 message_108:
       text: \basEch...\! Może uda mi się zakleić to taśmą.
@@ -352,7 +352,7 @@ message_108:
 #------Talk to HECTOR------------
  
 message_109:
-      text: \n<HECTOR>\Com[2]Hau, hau!
+      text: \n<HEKTOR>\Com[2]Hau, hau!
  
  
 # =========================================================================================
@@ -367,7 +367,7 @@ message_109:
 #BASIL and PLAYER walk to them from PLAYER's house direction.
  
 message_130:
-      text: \kelSiema, \n[8]! Siema, BASIL! Co wam tak długo zajęło!?
+      text: \kelSiema, \n[8]! Siema, BASIL! Co wam tak długo zajęło?!
  
 message_131:
       text: \basSorki...\! Graliśmy w tę grę, w której walczy się między sobą takimi stworkami, nazywają się \c[13]GŁAZIKI\c[0], za mocno się wciągnęliśmy.
@@ -549,7 +549,7 @@ message_194:
       text: \basTo tajemnica!
  
 message_195:
-      text: \aubAww...\! Ale ja chcę wiedzieć...
+      text: \aubOoo...\! Ale ja chcę wiedzieć...
  
 message_196:
       text: \herJeśli się nie pospieszymy, roztopią nam się świeczki!\!<br>Gotowi do śpiewania?
@@ -597,7 +597,7 @@ message_204:
 #Kel opens up his present.
  
 message_220:
-      text: \kelWow...\! Nowa piłka do kosza!?\! Dzięki bracie!
+      text: \kelWow...\! Nowa piłka do kosza!?\! Dzięki, bracie!
  
 message_221:
       text: \herNie ma sprawy, KEL...\!<br>Podziękujesz mi, poprawiając oceny w szkole.
@@ -730,7 +730,7 @@ message_302:
       text: O tym, że kiedy BASIL wymyślał życzenie, ty wymyśliłeś własne.
  
 message_303:
-      text: Wtedy...\! Życzyłeś sobie, żeby wszyscy byli szczęśliwi.
+      text: Wtedy...\! życzyłeś sobie, żeby wszyscy byli szczęśliwi.
  
 #-----------Christmas----------
  

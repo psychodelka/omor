@@ -175,7 +175,7 @@ message_31:
 message_40:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marO-oł! Ktoś przypadkiem wyrzucił KASETĘ KOSMOCHŁOPAKA.\. Czy może być gdzieś w \c[11]ŚMIECIOGRÓDKU\c[0]?\.\^
+      text: \marO-o! Ktoś przypadkiem wyrzucił KASETĘ KOSMOCHŁOPAKA.\. Czy może być gdzieś w \c[11]ŚMIECIOGRÓDKU\c[0]?\.\^
 
 #After getting SBF'S MIXTAPE:
 
@@ -266,7 +266,7 @@ message_80:
 message_85:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marKurcze... głazik KELA, \c[13]HEKTOR\c[0], wypadł mu z kieszeni.\. Przykro mi, KEL. Nie mam pojęcia, gdzie jest, ale nie poddawaj się!\.\^
+      text: \marKurczę... głazik KELA, \c[13]HEKTOR\c[0], wypadł mu z kieszeni.\. Przykro mi, KEL. Nie mam pojęcia, gdzie jest, ale nie poddawaj się!\.\^
 
 message_86:
       faceset: MainCharacter_Mari
@@ -286,7 +286,7 @@ message_86:
 message_90:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marAwww... MARGARETA stara się o to, by jej obiekt westchnień zauważył jej uczucia dzięki \c[4]PUZZLOM Z KWIATKIEM\c[0].\. Uroczo!\. Myślę, że widziałam, jak MIKAL rozrzucał je chwilę temu.\. Może gdzieś je znajdziecie!\^
+      text: \marOoo... MARGARETA stara się o to, by jej obiekt westchnień zauważył jej uczucia dzięki \c[4]PUZZLOM Z KWIATKIEM\c[0].\. Uroczo!\. Myślę, że widziałam, jak MIKAL rozrzucał je chwilę temu.\. Może gdzieś je znajdziecie!\^
 
 #After getting FLOWER PUZZLE:
 
@@ -488,7 +488,7 @@ message_165:
 message_166:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marDzięki wam wszyscy goście dość nie-niezwłocznie dotarli na STRASZNĄ IMPREZKĘ...\. najważniejsze, że są!\. Dołączycie do ich zabawy?\.\^
+      text: \marDzięki wam wszyscy goście dość nie niezwłocznie dotarli na STRASZNĄ IMPREZKĘ...\. najważniejsze, że są!\. Dołączycie do ich zabawy?\.\^
 
 message_167:
       faceset: MainCharacter_Mari
@@ -550,7 +550,7 @@ message_181:
 message_185:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marPrzez cały ten czas POMARAŃCZOWY JAŚ nie zaprzestał poszukiwań swojego zagubionego brata.\. Jego determinacja tak inspiruje...\. Kto wie?\. Jego brat może być bliżej,<br>niż nam się wydaje...\.\^
+      text: \marPrzez cały ten czas POMARAŃCZOWY JAŚ nie zaprzestał poszukiwań swojego zagubionego brata.\. Jego determinacja jest taka inspirująca...\. Kto wie?<br>Jego brat może być bliżej, niż nam się wydaje...\.\^
 
 message_186:
       faceset: MainCharacter_Mari
@@ -816,7 +816,7 @@ message_271:
 message_272:
         faceset: MainCharacter_Mari
         faceindex: 4
-        text: \marGdzie podział się BASIL?\. Czy jest gdzieś w \c[11]NIEZMIERNYM LESIE\c[0]?\. BASIL nie uciekłby od tak...\. Może coś mu się stało...\.\^
+        text: \marGdzie podział się BASIL?\. Czy jest gdzieś w \c[11]NIEZMIERNYM LESIE\c[0]?\. BASIL nie uciekłby ot tak...\. Może coś mu się stało...\.\^
 
 #Path to Basil (II)
 message_273:
@@ -834,7 +834,7 @@ message_274:
 message_275:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marMyślicie, że BASIL jakimś cudem się tutaj przypałętał?\. Jestem pewna, że przywitałby się, gdyby mnie zauważył.\. Poczęstowałabym go masą JABŁEK W KARMELU,<br>nawet jeśli nie lubi słodyczy!\.\^
+      text: \marMyślicie, że BASIL jakimś cudem się tutaj przypałętał?\. Jestem pewna, że przywitałby się, gdyby mnie zauważył.<br><br>Poczęstowałabym go masą JABŁEK W KARMELU, nawet jeśli nie lubi słodyczy!\.\^
 
 #Rain town
 message_276:
@@ -889,13 +889,13 @@ message_283:
 message_284:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marCo, jeśli BASIL podpadł SŁODZIUTKIEJ, a ona go uwięziła?\. Lochy są ogromne...\. Gdzieś musi kryć się odpowiedź!\.\^
+      text: \marCo jeśli BASIL podpadł SŁODZIUTKIEJ, a ona go uwięziła?\. Lochy są ogromne...\. Gdzieś musi kryć się odpowiedź!\.\^
 
 #Servant's Quarter (Same as Underground Dungeon)
 message_285:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marCo, jeśli BASIL podpadł SŁODZIUTKIEJ, a ona go uwięziła?\. Pałac jest ogromny...\. Gdzieś musi kryć się odpowiedź!\.\^
+      text: \marCo jeśli BASIL podpadł SŁODZIUTKIEJ, a ona go uwięziła?\. Pałac jest ogromny...\. Gdzieś musi kryć się odpowiedź!\.\^
 
 #==========================
 #After the Swim switch, MARI will play the same dialogue across all picnics. This should override any previous unique dialogue.

@@ -346,7 +346,7 @@ message_69:
 
 #Hero's Desk:
 message_70:
-      text: Biurko HERO.\!<br>Bardzo schludne... Żadnych śladów po gumce!
+      text: Biurko HERO.\!<br>Bardzo schludne... żadnych śladów po gumce!
 
 
 #Kel's Desk:
@@ -661,7 +661,7 @@ message_146:
 
 #Mirror:
 message_147:
-      text: Przed lustrem leży grzebień z szerokimi zębami.\!<br>Lustro ma na sobie pełno samoprzylepnych karteczek.<br><br>\"Wyciągnij ramiona do tyłu o piętnaście stopni więcej\"...\!<br>\"Pamiętaj, aby podczas pozowania zgiąć wszystkie palce u rąk\"...\!<br>\"Pokazuj jedno oko tylko wtedy, gdy ktoś cię sprowokuje\"...<br>...\! Ech...
+      text: Przed lustrem leży grzebień z szerokimi zębami.\!<br>Lustro ma na sobie pełno samoprzylepnych karteczek.<br><br>\"Wyciągnij ramiona do tyłu o piętnaście stopni więcej\"...\!<br>\"Pamiętaj, aby podczas pozowania zgiąć wszystkie palce u rąk\"...<br>\"Pokazuj jedno oko tylko wtedy, gdy ktoś cię sprowokuje\"...<br>...\! Ech...
 
 
 #Game Console:
@@ -826,7 +826,7 @@ message_197:
 
 
 message_198:
-      text: Na stole leży otwarta książka.<br><br><br>\"Przycinanie powinno być wykonywane regularnie, aby drzewko bonsai utrzymało swój kształt.\"<br><br>\"Wszystkie drzewka bonsai rosną w różnym tempie, dlatego należy ocenić tempo wzrostu każdego drzewa i dostosować odpowiednio częstotliwość jego przycinania.\"
+      text: Na stole leży otwarta książka.<br><br><br>\"Przycinanie powinno być wykonywane regularnie, aby drzewko bonsai utrzymało swój kształt\".<br><br>\"Wszystkie drzewka bonsai rosną w różnym tempie, dlatego należy ocenić tempo wzrostu każdego drzewa i dostosować odpowiednio częstotliwość jego przycinania\".
 
 
 message_199:
@@ -996,7 +996,7 @@ message_259:
 
 #Bathtub:
 message_260:
-      text: Wanna z jakimś dziwnym przymocowanym do niej.
+      text: Wanna z jakimś dziwnym przymocowanym do niej sprzętem.
 
 
 #Wheelchair:
@@ -1221,7 +1221,7 @@ message_337:
 
 
 message_338:
-      text: Na stole leży otwarta książka.<br><br><br>\"Powoli przesunął w górę rękę i delikatnie pieścił jego twarz...\! Ich oczy spotkały się i w jednej chwili wypełniły się tą samą intensywną, gorącą pasją.\"<br>...\! Emmm.\! Może nie powinieneś tego czytać.
+      text: Na stole leży otwarta książka.<br><br><br>\"Powoli przesunął w górę rękę i delikatnie pieścił jego twarz...\! Ich oczy spotkały się i w jednej chwili wypełniły się tą samą intensywną, gorącą pasją\".<br>...\! Emmm.\! Może nie powinieneś tego czytać.
 
 
 message_339:
@@ -1339,7 +1339,7 @@ message_361:
 
 #headstone:
 message_362:
-      text: Biała czapla.\!<br>W języku kwiatów symbolizuje ona zwrot...<br>\!\"Będziesz przy mnie nawet we śnie.\"
+      text: Biała czapla.\!<br>W języku kwiatów symbolizuje ona zwrot...<br>\!\"Będziesz przy mnie nawet we śnie\".
 
 
 message_363:
@@ -1358,7 +1358,7 @@ message_365:
 
 
 message_366:
-      text: \"NASZA NAJDROŻSZA MARI\"\!<br>\"SŁOŃCE ŚWIECIŁO JAŚNIEJ, GDY BYŁA WŚRÓD NAS.\"
+      text: \"NASZA NAJDROŻSZA MARI\"\!<br>\"SŁOŃCE ŚWIECIŁO JAŚNIEJ, GDY BYŁA WŚRÓD NAS\".
 
 
 message_367:
@@ -1747,7 +1747,7 @@ message_489:
 
 
 message_490:
-      text: Maszyna do pieniędzy.
+      text: Kasa.
 
 
 message_491:
@@ -1978,7 +1978,7 @@ message_562:
 
 
 message_563:
-      text: \"ŁAŁ!! GUMY KULKI!!\"
+      text: \"WOW!! GUMY KULKI!!\"
 
 
 message_564:
@@ -2153,7 +2153,7 @@ message_641:
 
 #Bed:
 message_642:
-      text: To łóżko stanowi idealny balans pomiędzy twardością a miękkością, niestety pościel wydaje się trochę pozbawiona komfortu.\!<br>W skali łóżkowej dałbyś mu 6 na 10.
+      text: To łóżko stanowi idealny balans pomiędzy twardością a miękkością, niestety pościel wydaje się trochę pozbawiona komfortu.<br>W skali łóżkowej dałbyś mu 6 na 10.
 
 
 #Bed:
@@ -2324,11 +2324,11 @@ message_692:
 
 
 message_800:
-      text: \n<JUZEK KONDUKTOR>\"Panie i panowie...\! Dotarliśmy na nasz przystanek.\! Witamy w \c[11]POMARAŃCZOWEJ OAZIE\c[0], gdzie księżyc świeci jaśniej.\"
+      text: \n<JUZEK KONDUKTOR>\"Panie i panowie...\! Dotarliśmy na nasz przystanek.\! Witamy w \c[11]POMARAŃCZOWEJ OAZIE\c[0], gdzie księżyc świeci jaśniej\".
 
 
 message_801:
-      text: \n<JUZEK KONDUKTOR>\"Proszę o opuszczenie pociągu w należyty sposób.\! Dziękujemy za cierpliwość i zapraszamy ponownie.\"\! \}\quake[1]Bzzt...
+      text: \n<JUZEK KONDUKTOR>\"Proszę o opuszczenie pociągu w należyty sposób.\! Dziękujemy za cierpliwość i zapraszamy ponownie\".\! \}\quake[1]Bzzt...
 
 
 #BACKYARD
@@ -2354,7 +2354,7 @@ message_1012:
 
 
 message_1013:
-      text: Dostałeś \c[5]PLASTER\c[0].
+      text: Zdobyłeś \c[5]PLASTER\c[0].
 
 
 message_1014:
@@ -2362,7 +2362,7 @@ message_1014:
 
 
 message_1015:
-      text: Dostałeś \c[5]APTECZKĘ\c[0].
+      text: Zdobyłeś \c[5]APTECZKĘ\c[0].
 
 
 message_1016:

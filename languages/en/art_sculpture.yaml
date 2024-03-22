@@ -30,7 +30,7 @@ message_5:
     text: \n<???>Kim jestem, zapytujecie?
  
 message_6:
-    text: \n<ROKOKO>Przecież...\! jestem ROKOKO, największa wschodząca gwiazdą sztuki! 
+    text: \n<ROKOKO>Przecież...\! jestem ROKOKO, największą wschodzącą gwiazdą sztuki! 
  
  
 message_7:
@@ -62,7 +62,7 @@ message_13:
     text: \n<ROKOKO>Wciąż pamiętam to tak wyraźnie...\!<br>Ogień...\| Ogień...\| wszędzie...\| a potem ciemność.
  
 message_14:
-    text: \n<ROKOKO>Kiedy się obudziłem, okazało się, że jestem na środku pustyni...\! otoczony przez morze cukru brązowego, w dziwnym miejscu zwanym, jak się później dowiedziałem, \c[11]POMARAŃCZOWĄ OAZĄ\c[0].
+    text: \n<ROKOKO>Kiedy się obudziłem, okazało się, że jestem na środku pustyni...<br><br>Byłem otoczony przez morze cukru brązowego, w dziwnym miejscu zwanym, jak się później dowiedziałem, \c[11]POMARAŃCZOWĄ OAZĄ\c[0].
  
 message_15:
     text: \n<ROKOKO>Już jako niemowlę wiedziałem, że jestem ostatnim z mojego gatunku...\! ostatnim elfem w całym wszechświecie.
@@ -73,7 +73,7 @@ message_16:
     text: \n<ROKOKO>A więc tak to się zakończy...\ – pomyślałem.
  
 message_17:
-      text: \n<ROKOKO>Jednakże...\! los się do mnie uśmiechnął i znalazł mnie pewien \c[3]PĄCZEK\c[0] we własnej osobie, a na imię jej było SŁODZIUTKA.\! Zaprowadziła mnie do swojej rodziny,<br>która przyjęła mnie niczym swojego.
+      text: \n<ROKOKO>Jednakże...\! los się do mnie uśmiechnął i znalazł mnie pewien \c[3]PĄCZEK\c[0] we własnej osobie, a na imię jej było SŁODZIUTKA.<br><br>Zaprowadziła mnie do swojej rodziny, która przyjęła mnie niczym swojego.
  
 message_18:
     text: \n<ROKOKO>SŁODZIUTKA i ja...\! dorastaliśmy razem.
@@ -143,7 +143,7 @@ message_38:
 message_39:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \herŁał, proszę pana.\! To bardzo... eee...\| szokująca historia.
+    text: \herWow, proszę pana.\! To bardzo... eee...\| szokująca historia.
  
 #ROCOCO shakes.
  
@@ -273,7 +273,7 @@ message_70:
     text: \"BEZ TYTUŁU\"<br>\!- autorstwa ROKOKO, wielkiego artysty
  
 message_71:
-    text: \n<KOMENTARZ ARTYSTY>\"Hej, dopiero zaczynam, dobra? Odpuśćcie mi.\"
+    text: \n<KOMENTARZ ARTYSTY>\"Hej, dopiero zaczynam, dobra? Odpuśćcie mi\".
  
 #2nd piece: Gesture (WIP)
 #Cost: 5000 CLAMS
@@ -439,7 +439,7 @@ message_1012:
     text: Imponujący posąg przedstawiający KELA.\!<br>Idealnie oddaje jego istotę bycia.
  
 message_1013:
-    text: Imponujący posąg przedstawiający HERO.\! Łał...
+    text: Imponujący posąg przedstawiający HERO.\! Wow...
  
 message_1014:
     text: Imponujący posąg przedstawiający MARI.\!<br>Nigdy nie wiesz, co się kryje za tym psotnym uśmieszkiem.
@@ -448,6 +448,6 @@ message_1015:
     text: Imponujący posąg przedstawiający BASILA.\!<br>Nawet jako posąg wciąż chowa się przed obiektywem.
  
 message_1016:
-    text: Imponujący posąg przedstawiający ALI GATORA.\!<br>Wygląda nieźle...
+    text: Imponujący posąg przedstawiający ALEGO GATORA.\!<br>Wygląda nieźle...
  
 

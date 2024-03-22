@@ -253,7 +253,7 @@ message_77:
 message_78:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Hmmm...\! AUBREY naprawdę się zmieniła odkąd ostatni raz ją widziałeś.\!<br>Ona i jej nowi kumple ciągle się naprzykrzają.\kel
+      text: Hmmm...\! AUBREY naprawdę się zmieniła, odkąd ostatni raz ją widziałeś.\!<br>Ona i jej nowi kumple ciągle się naprzykrzają.\kel
  
 #KEL looks at BASIL.
  
@@ -301,7 +301,7 @@ message_104:
 message_105:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Więc, chcesz porobić coś z nami?\kel
+      text: Więc chcesz porobić coś z nami?\kel
  
 message_106:
       faceset: MainCharacter_Basil

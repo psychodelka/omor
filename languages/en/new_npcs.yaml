@@ -61,13 +61,13 @@ message_10:
 
 
 message_11:
-      text: \n<JEDWABIARZ>Dzień w dzień wszystko jest takie samo.\!<br>Kogo to obchodzi..\! Wydaje mi się, że można nazwać to pracą.\! Przynajmniej... można by, gdybym kiedykolwiek dostał wypłatę.
+      text: \n<JEDWABIARZ>Dzień w dzień wszystko jest takie samo.\!<br>Kogo to obchodzi.\! Wydaje mi się, że można nazwać to pracą.<br><br>Przynajmniej... można by, gdybym kiedykolwiek dostał wypłatę.
 message_12:
       text:
 #Jussie
 #Location: Last Resort Casino
 message_13:
-      text: \n<JULIUSZ>Kumpel powiedział mi, żebym tu czekał, ale nie wiem, czy wróci w najbliższym czasie. Znasz kogoś, kto nazywa się SZCZĘKOPAD?\!<br>Mój ziomek powiedział, że ma z nim coś do załatwienia...
+      text: \n<JULIUSZ>Kumpel powiedział mi, żebym tu czekał, ale nie wiem, czy wróci w najbliższym czasie. Znasz kogoś, kto nazywa się SZCZĘKOPAD?<br>Mój ziomek powiedział, że ma z nim coś do załatwienia...
 message_14:
       text:
 #Hayes
@@ -453,7 +453,7 @@ message_71:
 #PLAM
 #[UNPLACED]
 message_73:
-      text: \n<PLAM>Jestem siódmym eksperymentem MARINY...\! liczenie robi się już trudne.\! Zrobiła mnie z ptaków, jak była jeszcze nastolatką.
+      text: \n<PLAM>Jestem siódmym eksperymentem MARINY...\! zaczynam już tracić rachubę.\! Zrobiła mnie z ptaków, jak była jeszcze nastolatką.
 
 
 message_355:
@@ -536,11 +536,11 @@ message_87:
 #Batzy
 #Location: KIEŁKUN Colony
 message_89:
-      text: \n<NIETOPER>Moi przyjaciele kiedyś mieszkali w tych tunelach, ale wszyscy zniknęli w poszukiwaniu ich zaginionego przywódcy...\! Myślisz, że jeszcze kiedyś tu wrócą?
+      text: \n<NIETOPERA>Moi przyjaciele mieszkali kiedyś w tych tunelach, ale wszyscy zniknęli w poszukiwaniu ich zaginionego przywódcy...\! Myślisz, że jeszcze kiedyś tu wrócą?
 
 
 message_101:
-      text: \n<NIETOPER>Moi przyjaciele powoli wracają!\! Przynajmniej...\! większość z nich.
+      text: \n<NIETOPERA>Moi przyjaciele powoli wracają!\! Przynajmniej...\! większość z nich.
 
 
 #Ricoli Ravioli
@@ -568,7 +568,7 @@ message_95:
 #Fuchsia
 #[UNPLACED]
 message_96:
-      text: \n<FUKSJA>Jestem piątym eksperymentem MARINY.\! Zrobiła mnie z piasku i owoców, jak była mała.
+      text: \n<FUKSJA>Jestem pierwszym eksperymentem MARINY.\! Zrobiła mnie z piasku i owoców, jak była mała.
 
 
 message_97:
@@ -751,14 +751,14 @@ message_128:
 
 
 
-#PANNA TIFFANY
+#TYFANKA
 #Location: Last Resort Casino
 message_130:
-      text: \n<PANNA TIFFANY>\sinv[2]Nio ho ho!\sinv[0]\! Znowu wygrałam!\!<br>Dzisiaj dopisuje mi szczęście! 
+      text: \n<TYFANKA>\sinv[2]Nio ho ho!\sinv[0]\! Znowu wygrałam!\!<br>Dzisiaj dopisuje mi szczęście! 
 
 
 message_134:
-      text: \n<PANNA TIFFANY>\sinv[2]Weźcie sobie te MAŁŻE! Nie potrzebuje ich!\!<br>Jestem bogata! Jestem bogata! Teraz wy też!
+      text: \n<TYFANKA>\sinv[2]Weźcie sobie te MAŁŻE! Nie potrzebuje ich!\!<br>Jestem bogata! Jestem bogata! Teraz wy też!
 
 
 message_127:
@@ -778,7 +778,7 @@ message_141:
 
 
 message_131:
-      text: \n<PANNA TIFFANY>\sinv[2]Nio ho ho!\sinv[0]\! Wprost cudowny pokaz!
+      text: \n<TYFANKA>\sinv[2]Nio ho ho!\sinv[0]\! Wprost cudowny pokaz!
 #Jerko
 #Location: Train Station
 message_132:
@@ -787,7 +787,7 @@ message_132:
 
 #Location 2: Last Resort
 message_133:
-      text: \n<BUC>\com[2]Co jest nie tak z tym szefem szefów, który każe wszystkim czekać?\!<br>Za kogo on się uważa?!\! Niektórzy ludzie mają życie prywatne, wiecie?
+      text: \n<BUC>\com[2]Co jest nie tak z tym szefem szefów, który każe wszystkim czekać?<br><br>Za kogo on się uważa?!\! Niektórzy ludzie mają życie prywatne, wiecie?
 
 
 
@@ -799,7 +799,7 @@ message_133:
 
 #Location: Train Station
 message_137:
-      text: \n<KOMARCEL>Niedawno widziałem tu paru ALI GATORÓW...\!<br>To znaczy, że szef szefów znowu załatwia interesy...<br><br>Co?\! Nie słyszeliście nigdy o szefie szefów?\! To zaraz usłyszycie.
+      text: \n<KOMARCEL>Niedawno widziałem tu paru ALICH GATORÓW...\!<br>To znaczy, że szef szefów znowu załatwia interesy...<br><br>Co?\! Nie słyszeliście nigdy o szefie szefów?\! To zaraz usłyszycie.
 
 
 #Location: Mr. Jawsum's Concierge
@@ -887,7 +887,7 @@ message_152:
 
 
 message_153:
-      text: \n<KROBLIN>Uch...\! Jest tak gorąco...\! ale nie chcę zdejmować kurtki...\! bo będe musiał ją wtedy trzymać.
+      text: \n<KROBLIN>Uch...\! Jest tak gorąco...\! ale nie chcę zdejmować kurtki...\! bo będę musiał ją wtedy trzymać.
 
 
 message_154:
@@ -993,7 +993,7 @@ message_171:
 #Blookie
 #Location: Train Station
 message_172:
-      text: \n<KLOCUCH>Tyle tu różnych i ciekawych ludzi...\! Ciekawe, co sprawia, że to ja jestem godny uwagi......
+      text: \n<KLOCUCH>Tyle tu różnych i ciekawych ludzi...\! Ciekawe, co sprawia, że to ja jestem godny uwagi...
 
 
 message_173:
@@ -1003,12 +1003,12 @@ message_173:
 #Whatever
 #Location: Train Station
 message_174:
-      text: \n<COKOLWIEK>Potrzebuje potężnego zastrzyku gotówki.
+      text: \n<COKOLWIEK>Potrzebuję potężnego zastrzyku gotówki.
 
 
 #Location 2: Mr. Jawsum's Concierge
 message_175:
-      text: \n<COKOLWIEK>Potrzebuje potężnego zastrzyku gotówki.
+      text: \n<COKOLWIEK>Potrzebuję potężnego zastrzyku gotówki.
 
 
 message_176:
@@ -1050,7 +1050,7 @@ message_182:
 #Quaspy
 #Location: Outskirts
 message_183:
-      text: \n<KŁAPSI>Podczas naszej wędrówki zauważyłem twarz zatopioną w skale.\! Ciekawe, o co nią chodzi?
+      text: \n<KŁAPSI>Podczas naszej wędrówki zauważyłem twarz zatopioną w skale.\! Ciekawe, o co z nią chodzi?
 
 
 
@@ -1653,11 +1653,11 @@ message_310:
 
 
 message_311:
-      text: \n<ALI GATOR>Kocham klimat tego miejsca.\! Założe się, że REUBEN robi \sinv[1]pyyyyszny \c[3]SOK OWOCOWY\c[0]...\sinv[0]
+      text: \n<ALI GATOR>Kocham klimat tego miejsca.\! Założe się, że BUŁA robi \sinv[1]pyyyyszny \c[3]SOK OWOCOWY\c[0]...\sinv[0]
 
 
 message_312:
-      text: \n<ALI GATOR>Żadna inna knajpa nie dorasta KLUBOWI KANAPKOWEMU do pięt.\!<br>REUBEN i WEKA działają na swoich zasadach!
+      text: \n<ALI GATOR>Żadna inna knajpa nie dorasta KLUBOWI KANAPKOWEMU do pięt.\!<br>BUŁA i WEKA działają na swoich zasadach!
 
 
 
@@ -1671,11 +1671,11 @@ message_314:
 
 
 message_315:
-      text: \n<RYCERZ MAKSYM IV>Ech...\! REUBEN...\! Zatopię swoje smutki w kolejnym drinku.
+      text: \n<RYCERZ MAKSYM IV>Ech...\! BUŁA...\! Zatopię swoje smutki w kolejnym drinku.
 
 
 message_316:
-      text: \n<REUBEN>Już idę, MAX!
+      text: \n<BUŁA>Już idę, MAKS!
 
 
 message_317:
@@ -1840,7 +1840,7 @@ message_604:
 
 
 message_607:
-      text: \n<PARWENIUSZ>Co, jeśli to zależy od ciebie?\! Co, jeśli tylko ty trzymasz za ster?
+      text: \n<PARWENIUSZ>Co jeśli to zależy od ciebie?\! Co jeśli tylko ty trzymasz za ster?
 
 
 message_606:

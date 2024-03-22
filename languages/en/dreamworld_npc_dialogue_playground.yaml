@@ -17,7 +17,7 @@ message_0:
 #Bun
 #Location: Forest Playground
 message_1:
-      text: \n<KOCZKA>NOSKA jest moją najlepszą przyjaciółką.\!<br>Pomimo, że nie potrafi powiedzieć zbyt wiele, jest naprawdę bystra!
+      text: \n<KOCZKA>NOSKA jest moją najlepszą przyjaciółką.\!<br>Pomimo że nie potrafi powiedzieć zbyt wiele, jest naprawdę bystra!
  
  
 #Daisy
@@ -99,7 +99,7 @@ message_19:
  
 #stargaze
 message_20:
-      text: Gwiazdy błyszczą jasno nad nami...<br>\!W takich chwilach nie dbasz o nic innego.
+      text: Gwiazdy błyszczą jasno nad nami...<br>\!W takich chwilach nie dba się o nic innego.
  
 message_21:
       text: OMORI poznał \c[1]OBSERWACJĘ\c[0]!
@@ -142,12 +142,12 @@ message_62:
       text: \berTak się zastanawiałam...\! Skoro byliście tacy mili, aby mi pomóc...\! To w zamian odwdzięczę się i pokażę wam moją zdumiewającą \c[1]ZDOLNOŚĆ\c[0]!
  
 message_63:
-      text: \berJednak najpierw mam do was jedno pytanie...\!<br>Który z was ma najtwardszy łeb?
+      text: \berJednak najpierw mam do was jedno pytanie...\!<br>Które z was ma najtwardszy łeb?
  
 message_64:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelNo, \Com[2]\{ba!\} To musi być \n[2]!
+      text: \kelNo \Com[2]\{ba!\} Pewnie, że \n[2]!
  
 message_65:
       faceset: MainCharacters_DreamWorld
@@ -377,7 +377,7 @@ message_113:
 message_114:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelAle BERLY... To ja! \!Twój stary kumpel, KEL! \!<br>Ja i ty znamy się od dawna!<br>Pomyśl o wszystkich dobrych chwilach, które razem przeżyliśmy...
+      text: \kelAle BERLY... To ja! \!Twój stary kumpel, KEL! \!<br>Znamy się od dawna! \!Pomyśl o wszystkich dobrych chwilach, które razem przeżyliśmy...
 message_115:
       text: \ber\Com[2]Hej, odpuść sobie! Nie bez powodu zrobili ze mnie szefową ochrony! \!Chcieli kogoś stanowczego... \!Kogoś, kto mógłby podjąć trudne decyzje! \!Osobę z tęgą głową!
 message_116:
@@ -563,7 +563,7 @@ message_149:
       text: \berJak mogłabym o tobie zapomnieć, ty wielkoludzie!
 #BERLY headbutts VAN.
 message_150:
-      text: \n<VAN>Awww, zupełnie jak za starych czasów...
+      text: \n<VAN>Ooo, zupełnie jak za starych czasów...
  
 #SW AT TRAIN STATION BLOCK
  

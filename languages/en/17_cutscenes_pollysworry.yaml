@@ -61,7 +61,7 @@ message_26:
       text: Pływanie...\! Mlask, mlask, mlask...\! Brzmi...\! <br>Mlask, mlask, mlasku, mlasku, mlask, mlask, mlask...\! <br>Fajowo.\van
  
 message_27:
-      text: Hm!\! Mlask...\! Kiedy wy wszyscy będziecie się dziecinnie wygłupiać, <br>ja będę zajęta rzucaniem kaczek!\kim
+      text: Hm!\! Mlask...\! Kiedy wy wszyscy będziecie się dziecinnie wygłupiać, ja będę zajęta rzucaniem kaczek!\kim
  
 message_28:
       text: Szukałam perfekcyjnych...\! Mlask...\! kamieni calutki tydzień!\kim
@@ -168,7 +168,7 @@ message_100:
       text: \{\{\sinv[1]MAMO, \n[8] PRZYSZEDŁ!!\kel
  
 message_101:
-      text: \Com[2]Co ci tyle zajęło, KEL? Puściłam cię parę godzin temu! <br>Ile zajmuje wzięcie kilku kanapek-\n<MAMA KELA>
+      text: \Com[2]Co ci tyle zajęło, KEL? Puściłam cię parę godzin temu! <br>Ile zajmuje wzięcie kilku kanapek...\n<MAMA KELA>
  
 message_102:
       text: Ojej, czy to \n[8]?\! To on!\n<MAMA KELA>
@@ -181,7 +181,7 @@ message_103:
 message_104:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Tutaj są rzeczy o które prosiłaś, Mamo!\kel
+      text: Tutaj są rzeczy o które prosiłaś, mamo!\kel
  
 #KEL turns to PLAYER.
  
@@ -193,7 +193,7 @@ message_105:
 #KEL pushes PLAYER toward the hallway.
  
 message_106:
-      text: \Com[2]Chwileczkę, młodzieńcze-\n<MAMA KELA>
+      text: \Com[2]Chwileczkę, młodzieńcze...\n<MAMA KELA>
  
 message_107:
       faceset: MainCharacters_Faraway

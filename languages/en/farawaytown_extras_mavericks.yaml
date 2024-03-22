@@ -15,7 +15,7 @@ message_1:
 
 
 message_2:
-       text: \"Wygląda na to, że się zgubiliśmy...\!<br>Nie mogło nas wywiać daleko...\!<br>Znajdź nas, drogi braciszku.\"
+       text: \"Wygląda na to, że się zgubiliśmy...\!<br>Nie mogło nas wywiać daleko...\!<br>Znajdź nas, drogi braciszku\".
 
 
 message_3:
@@ -55,7 +55,7 @@ message_7:
 message_8:
        text: Zaglądasz za zasłonę...\! i znajdujesz więcej kartonowych wycinków.
 message_9:
-       text: \"Myślałeś, że kupiliśmy tylko jedną kartonową kopię nas?\! To by się nie opłacało.\"
+       text: \"Myślałeś, że kupiliśmy tylko jedną kartonową kopię nas?\! To by się nie opłacało\".
 
 
 #Examine curtains with silhouettes:
@@ -66,7 +66,7 @@ message_9:
 
 
 message_10:
-       text: Zaglądasz do piekarnika...\!<br>W powietrzu czuć aromat świeżego chleba.
+       text: Zaglądasz do piekarnika...\!<br>W powietrzu unosi się aromat świeżego chleba.
 
 
 #Examine (General)
@@ -77,7 +77,7 @@ message_11:
 
 
 message_12:
-       text: Ale nie znalazłeś nic przydatnego.
+       text: Ale nie znalazłeś tu nikogo.
 
 
 message_13:
@@ -134,7 +134,7 @@ message_24:
 
 
 message_25:
-       text: \n<BLIŹNIACZKA>Haha!\! Nieźle cię wrobiliśmy, co nie?!
+       text: \n<BLIŹNIACZKA>Haha!\! Nieźle cię przestraszyliśmy, co nie?!
 
 
 message_26:
@@ -154,7 +154,7 @@ message_29:
 
 
 message_30:
-       text: \n<BLIŹNIACZKA>Uch...\! Rzadko kiedy mamy wolne od pracy...\! A kiedy już znajdzie się chwila...\! Malutki MIKHAEL nie ma ochoty spędzić z nami ani chwilki czasu!\!<br>To niesprawiedliwe, prawda, BOWEN?
+       text: \n<BLIŹNIACZKA>Uch...\! Rzadko kiedy mamy wolne od pracy...\! A kiedy już znajdzie się chwila...\! Malutki MIKHAEL nie ma ochoty spędzić z nami ani chwilki czasu!<br>To niesprawiedliwe, prawda, BOWEN?
 
 
 message_31:
@@ -162,7 +162,7 @@ message_31:
 
 
 message_32:
-       text: \n<BLIŹNIACZKA>No cóż, nie szkodzi.\! Teraz mamy nowych przyjaciół...\! ale...\!<br>nie jestem pewien, czym się zajmują.\! Rozbawcie nas, przyjaciele!
+       text: \n<BLIŹNIACZKA>No cóż, nie szkodzi.\! Teraz mamy nowych przyjaciół...\! ale...\!<br>nie jestem pewna, czym się zajmują.\! Rozbawcie nas, przyjaciele!
 
 
 message_33:
@@ -203,7 +203,7 @@ message_39:
 
 
 message_40:
-       text: \n<BLIŹNIACZKA>Mimo tego...\! jestem pewna, że prędzej czy później się namyśli.
+       text: \n<BLIŹNIACZKA>Mimo tego...\! jestem pewna, że prędzej czy później się nawróci.
 
 
 message_41:
@@ -214,7 +214,7 @@ message_41:
 
 
 message_42:
-       text: Kartonowa pary bliźniaków.\! Coś przyczepiło się z tyłu.
+       text: Kartonowa kopia pary bliźniaków.\! Coś jest przyczepione z tyłu.
 
 
 #Locked

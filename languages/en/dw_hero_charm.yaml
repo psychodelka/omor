@@ -2,360 +2,493 @@
 # ** TEMPLATE DIALOGUE
 # =========================================================================================
 
+
 #Space Pirate Chief - Otherworld - Inspired me to become a Space Pirate → POPCORN
+
+
 
 
 #Goosey - Train Station - Saved my child from danger → 100 CLAMS
 
+
 message_0:
-    text: \n<GOOSEY>My, you're HERO, aren't you?\! Do you remember me?\! Some time ago, you saved my child from falling into a deep ravine!
+    text: \n<GĄSIA>Ojej, to HERO, czyż nie?\! Pamiętasz mnie?\! Jakiś czas temu uratowałeś moje dziecko przed wpadnięciem do głębokiego wąwozu!
+
 
 message_1:
-    text: \n<GOOSEY>Now I can finally repay you for that.
+    text: \n<GĄSIA>Nareszcie mogę ci się za to odwdzięczyć.
+
 
 message_2:
-    text: GOOSEY reached under her wing and gave you 100 CLAMS.
+    text: GĄSIA sięgnęła pod swoje skrzydło i dała ci 100 MAŁŻY.
+
 
 message_100:
-    text: \n<GOOSEY>Go forth, HERO!\!<br>Be the saint you were always meant to be!
+    text: \n<GĄSIA>Ruszaj naprzód, HEROSIE!\!<br>Stań się świętym, jak jest ci pisane!
+
 
 #Mountain - Train Station - Put out the great wildfire → GRANOLA BAR
 
+
 message_3:
-    text: \n<MOUNTAIN>Ah.\! HERO, it has been too long.\! I have not seen you since you single-handedly put out the great wildfire.
+    text: \n<GÓRA>Ach.\! HERO, szmat czasu.\! Nie widziałam cię, odkąd w pojedynkę ugasiłeś tamten ogromny pożar.
+
 
 message_4:
-    text: \n<MOUNTAIN>I am honored to be in your presence once again.\! Please accept this meager offering.
+    text: \n<GÓRA>Jest to dla mnie zaszczyt, aby znów mieć możliwość obcowania z pańską osobą.\! Proszę, przyjmij ten skromny podarunek.
+
 
 message_5:
-    text: MOUNTAIN opened its mouth and dropped a \c[13]4-LEAF CLOVER\c[0] into your hands.
+    text: GÓRA otworzyła swój otwór gębowy, a \c[13]CZTEROLISTNĄ KONICZYNĘ\c[0] opadła w twoje ręce.
+
 
 message_101:
-    text: \n<MOUNTAIN>Go forth, HERO!\!<br>Be the protector you were always meant to be!
+    text: \n<GÓRA>Ruszaj naprzód, HEROSIE!\!<br>Stań się strażnikiem, jak jest ci pisane!
+
+
+
 
 #Hot Diggity Dog - Train Station - Volunteered at the shelter → HOT DOG
 
+
 message_6:
-    text: \n<HOT DIGGITY DOG>Hot...\! diggity...\! dog!\! I don't believe my eyes!\!<br>It's really you, HERO!
+    text: \n<FRANCUSKI PIESEK>Ja...\! cię...\! kręcę!\! Nie wierzę własnym oczom!\!<br>To naprawdę ty, HERO!
+
 
 message_7:
-    text: \n<HOT DIGGITY DOG>I've been meaning to thank you for all of your volunteer work at the shelter.\! This is for you!
+    text: \n<FRANCUSKI PIESEK>Chcę podziękować ci za twój wolontariat w schronisku.\! To dla ciebie!
+
 
 message_8:
-    text: HOT DIGGITY DOG gave you a \c[3]HOT DOG\c[0] somehow.
+    text: FRANCUSKI PIESEK podarował ci skądś \c[3]HOT DOGA\c[0].
+
 
 message_102:
-    text: \n<HOT DIGGITY DOG>Go forth, HERO!\!<br>Be the caregiver you were always meant to be!
+    text: \n<FRANCUSKI PIESEK>Ruszaj naprzód, HEROSIE!\!<br>Stań się opiekunem, jak jest ci pisane!
+
 
 #Smol - Otherworld - Saved my species from the brink of extinction. → PRESENT
 
+
 message_9:
-    text: \n<SMOL>Oh my goodness, HERO!\! I'm so happy to finally meet you again!
+    text: \n<MIKRUS>O Bożeno, HERO!\! Tak się cieszę, że znowu się spotykamy!
+
 
 message_10:
-    text: \n<SMOL>You have done an immense service for my species by saving it from the brink of extinction!\! Please accept this gift as thanks.
+    text: \n<MIKRUS>Jestem okropnie wdzięczny za ocalenie mojego gatunku przed wyginięciem!\! Przyjmij ten podarunek jako oznakę mojej wdzięczności.
+
 
 message_11:
-    text: SMOL gave you a handmade \c[13]FRIENDSHIP BRACELET\c[0].
+    text: MIKRUS podarował ci ręcznie robioną \c[13]BRANSOLETKĘ PRZYJAŹNI\c[0].
+
 
 message_103:
-    text: \n<SMOL>Go forth, HERO!\!<br>Be the defender you were always meant to be!
+    text: \n<MIKRUS>Ruszaj naprzód, HEROSIE!\!<br>Stań się obrońcą, jak jest ci pisane!
+
 
 #Lone Mole - Otherworld - Carried me to safety after The Great Siege → DONUT
 
+
 message_12:
-    text: \n<LONE MOLE>\Com[2]\{Hey, what's the big id-
+    text: \n<SAMOTNY KIEŁKUN>\Com[2]\{Ej, co to ma zna...
+
 
 message_13:
-    text: \n<LONE MOLE>Wait, HERO!?\! Is that really you!?\! I haven't seen you since you carried me to safety after the great siege!<br><br>It feels like so long ago...\! but seeing how strong you are inspired me to be strong, too!
+    text: \n<SAMOTNY KIEŁKUN>Sekundka, HERO!?\! To naprawdę ty!?\! Nie widziałem cię, odkąd zaniosłeś mnie do bezpiecznego miejsca po wielkim oblężeniu!<br><br>Mam wrażenie, jakby minęły wieki...\! ale widok twojej siły zainspirował mnie, by też być silny jak ty!
+
 
 message_14:
-    text: \n<LONE MOLE>Take this gift.\! You've earned it.
+    text: \n<SAMOTNY KIEŁKUN>Przyjmij ten podarunek.\! Zasłużyłeś na niego.
+
 
 message_75:
-    text: LONE MOLE spit a \c[3]DONUT\c[0] into your hands.
+    text: SAMOTNY KIEŁKUN wypluł ci na ręce \c[3]PĄCZKA\c[0].
+
 
 message_104:
-    text: \n<LONE MOLE>Go forth, HERO!\!<br>Be the liberator you were always meant to be!
+    text: \n<SAMOTNY KIEŁKUN>Ruszaj naprzód, HEROSIE!\!<br>>Stań się wyzwolicielem, jak jest ci pisane!
+
 
 #Batzy - Sprout Mole Colony - Since you escorted me from one dangerous location to another  → BUTT PEACH SODA
 
+
 message_15:
-    text: \n<BATZY>Oh hi, HERO!\! I almost didn't recognize you.<br>It's just so dark in this cave.
+    text: \n<NIETOPERA>O, siemasz, HERO!\! Prawie bym cię nie poznała.<br>W tej jaskini jest strasznie ciemno.
+
 
 message_16:
-    text: \n<BATZY>I've always wanted to thank you for the time that you fulfilled my request of escorting me through dangerous terrain.\! Here! Take this!
+    text: \n<NIETOPERA>Zawsze chciałam podziękować ci za czas, jaki poświęciłeś na przetransportowanie mnie przez niebezpieczny teren.\! Proszę! Weź!
+
 
 message_17:
-    text: BATZY gave you a \c[3]BUTT PEACH SODA\c[0].
+    text: NIETOPERA dała ci \c[3]ORANŻKWINIĘ\c[0].
+
 
 message_105:
-    text: \n<BATZY>Go forth, HERO!\!<br>Be the deliverer you were always meant to be!
+    text: \n<NIETOPERA>Ruszaj naprzód, HEROSIE!\!<br>Stań się zbawcą, jak jest ci pisane!
+
 
 #Box Mole - Sprout Mole Village - Showed me the true meaning of christmas → SNO-CONE
 
+
 message_18:
-    text: \n<BOX MOLE>HERO... You came back!\! I've been a changed MOLE since you've shown me the meaning of Christmas.\!<br>I have you to thank for my new life.
+    text: \n<KWADRAKIEŁKUN>HERO... wróciłeś!\! Od kiedy ukazałeś mi znaczenie świąt, stałem się całkowicie innym KIEŁKUNEM.\!<br>Dziękuję ci za nadanie mi nowego sensu życia.
+
 
 message_19:
-    text: \n<BOX MOLE>This is one of my most valued possessions, but you can have it.
+    text: \n<KWADRAKIEŁKUN>To jedna z moich najcenniejszych własności, ale możesz ją sobie wziąć.
+
 
 message_20:
-    text: BOX MOLE gave you a \c[3]SNO-CONE\c[0].
+    text: KWADRAKIEŁKUN podarował ci \c[3]ZMROŻKA\c[0].
+
 
 message_106:
-    text: \n<BOX MOLE>Go forth, HERO!\!<br>Be the guide you were always meant to be!
+    text: \n<KWADRAKIEŁKUN>Ruszaj naprzód, HEROSIE!\!<br>Stań się przewodnikiem, jak jest ci pisane!
+
 
 #Skeleton - SW Castle - Slayed the demon king → 300 CLAMS
 
+
 message_21:
-    text: \n<BONES>Ah... great HERO.\! You have returned once again.\! I have not seen you since you defeated the demon king all those years ago.
+    text: \n<KOŚCIU>Ach... wspaniały HERO.\! Powróciłeś ponownie.\! Nie widziałem cię od czasu, kiedy wieki temu zgładziłeś demonicznego króla.
+
 
 message_22:
-    text: \n<BONES>I have a reward I was saving for you.\! Reach into my right eye and you shall receive it.
+    text: \n<KOŚCIU>Zatrzymałem dla ciebie nagrodę.\! Sięgnij do mojego prawego oka, a ją wyciągniesz.
+
 
 message_23:
-    text: You reached into BONES's right eye and found 300 CLAMS.
+    text: Sięgnąłeś do prawego oka KOŚCIA i znalazłeś 300 MAŁŻY.
+
 
 message_107:
-    text: \n<BONES>Go forth, HERO.\!<br>Be the hero you were always meant to be.
+    text: \n<KOŚCIU>Ruszaj naprzód, HEROSIE.\!<br>Stań się bohaterem, jak jest ci pisane.
+
+
+
 
 #Skeleton - SW Castle - Slayed the reincarnation of the demon king → 301 CLAMS
 
+
 message_24:
-    text: \n<BONES>Ah... great HERO.\! You have returned once again.\! I have not seen you since you defeated the reincarnation of the demon king not so long ago.
+    text: \n<KOŚCIU>Ach... wspaniały HERO.\! Powróciłeś ponownie.\! Nie widziałem cię od czasu, kiedy niedawno temu zgładziłeś reinkarnację demonicznego króla.
+
 
 message_25:
-    text: \n<BONES>I have a reward I was saving for you.\! Reach into my left eye and you shall receive it.
+    text: \n<KOŚCIU>Zatrzymałem dla ciebie nagrodę.\! Sięgnij do mojego lewego oka, a ją wyciągniesz.
+
 
 message_26:
-    text: You reached into BONES's left eye and found 301 CLAMS.
+    text: Sięgnąłeś do lewego oka KOŚCIA i znalazłeś 301 MAŁŻY.
+
 
 message_108:
-    text: \n<BONES>Go forth, HERO.\!<br>Be the hero you were always meant to be.
+    text: \n<KOŚCIU>Ruszaj naprzód, HEROSIE.\!<br>Stań się bohaterem, jak jest ci pisane.
 
-#Tiffany Darling - SW Gallery - Drove the evil spirit out of my house → MANGO SMOOTHIE
+
+#TYFANKA - SW Gallery - Drove the evil spirit out of my house → MANGO SMOOTHIE
+
 
 message_27:
-    text: \n<TIFFANY DARLING>Oh my! It's you, HERO!\! You've done a great favor for me.\!<br>My life has completely changed since you drove the evil spirit out of my house!
+    text: \n<TYFANKA>Ojeju! To ty, HERO!\! Wyświadczyłeś mi wielką przysługę.\!<br>Moje życie całkowicie się zmieniło, od kiedy wygnałeś złego ducha z mojego domu!
+
 
 message_28:
-    text: \n<TIFFANY DARLING>I am forever in your debt.\! Take this gift.\! It should be enough for now!
+    text: \n<TYFANKA>Już na zawsze będę twoją dłużniczką.\! Przyjmij ten skromny prezent.\! Jak na tą chwilę powinno wystarczyć!
+
 
 message_29:
-    text: TIFFANY DARLING gave you a \c[3]MANGO SMOOTHIE\c[0].
+    text: TYFANKA podarowała ci \c[3]MUS Z MANGO\c[0].
+
 
 message_109:
-    text: \n<TIFFANY DARLING>Go forth, HERO!\!<br>Be the angel you were always meant to be!
+    text: \n<TYFANKA>Ruszaj naprzód, HEROSIE!\!<br>Stań się aniołem, jak jest ci pisane!
+
 
 #Yin - Orange Oasis -  Helped me gather ingredients for my unlimited cheesecake supply. → WAFFLE
 
+
 message_30:
-    text: \n<MINA>Oh hey, HERO!\! It's been a while since you helped me gather ingredients for my unlimited cheesecake supply.
+    text: \n<MINA>O, cześć, HERO!\! Minęło już trochę czasu, od kiedy pomogłeś mi zebrać składniki na mój nieskończony zapas sernika.
+
 
 message_31:
-    text: \n<MINA>The cheesecake is all for me, though.\! But you can have this!
+    text: \n<MINA>Ten sernik jest cały dla mnie.\! Ale możesz wziąć sobie to!
+
 
 message_32:
-    text: MINA gave you a \c[3]WAFFLE\c[0].
+    text: MINA dała ci \c[3]GOFRY\c[0].
+
 
 message_110:
-    text: \n<MINA>Go forth, HERO!\!<br>Be the forager you were always meant to be!
+    text: \n<MINA>Ruszaj naprzód, HEROSIE!\!<br>Stań się poszukiwaczem, jak jest ci pisane!
+
 
 #Ricoli Ravioli - Orange Oasis - Helped me discover my love of food. → CHEESE WHEEL
 
+
 message_33:
-    text: \n<RICOLI RAVIOLI>My man, HERO!\! How many years has it been since you helped me discover my love of food?\! You helped me find my dream and I owe you my life for that!
+    text: \n<RICOLI RAVIOLI>Słodki chłopaczyno, HERO!\! Ile to już lat minęło, od kiedy dzięki tobie odkryłem miłość do żarełka?\! Pomogłeś mi spełnić moje najgłodniejsze sny i teraz jestem twoim dłużnikiem na całe żyćko!
+
 
 message_34:
-    text: \n<RICOLI RAVIOLI>Take this and don't be shy about it!\! It's my favorite food and it's definitely enough to share with everyone!
+    text: \n<RICOLI RAVIOLI>Bier to i nie strzelaj buraczka!\! To jest mój najukochańszy rodzaj żarła i mam go definitywnie wystarczająco, aby wykarmić każdego posiadacza karty dużej rodziny!
+
 
 message_35:
-    text: RICOLI RAVIOLI gave you a \c[3]CHEESE WHEEL\c[0].
+    text: RICOLI RAVIOLI dał ci \c[3]SER\c[0].
+
 
 message_111:
-    text: \n<RICOLI RAVIOLI>Go forth, HERO!\!<br>Be the mentor you were always meant to be!
+    text: \n<RICOLI RAVIOLI>Ruszaj naprzód, HEROSIE!\!<br>Stań się mentorem, jak jest ci pisane!
 
-#Basket Case - Last Resort - Helped file taxes. → CARDBOARD
+
+#WRAK - Last Resort - Helped file taxes. → CARDBOARD
+
 
 message_36:
-    text: \n<BASKET CASE>Goodness... Is that really you HERO?\! You got me out of a huge rut when you helped me file all my taxes.\! I honestly don't know how I could have done that myself.
+    text: \n<WRAK>Jeżu... To naprawdę ty, HERO?\! Wyciągnąłeś mnie z dna, pomagając mi zapłacić wszystkie podatki.\! Szczerze nie jestem pewien, czy dałbym sobie radę z tym wszystkim sam.
+
 
 message_37:
-    text: \n<BASKET CASE>You truly saved my life!\! Take this gift.\! I owe it to you!
+    text: \n<WRAK>Ty doprawdy uratowałeś moje życie!\! Przyjmij ten podarunek.\! Jestem ci go winien!
+
 
 message_38:
-    text: BASKET CASE gave you \c[13]NERDY GLASSES\c[0].
+    text: WRAK dał ci \c[13]KUJOŃSKIE OKSY\c[0].
+
 
 message_112:
-    text: \n<BASKET CASE>Go forth, HERO!\!<br>Be the accountant you were always meant to be!
+    text: \n<WRAK>Ruszaj naprzód, HEROSIE!\!<br>Stań się księgowym, jak jest ci pisane!
 
-#Silker - Last Resort - Covered work shift at the last minute. → 500 CLAMS, 440 after taxes
+
+#JEDWABIARZ - Last Resort - Covered work shift at the last minute. → 500 CLAMS, 440 after taxes
+
 
 message_39:
-    text: \n<SILKER>Oh hey, HERO.\! Your presence has always made work so much more bearable.
+    text: \n<JEDWABIARZ>O, siemasz, HERO.\! Twoja obecność jak zawsze sprawia, że jakakolwiek fucha jest znośna.
+
 
 message_40:
-    text: \n<SILKER>I always think about the time you covered my work shift when I had a last-minute emergency.\! You deserve some kindness your way, too.\! Take this!
+    text: \n<JEDWABIARZ>Zawsze wspominam, jak kryłeś mnie w robocie, kiedy przydarzył mi się nagły wypadek.\! Zasługujesz na trochę dobroci w zamian.\! Trzymaj, chłopie!
+
 
 message_41:
-    text: SILKER opened his wallet and gave you 500 CLAMS.
+    text: JEDWABIARZ otworzył swój portfel i dał ci 500 MAŁŻY.
+
 
 message_42:
-    text: \n<SILKER>Oh, shoot...\! Sorry, my mistake.\! Gotta make sure to cover my taxes first.
+    text: \n<JEDWABIARZ>O, kurczę blade...\! Soreczka, mój błąd.\! Muszę mieć pewność, że wystarczy mi na rachunki.
+
 
 message_76:
-    text: SILKER took back the 500 CLAMS.
+    text: JEDWABIARZ zabrał ci 500 MAŁŻY.
+
 
 message_77:
-    text: SILKER gave you 440 CLAMS.
+    text: JEDWABIARZ dał ci 440 MAŁŻY.
+
 
 message_78:
-    text: \n<SILKER>Really appreciate what you did for me, HERO.\!<br>Be the friend you were always meant to be!
+    text: \n<JEDWABIARZ>Naprawdę jestem wdzięczny za wszystko, co dla mnie zrobiłeś, HERO.\!<br>Stań się przyjacielem, jak jest ci pisane!
 
 
-#Krispy - Casino - Helped to get Jawsum to forgive debt. → CONFETTI
+
+
+#KRUSZYNEK - Casino - Helped to get Jawsum to forgive debt. → CONFETTI
+
 
 message_83:
-    text: \n<KRISPY>Yo, HERO! Thanks again for clearing me from all my debt from the big guy.
+    text: \n<KRUSZYNEK>Joł, HERO! Jeszcze raz dzięki za wyciągnięcie mnie z całego kredytu u tamtego kolosa.
+
 
 message_43:
-    text: \n<KRISPY>I don't wanna know what you had to say to him to get it to happen...\! but I do know you've really done me a solid.
+    text: \n<KRUSZYNEK>Nie wiem, co musiałeś mu nagadać, żeby to przeszło...\! ale wiem, że zrobiłeś mi wielką przysługę.
+
 
 message_44:
-    text: \n<KRISPY>Take this as thanks... and don't feel bad about it either.\!<br>We gotta celebrate sometime!
+    text: \n<KRUSZYNEK>Weź to w podziękę... nie czuj się z tym źle.\!<br>Kiedyś trzeba poświętować!
+
 
 message_79:
-    text: KRISPY gave you \c[5]CONFETTI\c[0].
+    text: KRUSZYNEK dał ci \c[5]KONFETTI\c[0].
+
 
 message_113:
-    text: \n<KRISPY>Go forth, HERO!\!<br>Be the philanthropist you were always meant to be!
+    text: \n<KRUSZYNEK>Ruszaj naprzód, HEROSIE!\!<br>Stań się dobroczyńcą, jak jest ci pisane!
 
-#Wolf - Saved my marriage.  → 143 CLAMS
+
+#WILK - Saved my marriage.  → 143 CLAMS
+
 
 message_45:
-    text: \n<WOLF>Hey, wait a second...\! You're that boy who saved my marriage!\! HERO, was it?\! I never got the chance to thank you for that.
+    text: \n<WILK>Ej, chwila...\! Ty to ten chłopak, który uratował moje małżeństwo!\! HERO, tak?\! Nigdy nie miałem szansy ci podziękować.
+
 
 message_46:
-    text: \n<WOLF>Money's kinda tight right now, but this is all I can spare.\!<br>Hope that's okay, man.\! You deserve it.
+    text: \n<WILK>Ciężko u mnie w tej chwili z pieniędzmi, to wszystko, co mogę ci dać.\!<br>Mam nadzieję, że mi to wybaczysz, stary.\! Zasłużyłeś sobie.
+
 
 message_47:
-    text: WOLF reached into his pocket and gave you 143 CLAMS.
+    text: WILK sięgnął do swojej kieszeni i dał ci 143 MAŁŻE.
+
 
 message_114:
-    text: \n<WOLF>Go forth, HERO!\!<br>Be the peacemaker you were always meant to be!
+    text: \n<WILK>Ruszaj naprzód, HEROSIE!\!<br>Stań się arbitrem, jak jest ci pisane!
 
-#Shamboo - Concierge - Held me accountable for my actions → DYNAMITE
+
+#SZAMBON - Concierge - Held me accountable for my actions → DYNAMITE
+
 
 message_48:
-    text: \n<SHAMBOO>Ah...\! You are the boy who held me accountable for my actions.\! I have changed my ways since my past confrontation with you... perhaps for the better.
+    text: \n<SZAMBON>Aaa...\! Jesteś chłopcem, który pociągnął mnie do odpowiedzialności za swoje czyny.\! Zmieniłem się od czasu naszej ostatniej konfrontacji... możliwe, że na lepsze.
+
 
 message_49:
-    text: \n<SHAMBOO>It is not much, but take this from me...\! Please, I insist.
+    text: \n<SZAMBON>To niewiele, ale weź...\! Proszę, nalegam.
+
 
 message_50:
-    text: SHAMBOO lifted up his hat and gave you \c[5]DYNAMITE\c[0].
+    text: SZAMBON podniósł kapelusz i dał ci \c[5]DYNAMIT\c[0].
+
 
 message_115:
-    text: \n<SHAMBOO>Go forth, HERO...\!<br>Be the pacesetter you were always meant to be...
+    text: \n<SZAMBON>Ruszaj naprzód, HEROSIE...\!<br>Stań się liderem, jak jest ci pisane...
 
-#Touchdown - Concierge - Awakened my true potential → WATERMELON JUICE
+
+#PRZYŁOŻENIEWICZ - Concierge - Awakened my true potential → WATERMELON JUICE
+
 
 message_51:
-    text: \n<TOUCHDOWN>Wait just a sec! You're HERO, right?\! I remember you!\! Back when I was still a rookie, your training helped me awaken my true potential.
+    text: \n<PRZYŁOŻENIEWICZ>Sekundkę! Jesteś HERO, racja?\! Pamiętam cię!\! Kiedy byłem jeszcze żółtodziobem, twój trening pomógł mi odkryć mój prawdziwy potencjał.
+
 
 message_52:
-    text: \n<TOUCHDOWN>I don't got much on me right now, but I don't like owing people nothin' either.\! Take this and let's call it even.
+    text: \n<PRZYŁOŻENIEWICZ>Nie mam przy sobie zbyt wiele, ale nie lubię być komuś winny.\! Weź to i będziemy kwita.
+
 
 message_53:
-    text: TOUCHDOWN gave you \c[3]WATERMELON JUICE\c[0].
+    text: PRZYŁOŻENIEWICZ dał ci \c[3]SOK ARBUZOWY\c[0].
+
 
 message_116:
-    text: \n<TOUCHDOWN>Go forth, HERO!\!<br>Be the influence you were always meant to be!
+    text: \n<PRZYŁOŻENIEWICZ>Ruszaj naprzód, HEROSIE!\!<br>Stań się dyktatorem, jak jest ci pisane!
 
-#Hoagie - Club Sandwich - Donated organs to save REUBEN's life → 5000 CLAMS
+
+#WEKA - Club Sandwich - Donated organs to save REUBEN's life → 5000 CLAMS
+
 
 message_54:
-    text: \n<HOAGIE>Yo, HERO.\! I know you'll never bring this up yourself, but...\! me and REUBEN really owe our lives to you.
+    text: \n<WEKA>Joł, HERO.\! Wiem, że nigdy byś o tym sam nie wspomniał, ale...\! razem z BUŁĄ zawdzięczamy ci życie.
+
 
 message_55:
-    text: \n<HOAGIE>When you said you were going to donate your organs to save REUBEN's life...\! I didn't think you would actually go through with it.
+    text: \n<WEKA>Kiedy powiedziałeś, że oddasz swoje organy, żeby uratować życie BUŁY...\! nie myślałem, że mówisz poważnie.
+
 
 message_56:
-    text: \n<HOAGIE>You're one of a kind and I hope you know that, HERO.\! It's not much, but take this.
+    text: \n<WEKA>Jesteś jedyny w swoim rodzaju i mam nadzieję, że o tym wiesz, HERO.\! To niewiele, ale chociaż coś.
+
 
 message_80:
-    text: HOAGIE reached into his shirt and gave you 5000 CLAMS.
+    text: WEKA sięgnął pod bluzkę i dał ci 5000 MAŁŻY.
+
 
 message_81:
-    text: \n<HOAGIE>Wishing you good vibes, HERO.\!<br>Be the donor you were always meant to be!
+    text: \n<WEKA>Przesyłam pozytywne wibracje, HERO.\!<br>Stań się dawcą, jak jest ci pisane!
 
-#City Slicker - Underwater Highway - Helped me recover through surgery → MILK
+
+#CWANIAK - Underwater Highway - Helped me recover through surgery → MILK
+
 
 message_57:
-    text: \n<CITY SLICKER>Well, I'll be!\! I didn't expect to see you again so soon, HERO!
+    text: \n<CWANIAK>No!\! Nie spodziewałem się spotkać cię tak wcześnie, HERO!
+
 
 message_58:
-    text: \n<CITY SLICKER>I've only just gotten out of the hospital since you helped me recover from my surgery.\! I stole this from the hospital, but don't tell anyone!\! It's for you!
+    text: \n<CWANIAK>Dopiero co wyszedłem ze szpitala, pomogłeś mi dojść do siebie po operacji.\! Ukradłem to ze szpitala, nikomu nie mów!\! To dla ciebie!
+
 
 message_59:
-    text: CITY SLICKER reached into his jacket and gave you \c[3]MILK\c[0].
+    text: CWANIAK sięgnął do kurtki i dał ci \c[3]MLEKO\c[0].
+
 
 message_117:
-    text: \n<CITY SLICKER>Go forth, HERO!\!<br>Be the support you were always meant to be!
+    text: \n<CWANIAK>Ruszaj naprzód, HEROSIE!\!<br>Stań się wsparciem, jak jest ci pisane!
 
-#Jet Setter - Underwater Highway  - Found and returned stolen bicycle → AIR HORN
+
+#WAŻNIAK - Underwater Highway  - Found and returned stolen bicycle → AIR HORN
+
 
 message_60:
-    text: \n<JET SETTER>Yo, yo, yo!\! Well if it isn't HERO!\! I've been looking to repay you since you found and returned my stolen bike!
+    text: \n<WAŻNIAK>Joł, joł, joł!\! Czyż to nie HERO?!\! Szukałem cię, żeby odpłacić się za to, że znalazłeś i zwróciłeś mi mój skradziony rower!
+
 
 message_61:
-    text: \n<JET SETTER>You're a cool guy, HERO.\! Seriously, the coolest.\! Here's a gift for cool people like you.
+    text: \n<WAŻNIAK>Równy z ciebie gościu, HERO.\! Serio, najrówniejszy.\! A oto prezent dla równych gości jak ty.
+
 
 message_62:
-    text: JET SETTER reached into his hair and gave you<br>\c[13]COOL GLASSES\c[0].
+    text: WAŻNIAK sięgnął do swoich włosów i dał ci \c[13]CZADERSKIE OKSY\c[0].
+
 
 message_118:
-    text: \n<JET SETTER>Go forth, HERO!\!<br>Be the justice you were always meant to be!
+    text: \n<WAŻNIAK>Ruszaj naprzód, HEROSIE!\!<br>Stań się wymiarem sprawiedliwości, jak jest ci pisane!
 
-#Skull Crusher - Underwater Highway  - Taught how to read → POETRY BOOK
+
+#CZACHA - Underwater Highway  - Taught how to read → POETRY BOOK
+
 
 message_63:
-    text: \n<SKULL CRUSHER>So, HERO! You've come to say hi to the crew, eh?\! I see the world a whole lot differently since you taught me how to read.
+    text: \n<CZACHA>No, HERO! Przyszedłeś przywitać się z ekipą, e?\! Od kiedy nauczyłeś mnie czytać, postrzegam świat zupełnie inaczej.
+
 
 message_64:
-    text: \n<SKULL CRUSHER>Here's the book you used to teach me with.\! I've been through it tons of times already, so you can have it back.
+    text: \n<CZACHA>A tu książka, na której mnie uczyłeś.\! Przemęczyłem się przez nią już mnóstwo razy, możesz wziąć ją z powrotem.
+
 
 message_65:
-    text: SKULL CRUSHER reached into his pocket gave you a<br>\c[5]POETRY BOOK\c[0].
+    text: CZACHA sięgnął do kieszeni i dał ci \c[5]ZBIÓR WIERSZY\c[0].
+
 
 message_82:
-    text: \n<SKULL CRUSHER>Education...\! That's what's irreplaceable, man.
+    text: \n<CZACHA>Edukacja...\! jest niezastąpiona, stary.
 
-#Brick - Underwater Highway - Saved family restaurant → WHOLE CHICKEN
+
+#CEGŁA - Underwater Highway - Saved family restaurant → WHOLE CHICKEN
+
 
 message_66:
-    text: \n<BRICK>Wassup, HERO?\! I've been thinkin' about you every day since you helped me save my family's restaurant.
+    text: \n<CEGŁA>Jak leci, HERO?\! Od kiedy pomogłeś mi uratować moją rodzinną restaurację, codziennie o tobie myślę.
+
 
 message_67:
-    text: \n<BRICK>Take this, my guy.\! It's my family's specialty... You gotta try it!
+    text: \n<CEGŁA>Weź to, chłopie.\! Specjał mojej rodziny... Musisz spróbować!
+
 
 message_68:
-    text: BRICK unwrapped his bandana and gave you a<br>\c[3]WHOLE CHICKEN\c[0].
+    text: CEGŁA rozwiązał swoją chustkę i dał ci \c[3]KURCZAKA\c[0].
+
 
 message_119:
-    text: \n<BRICK>Go forth, HERO!\!<br>Be the blessin' you were always meant to be!
+    text: \n<CEGŁA>Ruszaj naprzód, HEROSIE!\!<br>Stań się błogosławieństwem, jak jest ci pisane!
 
-#SEacow - Underwater Highway - Saved the farm → COMBO MEAL
+
+#KROWA MORSKA - Underwater Highway - Saved the farm → COMBO MEAL
+
 
 message_69:
-    text: \n<SEACOW>HERO!\! I reckon I haven't seen you since you saved the farm!
+    text: \n<KROWA MORSKA>HERO!\! Chyba nie widziałam cię, od kiedy uratowałeś farmę!
+
 
 message_70:
-    text: \n<SEACOW>I never got to thank you properly for that and it's been weighin' on my mind heavily... \! Nows my chance to return the favor.\! Take this, partner.
+    text: \n<KROWA MORSKA>Nigdy nie miałam okazji dostatecznie ci za to podziękować i bardzo leżało mi to na sercu... \! Teraz mam szansę się odwdzięczyć.\! Weź, towarzyszu.
+
 
 message_71:
-    text: SEACOW gave you a \c[3]COMBO MEAL\c[0] somehow.
+    text: KROWA MORSKA jakimś cudem dała ci \c[3]ZESTAW\c[0].
+
 
 message_120:
-    text: \n<SEACOW>Go forth, HERO!\!<br>Be the salami you were always meant to be!
+    text: \n<KROWA MORSKA>Ruszaj naprzód, HEROSIE!\!<br>Stań się salami, jak jest ci pisane!

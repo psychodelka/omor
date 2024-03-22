@@ -71,7 +71,7 @@ message_9:
 message_10:
       faceset: MainCharacter_Basil_Dark
       faceindex: 20
-      text: Ktoś taki nie mógłby zrobić czegoś takiego...\bas
+      text: Ktoś taki jak ty nie byłby do tego zdolny...\bas
  
 #BASIL turns to window.
  
@@ -253,12 +253,12 @@ message_51:
 message_52:
       faceset: MainCharacter_Basil
       faceindex: 28
-      text: \basNie wiem, czy już to mówiłem, ale...\! Przepraszam, że sprawiłem ci tyle kłopotów.
+      text: \basNie wiem, czy już to mówiłem, ale...\! przepraszam, że sprawiłem ci tyle kłopotów.
  
 message_53:
       faceset: MainCharacter_Basil
       faceindex: 17
-      text: \basKiedy dałem ci \c[4]ALBUM ZE ZDJĘCIAMI\c[0]...\!<br>Naprawdę chciałem, byś to ty go zatrzymał.
+      text: \basKiedy dałem ci \c[4]ALBUM ZE ZDJĘCIAMI\c[0]...\!<br>naprawdę chciałem, byś to ty go zatrzymał.
  
 message_54:
       faceset: MainCharacter_Basil
@@ -333,7 +333,7 @@ message_67:
 message_68:
       faceset: MainCharacter_Basil
       faceindex: 30
-      text: \basMoże nic to nie da, ale...\! Będę trzymać za ciebie kciuki.
+      text: \basMoże nic to nie da, ale...\! będę trzymać za ciebie kciuki.
  
 #BASIL walks off to street to right.
 #PLAYER turns right.
@@ -510,7 +510,7 @@ message_170:
 # =========================================================================================
  
 message_180:
-      text: Jest głęboko...\| Czy chcesz skoczyć?
+      text: W dole widzisz tylko otchłań...\| Czy chcesz skoczyć?
  
 #YES/NO
  

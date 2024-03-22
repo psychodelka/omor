@@ -51,7 +51,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
 
 
   function parseNoEffectEmotion(tname, em, target) {
-    if (em.toLowerCase().contains("BAĆ")) {
+    if (em.contains("BAĆ")) {
       if (tname === $gameActors.actor(1).name()) { return "OMORI się nie boi!\r\n" }
       if (target._doesUseAlternateForms2()) {
         return target.name() + ' się nie boją!\r\n';
@@ -390,7 +390,8 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       break;
 
     case 'RELEASE ENERGY':  // RELEASE ENERGY
-      text = user.name() + ' z przyjaciółmi łączą siły i zadają swój ostateczny cios!';
+      text = user.name() + ' z przyjaciółmi łączą siły\r\n';
+      text += 'i zadają swój ostateczny cios!'
       break;
 
     case 'VERTIGO': // OMORI VERTIGO
@@ -2545,7 +2546,7 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
       break;
 
     case 'EVIL CHIP NOTHING': //NEFARIOUS CHIP NOTHING
-      text = user.name() + ' gładzi swój złwieszczy wąs!';
+      text = user.name() + ' gładzi swój złowieszczy wąs!';
       break;
 
 
@@ -2795,7 +2796,8 @@ Window_BattleLog.prototype.makeCustomActionText = function (subject, target, ite
 
     //MR. JAWSUM //
     case 'DESK SUMMON MINION': //MR. JAWSUM DESK SUMMON MINION
-      text = user.name() + ' sięga po telefon i dzwoni po ALI GATORA!';
+      text = user.name() + ' sięga po telefon\r\n';
+      text += 'i dzwoni po ALEGO GATORA!\r\n';
       break;
 
     case 'JAWSUM ATTACK ORDER': //MR. JAWSUM DESK ATTACK ORDER
@@ -3963,12 +3965,20 @@ Window_BattleLog.prototype.displayCustomActionText = function (subject, target, 
           textArray[1] = this.changeDamageForm(textArray[1], target)
         }
 
+        if (textArray[1].includes('SERC')) {
+          textArray[1] = this.changeHealFormat(textArray[1], target)
+        }
+
         this.push('addText', textArray[0]);
         this.push('addText', textArray[1]);
       }
       else {
         if (text.includes('obrażeń')) {
           text = this.changeDamageForm(text, target)
+        }
+
+        if (text.includes('SERC')) {
+          text = this.changeHealFormat(text, target)
         }
 
         this.push('addText', text); 
@@ -3991,19 +4001,36 @@ Window_BattleLog.prototype.displayHpDamage = function(target) {
       if (target.result().hpDamage > 0 && !target.result().drain) {
           this.push('performDamage', target);
       }
+
       if (target.result().hpDamage < 0) {
           this.push('performRecovery', target);
       }
+
       if (text.length > MAX_CHAR_IN_LINE) {
         let textArray = this.sliceLongString(text);
-        textArray[1] = this.changeDamageForm(textArray[1], target);
+        
+        if (textArray[1].includes('obrażeń')) {
+          textArray[1] = this.changeDamageForm(textArray[1], target)
+        }
+
+        if (textArray[1].includes('SERC')) {
+          textArray[1] = this.changeHealFormat(textArray[1], target)
+        }
 
         this.push('addText', textArray[0]);
         this.push('addText', textArray[1]);
         this.push('wait', 20);
         return;
       }
-      text = this.changeDamageForm(text, target);
+
+      if (text.includes('obrażeń')) {
+        text = this.changeDamageForm(text, target)
+      }
+
+      if (text.includes('SERC')) {
+        text = this.changeHealFormat(text, target)
+      }
+
       this.push('addText', text);
   }
 };
@@ -4067,10 +4094,8 @@ Window_BattleLog.prototype.changeDamageForm = function(text, target) {
   switch (true) {
     case damageDealtString === '1': 
       return text.replace('obrażeń', 'obrażenie');
-
     case this.checkIfEndsWithTwoThreeFour(damageDealtString):
       return text.replace('obrażeń', 'obrażenia');
-
     default:
       return text;
   }
@@ -4096,14 +4121,25 @@ Window_BattleLog.prototype.changeClamsFormat = function(text, gold) {
   switch (true) {
     case goldString === '1': 
       return text.replace('MAŁŻY', 'MAŁŻĘ');
-
     case this.checkIfEndsWithTwoThreeFour(goldString):
       return text.replace('MAŁŻY', 'MAŁŻE');
-
     default:
       return text;
   }
 };
+
+Window_BattleLog.prototype.changeHealFormat = function(text, target) {
+  let hpHealedString = target.result().hpDamage + '';
+
+  switch (true) {
+    case hpHealedString === '1': 
+      return text.replace('SERC', 'SERCE');
+    case this.checkIfEndsWithTwoThreeFour(hpHealedString):
+      return text.replace('SERC', 'SERCA');
+    default:
+      return text;
+  }
+}
 
 
 //=============================================================================
@@ -4111,11 +4147,15 @@ Window_BattleLog.prototype.changeClamsFormat = function(text, gold) {
 //=============================================================================
 Window_BattleLog.prototype.displayAction = function (subject, item) {
   // Return if Item has Custom Battle Log Type
+  var nazwa_przedmiotu = item.name;
   if (item.meta.BattleLogType) { return; }
   else if (!DataManager.isSkill(item)) {
+    if(item.name.slice(-1) == "A"){
+      nazwa_przedmiotu = item.name.slice(0,-1)+"Ę";
+    }
     this.push('addText', `${subject.name()} używa przedmiotu.`);
     this.push('wait');
-    this.push('addText', `Wykorzystano: ${item.name}!`);
+    this.push('addText', `Wykorzystano: ${nazwa_przedmiotu}!`);
     this.push('wait');
   }
   // Run Original Function

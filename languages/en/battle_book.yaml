@@ -118,7 +118,7 @@ message_29:
     text: Kiedy przyjaciel/wróg jest jeszcze bardziej SMUTNY, staje się ZAŁAMANY.
 
 message_30:
-    text: ZAŁAMANY przyjaciel/wróg ma jeszcze wyższą OBRONĘ i niższą SZYBKOŚĆ.\! Część obrażeń, które zostałyby zadane SERCU, jest zadawana SOKU.
+    text: ZAŁAMANY przyjaciel/wróg ma jeszcze wyższą OBRONĘ i niższą SZYBKOŚĆ.\! Część obrażeń, które zostałyby zadane SERCOM, jest zadawana SOKU.
 
 message_31:
     text: ZŁOŚĆ
@@ -346,7 +346,7 @@ message_73:
     text: ZAMIANA ZDOLNOŚCI
 
 message_74:
-    text: Każdy przyjaciel może mieć 4 \c[1]ZDOLNOŚCI\c[0] na raz.
+    text: Każdy przyjaciel może mieć 4 \c[1]ZDOLNOŚCI\c[0] naraz.
 
 message_75:
     text: Możesz wybrać \c[1]ZDOLNOŚCI\c[0] przyjaciół poprzez MENU.
@@ -379,7 +379,7 @@ message_80:
 #LEVELING UP
 
 message_81:
-    text: OMORI i NIESTOSTOWANI przyjaciele zdobywają PD po każdej walce.\! Jeśli zostaje osiągnięty pewien poziom PD, przyjaciel wzbija się na wyższy POZIOM.
+    text: OMORI i NIESTOSTOWANI przyjaciele zdobywają PD po każdej walce.\! Jeśli zostaje osiągnięta pewna ilość PD, przyjaciel wzbija się na wyższy POZIOM.
 
 message_82:
     text: Gdy przyjaciel osiąga nowy POZIOM, jego statystyki wzrastają i czasem poznaje nową \c[1]ZDOLNOŚĆ\c[0]!

@@ -23,7 +23,7 @@ message_2:
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 17 #insert number here
-      text: \kel\com[2]Ua! Zza plakatu wyleciała \c[4]PŁYTA\c[0]...\!<br>Dziwne...\! Ciekawe, kto ją tam schował?\!<br>Chyba...\! możemy ją sobie od tak wziąć?
+      text: \kel\com[2]Ua! Zza plakatu wyleciała \c[4]PŁYTA\c[0]...\!<br>Dziwne...\! Ciekawe, kto ją tam schował?\!<br>Chyba...\! możemy ją sobie ot tak wziąć?
 
 message_4:
       text: Otrzymałeś \c[4]WESOŁĄ PŁYTĘ\c[0].

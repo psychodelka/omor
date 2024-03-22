@@ -15,7 +15,7 @@ message_1:
 
 
 message_2:
-      text: \who\Com[2]Ach!\! O-o!\! Cześć.\!<br>Dziękuję... \! Tylko sobie ćwiczę...
+      text: \who\Com[2]Ach!\! O-o!\! Cześć.\!<br>Dziękuję...\! Tylko sobie ćwiczę...
 
 
 message_3:
@@ -108,7 +108,7 @@ message_19:
 
 
 message_20:
-      text: \minEch...\! T-tak!\! Masz rację!\!<br>Muszę po prostu otrząsnąć się z tych negatywnych emocji!\!<br>Postaram się...\! Postaram się ogarnąć i dokończyć ten rysunek.
+      text: \minEch...\! T-tak!\! Masz rację!\!<br>Muszę po prostu otrząsnąć się z tych negatywnych emocji!\!<br>Postaram się...<br>Postaram się ogarnąć i dokończyć ten rysunek.
 
 
 message_21:
@@ -408,7 +408,7 @@ message_72:
 message_73:
       faceset: MainCharacters_Faraway
       faceindex: 14 #insert number here
-      text: \kelMamy nadzieję, że dostaniesz się do swojej wymarzonej szkoły,, MINCY!\!<br>Pamiętaj o nas, kiedy będziesz już sławna!
+      text: \kelMamy nadzieję, że dostaniesz się do swojej wymarzonej szkoły, MINCY!\!<br>Pamiętaj o nas, kiedy będziesz już sławna!
 
 
 message_74:

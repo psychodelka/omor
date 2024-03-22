@@ -67,7 +67,7 @@ message_7:
 
 
 message_8:
-      text: Mój... Boże...\! Ten eksperyment powiódł się o wiele lepiej, niż oczekiwałam\! Spójrz, laleczko.\n<MEDUZA>
+      text: Mój... Boże...\! ten eksperyment powiódł się o wiele lepiej, niż oczekiwałam.\! Spójrz, laleczko.\n<MEDUZA>
 
 
 message_9:
@@ -87,7 +87,7 @@ message_11:
 
 
 message_12:
-      text: Och, ty prostaczko.\! Nie ma nikogo bardziej idealnego ode mnie...<br>ale widzę, że tego nie pojmujesz.\n<SŁODZIUTKA>
+      text: Och, ty prostaczko.\! Nie ma nikogo bardziej idealnego ode mnie... ale widzę, że tego nie pojmujesz.\n<SŁODZIUTKA>
 
 
 message_13:
@@ -247,7 +247,7 @@ message_59:
 
 
 message_60:
-      text: Q28gdG8gemEgdWN6dWNpZSwga3TDs3JlZ28gbmlnZHkgd2N6ZcWbbmllaiBuaWUgY3p1xYJhbT8gSmVzdCBtaSB3IMWbcm9ka3UgY2llcMWCbyBpIHByenl0dWxuaWUhIENoY2Ugc2nEmSBkbyBrb2dvxZsgcHJ6eXR1bGnEhyEgUHJ6eXR1bGNpZSBtbmllISBQcmFnbsSZIGN6dcWCb8WbY2kgaSBtacWCb8WbY2kh\n<ROBÓTKA>
+      text: Q28gdG8gemEgdWN6dWNpZSwga3TDs3JlZ28gbmlnZHkgd2N6Zc<br>WbbmllaiBuaWUgY3p1xYJhbT8gSmVzdCBtaSB3IMWbcm9ka3UgY2l<br>lcMWCbyBpIHByenl0dWxuaWUhIENoY2Ugc2nEmSBkbyBrb2dvxZsg<br>cHJ6eXR1bGnEhyEgUHJ6eXR1bGNpZSBtbmllISBQcmFnbsSZIGN6dc<br>WCb8WbY2kgaSBtacWCb8WbY2kh=\n<ROBÓTKA>
 
 
 message_61:
@@ -266,7 +266,7 @@ message_63:
 
 
 message_64:
-      text: TmllLCBwcm9zesSZISBUbyBqZXN0IG5pZXBvcm96dW1pZW5pZSEgSmEgdHlsa28gY2hjxJkgYnnEhyB3YXN6xIUgcHJ6eWphY2nDs8WCa8SFISBBIG1vxbxlIGkga2ltxZsgd2nEmWNlaiE=\n<ROBÓTKA>
+      text: TmllLCBwcm9zesSZISBUbyBuaWVwb3JvenVtaWVuaWUhIEphIHR5<br>bGtvIGNoY8SZIGJ5xIcgd2FzesSFIHByenlqYWNpw7PFgmvEhSEgQ<br>SBtb8W8ZSBpIGtpbcWbIHdpxJljZWoh\n<ROBÓTKA>
 
 
 message_65:
@@ -286,7 +286,7 @@ message_67:
 
 
 message_68:
-      text: Mój boże, co za jędza.\n<MOLLY>
+      text: Mój Boże, co za jędza.\n<MOLLY>
 
 
 #MOLLY goes back to her computer.
@@ -300,7 +300,7 @@ message_69:
 
 
 message_70:
-      text: SmVzdGVtIHR1IHRha2Egc2Ftb3RuYS4uLiBNdXN6xJkgd3lydXN6ecSHIG5hIHBvc3p1a2l3YW5pZSBtb2plaiBkcnVnaWVqIHBvxYLDs3draSwgxbxlYnltIG1vZ8WCYSB6IG5pxIUgxbx5xIcgZMWCdWdvIGkgc3pjesSZxZtsaXdpZSEgxZptaWdhbSBzdMSFZCE=\n<ROBÓTKA>
+      text: SmVzdGVtIHR1IHRha2Egc2Ftb3RuYS4uLiBNdXN6xJkgd3lydXN6ec<br>SHIG5hIHBvc3p1a2l3YW5pZSBtb2plaiBkcnVnaWVqIHBvxYLDs3dr<br>aSwgxbxlYnltIG1vZ8WCYSB6IG5pxIUgxbx5xIcgZMWCdWdvIGkgc<br>3pjesSZxZtsaXdpZSEgxZptaWdhbSBzdMSFZCE=\n<ROBÓTKA>
 
 
 #ROBÓTKA flies off.
@@ -393,7 +393,7 @@ message_110:
 
 
 message_111:
-      text: \n<GIGANTOS>Cześć, jestem GIGANTOS! Wasza pełna przepustka do \c[11]GIGANTOSA\c[0], znanego też jako \c[11]SZLAMICZE LEŻE\c[0].\! Ściśle mówiąc, chyba jestem tym, co wy, ludzie nazwalibyście \”windą\”.<br>Niestety obsługujemy tylko jednego klienta na raz, więc będziecie musieli poczekać na waszą kolej.<br><br>Chociaż...\! gdybyście znaleźli dla mnie \c[4]LEPKĄ KARTĘ\c[0], mógłbym nagiąć dla was reguły...\! \quake[1]Mniam, mniam!\quake[0]
+      text: \n<GIGANTOS>Cześć, jestem GIGANTOS! Wasza pełna przepustka do \c[11]GIGANTOSA\c[0], znanego też jako \c[11]SZLAMICZE LEŻE\c[0].<br><br>Ściśle mówiąc, chyba jestem tym, co wy, ludzie nazwalibyście \”windą\”.<br><br>Niestety obsługujemy tylko jednego klienta naraz, więc będziecie musieli poczekać na waszą kolej.<br><br>Chociaż...\! gdybyście znaleźli dla mnie \c[4]LEPKĄ KARTĘ\c[0], mógłbym nagiąć dla was reguły...\! \quake[1]Mniam, mniam!\quake[0]
 
 
 #Get Keycard

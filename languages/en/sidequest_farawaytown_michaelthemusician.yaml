@@ -9,7 +9,7 @@
 
 
 message_1:
-      text: \n<GOŚĆ OD GITARY>Siema! Nazywam się MICHAŁ, wkrótce podróżujący muzyk!\! <br>Już od lat gram na gitarze tutaj w \c[11]GALERII DALEKOSTĄDZKIEJ\c[0], ale uważam, że nadszedł czas, aby iść dalej!
+      text: \n<GOŚĆ OD GITARY>Siema! Nazywam się MICHAŁ, wkrótce podróżujący muzyk!<br><br><br>Już od lat gram na gitarze tutaj w \c[11]GALERII DALEKOSTĄDZKIEJ\c[0], ale uważam, że nadszedł czas, aby ruszyć dalej!
 
 
 message_24:
@@ -17,7 +17,7 @@ message_24:
 
 
 message_2:
-      text: \n<GOŚĆ OD GITARY>Czy chcielibyście pomóc mi osiągnąć mój cel?\! Wszystko pomoże!
+      text: \n<GOŚĆ OD GITARY>Czy chcielibyście pomóc mi osiągnąć swój cel?\! Każdy cent się liczy!
 
 
 message_4:
@@ -36,7 +36,7 @@ message_6:
 
 
 message_7:
-      text: \n<GOŚĆ OD GITARY>Mój ojciec nigdy nie popierał tego, że jestem muzykiem, ale moja młodsza siostra, NADZIEJA ciągle mówiła mi, że mam się nie poddawać.<br><br>Ciągle mówiła rzeczy typu “Tacie w końcu przejdzie!”, czy coś w tym stylu...
+      text: \n<GOŚĆ OD GITARY>Mój ojciec nigdy nie popierał tego, że jestem muzykiem, ale moja młodsza siostra, JOY ciągle mówiła mi, że mam się nie poddawać.<br>Ciągle mówiła rzeczy typu:\ "tacie w końcu przejdzie!", czy coś w tym stylu...
 
 
 message_8:
@@ -62,11 +62,11 @@ message_11:
 
 
 message_12:
-      text: \n<GUITAR GUY>Powinienem się ze wszystkimi pożegnać...\! ale...\! nawet nie wiem, jak powiem o tym mojemu tacie...
+      text: \n<GOŚĆ OD GITARY>Powinienem się ze wszystkimi pożegnać...\! ale...\! nawet nie wiem, jak powiem o tym mojemu tacie...
 
 
 message_13:
-      text: \n<GOŚĆ OD GITARY>Pewnie najpierw powiem mojej młodszej siostrze, NADZIEI.
+      text: \n<GOŚĆ OD GITARY>Pewnie najpierw powiem mojej młodszej siostrze, JOY.
 
 
 message_20:

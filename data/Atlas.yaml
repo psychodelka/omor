@@ -3006,7 +3006,7 @@ source:
   img/pictures/INVADER-Prompt.png:
     atlasName: MN_Invader
     rect: {x: 0,y: 0, width: 294, height: 172}
-    sourceRect: {x: 674, y: 770,  width: 294,  height: 172}
+    sourceRect: {x: 694, y: 770,  width: 294,  height: 172}
 
   img/pictures/INVADER-Ship.png:
     atlasName: MN_Invader
@@ -3020,8 +3020,8 @@ source:
 
   img/pictures/INVADER-Title.png:
     atlasName: MN_Invader
-    rect: {x: 0,y: 0, width: 294, height: 172}
-    sourceRect: {x: 379, y: 770,  width: 294,  height: 172}
+    rect: {x: 0,y: 0, width: 315, height: 172}
+    sourceRect: {x: 379, y: 770,  width: 315,  height: 172}
 
   img/pictures/INVADER-UI-Line.png:
     atlasName: MN_Invader

@@ -83,7 +83,7 @@ message_16:
 message_17:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Więc, na co czekamy?\kel
+      text:  na co czekamy?\kel
  
 message_18:
       faceset: MainCharacters_Faraway
@@ -148,7 +148,7 @@ message_52:
 message_53:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: W zasadzie...\! Skoro już tutaj jesteśmy to powinniśmy kupić jakiś prezent dla HERO.\! Jest teraz na studiach, ale jutro powinien do nas wrócić.\kel
+      text: W zasadzie...\! skoro już tutaj jesteśmy, to powinniśmy kupić jakiś prezent dla HERO.\! Jest teraz na studiach, ale jutro powinien do nas wrócić.\kel
  
 message_54:
       faceset: MainCharacters_Faraway

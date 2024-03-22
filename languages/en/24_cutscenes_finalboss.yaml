@@ -34,7 +34,7 @@ message_6:
       text: Niestety to częsty błąd.\!<br>Ludzie mają skłonności do strachu przed tym, czego nie potrafią zrozumieć.\n<MEDUZA>
  
 message_7:
-      text: Poza tym...\! Chyba wiem, czemu ludzie uważają nas za wiedźmy...\n<MEDUZA>
+      text: Poza tym...\! chyba wiem, czemu ludzie uważają nas za wiedźmy...\n<MEDUZA>
  
 #MEDUZA turns to MOLLY.
  
@@ -58,7 +58,7 @@ message_12:
       text: \com[2]Hmf! Jakby wasza trójka wieśniaczek była warta mojej zapłaty!\n<SŁODZIUTKA>
  
 message_13:
-      text: Wszystko, czego chciałam, to żebyście stworzyły mi perfekcyjnego wybranka...\!<br>ale zawiodłyście mnie na trzy różne sposoby!\n<SŁODZIUTKA>
+      text: Wszystko, czego chciałam, to żebyście stworzyły mi perfekcyjnego wybranka...\! ale zawiodłyście mnie na trzy różne sposoby!\n<SŁODZIUTKA>
  
 #SWEETHEART turns to elevator.
  
@@ -86,7 +86,7 @@ message_19:
       text: Dobrze, że mnie o to poprosiłyście!\! Bałem się, że już dłużej nie dam rady się powstrzymywać.\n<GIGANTOS>
  
 message_20:
-      text: No i...\! To może was zdziwić, lub nie...\! lecz SŁODZIUTKA miała ze sobą całe 0 MAŁŻY.\!<br>Zero!\! Ani jednej!\n<GIGANTOS>
+      text: No i...\! to może was zdziwić, lub też nie...\! lecz SŁODZIUTKA miała ze sobą okrągłe 0 MAŁŻY.\!<br>Zero!\! Ani jednej!\n<GIGANTOS>
  
 message_21:
       text: Co jest...\! całkiem niefortunne...<br>bo robię się trochę...\! \quake[1]głodny...\quake[0]\n<GIGANTOS>
@@ -264,7 +264,7 @@ message_56:
 message_57:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: Słuchajcie...\! Chyba będziemy musieli walczyć o wyjście!\her
+      text: Słuchajcie...\! chyba będziemy musieli walczyć o wyjście!\her
  
 #KEL runs behind HERO.
 #Camera pans to SLIME GIRLS.
@@ -331,7 +331,7 @@ message_95:
 #MOLLY turns to MARINA.
  
 message_96:
-      text: Hm? Jestem pewna, że karmiłam go ostatnio!\! Poza tym...<br>Wydałam wszystkie MAŁŻE na oprogramowania do ostatniej pracy.\n<MOLLY>
+      text: Hm? Jestem pewna, że karmiłam go ostatnio!\! Poza tym...<br>wydałam wszystkie MAŁŻE na oprogramowania do ostatniej pracy.\n<MOLLY>
  
 #Screen shakes.
  
@@ -438,7 +438,7 @@ message_131:
       text: \Com[2]GIGANTOSIE, przestań!\! Nie zjadłeś już wystarczająco?\! Obiecujemy, że później cię nakarmimy!\aub
  
 message_132:
-      text: Ale...\! Możecie nakarmić mnie teraz!\! <br>Po prostu...\! \quake[1]dajcie mi się zjeść.\n<GIGANTOS>
+      text: Ale...\! możecie nakarmić mnie teraz!\! <br>Po prostu...\! \quake[1]dajcie mi się zjeść.\n<GIGANTOS>
  
 #Multiple GIGANTOS appear and surround party.
  
@@ -540,7 +540,7 @@ message_160:
 #GIGANTOS burps, then closes back mouth.
  
 message_161:
-      text: Hmm...\! Nagle...\! Zrobiłem się śpiący...\!<br>\}Chyba...\! \}\sinv[1]Zrobię sobie krótką drzemkę.\n<GIGANTOS>
+      text: Hmm...\! Nagle...\! zrobiłem się śpiący...\!<br>\}Chyba...\! \}\sinv[1]Zrobię sobie krótką drzemkę.\n<GIGANTOS>
  
 #GIGANTOS sinks into lake.
 #Camera pans to party.

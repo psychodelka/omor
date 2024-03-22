@@ -1,425 +1,527 @@
 
+
 # =========================================================================================
 #                                 - MARI LOCATIONS -
 # =========================================================================================
+
 
 # =========================================================================================
 # FOREST PLAYGROUND - UPON RETURNING
 # =========================================================================================
 
+
 message_1:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marHey, OMORI! How are you all doing?
+    text: \marCześć, OMORI! Jak tam u was?
+
 
 message_2:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \marJust the other day, NOSE was telling me about a cute little leaf she met...\! but...\! when she tried to be its friend, all it wanted to talk about was how much it hated bunnies...
+    text: \marOstatnio NOSKA opowiadała mi o słodkim, małym listku, którego spotkała...\! ale...\! gdy próbowała się z nim zaprzyjaźnić, chciał mówić jedynie o tym, jak bardzo nienawidzi króliczków...
+
 
 message_3:
     faceset: MainCharacter_Mari
     faceindex: 5
-    text: \mar\Com[2]How could someone hate bunnies!?\!<br>I just don't understand some people...
+    text: \mar\Com[2]Jak ktoś może nienawidzić króliczków?!\!<br>Nie rozumiem niektórych ludzi...
+
 
 # =========================================================================================
 # PINWHEEL FOREST
 # =========================================================================================
 
+
 message_10:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marHi, everyone! You all came just in time for a lovely picnic!
+    text: \marCześć wszystkim! Przyszliście idealnie w porę na cudowny piknik!
+
 
 message_11:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marFeel free to rest here!\! Everything is already all set up,<br>and I even brought some fruit!
+    text: \marUsiądźcie i odpocznijcie sobie!\! Wszystko jest już przygotowane, przyniosłam nawet owoce!
+
 
 #After using fruit to heal:
+
 
 message_12:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelMunch, munch, munch...\!<br>\Com[2]Woo-hoo! Thanks, MARI! You're the best!
+    text: \kelMniam, mniam, mniam...\!<br>\Com[2]Łuhu! Dzięki, MARI! Jesteś najlepsza!
+
 
 message_13:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marOh, it's nothing...\! I'm just trying to look out for all of you...
+    text: \marOj, to nic takiego...\! Po prostu staram się wami zajmować...
+
 
 message_14:
     faceset: MainCharacter_Basil
     faceindex: 1
-    text: \basAww, MARI... I wish I could be more like you!\!<br>You always seem to have everything under control.
+    text: \basOoo, MARI... Chciałbym być taki jak ty!\!<br>Zawsze masz wszystko pod kontrolą.
+
 
 message_15:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marThat's not true at all!\!<br>It just seems that way from the outside!
+    text: \marWcale nie!\!<br>Po prostu tak wydaje się z waszego punktu widzenia!
+
 
 message_16:
     faceset: MainCharacters_DreamWorld
     faceindex: 36
-    text: \herEither way, you sure seem to make everything look easy.
+    text: \herTak czy inaczej dla nas wszystko przychodzi ci z łatwością.
+
 
 message_17:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubYes, I agree!\! MARI is so effortlessly graceful...
+    text: \aubTak, zgadzam się!\! MARI jest pełna wdzięku bez najmniejszego wysiłku...
+
 
 #AUBREY DOES A TWIRL
+
 
 message_18:
     faceset: MainCharacters_DreamWorld
     faceindex: 2
-    text: \aubDon't you think so, OMORI?
+    text: \aubNie mam racji, OMORI?
+
 
 #NOD/SHAKE
+
 
 message_19:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aubOMORI, stop kidding around!\!<br>Is that any way to treat your big sister?
+    text: \aubOMORI, przestań się wygłupiać!\!<br>Nie tak powinieneś traktować swoją starszą siostrę!
+
 
 message_20:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \mar\sinv[1]Awwwww...\sinv[1]\! I guess I have to believe it a little bit if all of you think so!
+    text: \mar\sinv[1]Ooo...\sinv[1]\! W takim razie muszę w to troszkę uwierzyć, skoro wszyscy tak sądzicie!
+
 
 #Basil moves a step down
+
 
 message_21:
     faceset: MainCharacter_Basil
     faceindex: 1
-    text: \basMy house is right down this way...\!<br>Are we all ready to go?
+    text: \basMój dom jest dokładnie w tę stronę...\!<br>Gotowi ruszyć w drogę?
+
 
 message_23:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubI'm ready when you are!
+    text: \aubJeśli wy, to ja też!
+
 
 message_24:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelWe'll catch you later, MARI!
+    text: \kelDo później, MARI!
+
 
 message_25:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marLet me know if you need anything!\!<br>See you soon!
+    text: \marDajcie mi znać, jeśli będziecie czegoś potrzebować!\!<br>Do zobaczenia!
+
 
 message_26:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marCome on, OMORI! Have some fruit!\! Fruit is good for you!
+    text: \marChodź, OMORI! Poczęstuj się owocami!\! Są zdrowe!
+
 
 #Trying walk past
+
 
 message_27:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aubOMORI...\! MARI went through the trouble of gathering all this delicious fruit for us and you're just going to walk on by?
+    text: \aubOMORI...\! MARI włożyła tyle trudu, aby zdobyć dla nas te przepyszne owoce, a ty masz zamiar tak je zignorować?
+
 
 # =========================================================================================
 # FLOATING FOREST
 # =========================================================================================
 
 
+
+
 message_30:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marOh, hey OMORI! Fancy seeing you all the way up here.
+    text: \marO, hej, OMORI! Wspaniale jest was wszystkich widzieć tu na górze.
+
 
 message_31:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marThe wind here is stronger than it is on the ground.\!<br>I wonder why that is...
+    text: \marWiatr wieje tu mocniej niż na ziemi.\!<br>Ciekawe dlaczego...
+
 
 message_32:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marSeems like the perfect weather to fly a kite!
+    text: \marIdealna pogoda, by popuszczać latawce!
+
+
 
 
 # =========================================================================================
 # CAMPSITE
 # =========================================================================================
 
+
 message_40:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marWelcome to \c[11]OTHERWORLD\c[0]...\! an unofficial pitstop for weary space travelers and a popular family-friendly camping ground!
+    text: \marWitajcie w \c[11]PLANETOWIE INNYM\c[0]...\! nieoficjalnym miejscu postoju dla zmęczonych kosmicznych podróżników oraz popularnym prorodzinnym polu kempingowym!
+
 
 message_41:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \mar\sinv[1]Ahhhhhhhh...\!\sinv[0]<br>Don't you just love the smell of firewood?\! And the sound of running water?\! And the crisp space breeze?
+    text: \mar\sinv[1]Aaach...\!\sinv[0]<br>Nie podoba wam się zapach ogniska?\! I dźwięk bieżącej wody?\! I rześka kosmiczna bryza?
+
 
 message_42:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marIt all makes the vast emptiness of space a little more bearable, don't you think?
+    text: \marTo wszystko sprawia, że wszechobecna pustka kosmosu jest troszkę bardziej znośna, nie myślicie?
+
+
 
 
 # =========================================================================================
 # FROZEN LAKE
 # =========================================================================================
 
+
 message_50:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marHey, OMORI... Isn't this place pretty?\!<br>The snow comes down so slowly, but all the pieces seem to fall right into place in the end.
+    text: \marHej, OMORI... ślicznie tu, co nie?\!<br>Śnieg pada tak powoli, a wszystkie płatki w końcu spadają wprost na swoje miejsce.
+
 
 message_51:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marIt reminds me to be patient.
+    text: \marPrzypomina mi, że trzeba być cierpliwym.
+
 
 message_52:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marHey, I know!\! We should go ice skating one day!\!<br>Doesn't that sound fun, OMORI?
+    text: \marEj, wiem!\! Powinniśmy kiedyś pójść na łyżwy!\!<br>Brzmi nieźle, co, OMORI?
+
 
 # =========================================================================================
 # JUNKYARD
 # =========================================================================================
 
+
 message_60:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marHey, everyone! Hope you're all enjoying yourselves!\!<br>I cleared out the junk here and found a perfectly good roasted chicken.
+    text: \marCześć, wszystkim! Mam nadzieje, że dobrze się bawicie!\!<br>Posprzątałam tu trochę śmieci i znalazłam idealnie usmażonego kurczaka.
+
 
 message_61:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marSee, OMORI? Cleaning has its benefits!\!<br>Yup!\! I need to set an example for my sometimes-messy<br>little brother!
+    text: \marWidzisz, OMORI? Sprzątanie ma swoje plusy!\!<br>Ta!\! Muszę dawać przykład mojemu, czasem niechlujnemu, braciszkowi!
+
 
 # =========================================================================================
 # PYREFLY FOREST-  BEFORE BOSS
 # =========================================================================================
 
 
+
+
 message_70:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marOh, I'm so relieved you all finally showed up!
+    text: \marO, tak mi ulżyło, że wszyscy się w końcu pojawiliście!
+
 
 message_71:
     faceset: MainCharacter_Mari
     faceindex: 5
-    text: \marThis forest is full of creepy-crawlies...\!<br>It sure is giving me the heebie-jeebies!
+    text: \marTen las jest pełen przerażających robali...\!<br>Aż mam ciarki!
+
 
 message_72:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \marNot to mention I keep hearing skittering from up ahead...\!<br>Seems like it could be something potentially dangerous, so<br>you all should probably rest up.
+    text: \marPrzy okazji cały czas do moich uszu docierają jakieś szmery z góry...<br><br>Brzmi to jak coś potencjalnie niebezpiecznego, więc powinniście się przygotować.
+
 
 message_73:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marYup!\! Big sister is always prepared!<br>\!You can count on me, OMORI!
+    text: \marTa!\! Starsza siostra jest zawsze w gotowości!<br>\!Możesz na mnie liczyć, OMORI!
+
 
 message_74:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marThis place is really overgrown, isn't it?\! You are all so brave for going through this forest!
+    text: \marAle tu zarosło, co nie?\! Jesteście naprawdę odważni, nie bojąc się tędy chodzić!
+
 
 message_75:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marThere's even an old minecart running through here...\! I wonder what it was used for?
+    text: \marPrzejeżdża tędy nawet stara wagonetka...\! Ciekawe, do czego służyła?
+
+
 
 
 # =========================================================================================
 # SPROUTMOLE VILLAGE - ENTRANCE
 # =========================================================================================
 
+
 message_80:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marThese SPROUT MOLES are such funny little creatures...\!<br>I just want to pick one up and squish it! Hehe!
+    text: \marKIEŁKUNY są takie zabawne i malutkie...\!<br>Mam ochotę je wziąć i wyściskać! Hehe!
+
 
 message_81:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marDid you know? SPROUT MOLES really love \c[3]TOFU\c[0]!\!<br>I bought some \c[3]TOFU\c[0] at a \c[3]TOFU\c[0] stand earlier...<br>Feel free to try some!
+    text: \marWiedzieliście, że KIEŁKUNY bardzo uwielbiają \c[3]TOFU\c[0]?!\!<br>Wcześniej kupiłam go trochę na stoisku...<br>Częstujcie się!
+
 
 # =========================================================================================
 # SWEETHEART'S CASTLE - PRISON B1
 # =========================================================================================
 
+
 message_90:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marHey, gang...\! Seems like you're all stuck in a little pickle, so...
+    text: \marHej, chłopaki...\! Zauważyłam, że utknęliście jak kiszonki w słoiku, więc...
+
 
 message_91:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marI snuck in some pickles! Hehe...
+    text: \marPrzemyciłam parę ogóreczków! Hehe...
+
 
 message_92:
     faceset: MainCharacters_DreamWorld
     faceindex: 31
-    text: \kelAwww... Yuck!\! I hate pickles!\!<br>Next time, can you sneak in some jam instead?
+    text: \kelFuuu... ohyda!\! Nienawidzę ogórasów!\!<br>Następnym razem mogłabyś zamiast nich przemycić dżem?
+
 
 # KEL will not allow you to examine Pickles.
+
 
 message_93:
     faceset: MainCharacters_DreamWorld
     faceindex: 27
-    text: \kelBut...\! I don't like pickles...
+    text: \kelJa...\! nie tknę ogórków...
+
 
 # =========================================================================================
 # DESERT OASIS
 # =========================================================================================
 
+
 message_95:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marHey, OMORI! Guess what!\!<br>The sand here...\! isn't sand at all!\! It's brown sugar!
+    text: \marHej, OMORI! Zgadnij co!\!<br>Piasek tutaj...\! wcale nie jest piaskiem!\! To cukier trzcinowy!
+
 
 message_96:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marNow isn't that sweet? Hehe!
+    text: \marSłodko, co nie? Hehe!
+
 
 message_97:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marIt sure is hot out here, though...\!<br>Remember to stay hydrated, everyone!
+    text: \marNaprawdę tu gorąco, więc...\!<br>pamiętajcie pić dużo wody!
+
+
 
 
 # =========================================================================================
 # RAIN TOWN
 # =========================================================================================
 
+
 message_100:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marHere in \c[11]RAIN TOWN\c[0], it always seems to be raining a bit...
+    text: \marTu, w \c[11]MŻAWKOWIE\c[0], zawsze choć odrobinkę pada...
+
 
 message_101:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marIt's not the most ideal weather conditions for a picnic, but that's never stopped me before!
+    text: \marNie są to najlepsze warunki na piknik, ale mnie nic nie powstrzyma!
+
 
 message_102:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelYeah! Anytime is a good time for a picnic!
+    text: \kelTa! Zawsze jest dobra pora na piknik!
+
 
 message_103:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marHehe... That's right, KEL!<br>\!Anytime is a good time, especially with friends!
+    text: \marHehe... masz rację, KEL!<br>\!Zawsze jest dobra pora, szczególnie przy przyjaciołach!
+
 
 # =========================================================================================
 # DOUGH DUNGEON
 # =========================================================================================
 
+
 message_110:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marHey, gang...\! Seems like you're all stuck in a bit of a jam, so...
+    text: \marHej, chłopaki...\! Widzę, że utknęliście w nie za słodkiej sytuacji, więc...
+
 
 message_111:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marI brought you some jam!
+    text: \marPrzyniosłam wam trochę dżemu!
+
 
 message_112:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\{\Com[2]JAM!?\! \Com[2]I LOVE JAM!!\}
+    text: \kel\{\Com[2]DŻEM?!\! \Com[2]KOCHAM DŻEM!!\}
+
 
 message_113:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aub\Com[2]KEL, you nincompoop! Save some for the rest of us!
+    text: \aub\Com[2]KEL, pacanie! Zostaw też trochę dla nas!
+
 
 message_114:
     faceset: MainCharacters_DreamWorld
     faceindex: 26
-    text: \kel\sinv[1]Awwwwwww... Do I have to?\sinv[0]
+    text: \kel\sinv[1]Ooooo... na serio muszę?\sinv[0]
+
 
 # =========================================================================================
 # LAST RESORT OUTSIDE + ELEVATOR
 # =========================================================================================
 
+
 message_120:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marHi, little brother!\! Are you feeling a bit better now?
+    text: \marCześć, braciszku!\! Czujesz się już troszkę lepiej?
+
 
 message_121:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marWhy don't you enjoy a nice picnic with me?\!<br>That always seems to cheer you up.
+    text: \marMoże spędzimy razem miło czas na pikniku?\!<br>To zawsze poprawiało ci humor.
+
 
 # =========================================================================================
 # LAST RESORT CONSTRUCTION
 # =========================================================================================
 
+
 #MARI turns up at HERO statue.
+
 
 message_125:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marHi, little brother!\! We're seeing a lot of each other lately, huh?
+    text: \marCześć, braciszku!\! Ostatnio często się widujemy, co?
+
 
 message_126:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marAnyways, come sit!\! It's not like you to turn down a picnic.
+    text: \marTak czy owak, usiądź sobie!\! Przecież nie odmówiłbyś sobie pikniku.
+
 
 #MARI looks up at giant HERO statue
+
 
 message_127:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marAnd look there!\! You've got to admit...\!<br>The view \sinv[1]is\sinv[0] pretty nice.
+    text: \marPopatrz tylko!\! Trzeba przyznać...\!<br>mamy tu \sinv[1]całkiem ładny\sinv[0] widok.
+
+
 
 
 # =========================================================================================
 # Before Trench
 # =========================================================================================
 
+
 #MARI is in the end of the underwater highway before the trench
+
 
 message_130:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marHey OMORI, it looks like we've reached the end of the road... literally.
+    text: \marHej, OMORI, widocznie trafiliśmy w ślepą uliczkę... dość dosłownie.
+
 
 message_131:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marIt looks like there's a long bridge up ahead.
+    text: \marTam dalej widać długi most.
+
 
 message_132:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marWhatever you do, don't look down!
+    text: \marTylko nie patrz w dół!
+
 
 message_133:
     faceset: MainCharacter_Mari
     faceindex: 5
-    text: \marOMORI! Did you really pay those TOLL GATORS?\! You shouldn't support their criminal schemes!
+    text: \marOMORI! Naprawdę zapłaciłeś tym MYTOGATOROM?\! Nie powinieneś wspierać ich kryminalnych występków!
+
 
 message_134:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \marYou must be running low on CLAMS.\! Here, take some of my savings.\! Hopefully that'll help out a little.
+    text: \marPewnie kiepsko u ciebie z MAŁŻAMI.\! Proszę, weź trochę moich oszczędności.\! Trochę ci pomogą.
+
 
 message_135:
-    text: You got 500 CLAMS.
+    text: Dostałeś 500 MAŁŻ.
+
 
 message_137:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marThose TOLL GATORS didn't give you a rough time, did they?
+    text: \marMYTOGATORY nie chciały dać ci spokoju, co?
+
+
+
 
 
 
@@ -427,96 +529,118 @@ message_137:
 # SLIME GIRL'S LAIR - ENTRANCE
 # =========================================================================================
 
+
 message_140:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marNow, OMORI...\! I know what you're thinking...\!<br>You're thinking to yourself...\!<br>"Wow, sis. This is a weird place to set up a picnic."
+    text: \marNo już, OMORI...\! Wiem, co myślisz...\!<br>Myślisz sobie...\!<br>"Wow, siorka. Wybrałaś sobie nietypowe miejsce na piknik.".
+
 
 message_141:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marWell...\! Let me tell you...\!
+    text: \marCóż...\! powiem ci, że...\!
+
 
 message_142:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marIt may be recommended to only set up picnics in normal places like in forests or campsites...\!<br>But... where's the fun in that?
+    text: \marMoże i powinno organizować się pikniki w zwyczajnych miejscach, takich jak lasy czy pola kempingowe...\!<br>Ale... gdzie byłaby w tym zabawa?
+
 
 message_143:
     faceset: MainCharacter_Mari
     faceindex: 5
-    text: \marWhat if I want to study the anatomy of a whale while I eat?\! Then what?
+    text: \marCo jeśli nagle, podczas jedzenia, nabrałabym ochoty na poznanie anatomii wieloryba?\! Co wtedy?
+
 
 message_144:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marExpand your mind, OMORI!\!<br>I need to set an example for my sometimes-boring<br>little brother!
+    text: \marOtwórz swój umysł, OMORI!\!<br>Muszę dawać przykład mojemu czasem nudnemu braciszkowi!
+
 
 # =========================================================================================
 # FROZEN FOREST - BEFORE SNOW ANGELS
 # =========================================================================================
 
+
 message_150:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \mar\quake[1]Brrrr...\quake[0]\! Is it a little chilly up here or is it just me?\!<br>It doesn't look like this place sees many travelers...
+    text: \mar\quake[1]Brrrr...\quake[0]\! Czy tylko mi jest tutaj troszkę chłodno?\!<br>To miejsce zapewne nie zalicza się do atrakcji turystycznych...
+
 
 message_151:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marSeems like somewhere you would only go if you wanted to be all alone.
+    text: \marJak dla mnie to miejsce, w które udałby się ktoś, kto chciałby być całkiem sam.
+
 
 # =========================================================================================
 # SPROUT MOLE SERVANT'S QUARTERS
 # =========================================================================================
 
+
 message_155:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marThere sure are a lot of SPROUT MOLES here.\!<br>And they all sure love SWEETHEART!
+    text: \marKręci się tu masa KIEŁKUNÓW.\!<br>I z pewnością wszystkie uwielbiają SŁODZIUTKĄ!
+
+
 
 
 message_156:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \marI tried offering one some food earlier, but she called me a peon and threw it back at me...
+    text: \marZaoferowałam wcześniej jednej coś do jedzenia, ale wyzwała mnie od roboli i rzuciła we mnie jedzeniem...
+
+
 
 
 message_157:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marSPROUT MOLES are peculiar creatures, aren't they?
+    text: \marZ KIEŁKUNÓW są osobliwe stworzenia, no nie?
+
 
 # =========================================================================================
 # JUNKYARD 2 - ROSA
 # =========================================================================================
 
+
 message_160:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marI see you're keeping yourselves busy.\! I hope you're all having a fun adventure.
+    text: \marWidzę, że macie dużo na głowie.\! Mam nadzieję, że się dobrze bawicie.
+
 
 message_161:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marIf you're ever feeling weary, don't forget you can always rest up at my picnics!\! Big sister is always prepared!
+    text: \marJeślibyście się zmęczyli, nie zapomnijcie, że zawsze możecie przyjść i odpocząć ze mną na pikniku!\! Siorka zawsze zwarta i gotowa!
+
+
 
 
 # =========================================================================================
 # MARI EPILOGUE
 # =========================================================================================
 
+
 message_170:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marHi, little brother.\! Today's another great day for exploring!
+    text: \marCześć, braciszku.\! Dziś mamy kolejny świetny dzień na odkrycia!
+
 
 message_171:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marThere's nothing pressing right now, but doesn't that feel good?\! Go on and do whatever you want! The world is your oyster.
+    text: \marNie masz żadnych pilnych spraw, czy to nie cudownie?\! Idź i rób, na co masz ochotę! Świat stoi dla ciebie otworem.
+
 
 message_172:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marWhenever you need me, I'll be here.
+    text: \marBędę tutaj, kiedykolwiek będziesz mnie potrzebować.

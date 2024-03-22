@@ -189,7 +189,7 @@ message_23:
  
 #PHONE
 message_26:
-      text: \n<MOM>\"\n[8]...\! Wyprowadzamy się.\"
+      text: \n<MAMA>\"\n[8]...\! Wyprowadzamy się\".
  
 #===========================================================================================
 #true

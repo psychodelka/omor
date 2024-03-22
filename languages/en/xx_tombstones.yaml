@@ -3,120 +3,141 @@
 # =========================================================================================
 
 message_0:
-    text: \"Tu spoczywa ANDREW VANCE, znany jako SLEEPYKUYA.\"<br>\!\"Miejscowy chlejtus.\! Poległ w starciu z PRAWDZIWYM KUNEM.\"<br>\!\"1873-1901 r.\"
+    text: \"Tu spoczywa ANDREW VANCE, znany jako SLEEPYKUYA\".<br>\!\"Miejscowy chlejtus.\! Poległ w starciu z PRAWDZIWYM KUNEM\".<br>\!\"1873-1901\"
 
 message_1:
-    text: \"Tu spoczywa OCEAN'S DREAM.\"<br>\!\"Z sera powstał...\! w ser się obrócił.\"
+    text: \"Tu spoczywa OCEAN'S DREAM\".<br>\!\"Z sera powstał...\! w ser się obrócił\".
 
 message_2:
-    text: \"Tu spoczywa MELONKID.\"<br>\!\"Przypadkiem nadepnął na grabie.\"
+    text: \"Tu spoczywa MELONKID\".<br>\!\"Przypadkiem nadepnął na grabie\".
 
 message_3:
-    text: \"Tu spoczywa OMOCAT.\"<br>\!\"Dopiero, gdy umieramy, zaczynamy w pełni żyć.\"
+    text: \"Tu spoczywa OMOCAT\".<br>\!\"Dopiero gdy umieramy, zaczynamy w pełni żyć\".
 
 message_4:
-    text: \"Tu spoczywa WHITNEY WHITE, znana jako YIN.\"<br>\!\"Demon się zemścił... :(\"
+    text: \"Tu spoczywa WHITNEY WHITE, znana jako YIN\".<br>\!\"Demon się zemścił... :(\"
 
 message_5:
-    text: \"Tu spoczywa KIM VANCE, znana jako LA AGUACATE.\"<br>\!\"Zgon w trakcie udziału w nielegalnym przemycie awokado.\"
+    text: \"Tu spoczywa KIM VANCE, znana jako LA AGUACATE\".<br>\!\"Zgon w trakcie udziału w nielegalnym przemycie awokado\".
 
 message_6:
-    text: \"Tu spoczywa ROCHELLE.\"<br>\!\"Zgon w wieku 23 lat spowodowany przez kofeinę.\"
+    text: \"Tu spoczywa ROCHELLE\".<br>\!\"Zgon w wieku 23 lat spowodowany przez kofeinę\".
 
 message_7:
-    text: \"Tu spoczywa EMS.\"<br>\!\"Proszę złożyć ofiarę w formie jedzenia.\"
+    text: \"Tu spoczywa EMS\".<br>\!\"Prosimy składać ofiarę w formie jedzenia\".
 
 message_8:
-    text: \"Tu spoczywa AIVI.\"<br>\!\"Wzruszające i tak ulotne.\"\!<br>\"Tu zgasł blask życia.\"
+    text: \"Tu spoczywa AIVI\".<br>\!\"Wzruszające i tak ulotne\".\!<br>\"Tu zgasł blask życia\".
 
 message_9:
-    text: \"Tu spoczywa MINCED.\"<br>\!\"Uschła z odwodnienia.\"
+    text: \"Tu spoczywa MINCED\".<br>\!\"Uschła z odwodnienia\".
 
 message_10:
-    text: \"Tu spoczywa PEDRO.\"<br>\!\"Pokonany.\"
+    text: \"Tu spoczywa PEDRO\".<br>\!\"Pokonany\".
 
 message_11:
-    text: \"Tu spoczywa BATINO.\"<br>\!\"Nie ma tu zakopanego skarbu.\"
+    text: \"Tu spoczywa BATINO\".<br>\!\"Nie ma tu zakopanego skarbu\".
 
 message_12:
-    text: \"Tu spoczywa RAI.\"<br>\!\"Poległ w walce...\! odwiedź kogoś innego.\"
+    text: \"Tu spoczywa RAI\".<br>\!\"Poległ w walce...\! odwiedź kogoś innego\".
 
 message_13:
-    text: \"Tu spoczywa ARCHEIA.\"<br>\!\"Zmarła podczas pływania razem z rybami.\"
+    text: \"Tu spoczywa ARCHEIA\".<br>\!\"Zmarła podczas pływania razem z rybami\".
 
 message_14:
-    text: \"Tu spoczywa TDS.\"<br>\!\"Tu trzeba być realistą.\"
+    text: \"Tu spoczywa TDS\".<br>\!\"Tu trzeba być realistą\".
 
 message_15:
-    text: \"Tu spoczywa ktoś inny.\"
+    text: \"Tu spoczywa ktoś inny\".
 
 message_16:
-    text: \"Tu spoczywa BLUEMOON.\"<br>\!\"Ulubiony senpai wszystkich. (Żegnaj, FIUTO...)\"
+    text: \"Tu spoczywa BLUEMOON\".<br>\!\"Ulubiony senpai wszystkich. (Żegnaj, FIUTO...)\"
 
 message_17:
-    text: \"Tu spoczywa CACHI.\"<br>\!\"Nie otwierać przed 20XX.\"
+    text: \"Tu spoczywa CACHI\".<br>\!\"Nie otwierać przed 20XX\".
 
 message_18:
-    text: \"Tu spoczywa MOOGIRI.\"<br>\!\"Ciemno tu...\! ale nawet mi się to podoba.\"
+    text: \"Tu spoczywa MOOGIRI\".<br>\!\"Ciemno tu...\! ale nawet mi się to podoba\".
 
 message_19:
-    text: \"Tu spoczywa KAIRU.\"<br>\!\"\c[3]DŻEMO ŻYCIA\c[0] nie zadzałało!\"
+    text: \"Tu spoczywa KAIRU\".<br>\!\"\c[3]DŻEMO ŻYCIA\c[0] nie zadzałało!\"
 
 message_20:
-    text: \"Tu spoczywa PRIDE-KUN.\"<br>\!\"Wciąż nie odnalazła swojego długopisu.\"
+    text: \"Tu spoczywa PRIDE-KUN\".<br>\!\"Wciąż nie odnalazła swojego długopisu\".
 
 # STUDIO KIEŁKUN
 
 message_21:
-    text: \"Tu spoczywa SENMOU.\"<br>\!\"Razem z 9 za bardzo skręciła w lewo.\"
+    text: \"Tu spoczywa SENMOU\".<br>\!\"Razem z 9 za bardzo skręciła w lewo\".
 
 message_22:
-    text: \"Tu spoczywa SKEJVEN.\"<br>\!\"Ostatnim gwoździem do trumny był...\! JavaScript.\"
+    text: \"Tu spoczywa SKEJVEN\".<br>\!\"Ostatnim gwoździem do trumny był...\! JavaScript\".
 
 message_23:
-    text: \"Tu spoczywa WONEK i SUNN.\"<br>\!\"W sumie to nic nie zrobili.\"
+    text: \"Tu spoczywa ZZUMI\".<br>\!\"Wreszcie dowiedziała się, co było za tamtymi drzwiami\".
 
 message_24:
-    text: \"Tu spoczywa NIKO.\"<br>\!\"Ktoś w internecie nazwał go cringe'owym.\"
+    text: \"Tu spoczywa NIKO\".<br>\!\"Ktoś w internecie nazwał go cringe'owym\".
 
 message_25:
-    text: \"Tu spoczywa DIAVUSSHI.\"<br>\!\"Wysadzony świętym granatem ręcznym.\"
+    text: \"Tu spoczywa DIAVUSSHI\".<br>\!\"Wysadzony świętym granatem ręcznym\".
 
 message_26:
-    text: \"Tu spoczywa ELKA.\"<br>\!\"Szlag ją w końcu trafił.\"
+    text: \"Tu spoczywa BARYTAS\".<br>\!\"Nie jestem gejem, ale dwie dychy to dwie dychy\".
 
 message_27:
-    text: \"Tu spoczywa YANE_YAN.\"<br>\!\"- Ziomuś, dawaj do rowu!<br>\!- Dobra!<br>Rudym jednak nie można ufać.\"
+    text: \"Tu spoczywa YVK\".<br>\!\"Niech żyje sacrum i profanum!\"
 
 message_28:
-    text: \"Tu spoczywa OSKAR.\"<br>\!\"Dopadło go Letnie Oko-jabłko.\"
+    text: \"Tu spoczywa OSKAR\".<br>\!\"Dopadło go Letnie Oko-jabłko\".
 
 message_29:
-    text: \"Tu spoczywa MARYSH.\"<br>\!\"Wreszcie może spać, ile chce.\"
+    text: \"Tu spoczywa NEXUMICAT\".<br>\!\"Znowu to przeklęte nat 1\".
 
 message_30:
-    text: \"Tu spoczywa DELORT.\"<br>\!\"Padł na hita.\"
+    text: \"Tu spoczywa DELORT\".<br>\!\"Padł na hita\".
 
 message_31:
-    text: \"Tu spoczywa ENIUU.\"<br>\!\"- Ja nie mam psychy? To patrz teraz. <br>\!Jednak miał psychę.\"
+    text: \"Tu spoczywa KOSTIIK\".<br>\!\"Kupił licencję do WinRAR\".
 
 message_32:
-    text: \"Tu spoczywa CHAR.\"<br>\!\"Nareszcie.\"
+    text: \"Tu spoczywa PIOTRUŚ\".<br>\!\"A miało być tylko jedno piwo\".
 
 message_33:
-    text: \"Tu spoczywa SNOBISTYCZNY.\"<br>\!\"Zajęte, nie przeszkadzać.\"
+    text: \"Tu spoczywa SNOBISTYCZNY\".<br>\!\"Zajęte, nie przeszkadzać\".
 
 message_34:
-    text: \"Tu spoczywa KIBEL.\"<br>\!\"Tu spoczywa \"kibel\".\"
+    text: \"Tu spoczywa YUKKI\".<br>\!\"W wieku 48 lat zamarzła\".
 
 message_35:
-    text: \"Tu spoczywa LOKTUMA.\"<br>\!\"Cholera, ciemno tu...\"
+    text: \"Tu spoczywa SUHIROE\".<br>\!\"Od kiedy zabrała się za animację, było wiadomo, że tak skończy\".
 
 message_36:
-    text: \"Tu spoczywa SOSNA.\"<br>\!\"Potężny przyjaciel lasu, <br>\!Który od sadzonki wytrwał, aż do tartaku.\"
+    text: \"Tu spoczywa RIALYY\".<br>\!\"Właśnie tak się kończy zadzieranie z urzędem skarbowym\".
 
 message_37:
-    text: \"Tu spoczywa LIEN.\"<br>\!\"Z planszy zmiotła go orogeneza hercyńska.\"
+    text: \"Tu spoczywa LIEN\".<br>\!\"Z planszy zmiotła go orogeneza hercyńska\".
 
 message_38:
-    text: \"Tu w (nie)pokoju spoczywa LOSIEUU.\"<br>\!\"A poza tym uważam, że Katarginę należy zniszczyć.\"
+    text: Mogiła zbiorowa.<br>\!\"Tu spoczywają:\ ELKA, ADA, AII, YANE_YAN, ZONYA, VICKY, CAMO, SUNN, CHAR, ENIU, OSJA, HOSHIZORA, LOSIEUU, MARYSH, QADOREK, KIRKOR i SOSNA\".<br>\!\"Polegli w walce\".
+
+message_39:
+    text: \"Tu spoczywa WOJCIECH\".<br>\!\"Nie jestem papieżem, żeby chodzić w góry\".
+#do dodania
+message_40:
+    text: \"Tu spoczywa NEKROTANCERZ\".<br>\!\"Brakuje kropki\"
+
+message_41:
+    text: \"Tu spoczywa KORALESIU\".<br>\!\"Zmarł na liżmę\".
+
+message_42:
+    text: \"Tu spoczywa LUCY\".<br>\!\"Idź po masło...\"
+
+message_43:
+    text: \"Tu spoczywa LUUOU\".<br>\!\"W końcu zjadły go te pająki zza szafki...\"
+
+message_44:
+    text: \"Tu spoczywa MAESTRO\".<br>\!\"-Do you have a license for that knife?\"<br>\!Zadźgany 23 razy\".
+
+message_45:
+    text: \"Tu spoczywa VEXIS\".<br>\!\"Moderowała na Discordzie\".

@@ -44,3 +44,25 @@ Window_Base.prototype.convertEscapeCharacters = function(text) {
     }
     return false;
   }
+
+  Window_Base.prototype.drawCurrencyValue = function(value, unit, wx, wy, ww) {
+    this.resetTextColor();
+    this.contents.fontSize = Yanfly.Param.GoldFontSize;
+    if (this.usingGoldIcon(unit)) {
+      var cx = Window_Base._iconWidth;
+    } else {
+      var cx = this.textWidth(unit);
+    }
+    var text = value;
+    if (this.textWidth(text) > ww - cx) {
+      text = Yanfly.Param.GoldOverlap;
+    }
+    this.drawText(text, wx, wy, ww - cx - 4, 'right');
+    if (this.usingGoldIcon(unit)) {
+      this.drawIcon(Yanfly.Icon.Gold, wx + ww - Window_Base._iconWidth, wy + 2);
+    } else {
+      this.changeTextColor(this.systemColor());
+      this.drawText(unit, wx, wy, ww, 'right');
+    }
+    this.resetFontSettings();
+};

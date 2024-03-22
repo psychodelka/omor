@@ -10,7 +10,7 @@
 
 
 message_0:
-      text: \n<PIZZERMAN>Witam uprzejmie w \c[11]PIZZERII U GINA\c[0]!\!<br>W czym mogę pomóc?
+      text: \n<GOŚĆ OD PIZZY>Witam uprzejmie w \c[11]PIZZERII U GINA\c[0]!\!<br>W czym mogę pomóc?
 
 
 message_1:
@@ -20,7 +20,7 @@ message_1:
 
 
 message_2:
-      text: \n<PIZZERMAN>Rozumiem!\! Czego sobie życzysz?\!<br>Och... No przecież...\! Masz ochotę na...\! pizzę?\! Mniam, mniam...
+      text: \n<GOŚĆ OD PIZZY>Rozumiem!\! Czego sobie życzysz?\!<br>Och... No przecież...\! Masz ochotę na...\! pizzę?\! Mniam, mniam...
 
 
 message_3:
@@ -30,7 +30,7 @@ message_3:
 
 
 message_4:
-      text: \n<PIZZERMAN>O...\! No tak...\! To wasza rodzina zawsze zamawia od nas kanapki...\! zamiast pizzy...
+      text: \n<GOŚĆ OD PIZZY>O...\! No tak...\! To wasza rodzina zawsze zamawia od nas kanapki...\! zamiast pizzy...
 
 
 message_5:
@@ -40,11 +40,11 @@ message_5:
 
 
 message_6:
-      text: \n<PIZZERMAN>Hmm...\! taa...\! masz rację...\! Na to wychodzi...
+      text: \n<GOŚĆ OD PIZZY>Hmm...\! taa...\! masz rację...\! Na to wychodzi...
 
 
 message_7:
-      text: \n<PIZZERMAN>W porządku! Już po nią lecę!
+      text: \n<GOŚĆ OD PIZZY>W porządku! Już po nią lecę!
 
 
 #KEL turns to PLAYER.
@@ -63,7 +63,7 @@ message_9:
 
 
 message_10:
-      text: \n<PIZZERMAN>Proszę, oto twoja \c[3]KANAPKA HEROSA\c[0].\! Smacznego!
+      text: \n<GOŚĆ OD PIZZY>Proszę, oto twoja \c[3]KANAPKA HEROSA\c[0].\! Smacznego!
 
 
 #KEL turns to PIZZA MAN.

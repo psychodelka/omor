@@ -64,7 +64,7 @@ message_10:
 message_24:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Ty zdradzisz mi gdzie jest AUBREY, a ja nie powiem sprzedawcy, że ukradłaś te \c[3]CUKSY\c[0].\kel
+      text: Ty zdradzisz mi, gdzie jest AUBREY, a ja nie powiem sprzedawcy, że ukradłaś te \c[3]CUKSY\c[0].\kel
  
 message_11:
       text: I ktoś tu mówił, że nie będzie kablować!\kim
@@ -178,7 +178,7 @@ message_45:
       text: Jak powiesz nam, gdzie jest AUBREY, to dam ci tą całą \c[4]WIELKĄ TORBĘ CUKSÓW\c[0]!\kel
  
 message_46:
-      text: N-naprawdę? całą?\!<br>Znaczy, czekaj-\! \Com[2]Nie sprzedamy się za kilka \c[3]CUKSÓW\c[0]!\!<br>Za kogo ty nas masz?\kim
+      text: N-naprawdę? Całą?\!<br>Znaczy, czekaj...\! \Com[2]Nie sprzedamy się za kilka \c[3]CUKSÓW\c[0]!\!<br>Za kogo ty nas masz?\kim
  
 #VANCE looks at KIM.
  
@@ -220,7 +220,7 @@ message_55:
 message_56:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Proszę, weźcie tą \c[4]WIELKĄ TORBĘ CUKSÓW\c[0].\!<br>Mamy...\! Mamy nawet... te z toffi.\kel
+      text: Proszę, weźcie tę \c[4]WIELKĄ TORBĘ CUKSÓW\c[0].\!<br>Mamy...\! Mamy nawet... te z toffi.\kel
  
 #KIM and VANCE stop.
  
@@ -426,7 +426,7 @@ message_124:
 message_125:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Ta, źle bym się czuł przerywając.\! <br>Chyba powinniśmy poczekać, aż msza się skończy, czy coś.\kel
+      text: Ta, źle bym się czuł, przerywając.\! <br>Chyba powinniśmy poczekać, aż msza się skończy, czy coś.\kel
  
 message_126:
       faceset: MainCharacters_Faraway
@@ -481,7 +481,7 @@ message_160:
 message_161:
       faceset: MainCharacters_Faraway
       faceindex: 5
-      text: \}\Com[2]Co do-?\! C-co wy tu, do jasnej anielki, robicie!?\aub
+      text: \}\Com[2]Co do...?\! C-co wy tu, do jasnej anielki, robicie!?\aub
  
 message_162:
       faceset: MainCharacters_Faraway
@@ -531,12 +531,12 @@ message_170:
 message_171:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: \}...\! Rozumiem, że masz teraz nowych przyjaciół, ale nie może tak po prostu zapomnieć tych dawnych!\kel
+      text: \}...\! Rozumiem, że masz teraz nowych przyjaciół, ale nie możesz tak po prostu zapomnieć tych starych!\kel
  
 message_172:
       faceset: MainCharacters_Faraway
       faceindex: 3
-      text: \}Dawnych?\aub
+      text: \}Starych?\aub
  
 message_173:
       faceset: MainCharacters_Faraway
@@ -546,7 +546,7 @@ message_173:
 message_174:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \}Dawnych przyjaciół nie było przy mnie, kiedy ich potrzebowałam.\aub
+      text: \}Starych przyjaciół nie było przy mnie, kiedy ich potrzebowałam.\aub
  
 message_175:
       faceset: MainCharacters_Faraway
@@ -578,7 +578,7 @@ message_179:
 message_180:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \}To nie oznacza, że możesz od tak go sobie ukraść!\kel
+      text: \}To nie oznacza, że możesz ot tak go sobie ukraść!\kel
  
 message_181:
       faceset: MainCharacters_Faraway
@@ -605,7 +605,7 @@ message_184:
 message_185:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \}Wiesz, czemu przychodzę tutaj co tydzień?\!<br>Pomimo, że minęło tyle czasu, nadal próbuję odnaleźć spokój,\! <br>a dzisiaj skutecznie mi w tym przeszkadzacie.\aub
+      text: \}Wiesz, czemu przychodzę tutaj co tydzień?\!<br>Pomimo że minęło tyle czasu, nadal próbuję odnaleźć spokój,\! <br>a dzisiaj skutecznie mi w tym przeszkadzacie.\aub
  
 message_186:
       faceset: MainCharacters_Faraway
@@ -703,7 +703,7 @@ message_202:
 message_203:
       faceset: MainCharacters_Faraway
       faceindex: 11
-      text: A ja wielkim, złym potworem,\!<br>znęcającym się nad biednym, bezbronnym BASILEM.\aub
+      text: A ja wielkim, złym potworem,\! znęcającym się nad biednym i bezbronnym BASILEM.\aub
  
 message_204:
       faceset: MainCharacters_Faraway
@@ -794,6 +794,6 @@ message_402:
       text: \n<WIERNY>Nie będę was oceniać.\! Niech Pan was osądzi.
  
 message_403:
-      text: \n<WIERNY>Nareszcie ta dziewczyna uciekła.\! Może teraz moi przyjaciele wrócą z powrotem do \c[11]KOŚCIOŁA\c[0]!
+      text: \n<WIERNA>Nareszcie ta dziewczyna uciekła.\! Może teraz moi przyjaciele wrócą z powrotem do \c[11]KOŚCIOŁA\c[0]!
  
 

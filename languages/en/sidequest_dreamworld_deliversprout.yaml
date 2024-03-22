@@ -43,11 +43,11 @@ message_7:
 
 
 message_8:
-      text: \n<BRAT KIEŁKUN>...\! Hej, to od mojego brata!\!<br>Wow, w środku jest 99 sztuk \c[3]TOFU\c[0]! To najlepszy prezent w moim życiu!\!<br>Chlip... Tak dobrze mnie zna...
+      text: \n<BRAT KIEŁKUN>...\! Hej, to od mojego brata!\!<br>Wow, w środku jest 99 sztuk \c[3]TOFU\c[0]! To najlepszy prezent, jaki dostałem w życiu!<br>Chlip... Tak dobrze mnie zna...
 
 
 message_9:
-      text: \n<BRAT KIEŁKUN>Dzięki, że mi ją dostarczyliście!\!<br>Wiecie, trzymałem to na deszczową godzinę...\! ale skoro mam moją \c[4]SZLACHETNĄ PACZKĘ\c[0], nie będę już tego potrzebować.
+      text: \n<BRAT KIEŁKUN>Dzięki, że mi ją dostarczyliście!<br><br><br>Wiecie, trzymałem to na deszczową godzinę...\! ale skoro mam moją \c[4]SZLACHETNĄ PACZKĘ\c[0], nie będę już tego potrzebować.
 
 
 message_10:

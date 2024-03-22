@@ -25,7 +25,7 @@ message_3:
 
 
 message_4:
-    text: \n<PIANEK>Wow, naprawdę znacie się na rzeczy!\! Na dowód mojej wdzięczności weźcie tą \c[3]KAWĘ\c[0]!\! Dał mi ją mój przyjaciel!
+    text: \n<PIANEK>Wow, naprawdę znacie się na rzeczy!\! Na dowód mojej wdzięczności weźcie tę \c[3]KAWĘ\c[0]!\! Dał mi ją mój przyjaciel!
 
 
 message_5:
@@ -48,7 +48,7 @@ message_7:
 
 
 message_9:
-    text: \n<PIANEK>Dzięki! Czuję się teraz o wiele silniejszy...\! Na dowód mojej wdzięczności weźcie tą \c[3]KAWĘ\c[0]!\! Dał mi ją mój przyjaciel!
+    text: \n<PIANEK>Dzięki! Czuję się teraz o wiele silniejszy...\! Na dowód mojej wdzięczności weźcie tę \c[3]KAWĘ\c[0]!\! Dał mi ją mój przyjaciel!
 
 
 message_10:
@@ -115,7 +115,7 @@ message_24:
 
 message_25:
     text: >
-     \>PIANEK: \<Nauczyłem się kilku \c[1]ZDOLNOŚCI\c[0] od czasu naszej poprzedniej walki!\! Lepiej na siebie uważajcie!
+     \>PIANEK: \<Nauczyłem się kilku \c[1]ZDOLNOŚCI\c[0] od czasu naszej poprzedniej walki!\!<br>Lepiej na siebie uważajcie!
 
 
 message_26:

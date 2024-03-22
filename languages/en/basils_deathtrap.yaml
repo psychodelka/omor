@@ -147,7 +147,7 @@ message_60:
 message_61:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: \basChodzi...\! umm...\! o MARI...\!<br>Wiesz może o czym mówię?
+      text: \basChodzi...\! umm...\! o MARI...\!<br>Wiesz może, o czym mówię?
  
 message_62:
       faceset: MainCharacter_Basil

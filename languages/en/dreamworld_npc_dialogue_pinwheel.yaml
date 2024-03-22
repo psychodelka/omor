@@ -14,7 +14,7 @@
 #FRANCUSKI PIESEK
 #Location: TRAIN STATION
 message_0:
-      text: \n<FRANCUSKI PIESEK>Fran...\! cuski...\! piesek!\! To ja!\! Francuski piesek!
+      text: \n<FRANCUSKI PIESEK>Ja...\! cię...\! kręcę!\! To ja!\! Francuski piesek!
 
 
 #KITE KID
@@ -44,7 +44,7 @@ message_3:
 
 
 message_4:
-      text: \n<ALI GATOR>Koniec.
+      text: \n<ALI GATOR>Odbiór.
 
 
 #GIBS
@@ -64,7 +64,7 @@ message_7:
 message_8:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubŁał, proszę pana!\. To było naprawdę niesa...\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|
+      text: \aubWow, proszę pana!\. To było naprawdę niesa...\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|
 
 
 message_9:

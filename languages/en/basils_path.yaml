@@ -118,7 +118,7 @@ message_23:
 message_24:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basTo chyba dlatego kojarzą mi się z MARI!\!<br>Zawsze pomaga mi być pozytywnym!
+      text: \basTo chyba dlatego kojarzą mi się z MARI!\!<br>Ona zawsze pomaga mi być pozytywnym!
  
 #========================================================================================================================
 #BATTLE TUTORIAL - ANGRY
@@ -200,7 +200,7 @@ message_43:
 message_44:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basHERO nie kojarzy mi się z żadnym konkretnym kolorem.\!<br>Wydaje mi się, że HERO jest jak wszystkie róże, jest wszechstronnie utalentowany i uwielbiany przez wszystkich!
+      text: \basHERO nie kojarzy mi się z żadnym konkretnym kolorem.\!<br><br><br>Wydaje mi się, że HERO jest jak wszystkie róże, jest wszechstronnie utalentowany i uwielbiany przez wszystkich!
  
 #GLADIOLUS
  
@@ -337,7 +337,7 @@ message_202:
       text: \basTe kwiaty to konwalie.\! Mówi się, że odpędzają złe duchy i pomagają ludziom zobaczyć świetlaną przyszłość...
  
 message_203:
-      text: \basTo chyba dlatego kojarzą mi się z MARI!\!<br>Zawsze pomaga mi być pozytywnym!
+      text: \basTo chyba dlatego kojarzą mi się z MARI!\!<br>Ona zawsze pomaga mi być pozytywnym!
  
 message_204:
       text: \basRóże mogą mieć różne kolory i każdy z nich ma swoje własne znaczenie.
@@ -549,7 +549,7 @@ message_166:
 message_167:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: Trzymaj! Rozrysowałem ci, jak działają emocje!\! Nie jestem artystą, ale chyba będziesz wiedział, o co chodzi.\! Wsadzę ci ten schemat do kieszeni, żebyś mógł sprawdzić go później.\her
+      text: Trzymaj! Rozrysowałem ci, jak działają emocje!\! Nie jestem artystą, ale chyba będziesz wiedział, o co chodzi.<br><br>Wsadzę ci ten schemat do kieszeni, żebyś mógł sprawdzić go później.\her
  
 message_168:
       text: Zdobyłeś \c[4]SCHEMAT EMOCJI\c[0].

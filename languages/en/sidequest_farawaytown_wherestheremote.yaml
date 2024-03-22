@@ -112,7 +112,7 @@ message_22:
 
 
 message_23:
-      text: \n<PRAWDZIWY POLAK>Byliście prawdziwymi mistrzami przez ostatnie kilka dni.\! Nie wiem, jak wam wystarczająco podziękować!\! Jeśli kiedyś znowu zgubię mojego \c[4]PILOTA\c[0], będę wiedział, do kogo się zwrócić o pomoc!
+      text: \n<PRAWDZIWY POLAK>Byliście prawdziwymi mistrzami przez ostatnie kilka dni.\! Nie wiem, jak wam wystarczająco podziękować!<br><br>Jeśli kiedyś znowu zgubię mojego \c[4]PILOTA\c[0], będę wiedział, do kogo się zwrócić o pomoc!
 
 
 message_30:

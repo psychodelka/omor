@@ -56,7 +56,7 @@ message_41:
 message_42:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Hej, BASIL-\! Chwila...\! nie jesteś BASILEM...\kel
+      text: Hej, BASIL...\! Chwila...\! nie jesteś BASILEM...\kel
  
 message_43:
       text: Ach, wybaczcie! Nazywam się POLLY.\! <br>Opiekuję się nim.\n<POLLY>
@@ -193,7 +193,7 @@ message_65:
 message_66:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Tak w ogóle nie martw się o te zagubione zdjęcia, BASIL.\! <br>Ja i \n[8] spróbujemy je znaleźć.\kel
+      text: Tak w ogóle, nie martw się o te zagubione zdjęcia, BASIL.\! <br>Ja i \n[8] spróbujemy je znaleźć.\kel
  
 message_67:
       faceset: MainCharacters_Faraway
@@ -336,7 +336,7 @@ message_121:
 message_122:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Mlask... mlask... mlask... mlask...\! Więc, jak już mówiłem... <br>POLLY... \!Jutro... mlask... \!<br>Mój starszy brachu, HERO, w końcu wraca ze studiów.\kel
+      text: Mlask... mlask... mlask... mlask...\! Więc jak już mówiłem... <br>POLLY... \!Jutro... mlask... \!<br>Mój starszy brachu, HERO, w końcu wraca ze studiów.\kel
  
 message_123:
       faceset: MainCharacters_Faraway

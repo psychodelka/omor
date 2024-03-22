@@ -75,7 +75,7 @@ message_770:
       text: GIGANTOS
 
 message_771:
-      text: BUM
+      text: CYK
 
 message_772:
       text: ROBOT
@@ -129,7 +129,7 @@ message_805:
     text: \n<ALEKSANDER POWAŻANY>Jako członek poważanej elity kryję hasło...\! ale pewnie nic o tym nie wiesz.
 
 message_806:
-    text: \n<BRAJAN DYSTYNGOWANY>Uważajcie, gdzie stąpacie...\! Jesteście w obecności członka dystyngowanej elity SŁODZIUTKIEJ.\! Mądrości tego zamku będe strzegł własnym życiem!
+    text: \n<BRAJAN DYSTYNGOWANY>Uważajcie, gdzie stąpacie...\! Jesteście w obecności członka dystyngowanej elity SŁODZIUTKIEJ.\! Mądrości tego zamku będę strzegł własnym życiem!
 
 message_807:
     text: \n<KAROLINA WSPANIAŁA>Obrona świętego hasła jest żmudnym zadaniem.<br>\!Może pewnego dnia na was, młode kiełki, będziecie ciążyć to samo brzemie, co na wspaniałej elicie.
@@ -215,7 +215,7 @@ message_831:
     text: \n<GIGANTOS>\sinv[1]Uuuuuuuuu... \sinv[0]\c[4]LEPKA KARTA\c[0]!
 
 message_832:
-    text: \n<GIGANTOS>\sinv[1]Mniam, mniam!\sinv[0]\! Więc...\! Chcieliście zejść na dół?
+    text: \n<GIGANTOS>\sinv[1]Mniam, mniam!\sinv[0]\! Więc...\! chcieliście zejść na dół?
 
 message_833:
     text: \n<GIGANTOS>\sinv[1]W porząsiu~\! Zaraz tam będę! \quake[1]Mniam, mniam!\quake[0]
@@ -243,7 +243,7 @@ message_860:
 message_861:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Wiesz, \n[8].\! Byłeś całkiem niezły...\! od tak wskoczyłeś do jeziora, żeby uratować BASILA.\kel
+      text: Wiesz, \n[8].\! Byłeś całkiem niezły...\! ot tak wskoczyłeś do jeziora, żeby uratować BASILA.\kel
 
 message_867:
       faceset: MainCharacters_Faraway
@@ -685,7 +685,7 @@ message_395:
 #Mole closest to door
 
 message_517:
-    text: \n<RÓŻOWY? KIEŁKUN>\com[2]\sinv[1]\{\{POMOOOOOOOOOOOOOOOOOOOOOOOOOOOCY!!
+    text: \n<RÓŻOWY? KIEŁKUN>\com[2]\sinv[1]\{\{POMOOOOOOOOOOOOOOOOCY!!
 
 # -----------------------------------------------
 # - SWEETHEART'S CASTLE: TORTURE ROOM (184)
@@ -732,7 +732,7 @@ message_246:
 # -----------------------------------------------
 
 message_522:
-    text: Posąg wykonany jest z zkrystalizowanych łez wrogów SŁODZIUTKIEJ.
+    text: Posąg wykonany jest z skrystalizowanych łez wrogów SŁODZIUTKIEJ.
 
 message_391:
     text: Stałeś się sztuką.
@@ -789,7 +789,7 @@ message_535:
     text: \n<KIEŁKUN KAMERDYNDER>Hmf! \sinv[1]Elegaaaaanckie\sinv[0] wąsy, powiadasz!?<br>\!Jakie wąsy!?\! Widzę tylko parę długich włochów z nosa!
 
 message_536:
-    text: \n<KIEŁKUN KAMERDYNDER>Kochany bracie...\! \com[2]Działasz mi na łodyżki!\!<br>Lecz wiem jak to rozwikłać!
+    text: \n<KIEŁKUN KAMERDYNDER>Kochany bracie...\! \com[2]Działasz mi na łodyżki!\!<br>Lecz wiem, jak to rozwikłać!
 
 message_537:
     text: \n<KIEŁKUNY KAMERDYNERZY>\{\{TOWARZYSZE KIEŁKUNI!!
@@ -1666,7 +1666,7 @@ message_181:
 #'NEFARIOUS Chip'
 
 message_406:
-    text: \n<NEFARIOUS CHIP>\com[2]\{\sinv[1]HUM, HUM, HUM, HUM, HUM!
+    text: \n<NIKCZEMNY CHRUPCIO>\com[2]\{\sinv[1]HUM, HUM, HUM, HUM, HUM!
 
 #'PRAWDZIWY KUN' in DOOM TOMB
 
@@ -1946,10 +1946,10 @@ message_127:
     text: \n<MYTOGATOR>O kuźwa!
 
 message_128:
-    text: \n<MYTOGATOR>Szefie, proszę! Ja nie kimałem... Ja tylko-
+    text: \n<MYTOGATOR>Szefie, proszę! Ja nie kimałem... Ja tylko...
 
 message_129:
-    text: \n<MYTOGATOR>O... To tylko zgraja dzieciaków...\!<br>Pewnie chcecie, żebym otworzył przejazd.
+    text: \n<MYTOGATOR>O... To tylko zgraja dzieciaków...\!<br>Pewnie chcecie, żebym podniósł szlaban.
 
 message_130:
     text: \n<MYTOGATOR>No, będę z wami szczery... Naciągają was na hajs za przejazd. \!Do zapłaty będzie 3000 MAŁŻY, ale na waszym miejscu znalazłbym jakieś inne przejście.<br>Dalej chcecie, żebym otworzył bramkę?\$
@@ -2080,13 +2080,13 @@ message_621:
 # -----------------------------------------------
 
 message_235:
-    text: \n<GIGANTOS>Na kąpiel?\! Ja też!
+    text: \n<GIGANTOS>Przyszliście popływać?\! Ja też!
 
 message_236:
     text: \n<GIGANTOS>Ej, patrzcie na to, ludzie.
 
 message_237:
-    text: \n<GIGANTOS>Czy wiedziałeś, że my, GIGANTOS, jesteśmy wyjątkowo silnym, by wstrzymać prąd wodospadu?\! Spójrz!
+    text: \n<GIGANTOS>Czy wiedzieliście, że my, GIGANTOS, jesteśmy wyjątkowo silnym, by wstrzymać prąd wodospadu?\! Spójrzcie!
 
 message_238:
     text: \n<GIGANTOS>Fujka!\! No może oprócz tego gościa...<br>\!No cóż! Tak działa naturalna selekcja.
@@ -2143,7 +2143,7 @@ message_397:
 message_398:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: Byłbym...\! naprawdę wdzięczny...\! gdybyście zwinęli to...\! za jakąś chwilkę...\!\her
+      text: Byłbym...\! naprawdę wdzięczny...\! gdybyście mogli załatwić to...\! za szybką chwilkę...\!\her
 
 message_399:
       faceset: MainCharacters_DreamWorld
@@ -2272,7 +2272,7 @@ message_454:
     text: \n<GIGANTOS>Dzięki mocy nowoczesnej technologii mogę wysłać tego KIEŁKUNA na drugą stronę pola!\! Spójrzcie!
 
 message_455:
-    text: \n<GIGANTOS>\com[2]Co!? Błąd?\! ...\!<br>Ktoś musiał grzebać przy systemie.<br><br>Ech...\! To pewnie znowu MOLLY...\!<br>Zawsze robi takie numery...
+    text: \n<GIGANTOS>\com[2]Co?! Błąd?\! ...\!<br>Ktoś musiał grzebać przy systemie.<br><br>Ech...\! To pewnie znowu MOLLY...\!<br>Zawsze wykręca takie numery...
 
 message_456:
     text: \n<GIGANTOS>Psiakrew, MOLLY!\! Rano wszystko działało bez zarzutów...
@@ -2326,7 +2326,7 @@ message_463:
     text: \n<GIGANTOS>...
 
 message_700:
-    text: \n<GIGANTOS>Właściwie... Mam pomysł!\! Czy któreś z was mogłoby przebiec dla mnie przez te metalowe płyty?\!<br>Chciałbym coś sprawdzić.
+    text: \n<GIGANTOS>Właściwie... mam pomysł!\! Czy któreś z was mogłoby przebiec dla mnie przez te metalowe płyty?\!<br>Chciałbym coś sprawdzić.
 
 message_701:
     text: \n<GIGANTOS>Przedyskutujcie i zagłosujcie.
@@ -2347,7 +2347,7 @@ message_466:
 message_467:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: Co!? Czemu ja!?\!<br>No dobra... ale mam co do tego złe przeczucie.\kel
+      text: Co?! Czemu ja?!\!<br>No dobra... ale mam co do tego złe przeczucie.\kel
 
 message_468:
       faceset: MainCharacters_DreamWorld
@@ -2358,7 +2358,7 @@ message_469:
     text: \n<GIGANTOS>Prędko! Nie mam na to całego dnia!
 
 message_470:
-    text: \n<GIGANTOS>\com[2]A-ha! Wiedziałem, że któryś z kolców był złamany...
+    text: \n<GIGANTOS>\com[2]A-ha! Wiedziałem, że któreś z tych kolców nie działają...
 
 message_471:
     text: \n<GIGANTOS>Wypiłbym sobie kawę!
@@ -2427,7 +2427,7 @@ message_330:
 message_331:
     faceset: MainCharacters_DreamWorld
     faceindex: 49
-    text: \n<HERO>Ekhem...\! Witam, mości TAŚMOBOCIE...\! Moi kompani oraz ja żądamy pańskiej pomocy ze zmianą kursu ruchu taśmociągów.\! Czy wraz z waćpana współpracownikami bylibyście w mocy nam pomóc?
+    text: \n<HERO>Ekhem...\! Witam, mości TAŚMOBOCIE...\! Moi kompani oraz ja żądamy pańskiej pomocy ze zmianą kursu ruchu taśmociągów.<br>Czy wraz z waćpana współpracownikami bylibyście w mocy nam pomóc?
 
 message_332:
     text: \n<PAN TAŚMOBOT>\quake[1]Bzzt...\! Hmf...\! Miła osoba...\quake[0]
@@ -2456,7 +2456,7 @@ message_337:
     text: \kelEj, złomogłowie!<br>Zmieniłbyś dla nas tory, co?
 
 message_338:
-      text: \n<CONVEYOR-BOT>\quake[1]Bzzzzzt!\! Aach...\! Hmm...\! Niemiła osoba...\!<br>Hehe...\! Tak jak MOLLY...\quake[0]
+      text: \n<TAŚMOBOT>\quake[1]Bzzzzzt!\! Aach...\! Hmm...\! Niemiła osoba...\!<br>Hehe...\! Tak jak MOLLY...\quake[0]
 
 message_339:
     faceset: MainCharacters_DreamWorld
@@ -2497,7 +2497,7 @@ message_493:
     text: \n<GIGANTOS>Za bardzo lubi się bawić. Gdyby tylko się skupiła, mogłaby zrobić tyle dobrego dla świata!
 
 message_494:
-    text: \n<GIGANTOS>Dobrze, że jeszcze raz spojrzałem przed napisaniem tego "M", inaczej prawie napisałbym kolejne "B"...
+    text: \n<GIGANTOS>Dobrze, że jeszcze raz spojrzałem przed napisaniem tego "K", inaczej prawie napisałbym kolejne "C"...
 
 message_495:
     text: \n<GIGANTOS>Byłoby kiepsko, co?
@@ -2612,7 +2612,7 @@ message_265:
     text: \n<RECYKULTYSTA>Niuch... Niuch...\! Fuuu...\!<br>Trochę się ubrudziłem. Muszę iść do domu i wziąć prysznic.
 
 message_266:
-    text: \n<RECYKULTYSTA>Siema...\! Pewnie będziesz mieć to gdzieć, ale...<br>tak naprawdę w to nie wierzę.
+    text: \n<RECYKULTYSTA>Siema...\! Pewnie będziesz mieć to gdzieś, ale...<br>tak naprawdę w to nie wierzę.
 
 message_267:
     text: \n<RECYKULTYSTA>Moja dziewczyna mnie w to wciągnęła...\! Ma małego bzika na punkcie tego całego recyklingu...
@@ -2645,7 +2645,7 @@ message_283:
     text: \n<RECYKULTYSTA>Wygląda na to, że pozostała nam jedynie poddana...\! Dobra, zmywamy się.\! Ma ktoś ochotę na grilla wieczorem?
 
 message_284:
-    text: \n<NAWRÓCONY? RECYKULTYSTA>Więc, chyba, ech...\! też powinniśmy się zbierać.
+    text: \n<NAWRÓCONY? RECYKULTYSTA>Więc chyba, ech...\! też powinniśmy się zbierać.
 
 #Block guy
 

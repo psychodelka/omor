@@ -2,125 +2,157 @@
 # Cutscene: Hero's CHARM Tag Skill
 # =========================================================================================
 
+
 message_30:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: It's no good. I can't even dent this thing!\aub
+      text: Czarno to widzę. Ani nie drgnie!\aub
+
 
 message_31:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Hmmm...\! Hold on a sec...\her
+      text: Hmmm...\! Zaczekaj chwilkę...\her
+
 
 message_32:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: This is cheese, isn't it?\her
+      text: To ser, co nie?\her
+
 
 message_33:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Whoa, you're right!\! It is cheese!\kel
+      text: O kurde, racja!\! To ser!\kel
+
 
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: Okay, guys.\! Hear me out.\! This might sound crazy but...<br>What if...\! we eat the cheese.\kel
+      text: No dobra, mordki.\! Słuchajcie.\! Wiem, że to szalona myśl, ale...<br>co wy na to, żeby...\! zjeść cały ten ser.\kel
+
 
 message_35:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: If we all start now...\!<br>We can probably finish this in a couple of hours or so!\kel
+      text: Jeśli zaczniemy teraz...\! na luzie wyrobimy się w parę godzin!\kel
+
 
 message_36:
       faceset: MainCharacters_DreamWorld
       faceindex: 27
-      text: Just a warning, though. Cheese gets me kind of gassy...\kel
+      text: Tylko ostrzegam, po serze wydobywają się ze mnie najgorsze wiatry...\kel
+
 
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \{\Com[2]EWWWWW, KEL!\aub\}
+      text: \{\Com[2]FUUUJKA, KEL!\aub\}
+
 
 message_38:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: H-Hold up, KEL. There's no need for that.\her
+      text: Ch-chwila, KEL. To nie będzie konieczne.\her
+
 
 message_39:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: I think I may have the perfect solution!\her
+      text: Chyba mam idealne rozwiązanie!\her
+
 
 message_40:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: TAG me, OMORI.\!<br>I know just how to handle this.\her
+      text: ZACZEP mnie, OMORI.\!<br>Ja się tym zajmę.\her
+
+
 
 
 # =========================================================================================
 # Cutscene: Hero's CHARM Tag Skill (Cont.)
 # =========================================================================================
 
+
 #Trigger: Tag HERO and examine Cheese.
+
 
 # EMS spirals down from the sky
 
+
 message_50:
-      text: \}Hello, friends!\! It's me... EMS, the humble hungry hamster!\ems
+      text: \}Siemka, ziomki!\! To ja... EMI, gromki głodny gryzoń!\n<EMI>
+
 
 #EMS looks around.
 
+
 message_51:
-      text: \}Oh wow, is this all for me? What a treat!\!<br>How did you know that cheese is my favorite?\ems
+      text: \}Ja cię, to wszystko dla mnie? Ale będzie wyżerka!\!<br>Skąd wiedzieliście, że uwielbiam ser?\n<EMI>
+
 
 message_52:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: I don't have to guess, EMS!\!<br>Everything is your favorite.\her
+      text: Nie ciężko zgadnąć, EMI!\!<br>Wielbisz wszystko, co jadalne.\her
+
 
 #HERO turns to party.
+
 
 message_53:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Everyone, this is EMS!\! She's a good friend of mine.\her
+      text: Poznajcie EMI!\! Jest moją dobrą znajomą.\her
+
 
 message_54:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: You know what to do, EMS!\her
+      text: Wiesz, co robić, EMI!\her
+
 
 message_55:
-      text: \}I sure do!\! \Com[2]Be done in a jiffy!\ems
+      text: \}Jeszcze jak!\! \Com[2]Daj mi sekundkę!\n<EMI>
+
 
 #EMS begins to devour the cheese.
+
 
 message_56:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: Whoa...\kel
+      text: Ło...\kel
+
 
 message_57:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: How does all of that even fit in her body?\aub
+      text: Gdzie ona to wszystko mieści?\aub
+
 
 message_58:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: I try not to think about it.\her
+      text: Nie radzę się nad tym główkować.\her
+
 
 message_59:
-      text: The cheese has been eaten, and the path has been cleared.
+      text: Ser został zjedzony, a droga odblokowana.
+
 
 message_60:
-      text: \}Well now, that was incredibly satisfying!\ems
+      text: \}To dopiero była wyśmienita wyżerka!\n<EMI>
+
 
 message_61:
-      text: \}If you're ever in need of any giant cheese-eating services again, you know who to call!\ems
+      text: \}Jeśli kiedykolwiek będziecie musieli się pozbyć gigantycznej ilości sera w krótkim czasie, jestem do usług!\n<EMI>
+
 
 message_62:
-      text: \}Goodbye, friends!\ems
+      text: \}Narka, przyjaciele!\n<EMI>
+
 
 #EMS spirals into the sky.

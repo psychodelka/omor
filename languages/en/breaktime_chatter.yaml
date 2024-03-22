@@ -619,7 +619,7 @@ message_107:
 message_108:
     faceset: MainCharacter_Mari
     faceindex: 1
-    text: \marHmm, pomyślmy...\! W tej okolicy zwykle widuję stukniętych turystów i ALI GATORY.
+    text: \marHmm, pomyślmy...\! W tej okolicy zwykle widuję stukniętych turystów i ALICH GATORY.
  
  
 message_109:
@@ -725,7 +725,7 @@ message_126:
 message_127:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelWygląda na to, że było tu kiedyś jakieś biuro czy coś.\! Nie jest to jakieś legowisko pełne wodnych czarownic?\! Nic nie wygląda tu ani trochę czarodziejsko.
+    text: \kelWygląda na to, że było tu kiedyś jakieś biuro czy coś.\! Czy to nie jest przypadkiem jakieś legowisko pełne wodnych czarownic?\! Nic nie wygląda tu ani trochę czarodziejsko.
  
 message_128:
     faceset: MainCharacters_DreamWorld
@@ -1039,7 +1039,7 @@ message_183:
 message_184:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marI nawet nie jest mi nudno, bo BASIL zawsze dotrzymuje mi towarzystwa.
+    text: \marI nawet mi się nie nudzi, bo BASIL zawsze dotrzymuje mi towarzystwa.
  
 message_185:
     faceset: MainCharacter_Basil
@@ -1220,12 +1220,12 @@ message_222:
 message_223:
     faceset: MainCharacters_DreamWorld
     faceindex: 38
-    text: \herO! A potem powinniśmy poddać je recyklingowi w RECYKLARCE!\! Jestem pewien, że przeszliśmy obok jednej, idąc do KAP. KOS- znaczy się, KOSMOCHŁOPAKA!
+    text: \herO! A potem powinniśmy poddać je recyklingowi w RECYKLARCE!\! Jestem pewien, że przeszliśmy obok jednej, idąc do KPT. KOS- znaczy się, KOSMOCHŁOPAKA!
  
 message_224:
     faceset: MainCharacters_DreamWorld
     faceindex: 7
-    text: \aubUff...\! Zapomnijcie o \c[5]PUSZKACH\c[0]...\! musimy znaleźć tą \c[4]SPECJALNĄ SKŁADANKĘ\c[0] i się stąd wydostać.
+    text: \aubUff...\! Zapomnijcie o \c[5]PUSZKACH\c[0]...\! musimy znaleźć tą \c[4]SUPER-SKŁADANKĘ\c[0] i się stąd wydostać.
  
 message_225:
     faceset: MainCharacter_Mari

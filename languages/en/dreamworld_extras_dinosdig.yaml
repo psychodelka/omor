@@ -59,7 +59,7 @@ message_11:
       text: \n<DINO>\sinv[1]\com[2]\{DINOBIECUJĘ!
  
 message_12:
-      text: \n<DINO>Pozwólcie mi opowiedzieć to i owo o naszym miejscu wykopalisk.\! \c[11]PIRAMIDA ŻYWIENIOWA\c[0] ma cztery poziomy.\! Zawsze zaczyna się od pierwszego,<br>ale jeśli dopisze wam szczęście...
+      text: \n<DINO>Pozwólcie mi opowiedzieć to i owo o naszym miejscu wykopalisk.\! \c[11]PIRAMIDA ŻYWIENIOWA\c[0] ma cztery poziomy.<br>Zawsze zaczyna się od pierwszego, ale jeśli dopisze wam szczęście...
  
 message_13:
       text: \n<DINO>Możecie znaleźć \c[4]PIRAMIKLUCZ\c[0], który odblokowuje PIRAMIBRAMĘ do następnego piętra!\! Im wyżej, tym lepsze skarby!

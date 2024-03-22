@@ -44,7 +44,7 @@ message_8:
 
 
 message_9:
-      text: \n<PAN ZRZĘDA>Hej, dzieciaki!\! Jesteście tu w samą porę, by zobaczyć, jak naprawiam tę rurę raz na zawsze.!\! Wchodźcie, wchodźcie!
+      text: \n<PAN ZRZĘDA>Hej, dzieciaki!\! Jesteście tu w samą porę, by zobaczyć, jak naprawiam tę rurę raz na zawsze!\! Wchodźcie, wchodźcie!
 
 
 #Go in Vance's Dad's HOUSE
@@ -92,7 +92,7 @@ message_15:
 
 
 message_16:
-      text: \n<PAN ZRZĘDA>Ten uparty przeciek zamienia moje życie w istne piekło.\! Trochę przy nim grzebałem zeszłej nocy, ale to tylko pogorszyło sprawę!\! Może nadszedł czas, aby zadzwonić po profesjonalistę...
+      text: \n<PAN ZRZĘDA>Ten uparty przeciek zamienia moje życie w istne piekło.\! Trochę przy nim grzebałem zeszłej nocy, ale to tylko pogorszyło sprawę!<br>Może nadszedł czas, aby zadzwonić po profesjonalistę...
 
 
 message_17:
@@ -238,7 +238,7 @@ message_47:
 
 
 message_48:
-      text: \n<PAN ZRZĘDA>Wchodzcie!\! Myślę, że tym razem mi się uda!\!<br>Czuję to w głębi duszy!
+      text: \n<PAN ZRZĘDA>Wchodźcie!\! Myślę, że tym razem mi się uda!\!<br>Czuję to w głębi duszy!
 
 
 #Cutscene: It's Finally Fixed

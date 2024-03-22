@@ -257,10 +257,10 @@ message_32:
 #OWCA
 #Location: POMARAŃCZOWA OAZA
 message_33:
-      text: \n<OWCA>Na nasz miesiąc miodowy chcieliśmy pojechać do \c[11]OSTATNIEJ PRZYSTANI\c[0]...<br>ale nie było tam tak, jak sobie wyobrażaliśmy,<br>dlatego przyjechaliśmy tutaj, do \c[11]POMARAŃCZOWEJ OAZY\c[0]!
+      text: \n<OWCA>Na nasz miesiąc miodowy chcieliśmy pojechać do \c[11]OSTATNIEJ PRZYSTANI\c[0]... ale nie było tam tak, jak sobie wyobrażaliśmy, dlatego przyjechaliśmy tutaj, do \c[11]POMARAŃCZOWEJ OAZY\c[0]!
  
 message_34:
-      text: \n<OWCA>Nie wiem, czego się spodziewałam...\! Jest yyyyy...\!<br>Jest dość pomarańczowa.
+      text: \n<OWCA>Nie wiem, czego się spodziewałam...\! Jest, yyyyy...\!<br>Jest dość pomarańczowa.
  
 #WILK
 #Location: POMARAŃCZOWA OAZA
@@ -379,7 +379,7 @@ message_70:
       text: \n<ALI GATOR>Hej, nie chciałby pan jeszcze jednej \c[5]RECEPTURKI\c[0]?\!<br>Proszę brać, śmiało!\! Dla pana wszystko, szefie.
  
 message_71:
-      text: \n<ALI GATOR>Pan i pańscy przyjaciele z pewnością marzą o  \c[5]RECEPTURCE\c[0]...\!<br>nie żeby to był problem.\! Mam wszystkie \c[5]RECEPTURKI\c[0] świata!
+      text: \n<ALI GATOR>Pan i pańscy przyjaciele z pewnością marzą o \c[5]RECEPTURCE\c[0]...\!<br>nie, żeby to był problem.\! Mam wszystkie \c[5]RECEPTURKI\c[0] świata!
  
 message_72:
       text: \n<ALI GATOR>Znam to spojrzenie!\! Spojrzenie kogoś, kto chce kolejną \c[5]RECEPTURKĘ\c[0]!\! Proszę bardzo, szefie!\! Za to wszystko, co pan dla nas zrobił, przynajmniej tak mogę się odwdzięczyć!
@@ -389,7 +389,7 @@ message_73:
  
 #Repeats infinitely:
 message_74:
-      text: \n<ALI GATOR>Proszę, szefie!\! Niech pan weźmie kolejną \c[5]RECEPTURKĘ\c[0]!\!<br>Kolejna do kolekcji!
+      text: \n<ALI GATOR>Proszę, szefie!\! Niech pan weźmie kolejną \c[5]RECEPTURKĘ\c[0]!\!<br>Do kolekcji!
  
 message_75:
       text: Dostałeś \c[5]RECEPTURKĘ\c[0]!

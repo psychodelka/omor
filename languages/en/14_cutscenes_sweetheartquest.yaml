@@ -67,7 +67,7 @@ message_8:
 message_9:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: On ma rację, AUBREY. Musimy zrobić to wspólnie – jak grupa.\her
+      text: On ma rację, AUBREY. Musimy zrobić to wspólnie – jak drużyna.\her
  
 message_10:
       faceset: MainCharacters_DreamWorld
@@ -298,7 +298,7 @@ message_110:
 #Contestant #2 comes out and makes a circle around the stage.
  
 message_111:
-      text: KANDYDAT NR 2 to... Tak, zgadliście!\! <br>Również mieszkaniec WIOSKI KIEŁKUNÓW!\n<KIEŁKUN MIKOŁAJ>
+      text: KANDYDAT NR 2 to... tak, zgadliście!\! <br>Również mieszkaniec WIOSKI KIEŁKUNÓW!\n<KIEŁKUN MIKOŁAJ>
  
 message_112:
       text: Uwaga! Mierzy całe 94 cm wzrostu!!\!<br>Ma wiele zainteresowań. Takich jak:\ chodzenie, bieganie oraz pełzanie!\n<KIEŁKUN MIKOŁAJ>
@@ -342,7 +342,7 @@ message_122:
       text: Proszę...\! Jak najgoręcej przywitajcie...<br>\!jedną... \!jedyną... \!wspaniałą...\n<KIEŁKUN MIKOŁAJ>
  
 message_123:
-      text: \{\{\{\Com[2]SŁODZIU-\n<KIEŁKUN MIKOŁAJ>
+      text: \{\{\{\Com[2]SŁODZIU...\n<KIEŁKUN MIKOŁAJ>
  
 #Lightning strikes and hits SNALEY. He gets fried and turns into ashes, then blows away.
 #There is a blackout.

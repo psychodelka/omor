@@ -1,241 +1,314 @@
 
+
 # =========================================================================================
 # Sidequest: Birthday Gift 2
 # =========================================================================================
 
+
 #Talking to Jesse
 message_0:
-      text: You can hear loud music blasting through <br>HEADPHONE KID's headphones.
+      text: Głośna muzyka rozbrzmiewa ze słuchawek DZIECIAKA W SŁUCHAWKACH.
+
 
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 17 #insert number here
-      text: \kelPoke...
+      text: \kelSzturch...
+
 
 message_2:
-      text: \n<HEADPHONES KID>\Com[2]Gah!\! Who are you!?\! What do you want?
+      text: \n<DZIECIAK W SŁUCHAWKACH>\Com[2]Uaa!\! Kim jesteście?!\! Czego chcecie?
+
 
 message_3:
-      text: \n<HEADPHONES KID>...
+      text: \n<DZIECIAK W SŁUCHAWKACH>...
+
 
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelOh...\! Hey!\! JESSE, was it?\!<br>We're...\! uh...\! We're friends of your dad...
+      text: \kelYyy...\! Cześć!\! To ty jesteś JESSE?\!<br>Jesteśmy...\! eee...\! kolegami twojego taty...
+
 
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelHe asked us to call you down to the living room for cake!
+      text: \kelPoprosił, żebyśmy cię zawołali na krojenie tortu!
+
 
 message_6:
-      text: \n<HEADPHONES KID>Dad is friends with a bunch of teenagers?\! So weird...
+      text: \n<DZIECIAK W SŁUCHAWKACH>Tata przyjaźni się z jakimiś... nastolatkami?\! Dziwak...
+
 
 message_7:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelWhat's with the sour face? Isn't it your birthday today?\!<br>Why don't you come down to celebrate?\!<br>Your dad even got you a cool present!
+      text: \kelSkąd ta kwaśna mina? Chyba masz dziś urodziny, co nie?\!<br>Dawaj, zejdź na dół poświętować je ze swoim tatą.\!<br>Kupił ci fajowski prezent!
+
 
 message_8:
-      text: \n<HEADPHONES KID>\quake[1]Grrrrrrrrrr...\quake[0]\!<br>\Com[2]I told Dad not to do anything for me!
+      text: \n<DZIECIAK W SŁUCHAWKACH>\quake[1]Grrrrrrrrrr...\quake[0]\!<br>\Com[2]Mówiłem mu, żeby nic mi nie kupował!
+
 
 message_9:
-      text: \n<HEADPHONES KID>\Com[2]Just tell him to return everything and get out of my room!
+      text: \n<DZIECIAK W SŁUCHAWKACH>\Com[2]Powiedzcie, żeby zwrócił, cokolwiek kupił i trzymał się z dala od mojego pokoju!
+
 
 message_10:
       faceset: MainCharacters_Faraway
       faceindex: 21 #insert number here
-      text: \kelHey! I don't think I like your attitude...\!<br>\Com[2]What do you have against your dad!?
+      text: \kelHej! Miej trochę szacunku do swojego taty...\!<br>\Com[2]Co ty do niego masz?!
+
 
 message_11:
-      text: \n<HEADPHONES KID>...
+      text: \n<DZIECIAK W SŁUCHAWKACH>...
+
 
 message_12:
-      text: \n<HEADPHONES KID>Sigh...\! You see all this cool stuff I have here?
+      text: \n<DZIECIAK W SŁUCHAWKACH>Ech...\! Popatrzcie na te wszystkie nowiutkie rzeczy w pokoju.
+
 
 message_13:
-      text: \n<HEADPHONES KID>I...\! I got all this stuff from Mom.
+      text: \n<DZIECIAK W SŁUCHAWKACH>To...\! to wszystko prezenty od mamy.
+
 
 message_14:
-      text: \n<HEADPHONES KID>Mom doesn't live here anymore, but she sends me stuff like this all the time...
+      text: \n<DZIECIAK W SŁUCHAWKACH>Nie mieszka już z nami, ale dalej często wysyła mi podobne podarunki...
+
 
 message_15:
-      text: \n<HEADPHONES KID>But Dad...\! Dad isn't up to date with the trends...\! <br>Whatever he gets won't be as good as what I already have.\! So...\! whatever he gets is just a waste of his money...
+      text: \n<DZIECIAK W SŁUCHAWKACH>Ale tata...\! tata nie jest na bieżąco...\! <br>Prezent od niego nie będzie taki fajny.\! Więc...\! czego by dla mnie nie kupił, nie będzie to warte jego pieniędzy...
+
 
 message_16:
-      text: \n<HEADPHONES KID>So even if it's my birthday...\!<br>\Com[2]He doesn't need to get anything for me!
+      text: \n<DZIECIAK W SŁUCHAWKACH>Co z tego, że są moje urodziny...\!<br>\Com[2]Nie musi marnować na mnie pieniędzy!
+
 
 message_17:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelBut... he's doing all this for you because he wants to!\!<br>You should go down and celebrate.\!<br>It'll mean more to him than you know!
+      text: \kelAle... on robi to wszystko z własnej woli, nie z przymusu!\!<br>Powinieneś świętować razem z nim.\!<br>To dla niego ważniejsze, niż myślisz!
+
 
 message_18:
-      text: \n<HEADPHONES KID>But...\! I...
+      text: \n<DZIECIAK W SŁUCHAWKACH>Ale...\! ja...
+
 
 message_19:
       faceset: MainCharacters_Faraway
       faceindex: 23 #insert number here
-      text: \kel\Com[2]Just go!
+      text: \kel\Com[2]Po prostu idź!
+
 
 #KEL SHAKES CHAIR
 
+
 message_20:
-      text: \n<HEADPHONES KID>\Com[2]Hey! What are you doing!?
+      text: \n<DZIECIAK W SŁUCHAWKACH>\Com[2]Hej! Co ty wyrabiasz?!
+
 
 #JESSE gets off the chair
+
 
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 21 #insert number here
-      text: \kelYou're being like this because you care about him, right!?\!<br>He's doing all this because he cares about you, too!
+      text: \kelZachowujesz się tak, bo ci na nim zależy, prawda?!?!\!<br>Ale mu też na tobie zależy!
+
 
 message_22:
       faceset: MainCharacters_Faraway
       faceindex: 22 #insert number here
-      text: \kelIf you're going to be leaving him hanging, then he at least deserves an explanation!
+      text: \kelJeśli zamierzasz spędzić resztę dnia samemu, twój tata zasługuje przynajmniej na wyjaśnienie!
+
 
 message_23:
       faceset: MainCharacters_Faraway
       faceindex: 14 #insert number here
-      text: \kelNow go to the living room and talk to him!\!<br>I won't let you sit in this chair until you do!
+      text: \kelA teraz idź i z nim pogadaj!\!<br>Nie pozwolę ci tu usiąść, zanim tego nie zrobisz!
+
 
 message_24:
-      text: \n<HEADPHONES KID>...
+      text: \n<DZIECIAK W SŁUCHAWKACH>...
+
 
 message_25:
-      text: \n<HEADPHONES KID>Hmph...\! You're so pushy...
+      text: \n<DZIECIAK W SŁUCHAWKACH>Pfft...\! Uparty jesteś...
+
 
 message_26:
-      text: \n<HEADPHONES KID>...\! But...\! I guess I'll go see Dad...
+      text: \n<DZIECIAK W SŁUCHAWKACH>...\! Dobra...\! niech ci będzie...
+
 
 message_60:
       faceset: MainCharacters_Faraway
       faceindex: 38
-      text: \herWow, KEL...\! That was really mature of you...
+      text: \herWow, KEL...\! To było takie... dojrzałe...
+
 
 message_61:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: \kelYou think so?
+      text: \kelTak myślisz?
+
 
 message_62:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: \herYeah...\! I can tell you've really grown up.\! I guess this means you're not a kid anymore.
+      text: \herNo...\! Pokazałeś dziś, że myślisz jak prawdziwy dorosły.\! Nie jesteś już małym chłopcem.
+
 
 message_63:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelAwww... Why not?\! Adults are no fun...\! Kids have it way better!
+      text: \kelNo nieee... Dlaczego?\! Dorośli są tacy nudni...\! Tylko dzieci umieją się bawić!
+
 
 message_64:
       faceset: MainCharacters_Faraway
       faceindex: 41
-      text: \her...\| Nevermind...\! Forget I said anything...
+      text: \her...\| Nieważne...\! Zapomnijmy o tym...
+
 
 #JESSE leaves the room
+
 
 #=======================
 #Cutscene: Jesse's Birthday Gift:
 #=======================
 
 
+
+
 message_28:
-      text: \n<WRINKLY FOREHEAD>\{\{\Com[2]\SINV[1]HAPPY BIRTHDAY, SON!!!
+      text: \n<ZMARSZCZUCH>\{\{\Com[2]\SINV[1]WSZYSTKIEGO NAJLEPSZEGO, SYNU!!!
+
 
 message_29:
-      text: \n<WRINKLY FOREHEAD>I know we don't have much, but...\!<br>I went and got you something that I thought you'd like...
+      text: \n<ZMARSZCZUCH>Wiem, że żyjemy skromnie, ale...\!<br>kupiłem ci coś, co może ci się spodobać...
+
 
 message_30:
-      text: \n<HEADPHONES KID>Dad...\! You didn't have to...
+      text: \n<DZIECIAK W SŁUCHAWKACH>Tato...\! Nie musiałeś...
+
 
 message_31:
-      text: \n<WRINKLY FOREHEAD>Here you go!\! It's some new game called \c[4]SUPER ULTRA SPROUT MOLE EATER - \c[4]REVENGE OF THE MOLES III\c[0]!
+      text: \n<ZMARSZCZUCH>Proszę bardzo!\! Oto nowa gra wideo, \c[4]SUPER ULTRA KIEŁKUNOŻERCA. \c[4]ZEMSTA KIEŁKUNÓW III\c[0]!
+
 
 message_32:
-      text: \n<WRINKLY FOREHEAD>I don't really understand all these new gizmos, but I thought you might like it!
+      text: \n<ZMARSZCZUCH>Nie za bardzo znam się na tych nowych gadżetach, ale mam nadzieję, że ci się spodoba!
+
 
 message_33:
-      text: \n<HEADPHONES KID>Dad...\! I...\! I don't have the right game console for this...
+      text: \n<DZIECIAK W SŁUCHAWKACH>Tato...\! Nie...\! nie mam konsoli, na której mógłbym w nią pograć...
+
 
 message_34:
-      text: \n<WRINKLY FOREHEAD>Game...\! console?\!<br>Ahh...\! Sorry, I don't understand...
+      text: \n<ZMARSZCZUCH>Konsoli...\! do gier?\!<br>Ach...\! Przepraszam, nie rozumiem...
+
 
 message_35:
-      text: \n<HEADPHONES KID>Dad...\! I...
+      text: \n<DZIECIAK W SŁUCHAWKACH>Tato...\! Chciałbym ci...
+
 
 message_36:
-      text: \n<WRINKLY FOREHEAD>Son!\! I know things have been hard without your mother...\!<br>but I want you to know that I'm here for you too!
+      text: \n<ZMARSZCZUCH>Synu!\! Wiem, że bez mamy jest trudno...\!<br>ale chcę, żebyś wiedział, że ja też chcę dla ciebie jak najlepiej!
+
 
 message_37:
-      text: \n<HEADPHONES KID>\com[2]Dad! Stop worrying about me!\!<br>I'm doing fine!\! Just worry about yourself!
+      text: \n<DZIECIAK W SŁUCHAWKACH>\com[2]Tato! Przestań się o mnie martwić!\!<br>Ze mną jest wszystko okej!\! Powinieneś martwić się o siebie!
+
 
 message_38:
-      text: \n<WRINKLY FOREHEAD>Oh, JESSE... You can't ask me to do that.\!<br>You're my son, after all!\! I can't help but worry about you!
+      text: \n<ZMARSZCZUCH>Ach, JESSE... Wiesz, że to niemożliwe.\!<br>Jesteś moim synem!\! Martwienie się o ciebie to mój obowiązek!
+
 
 message_39:
-      text: \n<WRINKLY FOREHEAD>Even if I can't get you things as nice as your mother...\!<br>you can't blame me for trying, right?
+      text: \n<ZMARSZCZUCH>Wiem, że mama kupuje ci fajniejsze rzeczy...\!<br>Ale nie wiń mnie za to, że przynajmniej próbuję, dobrze?
+
 
 message_40:
-      text: \n<WRINKLY FOREHEAD>Everytime I see you, I just think about how fast you're growing up...
+      text: \n<ZMARSZCZUCH>Za każdym razem, gdy cię widzę, wpadam w zadumę nad tym, jak szybko dorastasz...
+
 
 message_41:
-      text: \n<WRINKLY FOREHEAD>One day when you're older...\! you're probably not going to need me at all anymore...\! so just let me be a part of your life for now, okay?
+      text: \n<ZMARSZCZUCH>Pewnego dnia będziesz na tyle duży...\! że nie będziesz mnie już potrzebował...\! Pozwól, żebym przynajmniej teraz był częścią twojego życia.
+
 
 message_42:
-      text: \n<WRINKLY FOREHEAD>Now...\! I know it's your birthday...\! but I also know that you like to keep to yourself these days...\! so why don't you take this \c[3]SLICE OF CAKE\c[0] and eat it in your room?
+      text: \n<ZMARSZCZUCH>Cóż...\! Dzisiaj są twoje urodziny...\! ale wiem, że ostatnio lubisz spędzać czas samemu...\! Chciałbyś zjeść ten \c[3]KAWAŁEK TORTU\c[0] w swoim pokoju?
+
 
 message_43:
-      text: \n<WRINKLY FOREHEAD>It's strawberry...\! your favorite...
+      text: \n<ZMARSZCZUCH>Truskawkowy...\! twój ulubiony...
+
 
 message_44:
-      text: \n<HEADPHONES KID>...
+      text: \n<DZIECIAK W SŁUCHAWKACH>...
+
 
 message_45:
-      text: \n<HEADPHONES KID>It's...\! It's okay, Dad...\! I don't mind eating it here.
+      text: \n<DZIECIAK W SŁUCHAWKACH>Chciałbym...\! chciałbym zjeść go tutaj, tato...
+
 
 message_46:
-      text: \n<WRINKLY FOREHEAD>Oh! Are you sure?\!<br>You usually take your food to your room...
+      text: \n<ZMARSZCZUCH>O! Na pewno?\!<br>Zazwyczaj bierzesz jedzenie do pokoju...
+
 
 message_47:
-      text: \n<HEADPHONES KID>...
+      text: \n<DZIECIAK W SŁUCHAWKACH>...
+
 
 message_48:
-      text: \n<HEADPHONES KID>\}Sniff...\! Sniff...\! Dad...\! I...\! I'm sorry...
+      text: \n<DZIECIAK W SŁUCHAWKACH>\}Chlip...\! Chlip...\! Tato...\! Prze...\! przepraszam...
+
 
 message_49:
-      text: \n<WRINKLY FOREHEAD>\Com[2]W-What is it, son!?\! \Com[2]A-Are you okay?\!<br>Did I do something wrong!?
+      text: \n<ZMARSZCZUCH>\Com[2]C-co się stało, synu?!\! \Com[2]W-wszystko w porządku?\!<br>Zrobiłem coś źle?!
+
 
 message_50:
-      text: \n<HEADPHONES KID>\}N-No...\! I'm fine...\!<br>Thanks for the gift, Dad...\! I...\! sniff...\! I really like it...
+      text: \n<DZIECIAK W SŁUCHAWKACH>\}N-nie...\! Wszystko w porządku...\!<br>Dzięki za prezent, tato...\! Bardzo...\! chlip...\! bardzo mi się podoba...
+
 
 #Talk to Jesse/Jesse's DAD
 
+
 message_51:
-      text: \n<WRINKLY FOREHEAD>Thanks for convincing my son to come downstairs.\! You're all real pals!
+      text: \n<ZMARSZCZUCH>Dziękuję za wyciągnięcie mojego syna z pokoju.\! Jesteście dobrymi kumplami!
+
 
 message_52:
-      text: \n<WRINKLY FOREHEAD>Please, have some cake with us!\! I got it off the bargain bin since it expires tomorrow...\! but it's still pretty tasty!
+      text: \n<ZMARSZCZUCH>Nie wahajcie się poczęstować tortem!\! Kupiłem go na przecenie, jutro traci ważność...\! ale i tak jest przepyszny!
+
 
 message_53:
-      text: \n<HEADPHONES KID>\}Sniff...\! Sniff...\! Dad...
+      text: \n<DZIECIAK W SŁUCHAWKACH>\}Chlip...\! Chlip...\! Tato...
+
+
 
 
 #intro text
 
 
+
+
 message_55:
-      text: \n<WRINKLY FOREHEAD>It's my son's 10th birthday today!\! ...\! But he won't even leave his room so we can celebrate!
+      text: \n<ZMARSZCZUCH>Dziś mój syn obchodzi dziesiąte urodziny!\! ...\! Ale nie chce nawet wyjść ze swojego pokoju, by ze mną świętować!
+
 
 message_56:
-      text: \n<WRINKLY FOREHEAD>Sigh...\! I even bought him a cake...
+      text: \n<ZMARSZCZUCH>Ech...\! Tort pójdzie na marne...
+
 
 message_57:
-      text: You got a \c[3]SLICE OF CAKE\c[0]!
+      text: Otrzymałeś \c[3]KAWAŁEK TORTU\c[0]!
+
 
 message_58:
-      text: A sad \c[3]SLICE OF CAKE\c[0].
+      text: Smutny \c[3]KAWAŁEK TORTU\c[0].
+
 
 message_59:
-      text: A bittersweet \c[3]SLICE OF CAKE\c[0].
+      text: Gorzkosłodki \c[3]KAWAŁEK TORTU\c[0].

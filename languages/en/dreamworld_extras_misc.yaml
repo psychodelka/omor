@@ -23,7 +23,7 @@ message_1:
 message_2:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basHmm... kurcze...\!<br>Nie do końca pamiętam kolejność wszystkich zdjęć...
+      text: \basHmm... kurczę...\!<br>Nie do końca pamiętam kolejność wszystkich zdjęć...
 
 
 message_3:
@@ -99,7 +99,7 @@ message_43:
 
 
 message_44:
-      text: \n<WIERZBINA PŁACZĄCA>Ech...\! Okej, czego ode mnie chcecie?
+      text: \n<WIERZBINA PŁACZĄCA>Ech...\! Okej, słucham?
 
 
 message_45:
@@ -163,7 +163,7 @@ message_60:
 
 
 message_61:
-      text: \"Mają dobre jedzenie, ale zero atmosfery.\"
+      text: \"Mają dobre jedzenie, ale zero atmosfery\".
 
 
 #JOKE 2: Location: CATTAIL FIELD stuck on the OLD BARN.
@@ -174,7 +174,7 @@ message_62:
 
 
 message_63:
-      text: \"Bo miał duże pole do popisu.\"
+      text: \"Bo miał duże pole do popisu\".
 
 
 
@@ -187,7 +187,7 @@ message_64:
 
 
 message_65:
-      text: \"Bo zaliczył kosza.\"
+      text: \"Bo zaliczył kosza\".
 
 
 #JOKE 4: Location: FROZEN FOREST in an igloo.
@@ -198,7 +198,7 @@ message_66:
 
 
 message_67:
-      text: \"Mro-żony.\"
+      text: \"Mro-żony\".
 
 
 #JOKE 5: Location: ORANGE OASIS on a cave wall.
@@ -209,7 +209,7 @@ message_68:
 
 
 message_69:
-      text: \"Bo soczyste.\"
+      text: \"Bo soczyste\".
 
 
 #JOKE 6: Location: DEEP WELL in UNDERWATER HIGHWAY.
@@ -220,7 +220,7 @@ message_70:
 
 
 message_71:
-      text: \"Próbuje się załatwić.\"
+      text: \"Próbuje się załatwić\".
 
 
 #JOKE 7: Location: DEEP WELL in the CONSTRUCTION SITE.
@@ -231,7 +231,7 @@ message_72:
 
 
 message_73:
-      text: \"Wciąż nad nim pracuję.\"
+      text: \"Wciąż nad nim pracuję\".
 
 
 message_74:
@@ -263,7 +263,7 @@ message_91:
 
 
 message_92:
-      text: \n<WIERZBINA PŁACZĄCA>\SINV[1]Łeeee...\SINV[0]\!\Com[2]\SINV[2]Łaaa\{aaaaaaaaaa\{aaaaaaaaaaaa!!\SINV[0]
+      text: \n<WIERZBINA PŁACZĄCA>\SINV[1]Łeeee...\SINV[0]\!\Com[2]\SINV[2]Łaaa\{aaaaaaaaaa\{aaaaaaaaaaa!!\SINV[0]
 
 
 #WIERZBINA PŁACZĄCA sinks back down into the lake.
@@ -392,7 +392,7 @@ message_123:
 
 
 message_140:
-      text: \n<TAKSÓWKARZ>Ej, młody! Chcesz odwiedzić \SINV[1]kozackie\SINV[0] miejsca?\!<br>Powinieneś wybrać się do \c[11]OSTATNIEJ PRZYSTANI\c[0]!<br>Ostatnio to najpopularniejsze, najmodniejsze miejsce w okolicy!
+      text: \n<TAKSÓWKARZ>Ej, młody! Chcesz odwiedzić \SINV[1]kozackie\SINV[0] miejsca?\!<br>Powinieneś wybrać się do \c[11]OSTATNIEJ PRZYSTANI\c[0]!<br><br>Ostatnio to najpopularniejsze, najmodniejsze miejsce w okolicy!
 
 
 message_141:
@@ -512,7 +512,7 @@ message_208:
 message_209:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aubCo, jeśli ktoś go zobaczy?
+    text: \aubCo jeśli ktoś go zobaczy?
 
 
 message_210:

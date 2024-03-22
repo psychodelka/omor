@@ -278,7 +278,7 @@ message_127:
 
 
 message_128:
-      text: DINOWYSTAWA...<br>\"To pozostałości po naszych przodkach.\"
+      text: DINOWYSTAWA...<br>\"To pozostałości po naszych przodkach\".
 
 
 message_129:
@@ -389,7 +389,7 @@ message_158:
 
 
 message_159:
-      text: Bełkot.
+      text: Byle co.
 
 
 message_177:
@@ -397,7 +397,7 @@ message_177:
 
 
 message_178:
-      text: \"Przypłyń do \c[11]OSTATNIEJ PRZYSTANI\c[0], wielkie otwarcie w malowniczej \c[11]GŁĘBOKIEJ STUDNI\c[0]!\! Ciesz się luksusowym wypoczynkiem, położonym tylko kilka kilometrów od miasta.\"
+      text: \"Przypłyń do \c[11]OSTATNIEJ PRZYSTANI\c[0], wielkie otwarcie w malowniczej \c[11]GŁĘBOKIEJ STUDNI\c[0]!\! Ciesz się luksusowym wypoczynkiem, położonym tylko kilka kilometrów od miasta\".
 
 
 message_188:
@@ -405,7 +405,7 @@ message_188:
 
 
 message_179:
-      text: Owoc normalnej wielkości.
+      text: Owoce normalnej wielkości.
 
 
 #============================
@@ -517,7 +517,7 @@ message_195:
 
 
 message_196:
-      text: Przystanek LINII KOSMICZNEJ PLUTONA.\!<br>Poczekać tu na PLUTONA?
+      text: Przystanek LINII KOSMICZNYCH PLUTONA.\!<br>Poczekać tu na PLUTONA?
 
 
 message_197:
@@ -546,7 +546,7 @@ message_201:
 
 
 message_202:
-      text: Stół pełen gadżetów z wstrętną osobą.
+      text: Stół pełen gadżetów ze wstrętną osobą.
 
 
 message_203:
@@ -724,7 +724,7 @@ message_235:
 
 
 message_236:
-      text: \"BARDZO NAM PRZYKRO. SKOŃCZYŁ SIĘ SYROP.\"
+      text: \"BARDZO NAM PRZYKRO. SKOŃCZYŁ SIĘ SYROP\".
 
 
 message_237:
@@ -904,11 +904,11 @@ message_276:
 
 
 message_277:
-      text: \"droga słodziudka kocham cb niezmiernie...\! miejmy razem dzieci i zestarzejmy się we 2-oje.\! chciabym tego bardzo.\! Dziękuję.\"
+      text: \"droga słodziudka kocham cb niezmiernie...\! miejmy razem dzieci i zestarzejmy się we 2-oje.\! chciabym tego bardzo.\! Dziękuję\".
 
 
 message_278:
-      text: \"kochana SŁODZIUTKa dla ciebie bije moje SERCE.\! prozse odwiedź mój dom.\!<br>jest GOTOWY na cb.\"
+      text: \"kochana SŁODZIUTKa dla ciebie bije moje SERCE.\! prozse odwiedź mój dom.\!<br>jest GOTOWY na cb\".
 
 
 message_279:
@@ -1254,7 +1254,7 @@ message_427:
 
 
 message_500:
-      text: \"Koniec autostrady.\"
+      text: \"Koniec autostrady\".
 
 
 message_501:
@@ -1331,7 +1331,7 @@ message_521:
 
 
 message_530:
-      text: \n<REKLAMA>\}TERAZ MOŻESZ WYHODOWAĆ CAŁĄ KOLEKCJĘ FRAJDY...\| KRÓLICZKI, PSZCZÓŁKI, MISIE...\| KOCHAM MOJEGO NOWEGO PUPILA! MOGĘ ZABRAĆ GO WSZĘDZIE...\| DZIEL SIĘ W TRAKCIE ZABAWY...\| ŚCISKAJ, ŚCISKAJ, ŚCISKAJ...\| WSZYSCY JE KOCHAJĄ...
+      text: \n<REKLAMA>\}TERAZ MOŻESZ WYHODOWAĆ CAŁĄ KOLEKCJĘ FRAJDY...\| KRÓLICZKI, PSZCZÓŁKI, MISIE...\| KOCHAM MOJEGO NOWEGO PUPILA! MOGĘ ZABRAĆ GO WSZĘDZIE...\| DZIEL SIĘ W TRAKCIE ZABAWY...<br>ŚCISKAJ, ŚCISKAJ, ŚCISKAJ...\| WSZYSCY JE KOCHAJĄ...
 
 
 message_531:
@@ -1580,7 +1580,7 @@ message_683:
 
 
 message_685:
-      text: \n<SMUTECZEK>\"Mogłeś posłuchać.\"
+      text: \n<SMUTECZEK>\"Mogłeś posłuchać\".
 
 
 message_686:
@@ -1588,7 +1588,7 @@ message_686:
 
 
 message_687:
-      text: \n<SMUTECZEK>\"Wybacz. Nie mogłem się powstrzymać.\"
+      text: \n<SMUTECZEK>\"Wybacz. Nie mogłem się powstrzymać\".
 
 
 #--- treasure Map
@@ -1690,7 +1690,7 @@ message_826:
 
 
 message_830:
-      text: Pełno ryb, dalej tylko ości.
+      text: Pełne rybich ości.
 
 
 message_831:
@@ -1706,7 +1706,7 @@ message_833:
 
 
 message_834:
-      text: Kolorowe eliksiry i probówki w wszelkich kształtach i wymiarach
+      text: Kolorowe eliksiry i probówki we wszelakich kształtach i wymiarach.
 
 
 message_835:
@@ -1938,7 +1938,7 @@ message_932:
 
 
 message_933:
-      text: \"Mój drogi bracie, POMARAŃCZOWY JASIU.\! Mam nadzieję, że ta wiadomość do ciebie dotrze.\! Proszę, wróć do domu.\"
+      text: \"Mój drogi bracie, POMARAŃCZOWY JASIU.\! Mam nadzieję, że ta wiadomość do ciebie dotrze.\! Proszę, wróć do domu\".
 
 
 message_934:

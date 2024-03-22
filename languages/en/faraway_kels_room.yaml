@@ -79,7 +79,7 @@ message_13:
 message_14:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kel\sinv[1]I... Wróciłem!\sinv[0]\! Bez pająka!\! Takie czary!
+      text: \kel\sinv[1]I... wróciłem!\sinv[0]\! Bez pająka!\! Takie czary!
  
 message_15:
       faceset: MainCharacters_Faraway
@@ -109,7 +109,7 @@ message_19:
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 35
-      text: \Ach... T-tego nie przemyślałem...
+      text: \herAch... T-tego nie przemyślałem...
  
 message_21:
       faceset: MainCharacters_Faraway

@@ -136,7 +136,7 @@ message_27:
       text: W takim wypadku...\!<br>Na mocy mi danej, ogłaszam was...\!<br>SŁODZIUTKĄ i SŁODZIUTKĄ!\n<KIEŁKUN MIKOŁAJ>
  
 message_28:
-      text: Możesz teraz pocało-\n<KIEŁKUN MIKOŁAJ>
+      text: Możesz teraz pocało...\n<KIEŁKUN MIKOŁAJ>
  
 message_29:
       text: \quake[1]\{\{\Com[2]NIE ZGADZAM SIĘ!!\quake[0]\who
@@ -232,7 +232,7 @@ message_47:
 #SWEETHEART walks a step forward.
  
 message_48:
-      text: Jakże mącisz mnie swymi słowami!\!<br>Pomimo, iż nadszedł kres naszej miłości, moje serce nigdy o tobie nie zapomni.\n<SŁODZIUTKA>
+      text: Jakże mącisz mnie swymi słowami!\!<br>Pomimo iż nadszedł kres naszej miłości, moje serce nigdy o tobie nie zapomni.\n<SŁODZIUTKA>
  
 #SWEETHEART turns around.
  
@@ -374,7 +374,7 @@ message_87:
       text: Tak! Robi się, moja pani!\n<KIEŁKUN MIKOŁAJ>
  
 message_88:
-      text: \}Moi drodzy, zebraliśmy się tu-\n<KIEŁKUN MIKOŁAJ>
+      text: \}Moi drodzy, zebraliśmy się tu...\n<KIEŁKUN MIKOŁAJ>
  
 message_89:
       text: Och, zapomnij o tych formalnościach, MIKOŁAJU! <br>Prawdziwa miłość nie może czekać!\n<SŁODZIUTKA>

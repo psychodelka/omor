@@ -206,7 +206,7 @@ message_121:
 
 
 message_130:
-      text: \n<UROCZA DZIEWCZYNKA>Witamy!\! Mamy nadzieję, że nasze \c[3]CUKIERKI\c[0] sprawiają, że będzie ci do śmiechu!
+      text: \n<UROCZA DZIEWCZYNKA>Witamy!\! Mamy nadzieję, że nasze \c[3]CUKSY\c[0] sprawiają, że będzie ci do śmiechu!
 
 
 message_131:
@@ -222,7 +222,7 @@ message_133:
 
 
 message_134:
-      text: \n<UROCZA DZIEWCZYNKA>Witamy!\! Mamy nadzieję, że nasze \c[3]CUKIERKI\c[0] sprawiają, że będzie ci do śmichu-chichu!
+      text: \n<UROCZA DZIEWCZYNKA>Witamy!\! Mamy nadzieję, że nasze \c[3]CUKSY\c[0] sprawiają, że będzie ci do śmichu-chichu!
 
 
 
@@ -280,7 +280,7 @@ message_170:
 message_171:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelO kurcze! Nie spodziewałem się ciebie tutaj, JAY!
+      text: \kelO kurczę! Nie spodziewałem się ciebie tutaj, JAY!
 
 
 message_172:
@@ -396,7 +396,7 @@ message_221:
 
 
 message_230:
-      text: \n<KOLOROWA>Jest tu dość ciasno, ale są tu miliony przeróżnych i rzadkich rupieci.\! Ludzie przyjeżdżają tu z drugiego końca miasta, aby coś kupić!
+      text: \n<KOLOROWA>Pomimo ciasnoty są tu miliony przeróżnych i rzadkich rupieci.\! Ludzie przyjeżdżają z drugiego końca miasta, aby coś kupić!
 
 
 #===============KIM AND VANCE'S DAD =====================

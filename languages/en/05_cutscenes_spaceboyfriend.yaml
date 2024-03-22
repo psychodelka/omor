@@ -11,7 +11,7 @@ message_1:
       text: Kapitana KOSMOPIRATÓW...\!<br>Władcy całego UKŁADU SŁONECZNEGO...\!<br>Władcy całego wszechświata...\n<KOLEŚ KOSMOPIRAT>
  
 message_2:
-      text: Jedynego w swoim rodzaju KAP. KOSM...\! To znaczy...\! Yyy...\!<br>Właśnie wkraczacie w progi... \!KOSMO...\! CHŁOPAKA.\n<KOLEŚ KOSMOPIRAT>
+      text: Jedynego w swoim rodzaju KPT. KOSM...\! To znaczy...\! Yyy...\!<br>Właśnie wkraczacie w progi... \!KOSMO...\! CHŁOPAKA.\n<KOLEŚ KOSMOPIRAT>
  
 message_3:
       faceset: MainCharacters_DreamWorld
@@ -44,7 +44,7 @@ message_10:
       text: Och, współczuję... Brzmi to okropnie.\!<br>Może uda nam się przemówić mu do rozsądku.\aub
  
 message_11:
-      text: Oj, nie robiłbym tego na twoim miejscu.\! KAP. KOSMI...<br>To znaczy...\! KOSMOCHŁOPAK ma dwie strony.\n<KOLEŚ KOSMOPIRAT>
+      text: Oj, nie robiłbym tego na twoim miejscu.\! KPT. KOSMI...<br>To znaczy...\! KOSMOCHŁOPAK ma dwie strony.\n<KOLEŚ KOSMOPIRAT>
  
 message_12:
       faceset: MainCharacters_DreamWorld
@@ -106,7 +106,7 @@ message_51:
 message_52:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: O nie...\! KAP. KOSMI...\!<br>KOSMOCHŁOPAK nie wygląda za dobrze.\her
+      text: O nie...\! KPT. KOSMI...\!<br>KOSMOCHŁOPAK nie wygląda za dobrze.\her
  
 message_53:
       faceset: MainCharacters_DreamWorld
@@ -177,7 +177,7 @@ message_67:
       text: O co tyle krzyku? Przecież to zwyczajna kaseta.\kel
  
 message_68:
-      text: Więc widzisz...\! Rozłąka ze SŁODZIUTKĄ źle działa na KOSMOCHŁOPAKA. Robi się smutny i leży cały dzień w łóżku.\n<KOLEŚ KOSMOPIRAT>
+      text: Więc widzisz...\! rozłąka ze SŁODZIUTKĄ źle działa na KOSMOCHŁOPAKA. Robi się smutny i leży cały dzień w łóżku.\n<KOLEŚ KOSMOPIRAT>
  
 message_69:
       text: Jedyny sposób na wyrwanie go z marazmu to puszczenie mu \c[4]SUPER-SKŁADANKI\c[0].\! Jest tylko jedna taka w całym wszechświecie.\n<KOLEŚ KOSMOPIRAT>
@@ -332,7 +332,7 @@ message_150:
 message_160:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Czekaj chwilę, OMORI!\! Powinniśmy sprawdzić, co u KAP. KOSM...\!<br>Wróć, KOSMOCHŁOPAKA.\aub
+      text: Czekaj chwilę, OMORI!\! Powinniśmy sprawdzić, co u KPT. KOSM...\!<br>Wróć, KOSMOCHŁOPAKA.\aub
  
 message_161:
       text: Użyłeś \c[4]ŚMIECIOKLUCZA\c[0].

@@ -335,13 +335,13 @@ message_112:
 #MARI plays a bit of duet.
  
 message_120:
-      text: Wiesz co...\! Uwielbiam walce.\! <br>To dlatego wybrałam ten utwór na nasz ostatni recital.\mar
+      text: Wiesz co...\! uwielbiam walce.\! <br>To dlatego wybrałam ten utwór na nasz ostatni recital.\mar
  
 message_121:
       text: Ale tobie się to nie podobało, prawda?\!<br>To, że skupiałam się tylko na fortepianie...\mar
  
 message_122:
-      text: Całe to ćwiczenie...\! Granie tego samego w kółko i w kółko.\mar
+      text: Całe to ćwiczenie...\! granie tego samego w kółko i w kółko.\mar
  
 message_123:
       text: Kiedy zacząłeś uczyć się grać na skrzypcach, nie mogłeś się doczekać wspólnych występów.\mar
@@ -356,7 +356,7 @@ message_126:
       text: Może za bardzo na ciebie naciskałam.\mar
  
 message_127:
-      text: Przepraszam...\! Chciałam tylko, żeby wyszło idealnie.\mar
+      text: Przepraszam...\! chciałam tylko, żeby wyszło idealnie.\mar
  
 message_128:
       text: ...\mar

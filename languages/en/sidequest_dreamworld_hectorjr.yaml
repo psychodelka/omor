@@ -63,7 +63,7 @@ message_6:
 message_7:
       faceset: MainCharacters_DreamWorld
       faceindex: 35
-      text: \n<HEKTOR>Tak...\! Właśnie tak.\!<br>Chlip...\! Więc to chyba nasze pożegnanie.\!<br>Dziękuję ci, KELU, że nigdy nie zrezygnowałeś z próby odnalezienia mnie.
+      text: \n<HEKTOR>Tak...\! Właśnie tak.\!<br>Chlip...\! Więc to chyba nasze pożegnanie.<br><br>Dziękuję ci, KELU, że nigdy nie zrezygnowałeś z próby odnalezienia mnie.
 
 
 message_8:

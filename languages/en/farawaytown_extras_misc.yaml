@@ -208,10 +208,10 @@ message_125:
 message_126:
       faceset: MainCharacter_Basil
       faceindex: 14
-      text: \herNie martw się, ja się tym zajmę!\! I tak zazwyczaj nie wiem co robić wcześnie rano.\! Pomyśl o tym jak o prezencie pożegnalnym!
+      text: \herNie martw się, ja się tym zajmę!\! I tak zazwyczaj nie wiem, co robić wcześnie rano.\! Pomyśl o tym jak o prezencie pożegnalnym!
  
 message_127:
-      text: Łał...
+      text: Wow...
  
 #  Sweeping
  
@@ -434,91 +434,91 @@ message_236:
       text: Prezent od TATY KIM I VANCE’A.
  
 message_237:
-      text: \"Życzymy ci szybkiego powrotu do zdrowia.\"\!<br>\"Tak jak wielka gumowa piłka, odbijesz się od dna!\"
+      text: \"Życzymy ci szybkiego powrotu do zdrowia\".\!<br>\"Tak jak wielka gumowa piłka, odbijesz się od dna!\"
  
 message_221:
       text: Prezent od MAMY KIM I VANCE’A.
  
 message_252:
-      text: \"Wracaj szybko do zdrowia, \n[8].\"\!<br>\"Proszę, zaprzyjaźnij się bardziej z KIM i VANCE’M.\"\!<br>\"Mogliby się od ciebie wiele nauczyć!\"
+      text: \"Wracaj szybko do zdrowia, \n[8]\".\!<br>\"Proszę, zaprzyjaźnij się bardziej z KIM i VANCE’M\".\!<br>\"Mogliby się od ciebie wiele nauczyć!\"
  
 message_222:
       text: Kwiaty od RODZINY BRENTA.
  
 message_238:
-      text: \"Hej, \n[8]... Mamy nadzieję, że każdego dnia czujesz się lepiej.\"\!<br>\"Przez te wakacje bardzo pomogłeś BRENTOWI.\"\!<br>\"Dzięki tobie ma teraz świetne stopnie.\"
+      text: \"Hej, \n[8]... Mamy nadzieję, że każdego dnia czujesz się lepiej\".\!<br>\"Przez te wakacje bardzo pomogłeś BRENTOWI\".<br>\"Dzięki tobie ma teraz świetne stopnie\".
  
 message_223:
       text: Kwiaty od RODZINY JOY.
  
 message_239:
-      text: \"Cześć, \n[8]. Liczymy na to, że szybko wyzdrowiejesz.\"\!<br>\"Dziękujemy ci za nauczanie JOY przez wakacje.\"\!<br>\"Dobrze sobie teraz radzi w szkole.\"
+      text: \"Cześć, \n[8]. Liczymy na to, że szybko wyzdrowiejesz\".\!<br>\"Dziękujemy ci za nauczanie JOY przez wakacje\".\!<br>\"Dobrze sobie teraz radzi w szkole\".
  
 message_224:
       text: Kwiaty od RODZINY CRIS.
  
 message_240:
-      text: \"Odpoczywaj, \n[8].\"\!<br>\"Pobyt w szpitalu nie jest taki zły.\"\!<br>\"Po prostu wszyscy wkoło namawiają cię na oglądanie telewizji!\"
+      text: \"Odpoczywaj, \n[8]\".\!<br>\"Pobyt w szpitalu nie jest taki zły\".<br><br>\"Po prostu wszyscy wkoło namawiają cię na oglądanie telewizji!\"
  
 message_225:
       text: Kwiaty od RODZINY BEBE.
  
 message_241:
-      text: \"\n[8], dziękuję za kupienie mi tej \c[4]LAMPY\c[0]!\"\!<br>\"Od tamtego czasu nie widziałam mojego syna, BILLY’EGO.\"\!<br>\"Mam nadzieję, że wszystko u niego dobrze...\"
+      text: \"\n[8], dziękuję za kupienie mi tej \c[4]LAMPY\c[0]!\"\!<br>\"Od tamtego czasu nie widziałam mojego syna, BILLY’EGO\".\!<br>\"Mam nadzieję, że wszystko u niego dobrze...\"
  
 message_226:
       text: Kwiaty od SZYMONA i KARINY.
  
 message_242:
-      text: \"Życzymy ci wszystkiego dobrego, \n[8].\"\!<br>\"Zakończyliśmy przeprowadzkę do naszego nowego domu, wpadaj kiedy tylko zechcesz!\"
+      text: \"Życzymy ci wszystkiego dobrego, \n[8]\".\!<br>\"Zakończyliśmy przeprowadzkę do naszego nowego domu, wpadaj kiedy tylko zechcesz!\"
  
 message_227:
       text: Prezent od ARTYSTKI.
  
 message_243:
-      text: \"Hejka, \n[8]. Mam nadzieję, że dużo odpoczywasz.\"\!<br>\"Zdrowiej szybko i wpadnij.\"\!<br>\"Potrzebuję więcej twoich rad...\"
+      text: \"Hejka, \n[8]. Mam nadzieję, że dużo odpoczywasz\".\!<br>\"Zdrowiej szybko i wpadnij\".\!<br>\"Potrzebuję więcej twoich rad...\"
  
 message_228:
       text: Kwiaty od RODZINY SARY.
  
 message_244:
-      text: \"Hej, \n[8]. Dzięki za uratowanie mojego małżeństwa.\"\!<br>\"Jestem pewien, że niedługo staniesz na nogi jak nowonarodzony!\"
+      text: \"Hej, \n[8]. Dzięki za uratowanie mojego małżeństwa\".\!<br>\"Jestem pewien, że niedługo staniesz na nogi jak nowo narodzony!\"
  
 message_229:
       text: Kwiaty od RODZINY CHARLENE.
  
 message_245:
-      text: \"Drogi przyjacielu...\! Dziękujemy za pomoc podczas lata.\"\!<br>\"Najcieplejsze życzenia powrotu do zdrowia!\"
+      text: \"Drogi przyjacielu...\! Dziękujemy za pomoc podczas lata\".\!<br>\"Najcieplejsze życzenia powrotu do zdrowia!\"
  
 message_230:
       text: Kwiaty od JESSEGO i TATY JESSEGO.
  
 message_246:
-      text: \"Mamy nadzieję, że o siebie dbasz, \n[8].\"\!<br>\"JESSE ostatnio mi dużo o tobie opowiadał.\"\!<br>\"Musiałeś wybrać perfekcyjny prezent urodzinowy!\"
+      text: \"Mamy nadzieję, że o siebie dbasz, \n[8]\".\!<br>\"JESSE ostatnio mi dużo o tobie opowiadał\".\!<br>\"Musiałeś wybrać perfekcyjny prezent urodzinowy!\"
  
 message_231:
       text: Kwiaty od KASJERA.
  
 message_247:
-      text: \"Joł, \n[8]...\"\!<br>\"Wysyłam ci pozytywną energię.\"\!<br>\"Jesteś mile widziany w BZZAJAWCE!\"
+      text: \"Joł, \n[8]...\"\!<br>\"Wysyłam ci pozytywną energię\".\!<br>\"Jesteś mile widziany w BZZAJAWCE!\"
  
 message_232:
-      text: Jakieś prezenciki, w tym bułki od DAPHNE i BOWENA.
+      text: Jakieś prezenciki, w tym bułki od DAFNE i BOWENA.
  
 message_248:
-      text: \"Zasmakuj chleba, niech siła cię rozpiera.\"\!<br>\"A potem wróć do zabawy z nami...\"
+      text: \"Zasmakuj chleba, niech siła cię rozpiera\".\!<br>\"A potem wróć do zabawy z nami...\"
  
 message_233:
       text: Kwiaty od RODZINY KELA i HERO... i AUBREY.
  
 message_249:
-      text: \"Ślemy ci mały promyczek zdrowia.\"\!<br>\"Tęsknimy za tobą, \n[8].\"
+      text: \"Ślemy ci mały promyczek zdrowia\".\!<br>\"Tęsknimy za tobą, \n[8]\".
  
 message_234:
       text: Kwiaty od MINCY.
  
 message_250:
-      text: \"Dziękuje za motywowanie mnie do rysowania.\"\!<br>\"Mam nadzieję, że niedługo będziesz czuł się lepiej.\"\!<br>\"Będę o tobie myśleć!\"
+      text: \"Dziękuje za motywowanie mnie do rysowania\".\!<br>\"Mam nadzieję, że niedługo będziesz czuł się lepiej\".\!<br>\"Będę o tobie myśleć!\"
  
 message_235:
       text: Prezent od VANCE’A, KIM, CHARLIE, ANGELA...<br>i MAVERICKA.

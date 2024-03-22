@@ -109,7 +109,7 @@ message_18:
 message_19:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: O-oł...\! To się źle skończy...\her
+      text: O-o...\! To się źle skończy...\her
  
 message_20:
       text: \Com[2]\quake[1]Co...\| \Com[2]to...\| \Com[2]za...\n<KOSMOCHŁOPAK>\quake[0]

@@ -19,7 +19,7 @@ message_0:
 
 
 message_1:
-      text: \"POTRZEBNA POMOC KOREPETYTORA! Poszukuję korepetytora, który udzieli lekcji z języka mojej córce, NADZIEI! 20 $ na dzień!\! Proszę o przyjście do mojego domu na rozmowę kwalifikacyjną z tą ulotką!”
+      text: \"POTRZEBNA POMOC KOREPETYTORA! Poszukuję korepetytora, który udzieli lekcji z języka mojej córce, JOY! 20 $ na dzień!\! Proszę o przyjście do mojego domu na rozmowę kwalifikacyjną z tą ulotką!”
 
 
 message_2:
@@ -49,7 +49,7 @@ message_100:
 
 
 message_101:
-      text: \n<BRWIASTY>O, wy zapewne jesteście nowymi korepetytorami NADZIEI!
+      text: \n<BRWIASTY>O, wy zapewne jesteście nowymi korepetytorami JOY!
 
 
 message_5:
@@ -57,14 +57,14 @@ message_5:
 
 
 message_7:
-      text: \n<BRWIASTY>Ruchy, wchodźcie!\! Moja córka NADZIEJA czeka na was w swoim pokoju!
+      text: \n<BRWIASTY>Ruchy, wchodźcie!\! Moja córka JOY czeka na was w swoim pokoju!
 
 
 #Talk to Joy
 
 
 message_8:
-      text: \n<MAŁA DZIEWCZYNKA>Cz-cześć... Jestem NADZIEJA. Miło mi was poznać!\!<br>Wy pewnie jesteście moimi nowymi korepetytorami.\! Możemy już zacząć?
+      text: \n<MAŁA DZIEWCZYNKA>Cz-cześć... Jestem JOY. Miło mi was poznać!\!<br>Wy pewnie jesteście moimi nowymi korepetytorami.\! Możemy już zacząć?
 
 
 message_9:
@@ -119,7 +119,7 @@ message_20:
 
 
 message_21:
-      text: Które z tych zdań jest zapisane poprawnie?
+      text: Które z tych zdań jest poprawne?
 
 
 message_22:
@@ -131,7 +131,7 @@ message_23:
 
 
 message_24:
-      text: C) “Moim zdaniem bakłażan jest lepszym w smaku warzywem.”
+      text: C) “Moim zdaniem bakłażan jest smaczniejszym warzywem.”
 
 
 #Correct choice:
@@ -172,7 +172,7 @@ message_31:
 
 
 message_32:
-      text: \n<BRWIASTY>Cześć! Cześć\! NADZIEJO! Jak ci idzie?\! <br>Czy ci korepetytorzy są dla ciebie w ogóle pomocni?
+      text: \n<BRWIASTY>Cześć! Cześć\! JOY! Jak ci idzie?\! <br>Czy ci korepetytorzy są dla ciebie w ogóle pomocni?
 
 
 message_33:
@@ -192,7 +192,7 @@ message_36:
 
 
 message_37:
-      text: \n<BRWIASTY>NADZIEJA powinna być teraz w swoim pokoju.\! Dziękuję za pomoc!
+      text: \n<BRWIASTY>JOY powinna być teraz w swoim pokoju.\! Dziękuję za pomoc!
 
 
 message_1000:

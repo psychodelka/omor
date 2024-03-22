@@ -450,7 +450,7 @@ message_84:
 
 message_85:
    text: >
-    \>ANERYS: \<Słabości największej oznaką jest poddana.
+    \>ANERYS: \<Słabości największej oznaką jest się poddanie.
 
 # After Defeat:
 
@@ -615,11 +615,11 @@ message_114:
 
 message_115:
    text: >
-    \>MARINA: \<A to oznacza, że...\! Czas poważnie się wami zająć!
+    \>MARINA: \<A to oznacza, że...\! czas poważnie się wami zająć!
 
 message_116:
    text: >
-    \>MOLLY: \<O...<br>jaka zabawa~!
+    \>MOLLY: \<O... jaka zabawa~!
 
 # MEDUZA's Special Move (50%):
 
@@ -957,7 +957,7 @@ message_175:
 
 message_176:
    text: >
-    \>WIELKI MAVERICK: \<O, KEL, żałosny głupcze...\! Nie dorastasz WIELKIEMU MAVERICKOWI do pięt!
+    \>WIELKI MAVERICK: \<O, KEL, żałosny głupcze...<br><br>WIELKI MAVERICK: \<Nie dorastasz WIELKIEMU MAVERICKOWI do pięt!
 
 # Getting Weaker (75%):
 
@@ -1033,7 +1033,7 @@ message_191:
 
 message_192:
    text: >
-    \>WIELKI MAVERICK: \<Uff...\! Przyznam...\! Jestem pod wrażeniem...<br>ale wciąż miną lata świetlne zanim mnie pokonacie!
+    \>WIELKI MAVERICK: \<Uff...\! Przyznam...\! Jestem pod wrażeniem...<br>ale wciąż miną lata świetlne, zanim mnie pokonacie!
 
 # Getting Weaker (10%):
 
@@ -1303,7 +1303,7 @@ message_252:
 
 message_254:
    text: >
-    \>BASIL: \<\fn<OMORI_GAME><br>Odpuść,<br>\n[8].
+    \>BASIL: \<\fn<OMORI_GAME><br>Odpuść, \n[8].
 
 message_255:
    text: >
@@ -1513,7 +1513,7 @@ message_291:
 # Encouragement
 message_292:
    text: >
-    \>???: \<Musisz brnąć dalej.\!<br>Nie możesz się teraz poddać.<br>Nieważne, jak bardzo niemożliwe by się to wydawało...
+    \>???: \<Musisz brnąć dalej.\!<br>Nie możesz się teraz poddać.<br><br>Nieważne, jak bardzo niemożliwe by się to wydawało...
 
 # \n[8] gains PERSIST
 message_293:
@@ -1547,7 +1547,7 @@ message_298:
 
 message_299:
    text: >
-    \>AUBREY: \<Więc to idealny czas zadać cios! \!Dawaj, OMORI!\! Zrób to!
+    \>AUBREY: \<Więc to idealny czas, żeby zadać cios! \!Dawaj, OMORI!\! Zrób to!
 
 # HAPPY MOLE
 message_300:
@@ -1800,7 +1800,7 @@ message_414:
 # =====After Using Flex
 message_415:
    text: >
-    \>PLUTON: \<Imponujący progres, młody KELSEUSZU!\! Twój \c[1]FLEX\c[0] znacznie się polepszył!
+    \>PLUTON: \<Imponujący progres, młody KELSEUSZU!\! Twój \c[1]CISK\c[0] znacznie się polepszył!
 
 # ============KIEŁKUN EATER
 # =====Summoning and eating KIEŁKUNs
@@ -1909,7 +1909,7 @@ message_455:
 # ============MUSSEL KEL FLEX
 message_456:
    text: >
-    MAŁŻEŃ zauważa \c[1]FLEX\c[0] KELA i czuje się poniżony...
+    MAŁŻEŃ zauważa \c[1]CISK\c[0] KELA i czuje się poniżony...
 
 # ============GIGANTOS POISON
 message_457:
@@ -2074,7 +2074,7 @@ message_544:
 
 message_545:
    text: >
-    \}Zawsze wiedziałem, że będą z nią problemy...\| Pastor już dawno powinien był ją wyrzucić.
+    \}Zawsze wiedziałem, że będą z nią problemy...\| Ksiądz już dawno powinien był ją wyrzucić.
 
 message_546:
    text: >
@@ -2361,7 +2361,7 @@ message_802:
 
 message_803:
    text: >
-    \>HERO: \<Ostatnim razem... \!popełniliśmy błąd, zostawiając siebie nawzajem, kiedy najbardziej potrzebowaliśmy bliskości.<br>\>HERO: \<Ale teraz...\| przejdziemy przez to wspólnie.
+    \>HERO: \<Ostatnim razem...<br><br><br>popełniliśmy błąd, zostawiając siebie nawzajem, kiedy najbardziej potrzebowaliśmy bliskości.<br>\>HERO: \<Ale teraz...\| przejdziemy przez to wspólnie.
 
 message_804:
    text: >

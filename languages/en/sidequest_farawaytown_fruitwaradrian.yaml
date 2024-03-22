@@ -63,7 +63,7 @@ message_10:
 
 #if no
 message_11:
-      text: \n<JABŁKARZ>Dobra...\! Zgoda...\!<br>Chyba, że macie w planach kupić jakiś \c[3]SOK POMARAŃCZOWY\c[0]...
+      text: \n<JABŁKARZ>Dobra...\! Zgoda...\!<br>Chyba że macie w planach kupić jakiś \c[3]SOK POMARAŃCZOWY\c[0]...
 
 
 #Buy more from Adrian than Brayden:

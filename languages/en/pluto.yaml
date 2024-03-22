@@ -84,7 +84,7 @@ message_9:
 message_50:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herKurcze, idą!
+    text: \herKurczę, idą!
 
 
 #HERO looks at party
@@ -375,7 +375,7 @@ message_131:
 
 
 message_132:
-    text: \n<PLUTON>Masz potencjał, by być bardzo silnym!\! Pozwól, że cię nauczę \c[1]ZDONLONŚCI\c[0], która może ci się przydać w przyszłości.
+    text: \n<PLUTON>Masz potencjał, by być bardzo silny!\! Pozwól, że cię nauczę \c[1]ZDOLNOŚCI\c[0], która może ci się przydać w przyszłości.
 
 
 message_133:
@@ -421,7 +421,7 @@ message_141:
 
 
 message_142:
-    text: KEL poznał \c[1]FLEX\c[0]!
+    text: KEL poznał \c[1]CISK\c[0]!
 
 
 # =========================================================================================
@@ -451,7 +451,7 @@ message_48:
 
 
 message_200:
-    text: \n<PLUTON>\v[1000] ma być celem waszej podróży?
+    text: \n<PLUTON>\v[1000] to cel waszej podróży?
 
 
 message_210:

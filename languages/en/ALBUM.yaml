@@ -106,7 +106,7 @@ faraway_message18:
 faraway_message19:
     background: 0
     position: 2
-    text: \n<29 KWIETNIA>Dzisiaj cały dzień leje jak z cebra!<br>\!Wiosną deszcz zawsze pojawia się niespodziewanie.<br>AUBREY poprosiła mnie, abym zrobił jej zdjęcie w nowym płaszczu przeciwdeszczowym.\! To jej ulubiony kolor, różowy!
+    text: \n<29 KWIETNIA>Dzisiaj cały dzień leje jak z cebra!<br>\!Wiosną deszcz zawsze pojawia się niespodziewanie.<br><br>AUBREY poprosiła mnie, abym zrobił jej zdjęcie w nowym płaszczu przeciwdeszczowym.\! To jej ulubiony kolor, różowy!
  
 faraway_message20:
     background: 0
@@ -126,7 +126,7 @@ faraway_message22:
 faraway_message23:
     background: 0
     position: 2
-    text: \n<25 MAJA>MARI kupiła wszystkim lody na patyku, po innym smaku dla każdego!<br>\!\n[8] dostał cytrynowego, HERO colowego, KEL pomarańczowego, AUBREY arbuzowego, a MARI winogronowego!<br>Mój był bananowy...\! Smakował nie najgorzej.
+    text: \n<25 MAJA>MARI kupiła wszystkim lody na patyku, po innym smaku dla każdego!<br><br>\!\n[8] dostał cytrynowego, HERO colowego, KEL pomarańczowego, AUBREY arbuzowego, a MARI winogronowego!<br>Mój był bananowy...\! Smakował nie najgorzej.
  
 faraway_message24:
     background: 0
@@ -171,7 +171,7 @@ faraway_message31:
 faraway_message32:
     background: 0
     position: 2
-    text: \n<20 LIPCA - \n[8] MA URODZINY>\n[8] trzyma super duży prezent od MARI i HERO!<br>\!Hmm... Ciekawe co to może być.
+    text: \n<20 LIPCA - \n[8] MA URODZINY>\n[8] trzyma super duży prezent od MARI i HERO!<br>\!Hmm... Ciekawe, co to może być.
  
 faraway_message33:
     background: 0
@@ -186,7 +186,7 @@ faraway_message34:
 faraway_message35:
     background: 0
     position: 2
-    text: \n<4 SIERPNIA>Idziemy dzisiaj na łapanie chrząszczy!\!<br>Tutaj KEL, gotowy do walki z wrogiem!<br>\!O, i jest tu też \n[8].\! Nie wygląda na do końca przytomnego.
+    text: \n<4 SIERPNIA>Idziemy dzisiaj na łapanie chrząszczy!\!<br>Tutaj KEL, gotowy do walki z wrogiem!<br><br>O, i jest tu też \n[8].\! Nie wygląda na do końca przytomnego.
  
 faraway_message36:
     background: 0
@@ -196,7 +196,7 @@ faraway_message36:
 faraway_message37:
     background: 0
     position: 2
-    text: \n<14 SIERPNIA>Ta-da!\! Całe lato pracowaliśmy nad zrobieniem domku na drzewie, który \n[8] będzie mieć na swoim podwórku i dzisiaj w końcu skończyliśmy!<br>HERO i jego tata napracowali się najbardziej, ale to AUBREY i ja zrobiliśmy papierowe rośliny, żeby postawić je na oknie!\! Według mnie, każdy zrobił kawał dobrej roboty!
+    text: \n<14 SIERPNIA>Ta-da!\! Całe lato pracowaliśmy nad zrobieniem domku na drzewie, który \n[8] będzie mieć na swoim podwórku i dzisiaj w końcu skończyliśmy!<br>HERO i jego tata napracowali się najbardziej, ale to AUBREY i ja zrobiliśmy papierowe rośliny, żeby postawić je na oknie!\! Według mnie każdy zrobił kawał dobrej roboty!
  
 faraway_message38:
     background: 0
@@ -211,7 +211,7 @@ faraway_message39:
 faraway_message40:
     background: 0
     position: 2
-    text: \n<18 SIERPNIA>Poszliśmy do BZZAJWAKI, żeby przeczytać najnowszy tom KAPITANA KOSMIKA!\! Wszyscy się teraz tym interesują!\! Jestem pewny, że kiedy wrócimy do szkoły, to każdy będzie o tym mówił.
+    text: \n<18 SIERPNIA>Poszliśmy do BZZAJWAKI, żeby przeczytać najnowszy tom KAPITANA KOSMIKA!\! Wszyscy się teraz tym interesują!<br><br>Jestem pewny, że kiedy wrócimy do szkoły, to każdy będzie o tym mówił.
  
 faraway_message41:
     background: 0
@@ -241,7 +241,7 @@ faraway_message45:
 faraway_message46:
     background: 0
     position: 2
-    text: \n<22 WRZEŚNIA>MARI ćwicząca swoją część na występ w następnym miesiącu.<br>Wszyscy przyjdziemy na koncert!<br>To będzie pierwszy raz, kiedy MARI i \n[8] zagrają w duecie, ale wiem, że pójdzie im świetnie!\! Będziemy trzymać kciuki na publiczności!
+    text: \n<22 WRZEŚNIA>MARI ćwicząca swoją część na występ w następnym miesiącu.<br>Wszyscy przyjdziemy na koncert!<br><br>To będzie pierwszy raz, kiedy MARI i \n[8] zagrają w duecie, ale wiem, że pójdzie im świetnie!\! Będziemy trzymać kciuki na publiczności!
  
 faraway_message47:
     background: 0
@@ -273,17 +273,17 @@ dreamworld_message3:
 dreamworld_message4:
     background: 0
     position: 2
-    text: \"Wszyscy jemy arbuzy.\! Takie soczyste!\!<br>AUBREY ma trochę pestek na twarzy.\!<br>Może ktoś powinien jej o tym powiedzieć.\"
+    text: \"Wszyscy jemy arbuzy.\! Takie soczyste!\!<br>AUBREY ma trochę pestek na twarzy.\!<br>Może ktoś powinien jej o tym powiedzieć\".
  
 dreamworld_message5:
     background: 0
     position: 2
-    text: \"KEL pijący mleko, jego ulubione!<br>\!Nie powinienem podchodzić blisko, bo mój aparat może się zamoczyć.\"
+    text: \"KEL pijący mleko, jego ulubione!<br>\!Nie powinienem podchodzić blisko, bo mój aparat może się zamoczyć\".
  
 dreamworld_message6:
     background: 0
     position: 2
-    text: \"MARI i HERO zrobili nam zdjęcie.\!<br>Wszyscy powiedzieli, że wianki do mnie pasują.\"
+    text: \"MARI i HERO zrobili nam zdjęcie.\!<br>Wszyscy powiedzieli, że wianki do mnie pasują\".
  
 dreamworld_message7:
     background: 0
@@ -298,7 +298,7 @@ dreamworld_message8:
 dreamworld_message9:
     background: 0
     position: 2
-    text: \"Po posiłku wszyscy poza mną, HERO i MARI poszli spać.\!<br>Sam powoli staję się senny.\"
+    text: \"Po posiłku wszyscy poza mną, HERO i MARI poszli spać.\!<br>Sam powoli staję się senny\".
  
 dreamworld_message10:
     background: 0

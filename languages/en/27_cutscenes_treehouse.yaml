@@ -196,7 +196,7 @@ message_55:
 message_70:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: ...\! To tutaj MARI-\kel
+      text: ...\! To tutaj MARI...\kel
  
 message_71:
       faceset: MainCharacters_Faraway
@@ -235,12 +235,12 @@ message_76:
 message_77:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: No, masz rację.\!<br>\n[8] i MARI mieli zagrać na przedstawieniu...\aub
+      text: No, masz rację.\!<br>\n[8] i MARI mieli zagrać na występie...\aub
  
 message_78:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: Tamtego wieczora...\! ale...\! kiedy wróciliśmy do domu...\aub
+      text: Miał odbyć się tamtego wieczora...\! ale...\! kiedy wróciliśmy do domu...\aub
  
 message_79:
       faceset: MainCharacters_Faraway
@@ -262,7 +262,7 @@ message_81:
 message_82:
       faceset: MainCharacters_Faraway
       faceindex: 40
-      text: ...\! Hej...\! Może...\! Chodźmy dalej.\her
+      text: ...\! Hej...\! może...\! chodźmy dalej.\her
  
 #STUMP
  
@@ -465,7 +465,7 @@ message_133:
 message_134:
       faceset: MainCharacters_Faraway
       faceindex: 42
-      text: \herAle mimo wszystko...\! Cieszę się, że nasza przyjaźń odżyła.\! Że jesteśmy tu wszyscy razem...\! i możemy razem stawić czoła życiu.
+      text: \herAle mimo wszystko...\! cieszę się, że nasza przyjaźń odżyła.\! Że jesteśmy tu wszyscy razem...\! i możemy razem stawić czoła życiu.
  
 #*pause*
 #HERO turns to the sliding door.
@@ -494,7 +494,7 @@ message_136:
 message_137:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubHej, \n[8]...\! Kiedy się wyprowadzisz...\! Nie miałbyś nic przeciwko, żeby-
+      text: \aubHej, \n[8]...\! kiedy się wyprowadzisz...\! nie miałbyś nic przeciwko, żeby...
  
 #from outside
 #AUBREYs face the door

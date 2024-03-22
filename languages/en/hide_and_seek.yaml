@@ -51,7 +51,7 @@ message_6:
 
 
 message_7:
-      text: \ber\com[2]Nie tak szybko!\! Znowu mnie unikacie?!\!<br>O co wam chodzi?\! To przez moją twarz?\!<br>To jak wyglądam?
+      text: \ber\com[2]Nie tak szybko!\! Znowu mnie unikacie?!\!<br>O co wam chodzi?\! To przez moją twarz?\!<br>To, jak wyglądam?
 
 
 message_8:
@@ -234,7 +234,7 @@ message_34:
 message_35:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herO, siema! Huuu...\! wiecie... huuu...\! Znalazłem idealną kryjówkę, ale, huuu...\! SZYMEK I RINA... huuu...\! zaprosili mnie do swoich ... huuu...\! codziennych ćwiczeń!
+      text: \herO, siema! Huuu...\! wiecie... huuu...\! Znalazłem idealną kryjówkę, ale, huuu...\! SZYMEK I RINA... huuu...\! zaprosili mnie do swoich... huuu...\! codziennych ćwiczeń!
 
 
 message_36:
@@ -384,7 +384,7 @@ message_65:
 
 
 message_66:
-      text: \n<VAN>Okazuje się...\! Że nie ma zbyt wielu kryjówek dla kogoś mojego rozmiaru...\! Ale wciąż dobrze się bawiłem!\! Póki BERLY jest szczęśliwa, ja też się cieszę.
+      text: \n<VAN>Okazuje się...\! że nie ma zbyt wielu kryjówek dla kogoś mojego rozmiaru...\! Ale wciąż dobrze się bawiłem!\! Póki BERLY jest szczęśliwa, ja też się cieszę.
 
 
 # -----------------------------------------------------------------------------------------------------------------------------
@@ -539,7 +539,7 @@ message_88:
 
 
 message_89:
-      text: \n<KAROLCIA>\}J-jestem...
+      text: \n<SZARLIN>\}J-jestem...
 
 
 message_90:
@@ -1168,7 +1168,7 @@ message_279:
 
 
 message_280:
-      text: Hę? BASIL znowu zaginął?\!<br>Tym razem to nie byłem ja, przysięgam!\!<br>A teraz mnie zostawcie, muszę pookazywać trochę skruchy!\n<BYSIO>
+      text: Hę? BASIL znowu zaginął?\!<br>Tym razem to nie byłem ja, przysięgam!<br><br>A teraz mnie zostawcie, muszę pookazywać trochę skruchy!\n<BYSIO>
 
 
 #DAY 1:SWEETHEART

@@ -2,89 +2,104 @@
 # QUEST TRACKER - INTRO
 # =========================================================================================
 
+
 message_0:
     faceset: 05_MARI_OW
     faceindex: 0
     text: >
-        \marHello, \n[1]! Hello, everyone!<brl>\!How are you all doing today?
+        \marCześć, \n[1]! Cześć wszystkim!<br>\!Jak wam mija dzień?
+
 
 message_1:
     faceset: 02_AUBREY_OW
     faceindex: 6
     text: >
-        \aubHi, MARI!
+        \aubCześć, MARI!
+
 
 message_2:
     faceset: 02_AUBREY_OW
     faceindex: 3
     text: >
-        \aub\Com[1000]\{\n[3]'s being mean to me again!\}
+        \aub\Com[1000]\{\n[3] znów się nade mną znęcał!\}
+
 
 message_3:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marOh, no! Not again!<brl>How could he!
+        \marOjej! Znowu?!<brl>Jak tak mógł!
+
 
 message_4:
     faceset: 03_KEL_OW1
     faceindex: 0
     text: >
-        \kel\Com[1000]\{PSHHH, I'm not being mean!\}<brl>It's just AUBREY's being all whiny...
+        \kel\Com[1000]\{PFFFT, jestem bardzo miły!\}<brl>AUBREY tylko przesadza...
+
 
 message_5:
     faceset: 05_MARI_OW
     faceindex: 3
     text: >
-        \marHmmm... \!Well \n[3], you've made a very convincing point!<brl>Now I don't know who to believe!
+        \marHmmm... \!Cóż, \n[3], to brzmi bardzo przekonująco!<br>Teraz nie wiem, komu mam wierzyć!
+
 
 message_6:
     faceset: 03_KEL_OW1
     faceindex: 0
     text: >
-        \kel\Com[1000]\{BELIEVE ME!\}
+        \kel\Com[1000]\{UWIERZ MNIE!\}
+
 
 message_7:
     faceset: 02_AUBREY_OW
     faceindex: 3
     text: >
-        \aub\Com[1000]\{NO, BELIEVE ME!!\}
+        \aub\Com[1000]\{NIE, MNIE!!\}
+
 
 message_8:
     faceset: 04_HERO_OW
     faceindex: 2
     text: >
-        \herSigh...<brl>Come on, you two. Settle down...<brl>\}
+        \herEch...<br>No wiecie co... Dajcie już spokój...<br>\}
+
 
 message_9:
     faceset: 04_HERO_BATTLE
     faceindex: 17
     text: >
-        \her\}Why does it have to always be like this...\{
+        \her\}Czemu to zawsze musi tak wyglądać...\{
+
 
 message_10:
     faceset: 05_MARI_OW
     faceindex: 3
     text: >
-      \marAwwww, chin up, \n[4]! Look at you, being all responsible.
+      \marOj, głowa do góry, \n[4]! Patrz, jaki jesteś odpowiedzialny.
+
 
 message_11:
     faceset: 05_MARI_OW
     faceindex: 7
     text: >
-      \marI really like that about you, hehe...
+      \marBardzo to w tobie lubię, hehe...
+
 
 message_12:
     faceset: 04_HERO_OW
     faceindex: 0
     text: >
-      \herAhh, come on, MARI! Not now...
+      \herAaaj, no weź, MARI! Nie teraz...
+
 
 message_13:
     faceset: 05_MARI_OW
     faceindex: 6
     text: >
-      \marOh \n[4], you know I'm just teasing.<brl>You're so cute when you get all flustered!
+      \marOj, \n[4], wiesz, że tylko się droczę.<br>Jesteś taki uroczy, gdy się rumienisz!
+
 
 message_14:
     faceset: 04_HERO_OW
@@ -92,306 +107,367 @@ message_14:
     text: >
       \her. . .
 
+
 message_15:
     faceset: 05_MARI_OW
     faceindex: 3
     text: >
-      \marHehehe... It's really nice of you guys to drop by!
+      \marHehehe... Bardzo miło z waszej strony tak wpaść!
+
 
 message_17:
     faceset: 05_MARI_OW
     faceindex: 0
     text: >
-      \marI'll be around whenever you need me.\!<brl>If you're ever stuck or don't know what to do, just talk to me, and I'll try my best to help!
+      \marZawsze będę niedaleko, kiedy będziecie mnie potrzebować.\!<br>Jeśli na czymś utkniecie lub nie będziecie wiedzieli, co zrobić, zagadajcie do mnie, a postaram się pomóc!
+
 
 # =========================================================================================
 # QUEST TRACKER - OMORI IS LEADER
 # =========================================================================================
 
+
 message_18:
     faceset: 05_MARI_OW
     faceindex: 3
     text: >
-      \marHi, OMORI! Cliff-faced as usual, I see.\! You should totally smile more! I've always liked your smile.
+      \marHej, OMORI! Kamienna twarz, jak zwykle.\! Powinieneś się więcej uśmiechać! Zawsze lubiłam twój uśmiech.
+
 
 # =========================================================================================
 # QUEST TRACKER - KEL IS LEADER
 # =========================================================================================
 
+
 message_19:
     faceset: 05_MARI_OW
     faceindex: 6
     text: >
-      \marYo \n[3], what's up!\! You look like you've grown just a bit taller! Maybe one day, you'll even be taller than \n[4]! Keep it up!
+      \marJoł, \n[3], jak leci?!\! Wygląda na to, że nieco już urosłeś! Może kiedyś będziesz wyższy od \n[4]! Tak trzymaj!
+
 
 # =========================================================================================
 # QUEST TRACKER - AUBREY IS LEADER
 # =========================================================================================
 
+
 message_20:
     faceset: 05_MARI_OW
     faceindex: 3
     text: >
-      \marWell, hello there, \n[2]! Looking cute today.\!<brl>You always take such good care of your hair!
+      \marCześć, \n[2]! Uroczo dziś wyglądasz.\!<brl>Zawsze masz takie zadbane włosy!
+
 
 # =========================================================================================
 # QUEST TRACKER - HERO IS LEADER
 # =========================================================================================
 
+
 message_21:
     faceset: 05_MARI_OW
     faceindex: 7
     text: >
-      \marHi there, handsome.
+      \marCześć, przystojniaku.
+
 
 # =========================================================================================
 # QUEST TRACKER - DEFAULT
 # =========================================================================================
 
+
 message_22:
     faceset: 05_MARI_OW
     faceindex: 3
     text: >
-      \marSo what do you need help with today?
+      \marW czym mogę wam dzisiaj pomóc?
+
 
 message_23:
     faceset: 05_MARI_OW
     faceindex: 3
     text: >
-      \marSo what do you need help with today?
+      \marW czym mogę wam dzisiaj pomóc?
+
 
 # =========================================================================================
 # LOST BALL
 # =========================================================================================
 
+
 message_24:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marYou're heading to \c[11]VAST FOREST\c[0] to find \c[4]BERLY'S BALL\c[0], <brl>aren't you?\! Better be careful! There are enemies afoot!
+        \marZmierzacie do \c[11]NIEZMIERNEGO LASU\c[0], aby odnaleźć \c[4]PIŁKĘ BERLY\c[0], <brl>prawda?\! Bądźcie ostrożni! Grasują tu przeciwnicy!
+
 
 message_25:
     faceset: 05_MARI_OW
     faceindex: 0
     text: >
-        \marIf you're not sure how to defend yourself, you should read this \c[4]ALL ABOUT BATTLES\c[0] book I found!\! It's right here next to me if you need it.
+        \marJeśli nie jesteś pewien, czy umiesz się obronić, przeczytaj \c[4]WSZYSTKO O BITWACH\c[0], którą znalazłam!\! W razie czego, to leży tuż obok mnie.
+
 
 message_26:
     faceset: 05_MARI_OW
     faceindex: 6
     text: >
-        \marNice, you got \c[4]BERLY'S BALL\c[0] back! She's so ecstatic, she even wants to give you something as a thank-you.\!<brl>How rare for her!
+        \marSuper, odzyskaliście \c[4]PIŁKĘ BERLY\c[0]! Jest taka uradowana, że nawet chce wam coś dać w ramach podziękowania.\!<brl>Kto by się tego po niej spodziewał!
+
 
 # =========================================================================================
 # MISSING GRANDSON
 # =========================================================================================
 
+
 message_27:
     faceset: 05_MARI_OW
     faceindex: 4
     text: >
-        \marOh, no! BASIL's gone missing? His GRANDMA said he was heading to the \c[11]TRAIN STATION\c[0], right?\! That's probably a good place to start.
+        \marOch, nie! BASIL zaginął? Jego BABCIA powiedziała, że szedł na \c[11]STACJĘ KOLEJOWĄ\c[0], czyż nie?\! Od tego miejsca można zacząć.
+
 
 message_28:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marLooks like BASIL took the \c[4]TRAIN\c[0], so I guess that means you all need a \c[4]TRAIN PASS\c[0]!\! Time to wait in line! Patience is a virtue, you know.
+        \marWygląda na to, że BASIL pojechał \c[4]POCIĄGIEM\c[0], więc jedyne co wam jest potrzebne to \c[4]BILET\c[0]!\! Czas postać w kolejce! Cóż, gdy się człowiek spieszy, to się diabeł cieszy.
+
 
 message_29:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marDarn... You can't really look for BASIL until you get that darn \c[4]TRAIN PASS\c[0] first, huh?
+        \marKurczaczki... Nie możecie szukać BASILA, póki nie zdobędziecie\c[4]BILETU KOLEJOWEGO\c[0], co?
+
 
 message_30:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marSigh... You finally got your \c[4]TRAIN PASS\c[0], but it's too bad that the \c[4]TRAIN\c[0]'s already left.
+        \marEch... W końcu uzyskaliście \c[4]BILET\c[0], ale szkoda, że  \c[4]POCIĄG\c[0] już odjechał.
+
 
 message_31:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-      \marGuess there's not much else to do here, huh?
+      \marNie ma tu zbyt wiele do roboty, co nie?
+
 
 # =========================================================================================
 # KEVIN
 # =========================================================================================
 
+
 message_32:
     faceset: 05_MARI_OW
     faceindex: 4
     text: >
-      \marSorry, KEL. I have no idea where \c[13]HECTOR\c[0] is.\! I'm sure he'll turn up eventually...
+      \marPrzykro mi, KEL. Nie mam pojęcia, gdzie jest \c[13]HEKTOR\c[0].\! Z pewnością kiedyś wróci...
+
 
 # =========================================================================================
 # DAISY'S DILEMMA
 # =========================================================================================
 
+
 message_33:
     faceset: 05_MARI_OW
     faceindex: 3
     text: >
-      \marAwww, DAISY is trying to get her crush to notice her with a \c[4]FLOWER PUZZLE\c[0]! How cute!
+      \marOoo, MARGARETA próbuje zwrócić uwagę swojego obiektu wzdychań za pomocą \c[4]PUZZLI Z KWIATKIEM\c[0]! Jak uroczo!
+
 
 message_34:
     faceset: 05_MARI_OW
     faceindex: 3
     text: >
-      \mar\c[4]FLOWER PUZZLES\c[0] are pretty hard to find, but wouldn't it be so worth it?
+      \mar\c[4]PUZZLE Z KWIATKAMI\c[0] są ciężkie do znalezienia, ale czyż nie jest to tego warte?
+
+
 
 
 # =========================================================================================
 # WEAK WINDS
 # =========================================================================================
 
+
 message_35:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-       \marKITE KID thinks one of the pinwheels is broken.\! If only someone could climb up one and find out what's wrong...
+       \marDZIECIAK Z LATAWCEM sądzi, że jeden z wiatraków jest zepsuty.\! Gdyby tylko ktoś mógł się na niego wspiąć i sprawdzić co jest z nim nie tak...
+
 
 # =========================================================================================
 # TRAIN PASS TROUBLES
 # =========================================================================================
 
+
 message_36:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marIt looks like someone left their \c[4]TRAIN PASS\c[0] in \c[11]OTHERWORLD\c[0]!\! You can get there by climbing up the ladder in \c[11]EAST FOREST\c[0].
+        \marWygląda na to, że ktoś zostawił swój \c[4]BILET KOLEJOWY\c[0] w \c[11]PLANETOWIE INNYM\c[0]!\! Możesz tam dotrzeć, wspinając się na drabinie we \c[11]WSCHODNIM LESIE\c[0].
+
 
 message_37:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marWhy don't you try talking to the SPACE PIRATES north of \c[11]OTHERWORLD CAMPSITE\c[0]? They might know a thing or two.
+        \marCzemu by nie zagadać do KOSMOPIRATÓW na północ od\c[11]KEMPINGOWA INNEGO\c[0]? Może obiło im się coś o uszy.
+
+
 
 
 message_38:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marOh no! It looks like SPACE BOYFRIEND's \c[4]SPECIAL MIXTAPE\c[0] was accidentally thrown away!\! It must be somewhere in the \c[11]JUNKYARD\c[0].
+        \marOch nie! Wygląda na to, że ktoś niechcący wyrzucił \c[4]SUPER-SKŁADANKĘ\c[0] KOSMOCHŁOPAKA!\! Pewnie jest gdzieś w\c[11]ŚMIECIOGRODZIE\c[0].
+
 
 message_39:
     faceset: 05_MARI_OW
     faceindex: 1
     text: >
-        \marThere's a shortcut to the \c[11]JUNKYARD\c[0] from SPACE BOYFRIEND's backyard.\! Sounds like a good idea to start there.
+        \marJest skrót do \c[11]ŚMIECIOGRODU\c[0] z podwórka KOSMOCHŁOPAKA.\! Warto tam zacząć.
+
 
 message_40:
     faceset: 05_MARI_OW
     faceindex: 4
     text: >
-        \marOh no! ROSA has stolen the \c[4]SPECIAL MIXTAPE\c[0] and won't give it back...\! There must be a way to convince her.
+        \marOch no! RÓŻA ukradła\c[4]SUPER-SKŁADANKĘ\c[0] i nie chce jej oddać...\! Na pewno istnieje sposób, aby ją przekonać.
+
 
 message_41:
     faceset: 05_MARI_OW
     faceindex: 5
     text: >
-        \marBLACKMAIL? How could you??\! You should be ashamed, \n[1]!
+        \marLIST Z SZANTAŻEM? Jak mogłeś??\! Powinieneś się wstydzić, \n[1]!
+
 
 message_45:
     faceset: 05_MARI_OW
     faceindex: 3
     text: >
-        \marHehe, just kidding!
+        \marHehe, żartuję!
+
 
 message_46:
     faceset: 05_MARI_OW
     faceindex: 6
     text: >
-        \marAlright, you finally got the \c[4]SPECIAL MIXTAPE\c[0]!\! Now all you have to do is return it to SPACE BOYFRIEND!
+        \marNo dobrze, odzyskaliście \c[4]SUPER-SKŁADANKĘ\c[0]!\! Teraz wystarczy zwrócić ją KOSMOCHŁOPAKOWI!
+
 
 # =========================================================================================
 # STICK IN THE MUD
 # =========================================================================================
 
+
 message_47:
     faceset: 05_MARI_OW
     faceindex: 6
     text: >
-        \marMR. SCARECROW's friends have been scattered around the \c[11]CATTAIL FIELD\c[0].\!<br>You should reunite them soon.\! He seems a little lonely...
+        \marPrzyjaciele PANA STRACHOWRONA zostali rozproszeni po \c[11]POLACH PAŁKOWYCH\c[0].\!<br>Powinniście ich jak najszybciej odnaleźć\! On wygląda na tak samotnego...
+
+
 
 
 # =========================================================================================
 # STRANGE REQUEST
 # =========================================================================================
 
+
 message_48:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marTVGIRL asked you to get some things from a \c[4]STRANGE LIST\c[0] with some strange things on it.\! How strange!
+        \marTELELALA poprosiła was o odnalezienie kilku przedmiotów z tej \c[4]DZIWNEJ LISTY\c[0], na której jest parę dziwnych rzeczy.\! Dziwne!
+
 
 # =========================================================================================
 # THE B.E.D.
 # =========================================================================================
 
+
 message_49:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marSHADY MOLE is looking for a \c[4]B.E.D.\c[0], right?\! MAYOR MOLE would know all about that! He works with his son in the basement under the school.
+        \marPODEJRZANY KIEŁKUN szuka \c[4]Ł.O.Ż.A.\c[0], prawda?\! BURMISTRZ KIEŁKUN się na tym zna! Pracuje wraz z synem w piwnicy pod szkołą.
+
 
 message_50:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marMAYOR MOLE seems pretty preoccupied with worrying about his son.\! Maybe he'll help us if we find him first!
+        \marBURMISTRZ KIEŁKUN zdaje się być bardzo przejęty swoim synem.\! Może jak go odnajdziemy to nam pomoże!
+
 
 message_51:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marAfter an odd set of events, you've gotten yourself a \c[4]B.E.D.\c[0]!\! Is it okay to give it to SHADY MOLE, though?
+        \marPo zbiorze niefortunnych wypadków, w końcu zyskaliście \c[4]Ł.O.Ż.E.\c[0]!\! Lecz czy na pewno powinniście oddawać je PODEJRZANEMU KIEŁKUNOWI?
+
+
 
 
 # =========================================================================================
 # TOFU TIDBIT
 # =========================================================================================
 
+
 message_52:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marA very sweaty SPROUT MOLE is looking for some \c[3]TOFU\c[0].\! How do you not have any already? It's literally everywhere!
+        \marBardzo spocony KIEŁKUN potrzebuje \c[3]TOFU\c[0].\! Jakim cudem w ogóle go nie posiadacie? Jest dosłownie wszędzie!
+
+
 
 
 # =========================================================================================
 # CONGRATULATIONS - SPACE EX-BOYFRIEND
 # =========================================================================================
 
+
 message_53:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marGreat job, you guys!\! Thanks to you, all is at peace with<brl>CAPT. SPACEBOY's crew, and you even got your \c[4]TRAIN PASS\c[0]!
+        \marDobra robota!\! Dzięki wam wszystko gra w zespole<brl>KAPITANA KOSMIKA, a na dodatek zyskaliście\c[4]BILET KOLEJOWY\c[0]!
+
 
 message_54:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \marIf you hurry, maybe you can make it on the train in time!
+        \marJeśli się pospieszycie, może zdążycie na pociąg!
+
 
 message_55:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-         It's too bad that the TRAIN's already left...
+         Szkoda, że POCIĄG już odjechał...
+
 
 # =========================================================================================
 # QUEST TRACKER - QUEST COMPLETE
 # =========================================================================================
 
+
 message_42:
     faceset: 05_MARI_OW
     faceindex: 3
     text: >
-        \marYou completed this quest already!<brl>Looks like you don't need my help after all, hehe.
+        \marJuż skończyliście to zadanie!<brl>Wygląda na to, że jednak nie potrzebujecie mojej pomocy, hehe.
+
 
 message_43:
     faceset: 05_MARI_OW
@@ -399,12 +475,15 @@ message_43:
     text: >
 
 
+
+
 # =========================================================================================
 # QUEST TRACKER - END
 # =========================================================================================
+
 
 message_44:
     faceset: 05_MARI_OW
     faceindex: 0
     text: >
-        \marHope to have helped just a little.<brl>I'll be here if you need me!
+        \marMam nadzieję, że choć troszkę wam pomogłam.<brl>Jeśli mnie będziecie potrzebować, będę tutaj!

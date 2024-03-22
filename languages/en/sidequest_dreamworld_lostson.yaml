@@ -1,82 +1,111 @@
 
+
 # =========================================================================================
 # Lost Son
 # ========================================================================================
 
+
 #Talk to Mr DUCKIE
 
+
 message_0:
-      text: \n<MR. DUCKIE>Sorry to bother you, but have you seen my son anywhere?\! We looked away for less than a second, and he's gone and ran off again!
+      text: \n<PAN KACZUŚ>Przepraszam, że przeszkadzam, ale czy widzieliście może mojego syna?\! Odwróciliśmy od niego wzrok na sekundę i znowu gdzieś uciekł!
+
 
 message_1:
-      text: \n<MR. DUCKIE>Could you keep an eye out for me?\!<br>You'll know when you see him.\! He looks just like me! Haha!
+      text: \n<PAN KACZUŚ>Czy moglibyście go poszukać?\!<br>Będziecie wiedzieli, że to on.\! Wygląda dokładnie tak samo jak ja! Haha!
+
 
 #Talk to DUCKIE Jr
 
+
 message_2:
-      text: \n<DUCKIE JR>The stars sure are pretty, huh?\!<br>I can really lose myself staring into the sky like this.
+      text: \n<KACZUŚ JR>Gwiazdy wyglądają bardzo ładnie, hę?\!<br>Mógłbym się zatracić patrząc w niebo takie jak to.
+
 
 message_3:
-      text: \n<DUCKIE JR>Back on my planet, you can hardly see any stars...
+      text: \n<KACZUŚ JR>Na mojej planecie ledwo widać jakiekolwiek gwiazdy...
+
 
 message_4:
-      text: \n<DUCKIE JR>When I grow up, I wanna be a SPACE CAPTAIN!\!<br>Then I'll be able to have this view all the time!
+      text: \n<KACZUŚ JR>Kiedy dorosnę, chcę zostać KOSMOPIRATEM!\!<br>Wtedy będę mógł podziwiać takie widoki cały czas!
+
 
 message_5:
-      text: \n<DUCKIE JR>Oh, shoot...\! How long have I been here?
+      text: \n<KACZUŚ JR>Oj, kurde...\! Jak długo tutaj byłem?
+
 
 message_6:
-      text: \n<DUCKIE JR>Mom and Dad are probably super worried about me...\!<br>I'd better head home quick!
+      text: \n<KACZUŚ JR>Mama i tata pewnie się o mnie strasznie martwią...\!<br>Powinienem szybko pójść do domu!
+
 
 #DUCKIE JR walks off
 
+
 message_7:
-      text: \n<MR. DUCKIE>Hey, it's you! Thank you for finding DUCKIE JR.
+      text: \n<PAN KACZUŚ>Hej, to wy! Dziękuję za znalezienie KACZUSIA JUNIORA.
+
 
 message_8:
-      text: \n<MR. DUCKIE>Can you stop running off, you little rascal?<br>We're supposed to be on vacation!\!<br>Give your old man some time to relax...
+      text: \n<PAN KACZUŚ>Czy mógłbyś przestać tak uciekać, ty mały łobuzie?<br>To miały być wakacje!\!<br>Daj twojemu staruszkowi trochę czasu na relaks...
+
 
 message_9:
-      text: \n<DUCKIE JR>Okay...\! Sorry, dad...
+      text: \n<KACZUŚ JR>Okej...\! Przepraszam, tato...
+
 
 message_10:
-      text: \n<MR. DUCKIE>Thank you, travelers.\! My son said he wanted to give you something as a token of our thanks.\! <br>Give them the gift, DUCKIE!
+      text: \n<PAN KACZUŚ>Dziękuję, podróżnicy.\! Mój syn powiedział, że chcę wam coś dać jako dowód naszej wdzięczności.\! <br>Daj im ten prezent, KACZUSIU!
+
 
 message_11:
-      text: \n<DUCKIE JR>Here you go!
+      text: \n<KACZUŚ JR>Proszę bardzo!
+
 
 message_12:
-      text: You got a \c[5]DANDELION\c[0].
+      text: Zdobyłeś \c[5]DMUCHAWCA\c[0].
+
 
 message_13:
-      text: \n<MR. DUCKIE>That's my boy!\! The next time you want to go outside you'd better let us know first, okay?
+      text: \n<PAN KACZUŚ>Moja krew!\! Następnym razem, kiedy będziesz chciał wyjść na zewnątrz, po prostu nam powiedz, okej?
+
 
 message_14:
-      text: \n<MR. DUCKIE>You wouldn't want to make Mom worry again, would you?
+      text: \n<PAN KACZUŚ>Nie chciałbyś, żeby mama znowu się o ciebie martwiła, co nie?
+
 
 message_15:
-      text: \n<DUCKIE JR>No...
+      text: \n<KACZUŚ JR>Nie...
+
 
 message_16:
-      text: \n<MR. DUCKIE>Great! That means we can finally spend some quality family time together!\! Now, go to your mom.
+      text: \n<PAN KACZUŚ>Super! To oznacza, że w końcu możemy spędzić trochę czasu jako rodzina!\! Teraz idź do mamy.
+
 
 message_21:
-      text: \n<MR. DUCKIE>Finally, some quality family time!
+      text: \n<PAN KACZUŚ>Nareszcie, trochę czasu dla rodziny!
+
 
 #DUCKIE JR walks to mom
 
+
 #QUEST complete
+
 
 #After-Quest Dialogue: Talk to Mrs. DUCKIE or DUCKIE JR.
 
+
 message_17:
-      text: \n<DUCKIE JR>Mom, can I look at the stars again later?
+      text: \n<KACZUŚ JR>Mamo, czy mógłbym później znowu popatrzeć na gwiazdy?
+
 
 message_18:
-      text: \n<MRS. DUCKIE>Of course you can, sweetie.\!<br>I'm sure your father and I would like to go with you, too.
+      text: \n<PANI KACZUSIOWA>Oczywiście, słońce.\!<br>Ja i tata chętnie pójdziemy z tobą.
+
 
 message_19:
-      text: \n<DUCKIE JR>Yay!
+      text: \n<KACZUŚ JR>Jej!
+
 
 message_20:
-      text: \n<MRS. DUCKIE>Junior just doesn't know how to stay put.\! All he wants to do is go outside!
+      text: \n<PANI KACZUSIOWA>Junior nie wie, jak usiedzieć w miejscu.\! Ciągle chciałby siedzieć na zewnątrz!

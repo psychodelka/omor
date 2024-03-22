@@ -13,7 +13,7 @@ message_1:
       text: No hej! Jak się czujesz?\her
  
 message_2:
-      text: O, cześć...\! Jestem KAPITAN KOSMIK!\!<br>Miło was pozna-\n<KAPITAN KOSMIK>
+      text: O, cześć...\! Jestem KAPITAN KOSMIK!\!<br>Miło was pozna...\n<KAPITAN KOSMIK>
  
 message_3:
       text: \quake[1]Au, moja klata!\quake[0]\n<KAPITAN KOSMIK>
@@ -63,7 +63,7 @@ message_15:
       text: Obawiam się, że nawet odpoczynek nie uleczy złamanego serca.\! Muszę się z tym uporać w inny sposób...\n<KAPITAN KOSMIK>
  
 message_16:
-      text: KAPITANIE KOSM- Znaczy, KOSMOCHŁOPAKU!\n<KUMPEL KOSMOPIRAT>
+      text: KAPITANIE KOSM... Znaczy, KOSMOCHŁOPAKU!\n<KUMPEL KOSMOPIRAT>
  
 message_17:
       text: Jest mi tak strasznie przykro, ale mam bardzo, bardzo złe wieści.\! Twoja ulubiona planeta, PLUTON, uciekła i nigdzie nie możemy jej znaleźć.\n<KUMPEL KOSMOPIRAT>
@@ -84,7 +84,7 @@ message_22:
       text: H-ha?\! Serio??\! Więc nie jesteś zły?\n<KUMPEL KOSMOPIRAT>
  
 message_23:
-      text: Jesteś pewny, KAPITANIE KOSM-, znaczy KOSMOCHŁOPAKU?\n<TYPEK KOSMOPIRAT>
+      text: Jesteś pewny, KAPITANIE KOSM... znaczy KOSMOCHŁOPAKU?\n<TYPEK KOSMOPIRAT>
  
 message_24:
       text: Tak, jestem.\! Zbierz resztę załogi.\!<br>Wyruszamy nad \c[11]MROŹNE JEZIORO\c[0] zdobyć kilka \c[3]ZMROŻKÓW\c[0].\n<KAPITAN KOSMIK>
@@ -169,7 +169,7 @@ message_51:
 #Everyone turns to AUBREY and is surprised.
  
 message_52:
-      text: O-oł...\! Proszę, młoda damo... Nie płacz!\!<br>Eee...\! Hej, weź też to!\n<KAPITAN KOSMIK>
+      text: O-o...\! Proszę, młoda damo... Nie płacz!\!<br>Eee...\! Hej, weź też to!\n<KAPITAN KOSMIK>
  
 #CAPT. SPACEBOY walks to book shelf.
 #CAPT. SPACEBOY walks to AUBREY.
@@ -189,7 +189,7 @@ message_56:
       text: Chlip... chlip...\! Och...\!<br>Chlip...\! N-no dobra...\aub
  
 message_57:
-      text: Hej, KAPITANIE! Gotowy, żeby wyruszyć?\!<br>Wszyscy na ciebie czekają!\spg
+      text: Hej, KAPITANIE! Gotowy, żeby wyruszyć?\!<br>Wszyscy na ciebie czekają!\n<KOLEŚ KOSMOPIRAT>
  
 message_58:
       text: Ach! Tak, poczekajcie. Już idę!\n<KAPITAN KOSMIK>

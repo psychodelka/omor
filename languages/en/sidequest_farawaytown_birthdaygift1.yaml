@@ -28,7 +28,7 @@ message_4:
 
 #Examine Videogame
 message_5:
-      text: Nowa gra wideo, nazywa się \c[4]SUPER ULTRA KIEŁKUNOŻERCA:\ ZEMSTA KIEŁKUNÓW III\c[0].
+      text: Nowa gra wideo, nazywa się \c[4]SUPER ULTRA KIEŁKUNOŻERCA. ZEMSTA KIEŁKUNÓW III\c[0].
 
 
 message_6:
@@ -43,7 +43,7 @@ message_7:
 
 
 message_8:
-      text: \n<ZMARSZCZUCH>\c[4]SUPER ULTRA KIEŁKUNOŻERCA:\ ZEMSTA KIEŁKUNÓW III\c[0]?\! Nie wiem, co ludzie mogliby w tym widzieć, ale w porządku, kupię!
+      text: \n<ZMARSZCZUCH>\c[4]SUPER ULTRA KIEŁKUNOŻERCA. ZEMSTA KIEŁKUNÓW III\c[0]?\! Nie wiem, co ludzie mogliby w tym widzieć, ale w porządku, kupię!
 
 
 message_17:
@@ -94,7 +94,7 @@ message_19:
 
 
 message_30:
-      text: \n<KASJER>Ooo...\! \c[4]SUPER ULTRA KIEŁKUNOŻERCA\c[0] <br>\c[4]ZEMSTA KIEŁKUNÓW III\c[0]...\! Dobry wybór!\! Proszę bardzo!
+      text: \n<KASJER>Ooo...\! \c[4]SUPER ULTRA KIEŁKUNOŻERCA.\c[0] <br>\c[4]ZEMSTA KIEŁKUNÓW III\c[0]...\! Dobry wybór!\! Proszę bardzo!
 
 
 message_31:

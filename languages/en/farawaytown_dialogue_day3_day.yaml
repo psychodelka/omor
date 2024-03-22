@@ -144,7 +144,7 @@ message_81:
 
 
 message_90:
-      text: \n<ONIEŚMIELAJĄCA>Kiedy BETA powiedziała mi o chłopaku, w którym się zauroczyła, musiałam zobaczyć go na własne oczy.\! Póki co, nigdzie go nie ma... ale mam wypatrywać kogoś z blond peruką.
+      text: \n<ONIEŚMIELAJĄCA>Kiedy BETA powiedziała mi o chłopaku, w którym się zauroczyła, musiałam zobaczyć go na własne oczy.<br><br>Póki co nigdzie go nie ma... ale mam wypatrywać kogoś z blond peruką.
 
 
 message_91:
@@ -246,11 +246,11 @@ message_163:
 
 
 message_170:
-      text: \n<DZIECIAK W SŁUCHAWKACH>Ech...\! Kiedy byłem mały, miałem dwoje dobrych przyjaciół, BRENTA i NADZIEJĘ, ale potem zaczęli się tylko interesować szkołą, więc przestałem się z nimi spotykać.
+      text: \n<DZIECIAK W SŁUCHAWKACH>Ech...\! Kiedy byłem mały, miałem dwoje dobrych przyjaciół, BRENTA i JOY, ale potem zaczęli się tylko interesować szkołą, więc przestałem się z nimi spotykać.
 
 
 message_171:
-      text: \n<DZIECIAK W SŁUCHAWKACH>Ciekawe co teraz robią...
+      text: \n<DZIECIAK W SŁUCHAWKACH>Ciekawe, co teraz robią...
 
 
 #==============JESSE'S DAD===========================================

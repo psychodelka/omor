@@ -35,7 +35,7 @@ message_2:
 message_40:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelHej, \n[8]! Jak ci poszło?\! Kiedy pracowałeś, usiadłem sobie na ławce i gadałem z nieznajomymi!\!<br>Było fajnie...\! No dobra... Jak chcesz, to możemy już spadać!
+      text: \kelHej, \n[8]! Jak ci poszło?\! Kiedy pracowałeś, usiadłem sobie na ławce i gadałem z nieznajomymi!\!<br>Było fajnie...\! No dobra...<br>Jak chcesz, to możemy już spadać!
 
 
 # Door Knock Greeting
@@ -106,7 +106,7 @@ message_36:
 
 
 message_37:
-      text: \n<GOŚĆ OD PIZZY>Hej, nowy!\! Właśnie chciałem się z tobą spotkać!\!<br>Według najnowszych opinii gości, wskaźnik satysfakcji twoich klientów wynosi \v[823]/10.
+      text: \n<GOŚĆ OD PIZZY>Hej, nowy!\! Właśnie chciałem się z tobą spotkać!\!<br>Według najnowszych opinii gości wskaźnik satysfakcji twoich klientów wynosi \v[823]/10.
 
 
 # Move On GOOD

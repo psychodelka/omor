@@ -2,150 +2,193 @@
 # Cooking Help
 # =========================================================================================
 
+
 message_0:
-      text: \n<PIGTAILS LADY>Oh, hello!\! I remember you! You're the boy who chose the wallpaper for our house.\! I see you brought your friends!
+      text: \n<PANI W KUCYKACH>O, witam!\! Pamiętam cię! To ty pomogłeś nam wybrać tapetę.\! A to twoi koledzy?
+
 
 message_1:
-      text: \n<PIGTAILS LADY>If you're here for the party, I'm sorry. It's still a little bit early...
+      text: \n<PANI W KUCYKACH>Jeśli przyszliście na imprezę, to przykro mi. Jesteście sporo przed czasem...
+
 
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelOh shoot... That's our bad!\! We'll just come back later!
+      text: \kelO kurka... Nasza wina!\! Wrócimy później!
+
 
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 31
-      text: \herHm?\! Sniff...\! Huh?\! Do you guys smell that?\!<br>It smells like something is burning...
+      text: \herHm?\! Niuch...\! Hę?\! Też to czujecie?\!<br>Chyba coś się przypaliło...
+
 
 message_4:
-      text: \n<PIGTAILS LADY>\com[2]\{\quake[1]EEEEEEEEEK!!\quake[0] SORRY, ONE SECOND!
+      text: \n<PANI W KUCYKACH>\com[2]\{\quake[1]IIIIIIIII!!\quake[0] PRZEPRASZAM NA CHWILĘ!
+
 
 #KAREN slams the door, then reopens it
 
+
 message_5:
-      text: \n<PIGTAILS LADY>...
+      text: \n<PANI W KUCYKACH>...
+
 
 message_6:
-      text: \n<PIGTAILS LADY>Actually...\! Um...\! You guys wouldn't happen to know how to cook, would you?\! I might need a little help with dinner...
+      text: \n<PANI W KUCYKACH>Właściwie...\! yyy...\! Czy któryś z was umie gotować?\! Chyba będę potrzebowała trochę pomocy przy obiedzie...
+
 
 message_7:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelYou need help cooking?\! Well, today is your lucky day!<br>\!My brother HERO is an amazing cook!\! He'll definitely be able to cook something right up! Heh heh...
+      text: \kelGotowanie?\! No to trafiłaś w dziesiątkę!<br>\!Mój brat, HERO, jest wspaniałym kucharzem!\! Na pewno mógłby coś na szybko upichcić! He he...
+
 
 message_8:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: \herH-Huh?\! I-I will?
+      text: \herC-co?\! M-mógłbym?
+
 
 message_9:
-      text: \n<PIGTAILS LADY>Oh, thank you!\! Please... come inside!
+      text: \n<PANI W KUCYKACH>O, dziękuję!\! Proszę... wejdźcie do środka!
+
 
 #Talk to KAREN inside
 
+
 message_10:
-      text: \n<PIGTAILS LADY>Sorry to trouble you like this...\! It's my first time cooking for so many people, so I'm a little nervous...
+      text: \n<PANI W KUCYKACH>Przepraszam za sprawienie kłopotu...\! Po raz pierwszy gotuję dla aż tylu osób, trochę się denerwuję...
+
 
 message_11:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelNo worries.\! We'll help you out! Won't we, guys?\! \sinv[1]Won't we?\sinv[0]
+      text: \kelBez obaw.\! Pomożemy ci! Co nie, chłopaki?\! \sinv[1]Pomożemy?\sinv[0]
+
 
 message_12:
       faceset: MainCharacters_Faraway
       faceindex: 38
-      text: \herOh... Alright, then... \!Come on, team.\!<br>I'm gonna put you all to work!
+      text: \herO... No dobrze... \!Zrobimy to razem.\!<br>Każdy będzie miał zajęcie!
+
 
 message_13:
       faceset: MainCharacters_Faraway
       faceindex: 5
-      text: \aubHuh? W-Wait a sec... Even me!?
+      text: \aubHa? Cz-czekaj... Ja też?!
+
 
 message_14:
     faceset: MainCharacters_Faraway
     faceindex: 38
-    text: \herYeah, of course!\! We used to cook together all the time when we were kids, didn't we?
+    text: \herOczywiście, że tak!\! Gdy byliśmy mali, ciągle razem gotowaliśmy, pamiętacie?
+
 
 message_15:
-    text: \n<PIGTAILS LADY>Thank you so much! Feel free to use any ingredients!\! I don't have a lot, though...
+    text: \n<PANI W KUCYKACH>Bardzo wam dziękuję! Nie wahajcie się użyć żadnych składników!\! Przepraszam, że zostało ich tak niewiele...
+
 
 message_16:
     faceset: MainCharacters_Faraway
     faceindex: 30
-    text: \herDon't worry... I know we can make something delicious!\!<br>Let's get to work!
+    text: \herNie martw się... Uda nam się przygotować coś pysznego!\!<br>Bierzmy się do pracy!
+
 
 message_17:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kel\Com[2]\{\SINV[1]AYE AYE, CAPTAIN!!\SINV[0]
+      text: \kel\Com[2]\{\SINV[1]TAK JEST, KAPITANIE!!\SINV[0]
+
 
 # ===============================================
 #Cutscene: Hero helps KAREN Cook
 # ===============================================
 
+
 #SEAN walks inside.
 
+
 message_18:
-      text: \n<CHECKERS GUY>Wow... What smells so delicious in here?
+      text: \n<KRACIASTY>Wow... Co tu tak pysznie pachnie?
+
 
 message_19:
-      text: \n<PIGTAILS LADY>Oh, hello SEAN!\! Our new friends were just helping me prepare dinner for tonight's party!
+      text: \n<PANI W KUCYKACH>O, cześć, SZYMON!\! Nasi nowi znajomi pomagają w przygotowywaniu jedzenia na dzisiejszą imprezę!
+
 
 message_20:
-      text: \n<CHECKERS GUY>Well...\! It looks like you guys are doing a great job!\!<br>I'm done setting up outside so let me help, too!
+      text: \n<KRACIASTY>No...\! Wygląda na to, że dobrze wam idzie!\!<br>Skończyłem już ogarniać na zewnątrz, więc pozwólcie, że dołączę się do pomocy!
+
 
 message_21:
-      text: \n<PIGTAILS LADY>\sinv[1]Yay!\! Now all of us can cook together!
+      text: \n<PANI W KUCYKACH>\sinv[1]Hurra!\! Teraz możemy gotować wszyscy razem!
+
 
 #Cooking montage: Everyone standing near the oven
 
+
 message_22:
-      text: \n<PIGTAILS LADY>\sinv[1]Phew...\sinv[0] All done!\! With your help, this party is going to be a great success!
+      text: \n<PANI W KUCYKACH>\sinv[1]Fiu...\sinv[0] Zrobione!\! Z waszą pomocą ta impreza jednak będzie udana!
+
 
 message_23:
-      text: \n<PIGTAILS LADY>Thank you for all your help again.<br>\!You're all such genuinely nice people!
+      text: \n<PANI W KUCYKACH>Jeszcze raz dziękuję wam za pomoc.<br>\!Jesteście tacy mili!
+
 
 message_24:
     faceset: MainCharacters_Faraway
     faceindex: 29
-    text: \herAny time!\! Thanks for trusting us with your kitchen...<br>\!We really enjoyed cooking with you guys!
+    text: \herNie ma sprawy!\! Dzięki za powierzenie nam swojej kuchni...<br>\!Gotowanie z wami naprawdę sprawiło nam przyjemność!
+
 
 message_25:
     faceset: MainCharacters_Faraway
     faceindex: 14
-    text: \kelYeah, this was really fun!\! Can't wait to eat everything at the party tonight!
+    text: \kelNo, było naprawdę fajnie!\! Nie mogę się doczekać, żeby spróbować wszystkiego na imprezie!
+
 
 message_26:
-      text: \n<CHECKERS GUY>We'll be waiting for you!
+      text: \n<KRACIASTY>Będziemy na was czekać!
+
 
 message_27:
-      text: \n<PIGTAILS LADY>Take care of yourselves!
+      text: \n<PANI W KUCYKACH>Trzymajcie się!
+
+
 
 
 message_100:
-      text: \n<PIGTAILS LADY>Hi, everyone! Come on in!\! The party's already started!
+      text: \n<PANI W KUCYKACH>Witajcie! Zapraszam!\! Impreza już się zaczęła!
+
 
 message_101:
-      text: Delicious \c[3]COOKIES\c[0]!
+      text: Wyśmienite \c[3]CIASTKA\c[0]!
+
 
 message_102:
-      text: An old \c[3]PIE\c[0]!
+      text: Stare \c[3]CIASTO\c[0]!
+
 
 message_103:
-      text: A fresh \c[3]PIE\c[0]!
+      text: Świeże \c[3]CIASTO\c[0]!
+
 
 message_104:
-      text: A big ol' chicken roast.
+      text: Ogromny pieczony kurczak.
+
 
 message_105:
-      text: Salad...
+      text: Sałatka...
+
 
 message_106:
-      text: \n<CHECKERS GUY>Yo! You excited for the party tonight?\! We'll see you there!
+      text: \n<KRACIASTY>Siema! Gotowi na dzisiejszą imprezkę?\! Do zobaczenia później!
+
 
 message_107:
-      text: An unfinished plate of food.
+      text: Talerz z niedojedzonym jedzeniem.
+
 
 message_108:
-      text: A yummy \c[3]CAKE SLICE\c[0]!
+      text: Przepyszny \c[3]KAWAŁEK TORTU\c[0]!

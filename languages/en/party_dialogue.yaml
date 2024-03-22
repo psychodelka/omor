@@ -132,7 +132,7 @@ message_32:
 message_33:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herNie...\! Nie wydaję mi się.\! Ostatnie, co pamiętam, to układnie zdjęć z BASILEM w jego domu...
+      text: \herNie...\! Nie wydaję mi się.\! Ostatnie, co pamiętam, to układanie zdjęć z BASILEM w jego domu...
 
 
 message_39:
@@ -289,7 +289,7 @@ message_55:
 message_56:
       faceset: MainCharacters_DreamWorld
       faceindex: 29
-      text: \kelMyślisz, że BASIL gdzieś sobie poszedł bez mówienia nam?
+      text: \kelMyślisz, że BASIL bez słowa gdzieś sobie poszedł?
 
 
 message_57:
@@ -307,7 +307,7 @@ message_58:
 message_59:
       faceset: MainCharacters_DreamWorld
       faceindex: 12
-      text: \aubCo, jeśli go nie znajdziemy?\! Co, jeśli jest w niebezpieczeństwie?
+      text: \aubCo jeśli go nie znajdziemy?\! Co jeśli jest w niebezpieczeństwie?
 
 
 message_60:
@@ -331,7 +331,7 @@ message_62:
 message_63:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubOkej! Musimy być dobrej myśli!<br>\!Chodźmy poszukać BASILA w  \c[11]NIEZMIERNYM LESIE\c[0].
+      text: \aubOkej! Musimy być dobrej myśli!<br>\!Chodźmy poszukać BASILA w \c[11]NIEZMIERNYM LESIE\c[0].
 
 
 #------------------------------------------------------------------------------------------
@@ -473,7 +473,7 @@ message_95:
 message_96:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \kelAle co, jeśli BASIL jest gdzieś tam na górze?<br>Musimy wykorzystać szansę!
+      text: \kelAle co jeśli BASIL jest gdzieś tam na górze?<br>Musimy wykorzystać szansę!
 
 
 message_97:
@@ -709,7 +709,7 @@ message_143:
 message_144:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: \aub\c[4]SUPER SKŁADANKI\c[0] KOSMOCHŁOPAKA...
+      text: \aub\c[4]SUPER-SKŁADANKI\c[0] KOSMOCHŁOPAKA...
 
 
 message_145:
@@ -1016,13 +1016,13 @@ message_199:
 message_200:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelDalej, brachu! Nie możesz się teraz wycofać.<br>\!Tak samo OMORI.\!<br>Zawsze będziemy cię wspierać, nie ważne co!
+      text: \kelDalej, brachu! Nie możesz się teraz wycofać.<br>\!Tak samo OMORI.\!<br>Zawsze będziemy cię wspierać, nieważne co!
 
 
 message_201:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herTa, masz rajcę...\! haha...\! Po prostu się wygłupiam...
+      text: \herTa, masz rację...\! haha...\! Po prostu się wygłupiam...
 
 
 message_202:
@@ -1141,7 +1141,7 @@ message_215:
 message_216:
       faceset: MainCharacters_DreamWorld
       faceindex: 41
-      text: \herMARI...\! Ja...\! Tak bardzo się bałem!
+      text: \herMARI...\! Ja...\! tak bardzo się bałem!
 
 
 #*HERO hugs MARI*
@@ -1159,7 +1159,7 @@ message_217:
 message_218:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: \kelEch...\! To właśnie w takich momentach chciałbym, żeby BASIL z nami był.<br><br><br>Pewnie opowiedziałby HERO o tym, jak pająk są nieszkodliwe i dobre dla natury, czy coś w tym stylu.\! Może wtedy nie uważał by je za takie przerażające.
+      text: \kelEch...\! To właśnie w takich momentach chciałbym, żeby BASIL z nami był.<br><br>Pewnie opowiedziałby HERO o tym, jak pająki są nieszkodliwe i dobre dla natury, czy coś w tym stylu.\! Może wtedy nie uważałby ich za takie przerażające.
 
 
 #AUBREY turns to kel
@@ -1222,7 +1222,7 @@ message_234:
 message_235:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herSam nie wiem...\! Wydaje się... interesujące?\!<br>Ale nie wydaję mi się, byśmy mieli na to czas.
+      text: \herSam nie wiem...\! Wydaje się... interesujące?\!<br>Ale nie sądzę, byśmy mieli na to czas.
 
 
 message_236:
@@ -1327,7 +1327,7 @@ message_254:
 message_255:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marWiem, że się boisz... ale też wiem, że dasz sobie radę.\! Nie musisz się spieszyć, masz tyle czasu, ile ci trzeba. Przygotuj się, poświęć temu tyle czasu, ile potrzebujesz.\! Będę czekać, aż będziesz gotowy.
+      text: \marWiem, że się boisz... ale też jestem przekonana, że dasz sobie radę.\! Nie musisz się spieszyć, masz tyle czasu, ile ci trzeba. Przygotuj się, poświęć temu tyle czasu, ile potrzebujesz.<br>Zaczekam, aż będziesz gotów.
 
 
 #------------------------------------------------------------------------------------------
@@ -1822,7 +1822,7 @@ message_357:
 message_358:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelTak ma nazywa się ta roślina.
+      text: \kelTak nazywa się ta roślina.
 
 
 message_359:
@@ -2038,7 +2038,7 @@ message_405:
 message_406:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: \herO czym ty mówisz, KEL?
+      text: \aubO czym ty mówisz, KEL?
 
 
 message_407:
@@ -2474,7 +2474,7 @@ message_494:
 
 #Examine black hole:
 message_495:
-      text: Jest głęboko...\| Czy chcesz skoczyć?
+      text: W dole widzisz tylko otchłań...\| Czy chcesz skoczyć?
 
 
 #[YES/NO]
@@ -2510,7 +2510,7 @@ message_498:
 
 
 message_499:
-      text: Jest głęboko...
+      text: W dole widzisz tylko otchłań...
 
 
 #[YES/NO]
@@ -2547,7 +2547,7 @@ message_501:
 message_520:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Czekaliśmy na ciebie, OMORI!\!<br>>Może chcesz zagrać z nami w karty? Właśnie mieliśmy zacząć kolejną rundę!\aub
+      text: Czekaliśmy na ciebie, OMORI!\!<br>Może chcesz zagrać z nami w karty? Właśnie mieliśmy zacząć kolejną rundę!\aub
 
 
 #AUBREY looks behind her.
@@ -3016,7 +3016,7 @@ message_700:
 message_701:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubAle nie przeszukaliśmy nawet całego lasu!\! Nie możemy od tak przestać!
+      text: \aubAle nie przeszukaliśmy nawet całego lasu!\! Nie możemy ot tak przestać!
 
 
 message_702:

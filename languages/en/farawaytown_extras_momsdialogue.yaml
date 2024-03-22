@@ -12,7 +12,7 @@ message_0:
 
 
 message_1:
-      text: \"Firma od przeprowadzki przyjedzie do naszego domu już za parę dni, więc zostawiłam listę rzeczy, które mógłbyś zrobić, nim przyjadą.\"\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Firma od przeprowadzki przyjedzie do naszego domu już za parę dni, więc zostawiłam listę rzeczy, które mógłbyś zrobić, nim przyjadą\".\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_2:
@@ -20,15 +20,15 @@ message_2:
 
 
 message_3:
-      text: \"Zapomniałam powiedzieć firmie elektrycznej, że potrzebujemy kilka dodatkowych dni, zanim będziemy gotowi się przeprowadzić, więc światła mogą przestać działać dziś wieczorem.\"\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Zapomniałam dać znać firmie elektrycznej, że potrzebujemy jeszcze paru dni, zanim będziemy gotowi się przeprowadzić, więc dziś wieczorem mogą wysiąść światła\".\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_4:
-      text: \"Tak czy inaczej...\! Wiem, że przeprowadzanie się do nowego miejsca może być trochę niepokojące, ale myślę, że zmiana otoczenia będzie dobra dla nas obu!\"\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Tak czy inaczej...\! wiem, że przeprowadzka do nowego miejsca może być trochę niepokojąca, ale myślę, że zmiana otoczenia dobrze zrobi nam obojgu!\"\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_5:
-      text: \"Wiem, że od dawna z nikim nie rozmawiałeś, ale możesz chcieć się pożegnać ze starymi przyjaciółmi, nim wyjedziemy.\"\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Wiem, że od dawna z nikim nie rozmawiałeś, ale możesz chcieć się pożegnać ze starymi przyjaciółmi, nim wyjedziemy\".\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_6:
@@ -109,7 +109,7 @@ message_21:
 
 
 message_22:
-      text: \"Cześć, \n[8]! To notatka od MAMUSI.\"\n<NOTATKA OD MAMY>
+      text: \"Cześć, \n[8]! To notatka od MAMUSI\".\n<NOTATKA OD MAMY>
 
 
 #Bathroom mirror
@@ -130,14 +130,14 @@ message_24:
 
 
 message_25:
-      text: \"Zostawiłam dla ciebie trochę jedzenia w lodówce<br>\c[4]STEKA\c[0]... twojego ulubionego!\"\n<NOTATKA OD MAMY>
+      text: \"W lodówce zostawiłam ci coś na ząb.<br>\c[4]STEK\c[0]... twój ulubiony!\"\n<NOTATKA OD MAMY>
 
 
 #last Line always
 
 
 message_29:
-      text: \"Kocham cię, buziaczki.\"\n<NOTATKA OD MAMY>
+      text: \"Kocham cię, buziaczki\".\n<NOTATKA OD MAMY>
 
 
 
@@ -161,7 +161,7 @@ message_52:
 
 
 message_55:
-      text: \"Hej \n[8], tu MAMUSIA.\! Wszystko u ciebie dobrze?\! Nie odbierasz telefonu, ani nie odpowiadasz na pocztę głosową!\! Jeśli będziesz mnie ignorował, znowu zacznę się o ciebie martwić!\"\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Hej \n[8], tu MAMUSIA.\! Wszystko u ciebie dobrze?\! Nie odbierasz telefonu, ani nie odpowiadasz na pocztę głosową!<br><br>Jeśli będziesz mnie ignorował, znowu zacznę się o ciebie martwić!\"\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_56:
@@ -173,7 +173,7 @@ message_57:
 
 
 message_58:
-      text: \"Przy okazji, czy mógłbyś przejrzeć szafę na parterze i sprawdzić, czy nie chcesz wziąć czegoś ze sobą.\! Zapewne wyrzucimy wszystko, czego już nie chcesz.\"\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Przy okazji, czy mógłbyś przejrzeć szafę na parterze i sprawdzić, czy nie chcesz wziąć czegoś ze sobą.\! Zapewne wyrzucimy wszystko, czego już nie chcesz\".\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_59:
@@ -188,7 +188,7 @@ message_60:
 
 
 message_61:
-      text: \"Pamiętaj, żeby dziś skończyć się przygotowywać.\! Odbiorę cię moim samochodem sprzed domu.\! Po prostu wyjdź, kiedy będziesz gotowy.\"\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Pamiętaj, żeby dziś skończyć się przygotowywać.\! Odbiorę cię moim samochodem sprzed domu.\! Po prostu wyjdź, kiedy będziesz gotowy\".\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_62:
