@@ -252,7 +252,7 @@ message_69:
 message_70:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: H-hę?\! M-moje imię, ech...\! To HERO, panienko...\her
+      text: H-hę?\! M-moje imię, ech...\! to HERO, panienko...\her
  
 message_71:
       text: HERO!\! \Com[2]Mój HEROSIE!\! Musimy zawitać do moich komnat w tej chwili!\n<SŁODZIUTKA>
@@ -548,7 +548,7 @@ message_172:
 message_173:
       faceset: MainCharacters_DreamWorld
       faceindex: 42
-      text: Zabierzmy się stąd...\!<br>Nigdy więcej nie chcę widzieć kolejnego KIEŁKUNA.\her
+      text: Zbierajmy się stąd...\!<br>Nigdy więcej nie chcę widzieć kolejnego KIEŁKUNA.\her
  
 # =========================================================================================
 # Misc

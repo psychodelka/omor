@@ -93,7 +93,7 @@ message_14:
 message_15:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aub...\! Nigdy wcześniej nie widziałam jej w takim stanie...
+      text: \aub...\!Nigdy wcześniej nie widziałam jej w takim stanie...
 #*HERO walks right in front of PLAYER*
  
 message_16:

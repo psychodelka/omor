@@ -187,7 +187,7 @@ message_30:
 message_31:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aub\com[2]C-co?! Czemu?!\! Co jeśli coś mu się stanie?
+    text: \aub\com[2]C-co?! Czemu?!\! Co, jeśli coś mu się stanie?
 
 
 message_32:
@@ -738,7 +738,7 @@ message_157:
 
 #Talk to RUBEN again.
 message_158:
-    text: \n<BUŁA>Razem z WEKĄ zbudowaliśmy tą miejscówkę od podstaw.\!<br>Teraz przychodzą do nas klienci z całego świata!\!<br>Nie ma nic lepszego.
+    text: \n<BUŁA>Razem z WEKĄ zbudowaliśmy tę miejscówkę od podstaw.\!<br>Teraz przychodzą do nas klienci z całego świata!\!<br>Nie ma nic lepszego.
 
 
 #Talk to RUBEN again.
@@ -1277,7 +1277,7 @@ message_283:
 message_284:
     faceset: MainCharacters_DreamWorld
     faceindex: 27
-    text: \kel...\! Czemu to nie chodzi?
+    text: \kel...\!Czemu to nie chodzi?
 
 
 #KEL presses the button a bunch of times

@@ -92,7 +92,7 @@ message_24:
 
 
 message_30:
-      text: \n<MAVERICK>Od samego rana usiłuję przejść tą grę, ale ciągle przegrywam.\! Ech...\! Czemu tak trudno jest znaleźć coś, w czym ja, \Com[2]WIELKI MAVERICK, będę dobry!?
+      text: \n<MAVERICK>Od samego rana usiłuję przejść tę grę, ale ciągle przegrywam.\! Ech...\! Czemu tak trudno jest znaleźć coś, w czym ja, \Com[2]WIELKI MAVERICK, będę dobry!?
 
 
 #==============VANCE===========================================
@@ -108,7 +108,7 @@ message_40:
 
 
 message_50:
-      text: \n<ARTYSTKA>Achh...\! Nareszcie, cisza i spokój...
+      text: \n<ARTYSTKA>Aaach...\! Nareszcie, cisza i spokój...
 
 
 #==============AUBREY'S MOM===========================================
@@ -190,7 +190,7 @@ message_110:
 
 
 message_120:
-      text: \n<STARY BRODACZ>Duchy wyły cały dzień...\!<br>Modlę się za tą okolicę.\!<br>Dziś w nocy będą kogoś opłakiwać.
+      text: \n<STARY BRODACZ>Duchy wyły cały dzień...\!<br>Modlę się za tę okolicę.\!<br>Dziś w nocy będą kogoś opłakiwać.
 
 
 #==============KARO'S MOM===========================================

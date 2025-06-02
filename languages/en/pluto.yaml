@@ -194,7 +194,7 @@ message_25:
 
 
 message_26:
-    text: \n<PLUTON>Jeśli czyni mnie to zbuntowaną planetą, niech tak będzie.<br>\!Mogą nazywać mnie jak chcą,<br>dopóki jestem wolny, czynić, co chce!
+    text: \n<PLUTON>Jeśli czyni mnie to zbuntowaną planetą, niech tak będzie.<br>\!Mogą nazywać mnie, jak chcą, dopóki jestem wolny, zamierzam czynić, co chce!
 
 
 #Background below turns to normal
@@ -232,7 +232,7 @@ message_30:
 message_31:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herCzekaj, ty też AUBREY??
+    text: \herCzekaj, ty też, AUBREY??
 
 
 
@@ -253,7 +253,7 @@ message_34:
 
 
 message_35:
-    text: \n<PLUTON>...\! Ehkem!\! Jestem PLUTON z \”LINII KOSMICZNYCH PLUTONA\”.\!<br>Proszę, udawajcie, że właśnie przybyliście na stację transportującą.
+    text: \n<PLUTON>...\!Ehkem!\! Jestem PLUTON z \”LINII KOSMICZNYCH PLUTONA\”.\!<br>Proszę, udawajcie, że właśnie przybyliście na stację transportującą.
 
 
 #PLUTO turns around
@@ -277,7 +277,7 @@ message_37:
 
 
 message_38:
-    text: \n<PLUTON>\Com[2]\{DOKĄD \Com[2]CHCIELIBYŚCIE \Com[2]SIĘ DZISIAJ UDAĆ,<br>\Com[2]MŁODZI \Com[2]PODRÓŻNICY??
+    text: \n<PLUTON>\Com[2]\{DOKĄD \Com[2]CHCIELIBYŚCIE \Com[2]SIĘ DZISIAJ <br>\Com[2]UDAĆ,MŁODZI \Com[2]PODRÓŻNICY??
 
 
 message_39:
@@ -302,7 +302,7 @@ message_41:
 
 
 message_43:
-    text: \n<PLUTON>Więc chcecie dotrzeć do obozowiska w \c[11]PLANETOWIE INNYM\c[0]?\!<br>...\! Ach, mój pierwszy lot...\! \sinv[1]ekscytujące!
+    text: \n<PLUTON>Więc chcecie dotrzeć do obozowiska w \c[11]PLANETOWIE INNYM\c[0]?\!<br>...\!Ach, mój pierwszy lot...\! \sinv[1]ekscytujące!
 
 
 #PLUTO turn facing away
@@ -375,7 +375,7 @@ message_131:
 
 
 message_132:
-    text: \n<PLUTON>Masz potencjał, by być bardzo silny!\! Pozwól, że cię nauczę \c[1]ZDOLNOŚCI\c[0], która może ci się przydać w przyszłości.
+    text: \n<PLUTON>Masz potencjał, by być bardzo silny!\! Pozwól, że nauczę cię \c[1]ZDOLNOŚCI\c[0], która może przydać ci się w przyszłości.
 
 
 message_133:
@@ -472,7 +472,7 @@ message_100:
 
 
 message_101:
-  text: \n<PIANEK>Ojejku! \!Stoję na twojej drodzę?\!<br>Przepraszam.\! Przesunę się.
+  text: \n<PIANEK>Ojejku! \!Stoję na twojej drodze?\!<br>Przepraszam.\! Przesunę się.
 
 
 # =========================================================================================

@@ -114,7 +114,7 @@ message_15:
 #A line of four KIEŁKUNS are walking toward PYREFLY FOREST.
  
 message_30:
-      text: Ożeż, ożeż!\! Czekałem już tak długo na to wydarzenie!!\!<br>To przepiękny dzień!\n<KIEŁKUN>
+      text: Ożeż, ożeż!\! Tak długo czekałem na to wydarzenie!!\!<br>To przepiękny dzień!\n<KIEŁKUN>
  
 message_31:
       text: O tak, o tak!\! W końcu, nasza cudowna królewna, SŁODZIUTKA, nareszcie się nam objawi!\n<KIEŁKUN>
@@ -252,7 +252,7 @@ message_81:
 #SMM walks onto the stage.
  
 message_100:
-      text: Kiełkunki i kiełkunowie...\!<br>Witamy w odcinku specjalnym...\!<br>\"SZANSY NA SERCE SŁODZIUTKIEJ!\"\n<KIEŁKUN MIKOŁAJ>
+      text: Kiełkunki i kiełkunowie...\!<br>Witamy w odcinku specjalnym...\!<br>\"SZANSY NA SERCE SŁODZIUTKIEJ\"!\n<KIEŁKUN MIKOŁAJ>
  
 #Applause
  
@@ -336,7 +336,7 @@ message_120:
       text: \sinv[1]Emanuje...\| pięknem... \|Wielki ma...\| gest...\|<br>Ona zdecydowanie...\| najpiękniejsza tu jest...\n<KIEŁKUN MIKOŁAJ>
  
 message_121:
-      text: Tak!\! Wiecie, o kim mówimy!<br>\!Jest tak wspaniała i wielka! I zaraz wstąpi na tą scenę!!\n<KIEŁKUN MIKOŁAJ>
+      text: Tak!\! Wiecie, o kim mówimy!<br>\!Jest tak wspaniała i wielka! I zaraz wstąpi na tę scenę!!\n<KIEŁKUN MIKOŁAJ>
  
 message_122:
       text: Proszę...\! Jak najgoręcej przywitajcie...<br>\!jedną... \!jedyną... \!wspaniałą...\n<KIEŁKUN MIKOŁAJ>
@@ -399,7 +399,7 @@ message_132:
 message_133:
       faceset: MainCharacters_DreamWorld
       faceindex: 42
-      text: ...\! No cóż...\! Chyba powinniśmy przeszukać to miejsce, tak na wszelki wypadek.\her
+      text: ...\!No cóż...\! Chyba powinniśmy przeszukać to miejsce, tak na wszelki wypadek.\her
  
 # =========================================================================================
 # Cutscene: Sweetheart's Bachelor Contest (Cont.)

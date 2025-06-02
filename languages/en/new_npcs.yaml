@@ -125,7 +125,7 @@ message_24:
 #James
 #Location: Last Resort Casino
 message_25:
-      text: \n<JAMES>Kocham patrzeć, jak moje ciężko zarobione pieniądze na zawsze znikają w tej maszynie.\! Po prostu patrzeć...\! jak wszystkie...\! znikają...
+      text: \n<KUBA>Kocham patrzeć, jak moje ciężko zarobione pieniądze na zawsze znikają w tej maszynie.\! Po prostu patrzeć...\! jak wszystkie...\! znikają...
 
 
 message_26:
@@ -355,7 +355,7 @@ message_103:
 #Gonzo
 #Location: Underwater Highway
 message_63:
-      text: \n<GAMOŃ>Ta autostrada jest dłuższa, niż myślałem...\!<br>Droga z powrotem będzie tak samo długa.\!<br>...\! Lepiej już pójdę.
+      text: \n<GAMOŃ>Ta autostrada jest dłuższa, niż myślałem...\!<br>Droga z powrotem będzie tak samo długa.\!<br>...\!Lepiej już pójdę.
 
 
 
@@ -404,7 +404,7 @@ message_78:
 
 #PAPER:
 message_64:
-      text: \n<JOGEN>...\! Phi...\! A więc porażka.\! Upokorzyłeś mnie, rywalu.
+      text: \n<JOGEN>...\!Phi...\! A więc porażka.\! Upokorzyłeś mnie, rywalu.
 
 
 message_66:
@@ -526,7 +526,7 @@ message_85:
 
 
 message_87:
-      text: \n<INNOWACYJNA IRENKA>Tak! Jestem całkiem szybka, ale nie tak szybka, jak ten pociąg!\!<br>To bardzo ważne, żeby znać swoje granice!
+      text: \n<INNOWACYJNA IRENKA>Tak! Jestem całkiem szybka, ale nie tak szybka jak ten pociąg!\!<br>To bardzo ważne, żeby znać swoje granice!
 
 
 
@@ -640,7 +640,7 @@ message_109:
 
 
 message_110:
-      text: \n<KŁĘBEK NERWÓW>W drodzę tutaj przez przypadek nadepnąłem na stopę KIEŁKUNKI...\! nazwałą mnie żałosnym wieśniakiem i zdzieliła mnie z liścia.
+      text: \n<KŁĘBEK NERWÓW>W drodze tutaj przez przypadek nadepnąłem na stopę KIEŁKUNKI...\! nazwałą mnie żałosnym wieśniakiem i zdzieliła mnie z liścia.
 
 
 message_111:
@@ -883,7 +883,7 @@ message_150:
 #Cowblin
 #Location: Train Station
 message_152:
-      text: \n<KROBLIN>Mama powiedziała mi, żebym ubrał kurtkę bo myślała, że zrobi się zimno...
+      text: \n<KROBLIN>Mama powiedziała mi, żebym ubrał kurtkę, bo myślała, że zrobi się zimno...
 
 
 message_153:
@@ -983,7 +983,7 @@ message_169:
 #Mooncake
 #Location: Train Station
 message_170:
-      text: \n<KSIĘŻYCIASTKO>KLOCUCH często się smuci, więc potrzebuje, kogoś kto by go wysłuchał...\! a tym kimś jestem ja!
+      text: \n<KSIĘŻYCIASTKO>KLOCUCH często się smuci, więc potrzebuje kogoś, kto by go wysłuchał...\! a tym kimś jestem ja!
 
 
 message_171:
@@ -1178,7 +1178,7 @@ message_207:
 
 
 message_209:
-      text: \n<ŚMIŁEK>...\! To nie twoja działka, dzieciaku.\! Uważaj, z kim zadzierasz.\! Wiem to z autopsji!
+      text: \n<ŚMIŁEK>...\!To nie twoja działka, dzieciaku.\! Uważaj, z kim zadzierasz.\! Wiem to z autopsji!
 
 
 #Location: Mr. Jawsum's Concierge
@@ -1433,7 +1433,7 @@ message_237:
 
 
 message_238:
-    text: \n<KIEŁKUN>Hmm...\! Tak właściwie, to...\! gdzie ja jestem?\!<br>... \!Czy ja się... \!zgubiłem?
+    text: \n<KIEŁKUN>Hmm...\! Tak właściwie, to...\! gdzie ja jestem?\!<br>...\!Czy ja się... \!zgubiłem?
 
 
 message_239:
@@ -1582,7 +1582,7 @@ message_287:
 
 
 message_288:
-      text: \n<ALI GATOR>Jesteś pewny, że nie chcesz zostać na chwilę dłużej, HERO?\!<br>...\! Cóż...\! Warto było spróbować.
+      text: \n<ALI GATOR>Jesteś pewny, że nie chcesz zostać na chwilę dłużej, HERO?\!<br>...\!Cóż...\! Warto było spróbować.
 
 
 #LAST RESORT CONSTRUCTION AFTER HERO IS BOSS
@@ -1840,7 +1840,7 @@ message_604:
 
 
 message_607:
-      text: \n<PARWENIUSZ>Co jeśli to zależy od ciebie?\! Co jeśli tylko ty trzymasz za ster?
+      text: \n<PARWENIUSZ>Co, jeśli to zależy od ciebie?\! Co, jeśli tylko ty trzymasz za ster?
 
 
 message_606:

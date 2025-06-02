@@ -58,7 +58,7 @@ message_9:
 #TANNING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_10:
-      text: \n<GIGANTOS>Achhh...\! To jest życie...\! Letnia opalenizno, nadchodzę!
+      text: \n<GIGANTOS>Aaach...\! To jest życie...\! Letnia opalenizno, nadchodzę!
  
 #SNALEY
 #Location: Slime Girls Lair / Medusa River 1 (228)
@@ -173,13 +173,13 @@ message_45:
  
 #HARD PUZZLE HINT
 message_46:
-      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\!<br>\"Swych wrogów licz...\! A kolejność do zwycięstwa doprowadzi\".
+      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\!<br>\"Swych wrogów licz...\! a kolejność do zwycięstwa doprowadzi\".
  
 message_110:
       text: \n<MĄDRY GIGANTOS>\com[2]Co?! Wciąż nie możesz tego rozgryźć?\!<br>Ech... W porządku.\! Może to?
  
 message_111:
-      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\! \"Swych wrogów licz, by drogę poznać...\! Następnie, podczas swej podróży obserwuj wodospady\".
+      text: \n<MĄDRY GIGANTOS>Pewien MĄDRY GIGANTOS powiedział kiedyś...\! \"Swych wrogów licz, by drogę poznać...\! następnie, podczas swej podróży, obserwuj wodospady\".
  
  
 #EASY PUZZLE HINT

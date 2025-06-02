@@ -83,7 +83,7 @@ message_16:
 message_17:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text:  na co czekamy?\kel
+      text: Na co czekamy?\kel
  
 message_18:
       faceset: MainCharacters_Faraway
@@ -95,7 +95,7 @@ message_18:
 #Walk 3 steps any direction
  
 message_19:
-      text: Och...\! Dobrze... Rozumiem.\!<br>...\! No cóż, przynajmniej próbowałem...\kel
+      text: Och...\! Dobrze... Rozumiem.\!<br>...\!No cóż, przynajmniej próbowałem...\kel
  
  
 # =========================================================================================

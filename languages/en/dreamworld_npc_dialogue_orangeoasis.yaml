@@ -43,7 +43,7 @@ message_5:
 #Location: Orange Oasis
  
 message_6:
-      text: \n<CZŁOWIEK W OGNIU>...\! Obawę w twoich oczach dostrzegam...\! Widzę, że problem trapi cię niezmiernie...
+      text: \n<CZŁOWIEK W OGNIU>...\!Obawę w twoich oczach dostrzegam...\! Widzę, że problem trapi cię niezmiernie...
  
 message_7:
       text: \n<CZŁOWIEK W OGNIU>Powiem ci coś, dziecko.\! Kiedy wiesz, że czeka cię męcząca i trudna przyszłość...\! wszystko, czego ci trzeba to nadzieja!
@@ -54,7 +54,7 @@ message_8:
 #Yes/No
 #Yes
 message_9:
-      text: \n<CZŁOWIEK W OGNIU>Wyśmienicie.\! Proszę, przyjmij tą naukę jako mój dar.
+      text: \n<CZŁOWIEK W OGNIU>Wyśmienicie.\! Proszę, przyjmij tę naukę jako mój dar.
  
 message_12:
       text: HERO poznał \c[1]OSTRY GRYZ\c[0]!
@@ -63,7 +63,7 @@ message_11:
       text: \n<CZŁOWIEK W OGNIU>Teraz, jeśli pozwolisz, oddalę się.
 #CZŁOWIEK W OGNIU continues running
 message_10:
-      text: \n<CZŁOWIEK W OGNIU>W takim razie...\! Będę musiał się powtórzyć!
+      text: \n<CZŁOWIEK W OGNIU>W takim razie...\! będę musiał się powtórzyć!
  
 message_13:
       text: \n<CZŁOWIEK W OGNIU>Cudownie.\! Teraz, jeśli pozwolisz, oddalę się.

@@ -172,7 +172,7 @@ message_49:
 #-----TALK TO AUBREY/KEL---------------
  
 message_50:
-      text: \kel...\! \sinv[2]P-P-P-P-\{P-PFFFUUUU\{UUUU\{UUU!!!
+      text: \kel...\!\sinv[2]P-P-P-P-\{P-PFFFUUUU\{UUUU\{UUU!!!
  
 message_51:
       text: \aubFuj! To obrzydliwe!\! Przestań pluć na mnie pestkami, KEL!
@@ -181,10 +181,10 @@ message_52:
       text: \kelHaha, teraz masz je wszędzie!
  
 message_53:
-      text: \aubW takim razie...\! Co powiesz na to!?
+      text: \aubW takim razie...\! co powiesz na to!?
  
 message_54:
-      text: \aub...\! \sinv[2]P-P-P-P-\{P-PFFFUUUU\{UUUUHL\{UUU!!!
+      text: \aub...\!\sinv[2]P-P-P-P-\{P-PFFFUUUU\{UUUUHL\{UUU!!!
  
 message_55:
       text: \kelFuj, przestań, AUBREY...<br>Bo jeszcze mnie czymś \quake[1]zarazisz!!\quake[0]

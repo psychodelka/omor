@@ -16,7 +16,7 @@ message_1:
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 16 #insert number here
-      text: \kel...\! Halo?\! \n[8]?\!<br>... \!\n[8], tu Ziemia...
+      text: \kel...\!Halo?\! \n[8]?\!<br>...\!\n[8], tu Ziemia...
 
 #Show a ! exclamation on Kel
 

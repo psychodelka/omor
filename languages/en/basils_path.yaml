@@ -185,7 +185,7 @@ message_40:
 message_41:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \bas...\! Kojarzą mi się z HERO!\! Zgadłeś, że o niego chodziło?
+      text: \bas...\!Kojarzą mi się z HERO!\! Zgadłeś, że o niego chodziło?
  
 message_42:
       faceset: MainCharacter_Basil
@@ -387,7 +387,7 @@ message_80:
 message_81:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelWszystko w porządku, BASIL!\! Wiemy już co i jak!
+      text: \kelWszystko w porządku, BASIL!\! Wiemy już, co i jak!
  
 #KEL WALKS UP TO SPROUT MOLE AND TAPS IT. SPROUT MOLE TURNS AROUND. PROCS BATTLE.
  

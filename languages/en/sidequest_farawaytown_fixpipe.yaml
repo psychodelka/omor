@@ -254,7 +254,7 @@ message_50:
 message_51:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \n<AUBREY>...\! Proszę...\! Wzięłam to ze sobą...
+      text: \n<AUBREY>...\!Proszę...\! Wzięłam to ze sobą...
 #Aubrey goes to the Pipe
 
 
@@ -316,7 +316,7 @@ message_62:
 
 
 message_65:
-      text: \n<PAN ZRZĘDA>W każdym razie, myślę, że nadszedł czas, aby cieszyć się wolnym od kapania spokojem i relaksem!
+      text: \n<PAN ZRZĘDA>W każdym razie myślę, że nadszedł czas, aby cieszyć się wolnym od kapania spokojem i relaksem!
 
 
 message_66:

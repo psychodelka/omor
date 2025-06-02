@@ -26,7 +26,7 @@ message_20:
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Nie wierzę, że tak po prostu to wyrzuciła.\!<br>Dobrze, że zdecydowaliśmy się tam zajrzeć.\kel
+      text: Nie wierzę, że tak po prostu go wyrzuciła.\!<br>Dobrze, że zdecydowaliśmy się tam zajrzeć.\kel
  
 message_22:
       faceset: MainCharacters_Faraway
@@ -66,7 +66,7 @@ message_43:
 message_44:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: Och, cześć KEL.\! C-co to jest?\bas
+      text: Och, cześć, KEL.\! C-co to jest?\bas
  
 message_45:
       faceset: MainCharacters_Faraway
@@ -247,7 +247,7 @@ message_92:
 message_93:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: ...\! Rozumiem...\! Nie było tematu.\bas
+      text: ...\!Rozumiem...\! Nie było tematu.\bas
  
 #BASIL walks to GRANDMA.
  
@@ -341,7 +341,7 @@ message_122:
 message_123:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Mama teraz szaleje przygotowując wszystko i wszystkich...\! mlask...\! <br>Nie chcę być blisko tego bajzlu.\kel
+      text: Mama teraz szaleje, przygotowując wszystko i wszystkich...\! mlask...\! <br>Nie chcę być blisko tego bajzlu.\kel
  
 message_124:
       faceset: MainCharacters_Faraway
@@ -380,7 +380,7 @@ message_129:
 message_130:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: S-słucham?\! ...\! \n[8]...\! wyprowadza się...?\bas
+      text: S-słucham?\!<br>...\!\n[8]...\! się wyprowadza...?\bas
  
 message_131:
       faceset: MainCharacters_Faraway
@@ -494,7 +494,7 @@ message_191:
 message_192:
       faceset: MainCharacter_Basil_dark
       faceindex: 10
-      text: Widać, że dawno z nikim nie rozmawiałeś...\! ale to nic!\! Raz dwa i załapiesz!\kel
+      text: Widać, że dawno z nikim nie rozmawiałeś...\! ale to nic!\! Raz-dwa i załapiesz!\kel
  
 message_193:
       faceset: MainCharacter_Basil_dark

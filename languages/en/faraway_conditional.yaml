@@ -32,7 +32,7 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kel\{\Com[2]\QUAKE[1]Aaaaaachhhh!!\}\!<br>\Com[2]Masz gigantycznego robala we włosach!!\QUAKE[0]
+      text: \kel\{\Com[2]\QUAKE[1]Aaaaaach!!\}\!<br>\Com[2]Masz gigantycznego robala we włosach!!\QUAKE[0]
 
 
 message_4:
@@ -185,7 +185,7 @@ message_44:
 
 #PIANO (6)
 message_45:
-      text: Pamiętasz tą znajomą melodię... \!<br>Twoje ręce same się poruszają.
+      text: Pamiętasz tę znajomą melodię... \!<br>Twoje ręce same się poruszają.
 
 
 #After playing the piano, it will disappear.

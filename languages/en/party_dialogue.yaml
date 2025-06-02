@@ -257,7 +257,7 @@ message_53:
 
 
 message_66:
-      text: ...\! Aaa...\! Aaaaa...\! \sinv[1]Aaaaaaaaa...
+      text: ...\!Aaa...\! Aaaaa...\! \sinv[1]Aaaaaaaaa...
 
 
 message_67:
@@ -301,13 +301,13 @@ message_57:
 message_58:
       faceset: MainCharacters_DreamWorld
       faceindex: 5
-      text: \aub...\! Chłopaki, bardzo się martwię.\! Czy możemy coś zrobić?
+      text: \aub...\!Chłopaki, bardzo się martwię.\! Czy możemy coś zrobić?
 
 
 message_59:
       faceset: MainCharacters_DreamWorld
       faceindex: 12
-      text: \aubCo jeśli go nie znajdziemy?\! Co jeśli jest w niebezpieczeństwie?
+      text: \aubCo, jeśli go nie znajdziemy?\! Co, jeśli jest w niebezpieczeństwie?
 
 
 message_60:
@@ -357,7 +357,7 @@ message_71:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelWiem!\! Założę się, że mój głazik będzie wiedział co zrobić!
+      text: \kelWiem!\! Założę się, że mój głazik będzie wiedział, co zrobić!
 
 
 message_73:
@@ -381,7 +381,7 @@ message_74:
 message_75:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: \kel...\! Zrobiłeś, co mogłeś, koleżko.
+      text: \kel...\!Zrobiłeś, co mogłeś, koleżko.
 
 
 #KEL equipped PET ROCK.
@@ -455,13 +455,13 @@ message_92:
 message_93:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \herWszyscy robimy co w naszej mocy...\! Pewnie powinniśmy zacząć szukać poza lasem.
+      text: \herWszyscy robimy, co w naszej mocy...\! Pewnie powinniśmy zacząć szukać poza lasem.
 
 
 message_94:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelWiem!\! Może spróbujemy wspiąć się na tą długaśną drabinę?\!<br>Tamtą na wschód od pieńka!
+      text: \kelWiem!\! Może spróbujemy wspiąć się na tę długaśną drabinę?\!<br>Tamtą na wschód od pieńka!
 
 
 message_95:
@@ -473,7 +473,7 @@ message_95:
 message_96:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \kelAle co jeśli BASIL jest gdzieś tam na górze?<br>Musimy wykorzystać szansę!
+      text: \kelAle co, jeśli BASIL jest gdzieś tam na górze?<br>Musimy wykorzystać szansę!
 
 
 message_97:
@@ -602,7 +602,7 @@ message_116:
 message_117:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelChwila, zła drabina, OMORI!\! Chodziło mi o tą na wschód od pieńka.
+      text: \kelChwila, zła drabina, OMORI!\! Chodziło mi o tę na wschód od pieńka.
 
 
 message_118:
@@ -659,7 +659,7 @@ message_128:
 message_130:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herKurczę... Wiem, że był jakiś powód, dlaczego nigdy nie wspięliśmy się na tą drabinę, ale nie mogę sobie przypomnieć.
+      text: \herKurczę... Wiem, że był jakiś powód, dlaczego nigdy nie wspięliśmy się na tę drabinę, ale nie mogę sobie przypomnieć.
 
 
 message_131:
@@ -770,7 +770,7 @@ message_160:
 message_161:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herWięc, MARI...\! Wygląda na to, że trochę zboczyliśmy z trasy.\!<br>Po prostu pomagamy potrzebującym, wiesz?
+      text: \herWięc, MARI...\! wygląda na to, że trochę zboczyliśmy z trasy.\!<br>Po prostu pomagamy potrzebującym, wiesz?
 
 
 message_162:
@@ -956,7 +956,7 @@ message_191:
 message_502:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marWiem, że może wydawać się to trudne... ale musimy myśleć pozytywnie!\! Wszyscy powinniśmy być jak BASIL!\! Nawet, gdy jest smutny, zawsze potrafi się uśmiechać.
+      text: \marWiem, że może wydawać się to trudne... ale musimy myśleć pozytywnie!\! Wszyscy powinniśmy być jak BASIL!\! Nawet gdy jest smutny, zawsze potrafi się uśmiechać.
 
 
 message_192:
@@ -1437,7 +1437,7 @@ message_278:
 
 
 message_279:
-      text: \marWidziałeś już kiedyś tą firankę.<br>\!Ostatnim razem, gdy przyszliśmy nad jezioro.
+      text: \marWidziałeś już kiedyś tę firankę.<br>\!Ostatnim razem, gdy przyszliśmy nad jezioro.
 
 
 #*MARI turns to OMORI*
@@ -1717,7 +1717,7 @@ message_342:
 message_341:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubAle to nic nie zmienia, prawda?\! Nawet, jeśli nasze wspomnienia nie są tak silne jak kiedyś...\! nadal musimy go uratować.
+      text: \aubAle to nic nie zmienia, prawda?\! Nawet jeśli nasze wspomnienia nie są tak silne jak kiedyś...\! nadal musimy go uratować.
 
 
 message_354:
@@ -1753,7 +1753,7 @@ message_345:
 message_346:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelW takim razie, jak znowu się spotkamy...\! powinniśmy wszyscy go dobrze wyściskać jak za starych lat! Hehe...
+      text: \kelW takim razie jak znowu się spotkamy...\! powinniśmy wszyscy go dobrze wyściskać jak za starych lat! Hehe...
 
 
 message_347:
@@ -1870,7 +1870,7 @@ message_370:
 message_389:
       faceset: MainCharacters_DreamWorld
       faceindex: 5
-      text: \aub...\! O nie...\! Wszystkie kwiaty zwiędły...
+      text: \aub...\!O nie...\! Wszystkie kwiaty zwiędły...
 
 
 message_371:
@@ -1927,7 +1927,7 @@ message_378:
 message_379:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: \kel...\! No dobra.\!<br>Sorki...\! AUBREY...
+      text: \kel...\!No dobra.\!<br>Sorki...\! AUBREY...
 
 
 message_380:
@@ -1960,7 +1960,7 @@ message_381:
 #message_384:
   #    faceset: MainCharacters_DreamWorld
 #      faceindex: 4
-#      text: \aub...\! Yeah...\! I know...\!<br>I don't think he deserves it...\! but I'll forgive him...\!<br>for you, HERO.
+#      text: \aub...\!Yeah...\! I know...\!<br>I don't think he deserves it...\! but I'll forgive him...\!<br>for you, HERO.
 
 
 #message_385:

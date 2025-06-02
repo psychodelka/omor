@@ -416,12 +416,12 @@ message_140:
 message_146:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marHej! Ta wasza \c[4]CIEKAWA KSIĄŻKA\c[0] wydaje się interesująca.\. Założę się, że DEMI chciałby przeczytać coś takiego!\.\^
+      text: \marHej! Ta wasza \c[4]INTERESUJĄCA KSIĄŻKA\c[0] wydaje się ciekawa.\. Założę się, że DEMI chciałby przeczytać coś takiego!\.\^
 
 message_145:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marDEMI będzie mieć zajęcie z książką, którą mu daliście.\. Była taka ciekawa.\.\^
+      text: \marDEMI będzie mieć zajęcie z książką, którą mu daliście.\. Była taka interesująca.\.\^
 
 # =========================================================================================
 
@@ -889,13 +889,13 @@ message_283:
 message_284:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marCo jeśli BASIL podpadł SŁODZIUTKIEJ, a ona go uwięziła?\. Lochy są ogromne...\. Gdzieś musi kryć się odpowiedź!\.\^
+      text: \marCo, jeśli BASIL podpadł SŁODZIUTKIEJ, a ona go uwięziła?\. Lochy są ogromne...\. Gdzieś musi kryć się odpowiedź!\.\^
 
 #Servant's Quarter (Same as Underground Dungeon)
 message_285:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marCo jeśli BASIL podpadł SŁODZIUTKIEJ, a ona go uwięziła?\. Pałac jest ogromny...\. Gdzieś musi kryć się odpowiedź!\.\^
+      text: \marCo, jeśli BASIL podpadł SŁODZIUTKIEJ, a ona go uwięziła?\. Pałac jest ogromny...\. Gdzieś musi kryć się odpowiedź!\.\^
 
 #==========================
 #After the Swim switch, MARI will play the same dialogue across all picnics. This should override any previous unique dialogue.

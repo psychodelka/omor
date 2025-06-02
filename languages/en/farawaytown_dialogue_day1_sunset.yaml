@@ -99,7 +99,7 @@ message_41:
 message_42:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: \kelEchhh...\! Będę musiał się ścigać, prawda?
+      text: \kelEeech...\! Będę musiał się ścigać, prawda?
  
 message_43:
       faceset: MainCharacters_Faraway
@@ -185,7 +185,7 @@ message_90:
       text: \n<STARY BRODACZ>Dość tu cicho, prawda?\! Ani trochę nie słychać tutaj świstów i gwizdów ulic...
  
 message_91:
-      text: \n<STARY BRODACZ>Heh...\! Jedyne co tutaj się znajduje, to tułaczące się dusze...\!<br>Och, oczywiście ja też tu jestem!
+      text: \n<STARY BRODACZ>Heh...\! Jedyne, co tutaj się znajduje, to tułaczące się dusze...\!<br>Och, oczywiście ja też tu jestem!
  
 message_92:
       text: \n<STARY BRODACZ>Czemu się tak na mnie patrzysz?\!<br>\{\Com[2]JA JESZCZE ŻYJĘ!
@@ -242,7 +242,7 @@ message_121:
       text: \n<KSIĄDZ>Ta dziewczyna, AUBREY, przychodzi tu co tydzień od kilku lat, ale nigdy z nikim nie rozmawia.
  
 message_122:
-      text: \n<KSIĄDZ>Kilka razy próbowałem z nią porozmawiać...<br>ale ciągle wyzywa mnie od...\! Eee...\! najgorszych...
+      text: \n<KSIĄDZ>Kilka razy próbowałem z nią porozmawiać...<br>ale ciągle wyzywa mnie od...\! eee...\! najgorszych...
  
 message_123:
       text: \n<KSIĄDZ>Wydaje się zakłopotana.\! Przydałby się jej jakiś przyjaciel.
@@ -283,7 +283,7 @@ message_150:
       text: \n<PANI W KUCYKU>Ja i moja rodzina mieliśmy zacząć jeść zdrowo od tego tygodnia, ale zapach z \c[11]PIZZERII U GINA\c[0] jest taki kuszący...
  
 message_151:
-      text: \n<PANI W KUCYKU>Echhh...\! Może od czasu do czasu można przekąsić coś niezdrowego...
+      text: \n<PANI W KUCYKU>Eeech...\! Może od czasu do czasu można przekąsić coś niezdrowego...
  
 #==========================The Maverick's Dad===============================
  
@@ -293,4 +293,4 @@ message_160:
       text: \n<STYLOWA PANI>O niebiosa...\! Niuch...\!<br>Wygląda na to, że mój najmłodszy syn znowu nie przyszedł do \c[11]KOŚCIOŁA\c[0]...
  
 message_161:
-      text: \n<STYLOWY PAN>Echh...\! MIKHAEL...\! Gdzie jesteś?\!<br>Czy musisz martwić matkę?
+      text: \n<STYLOWY PAN>Eeech...\! MIKHAEL...\! Gdzie jesteś?\!<br>Czy musisz martwić matkę?

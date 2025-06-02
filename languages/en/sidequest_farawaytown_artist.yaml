@@ -29,7 +29,7 @@ message_4:
 
 
 message_5:
-      text: \n<ARTYSTKA>...\! O, wiem!\!<br>Dodam kilka detali tu, tu, tu i tu!\!<br>To by załatwiło sprawę, co nie?
+      text: \n<ARTYSTKA>...\!O, wiem!\!<br>Dodam kilka detali tu, tu, tu i tu!\!<br>To by załatwiło sprawę, co nie?
 #[Nod (Yes) / Shake (No)]
 # [Nod]
 message_6:
@@ -49,7 +49,7 @@ message_9:
 
 
 message_10:
-      text: \n<ARTYSTKA>...\! Czekaj, nie odpowiadaj.\!<br>Czerwone tło na pewno będzie tu lepiej wyglądać, co nie?
+      text: \n<ARTYSTKA>...\!Czekaj, nie odpowiadaj.\!<br>Czerwone tło na pewno będzie tu lepiej wyglądać, co nie?
 #[Nod (Yes) / Shake (No)]
 # [Nod]
 message_11:
@@ -71,7 +71,7 @@ message_14:
 
 
 message_19:
-      text: \n<ARTYSTKA>Tak... teraz wszystko rozumiem!\!<br>\sinv[1]\{CZUJĘ, JAK INSPIRACJA MI W ŻYŁACH PULSUJE!!
+      text: \n<ARTYSTKA>Tak... teraz wszystko rozumiem!\!<br><br><br>\sinv[1]\{CZUJĘ, JAK INSPIRACJA MI W ŻYŁACH PULSUJE!!
 #VOILA
 message_20:
       text: \n<ARTYSTKA>I...\! \{\SINV[1]VO\{IL\{A!!\SINV[0]\}\}

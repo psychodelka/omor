@@ -92,7 +92,7 @@ message_42:
 
 
 message_43:
-      text: \n<WIERZBINA PŁACZĄCA>...\! Wygląda na to, że nie znasz żadnych żartów.\!<br>Wróć, kiedy poznasz już kilka.
+      text: \n<WIERZBINA PŁACZĄCA>...\!Wygląda na to, że nie znasz żadnych żartów.\!<br>Wróć, kiedy poznasz już kilka.
 
 
 #[IF PLAYER HAS KSIĘGA ŻARTÓW WITH AT LEAST 1 JOKE]
@@ -163,7 +163,7 @@ message_60:
 
 
 message_61:
-      text: \"Mają dobre jedzenie, ale zero atmosfery\".
+      text: \"Mają dobre jedzenie, ale zero atmosfery\"
 
 
 #JOKE 2: Location: CATTAIL FIELD stuck on the OLD BARN.
@@ -174,7 +174,7 @@ message_62:
 
 
 message_63:
-      text: \"Bo miał duże pole do popisu\".
+      text: \"Bo miał duże pole do popisu\"
 
 
 
@@ -187,7 +187,7 @@ message_64:
 
 
 message_65:
-      text: \"Bo zaliczył kosza\".
+      text: \"Bo zaliczył kosza\"
 
 
 #JOKE 4: Location: FROZEN FOREST in an igloo.
@@ -198,7 +198,7 @@ message_66:
 
 
 message_67:
-      text: \"Mro-żony\".
+      text: \"Mro-żony\"
 
 
 #JOKE 5: Location: ORANGE OASIS on a cave wall.
@@ -209,7 +209,7 @@ message_68:
 
 
 message_69:
-      text: \"Bo soczyste\".
+      text: \"Bo soczyste\"
 
 
 #JOKE 6: Location: DEEP WELL in UNDERWATER HIGHWAY.
@@ -220,7 +220,7 @@ message_70:
 
 
 message_71:
-      text: \"Próbuje się załatwić\".
+      text: \"Próbuje się załatwić\"
 
 
 #JOKE 7: Location: DEEP WELL in the CONSTRUCTION SITE.
@@ -231,7 +231,7 @@ message_72:
 
 
 message_73:
-      text: \"Wciąż nad nim pracuję\".
+      text: \"Wciąż nad nim pracuję\"
 
 
 message_74:
@@ -494,7 +494,7 @@ message_205:
 message_206:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelTy nie decydujesz jak to się mówi...<br>Nie byłaś pierwsza!
+    text: \kelTy nie decydujesz, jak to się mówi...<br>Nie byłaś pierwsza!
 
 
 message_207:
@@ -512,7 +512,7 @@ message_208:
 message_209:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aubCo jeśli ktoś go zobaczy?
+    text: \aubCo, jeśli ktoś go zobaczy?
 
 
 message_210:

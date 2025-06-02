@@ -143,7 +143,7 @@ message_809:
     text: Czy chcesz ściąć choinkę?
 
 message_810:
-    text: Czy chcesz przeciąć kabel?
+    text: Czy chcesz przeciąć drut?
 
 # === Last Resort Elevator ===
 
@@ -238,7 +238,7 @@ message_851:
 message_860:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Ale patrząc na jasną stronę, przynajmniej mamy \c[4]ALBUM\c[0] BASILA... i zajęło nam to tylko pół dnia!\! Co za współpraca!\! Piona, \n[8]?\kel
+      text: Ale patrząc na to z jasnej strony, przynajmniej mamy \c[4]ALBUM\c[0] BASILA... i zajęło nam to tylko pół dnia!\! Co za współpraca!\! Piona, \n[8]?\kel
 
 message_861:
       faceset: MainCharacters_Faraway
@@ -283,7 +283,7 @@ message_868:
 # === SW Servant Quarters ===
 
 message_869:
-    text: WYBÓR LOSOWY
+    text: WYLOSUJ
 
 # === UWH TOLL ===
 
@@ -675,7 +675,7 @@ message_380:
     text: \n<KOŚCIU>Tkwię tu już tak długo, że ledwo co mogę drgnąć...
 
 message_381:
-    text: \n<KOŚCIU>...\! E?\! Co to za mina?
+    text: \n<KOŚCIU>...\!E?\! Co to za mina?
 
 #UCZESTNIK TELETURNIEJU moles
 
@@ -918,7 +918,7 @@ message_566:
 message_635:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aubDobra...\! Lecimy...\! Tym razem...\! Nie zawiodę!
+    text: \aubDobra...\! Lecimy...\! Tym razem...\! nie zawiodę!
 
 #SBF STATUE CRUMBLES
 
@@ -936,7 +936,7 @@ message_569:
     text: \n<KREMÓWKA>Jejku!\! Udało ci się!
 
 message_570:
-    text: \n<KREMÓWKA>Więc...\! Czas posprzątać!
+    text: \n<KREMÓWKA>Więc...\! czas posprzątać!
 
 message_308:
     text: \n<KREMÓWKA>Rany... Co za niespodzianka!\!<br>Okazuje się, że musiałam jedynie podnieść go od dołu!
@@ -1044,7 +1044,7 @@ message_373:
     text: \n<TAŃCZĄCY KIEŁKUN>Ech...\! Też chcę zatańczyć, ale nikt nie chce zostać moim partnerem...
 
 message_374:
-    text: \n<TAŃCZĄCY KIEŁKUN>...\! Czy ktoś z was ze mną zatańczy?
+    text: \n<TAŃCZĄCY KIEŁKUN>...\!Czy ktoś z was ze mną zatańczy?
 
 message_375:
     text: \n<TAŃCZĄCY KIEŁKUN>Dobrze! Nie zawiodę cię!
@@ -1124,7 +1124,7 @@ message_313:
 message_314:
     faceset: MainCharacters_DreamWorld
     faceindex: 24
-    text: \kel...\! Kurczę... Nie trafiłem.
+    text: \kel...\!Kurczę... Nie trafiłem.
 
 message_315:
     faceset: MainCharacters_DreamWorld
@@ -1195,7 +1195,7 @@ message_2:
     text: \n<ALEKSANDER POWAŻANY>Ha? Naprawdę go potrzebujesz?\! Tak naprawdę, naprawdę go potrzebujesz?\!<br>Tak naprawdę, naprawdę, naprawdę go potrzebujesz?<br>Tak naprawdę, naprawdę, naprawdę, naprawdę, naprawdę, naprawdę, naprawdę go potrzebujesz?
 
 message_3:
-    text: \n<ALEKSANDER POWAŻANY>...\! Hmm...\! Hmmmmmm...\!<br>W takim razie nie mam wyboru...\!<br>Ale musisz mi obiecać, że nikomu go nie powiesz!<br>\Com[2]\{PRZYSIĘGNIJ NA MAŁY PALUSZEK!
+    text: \n<ALEKSANDER POWAŻANY>...\!Hmm...\! Hmmmmmm...\!<br>W takim razie nie mam wyboru...\!<br>Ale musisz mi obiecać, że nikomu go nie powiesz!<br>\Com[2]\{PRZYSIĘGNIJ NA MAŁY PALUSZEK!
 
 message_4:
     text: \n<ALEKSANDER POWAŻANY>I już!\!<br>Fiu... Bałem się, że jesteś kimś podejrzanym!<br>A teraz...\! przybliż się...<br>\}Hasło, które mi powierzono, brzmi...\! "W ŚRODKU".\!<br>Kumasz?\! Obiecaj, że nikomu nie powiesz.
@@ -1206,7 +1206,7 @@ message_5:
 #PUZZLE MOLE 2 (Bottom Right)
 
 message_400:
-    text: \n<BRAJAN DYSTYNGOWANY>Aby otworzyć tajemny korytarz, należy podać posągowi SŁODZIUTKIEJ cztery hasła.<br><br>Oczywiście jako iż jestem członkiem wybranej elity, leży na mnie odpowiedzialność za drugie z czterech!
+    text: \n<BRAJAN DYSTYNGOWANY>Aby otworzyć tajemny korytarz, należy podać posągowi SŁODZIUTKIEJ cztery hasła.<br><br>Oczywiście jako iż jestem członkiem wybranej elity, leży na mnie odpowiedzialność za trzecie z czterech!
 
 message_6:
     text: \n<BRAJAN DYSTYNGOWANY>Chcesz znać hasło, eee?\!<br>\com[2]Nie tak prędko, koleżko.<br><br>Muszę przyznać... Jesteś okropnie wysoki jak na KIEŁKUNA...
@@ -1786,7 +1786,7 @@ message_387:
     text: \n<MYTOGATOR>Musicie mieć czterech albo więcej ziomków, inaczej możecie doczołgać się tam, skąd przyszliście.
 
 message_388:
-    text: \n<MYTOGATOR>...\! Poważnie masz trzech kumpli?\!<br>Hmf... Dobra, dobra... W drogę, ludziska.
+    text: \n<MYTOGATOR>...\!Poważnie masz trzech kumpli?\!<br>Hmf... Dobra, dobra... W drogę, ludziska.
 
 message_389:
     text: \n<MYTOGATOR>Obyś miał przy sobie parę MAŁŻY... khi hi...
@@ -2238,7 +2238,7 @@ message_478:
     text: \n<GIGANTOS OPERATOR>Ach... Dość nieoczekiwany wynik...\! Dzięki tej wiedzy być może będę w stanie wynaleźć lek na śmierć!
 
 message_479:
-    text: \n<GIGANTOS OPERATOR>Ojej! Liczby zdecydowanie się nie zgadzają!\!<br>...\! Och... chwila...\! Pomyliłem się w rachunkach...\!<br>Chyba jednak tak.
+    text: \n<GIGANTOS OPERATOR>Ojej! Liczby zdecydowanie się nie zgadzają!\!<br>...\!Och... chwila...\! Pomyliłem się w rachunkach...\!<br>Chyba jednak tak.
 
 message_480:
     text: \n<GIGANTOS OPERATOR>Rozumiemy ten świat w bardzo małym stopniu, więc go badamy...\! ale nasze prace jedynie mnożą pytania!\!<br>To niekończący się i bezowocny cykl!
@@ -2461,7 +2461,7 @@ message_338:
 message_339:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aub...\! Nie wierzę, że to zadziałało.
+    text: \aub...\!Nie wierzę, że to zadziałało.
 
 message_340:
     faceset: MainCharacters_DreamWorld
@@ -2669,7 +2669,7 @@ message_289:
     text: \n<RECYKULTYSTA>Bardzo chciałbym z tobą iść, ale chyba nie ma tam już dla mnie miejsca...
 
 message_290:
-    text: \n<RECYKULTYSTA>Obrzydliwy, plastikowy władca rząda mojej czci?\! Przenigdy!\!<br>...\! Ale...\! Może gdybyś był odrobinę bardziej czarujący.
+    text: \n<RECYKULTYSTA>Obrzydliwy, plastikowy władca rząda mojej czci?\! Przenigdy!\!<br>...\!Ale...\! Może gdybyś był odrobinę bardziej czarujący.
 
 message_291:
     text: \n<RECYKULTYSTA>Powinienem zastanowić się nad swoim życiem...

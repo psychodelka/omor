@@ -26,7 +26,7 @@ message_2:
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelZ tego co pamiętam, moja mama złożyła dzisiaj rano zamówienie na \c[3]KANAPKĘ HEROSA\c[0]!\! Chciałem ją tylko odebrać.
+      text: \kelZ tego, co pamiętam, moja mama złożyła dzisiaj rano zamówienie na \c[3]KANAPKĘ HEROSA\c[0]!\! Chciałem ją tylko odebrać.
 
 
 message_4:
@@ -36,7 +36,7 @@ message_4:
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelPrzecież...\! jest...\! w menu, prawda?
+      text: \kelPrzecież...\! są...\! w menu, prawda?
 
 
 message_6:
@@ -109,7 +109,7 @@ message_22:
 message_23:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelWiedziałeś, że ta piekarnia należy do rodziny MIKHAELA?\!<br>Pewnie nigdy nie przeszło ci to przez myśl, w końcu przez cały czas nosi tą okropną żółtą perukę...
+      text: \kelWiedziałeś, że ta piekarnia należy do rodziny MIKHAELA?\!<br>Pewnie nigdy nie przeszło ci to przez myśl, w końcu przez cały czas nosi tę okropną żółtą perukę...
 
 
 message_24:

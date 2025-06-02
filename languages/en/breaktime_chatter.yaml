@@ -74,7 +74,7 @@ message_9:
 message_10:
     faceset: MainCharacters_DreamWorld
     faceindex: 7
-    text: \aubA co jeśli ktoś go wrobił czy coś?\! Albo został porwany!
+    text: \aubA co, jeśli ktoś go wrobił czy coś?\! Albo został porwany!
  
 message_11:
     faceset: MainCharacters_DreamWorld
@@ -819,7 +819,7 @@ message_144:
 message_145:
     faceset: MainCharacters_DreamWorld
     faceindex: 27
-    text: \kel...\! Hmm...
+    text: \kel...\!Hmm...
  
 #------------------------------------------------------------------------------------------------------------------------
  
@@ -1225,7 +1225,7 @@ message_223:
 message_224:
     faceset: MainCharacters_DreamWorld
     faceindex: 7
-    text: \aubUff...\! Zapomnijcie o \c[5]PUSZKACH\c[0]...\! musimy znaleźć tą \c[4]SUPER-SKŁADANKĘ\c[0] i się stąd wydostać.
+    text: \aubUff...\! Zapomnijcie o \c[5]PUSZKACH\c[0]...\! musimy znaleźć tę \c[4]SUPER-SKŁADANKĘ\c[0] i się stąd wydostać.
  
 message_225:
     faceset: MainCharacter_Mari

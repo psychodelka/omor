@@ -15,7 +15,7 @@
 #message_2:
 #      faceset: MainCharacters_DreamWorld
 #      faceindex: 48
-#      text: \Com[2]\quake[1]\fn<OMORI_GAME>...\! This...\! This isn't looking good...\her
+#      text: \Com[2]\quake[1]\fn<OMORI_GAME>...\!This...\! This isn't looking good...\her
  
 #KEL is surprised.
  
@@ -92,7 +92,7 @@
 #message_15:
 #      faceset: MainCharacters_DreamWorld
 #      faceindex: 43
-#      text: ...\! I believe that OMORI is strong enough to do this...\! And...\! <br>I know he wants to save BASIL more than anyone...\her
+#      text: ...\!I believe that OMORI is strong enough to do this...\! And...\! <br>I know he wants to save BASIL more than anyone...\her
  
 #message_16:
 #      faceset: MainCharacters_DreamWorld
@@ -117,7 +117,7 @@
 #message_20:
 #      faceset: MainCharacters_DreamWorld
 #      faceindex: 20
-#      text: ...\! OMORI...\! I know you don't like to be alone...\! but...\! it's just like HERO said...\! We'll just get in the way...\! Stay strong, okay!?\! And know that we'll always have your back!\kel
+#      text: ...\!OMORI...\! I know you don't like to be alone...\! but...\! it's just like HERO said...\! We'll just get in the way...\! Stay strong, okay!?\! And know that we'll always have your back!\kel
  
 #message_21:
 #      faceset: MainCharacters_DreamWorld

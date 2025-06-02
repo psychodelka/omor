@@ -241,7 +241,7 @@ message_43:
 
 message_44:
    text: >
-    \>RYCZERZ MAKSYM: \<Nie...\! Ja...\!<br>Nie mogę teraz zginąć.
+    \>RYCZERZ MAKSYM: \<Nie...\! Ja...\!<br>nie mogę teraz zginąć.
 
 message_45:
    text: >
@@ -903,7 +903,7 @@ message_166:
 
 message_167:
    text: >
-    \>AUBREY: \<Czy...\! To nóż!?
+    \>AUBREY: \<Czy...\! to nóż!?
 
 # ============Enemy:  Charlie
 
@@ -1033,7 +1033,7 @@ message_191:
 
 message_192:
    text: >
-    \>WIELKI MAVERICK: \<Uff...\! Przyznam...\! Jestem pod wrażeniem...<br>ale wciąż miną lata świetlne, zanim mnie pokonacie!
+    \>WIELKI MAVERICK: \<Uff...\! Przyznam...\! Jestem pod wrażeniem...<br>Ale wciąż miną lata świetlne, zanim mnie pokonacie!
 
 # Getting Weaker (10%):
 
@@ -2440,7 +2440,7 @@ message_915:
 
 message_916:
     text: >
-      \fn<OMORI_GAME>Jedyne co, to wszystko pogorszysz.\! Lepiej byłoby umrzeć.
+      \fn<OMORI_GAME>Jedynie wszystko pogorszysz.\! Lepiej byłoby umrzeć.
 
 
 message_917:

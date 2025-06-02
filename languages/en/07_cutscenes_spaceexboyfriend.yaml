@@ -134,7 +134,7 @@ message_25:
       text: \Com[2]\quake[1]\{BÓJCIE SIĘ, ALBOWIEM ZOSTAŁEM ZBUDZONY!!\n<KOSMOCHŁOPAK>\quake[0]
  
 message_26:
-      text: ...\! Hmf...\! <br>Sekundka.\n<KOSMOCHŁOPAK>
+      text: ...\!Hmf...\! <br>Sekundka.\n<KOSMOCHŁOPAK>
  
 #SPACE BOYFRIEND teleports to front of cassette player and changes the song to pre-battle music.
  
@@ -188,7 +188,7 @@ message_42:
       text: \{JESTEM KAPITANEM KOSMOPIRATÓW!\n<KOSMO-EX>
  
 message_43:
-      text: Mam władzę nad całym układem słonecznym i mogę latać w kosmosie, kiedy tylko chcę!\n<KOSMO-EX>
+      text: Mam władzę nad całym Układem Słonecznym i mogę latać w kosmosie, kiedy tylko chcę!\n<KOSMO-EX>
  
 message_44:
       text: \Com[2]Los całego wszechświata jest w moich rękach!\n<KOSMO-EX>

@@ -49,7 +49,7 @@ message_8:
 #BREWCIO
 #Location: Forest Playground
 message_10:
-      text: \n<BREWCIO>\SINV[2]\Com[2]AAAAAA\{AAAAAAAA\{ACHHHHH!!!\LECLEAR
+      text: \n<BREWCIO>\SINV[2]\Com[2]AAAAAA\{AAAAAAAA\{AAACH!!!\LECLEAR
  
  
 #Happy
@@ -408,7 +408,7 @@ message_124:
  
 #Talk after
 message_107:
-      text: \berMasz już tą \c[3]WODĘ BUTELKOWANĄ\c[0]?\!<br>Raz, raz! Umieramy z pragnienia!
+      text: \berMasz już tę \c[3]WODĘ BUTELKOWANĄ\c[0]?\!<br>Raz, raz! Umieramy z pragnienia!
  
 #BERLY and ALI GATORS leave.
  
@@ -479,7 +479,7 @@ message_137:
 #NOSE (Receptionist)
 #Location: Last Resort - Casino Area
 message_138:
-      text: \nosNos daje głos!
+      text: \n<NOSKA>Nos daje głos!
  
 #REN (Server)
 #Location: Last Resort - Casino Area

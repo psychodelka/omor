@@ -8,11 +8,11 @@
 
                   #Examine phone
 message_0:
-      text: \"Cześć \n[8], tu MAMUSIA.\! Dalej jestem w mieście, ogarniam rzeczy do naszego nowego domu.\! Skończyłeś się już pakować?\"\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Cześć, \n[8], tu MAMUSIA.\! Dalej jestem w mieście, ogarniam rzeczy do naszego nowego domu.\! Skończyłeś się już pakować?\"\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_1:
-      text: \"Firma od przeprowadzki przyjedzie do naszego domu już za parę dni, więc zostawiłam listę rzeczy, które mógłbyś zrobić, nim przyjadą\".\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Firma od przeprowadzki przyjedzie do naszego domu już za parę dni, więc zostawiłam listę rzeczy, które mógłbyś zrobić, nim przyjadą\"\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_2:
@@ -20,7 +20,7 @@ message_2:
 
 
 message_3:
-      text: \"Zapomniałam dać znać firmie elektrycznej, że potrzebujemy jeszcze paru dni, zanim będziemy gotowi się przeprowadzić, więc dziś wieczorem mogą wysiąść światła\".\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Zapomniałam dać znać firmie elektrycznej, że potrzebujemy jeszcze paru dni, zanim będziemy gotowi się przeprowadzić, więc dziś wieczorem mogą wysiąść światła\"\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_4:
@@ -28,7 +28,7 @@ message_4:
 
 
 message_5:
-      text: \"Wiem, że od dawna z nikim nie rozmawiałeś, ale możesz chcieć się pożegnać ze starymi przyjaciółmi, nim wyjedziemy\".\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Wiem, że od dawna z nikim nie rozmawiałeś, ale możesz chcieć się pożegnać ze starymi przyjaciółmi, nim wyjedziemy\"\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_6:
@@ -109,7 +109,7 @@ message_21:
 
 
 message_22:
-      text: \"Cześć, \n[8]! To notatka od MAMUSI\".\n<NOTATKA OD MAMY>
+      text: \"Cześć, \n[8]! To notatka od MAMUSI\"\n<NOTATKA OD MAMY>
 
 
 #Bathroom mirror
@@ -137,7 +137,7 @@ message_25:
 
 
 message_29:
-      text: \"Kocham cię, buziaczki\".\n<NOTATKA OD MAMY>
+      text: \"Kocham cię, buziaczki\"\n<NOTATKA OD MAMY>
 
 
 
@@ -173,7 +173,7 @@ message_57:
 
 
 message_58:
-      text: \"Przy okazji, czy mógłbyś przejrzeć szafę na parterze i sprawdzić, czy nie chcesz wziąć czegoś ze sobą.\! Zapewne wyrzucimy wszystko, czego już nie chcesz\".\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Przy okazji, czy mógłbyś przejrzeć szafę na parterze i sprawdzić, czy nie chcesz wziąć czegoś ze sobą.\! Zapewne wyrzucimy wszystko, czego już nie chcesz\"\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_59:
@@ -188,7 +188,7 @@ message_60:
 
 
 message_61:
-      text: \"Pamiętaj, żeby dziś skończyć się przygotowywać.\! Odbiorę cię moim samochodem sprzed domu.\! Po prostu wyjdź, kiedy będziesz gotowy\".\n<POCZTA GŁOSOWA OD MAMY>
+      text: \"Pamiętaj, żeby dziś skończyć się przygotowywać.\! Odbiorę cię moim samochodem sprzed domu.\! Po prostu wyjdź, kiedy będziesz gotowy\"\n<POCZTA GŁOSOWA OD MAMY>
 
 
 message_62:

@@ -9,7 +9,7 @@
 
 
 message_1:
-      text: \n<KUJON>O, cześć panie korepetytorze!
+      text: \n<KUJON>O, cześć, panie korepetytorze!
 
 
 #Talk to Brent / Cutscene: Brent Leaves
@@ -103,7 +103,7 @@ message_21:
 
 
 message_22:
-      text: 43, 47, 53, 39, 40, 60<br>\!Następnie podaj wynik “z” dla wartości 100 zaokrąglony do trzeciego miejsca po przecinku.
+      text: 43, 47, 53, 39, 40, 60<br>\!Następnie znormalizuj zmienną x = 100, używając standaryzacji Z. Wynik podaj z dokładnością do trzeciego miejsca po przecinku.
 
 
 message_23:

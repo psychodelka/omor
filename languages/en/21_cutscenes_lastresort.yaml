@@ -183,7 +183,7 @@ message_22:
 message_23:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \sinv[1]Achhh... O niebo lepiej...\kel
+      text: \sinv[1]Aaach... O niebo lepiej...\kel
  
 message_24:
       text: Zauważyłeś, że KEL nie umył rąk.
@@ -350,7 +350,7 @@ message_64:
       text: \com[540]Już go wysyłam.\aub
  
 message_65:
-      text: \}Ty też, AUBREY.\!<br><br><br>...\! \quake[1]Bzzt.\n<PAN SZCZĘKOPAD>
+      text: \}Ty też, AUBREY.\!<br><br><br>...\!\quake[1]Bzzt.\n<PAN SZCZĘKOPAD>
  
 message_66:
       faceset: MainCharacters_DreamWorld
@@ -473,7 +473,7 @@ message_96:
       text: HERO jest najlepszym pracownikiem, jakiego kiedykolwiek zatrudniłem, z ręką na sercu.\n<PAN SZCZĘKOPAD>
  
 message_97:
-      text: Dzięki niemu moje zyski wzrosły o 700%!\! <br>Tylko idiota zwolniłby tak cennego pracownika, jak on.\n<PAN SZCZĘKOPAD>
+      text: Dzięki niemu moje zyski wzrosły o 700%!\! <br>Tylko idiota zwolniłby tak cennego pracownika jak on.\n<PAN SZCZĘKOPAD>
  
 #HERO comes in.
  
@@ -640,7 +640,7 @@ message_128:
 #PLUTO walks one step forward.
  
 message_129:
-      text: ...\! Wybacz, KEL.\n<PLUTON>
+      text: ...\!Wybacz, KEL.\n<PLUTON>
  
 message_130:
       text: Nic do ciebie nie mam.\! <br>To po prostu moja fucha.\n<PLUTON>
@@ -811,7 +811,7 @@ message_185:
 message_186:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: ...\! Och, HERO...\! Nie martw się, nic się nie stało.\mar
+      text: ...\!Och, HERO...\! Nie martw się, nic się nie stało.\mar
  
 message_187:
       faceset: MainCharacter_Mari

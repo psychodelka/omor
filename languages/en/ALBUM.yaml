@@ -121,7 +121,7 @@ faraway_message21:
 faraway_message22:
     background: 0
     position: 2
-    text: \n<25 MAJA>Ostatnio w szkole mamy dużo nauki, ale w końcu udało nam się znaleźć czas na spotkanie i pójście razem do parku.<br><br>Tutaj KEL wiszący do góry nogami na drzewie.\!<br>Świetnie umie się wspinać!\!<br>Chciałbym być tak odważny, jak on.
+    text: \n<25 MAJA>Ostatnio w szkole mamy dużo nauki, ale w końcu udało nam się znaleźć czas na spotkanie i pójście razem do parku.<br><br>Tutaj KEL wiszący do góry nogami na drzewie.\!<br>Świetnie umie się wspinać!\!<br>Chciałbym być tak odważny jak on.
  
 faraway_message23:
     background: 0
@@ -273,17 +273,17 @@ dreamworld_message3:
 dreamworld_message4:
     background: 0
     position: 2
-    text: \"Wszyscy jemy arbuzy.\! Takie soczyste!\!<br>AUBREY ma trochę pestek na twarzy.\!<br>Może ktoś powinien jej o tym powiedzieć\".
+    text: \"Wszyscy jemy arbuzy.\! Takie soczyste!\!<br>AUBREY ma trochę pestek na twarzy.\!<br>Może ktoś powinien jej o tym powiedzieć\"
  
 dreamworld_message5:
     background: 0
     position: 2
-    text: \"KEL pijący mleko, jego ulubione!<br>\!Nie powinienem podchodzić blisko, bo mój aparat może się zamoczyć\".
+    text: \"KEL pijący mleko, jego ulubione!<br>\!Nie powinienem podchodzić blisko, bo mój aparat może się zamoczyć\"
  
 dreamworld_message6:
     background: 0
     position: 2
-    text: \"MARI i HERO zrobili nam zdjęcie.\!<br>Wszyscy powiedzieli, że wianki do mnie pasują\".
+    text: \"MARI i HERO zrobili nam zdjęcie.\!<br>Wszyscy powiedzieli, że wianki do mnie pasują\"
  
 dreamworld_message7:
     background: 0
@@ -298,7 +298,7 @@ dreamworld_message8:
 dreamworld_message9:
     background: 0
     position: 2
-    text: \"Po posiłku wszyscy poza mną, HERO i MARI poszli spać.\!<br>Sam powoli staję się senny\".
+    text: \"Po posiłku wszyscy poza mną, HERO i MARI poszli spać.\!<br>Sam powoli staję się senny\"
  
 dreamworld_message10:
     background: 0

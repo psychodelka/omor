@@ -119,7 +119,7 @@ message_23:
       text: Chodźmy, BERLY. Poszukajmy \c[4]ZAGINIONEJ PIŁKI\c[0].\!<br>Dopóki jesteśmy razem, nic nam się nie stanie!\her
  
 message_24:
-      text: Hah, pewnie.\! Postarajcie się tylko nie przeszkadzać mi, przy pokazie mojej wspaniałej umiejętności strzału \c[1]Z GŁÓWKI\c[0]!\ber
+      text: Hah, pewnie.\! Postarajcie się tylko nie przeszkadzać mi przy pokazie mojej wspaniałej umiejętności strzału \c[1]Z GŁÓWKI\c[0]!\ber
  
 message_25:
       faceset: MainCharacters_DreamWorld

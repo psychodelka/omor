@@ -13,7 +13,7 @@
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubZaczekajcie chwilę, chcę kupić coś do picia.\!<br>...\! Hmm...\! Nie...\! Nie...\! Ten też nie...
+      text: \aubZaczekajcie chwilę, chcę kupić coś do picia.\!<br>...\!Hmm...\! Nie...\! Nie...\! Ten też nie...
  
 message_2:
       faceset: MainCharacters_Faraway
@@ -228,7 +228,7 @@ message_60:
 message_61:
       faceset: MainCharacters_Faraway
       faceindex: 3
-      text: \aub...\! Ech...\! ale jesteś idiotą.
+      text: \aub...\!Ech...\! ale jesteś idiotą.
  
  
 #=========================DAY 2: GO TO KEL AND HERO'S ROOM DAY 2 AFTER CUTSCENE: CONVINCING KEL'S MOM==================================
@@ -246,7 +246,7 @@ message_81:
 message_82:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \kelNo weź, HERO!\! Stańmy do siebie plecami, tak jak zawsze!
+      text: \kelNo weź, HERO!\! Stańmy do siebie plecami tak jak zawsze!
  
 message_83:
       faceset: MainCharacters_Faraway

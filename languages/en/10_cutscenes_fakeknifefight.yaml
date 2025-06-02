@@ -110,10 +110,10 @@ message_32:
       text: Czemu nie pójdziesz dręczyć kogoś innego, KIM?\kel
  
 message_33:
-      text: Pss.\! Cóż, czemu zgrywasz takiego wielkiego i wszechmogącego?\kim
+      text: Psss.\! Cóż, czemu zgrywasz takiego wielkiego i wszechmogącego?\kim
  
 message_34:
-      text: Nie rządzisz tu!\kim
+      text: To nie ty tu rządzisz!\kim
  
 #Aubrey talking:
 message_35:
@@ -123,7 +123,7 @@ message_35:
 #AUBREY walks to KIM's side and faces her.
  
 message_36:
-      text: Och, cześć AUBREY...\!<br>Ten frajer KEL tu przylazł i myśli, że może mną pomiatać!\! Pokaż mu, kto tu naprawdę rządzi!\kim
+      text: Och, cześć, AUBREY...\!<br>Przylazł tu ten frajer KEL i myśli, że może mną pomiatać!\! Pokaż mu, kto tu naprawdę rządzi!\kim
  
 #AUBREY get off scooter, and turns to KEL.
  
@@ -142,7 +142,7 @@ message_38:
 message_39:
       faceset: MainCharacters_Faraway
       faceindex: 3
-      text: ...\! \n[8] tu jest?\aub
+      text: ...\!\n[8] tu jest?\aub
  
 #AUBREY walks up to PLAYER.
  
@@ -286,7 +286,7 @@ message_101:
 message_102:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Nie wiem czy zauważyłeś, ale \n[8] przyszedł ze mną!\!<br>Przywitaj się, \n[8]!\kel
+      text: Nie wiem, czy zauważyłeś, ale przyszedł ze mną \n[8]!\!<br>Przywitaj się, \n[8]!\kel
  
 message_103:
       faceset: MainCharacter_Basil

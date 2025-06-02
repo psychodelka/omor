@@ -66,7 +66,7 @@ message_11:
 
 #Statues:
 message_12:
-      text: Posąg przedstawiający postać religijną.<br>\!...\! Czujesz, jakby cię osądzała.
+      text: Posąg przedstawiający postać religijną.<br>\!...\!Czujesz, jakby cię osądzała.
 
 
 #Road Work:
@@ -315,28 +315,28 @@ message_62:
 
 
 message_63:
-      text: \"COROCZNE ZAWODY JEDZENIA HOT DOGÓW - PIERWSZE MIEJSCE\".
+      text: \"COROCZNE ZAWODY JEDZENIA HOT DOGÓW - PIERWSZE MIEJSCE\"
 
 
 message_64:
-      text: \"OGÓLNOKRAJOWY KONKURS KULINARNY DLA JUNIORÓW - PIERWSZE MIEJSCE\".
+      text: \"OGÓLNOKRAJOWY KONKURS KULINARNY DLA JUNIORÓW - PIERWSZE MIEJSCE\"
 
 
 message_65:
-      text: \"OGÓLNOKRAJOWE DYKTANDO - PIERWSZE MIEJSCE\".
+      text: \"OGÓLNOKRAJOWE DYKTANDO - PIERWSZE MIEJSCE\"
 
 
 message_66:
-      text: \"OGÓLNOKRAJOWA OLIMPIADA MATEMATYCZNA - PIERWSZE MIEJSCE\".
+      text: \"OGÓLNOKRAJOWA OLIMPIADA MATEMATYCZNA - PIERWSZE MIEJSCE\"
 
 
 message_67:
-      text: \"OGÓLNOKRAJOWE MISTRZOSTWA DEBAT - NAGRODA ZA UZYSKANIE NAJWIĘKSZEGO WYNIKU\".
+      text: \"OGÓLNOKRAJOWE MISTRZOSTWA DEBAT - NAGRODA ZA UZYSKANIE NAJWIĘKSZEGO WYNIKU\"
 
 
 #Kel's Participation
 message_68:
-      text: Jedyne wyróżnienie KELA...\! <br>\"UCZESTNIK COROCZNYCH ZAWODÓW JEDZENIA HOT DOGÓW\"
+      text: Jedyne wyróżnienie KELA...\! <br>\"UCZESTNIK COROCZNYCH ZAWODÓW JEDZENIA HOT DOGÓW\".
 
 
 #Alarm Clock:
@@ -661,7 +661,7 @@ message_146:
 
 #Mirror:
 message_147:
-      text: Przed lustrem leży grzebień z szerokimi zębami.\!<br>Lustro ma na sobie pełno samoprzylepnych karteczek.<br><br>\"Wyciągnij ramiona do tyłu o piętnaście stopni więcej\"...\!<br>\"Pamiętaj, aby podczas pozowania zgiąć wszystkie palce u rąk\"...<br>\"Pokazuj jedno oko tylko wtedy, gdy ktoś cię sprowokuje\"...<br>...\! Ech...
+      text: Przed lustrem leży grzebień z szerokimi zębami.\!<br>Lustro ma na sobie pełno samoprzylepnych karteczek.<br><br>\"Wyciągnij ramiona do tyłu o piętnaście stopni więcej\"...\!<br>\"Pamiętaj, aby podczas pozowania zgiąć wszystkie palce u rąk\"...<br>\"Pokazuj jedno oko tylko wtedy, gdy ktoś cię sprowokuje\"...<br>...\!Ech...
 
 
 #Game Console:
@@ -788,12 +788,12 @@ message_189:
 
 #Brent's Coffee Table:
 message_190:
-      text: Na stole leży otwarta książka.<br><br><br>\"Abstrahując od rzeczy altruistycznych i od metafizycznego pietyzmu, rzecz ma się w swej strukturze niezwykle prosto i obiektywnie, ponieważ ze względu na względy, które bezwzględnie uwzględnić należy, dochodzimy do konkluzji, że jeżeli ktoś kiedyś komuś coś, ewentualnie nikt nikomu nigdy nic, to sprawa się gmatwa i taki osobnik zostaje...\"<br>...\! Odkładasz książkę z powrotem na miejsce.
+      text: Na stole leży otwarta książka.<br><br><br>\"Abstrahując od rzeczy altruistycznych i od metafizycznego pietyzmu, rzecz ma się w swej strukturze niezwykle prosto i obiektywnie, ponieważ ze względu na względy, które bezwzględnie uwzględnić należy, dochodzimy do konkluzji, że jeżeli ktoś kiedyś komuś coś, ewentualnie nikt nikomu nigdy nic, to sprawa się gmatwa i taki osobnik zostaje...\"<br>...\!Odkładasz książkę z powrotem na miejsce.
 
 
 #Library reading nook book:
 message_191:
-      text: Ten dom jest wypełniony po brzegi książkami na każdy temat.\! Ta jest o czymś, co nazywa się \"nanomateriały\".
+      text: Ten dom jest wypełniony po brzegi książkami na każdy temat.\! Ta jest o czymś o nazwie \"nanomateriały\".
 
 
 
@@ -806,11 +806,11 @@ message_192:
 
 
 message_193:
-      text: Ten dom jest wypełniony po brzegi książkami na każdy temat.\! Ta jest o czymś, co nazywa się \"chemia organiczna\".
+      text: Ten dom jest wypełniony po brzegi książkami na każdy temat.\! Ta jest o czymś o nazwie \"chemia organiczna\".
 
 
 message_194:
-      text: \"NAGRODA ZA CAŁOKSZTAŁT OSIĄGNIĘĆ NAUKOWYCH\".
+      text: \"NAGRODA ZA CAŁOKSZTAŁT OSIĄGNIĘĆ NAUKOWYCH\"
 
 
 message_195:
@@ -822,11 +822,11 @@ message_196:
 
 
 message_197:
-      text: Ten dom jest wypełniony po brzegi książkami na każdy temat.\! Ta jest o czymś, co nazywa się \"nauki matematyczne\".
+      text: Ten dom jest wypełniony po brzegi książkami na każdy temat.\! Ta jest o czymś o nazwie \"nauki matematyczne\".
 
 
 message_198:
-      text: Na stole leży otwarta książka.<br><br><br>\"Przycinanie powinno być wykonywane regularnie, aby drzewko bonsai utrzymało swój kształt\".<br><br>\"Wszystkie drzewka bonsai rosną w różnym tempie, dlatego należy ocenić tempo wzrostu każdego drzewa i dostosować odpowiednio częstotliwość jego przycinania\".
+      text: Na stole leży otwarta książka.<br><br><br>\"Przycinanie powinno być wykonywane regularnie, aby drzewko bonsai utrzymało swój kształt\"<br><br>\"Wszystkie drzewka bonsai rosną w różnym tempie, dlatego należy ocenić tempo wzrostu każdego drzewa i dostosować odpowiednio częstotliwość jego przycinania\"
 
 
 message_199:
@@ -911,7 +911,7 @@ message_238:
 
 
 message_239:
-      text: Otwierasz garnek.\!<br>...\! Mmm...\! Pachnie pierogami.
+      text: Otwierasz garnek.\!<br>...\!Mmm...\! Pachnie pierogami.
 
 
 message_240:
@@ -956,7 +956,7 @@ message_251:
 
 #Mail:
 message_252:
-      text: Sterta listów zaadresowanych \"Do mamy\".\!<br>Adresy zwrotne pochodzą z przeróżnych miejsc w kraju.
+      text: Sterta listów zaadresowanych \"do Mamy\".\!<br>Adresy zwrotne pochodzą z przeróżnych miejsc w kraju.
 
 
 #Trash Can:
@@ -1156,7 +1156,7 @@ message_311:
 
 
 message_312:
-      text: Otwierasz garnek.\!<br>...\! \sinv[1]Mmmmm... Pachnie makaronem z sosem serowym.
+      text: Otwierasz garnek.\!<br>...\!\sinv[1]Mmmmm... Pachnie makaronem z sosem serowym.
 
 
 #============================
@@ -1221,7 +1221,7 @@ message_337:
 
 
 message_338:
-      text: Na stole leży otwarta książka.<br><br><br>\"Powoli przesunął w górę rękę i delikatnie pieścił jego twarz...\! Ich oczy spotkały się i w jednej chwili wypełniły się tą samą intensywną, gorącą pasją\".<br>...\! Emmm.\! Może nie powinieneś tego czytać.
+      text: Na stole leży otwarta książka.<br><br><br>\"Powoli przesunął w górę rękę i delikatnie pieścił jego twarz...\! Ich oczy spotkały się i w jednej chwili wypełniły się tą samą intensywną, gorącą pasją\".<br>...\!Emmm.\! Może nie powinieneś tego czytać.
 
 
 message_339:
@@ -1358,7 +1358,7 @@ message_365:
 
 
 message_366:
-      text: \"NASZA NAJDROŻSZA MARI\"\!<br>\"SŁOŃCE ŚWIECIŁO JAŚNIEJ, GDY BYŁA WŚRÓD NAS\".
+      text: \"NASZA NAJDROŻSZA MARI\"\!<br>\"SŁOŃCE ŚWIECIŁO JAŚNIEJ, GDY BYŁA WŚRÓD NAS\"
 
 
 message_367:
@@ -1834,7 +1834,7 @@ message_513:
 
 #Poster:
 message_514:
-      text: Plakat nowej gry, w której można podróżować po różnych światach.\! Nic, czego byś wczśniej nie widział.
+      text: Plakat nowej gry, w której można podróżować po różnych światach.\! Nic, czego byś wcześniej nie widział.
 
 
 #Cards:
@@ -1885,7 +1885,7 @@ message_530:
 
 #Manual:
 message_531:
-      text: Na stole leży otwarta książka.\!<br>Jest to poradnik jak się... szybko... wzbogacić?<br>\!...\!\Com[2] Chwila moment, to nie ma żadnego związku z pracą!
+      text: Na stole leży otwarta książka.\!<br>Jest to poradnik jak się... szybko... wzbogacić?<br>\!...\!\Com[2]Chwila moment, to nie ma żadnego związku z pracą!
 
 
 #Paint:
@@ -2188,7 +2188,7 @@ message_648:
 
 #Bed:
 message_649:
-      text: To łóżko jest na podłodze.\!<br>Nie jesteś pewien jak je ocenić.
+      text: To łóżko jest na podłodze.\!<br>Nie jesteś pewien, jak je ocenić.
 
 
 
@@ -2232,7 +2232,7 @@ message_657:
 
 
 message_658:
-      text: Otwierasz garnek.\!<br>...\! Mmm...\! Pachnie jak dżem.
+      text: Otwierasz garnek.\!<br>...\!Mmm...\! Pachnie jak dżem.
 
 
 message_659:
@@ -2324,11 +2324,11 @@ message_692:
 
 
 message_800:
-      text: \n<JUZEK KONDUKTOR>\"Panie i panowie...\! Dotarliśmy na nasz przystanek.\! Witamy w \c[11]POMARAŃCZOWEJ OAZIE\c[0], gdzie księżyc świeci jaśniej\".
+      text: \n<JUZEK KONDUKTOR>\"Panie i panowie...\! Dotarliśmy na nasz przystanek.\! Witamy w \c[11]POMARAŃCZOWEJ OAZIE\c[0], gdzie księżyc świeci jaśniej\"
 
 
 message_801:
-      text: \n<JUZEK KONDUKTOR>\"Proszę o opuszczenie pociągu w należyty sposób.\! Dziękujemy za cierpliwość i zapraszamy ponownie\".\! \}\quake[1]Bzzt...
+      text: \n<JUZEK KONDUKTOR>\"Proszę o opuszczenie pociągu w należyty sposób.\! Dziękujemy za cierpliwość i zapraszamy ponownie\"\! \}\quake[1]Bzzt...
 
 
 #BACKYARD

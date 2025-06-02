@@ -231,7 +231,7 @@ message_102:
 message_103:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelEj! Do \c[11]DOMU BASILA\c[0] nie w tą stronę!<br>Nie pamiętasz, co ci powiedziałem?\! To pierwszy dom przy ulicy na skos od naszej!\!<br>Łatwo zapamiętać, co?
+      text: \kelEj! Do \c[11]DOMU BASILA\c[0] nie w tę stronę!<br>Nie pamiętasz, co ci powiedziałem?\! To pierwszy dom przy ulicy na skos od naszej!\!<br>Łatwo zapamiętać, co?
 
 
 message_104:
@@ -574,7 +574,7 @@ message_261:
 message_262:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: ...\! \n[8], mów szczerze! Śmierdzę?\kel
+      text: ...\!\n[8], mów szczerze! Śmierdzę?\kel
 
 
 message_263:
@@ -638,7 +638,7 @@ message_278:
 message_279:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelO! Bierzesz tą fuchę?\! Spoko.\! W międzyczasie posiedzimy gdzieś indziej.\! Na razie, \n[8]!
+      text: \kelO! Bierzesz tę fuchę?\! Spoko.\! W międzyczasie posiedzimy gdzieś indziej.\! Na razie, \n[8]!
 
 
 message_280:
@@ -660,7 +660,7 @@ message_283:
 message_284:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelO! Bierzesz tą fuchę?\! Spoko.\! W międzyczasie posiedzę gdzieś indziej.\! Na razie, \n[8]!
+      text: \kelO! Bierzesz tę fuchę?\! Spoko.\! W międzyczasie posiedzę gdzieś indziej.\! Na razie, \n[8]!
 
 
 
@@ -854,7 +854,7 @@ message_351:
 
 
 message_352:
-    text: \n<RÓŻA>Nie mam mowy, że tak po prostu oddam wam mój najcenniejszy, nowy dodatek do mojej kolekcji...
+    text: \n<RÓŻA>Nie ma mowy, że tak po prostu oddam wam mój najcenniejszy, nowy dodatek do mojej kolekcji...
 
 
 message_353:
@@ -1527,7 +1527,7 @@ message_558:
 
 
 message_559:
-      text: \"Dla najlepszej mamy na calutkim świecie."\!<br>\"Od twojego synka, HERO\".\! Wow...
+      text: \"Dla najlepszej mamy na calutkim świecie"\!<br>\"Od twojego synka, HERO\"\! Wow...
 
 
 # Trying to go up stairs without Hero, day 2 night
@@ -1607,7 +1607,7 @@ message_569:
 message_570:
     faceset: MainCharacters_Faraway
     faceindex: 22
-    text: \kelMamy już tą konsolę, \n[8]!\!<br>I nie wydaję mi się, żeby było stać mnie na dwie...
+    text: \kelMamy już tę konsolę, \n[8]!\!<br>I nie wydaję mi się, żeby było stać mnie na dwie...
 
 
 message_571:

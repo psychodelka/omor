@@ -43,7 +43,7 @@ message_5:
 message_6:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: ...\! Wiesz...\! Straciłem ważną dla mnie rzecz.\bas
+      text: ...\!Wiesz...\! straciłem ważną dla mnie rzecz.\bas
  
 #BASIL walks one step back.
  
@@ -113,7 +113,7 @@ message_17:
 message_18:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text:  ...\! Dobrze.\bas
+      text:  ...\!Dobrze.\bas
  
 #KEL walks back to PLAYER.
  
@@ -125,7 +125,7 @@ message_19:
 message_20:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: ...\! Do zobaczenia.\bas
+      text: ...\!Do zobaczenia.\bas
  
 # =========================================================================================
 # Cutscene: Charlie & Angel Intro
@@ -242,7 +242,7 @@ message_74:
 message_75:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Ech...\! Dobra ANGEL, nie rób se jaj.\! <br>Pokonaliśmy was, więc gadaj teraz, gdzie jest AUBREY.\kel
+      text: Ech...\! Dobra, ANGEL, nie rób se jaj.\! <br>Pokonaliśmy was, więc teraz gadaj, gdzie jest AUBREY.\kel
  
 message_76:
       text: Hmf!\! Obietnica obietnicą.\! Dotrzymam słowa i powiem ci, co wiem.\ang
@@ -314,7 +314,7 @@ message_82:
 #ANGEL turns around.
  
 message_83:
-      text: W-w każdym razie, naprawdę nie wiem!\ang
+      text: W-w każdym razie naprawdę nie wiem!\ang
  
 message_84:
       text: Może spytaj mego mistrza, WIELKIEGO MAVERICKA.\! On jest posiadaczem wszelkiej wiedzy!\! Sam tak mówi!\ang
@@ -368,7 +368,7 @@ message_94:
 #MAVERICK is at the fountain, with one DZIEWCZYNA on each arm.
  
 message_110:
-      text: I wtedy powiedziałem... nie MAVERICK.\! <br>JESTEM \Com[2]WIELKI MAVERICK!\n<WIELKI MAVERICK>
+      text: I wtedy powiedziałem... nie \"MAVERICK\".\! <br>JESTEM \Com[2]WIELKI MAVERICK!\n<WIELKI MAVERICK>
  
 message_111:
       text: O, \Com[2]WIELKI MAVERICKU, jesteś taki zabawny!\n<DZIEWCZYNA>
@@ -484,7 +484,7 @@ message_157:
       text: Mam więcej pieniędzy!\n<WIELKI MAVERICK>
  
 message_158:
-      text: ... \!Ech...\n<WIELKI MAVERICK>
+      text: ...\!Ech...\n<WIELKI MAVERICK>
  
 #His wig falls off, but he fixes it.
  
@@ -509,7 +509,7 @@ message_162:
 #THE MAVERICK turns to KEL.
  
 message_163:
-      text: Dobra.\!<br>Tak się składa, że wiem gdzie ona jest i ci powiem...\! <br>pod jednym warunkiem...\n<WIELKI MAVERICK>
+      text: Dobra.\!<br>Tak się składa, że wiem, gdzie ona jest i ci powiem...\! <br>pod jednym warunkiem...\n<WIELKI MAVERICK>
  
 message_164:
       text: Naucz się mówić do mnie poprawnie, \Com[2]WIELKI MAVERI...\n<WIELKI MAVERICK>

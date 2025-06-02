@@ -47,7 +47,7 @@ message_11:
 
 
 message_12:
-      text: \n<APTEKARZ>...\! Wiem dla kogo! Już wam je daję.
+      text: \n<APTEKARZ>...\!Wiem, dla kogo! Już wam je daję.
 
 
 message_13:
@@ -71,7 +71,7 @@ message_17:
 
 
 message_18:
-      text: \n<APTEKARZ>Jeśli kiedyś potrzebowalibyście \c[5]BANDAŻY\c[0] lub \c[5]APTECZEK\c[0], wiecie do kogo się zgłosić.
+      text: \n<APTEKARZ>Jeśli kiedyś potrzebowalibyście \c[5]BANDAŻY\c[0] lub \c[5]APTECZEK\c[0], wiecie, do kogo się zgłosić.
 
 
 message_20:
@@ -83,7 +83,7 @@ message_21:
 
 
 message_22:
-      text: \n<BABCIA W BLOND KOKU>Ekhu...\! ekhe...\! Przepraszam...\!<br>Tak bardzo wam dziękuję.\! Naprawdę mi pomogliście!\!<br>To bardzo miły widok, jak młodzi ludzie pomagają starszym.
+      text: \n<BABCIA W BLOND KOKU>Ekhu...\! ekhe...\! Przepraszam...\!<br>Tak bardzo wam dziękuję.\! Naprawdę mi pomogliście!\!<br><br>Bardzo przyjemnie widzieć, jak młodzi ludzie pomagają starszym.
 
 
 message_23:

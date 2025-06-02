@@ -59,7 +59,7 @@ message_9:
 message_10:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Ech...\! Dziś mam już tego dość.<br>\!KIM, zawrzyjmy układ.\kel
+      text: Ech...\! Na dzisiaj mam już tego dość.<br>\!KIM, zawrzyjmy układ.\kel
  
 message_24:
       faceset: MainCharacters_Faraway
@@ -153,7 +153,7 @@ message_40:
       text: Grr...\! Sorka, VANCE.\! Dzisiaj bez \c[3]CUKSÓW\c[0]...\kim
  
 message_41:
-      text: Nie...\! Znowu?\! Nie wiem, ile jeszcze dam radę wytrzymać.\! Jak tak dalej pójdzie, to niechybnie zginiemy.\van
+      text: Nie...\! Znowu?\! Nie wiem, ile jeszcze wytrzymam.\! Jak tak dalej pójdzie, to niechybnie zginiemy.\van
  
 message_42:
       text: Ech...\! Po prostu chodźmy do domu.\! Spóźnimy się na obiad.\kim
@@ -175,7 +175,7 @@ message_44:
 message_45:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Jak powiesz nam, gdzie jest AUBREY, to dam ci tą całą \c[4]WIELKĄ TORBĘ CUKSÓW\c[0]!\kel
+      text: Jak powiesz nam, gdzie jest AUBREY, to dam ci tę całą \c[4]WIELKĄ TORBĘ CUKSÓW\c[0]!\kel
  
 message_46:
       text: N-naprawdę? Całą?\!<br>Znaczy, czekaj...\! \Com[2]Nie sprzedamy się za kilka \c[3]CUKSÓW\c[0]!\!<br>Za kogo ty nas masz?\kim
@@ -205,7 +205,7 @@ message_52:
 message_53:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: ...\! O kurczę... serio?\! Byłem pewien, że to zadziała.\kel
+      text: ...\!O kurczę... serio?\! Byłem pewien, że to zadziała.\kel
  
 message_54:
       text: Tylko tracimy czas... Wynośmy się stąd!\kim
@@ -247,7 +247,7 @@ message_62:
       text: Chwila, wcale nie musimy się bić!\! Jak tylko powiecie nam, gdzie ona jest, to dam wam tę torebkę!\kel
  
 message_63:
-      text: Ale...\! Ja chcę się bić...\!<br>\Com[2]No weź! Nie bądź taki!\! <br>Czas się bić!\kim
+      text: Ale...\! Ja chcę się bić...\!<br>\Com[2]No weź! Nie bądź taki!\! <br>Czas na klepę!\kim
  
 message_64:
       text: UNUSED
@@ -395,7 +395,7 @@ message_108:
 message_120:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Jesteśmy na miejscu.\!<br>To jest ostatnie miejsce, w którym bym się jej spodziewał.\kel
+      text: Dotarliśmy.\!<br>To jest ostatnie miejsce, w którym bym się jej spodziewał.\kel
  
 message_121:
       faceset: MainCharacters_Faraway
@@ -531,7 +531,7 @@ message_170:
 message_171:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: \}...\! Rozumiem, że masz teraz nowych przyjaciół, ale nie możesz tak po prostu zapomnieć tych starych!\kel
+      text: \}...\!Rozumiem, że masz teraz nowych przyjaciół, ale nie możesz tak po prostu zapomnieć tych starych!\kel
  
 message_172:
       faceset: MainCharacters_Faraway
@@ -713,7 +713,7 @@ message_204:
 message_205:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: \}Teraz nie jest dobra pora na to, AUBREY...\kel
+      text: \}Teraz nie na to jest dobra pora, AUBREY...\kel
  
 message_206:
       faceset: MainCharacters_Faraway
@@ -780,7 +780,7 @@ message_301:
 message_302:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kel...\! Ups...
+      text: \kel...\!Ups...
  
 #CHUCH FOLK
  

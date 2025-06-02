@@ -283,7 +283,7 @@ message_57:
 message_58:
       faceset: MainCharacter_Basil
       faceindex: 17
-      text: \basNawet, gdybyś chciał trzymać je w sobie...\! to na nic.
+      text: \basNawet gdybyś chciał trzymać je w sobie...\! to na nic.
  
 message_59:
       faceset: MainCharacter_Basil

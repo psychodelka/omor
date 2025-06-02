@@ -117,7 +117,7 @@ message_14:
 message_15:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelZ tego co wiem...\! aktualny mistrzu podziewa się na tym terenie...\! ale nikt nie wie, jak on wygląda.
+      text: \kelZ tego, co wiem...\! aktualny mistrzu podziewa się na tym terenie...\! ale nikt nie wie, jak on wygląda.
 
 
 message_16:
@@ -172,7 +172,7 @@ message_150:
 
 #reward
 message_140:
-      text: \n<OBLECH>Powierzam wam tą czapkę, którą godnie podziwiacie...\! A teraz znikać mi stąd!
+      text: \n<OBLECH>Powierzam wam tę czapkę, którą godnie podziwiacie...\! A teraz znikać mi stąd!
 
 
 # =========================================================================================
@@ -475,7 +475,7 @@ message_110:
 
 #Intro
 message_115:
-      text: \n<KASJER>Achh... \n[8]...\! Zjawiłeś się!\! Doszły mnie słuchy, że pokonałeś już innych weteranów...
+      text: \n<KASJER>Aaach... \n[8]...\! Zjawiłeś się!\! Doszły mnie słuchy, że pokonałeś już innych weteranów...
 
 
 message_132:

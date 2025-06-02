@@ -15,7 +15,7 @@ message_1:
 
 
 message_2:
-       text: \"Wygląda na to, że się zgubiliśmy...\!<br>Nie mogło nas wywiać daleko...\!<br>Znajdź nas, drogi braciszku\".
+       text: \"Wygląda na to, że się zgubiliśmy...\!<br>Nie mogło nas wywiać daleko...\!<br>Znajdź nas, drogi braciszku\"
 
 
 message_3:
@@ -55,7 +55,7 @@ message_7:
 message_8:
        text: Zaglądasz za zasłonę...\! i znajdujesz więcej kartonowych wycinków.
 message_9:
-       text: \"Myślałeś, że kupiliśmy tylko jedną kartonową kopię nas?\! To by się nie opłacało\".
+       text: \"Myślałeś, że kupiliśmy tylko jedną kartonową kopię nas?\! To by się nie opłacało\"
 
 
 #Examine curtains with silhouettes:

@@ -4135,7 +4135,7 @@ Window_BattleLog.prototype.changeHealFormat = function(text, target) {
     case hpHealedString === '1': 
       return text.replace('SERC', 'SERCE');
     case this.checkIfEndsWithTwoThreeFour(hpHealedString):
-      return text.replace('SERC', 'SERCA');
+      return text.replace(/\bSERC\b/, 'SERCA');
     default:
       return text;
   }

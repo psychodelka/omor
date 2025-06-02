@@ -30,7 +30,7 @@ message_6:
       text: Chcę was przeprosić. Wasze czyny były usprawiedliwione.\!<br>Mam tylko nadzieję, że nie sprawiłem wam dużo kłopotów.\n<KAPITAN KOSMIK>
  
 message_7:
-      text: Ostatnio ciężko mi opanować emocje.\!<br>Staram się, żeby trzymać je pod kontrolą, jak mogę, ale to robi się coraz trudniejsze.\n<KAPITAN KOSMIK>
+      text: Ostatnio ciężko mi opanować emocje.\!<br>Staram się trzymać je pod kontrolą, jak mogę, ale to staje się coraz trudniejsze.\n<KAPITAN KOSMIK>
  
 message_8:
       text: SŁODZIUTKA...\! Ona była miłością mojego życia...\!<br>Nie potrafię wyobrazić sobie życia bez niej.\n<KAPITAN KOSMIK>
@@ -84,7 +84,7 @@ message_22:
       text: H-ha?\! Serio??\! Więc nie jesteś zły?\n<KUMPEL KOSMOPIRAT>
  
 message_23:
-      text: Jesteś pewny, KAPITANIE KOSM... znaczy KOSMOCHŁOPAKU?\n<TYPEK KOSMOPIRAT>
+      text: Jesteś pewny, KAPITANIE KOSM... znaczy, KOSMOCHŁOPAKU?\n<TYPEK KOSMOPIRAT>
  
 message_24:
       text: Tak, jestem.\! Zbierz resztę załogi.\!<br>Wyruszamy nad \c[11]MROŹNE JEZIORO\c[0] zdobyć kilka \c[3]ZMROŻKÓW\c[0].\n<KAPITAN KOSMIK>
@@ -124,7 +124,7 @@ message_34:
 message_35:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herW zasadzie...\! To mamy chyba jedną sprawę...\! Szukamy naszego przyjaciela, BASILA.
+      text: \herW zasadzie...\! to chyba mamy jedną sprawę...\! Szukamy naszego przyjaciela, BASILA.
  
 message_36:
       faceset: MainCharacters_DreamWorld
@@ -132,7 +132,7 @@ message_36:
       text: \herNosi \c[4]WIANEK\c[0] i zawsze targa ze sobą swój \c[4]ALBUM ZE ZDJĘCIAMI\c[0].\! Nie widziałeś go może?
  
 message_41:
-      text: ...\! Niestety nie...\!<br>Ale jeśli tylko go zobaczę, to od razu dam wam znać.\n<KAPITAN KOSMIK>
+      text: ...\!Niestety nie...\!<br>Ale jeśli tylko go zobaczę, to od razu dam wam znać.\n<KAPITAN KOSMIK>
  
 #AUBREY looks away.
  

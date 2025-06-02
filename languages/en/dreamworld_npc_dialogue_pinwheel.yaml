@@ -50,7 +50,7 @@ message_4:
 #GIBS
 #Location: Train Station
 message_5:
-      text: \n<STACJONARNY GRAJEK KOCURRO>Hej, dzieciaki!\! Jestem KOCURRO, STACJONARNY GRAJEK!\!<br>Byłem kiedyś PODRÓŻUJĄCYM GRAJKIEM, lecz porzuciłem tą fuchę bardzo dawno temu.
+      text: \n<STACJONARNY GRAJEK KOCURRO>Hej, dzieciaki!\! Jestem KOCURRO, STACJONARNY GRAJEK!\!<br>Byłem kiedyś PODRÓŻUJĄCYM GRAJKIEM, lecz porzuciłem tę fuchę bardzo dawno temu.
 
 
 message_6:
@@ -98,11 +98,11 @@ message_12:
 
 
 message_13:
-      text: \n<MĘDRZYSKAŁA>... \!Rozumie się!\! Oto twoja rada.
+      text: \n<MĘDRZYSKAŁA>...\!Rozumie się!\! Oto twoja rada.
 
 
 message_14:
-      text: \n<MĘDRZYSKAŁA>...\! Mam nadzieję, że pomoże!
+      text: \n<MĘDRZYSKAŁA>...\!Mam nadzieję, że pomoże!
 
 
 # =========================================================================================

@@ -109,7 +109,7 @@ message_27:
       text: \n<ROKOKO>Hmm... Ciekawe, czy kiedykolwiek powiedziałem jej to wprost.
  
 message_28:
-    text: \n<ROKOKO>W każdym razie, historia toczy się dalej...
+    text: \n<ROKOKO>W każdym razie historia toczy się dalej...
  
 message_29:
     text: \n<ROKOKO>Niestety wszystko, co dobre, kiedyś się kończy.\! Kiedy fanów SŁODZIUTKIEJ przybywało, oddalaliśmy się od siebie.
@@ -273,7 +273,7 @@ message_70:
     text: \"BEZ TYTUŁU\"<br>\!- autorstwa ROKOKO, wielkiego artysty
  
 message_71:
-    text: \n<KOMENTARZ ARTYSTY>\"Hej, dopiero zaczynam, dobra? Odpuśćcie mi\".
+    text: \n<KOMENTARZ ARTYSTY>\"Hej, dopiero zaczynam, dobra? Odpuśćcie mi\"
  
 #2nd piece: Gesture (WIP)
 #Cost: 5000 CLAMS

@@ -175,7 +175,7 @@ message_64:
 message_65:
       faceset: MainCharacter_Basil_dark
       faceindex: 28
-      text: Był taki utwór, który kiedyś graliście razem z MARI...\!<br>Czasami ciągle mi chodzi po głowie, ale nie mogę sobie przypomnieć, jak się nazywał.\her
+      text: Był taki utwór, który kiedyś graliście razem z MARI...\!<br>Czasami chodzi mi po głowie, ale nie mogę sobie przypomnieć, jak się nazywał.\her
  
 message_66:
       faceset: MainCharacter_Basil_dark
@@ -291,7 +291,7 @@ message_102:
 message_103:
       faceset: MainCharacter_Basil_dark
       faceindex: 29
-      text: Jestem pewien, że musi być ci ciężko samemu, w tym pustym domu... zwłaszcza bez MARI.\her
+      text: Jestem pewien, że musi być ci ciężko samemu w tym pustym domu... zwłaszcza bez MARI.\her
  
 message_104:
       faceset: MainCharacter_Basil_dark

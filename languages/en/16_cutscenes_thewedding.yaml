@@ -125,7 +125,7 @@ message_24:
 #Camera pans to the stage.
  
 message_25:
-      text: ...\! Teraz... Czy ktokolwiek ma jakiś sprzeciw?\n<KIEŁKUN MIKOŁAJ>
+      text: ...\!Teraz... Czy ktokolwiek ma jakiś sprzeciw?\n<KIEŁKUN MIKOŁAJ>
  
 message_26:
       text: Niech powie teraz albo zamilknie na wieki!\n<KIEŁKUN MIKOŁAJ>
@@ -280,13 +280,13 @@ message_55:
       text: Ach...\! Tak...\! Już wszystko rozumiem.\n<SŁODZIUTKA>
  
 message_56:
-      text: Przyznam...\! Myliłam się wobec ciebie, HERO.\!<br>Myślałam, że jesteś godnym kompanem...\! ale...\! wygląda na to, że zazdrościsz mi, tak jak wszyscy inni!\n<SŁODZIUTKA>
+      text: Przyznam...\! Myliłam się wobec ciebie, HERO.\!<br>Myślałam, że jesteś godnym kompanem...\! ale...\! wygląda na to, że zazdrościsz mi tak jak wszyscy inni!\n<SŁODZIUTKA>
  
 message_57:
       text: \Com[2]Tak!\! To musi być to!\! Mój oszałamiający wygląd...\! Mój uwodzicielski uśmiech...\! Moja towarzyska osobowość...\! Moja obecność musi sprawiać ci niemały trud!\n<SŁODZIUTKA>
  
 message_58:
-      text: W każdym razie...\! Nie musicie już rozpaczać.\!<br>Zakończę wasze cierpienia... \!osobiście.\!\n<SŁODZIUTKA>
+      text: W każdym razie...\! nie musicie już rozpaczać.\!<br>Zakończę wasze cierpienia... \!osobiście.\!\n<SŁODZIUTKA>
  
 message_59:
       text: \{\quake[1]ŻEGNAJ, BEZUŻYTECZNY PLEBSIE!\n<SŁODZIUTKA>
@@ -294,7 +294,7 @@ message_59:
 #SWEETHEART takes out weapon and whips mace.
  
 message_60:
-      text: \Com[2]\{\sinv[1]ZAMKNĘ WAS W<br>\c[11]LOCHACH\C[0] NA WIEKI!!\n<SŁODZIUTKA>
+      text: \Com[2]\{\sinv[1]ZAMKNĘ WAS W \c[11]LOCHACH\C[0] NA WIEKI!!\n<SŁODZIUTKA>
  
  
 # =========================================================================================
@@ -309,7 +309,7 @@ message_70:
       text: Jakim cudem?\! W-wy...\! Jesteście dla mnie niczym!\n<SŁODZIUTKA>
  
 message_71:
-      text: Jak śmiecie mi się przeciwstawiać...\!<br>Wtrącić ich do \c[11]LOCHÓW\C[0]!\!<br>...\! Straże!?!?\n<SŁODZIUTKA>
+      text: Jak śmiecie mi się przeciwstawiać...\!<br>Wtrącić ich do \c[11]LOCHÓW\C[0]!\!<br>...\!Straże!?!?\n<SŁODZIUTKA>
  
 #Guards sweat and step back.
 #AUBREY walks up.

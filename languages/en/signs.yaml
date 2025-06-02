@@ -101,7 +101,7 @@ message_15:
 
 
 message_16:
-      text: \n<PANI FLAMING>Skrzek!\! (\i[1]\c[11]KRÓLEWSKA BIBLIOTEKA\c[0])\!<br>Skrzek, skrzek!\! (Przypomnienie... Zakaz czytania bez pozwolenia.)
+      text: \n<PANI FLAMING>Skrzek!\! (\i[1]\c[11]KRÓLEWSKA BIBLIOTEKA\c[0])\!<br><br><br>Skrzek, skrzek!\! (Przypomnienie... Zakaz czytania bez pozwolenia.)
 
 
 message_17:
@@ -137,11 +137,11 @@ message_24:
 
 
 message_25:
-      text: \n<PAN MEWA>Fiu!\! (Fiu...uwaga!)\!<br>Fiu, fiuuu!\! (Ten basen jest nawiedzony!)
+      text: \n<PAN MEWA>Fiu!\! (Fiu-uwaga!)\!<br>Fiu, fiuuu!\! (Ten basen jest nawiedzony!)
 
 
 message_26:
-      text: \n<PAN MEWA>Fiu!\! (Fiu...uwaga!)\!<br>Fiu, fiuuu!\! (Basen jest w trakcie budowy.)
+      text: \n<PAN MEWA>Fiu!\! (Fiu-uwaga!)\!<br>Fiu, fiuuu!\! (Basen jest w trakcie budowy.)
 
 
 message_27:

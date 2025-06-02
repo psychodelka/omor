@@ -12,7 +12,7 @@ message_19:
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelOch! Bierzesz tą fuchę, \n[8]?\! W takim razie, wpadnę po ciebie później.\.\! Nie leń się, jasne?
+      text: \kelOch! Bierzesz tę fuchę, \n[8]?\! W takim razie wpadnę po ciebie później.\.\! Nie leń się, jasne?
 
 
 #Intro
@@ -102,7 +102,7 @@ message_23:
 
 
 message_24:
-      text: \n<SPEC>Niby na plakietce wyraźnie jest napisane, gdzie jest czego miejsce, ale niestety ludzie mają to w nosie...\! Echh...\! Nienawidzę pracować w hurcie...
+      text: \n<SPEC>Niby na plakietce wyraźnie jest napisane, gdzie jest czego miejsce, ale niestety ludzie mają to w nosie...\! Eeech...\! Nienawidzę pracować w hurcie...
 
 
 message_21:

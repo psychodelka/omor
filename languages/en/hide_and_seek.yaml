@@ -62,7 +62,7 @@ message_8:
 
 
 message_9:
-      text: \berCiekawe, co ten kretyn knuje tym razem?\!<br>...\! Ech...\! Dobrze, że go z nami nie ma!
+      text: \berCiekawe, co ten kretyn knuje tym razem?\!<br>...\!Ech...\! Dobrze, że go z nami nie ma!
 
 
 message_10:
@@ -357,7 +357,7 @@ message_59:
 
 
 message_60:
-      text: \n<GRZYWCIO>...\! Cóż, może następnym razem.
+      text: \n<GRZYWCIO>...\!Cóż, może następnym razem.
 
 
 message_61:
@@ -879,7 +879,7 @@ message_301:
 
 
 message_302:
-      text: \n<BYSIO>...\! Hmf!
+      text: \n<BYSIO>...\!Hmf!
 
 
 message_303:
@@ -1079,7 +1079,7 @@ message_250:
 
 
 message_251:
-      text: \}...\! Dam z siebie wszystko...\n<SZARLIN>
+      text: \}...\!Dam z siebie wszystko...\n<SZARLIN>
 
 
 message_252:
@@ -1181,7 +1181,7 @@ message_281:
 
 
 message_282:
-      text: ...\! Dajcie mi znać, kiedy go znajdziecie, okej?\!<br>Chcę wiedzieć, czy jest bezpieczny...\n<BYSIO>
+      text: ...\!Dajcie mi znać, kiedy go znajdziecie, okej?\!<br>Chcę wiedzieć, czy jest bezpieczny...\n<BYSIO>
 
 
 #DAY 2:DEEP WELL

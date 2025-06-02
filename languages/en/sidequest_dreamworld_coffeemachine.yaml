@@ -8,7 +8,7 @@ message_1:
 
 
 message_2:
-    text: \n<TELELALA>Matko! Następnym razem dajcie jakieś ostrzenie, dobra?\!<br>Nieczęsto mam gości.
+    text: \n<TELELALA>Matko! Następnym razem dajcie jakieś ostrzeżenie, dobra?\!<br>Nieczęsto mam gości.
 
 
 message_3:
@@ -28,7 +28,7 @@ message_6:
 
 
 message_7:
-    text: \n<TELELALA>Ech... No dobra.\! <br>Trzymajcie listę, na którą możecie patrzeć ile wam się żywnie podoba.
+    text: \n<TELELALA>Ech... No dobra.\! <br>Trzymajcie listę, na którą możecie patrzeć, ile wam się żywnie podoba.
 
 
 message_8:
@@ -70,7 +70,7 @@ message_25:
 
 
 message_26:
-    text: \n<TELELALA>Teraz, skoro jest już naprawiona, nie muszę już pić tej ohydnej rozpuszczalnej.
+    text: \n<TELELALA>Teraz, skoro jest już naprawiony, nie muszę już pić tej ohydnej rozpuszczalnej.
 #maybe crap instead of stuff? lol
 message_27:
     text: \n<TELELALA>Trzymajcie coś za waszą pomoc.

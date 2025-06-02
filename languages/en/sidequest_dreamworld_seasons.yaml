@@ -99,7 +99,7 @@ message_18:
 # [Nod/Shake]
 #[Nod]
 message_19:
-      text: \n<KIEŁKUN ZIMIARZ>Dokładnie! Zima to najlepsza pora roku! To, że się ze mną zgadzasz, sprawia mi radość!\! Proszę, weźcie ten prezent.\! W końcu zima to sezon obdarowywania się!
+      text: \n<KIEŁKUN ZIMIARZ>Dokładnie! Zima to najlepsza pora roku! To, że się ze mną zgadzasz, sprawia mi radość!\! Proszę, weźcie ten prezent.\! W końcu zima to czas obdarowywania się!
 
 
 message_20:
@@ -115,51 +115,51 @@ message_21:
 
 
 message_22:
-      text: \n<KIEŁKUN LECIARZ>...\! Pfft!\! Widzę, że wolisz wiosnę! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN LECIARZ>...\!Pfft!\! Widzę, że wolisz wiosnę! Nic ode mnie nie dostaniesz!
 
 
 message_23:
-      text: \n<KIEŁKUN LECIARZ>...\! Pfft!\! Widzę, że wolisz jesień! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN LECIARZ>...\!Pfft!\! Widzę, że wolisz jesień! Nic ode mnie nie dostaniesz!
 
 
 message_24:
-      text: \n<KIEŁKUN LECIARZ>...\! Pfft!\! Widzę, że wolisz zimę! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN LECIARZ>...\!Pfft!\! Widzę, że wolisz zimę! Nic ode mnie nie dostaniesz!
 
 
 message_25:
-      text: \n<KIEŁKUN WIOŚNIARZ>...\! Pfft!\! Widzę, że wolisz lato! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN WIOŚNIARZ>...\!Pfft!\! Widzę, że wolisz lato! Nic ode mnie nie dostaniesz!
 
 
 message_26:
-      text: \n<KIEŁKUN WIOŚNIARZ>...\! Pfft!\! Widzę, że wolisz jesień! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN WIOŚNIARZ>...\!Pfft!\! Widzę, że wolisz jesień! Nic ode mnie nie dostaniesz!
 
 
 message_27:
-      text: \n<KIEŁKUN WIOŚNIARZ>...\! Pfft!\! Widzę, że wolisz zimę! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN WIOŚNIARZ>...\!Pfft!\! Widzę, że wolisz zimę! Nic ode mnie nie dostaniesz!
 
 
 message_28:
-      text: \n<KIEŁKUN JESIENIARZ>...\! Pfft!\! Widzę, że wolisz wiosnę! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN JESIENIARZ>...\!Pfft!\! Widzę, że wolisz wiosnę! Nic ode mnie nie dostaniesz!
 
 
 message_29:
-      text: \n<KIEŁKUN JESIENIARZ>...\! Pfft!\! Widzę, że wolisz lato! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN JESIENIARZ>...\!Pfft!\! Widzę, że wolisz lato! Nic ode mnie nie dostaniesz!
 
 
 message_30:
-      text: \n<KIEŁKUN JESIENIARZ>...\! Pfft!\! Widzę, że wolisz zimę! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN JESIENIARZ>...\!Pfft!\! Widzę, że wolisz zimę! Nic ode mnie nie dostaniesz!
 
 
 message_31:
-      text: \n<KIEŁKUN ZIMIARZ>...\! Pfft!\! Widzę, że wolisz wiosnę! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN ZIMIARZ>...\!Pfft!\! Widzę, że wolisz wiosnę! Nic ode mnie nie dostaniesz!
 
 
 message_32:
-      text: \n<KIEŁKUN ZIMIARZ>...\! Pfft!\! Widzę, że wolisz lato! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN ZIMIARZ>...\!Pfft!\! Widzę, że wolisz lato! Nic ode mnie nie dostaniesz!
 
 
 message_33:
-      text: \n<KIEŁKUN ZIMIARZ>...\! Pfft!\! Widzę, że wolisz jesień! Nic ode mnie nie dostaniesz!
+      text: \n<KIEŁKUN ZIMIARZ>...\!Pfft!\! Widzę, że wolisz jesień! Nic ode mnie nie dostaniesz!
 
 
 #If Player talks to their chosen favorite season:

@@ -53,7 +53,7 @@ message_101:
 
 
 message_5:
-      text: \n<BRWIASTY>Hmm...\! Rozmowa o pracę to za dużo zamieszania!\! <br>Ogarniacie materiał z II klasy podstawówki, prawda?
+      text: \n<BRWIASTY>Hmm...\! Rozmowa o pracę to za duże zamieszanie!\! <br>Ogarniacie materiał z II klasy podstawówki, prawda?
 
 
 message_7:
@@ -99,19 +99,19 @@ message_15:
 
 
 message_16:
-      text: W zdaniu:\ “Czytaj swoją książkę cicho i powoli.”, jaką częścią mowy jest wyraz “cicho”?
+      text: Jaką częścią mowy jest wyraz “cicho” w zdaniu:\ “czytaj swoją książkę cicho i powoli”?
 
 
 message_17:
-      text: A) przymiotnik
+      text: A) przymiotnikiem
 
 
 message_18:
-      text: B) przysłówek
+      text: B) przysłówkiem
 
 
 message_19:
-      text: C) przyimek
+      text: C) przyimkiem
 
 
 message_20:
@@ -123,15 +123,15 @@ message_21:
 
 
 message_22:
-      text: A) “Bakłażany smakują lepiej, kiedy jest podgrzany.”
+      text: A) “Bakłażany smakują lepiej, kiedy jest podgrzany”
 
 
 message_23:
-      text: B) “Jest zdecydowanie najsmaczniejsze od tofu.”
+      text: B) “Jest zdecydowanie najsmaczniejsze od tofu”
 
 
 message_24:
-      text: C) “Moim zdaniem bakłażan jest smaczniejszym warzywem.”
+      text: C) “Moim zdaniem bakłażan jest smaczniejszym warzywem”
 
 
 #Correct choice:
@@ -172,7 +172,7 @@ message_31:
 
 
 message_32:
-      text: \n<BRWIASTY>Cześć! Cześć\! JOY! Jak ci idzie?\! <br>Czy ci korepetytorzy są dla ciebie w ogóle pomocni?
+      text: \n<BRWIASTY>Cześć! Cześć!\! JOY! Jak ci idzie?\! <br>Czy ci korepetytorzy są w ogóle pomocni?
 
 
 message_33:
@@ -180,7 +180,7 @@ message_33:
 
 
 message_34:
-      text: \n<BRWIASTY>Świetna robota!\! Powinniście pomyśleć nad udzielaniem korepetycji na pełen etat\! <br>Oto twoja zapłata!
+      text: \n<BRWIASTY>Świetna robota!\! Powinniście pomyśleć nad udzielaniem korepetycji na pełen etat.\! <br>Oto zapłata!
 
 
 message_35:
@@ -196,4 +196,4 @@ message_37:
 
 
 message_1000:
-      text: Ech...\! Polska język trudna język...
+      text: Ech...\! Polska język, trudna język...

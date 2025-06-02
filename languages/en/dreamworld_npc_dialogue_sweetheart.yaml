@@ -48,7 +48,7 @@ message_205:
 message_206:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: \n<HERO>Myśl, HERO, myśl!\! Dawaj... co robić?\!<br>...\! O, wiem!
+      text: \n<HERO>Myśl, HERO, myśl!\! Dawaj... co robić?\!<br>...\!O, wiem!
 
 
 
@@ -56,7 +56,7 @@ message_206:
 message_207:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \n<HERO>...\! Ekhem...\! Muszę się sprzeciwić, waćpanie, gdyż zakrawa mi to na omylenie nas z kimś innym! No, no, zgadza się.
+      text: \n<HERO>...\!Ekhem...\! Muszę się sprzeciwić, waćpanie, gdyż zakrawa mi to na omylenie nas z kimś innym! No, no, zgadza się.
 
 
 
@@ -90,7 +90,7 @@ message_210:
 
 
 message_211:
-      text: \n<HAROLD>A więc dalej w drogę.\! Ja kontynuuję swój patrol.\! Wy również, moi drodzy, kierujcie się w stronę waszego celu. Chyba nie chcecie, by jej wysokość SŁODZIUTKA zauważyła...
+      text: \n<HAROLD>A więc dalej, w drogę.\! Ja kontynuuję swój patrol.\! Wy również, moi drodzy, kierujcie się w stronę waszego celu. Chyba nie chcecie, by jej wysokość SŁODZIUTKA zauważyła...
 
 
 
@@ -973,7 +973,7 @@ message_403:
 
 
 message_404:
-      text: \n<RÓŻOWY? KIEŁKUN>\}\"Tutaj 'WIELKIECHŁOPY' do 'ALFA-3'...\! to już koniec.\! Przerwać misję\".\! \quake[1]Bzzt...\quake[0]
+      text: \n<RÓŻOWY? KIEŁKUN>\}\"Tutaj 'WIELKIECHŁOPY' do 'ALFA-3'...\! to już koniec.\! Przerwać misję\"\! \quake[1]Bzzt...\quake[0]
 
 
 

@@ -276,7 +276,7 @@ message_173:
 message_174:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelTa, totalnie!\! Super...\! tylko może kiedy indziej.\! Mój przyjaciel z dzieciństwa, \n[8], wyprowadza się stąd za kilka dni, więc ten dzień spędzamy wspólnie.\! W każdym razie, na pewno później się z tobą zgadam!
+      text: \kelTa, totalnie!\! Super...\! tylko może kiedy indziej.\! Mój przyjaciel z dzieciństwa, \n[8], wyprowadza się stąd za kilka dni, więc ten dzień spędzamy wspólnie.\! W każdym razie na pewno później się z tobą zgadam!
 
 
 message_175:
@@ -865,7 +865,7 @@ message_490:
 
 
 message_491:
-      text: \n<SARA>W każdym razie, cześć!\! Jestem SARA! Miło mi was poznać!
+      text: \n<SARA>W każdym razie cześć!\! Jestem SARA! Miło mi was poznać!
 
 
 #Talk to SARAH again
@@ -1721,7 +1721,7 @@ message_1023:
 
 
 message_1024:
-      text: \n<KARINA>O, SZYMON... Jesteś taki uroczy. Czym sobie na ciebie zasłużyłam?
+      text: \n<KARINA>O, SZYMONIE... Jesteś taki uroczy. Czym sobie na ciebie zasłużyłam?
 
 
 
@@ -1870,7 +1870,7 @@ message_1103:
 
 
 message_1104:
-      text: \n<KARINA>O, SZYMON... Jesteś taki uroczy. Czym sobie na ciebie zasłużyłam?
+      text: \n<KARINA>O, SZYMONIE... Jesteś taki uroczy. Czym sobie na ciebie zasłużyłam?
 
 
 

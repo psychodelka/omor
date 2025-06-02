@@ -47,7 +47,7 @@ message_8:
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 38
-      text: Cześć BASIL, tutaj HERO.\!<br>Jest ze mną KEL, AUBREY i \n[8].\! <br>Przyszliśmy cię odwiedzić!\her
+      text: Cześć, BASIL, tutaj HERO.\!<br>Jest ze mną KEL, AUBREY i \n[8].\! <br>Przyszliśmy cię odwiedzić!\her
  
 message_21:
       text: ...

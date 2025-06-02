@@ -34,7 +34,7 @@ message_6:
       text: Nie ma sprawy! Cieszymy się, że jesteś cała i zdrowa.<br>\!Co nie, CHARLIE?\ang
  
 message_7:
-      text: \}...\! No.\{\cha
+      text: \}...\!No.\{\cha
  
 #ANGEL turns to AUBREY.
  
@@ -135,7 +135,7 @@ message_44:
 message_45:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: W takim razie, wieczorem wpadniemy tu w odwiedziny.\! Do zobaczenia, POLLY!\kel
+      text: W takim razie wieczorem wpadniemy tu w odwiedziny.\! Do zobaczenia, POLLY!\kel
  
 message_46:
       text: Dobrze, do zobaczenia!\n<POLLY>
@@ -196,7 +196,7 @@ message_55:
 message_70:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: ...\! To tutaj MARI...\kel
+      text: ...\!To tutaj MARI...\kel
  
 message_71:
       faceset: MainCharacters_Faraway
@@ -257,12 +257,12 @@ message_80:
 message_81:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: ...\! Obawiam się, że nigdy się tego nie dowiemy.\aub
+      text: ...\!Obawiam się, że nigdy się tego nie dowiemy.\aub
  
 message_82:
       faceset: MainCharacters_Faraway
       faceindex: 40
-      text: ...\! Hej...\! może...\! chodźmy dalej.\her
+      text: ...\!Hej...\! może...\! chodźmy dalej.\her
  
 #STUMP
  
@@ -373,12 +373,12 @@ message_114:
 message_115:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: ...\! Och, MARI...\! Tak mi jej brakuje.\her
+      text: ...\!Och, MARI...\! Tak mi jej brakuje.\her
  
 message_116:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: ...\! Też...\aub
+      text: ...\!Też...\aub
  
 message_117:
       faceset: MainCharacters_Faraway
@@ -506,7 +506,7 @@ message_138:
 message_139:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aub...\! W-właściwie to nieważne...\! Zapomnij o tym.
+      text: \aub...\!W-właściwie to nieważne...\! Zapomnij o tym.
  
 #AUBREY walks to door and walks outside.
 #*pause*

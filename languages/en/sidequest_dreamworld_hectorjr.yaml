@@ -23,7 +23,7 @@ message_0:
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 35
-      text: \n<HEKTOR>...\! Ach...\! KEL...\! Mój stary druhu...\! Bardzo mi przykro, ale...\! obawiam się, że zmieniły się okoliczności i nie jestem w stanie ci towarzyszyć.\! Widzisz...
+      text: \n<HEKTOR>...\!Ach...\! KEL...\! Mój stary druhu...\! Bardzo mi przykro, ale...\! obawiam się, że zmieniły się okoliczności i nie jestem w stanie ci towarzyszyć.\! Widzisz...
 
 
 # More pet rocks appear in their holes
@@ -41,7 +41,7 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 35
-      text: \n<HEKTOR>\Com[2]Czekaj!\! \c[13]HEKTORZE MŁODSZY\c[0]!\! Co ty wyprawiasz?\!<br>...\! Mówisz, że chcesz iść z nimi?\!<br>Że nie chcesz spędzić tutaj reszty życia?
+      text: \n<HEKTOR>\Com[2]Czekaj!\! \c[13]HEKTORZE MŁODSZY\c[0]!\! Co ty wyprawiasz?\!<br>...\!Mówisz, że chcesz iść z nimi?\!<br>Że nie chcesz spędzić tutaj reszty życia?
 
 
 message_4:

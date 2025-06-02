@@ -19,7 +19,7 @@ message_1:
 message_2:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \marOstatnio NOSKA opowiadała mi o słodkim, małym listku, którego spotkała...\! ale...\! gdy próbowała się z nim zaprzyjaźnić, chciał mówić jedynie o tym, jak bardzo nienawidzi króliczków...
+    text: \marOstatnio NOSKA opowiadała mi o słodkim, małym listku, którego spotkała...\! ale...<br><br>Gdy próbowała się z nim zaprzyjaźnić, jedyne, o czym mówił, to jak bardzo nienawidzi króliczków...
 
 
 message_3:
@@ -551,7 +551,7 @@ message_142:
 message_143:
     faceset: MainCharacter_Mari
     faceindex: 5
-    text: \marCo jeśli nagle, podczas jedzenia, nabrałabym ochoty na poznanie anatomii wieloryba?\! Co wtedy?
+    text: \marCo, jeśli nagle, podczas jedzenia, nabrałabym ochoty na poznanie anatomii wieloryba?\! Co wtedy?
 
 
 message_144:

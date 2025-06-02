@@ -78,7 +78,7 @@ message_11:
 message_12:
       faceset: MainCharacters_DreamWorld
       faceindex: 20
-      text: \kel...\! That doesn't sound like HERO.\!<br>He would have told us if he was leaving.
+      text: \kel...\!That doesn't sound like HERO.\!<br>He would have told us if he was leaving.
 
 message_13:
       faceset: MainCharacters_DreamWorld
